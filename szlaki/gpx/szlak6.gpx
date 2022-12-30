@@ -1,0 +1,612 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.56057187" lon="16.22593190">
+<name>184.60</name>
+<desc>W Czaplinku jest kilka miejsc gdzie można wypożyczyć kajaki, zabiwakować, a potem rozpocząć spływ.</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="53.60131112" lon="16.19482928">
+<name>180.70</name>
+<desc>W Starym Drawsku są conajmniej dwa, całkiem dobrze zaopatrzone sklepy. W sezonie czynne 7-23.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="53.58961301" lon="16.13210141">
+<name>176.60</name>
+<desc>Biwak nad j. Drawsko. Dobre dojście do wody, miejsce na ognisko, ale trochę nierówna łąka. Ogólnie duże i fajne, a dodatkowo nie znalazł się właściciel.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.59266881" lon="16.12685854">
+<name>176.10</name>
+<desc>Wypływ Drawy z j. Drawsko (zatoka Rzepowska), dobrze oznaczony dużym, białym kwadratem, widocznym z kilku kilometrów</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.58754129" lon="16.11779936">
+<name>175.20</name>
+<desc>Ujście Drawy do j. Rzepowskiego</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.59021089" lon="16.10179807">
+<name>174.10</name>
+<desc>Wypływ Drawy z j. Rzepowskiego, oznaczone dużym znakiem. Duża łąka po lewej, koło ujścia Drawy z j. Rzepowskiego.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.59024188" lon="16.09642944">
+<name>173.40</name>
+<desc>Betonowy most drogowy, a pod mostem kamieniste bystrze. Przed mostem, na lewym brzegu jest duże i zorganizowane pole biwakowe. Wiaty, stoliczki i inne udogodnienia. W pobliżu dwa całkiem dobrze zaopatrzone sklepy wiejskie.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.58972816" lon="16.08164195">
+<name>172.20</name>
+<desc>Z prawej ujście rzeczki Miedznik</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.57552433" lon="16.07450937">
+<name>170.10</name>
+<desc>Ruiny spiętrzenia wody, o wysokości ok. 2m, do młyna. Woda spływa rozbijająć się po kamieniach, trudność około WW3-4, bez kasku i pozostałego sprzetu asekuracyjnego nie podchodzić. Przenoska 30m po lewym brzegu. Wygodne wyjście z wody i bardzo wygodne zejście</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.57427095" lon="16.07571669">
+<name>169.90</name>
+<desc>Most drogowy w Głęboczku</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.57225831" lon="16.07512509">
+<name>169.60</name>
+<desc>Ujście Drawy do j. Krosino</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.55259903" lon="16.06102344">
+<name>167.20</name>
+<desc>Wypływ Drawy z j. Krosino. Nieoznaczone, po lewej stronie od przystani i ośrodka.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.54686645" lon="16.06083549">
+<name>166.50</name>
+<desc>Stalowo-drewniany most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.54531479" lon="16.05938893">
+<name>166.30</name>
+<desc>Rozgałęzienie Drawy na dwie odnogi, prosto można popłynąć na j. Wilczkowo a w prawo skrót przez trzcinowisko.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.54305150" lon="16.04629244">
+<name>164.20</name>
+<desc>Most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.53994563" lon="16.01335210">
+<name>161.40</name>
+<desc>Pierwszy most w Złocieńcu, a właściwie na jego przedmieściach. Nie ma koło niego biwaku.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.53822420" lon="16.01219063">
+<name>161.20</name>
+<desc>Hotel Stannica Wodna. Obok duża łąka, na której można biwakować, a w stannicy wykupić ciepły prysznic za 5zł. Na skraju miasta, uważać na kradzieże.</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="53.53592032" lon="16.00729858">
+<name>160.70</name>
+<desc>Mostek dla pieszych.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.53536805" lon="16.00491242">
+<name>160.50</name>
+<desc>Most betonowy, drogowy. Pod mostem metrowe spiętrzenie wody. Przy odpowiednim stanie wody pływalne: WW2-3. Uwaga na rury pod mostem. Przenoska 70m po asfalcie na lewym brzegu. Kiepskie wyjście z wody, jak i miejsce na wodowanie. W około wielu chłopców z wózkami, którzy chętnie pomogą za drobną opłatą. W Złocieńcu jest dużo dobrze zaopatrzonych sklepów, a także kilka barów, ale nic rewelacyjnego. Lecznica i kilka aptek</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.53448213" lon="15.99390022">
+<name>159.60</name>
+<desc>Wysoki, kamienny most kolejowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.53249798" lon="15.98542922">
+<name>158.80</name>
+<desc>Mostek na polnej drodze.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.53175321" lon="15.96144312">
+<name>156.30</name>
+<desc>Miejsce biwakowe.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.53156458" lon="15.94562846">
+<name>154.60</name>
+<desc>Most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.53250655" lon="15.94477951">
+<name>154.50</name>
+<desc>Zorganizowane pole biwakowe, namioty wojskowe, stoły, wiaty, sławojka, pomost. Minusy: kiepskie dojście do wody i brak lasu. 
+Wg informacji otrzymanych od mariolazosia@interia.pl ( pseudonim - marianna) w dniu 04.03.2011 r.; biwak w Rzęśnicy (lewy brzeg) nie ma tam żadnych namiotów wojskowych i nie było (pływam regularnie).
+
+</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.54873104" lon="15.92139253">
+<name>151.20</name>
+<desc>Ujście rzeki Kokna (Koczynka) do Drawy.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.54782208" lon="15.91752237">
+<name>150.90</name>
+<desc>Zorganizowany biwak "Czubajka" na prawym brzegu. Wysoka skarpa i pomost. Wg informacji od mariolazosia@interia.pl (pseudonim - marianna) w dniu 04.03.2011 r.; obiekt z dojazdem, dobrze zorganizowany, sławojki, stoły, ławki, długi pomost, można przycumować na raz nawet dużym spływem.
+</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.53959422" lon="15.88215741">
+<name>146.00</name>
+<desc>Most betonowy na drodze między wsiami Dalewo i Suliszewo. Za mostem, na lewym brzegu, ładne, dzikie miejsce biwakowe.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.53673741" lon="15.87472654">
+<name>145.20</name>
+<desc>Awaryjne miejsce na biwak na prawym brzegu. Wielkie drzewo zwalone do wody i być może przenoska.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.53853345" lon="15.85280926">
+<name>143.50</name>
+<desc>Most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.54119189" lon="15.83121492">
+<name>140.90</name>
+<desc>Dzikie miejsce biwakowe na lewym brzegu, kiepskie dojście do wody, ale sama łąka sympatyczna.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.53915583" lon="15.82717250">
+<name>140.50</name>
+<desc>Kładka betonowa z kołami.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.53246869" lon="15.82143416">
+<name>139.40</name>
+<desc>Biwak na lewym brzegu. Z dużym krzyżem, wiata, stoły. Do okoła zabudowania.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.53054390" lon="15.81609473">
+<name>138.80</name>
+<desc>Pierwszy z całej serii mostów. W Drawsku jest dużo sklepów. Żeby zrobić zakupy najlepiej zatrzymać się przy betonowym nabrzeżu w samym centrum. Warty polecenia bar w Drawsku już za centrum, na prawym brzegu, widoczny z rzeki. Chociaż porównywałem z innymi.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.53031991" lon="15.81438418">
+<name>138.70</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.53012091" lon="15.81319957">
+<name>138.60</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>138.50</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.52705308" lon="15.81081781">
+<name>138.00</name>
+<desc>Mostek - kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.52565981" lon="15.80319064">
+<name>137.30</name>
+<desc>JĘDRKOWA PRZYSTAŃ. Znajduje się za ostatnim mostem w Drawsku na wysokości szkoły zawodowej, na końcu miasta na lewym brzegu rzeki. Teren ogrodzony balustradą z żerdzi, posiada dwa niezależne wyjścia z wody po łagodnym brzegu i podzielony jest na dwie części - pole namiotowe i część przeznaczoną na ogniska. Na części przeznaczonej pod pole
+namiotowe znajduje się miejsce ogniskowe z ławami i stołami na 40 osób, natomiast część przeznaczona na ogniska wyposażona jest w palenisko z ławami i stołami dla 100 osób.Ponadto pole wyposażone jest w sanitariat przenośny typu TOy-TOY oraz pojemniki do sortowania odpadów. Położone jest przy ul.Staszica w odległości 100 m od drogi asfaltowej.  Po drugiej stronie rzeki w odległości ok 300 m znajduje się sklep Lewiatan, kawałek dalej bar. Pole namiotowe o powierzchni 20 ar zapewnia dużą swobodę biwakowania. </desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.52510561" lon="15.80195666">
+<name>137.20</name>
+<desc>Na prawym brzegu, szkoła, która w wakacje prowadzi schronisko młodzieżowe.</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="53.51891415" lon="15.79165510">
+<name>136.00</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.51537518" lon="15.79018433">
+<name>135.50</name>
+<desc>Elektrownia i spiętrzenie wody. Bardzo niewygodna przenoska conajmniej 30 metrów, warto spróbować kanałem po prawej.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.51134249" lon="15.78950482">
+<name>134.90</name>
+<desc>Drewniana kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.50409021" lon="15.81514169">
+<name>132.20</name>
+<desc>Drewniano-stalowa kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.50108427" lon="15.81873772">
+<name>131.00</name>
+<desc>Biwak na prawym brzegu. Oficjalny leśnictwa. Wysoka skarpa, nierówna polana, bez udogodnień. 
+Wg informacji otrzymanych w dniu 23.08.2010 r. od Jędrka: "To pole namiotowe nie istnieje - nie pamiętam go od jakichś 15 lat - nic po nim nie zostało"</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.49797519" lon="15.81216948">
+<name>129.70</name>
+<desc>Biwak na prawym brzegu. Zorganizowany, płatny. Ławki, śmietnik, wc, opłata na miejscu. Kiepskie dojście do wody.
+Wg informacji Właściciela biwaku z dnia dnia 23.08.2010 "Pole namiotowe JĘDRKOWE ZAKOLE (http:/jedrkowe-zakole.strefa.pl) - poprawiono dojścia do wody, wykonano jedno dodatkowe na początku pola, i jedno na końcu z przeznaczeniem do odbioru kajaków/wodowania celem zakończenia i rozpoczynania spływów (5 niezależnych dojść do wody). W tym roku położono asfalt - dogodny dojazd (tylko 300m drogi gruntowej). Wigwam na 30 osób ze stołami i paleniskiem wewnątrz oraz wiata z murowaną kuchnią - zawsze przygotowane drewno dla spóźnionych i zmoczonych turystów, część pola ogrodzona siatką dla grup z małymi dziećmi, ostatni sklep przy Drawie do granicy poligonu (Mielenko - 15min marszu) bez konieczności zbaczania ze szlaku na drugi brzeg J.Lubie, 4 niezależne paleniska - duża swoboda biwakowania. Most betonowy w Mielenku, 200 m poniżej biwaku.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.49572606" lon="15.80996979">
+<name>129.30</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.47974913" lon="15.82429077">
+<name>124.00</name>
+<desc>Ujście Drawy do j. Lubie. Czasami strasznie zamulone.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.46986364" lon="15.85885369">
+<name>122.00</name>
+<desc>Biwak na j. Lubie naprzeciwko wyspy Rybaki, w zatoczce, zorganizowany, zacieniony.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.45543137" lon="15.89649816">
+<name>119.80</name>
+<desc>Biwak na cyplu naprzeciwko Karwic, duży i ładny, ale z dojazdem dla samochodów. Pozostałości dwóch domów. W sezonie pełny i głośny. Wg informacji od mariolazosia@interia.pl (pseudonim - marianna) w dniu 04.03.2011 r.; biwak na przeciw Karwic nie jest przeludniony, obiekt podzielony na kilka odrębnych biwakowisk, dobrze wyposażony, na złą pogodę jedyna w okolicy duża wiata z kominkiem w środku!
+
+</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.45543137" lon="15.89649816">
+<name>118.00</name>
+<desc>Cypel na prawym brzegu za Karwicami. Zakaz biwakowamia, regularne kontrone służby leśnej - gdyby nie to, miejsce byłoby super. Wg informacji od mariolazosia@interia.pl (pseudonim - marianna) w dniu 04.03.2011 r.; faktycznie ostro kontrolowane, ale tuż za nim jest piękna zatoka na której jest duże dobrze zorganizowane pole namiotowe "Murzynka". Wszystkie wymienione obiekty mają walory położenia w lesie.
+
+
+</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.44388346" lon="15.93352610">
+<name>115.50</name>
+<desc>Przesnyk między trzcinami na małe jeziorko przy wyjściu z Lubia.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.43861905" lon="15.93198176">
+<name>114.90</name>
+<desc>Ostateczny wypływ Drawy z j. Lubie.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.43799890" lon="15.93106090">
+<name>-1.00</name>
+<desc>Biwak na prawym brzegu. Oficjalny i zacieniony.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.43657426" lon="15.92652282">
+<name>114.40</name>
+<desc>Most betonowy, czyli początek poligonu, a dokładnie jego części otwartej.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.43656660" lon="15.92666210">
+<name>-1.00</name>
+<desc>Biwak koło mostu</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.41986180" lon="15.91886220">
+<name>-1.00</name>
+<desc>Biwak na lewym brzegu, oficjalny, bardzo dobre dojście do wody, ładna polana w lesie, pomost.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.42177150" lon="15.91659840">
+<name>-1.00</name>
+<desc>Oficjalny biwak na prawym brzegu. Polana na skarpie. Trudne wyjście z wody i wyciągnięcie kajaków.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.40843167" lon="15.89683637">
+<name>106.50</name>
+<desc>Ujście z lewej rzeczki Studzienicy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.41146650" lon="15.89295740">
+<name>105.90</name>
+<desc>Most drewniany, lekko się zawalający. Przed mostem po lewej polanka, na której można, od biedy, zabiwakować.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.40284051" lon="15.87039547">
+<name>102.20</name>
+<desc>Ujście Drawy do j. Wielkie Dębno.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.40129774" lon="15.85790813">
+<name>101.30</name>
+<desc>Przesmyk pomiędzy jeziorami Wielkie Dębno i Małe Dębno.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.40336080" lon="15.85083600">
+<name>100.30</name>
+<desc>Zorganizowany biwak na prawym brzegu jeziora Małe Dębno. Dobre dojście do wody, brak udogodnień, leśna polana, dojazd dla samochodów</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.40402070" lon="15.84354580">
+<name>100.00</name>
+<desc>Duży most drogowy na trasie Kalisz Pomorski - Drawsko Pomorskie. Początek odcinka zamkniętego poligonu.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.40523012" lon="15.83747698">
+<name>99.80</name>
+<desc>Kraniec jeziora</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.40235730" lon="15.81324172">
+<name>97.90</name>
+<desc>Most na poligonie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.37839913" lon="15.77272152">
+<name>93.30</name>
+<desc>Po prawej rozpoczyna się koryto Starej Drawy, zagrodzone zastawkami.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.37244958" lon="15.77340559">
+<name>92.60</name>
+<desc>Most na poligonie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.37143391" lon="15.77356497">
+<name>92.50</name>
+<desc>Most na poligonie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.36522318" lon="15.77226544">
+<name>91.80</name>
+<desc>Początek jeziora</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.35191361" lon="15.77466797">
+<name>90.30</name>
+<desc>Most na poligonie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.35030941" lon="15.77433934">
+<name>90.10</name>
+<desc>Most na poligonie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.34952928" lon="15.77411374">
+<name>90.00</name>
+<desc>Przenoska 150 metrów po lewym brzegu przy elektrowni.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="53.34651323" lon="15.77334184">
+<name>89.70</name>
+<desc>Początek jeziora</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.31346013" lon="15.77291237">
+<name>85.00</name>
+<desc>Most drogowy kończący poligon. W Prostyni jest wiejski sklep.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.30929112" lon="15.77580478">
+<name>84.60</name>
+<desc>Ujście Starej Drawy.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.30427676" lon="15.77747740">
+<name>84.00</name>
+<desc>Mosty kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.30400106" lon="15.77714898">
+<name>83.90</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.28111738" lon="15.77143603">
+<name>80.80</name>
+<desc>Z lewej strony ujście rzeczki Drawicy płynącej z jeziora Mąkowarsko - zacisznego, zalesionego, stanowiącego doskonałą jednodniową odskocznię dla przeludnionej Drawy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.27015568" lon="15.77348014">
+<name>79.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.23336277" lon="15.77032739">
+<name>72.40</name>
+<desc>Mostek na polnej drodze.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.22584698" lon="15.76522046">
+<name>71.30</name>
+<desc>Ujście Drawy do j. Grażyna</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.21739687" lon="15.76374620">
+<name>70.40</name>
+<desc>W Drawnie jest kilka sklepów.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="53.20576250" lon="15.72835560">
+<name>-1.00</name>
+<desc>Oficjalny i zorganizowany biwak na samym zachodnim końcu jeziora Adamowo. Bardzo przyjemny tym bardziej, że nie ma dojazdu dla samochodów</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.20901884" lon="15.75030355">
+<name>69.10</name>
+<desc>Dobrze widoczny wypływ Drawy z j. Adamowo.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.20581638" lon="15.75710679">
+<name>68.50</name>
+<desc>Stalowy most kolejowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.20302697" lon="15.76227696">
+<name>68.00</name>
+<desc>Betonowy most drogowy. Pod mostem bystrze. Przed mostem na lewym brzegu znajduje się stanica DPN</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.19016810" lon="15.77277300">
+<name>66.00</name>
+<desc>Drewniana kładka dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.17643624" lon="15.80059855">
+<name>63.40</name>
+<desc>Betonowy most, a za nim krótkie bystrze (zimą 2019 most jest w przebudowie). Na lewym brzegu 200m, od rzeki jest sklep. Biwakowanie w Barnimiu przy moście jest zabronione, możliwy jedynie przystanek.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.16842160" lon="15.79337930">
+<name>61.90</name>
+<desc>Betonowe ruiny budowli hydrotechnicznej</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.15524066" lon="15.80757681">
+<name>59.80</name>
+<desc>Biwak "Barnimie" na terenie starej bindugi (wszystkie biwaki w DPN są zlokalizowane w miejscach starych bindug ) ok. 4 km za mostem w Barnimiu położony na prawym, wysokim, zarośniętym brzegu. W sezonie należy odradzać wyprawy podczas weekendów: wulgarne, pijane towarzystwo "bawiące" się do wczesnych godzin porannych (!). Mimo opłaty, nadzoru pracowników DPN nie należy oczekiwać</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.14189672" lon="15.84781713">
+<name>56.30</name>
+<desc>Drewniana kładka koło miejscowości Konotop. W pobliżu wiata, pomost i ławki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.15036231" lon="15.86842669">
+<name>52.20</name>
+<desc>Z lewej strony do Drawy uchodzi rzeka Słopica</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.14720921" lon="15.87381304">
+<name>50.80</name>
+<desc>Betonowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.14490133" lon="15.87440759">
+<name>50.50</name>
+<desc>Bardzo duży, oficjalny biwak DPN "Bogdanka". W sezonie bardzo mocno obciążony. Dobry punkt gastronomiczny. Z lewej strony do Drawy wpada rzeka Korytnica</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.10789702" lon="15.90454977">
+<name>43.80</name>
+<desc>Z prawej w korycie wielki głaz narzutowy, tzw "Wydrzy Głaz"</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.10242118" lon="15.91904250">
+<name>42.50</name>
+<desc>Oficjalny biwak DPN "Sitnica". Duży i zorganizowany, na lewym brzegu</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.08276415" lon="15.91289523">
+<name>39.60</name>
+<desc>Betonowy most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.07096911" lon="15.92717709">
+<name>36.50</name>
+<desc>Oficjalny biwak DPN "Pstrąg". Zorganizowany, na prawym wysokim brzegu</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.04617169" lon="15.93373858">
+<name>33.20</name>
+<desc>Drewniany mostek tzw "most niskowodny", a pod nim małe bystrze.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.04068457" lon="15.93917738">
+<name>32.50</name>
+<desc>Zapora o wysokości 5m i elektrownia wodna Kamienna. Przenoska po prawej stronie elektrowni. Dosyć wygodna, około 100m po slipie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.03279309" lon="15.94534306">
+<name>31.30</name>
+<desc>Betonowy most drogowy pomiędzy Starym Osiecznem a Głuskiem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.03068606" lon="15.94322622">
+<name>30.60</name>
+<desc>Oficjalny biwak "Kamienna". Zorganizowany i trochę mniej popularny biwak DPN. Lewy brzeg - ładnie.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.01931041" lon="15.95513038">
+<name>27.30</name>
+<desc>Ujście Płocicznej do Drawy. Kilkadziesiąt metrów w górę Płocicznej znajduje się wodowskaz przy prawym brzegu rzeki. Poziom 18 na wodowskazie gwarantuje bardzo dobre warunki wodne.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.00704881" lon="15.95396938">
+<name>25.20</name>
+<desc>Biwak na lewym brzegu, komercyjny, zorganizowany. Koło biwaku i szosy jest bar, a nawet restauracja. Bar i restauracja w lipcu 2007 nie były czynne (w tygodniu).</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.00599659" lon="15.95348824">
+<name>25.10</name>
+<desc>Drogowy most stalowy o konstrukcji skrzynkowej na ruchliwej drodze nr 22. Najbliższe większe miejscowości przy tej drodze to Dobiegniew i Człopa.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.98987150" lon="15.95272780">
+<name>23.00</name>
+<desc>Łąka na prawym brzegu, nadaje się do biwakowania, ale niestety możliwy dojazd samochodem.
+Uwaga! biegające zdziczałe 2 konie, 2 krowy i owca. My też nie chcieliśmy w to uwierzyć, ale po wieczornym spotkaniu na noc wykonaliśmy wokół namiotów barykady ze ściętych drzewek</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.97168529" lon="15.94607492">
+<name>19.20</name>
+<desc>Z prawej ujście Mierzęckiej Strugi do Drawy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.95349153" lon="15.96476563">
+<name>15.10</name>
+<desc>Oznakowane pole biwakowe po prawej</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.94597824" lon="15.97006341">
+<name>13.80</name>
+<desc>Leśnictwo Dębina, oznakowana agroturystyka po lewej</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.92526063" lon="15.97526927">
+<name>10.50</name>
+<desc>Dwa pola namiotowe. Oba na prawym brzegu. Pierwsze utrzymywane przez strażaków (ładniej położone, ze stołami), pobierają niewielkie opłaty, ale drewno trzeba sobie samemu zorganizować (przyciągnąć z okolicznego lasu). Po drodze (po drewno) warto zabaczyć ruiny bunkrów Wału Pomorskiego. Kościół z 1715 roku w stanie tragicznym, sprzedany prywatnemu właścielowi (Villi Drawa). Nie ma sklepu (choć przewodniki mówią o 2), dopiero w Drawinach.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.88642537" lon="15.97777947">
+<name>4.50</name>
+<desc>Z lewej strony do Drawy wpada rzeka Człopica (Człapia)</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.88593284" lon="15.97801511">
+<name>4.50</name>
+<desc>Dwa biwaki po prawej i lewej stronie rzeki. Przy biwaku po lewej znajduje się bar i wypożyczalnia kajaków</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.88547094" lon="15.97754580">
+<name>4.40</name>
+<desc>Kratownicowy, wąski most drogowy. 
+Pod mostem znajduje się wodowskaz DRAWINY objęty odczytem automatycznym, przez co można obserwować stany wód Drawy w internetowym serwisie pogodowym IMGW-PIB. Poziom 69 na wodowskazie gwarantuje doskonałe warunki wodne.
+Do stacji PKP w Krzyżu drogą około 2,5 km</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.88512093" lon="15.97712736">
+<name>4.30</name>
+<desc>Most kolejowy, pod nim bystrze.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.87191305" lon="15.98216077">
+<name>2.60</name>
+<desc>Most drogowy z wygodnym dostępem do wody. Za mostem po prawej stronie znajduje się głęboka zatoka, do której można dojechać samochodem.
+Do stacji PKP w Krzyżu około 3 km</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.86752714" lon="15.98498204">
+<name>1.70</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.85812708" lon="15.98954470">
+<name>0.00</name>
+<desc>Ujście Drawy do Noteci.
+Spływ można zakończyć przy śluzie Krzyż (15 min w lewo, w górę Noteci), gdzie można dojechać samochodem</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="175" nazwa="Ryszka" wersja="1">
+<opis>Prawy dopływ Wdy, do której uchodzi poprzez jezioro Wierzchy, poniżej Tlenia. Malownicza rzeczka, płynąca stosunkowo głęboką doliną, rościnającą powierzchnię polodowcowego sandru. Niemalże na całej długości przepływa przez tereny zalesione, dzięki czemu posiada charakter rzeki zwałkowej. Miejscami przyspiesza, a kręcąc podmywa brzegi, wypłukując z nich mniejsze i większe głazy naniesione niegdyś przez lodowiec. Zazwyczaj nie ma w Ryszce wody na tyle, żeby nią swobodnie pływać, tu jednak z pomocą przychodzi uprzejmy Właściciel MEW Bobryszka, dla którego nie ma większego problemu aby poprawić stosunki wodne poniżej elektrowni. Warto wiedzieć, że nie jest to obowiązkiem Pana Właściciela, dlatego dobrym zwyczajem jest odwdzięczyć się w dowolny sposób za tę przysługę. Jedyne wodowskazy jakie udało się wypatrzeć znajdują się przy młynie Zgorzały Most. W dniu spływu wodowskaz na górnej wodzie pokazywał poziom 355, natomiast na dolnej poziom 862. Przy tych wskazaniach wygodnie płynie się jedynie w dół, krótkim odcinkiem do jeziora Wierzchy. Powyżej rozlewiska przed Zgorzałym Mostem, mimo upustu z MEW Bobryszka wody miejscami brakuje, często szlifuje się więc dnem po kamiennych bystrzach, piaszczystych łachach i wiesza na drzewach. Kilka ciekawostek związanych z rzeką można znaleźć na stronie poświęconej MEW Bobryszka - bobryszka.pl
+Odcinek z MEW Bobryszka do jeziora Wierzchy zajmuje około 2,5h niespiesznego spływu.</opis> 
+    <punkt id="5667" miejscowosc="Mszano" 
+      ns="53.56144258" we="18.22461201" km="9.1" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="jaz" kolejnosc="-1">MEW Bobryszka z malowniczo położonym jeziorem zaporowym. Wygodne miejsce wodowania, z dojazdem z Mszana gruntową drogą. Na prośbę, uprzejmy właściciel mieszkający w pobliskim Mszanie nie robi problemów i upuszcza nieco wody z zapory. Czyni to jednak w momencie przyjazdu kajaków na start, nie należy więc zbytnio się spieszyć, żeby nie wyprzedzić fali wezbraniowej. Poniżej odcinek zwałkowy z kamiennymi bystrzami, na których miejscami brakuje wody. Niektóre zwałki wymagają współpracy zespołowej. Okolica niezwykle malownicza i dzika, zalesiona głęboka dolina z poprzecznymi rozcięciami erozyjnymi</opispunktu> 
+    </punkt>
+    <punkt id="5668" miejscowosc="Jakubowo" 
+      ns="53.58592081" we="18.23726748" km="4.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska drewniana kładka przy zabudowaniach, malowniczo położonych na stromej skarpie. Przez kładkę przepychać się niezwykle ostrożnie z uwagi na wystające gwoździe</opispunktu> 
+    </punkt>
+    <punkt id="5669" miejscowosc="Jakubowo" 
+      ns="53.5866417" we="18.23728527" km="4.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Betonowe przyczółki i filar po zastawce lub kładce, początek rozlewiska przed zaporą młyna</opispunktu> 
+    </punkt>
+    <punkt id="5670" miejscowosc="Zgorzały Most" 
+      ns="53.58849965" we="18.23938249" km="4.2" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Wysoka zapora młyna piętrząca wodę na około 5m, a nad nią most na lokalnej drodze. Wygodny dostęp do wody, chociaż wyjście nieco uciążliwe ze względu na stromy brzeg. Przenoska lewą stroną przez drogę i stromą skarpę. Wodowanie z wielkich głazów kamiennego nabrzeża lub nieco dalej, pośród drzew z trawiastej skarpy. Poniżej jazu, na dolnej wodzie znajduje się wodowskaz. Wskazania poziomu 862 zapewniają dobrą wodę, na krótkim odcinku do jeziora Wierzchy. Wodowskaz posadowiony na górnej wodzie nie odzwierciedla w praktyce ilości wody powyżej jazu, nie należy więc przesadnie sugerować się jego wskazaniami. Poniżej, do jeziora Wierzchy odcinek z pojedynczymi zwałkami i bardzo spokojnym nurcie</opispunktu> 
+    </punkt>
+    <punkt id="5671" miejscowosc="Wierzchy" 
+      ns="53.59378639" we="18.24488256" km="3.1" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Wierzchy. Najbliższe wygodne lądowanie znajuje się vis a vis wypływu, płynąć na NNW w kierunku widocznego w trzcinach zniszczonego pomostu i szpaleru drzew, wzdłuż których prowadzi droga z kocich łbów pomiędzy Wierzchami a Jakubowem. Można też za wypływem na jezioro skręcić w prawo, do drogi Tleń - Lniano</opispunktu> 
+    </punkt>
+    <punkt id="5672" miejscowosc="Wierzchy" 
+      ns="53.59690728" we="18.25655547" km="2.3" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Skarpa i most na drodze Tleń - Lniano (tzw. Żydzia Góra)</opispunktu> 
+    </punkt>
+    <punkt id="5673" miejscowosc="Skrzyniska" 
+      ns="53.60004903" we="18.28989036" km="0" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie wód Ryszki i Wdy na jeziorze Żurskim</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

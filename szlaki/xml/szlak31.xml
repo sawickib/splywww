@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="31" nazwa="Warszawski Piknik Kajakowy" wersja="1">
+<opis>Odcinek Wisły na użytek Warszawskiego Pikniku Kajakowego www.piknik.waw.pl.
+Od Góry Kalwarii do Warszawy (Spójnia). Zerowy kilometr - na końcu spływuu czyli na Spójni.</opis> 
+  <odcinek id="112" typ="rzeka" nazwa="Wisła w okolicach Warszawy" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="0"> 
+  <opis>Wisła w okolicach Warszawy, to duża, piękna i dzika rzeka. Nawet stolica widziana od strony rzeki wygląda zupełnie inaczej (bardziej ekologicznie).
+Nie można też narzekać na czystość wody - powyżej Warszawy jest całkiem przyzwoicie. Piękne pamoramiczne widoki, biwaki na piaszczystych wyspach to są główne zalety pływania po Wiśle.</opis>
+    <punkt id="981" miejscowosc="Warszawa" 
+      ns="52.268801" we="21.003332" km="0" etykieta="Spójnia - koniec" 
+      kolejnosc="0"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Spójnia - koniec</opispunktu> 
+    </punkt>
+    <punkt id="982" miejscowosc="Warszawa" 
+      ns="52.260902" we="21.010143" km="1" etykieta="most Gdański " 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">most Gdański </opispunktu> 
+    </punkt>
+    <punkt id="983" miejscowosc="Warszawa" 
+      ns="52.248887" we="21.021115" km="2.6" etykieta="most Śląsko-Dąbr" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">most Śląsko-Dąbrowski </opispunktu> 
+    </punkt>
+    <punkt id="984" miejscowosc="Warszawa" 
+      ns="52.241676" we="21.033931" km="3.7" etykieta="most Świętokrzys" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">most Świętokrzyski </opispunktu> 
+    </punkt>
+    <punkt id="985" miejscowosc="Warszawa" 
+      ns="52.238456" we="21.037233" km="4.2" etykieta="most Średnicowy " 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">most Średnicowy </opispunktu> 
+    </punkt>
+    <punkt id="986" miejscowosc="Warszawa" 
+      ns="52.235598" we="21.040023" km="4.5" etykieta="most Poniatowski" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">most Poniatowskiego </opispunktu> 
+    </punkt>
+    <punkt id="987" miejscowosc="Warszawa" 
+      ns="52.225474" we="21.049467" km="5.9" etykieta="most Łazienkowsk" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">most Łazienkowski </opispunktu> 
+    </punkt>
+    <punkt id="988" miejscowosc="Warszawa" 
+      ns="52.221468" we="21.057016" km="6.5" etykieta="Gruba Kaśka " 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Gruba Kaśka </opispunktu> 
+    </punkt>
+    <punkt id="989" miejscowosc="Warszawa" 
+      ns="52.214858" we="21.09313" km="9.3" etykieta="most Siekierkows" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">most Siekierkowski </opispunktu> 
+    </punkt>
+    <punkt id="990" miejscowosc="Warszawa" 
+      ns="52.211418" we="21.100869" km="10" etykieta="ujście portu WKW" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">ujście portu WKW</opispunktu> 
+    </punkt>
+    <punkt id="991" miejscowosc="Warszawa" 
+      ns="52.214656" we="21.101231" km="" etykieta="wjazd na WKW (gr" 
+      kolejnosc="10"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">wjazd na WKW (grupa C)</opispunktu> 
+    </punkt>
+    <punkt id="992" miejscowosc="Warszawa" 
+      ns="52.211859" we="21.103636" km="" etykieta="miejsce zbiórki " 
+      kolejnosc="11"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">miejsce zbiórki dla grupy C</opispunktu> 
+    </punkt>
+    <punkt id="993" miejscowosc="Otwock" 
+      ns="52.099878" we="21.214309" km="25.8" etykieta="ujście Świdra" 
+      kolejnosc="12"> 
+    <opispunktu typ="ujście" kolejnosc="-1">ujście Świdra</opispunktu> 
+    </punkt>
+    <punkt id="994" miejscowosc="Karczew" 
+      ns="52.078571" we="21.212151" km="28.4" etykieta="miejsce wodowani" 
+      kolejnosc="13"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">miejsce wodowania grupy B</opispunktu> 
+    </punkt>
+    <punkt id="995" miejscowosc="Karczew" 
+      ns="52.081332" we="21.230811" km="" etykieta="skręt na start g" 
+      kolejnosc="14"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">skręt na start grupy B</opispunktu> 
+    </punkt>
+    <punkt id="996" miejscowosc="Góra Kalwaria" 
+      ns="51.997225" we="21.224367" km="38.5" etykieta="most kolejowy w " 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">most kolejowy w Górze Kalwarii</opispunktu> 
+    </punkt>
+    <punkt id="997" miejscowosc="Góra Kalwaria" 
+      ns="51.990506" we="21.234621" km="39.5" etykieta="most drogowy w G" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">most drogowy w Górze Kalwarii</opispunktu> 
+    </punkt>
+    <punkt id="998" miejscowosc="Ostrówik/Borki" 
+      ns="51.937611" we="21.263692" km="47.8" etykieta="miejsce wodowani" 
+      kolejnosc="17"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">miejsce wodowania grupy A</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

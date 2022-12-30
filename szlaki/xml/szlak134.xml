@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="134" nazwa="Biała" wersja="1">
+<opis>Rzeka dorzecza Warty, dopływ Czernicy, o długości ok. 25 km. Wypływa z jeziora Łobez i płynie w kierunku południowym, po drodze mijając miejscowości Radzewo, Bielica i Biały Bór. Następnie skręca na wschód i po minięciu wsi Międzybórz wpada do Czernicy niedaleko wsi Dzików (wg Wikipedii).
+Ciekawa i urozmaicona krajobrazowo. Płynie przez duże i małe jeziora, przez lasy, łąki i pastwiska. Stosunkowo dobrze dostępna z lądu, można więc konfigurować spływy w dowolny sposób. Niewielka ilość zwałek minimalizuje jej uciążliwość, a ta może doskwierać wyłącznie w postaci kilku wypłyceń podczas niedoborów wody. Organoleptycznie sprawia wrażenie czystej, chociaż ilość piany poniżej progu w Jezierniku świadczyć może o czymś zupełnie innym. Rzeczka zdecydowanie dedykowana kajakom K1 i to w okresach "większej wody" wiosenno - jesiennej. Na wysokości Radzewa i Bielicy po obu stronach rzeki liczne pastwiska a nurt częstokroć przegradzają elektryczne pastuchy.</opis> 
+    <punkt id="4738" miejscowosc="Jeziernik" 
+      ns="53.83422983" we="16.87257979" km="20.6" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ rzeki Białej z jeziora Bielsko</opispunktu> 
+    </punkt>
+    <punkt id="4739" miejscowosc="Jeziernik" 
+      ns="53.83378941" we="16.87267767" km="20.51" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze, w pobliżu sporo miejsca porośniętego trawą. Wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="4740" miejscowosc="Jeziernik" 
+      ns="53.8337078" we="16.87271367" km="20.5" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pochyły próg o wysokości 1,5 m utrzymujący poziom wody w jeziorze Bielsko. Pod progiem jest głęboko na tyle, że tworzy się tu niewielki odwój. Spływać po uprzednim rozpoznaniu trudności</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska prawą stroną przez drewnianą bramkę. Wodowanie z trawiastego nachylonego brzegu</opispunktu> 
+    </punkt>
+    <punkt id="4741" miejscowosc="Jeziernik" 
+      ns="53.8318857" we="16.87449189" km="20.3" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Podwójny przepust betonowy pod nasypem kolejowym. Wąsko -  zalecane składanie wioseł do postaci pagaja</opispunktu> 
+    </punkt>
+    <punkt id="4742" miejscowosc="Jeziernik" 
+      ns="53.82951611" we="16.88102692" km="19.7" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Po prawej stronie zaczyna się ciąg jezior - stawów. Liczba wędkarzy świadczyć może o obfitości tych wód w szeroko rozumiany rybostan. Rzeka stopniowo zanika, bowiem cała woda kierowana jest na stawy. Przesmyk w lewo na staw, dalej problemy z orientacją, gęste trzcinowiska i grobla w poprzek. Należy trzymać kurs generalnie równoległy do stromej skarpy po prawej stronie</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska prawym brzegiem, wzdłuż drogi przez wysoką skarpę po trawie, na kolejny zbiornik wodny</opispunktu> 
+    </punkt>
+    <punkt id="4743" miejscowosc="Jeziernik" 
+      ns="53.82359637" we="16.89761928" km="18.3" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Koniec rozlewisk i regularnych gęstych trzcinowisk, zaczyna się płynąca rzeka, miejscami jednak jeszcze trochę zarośnięta</opispunktu> 
+    </punkt>
+    <punkt id="4744" miejscowosc="Radzewo" 
+      ns="53.81403467" we="16.90774875" km="16.2" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przed mostem i za nim niezliczone ilości pastuchów elektrycznych. Po obydwu stronach rzeki łąki i pastwiska</opispunktu> 
+    </punkt>
+    <punkt id="4745" miejscowosc="Bielica" 
+      ns="53.785244" we="16.92331562" km="12.2" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z łukowatym prześwitem. Przed mostem po prawej na zakręcie rzeki zadaszona wiata. Za wioską łąki i pastwiska ustępują obszarom zalesionym. Na początku lasu drewniany niski mostek</opispunktu> 
+    </punkt>
+    <punkt id="4746" miejscowosc="Międzybórz" 
+      ns="53.79469494" we="16.96379698" km="7.8" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">W osi rzeki na wprost widoczny wąski rurowy przepust w betonowej przegrodzie. Kilkadziesiąt metrów wcześniej należy spłynąć 3 stopniowy próg w prawo. Poniżej progu płytko i kamieniście, za progiem liczne żwirowe przemiały</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna niewygodna przenoska przez zarośla, lewą bądź prawą stroną</opispunktu> 
+    </punkt>
+    <punkt id="4747" miejscowosc="Międzybórz" 
+      ns="53.78796994" we="16.9696594" km="6.6" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na lokalnej drodze. W okolicy kilka drobnych, mało uciążliwych zwałek</opispunktu> 
+    </punkt>
+    <punkt id="4748" miejscowosc="Międzybórz" 
+      ns="53.78062014" we="17.00152751" km="3.7" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Przed mostem po prawej wygodne miejsce wodowania. Pod mostem płytko i kamieniście</opispunktu> 
+    </punkt>
+    <punkt id="4749" miejscowosc="Międzybórz" 
+      ns="53.77884648" we="17.00194693" km="3.5" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka w centralnym punkcie Międzyborza. W pobliżu znajduje się sklep spożywczy, zadaszona wiata, ławeczki i miejsce na ognisko oraz tablica informacyjna ze szlakiem rzeki Białej</opispunktu> 
+    </punkt>
+    <punkt id="4750" miejscowosc="Międzybórz" 
+      ns="53.77755571" we="17.00318206" km="3.3" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka, zaraz za nią uciążliwa do pokonania rura na granicy lustra wody</opispunktu> 
+    </punkt>
+    <punkt id="4751" miejscowosc="Dzików" 
+      ns="53.75840465" we="17.02075559" km="0" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Białej do Czernicy. Spływ można zakończyć przy mostach w Dzikowie lub w Przyrzeczu, do których prowadzą gruntowe drogi publiczne</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

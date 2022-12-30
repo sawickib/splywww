@@ -1,0 +1,95 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.91741200" lon="16.78415700">
+<name>17.28</name>
+<desc>Most drogowy, wygodne miejsce wodowania kajaków.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.92051300" lon="16.79695900">
+<name>16.28</name>
+<desc>Ujście Potoku Sulistrowickiego.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.93074200" lon="16.79880100">
+<name>14.71</name>
+<desc>Bród, płyty betonowe w nurcie.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.93581700" lon="16.79257400">
+<name>13.94</name>
+<desc>Most drogowy, wygodne miejsce wodowania kajaków.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.93807800" lon="16.79153400">
+<name>13.64</name>
+<desc>Prożek 0,3m, do spłynięcia.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.94020000" lon="16.78929000">
+<name>13.34</name>
+<desc>Most kolejowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.94159700" lon="16.78870000">
+<name>13.18</name>
+<desc>Prożek kamienny 0,5m do spłynięcia.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.95035000" lon="16.78661900">
+<name>11.94</name>
+<desc>Most drogowy, wygodne miejsce wodowania kajaków.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.95755800" lon="16.79709600">
+<name>10.73</name>
+<desc>Most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.96881400" lon="16.82599700">
+<name>8.08</name>
+<desc>Otwarty, zniszczony jaz.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.96922000" lon="16.82665900">
+<name>8.02</name>
+<desc>Mostek na lokalnej drodze.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.97853300" lon="16.83512900">
+<name>6.66</name>
+<desc>Mostek na lokalnej drodze. Pod mostkiem stanowisko do grilla.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.98689200" lon="16.82942400">
+<name>5.48</name>
+<desc>Obok siebie - nowy i stary most drogowy na ruchliwej trasie Wrocław - Świdnica. Wygodne miejsce wodowania kajaków przy moście starym.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.00190900" lon="16.80988800">
+<name>3.17</name>
+<desc>Wygodna przenoska prawą stroną 20m.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.00890000" lon="16.79810600">
+<name>1.92</name>
+<desc>Restauracja w pałacu w Krobielowicach.</desc>
+<cmt>bar</cmt>
+</wpt>
+<wpt lat="51.01688900" lon="16.78379400">
+<name>0.50</name>
+<desc>Zakręt rzeki o 90 stopni i zaraz za nim niewidoczny jaz dwustopniowy o wysokości 0,8m do spłynięcia.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.01983200" lon="16.77971700">
+<name>0.00</name>
+<desc>Przenoska z Czarnej Wody na Bystrzycę 20m prawym brzegiem.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,76 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.00094906" lon="18.80490190">
+<name>28.30</name>
+<desc>Most drogowy. Wygodne miejsce wodowania poniżej filarów po zastawce.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.01069522" lon="18.82530630">
+<name>26.30</name>
+<desc>Dobrze zachowany 4 piętrowy kamienny budynek elektrowni (młyna ?)</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.01764981" lon="18.84908443">
+<name>23.10</name>
+<desc>Mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.01905556" lon="18.85527778">
+<name>22.60</name>
+<desc>Szeroki jaz o wysokości 1,5m, tuż za nim duże głazy.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.02172712" lon="18.85791257">
+<name>22.20</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.02551520" lon="18.87473155">
+<name>20.60</name>
+<desc>Mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.02636111" lon="18.90513889">
+<name>18.00</name>
+<desc>Drewniany młyn</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.02985717" lon="18.92652393">
+<name>16.40</name>
+<desc>Most drogowy na trasie Częstochowa - Działoszyn</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.02610540" lon="18.93716151">
+<name>14.90</name>
+<desc>Po prawej stronie, w zakolu rzeki ośrodek wypoczynkowy "Krecik". Domki kempingowe i możliwość rozbicia namiotów.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.02690232" lon="18.94722436">
+<name>13.90</name>
+<desc>Wysoki most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.03994367" lon="19.05439069">
+<name>1.90</name>
+<desc>Z prawej ujście rzeki Kocinki</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.04163676" lon="19.05187140">
+<name>1.60</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.04752335" lon="19.03520950">
+<name>0.00</name>
+<desc>Ujście Liswarty do Warty.
+Bardzo wygodne miejsce zakończenia spływu z pomostem i dojazdem nad wodę, znajduje się w Wąsoszu, około 3 km w dół Wartą.</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

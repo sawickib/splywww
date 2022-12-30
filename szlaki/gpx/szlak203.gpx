@@ -1,0 +1,65 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.29660795" lon="15.69119040">
+<name>6.80</name>
+<desc>Drewniany mostek na leśnej, gruntowej drodze do Jaworza, w pobliżu granicy poligonu [dojazd pożarowy nr 28]. Szerokość rzeczki 3-4 m, miejscami płytka i zamulona, w korycie kilka leżących małych drzewek i gałęzi, przez które trzeba się poprzepychać, jednak bez poważniejszych przeszkód. Woda przeźroczysta ale dno zamulone, więc po przepłynięciu pierwszego kajaka staje się czarna i mętna</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.29652730" lon="15.69471354">
+<name>6.50</name>
+<desc>Zamulony wypływ na jezioro Pańskie, pośród trzcin. Płynie się powoli, grzęznąc w płytkim, miękkim mule. Jezioro Pańskie jest zielone i mętne, dno ma muliste i nie zachęca do kąpieli</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.29606886" lon="15.71144549">
+<name>5.40</name>
+<desc>Wschodni kraniec jeziora Pańskiego. Oznakowany leśny biwak, wiaty, tablice informacyjne, slip, dojazd do wody, mnóstwo miejsca na samochody. Stoi tu też tablica z oznakowaniem szlaku</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.29714153" lon="15.71102806">
+<name>5.20</name>
+<desc>Wypływ z jeziora Pańskiego, oznakowany rombem. Zaraz za wypływem drewniana, wędkarska kładka oraz rzędy pali w korycie rzeki. Szerokość 6-7 m, spływanie bez przeszkód</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.29893535" lon="15.71029462">
+<name>5.00</name>
+<desc>Zamaskowany kępą trzcin, wypływ na spore jezioro Trzebuń. W porównaniu z jeziorem Pańskim, tu woda jest czysta i klarowna, o charakterystycznym, szmaragdowym kolorze</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.30874101" lon="15.74807576">
+<name>2.00</name>
+<desc>Oznakowany rombem, wypływ z jeziora Trzebuń. Dalej 200 m trzcin, sitowia, grążeli i gęstej roślinności wodnej, aż do wyraźnego przewężenia i wpłynięcia rzeki do lasu. Przy odrobinie szczęścia, można odnaleźć dość wyraźną linię nieco rzadszej rośliności. Mijając romb z lewej strony należy kierować się dokładnie w kierunku wschodnim</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.30858109" lon="15.75106139">
+<name>1.80</name>
+<desc>W miejscu wypływu rzeki z jeziora znajdują się, posadowione poprzecznie, charakterystyczne trzy drewniane pale. Dalej fragment ładnej rzeki, o krystalicznej, wystarczająco głębokiej wodzie, z bujną roślinnością podwodną. Po drodze kilka łatwych drzewek do przeskoczenia</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.30913374" lon="15.75781743">
+<name>1.30</name>
+<desc>Łukowy, betonowy mostek na drodze do Prostyni. Dojazd pożarowy nr 11. Za mostem spore głazy, stalowa rura na lini wody w poprzek nurtu oraz sekwencja kilku, nieco bardziej wymagających zwałek, do pokonania których wskazana jest współpraca zespołowa lub przenoska</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.31087594" lon="15.75961892">
+<name>1.00</name>
+<desc>Rzeka wypływa z lasu na otwartą przestrzeń zarośniętego jeziora i zaczyna meandrować</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.30919777" lon="15.76788604">
+<name>0.20</name>
+<desc>Drewniana, zniszczona, niska kładka. W pobliżu rzeki, na lewym brzegu znajduje się grodzisko</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.30907708" lon="15.76979857">
+<name>0.00</name>
+<desc>Ujście do Strarej Drawy. W przeciwieństwie do ciepłej wody rzeki Głębokiej, woda w Starej Drawie jest o kilka stopni chłodniejsza. W dół, jeszcze kilka łatwych zwałek i pośród trzcin wpływa się do zasadniczej Drawy</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

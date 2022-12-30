@@ -1,0 +1,105 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.15731800" lon="24.18015300">
+<name>417.50</name>
+<desc>Połączenie odnóg Niemna i zarazem połączenie szlaku Mereczanki i Niemna.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Tuż poniżej mostu w Mereczu jest możliwość dobicia do prawego nabrzeża - tzw. Przystań Rzeczna w Mereczu. Płaska, niska łąka z dojazdem z szosy i parkingiem.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.16380500" lon="24.16511000">
+<name>417.00</name>
+<desc>Ujście strugi Strauja w prawej odnodze Niemna, w trzcinach poniżej wielkiej wyspy.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.16128100" lon="24.16287600">
+<name>417.00</name>
+<desc>Oznaczone obozowisko - Nemuno Stovyklaviete Parku [?] - widać na przeciw ujścia strugi Strauja, na lewym brzegu Niemna. Do Merecza lądem stąd jest ok. 2km.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.16148400" lon="24.14230100">
+<name>415.50</name>
+<desc>Miejsce dobicia - pod widocznymi zabudowaniami wsi na prawym wysokim brzegu jest niska łąka - być może  możliwość biwakowania.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.18414100" lon="24.07993400">
+<name>409.00</name>
+<desc>Ujście strugi Apsinge na prawym brzegu. W głębi lądu jest wieś Nieciosy, niewidoczna z rzeki.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.17598000" lon="24.03928300">
+<name>406.50</name>
+<desc>Plaża na lewym brzegu, możliwość biwakowania, ale niezbyt dobre miejsce, ciasno, w krzakach. Miejsce używane jest przez wędkarzy.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.17755500" lon="24.03718600">
+<name>406.50</name>
+<desc>Na prawym brzegu na przeciwko, jest kiepskie dobicie do wąskiej łąki u podnóża zalesionego wzgórza. Na wyższym brzegu (w odległości 30 m ścieżką) jest polanka w lesie z wiatą - też użytkowana przez wędkarzy.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.18253300" lon="24.02261100">
+<name>403.50</name>
+<desc>Ujście strugi Netiesa - jest na prawym brzegu obok przystani.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.17263100" lon="23.97927300">
+<name>400.50</name>
+<desc>Miejsca biwakowe: poniżej widocznych zabudowań wsi na lewym brzegu, są dwie ładne łąki nadbrzeżne z dobrymi dobiciami. Na prawym brzegu widoczne są zabudowania wsi Mežionys.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.18572800" lon="23.95226000">
+<name>396.50</name>
+<desc>Duża wyspa (ok. 600m długości) - z krzakami, przy lewym brzegu.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.20118200" lon="23.95406200">
+<name>395.50</name>
+<desc>Ujście strugi Margote na lewym brzegu (niewidoczne), płynącej przez wieś Kryksztany.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Miejsce biwakowe na prawym brzegu, mniej więcej na przeciwko ujścia Margote - niezłe dobicie, na brzegu niewielka łączka, w lesie wyżej jest być może obozowisko.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.21496900" lon="23.96009200">
+<name>393.50</name>
+<desc>Poniżej ujścia Angi wypływamy z Dżukijskiego Parku Narodowego.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.21598300" lon="23.96447100">
+<name>393.50</name>
+<desc>Miejsce biwakowe - obozowisko Parku [?] jest na prawym brzegu, dokładnie na przeciwko ujścia Angi. Nad wodą jest niewielka łączka z miejscem na ognisko, a z niej są długie drewniane schody na polanę na wyższej terasie w lesie, gdzie jest drewniana wiata.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.25439300" lon="23.98582900">
+<name>383.50</name>
+<desc>Na prawym brzegu jest wysoka, długa pionowa skarpa z norkami brzegówek. Zabudowania wsi (na lewym brzegu) nie są widoczne z rzeki.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.30560800" lon="24.01945300">
+<name>379.50</name>
+<desc>Na prawym brzegu Niemna jest miejska część zabudowań Niemonajci, niewidoczna tutaj z rzeki. Pomiędzy obydwoma częściami miejscowości brak jest mostu, czy nawet promu.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.30446600" lon="24.02004600">
+<name>379.50</name>
+<desc>Na przeciwko Hotelu pod prawym brzegiem wyłania się z nurtu Niemna głaz narzutowy "Klebono uola" [Głaz Plebana].</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.30445700" lon="24.02923700">
+<name>379.00</name>
+<desc>Z biwaku widać kościół i miejską część zabudowań Niemonajci na prawym brzegu Niemna.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+
+</gpx>

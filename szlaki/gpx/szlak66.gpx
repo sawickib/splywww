@@ -1,0 +1,340 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.53666900" lon="20.47548300">
+<name>0.00</name>
+<desc>Kurki_miejsce_wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.60751000" lon="20.48163000">
+<name>9.30</name>
+<desc>ostatni_przed_osrodkiem_URM_Lansk_odwiedzany_przez_straz_lesna</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.61826000" lon="20.47307000">
+<name>10.70</name>
+<desc>budka_wartownicza_BOR_pusta</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.62852000" lon="20.47787000">
+<name>11.90</name>
+<desc>ujscie_ukryte_na_prawo_wzdluz_pomostu_OW_URM_Łansk</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.63034000" lon="20.49154000">
+<name>13.00</name>
+<desc>jez_ustrych</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.64266000" lon="20.49909000">
+<name>14.70</name>
+<desc>malowniczy_ale_biwakowanie_zabronione_rez_las_warminski</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.64551000" lon="20.50435000">
+<name>15.30</name>
+<desc>most_drogowy_przenoska_z_prawej_na_lewa_poczatek_przelomu</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.66675000" lon="20.50944000">
+<name>18.90</name>
+<desc>resztki_mostu</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.66798000" lon="20.50984000">
+<name>19.00</name>
+<desc>przyczolek_starego_mostu</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.68761000" lon="20.49924000">
+<name>21.80</name>
+<desc>Rus_legalny_biwak_sklepy._przenoska_lub_przewozka_300m_z_prawej_na_lewa</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="53.69183400" lon="20.49421000">
+<name>22.40</name>
+<desc>koniec_przenoski_miejsce_wodowania</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.71538000" lon="20.47107000">
+<name>27.00</name>
+<desc>wies_bartag</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.71726000" lon="20.47219000">
+<name>27.20</name>
+<desc>drogowy_wies_Bartag</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.75275000" lon="20.47143000">
+<name>32.10</name>
+<desc>waska_polka_wzdluz_rzeki_Olsztyn_Kortowo</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.76557000" lon="20.47700000">
+<name>33.60</name>
+<desc>drogowy_Olsztyn_Podgrodzie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.77470400" lon="20.47837600">
+<name>35.00</name>
+<desc>drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.77608000" lon="20.47292000">
+<name>-1.00</name>
+<desc>Olsztyn_centrum</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.77743000" lon="20.47476000">
+<name>-1.00</name>
+<desc>zamek_olsztynski</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.77844000" lon="20.47373000">
+<name>35.80</name>
+<desc>pod_mostem</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="53.77868000" lon="20.47352000">
+<name>-1.00</name>
+<desc>miejsce_postoju_w_parku</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.79571000" lon="20.46422000">
+<name>38.90</name>
+<desc>wiata</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.79677000" lon="20.46530000">
+<name>-1.00</name>
+<desc>malownicza_wiata</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.80432000" lon="20.45993000">
+<name>40.00</name>
+<desc>ruiny_mostu</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.80872000" lon="20.45815000">
+<name>40.70</name>
+<desc>rozlewisko_laka</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.81381000" lon="20.45477000">
+<name>41.40</name>
+<desc>elektrownia_w_dol_po_skarpie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.83026000" lon="20.42468000">
+<name>44.60</name>
+<desc>prywatny_czyli_platny_Redykajny</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.83245000" lon="20.41665000">
+<name>45.60</name>
+<desc>pole_biwakowe_Dywity</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.84097000" lon="20.40391000">
+<name>47.00</name>
+<desc>elektrownia</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.84440000" lon="20.40421000">
+<name>47.40</name>
+<desc>plynac_wzdluz_lewego_brzegu_bo_na_srodku_zielsko</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.85124300" lon="20.40186100">
+<name>48.20</name>
+<desc>jez_mosag</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.85236000" lon="20.39481000">
+<name>48.70</name>
+<desc>teren_prywatny_wlasciciel_obok</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.86193000" lon="20.39400000">
+<name>49.80</name>
+<desc>pod_mostem_lub_pod_zastawka</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="53.87389000" lon="20.39332000">
+<name>51.00</name>
+<desc>starego_koryta_lyny</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.87826000" lon="20.40248000">
+<name>52.30</name>
+<desc>ruiny_mostu</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.92528000" lon="20.41344000">
+<name>61.80</name>
+<desc>wies_Klodka. Wg informacji otrzymanych od Pawła w dniu 12.04.2011 r."właściciel nie zezwala na biwak, ze wzgl. na śmieci pozostawiane notorycznie przez kajakarzy. W lipcu 2010 pozwolił tylko zostawić kajaki a biwak był przy ośrodku nad jez. Limajno (ok 3km z buta, w nocy wrzaski pijanych tubylców)".</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.95899000" lon="20.41073000">
+<name>69.00</name>
+<desc>Knopin_w_lewo</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.98449000" lon="20.39777000">
+<name>75.40</name>
+<desc>Dobre_Miasto</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.98546000" lon="20.39777000">
+<name>75.60</name>
+<desc>Dobre_Miasto_centrum_w_lewo</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="54.01122000" lon="20.40476000">
+<name>79.80</name>
+<desc>102-60-B</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.02395000" lon="20.39525000">
+<name>83.70</name>
+<desc>Smolajny_muliste_dno</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.09340000" lon="20.44669000">
+<name>103.00</name>
+<desc>Łaniewo_w_lewo</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.12231000" lon="20.54819000">
+<name>116.70</name>
+<desc>tylko_dwa_namioty</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.12432000" lon="20.55276000">
+<name>117.00</name>
+<desc>prywatna_laka</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.12449000" lon="20.56979000">
+<name>118.60</name>
+<desc>Lidzbark_Warminski</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.12644000" lon="20.58257000">
+<name>119.70</name>
+<desc>zamek_biskupow_warminskich</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.12745800" lon="20.57581800">
+<name>-1.00</name>
+<desc>cerkiew_lidzbark_warminski</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.12761000" lon="20.57646700">
+<name>-1.00</name>
+<desc>bar</desc>
+<cmt>bar</cmt>
+</wpt>
+<wpt lat="54.12776200" lon="20.57737600">
+<name>-1.00</name>
+<desc>w_bramie_cukiernia</desc>
+<cmt>bar</cmt>
+</wpt>
+<wpt lat="54.13057000" lon="20.57640000">
+<name>-1.00</name>
+<desc>PKS_PKP_Lidzbark_Warminski</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.14376000" lon="20.60786000">
+<name>123.90</name>
+<desc>ruiny_mostu_kolejowego</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.15753000" lon="20.60673000">
+<name>127.00</name>
+<desc>prywatny</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.15953000" lon="20.61014000">
+<name>127.30</name>
+<desc>Po prawej 30m</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="54.16369000" lon="20.61455000">
+<name>128.00</name>
+<desc>rozwidlenie_nurt_prosto</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.16606000" lon="20.61087000">
+<name>128.90</name>
+<desc>rz._Elma</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.17368000" lon="20.63423000">
+<name>130.80</name>
+<desc>przyczolek_kamiennego_mostu_ruina</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.19320000" lon="20.68236000">
+<name>135.90</name>
+<desc>prywatny</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.22238000" lon="20.74500000">
+<name>142.60</name>
+<desc>ratuszki-lipno_pseudo_stanica</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="54.22863000" lon="20.75564000">
+<name>143.80</name>
+<desc>Ardapy</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.24208000" lon="20.78051000">
+<name>147.50</name>
+<desc>teren_JW_zakaz_wstepu_po_prawej</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.25004000" lon="20.79718000">
+<name>149.20</name>
+<desc>Bartoszyce</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.25555000" lon="20.80800000">
+<name>150.90</name>
+<desc>miejsce_wodowania_do_pks_mozna_isc_wzdluz_rzeki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.25568000" lon="20.80863000">
+<name>151.00</name>
+<desc>miejsce_zaladunku_kajakow_na_przyczepe</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.25150000" lon="20.81079000">
+<name>-1.00</name>
+<desc>bar_popularny</desc>
+<cmt>bar</cmt>
+</wpt>
+<wpt lat="54.25060000" lon="20.80946000">
+<name>-1.00</name>
+<desc>rynek</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.25194000" lon="20.81833000">
+<name>-1.00</name>
+<desc>PKS_Bartoszyce_bezposredni_autobus_do_3miasta</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.32449000" lon="21.04240300">
+<name>-1.00</name>
+<desc>wies_Stopki_koniec_szlaku_granica_panstwa</desc>
+<cmt>uwaga</cmt>
+</wpt>
+
+</gpx>

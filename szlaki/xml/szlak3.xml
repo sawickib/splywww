@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="3" nazwa="Pojezierze Brodnickie" wersja="2">
+<opis>Dosyć krótka prawie-pętlna po pojezierzu Brodnickim. Większość trasy po ładnych i czystych jeziorach.</opis> 
+  <odcinek id="19" typ="jezioro" nazwa="Jezioro Zbiczno" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="5"> 
+  <opis>Po prostu kolejne średnioduże, ładne jezioro z czystą wodą i kilkoma miejscami biwakowymi. Połowicznie otoczone lasem.</opis>
+    <punkt id="119" miejscowosc="Rytebłota" 
+      ns="53.35473" we="19.38914" km="27.8" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Zagospodarowane pole biwakowe ze stołami i ładną plażą.</opispunktu> 
+    </punkt>
+    <punkt id="118" miejscowosc="" 
+      ns="53.34261" we="19.41715" km="25.1" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="ujście" kolejnosc="-1">ujście z j. Zbiczno</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="18" typ="jezioro" nazwa="Jezioro Strażym" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="4"> 
+  <opis>Po prostu kolejne średnioduże, ładne jezioro z czystą wodą i kilkoma miejscami biwakowymi. Otoczone lasem.</opis>
+    <punkt id="123" miejscowosc="Gaj Grzmięca" 
+      ns="53.33876" we="19.42813" km="34.8" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Skarlanki do j. Strażym</opispunktu> 
+    </punkt>
+    <punkt id="116" miejscowosc="" 
+      ns="53.34009" we="19.42277" km="24.6" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście do j. Strażym kanałku łączącego je z j. Zbiczno</opispunktu> 
+    </punkt>
+    <punkt id="115" miejscowosc="" 
+      ns="53.33706" we="19.42645" km="" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="biwak" kolejnosc="-1">dobre, ładne i duże pole biwakowe na zachodnim brzegu j. Strażym</opispunktu> 
+    </punkt>
+    <punkt id="114" miejscowosc="" 
+      ns="53.334" we="19.43287" km="23.4" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Skarlanki z jeziora Strażym.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="17" typ="rzeka" nazwa="Skarlanka od J. Strażym do J. Bachotek" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="3"> 
+  <opis>Właściwie bardziej jezioro niż rzeka. Woda szeroko rozlana w trzcinach.</opis>
+    <punkt id="113" miejscowosc="" 
+      ns="53.31991" we="19.44272" km="21.6" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy dosyć nisko nad wodą.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="16" typ="jezioro" nazwa="Jezioro Bachotek" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis>Spore i bardzo ładne jezioro. Duża wyspa "skarbów" na środku. Dookoła las.</opis>
+    <punkt id="112" miejscowosc="" 
+      ns="53.31232" we="19.45124" km="20.5" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Ośrodek PTTK Bachotek, wypożyczalnia kajaków, sklepik, barek.</opispunktu> 
+    </punkt>
+    <punkt id="111" miejscowosc="" 
+      ns="53.30345" we="19.46773" km="19.4" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Duże i bardzo wygodne pole biwakowe na przeciwko wyspy. Pojemność conajmnie ze 200 osób. Dwa pomosty. W lipcu i sierpniu może być zajetę przez harcerzy.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="15" typ="rzeka" nazwa="Skarlanka od J. Bachotek" 
+      uciazliwosc="U4" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Bardzo krótki kawałek rzeczki tuż przy ujściu, prąd szybki i dosyć płytko.</opis>
+    <punkt id="108" miejscowosc="Tama Brodzka" 
+      ns="53.28215" we="19.47688" km="17" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">10 metrowa przenoska, łatwa przenoska po prawym brzegu. Można też po lewej części jazu.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy na ruchliwej drodze.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pół metrowy jaz zatrzymujący, spiętrzający wode na jeziorze Bachotek</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="14" typ="rzeka" nazwa="Drwęca od Nowego Miasta Lubawskiego" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL3" 
+      kolejnosc="0"> 
+  <opis>Szeroka rzeka około 10m. Niezbyt czysta, za to głeboka i szybko płynąca. Mocno kręci.</opis>
+    <punkt id="107" miejscowosc="" 
+      ns="53.2801" we="19.4794" km="16.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">ujście Skarlanki, łączącej j. Bachotek z Drwęcą</opispunktu> 
+    </punkt>
+    <punkt id="106" miejscowosc="" 
+      ns="53.2801" we="19.47938" km="16.4" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy o konstrukcji stalowej.</opispunktu> 
+    </punkt>
+    <punkt id="105" miejscowosc="Jajkowo" 
+      ns="53.31182" we="19.51903" km="9.9" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">most betonowy na drodze między Jajkowem, a Wielkim Głęboczkiem.</opispunktu> 
+    </punkt>
+    <punkt id="104" miejscowosc="" 
+      ns="53.33715" we="19.52271" km="6.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Niezłe dzikie miejsce biwakowe na lewym brzegu pod lasem.</opispunktu> 
+    </punkt>
+    <punkt id="103" miejscowosc="Kaługa" 
+      ns="53.37077" we="19.52761" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="20" typ="kanał" nazwa="kanałek łączący J. Ciche z J. Zbiczno" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="6"> 
+  <opis>Bardzo urokliwy kanałek</opis>
+    <punkt id="121" miejscowosc="" 
+      ns="53.35804" we="19.36595" km="29.6" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="ujście" kolejnosc="-1">ujście z j. Cichego</opispunktu> 
+    </punkt>
+    <punkt id="120" miejscowosc="Rytebłota" 
+      ns="53.35457" we="19.38851" km="34.3" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy, mały, ale ruch spory.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="21" typ="jezioro" nazwa="Jezioro Ciche" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="7"> 
+  <opis>Na prawde ciche jezioro. W środku lasu, żadnych zabudowań, łódek. Czysta woda - coś pięknego.</opis>
+    <punkt id="122" miejscowosc="Rytebłota" 
+      ns="53.35417" we="19.38937" km="31.3" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="ujście" kolejnosc="-1">ujście kanałku do j. Zbiczno z j. Cichego</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="22" typ="rzeka" nazwa="Skarlanka od J. Robotno do J. Strażym" 
+      uciazliwosc="U3" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="8"> 
+  <opis>Bardziej rozlewisko niż rzeka. Rezerwat ryb, cisza i jedna przenoska.</opis>
+    <punkt id="127" miejscowosc="" 
+      ns="53.34765" we="19.4269" km="35.7" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany most na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="125" miejscowosc="Gaj Grzmięca" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="124" miejscowosc="Gaj Grzmięca" 
+      ns="53.34073" we="19.42813" km="35" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz spietrzający wode do młyna albo tartaku, wysokosci ze 2 metrów.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Około 50 metrów bardzo eleganckiej przenoski. Przygotowane pomosty do wysiadania, droga do noszenia włożona kostka. Specjalnie dla kajakarzy.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="23" typ="jezioro" nazwa="Jezioro Robotno" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="9"> 
+  <opis>Absolutnie przeciętne, ale ładne.</opis>
+    <punkt id="129" miejscowosc="" 
+      ns="53.37607" we="19.40701" km="39.9" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Skarlanki do j. Robotno</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Duży ładny biwak nad jeziorem Robotno. W starym przewodniku oznaczony jako "start MSK".</opispunktu> 
+    </punkt>
+    <punkt id="128" miejscowosc="" 
+      ns="53.36854" we="19.40814" km="39" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładeczna dla pieszych</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="24" typ="rzeka" nazwa="Skarlanka od J. Dębno do J. Robotno" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="10"> 
+  <opis>Rozlewisko, a nie rzeka.</opis>
+    <punkt id="131" miejscowosc="" 
+      ns="53.38154" we="19.40963" km="40.7" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Skarlanki z j. Dębno</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="25" typ="jezioro" nazwa="Jezioro Dębno" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="11"> 
+  <opis>Po prostu ładne jezioro, nic szczególnego ;).</opis>
+    <punkt id="132" miejscowosc="" 
+      ns="53.38418" we="19.41487" km="41.3" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy między J. Dębno, a J. Partęczyny Wielkie</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="26" typ="jezioro" nazwa="Jezioro Partęczyny Wielkie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="12"> 
+  <opis>Duże, otoczone lasem jezioro o skomplikowanej linii brzegowej.</opis>
+    <punkt id="102" miejscowosc="Partęczyny" 
+      ns="53.38776" we="19.42282" km="42.3" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Duży ośrodek z kempingiem na wschodnim brzegu j. Partęczyny Wielkie.</opispunktu> 
+    </punkt>
+    <punkt id="117" miejscowosc="" 
+      ns="53.34157" we="19.41984" km="24.8" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">betonowy most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

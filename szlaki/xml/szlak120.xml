@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="120" nazwa="Sidra" wersja="1">
+<opis>Rzeka płynąca we wschodniej części woj. podlaskiego, wzdłuż granicy z Białorusią, na N od Sokółki. 37 kilometrowy lewy dopływ górnej Biebrzy. Przepływa głównie przez odsłonięte łąki i pola. W górnej części jest dzika -  kręci i meandruje, w dolnej częściowo wyprostowana i sprawia wrażenie uregulowanej. Kilka razy przyspiesza ze względu na wypłycenia w miejscach koncentracji grubszego materiału polodowcowego. Podpiętrzona jest kilkoma prożkami łatwymi do spłynięcia. W zasadzie gdyby nie dwie betonowe niskie kładki, odcinek z Sidry (miejscowość) do Biebrzy (22 km) można pokonać bez wysiadania z kajaka w czasie około 6 h. Opis sporządzono na podstawie spływu własnego z kwietnia 2013. Wodowskaz Harasimowicze wskazywał tego dnia poziom 497.</opis> 
+    <punkt id="4324" miejscowosc="Sidra" 
+      ns="53.55186084" we="23.44709973" km="22.6" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska kładka dla pieszych. Wygodne miejsce wodowania z dojazdem nad samą rzekę.</opispunktu> 
+    </punkt>
+    <punkt id="4325" miejscowosc="Sidra" 
+      ns="53.55539966" we="23.44388687" km="22" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4326" miejscowosc="Sidra" 
+      ns="53.5690471" we="23.44502497" km="20" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski betonowy mostek - kładka, zbierający wszelakie nieczystości płynące rzeką.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska lewą lub prawą stroną, kilka metrów.</opispunktu> 
+    </punkt>
+    <punkt id="4327" miejscowosc="Potrubowszczyzna" 
+      ns="53.57604624" we="23.44765402" km="19" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z lewej rzeczki Mościszanki. Przemiały głazowo żwirowe poniżej ujścia.</opispunktu> 
+    </punkt>
+    <punkt id="4328" miejscowosc="Potrubowszczyzna" 
+      ns="53.57972544" we="23.44978679" km="18.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska betonowa kładka ze słupa energetycznego.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Niewygodna przenoska przez kładkę lub brzegiem.</opispunktu> 
+    </punkt>
+    <punkt id="4329" miejscowosc="Siderka" 
+      ns="53.58818675" we="23.45271486" km="17.1" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany most drogowy przy nieczynnym młynie.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pod mostem spiętrzenie wody na wysokość około 2m z pochylnią. Możliwe przepłynięcie przez wyrwę w zastawce z desek.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska lewym brzegiem przez stromą skarpę i asfalt, około 30 m.</opispunktu> 
+    </punkt>
+    <punkt id="4330" miejscowosc="Siderka" 
+      ns="53.59308979" we="23.45334465" km="16.4" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg z głazów narzutowych</opispunktu> 
+    </punkt>
+    <punkt id="4331" miejscowosc="Grzebienie" 
+      ns="53.61165585" we="23.45430462" km="13.6" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mały prożek z betonowymi trylinkami</opispunktu> 
+    </punkt>
+    <punkt id="4332" miejscowosc="Grzebienie" 
+      ns="53.61904198" we="23.45563557" km="12.6" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4333" miejscowosc="Grzebienie" 
+      ns="53.62421629" we="23.45318932" km="11.8" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka 2 przęsłowa, podniesiona na wysokość umożliwiającą przepłynięcie</opispunktu> 
+    </punkt>
+    <punkt id="4334" miejscowosc="Jaczno" 
+      ns="53.64140131" we="23.44801856" km="9.5" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mały prożek</opispunktu> 
+    </punkt>
+    <punkt id="4335" miejscowosc="Jaczno" 
+      ns="53.64253214" we="23.44767287" km="9.4" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4336" miejscowosc="Harasimowicze" 
+      ns="53.65372097" we="23.44993299" km="8.1" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Kilkumetrowej długości bystrze</opispunktu> 
+    </punkt>
+    <punkt id="4337" miejscowosc="Harasimowicze" 
+      ns="53.66069826" we="23.44976973" km="7.3" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4338" miejscowosc="Harasimowicze" 
+      ns="53.66209229" we="23.44888706" km="7.1" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Dwuprzęsłowa otwarta zastawka, prożek 0,5m. Za nim wodowskaz funkcjonujący w systemie IMGW (pogodynka.pl)</opispunktu> 
+    </punkt>
+    <punkt id="4339" miejscowosc="Harasimowicze" 
+      ns="53.66400257" we="23.44760874" km="6.8" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Słabo widoczne w terenie przyczółki po moście kolejowym na trasie Augustów - Grodno</opispunktu> 
+    </punkt>
+    <punkt id="4340" miejscowosc="Chilmony" 
+      ns="53.67929107" we="23.41719838" km="3.7" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przyujściowe trzcinowiska, możliwość kilkumetrowych zatorów z trzcin i śmieci</opispunktu> 
+    </punkt>
+    <punkt id="4341" miejscowosc="Rogożynek" 
+      ns="53.70168984" we="23.40972521" km="0" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Sidry do Biebrzy</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

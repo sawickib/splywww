@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="99" nazwa="Liswarta" wersja="1">
+<opis>to lewy dopływ górnej Warty, do której uchodzi w okolicach wsi Kule. Nizinna i malownicza rzeka, w większości spokojna chociaż zdarzają się miejsca bystre. Stosunkowo dużo pozostałości po budowlach hydrotechnicznych oraz dobrze zachowane, choć już nieczynne stare młyny i elektrowienki dodają jej kolorytu. Czyste wody o naturalnym rudym zabarwieniu zachęcają do kąpieli. Rzeka płynie meandrując stosunkowo szeroką doliną, na krawędziach której podmywa zalesione brzegi odsłaniając piaszczyste skarpy. Prace inżynieryjne bobrów oraz inne siły natury zrzuciły do Liswarty trochę drzew, są one jednak poprzecinane do tego stopnia, że nie wymagają zwałkowych akrobacji.</opis> 
+    <punkt id="3549" miejscowosc="Zawady" 
+      ns="51.02690232" we="18.94722436" km="13.9" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3548" miejscowosc="Zawady" 
+      ns="51.0261054" we="18.93716151" km="14.9" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po prawej stronie, w zakolu rzeki ośrodek wypoczynkowy "Krecik". Domki kempingowe i możliwość rozbicia namiotów.</opispunktu> 
+    </punkt>
+    <punkt id="3547" miejscowosc="Zawady" 
+      ns="51.02985717" we="18.92652393" km="16.4" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie Częstochowa - Działoszyn</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">W pobliżu mostu dobrze zaopatrzone sklepy spożywcze</opispunktu> 
+    </punkt>
+    <punkt id="3546" miejscowosc="Krym" 
+      ns="51.02636111" we="18.90513889" km="18" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Drewniany młyn</opispunktu> 
+    </punkt>
+    <punkt id="3545" miejscowosc="Szyszków" 
+      ns="51.0255152" we="18.87473155" km="20.6" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    </punkt>
+    <punkt id="3544" miejscowosc="Rębielice Szlacheckie" 
+      ns="51.02172712" we="18.85791257" km="22.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="3543" miejscowosc="Rębielice Szlacheckie" 
+      ns="51.01905556" we="18.85527778" km="22.6" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Szeroki jaz o wysokości 1,5m, tuż za nim duże głazy.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewym brzegiem.</opispunktu> 
+    </punkt>
+    <punkt id="3542" miejscowosc="Rębielice Szlacheckie" 
+      ns="51.01764981" we="18.84908443" km="23.1" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    </punkt>
+    <punkt id="3541" miejscowosc="Troniny" 
+      ns="51.01069522" we="18.8253063" km="26.3" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Dobrze zachowany 4 piętrowy kamienny budynek elektrowni (młyna ?)</opispunktu> 
+    </punkt>
+    <punkt id="3540" miejscowosc="Danków" 
+      ns="51.00094906" we="18.8049019" km="28.3" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce wodowania poniżej filarów po zastawce.</opispunktu> 
+    </punkt>
+    <punkt id="3550" miejscowosc="Trzebca" 
+      ns="51.03994367" we="19.05439069" km="1.9" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście rzeki Kocinki</opispunktu> 
+    </punkt>
+    <punkt id="3551" miejscowosc="Trzebca" 
+      ns="51.04163676" we="19.0518714" km="1.6" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3552" miejscowosc="Kule" 
+      ns="51.04752335" we="19.0352095" km="0" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Liswarty do Warty.
+Bardzo wygodne miejsce zakończenia spływu z pomostem i dojazdem nad wodę, znajduje się w Wąsoszu, około 3 km w dół Wartą.</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

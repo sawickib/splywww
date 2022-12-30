@@ -1,0 +1,140 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.71368858" lon="15.40387178">
+<name>24.60</name>
+<desc>Mostek drogowy - dwa sklepione przęsła. Samochód można zostawić w okolicy pobliskiego domu przy ul. Nadbrzeżnej 10. Teren wygląda na prywatny, warto więc zapytać o taką możliwość, gospodarza. Dalej odcinek kręcącej rzeki pośród zabudowań, jednak na tyle daleko od domost, że odnosi się wrażenie dzikości. W kilku miejscach bezpośrednio do rzeki uchodzą wilgotne i śmierdzące rurki, ale nie jest ich wiele i nie burzą harmonii całości. Po drodze kilka łatwych zwałek, kamiennych bystrzy i charakterystyczne płaśnie o twardym, białym ilastym dnie, na których nurt nieco przyspiesza. W górnej Brzeźnicy rzeka ma 3-4 m szerokości</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.71353310" lon="15.39843284">
+<name>24.10</name>
+<desc>Z lewej strony, spod mostu wpada Kociński Potok (przed wojną - Kothen Bach), znacząco polepszając stosunki wodne w Brzeźnicy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.71604769" lon="15.39134177">
+<name>23.30</name>
+<desc>Most drogowy w pobliżu kościoła, za nim kamienne bystrze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.72170400" lon="15.38237658">
+<name>21.90</name>
+<desc>Betony most. Tuż za nim, nisko nad lustrem wody, słabo widoczne pastuchy elektryczne</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.72232386" lon="15.37679691">
+<name>21.40</name>
+<desc>Główny most ceglany w Brzeźnicy, w ciągu ul. Zielonogórskiej. Trzy sklepione przęsła podparte filarami. Z uwagi na to, że na rzece nie ma czytelnych urzadzeń pomiarowych poziomu wody w rzece, orograficznie prawy filar mostu może posłużyć za wodowskaz. Zaraz za mostem, z lewej strony wpada potok Mrówla (dawniej Reinitz Bach)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.72429045" lon="15.37193282">
+<name>20.90</name>
+<desc>Most betonowy przy ul. Leśnej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.72731167" lon="15.36852478">
+<name>20.30</name>
+<desc>Kładka spinająca brzegi rzeki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.72951506" lon="15.36336525">
+<name>19.60</name>
+<desc>Przed wpłynięciem do lasu kamienne bystrze, na ostrym zakręcie w lewo. Stał tu kiedyś  most, co widać na przedwojennych mapach i prawdopodobnie na ruinach mostu powstało bystrze</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.73114228" lon="15.35806352">
+<name>19.10</name>
+<desc>Ruiny młyna. Przyczółki po zastawce, a za nimi na brzegu, po lewej stronie charakterystyczne graniastosłupy betonowych filarów</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.73128260" lon="15.35695454">
+<name>19.00</name>
+<desc>Most drogowy. Wygodne miejsce dostępu do wody przed odcinkiem leśnym. Początek rezerwatu przyrody Dąbrowa Brzeźnicka im. Bolesława Grochowskiego. Zaczyna się odcinek zwałkowy, większość przeszkód możliwa jest do pokonania w pojedynkę, ale w kilku przypadkach konieczna jest współpraca zespołu. Do Przybymierza ładnie, chociaż w oczy rzucają się też nagromadzenia śmieci, niesione przez rzekę i osadzone na licznych przeszkodach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.73155023" lon="15.35660149">
+<name>18.90</name>
+<desc>Niski betonowy mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.73399568" lon="15.35281523">
+<name>18.50</name>
+<desc>Most betonowy na leśnej drodze, oznaczonej na mapach, jako ścieżka rowerow nr VIII. Koniec rezerwatu przyrody</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.74194257" lon="15.34966723">
+<name>16.60</name>
+<desc>Z prawej strony dopływa rzeczka Szum</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.74528293" lon="15.34828106">
+<name>15.90</name>
+<desc>Z prawej strony dopływ bezimiennego potoku, ale bardzo malowniczego. Na przedwojennych, niemieckich mapach widnieje on pod nazwą Dober</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.74744805" lon="15.34621974">
+<name>15.40</name>
+<desc>Kamienny prożek w miejscu po starym moście. Poniżej spore bobrowisko, mnóstwo zgryzów i zwalonych drzew</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.75186538" lon="15.33896396">
+<name>14.50</name>
+<desc>Z prawej strony ujście potoku Dobra</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.75273514" lon="15.33775500">
+<name>14.40</name>
+<desc>Most drogowy z wygodnym dostępem do wody. Pod mostem kamienne bystrze. Kilkaset metrów za Przybymierzem, po wpłynięciu rzeki do lasu rozpoczyna się bardzo malowniczy odcinek do Drągowiny. Zmienia się nieco charakter lasu, ale zwałki występują dalej. W krajobrazie doliny dominuje starodrzew liściasty, a w korycie rzeki żwirowe bystrza, głazy i wysokie burty skarp</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.75803887" lon="15.31853072">
+<name>11.80</name>
+<desc>Nowy most betonowy na leśnej drodze, oznakowanej na mapach, jako rowerowa VIII. Poniżej wysokie skarpy i głazy w nurcie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.76554266" lon="15.30535402">
+<name>9.00</name>
+<desc>Ruiny urządzeń piętrzących wodę dla starego, nieczynnego młyna w Drągowinie</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.76620732" lon="15.30459563">
+<name>8.80</name>
+<desc>Wysoki most betonowy przy zabudowaniach byłej leśniczówki w Drągowinie, obecnie gospodarstwa Malinówka. U niezwykle gościnnych, uczynnych i sympatycznych gospodarzy, Państwa Magdy i Sylwestra można zaopatrzyć się w różnorodne autorskie, własne wyroby kulinarne. O zamiarze odwiedzenia gospodarstwa Malinówka należy uprzedzić wcześniej gospodarzy, gdyż teren okolicy mostu po obydwu stronach jest ich prywatnym, jest ogrodzony i wykorzystywany przez liczne, spacerujące luzem, często dość egzotyczne zwierzęta gospodarskie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.76783690" lon="15.30219076">
+<name>8.50</name>
+<desc>Główny most na gruntowej, ale publicznej drodze, z wygodnym dostępem do wody. Zaraz za mostem po prawej stronie stoi stary wodowskaz, niestety nieczytelny</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.76883410" lon="15.30108156">
+<name>8.20</name>
+<desc>Niski betonowy prożek. Poniżej odcinek malowniczy, w lesie, liczne zwałki, pojedyncze tamy bobrowe, głazy narzutowe w nurcie i żwirowe przemiały</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.77500223" lon="15.28804063">
+<name>6.40</name>
+<desc>Wysoki na około 3 m betonowy próg po młynie Kupferhammer, z odchodzącą w prawo młynówką. Próg sam w sobie nie jest trudny do spłynięcia przy wyższej wodzie, jednak ze względu na zalegające poniżej wielkie betonowe głazy może być dość niebezpieczny. Konstrukcja posiada filar, który dzieli go na dwie części. Lewa strona stanowi pochylnię, natomiast prawa strona to pionowy uskok. Teoretycznie, tuż za filarem istnieje 1,5 metrowa przestrzeń pomiędzy częścią pionową a pochylnią, poniżej której nie ma betonowych głazów i którą można próbować spłynąć. W przypadku braku możliwości precyzyjnego manewrowania, istnieje jednak możliwość uszkodzenia sprzętu. Wygodną przenoskę można wykonać prawym brzegiem, wpływając w młynówkę i przerzucając się 30m na piaszczystą plażę poniżej progu. Dalej rozpoczyna się odcinek bardzo malowniczy w głęboko wciętym korycie, w równie głębokiej dolinie, obfitujący w bystrza i pojedyncze głazy, powalone drzewa i wysokie podmyte piaszczyste skarpy</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.79172187" lon="15.24918816">
+<name>1.20</name>
+<desc>Wysoko posadowiony most na drodze nr 295 do Żagania. Niezbyt wygodny dostęp do wody oraz ruchliwa droga sprawia, że nie jest to dobre miejsce na zakończenie etapu</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.79177913" lon="15.24855124">
+<name>1.10</name>
+<desc>Wysokie przyczółki po starym moście, a pomiędzy nimi leżące w wodzie kanciaste głazy, tworzące bystrze. Ze względu na możliwość uszkodzenia sprzętu, przy niższej wodzie lepiej obnieść to miejsce prawą stroną</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.79527326" lon="15.24135631">
+<name>0.00</name>
+<desc>Ujście rzeki Brzeźnica do Bobru. Spływ wygodnie jest zakończyć kilkaset metrów niżej, pod mostem na Bobrze z prawej strony. Za mostem znajduje się spory trawiasty plac na samochody, przed bramą popadającej w ruinę starej fabryki</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

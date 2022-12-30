@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="194" nazwa="Słoja" wersja="1">
+<opis>Prawy dopływ Supraśli. Najwęższa i najbardziej uciążliwa w swym górnym biegu rzeka Puszczy Knyszyńskiej, dostępna dla kajaków. W szczycie sezonu wegetacyjnego mocno zarasta trzcinami i roślinnością wodną, a ze względu na to, że jest mało uczęszczana, jej szlak nie jest specjalnie przetarty. Trzcinowe zatory są tu na porządku dziennym, a co pewien czas zdarzają się też zwałki, z czego niektóre dość wymagające. Spływ najwygodniej jest rozpocząć w Talkowszczyźnie, jednak początkowy odcinek jest dość uciążliwy ze względu na liczne płycizny i minimalną szerokość rzeki. Niestety poniżej nie ma specjalnie możliwości dostępu do wody, tak aby ominąć ten fragment rzeki, która niemal w całości płynie w szerokiej, podmokłej, otwartej dolinie. Jedyne wygodne miejsca lądowania i wodowania znajdują się w Lipowym Moście oraz Kondycji, czyli w dolnym biegu Słoji. Dla pocieszenia, na 20 km rzeki jest tylko jedna obowiązkowa, bardzo krótka przenoska.
+Na Słoji nie ma wodowskazów, których odczyty można śledzić zdalnie. Najbliższe znajdują się na Supraśli i na Sokołdzie. Wskazania wodowskazów Nowosiółki 130, Sokołda 171, Supraśl 103, Fasty 122 gwarantują dostateczne warunki wodne na górnej Słoji oraz bardzo dobre poniżej Talkowszczyzny. Przy tych wskazaniach, odcinek Talkowszczyzna - Kondycja zajął nieco ponad 6h.
+Krótki odcinek do ujścia do Supraśli nie powinien zająć więcej niż 10 min, jednak miejscami może być wąsko w gęstych trzcinowiskach</opis> 
+    <punkt id="6192" miejscowosc="Talkowszczyzna" 
+      ns="53.26467283" we="23.58869503" km="20" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na drodze nr 676 Supraśl - Krynki. Wygodny dostęp do wody poniżej mostu z prawej strony, chociaż miejsce to lubi zarastać. Poniżej koryto wąskie, miejscami uciążliwie ze względu na piaszczyste mielizny, przewrócone drzewa, niskie drewniane kładki i wąskie prześwity pomiędzy trzcinami. W obrębie wsi rzeka bardzo kręta, a miejscami posiada szerokość kajaka. Dno piaszczyste, jednak po przepłynięciu kajaków, stagnujący przy brzegach muł całkowicie mąci krystalicznie czystą wodę. Po wypłynięciu poza zabudowania wsi znikają kładki, ale zdarzają się zatory z roślinności gromadzącej się na leżących w poprzek drzewach. Dalej również koryto miejscami bardzo wąskie i zarastające trzciną, utrudniające wiosłowanie. Rzeka wypływa na szeroką dolinę i robi się znacznie głębiej. Nurt miejscami niemal niezauważalny</opispunktu> 
+    </punkt>
+    <punkt id="6193" miejscowosc="Nowe Trzciano" 
+      ns="53.25879323" we="23.57210301" km="17.7" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pojawienie się kolejnych niskich kładek i zwałek zwiastuje zbliżanie się do miejscowości Nowe Trzciano. Charakterystyczna jest zwłaszcza niska kładka zbudowana z płyt jasnych, stalowych kaloryferów, doskonale widoczna na zdjęciu satelitarnym i pierwotnie zinterpretowana, jako prożek piętrzący wodę</opispunktu> 
+    </punkt>
+    <punkt id="6194" miejscowosc="Nowe Trzciano" 
+      ns="53.25368824" we="23.56387675" km="16.6" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany, wysoki mostek</opispunktu> 
+    </punkt>
+    <punkt id="6195" miejscowosc="Nowe Trzciano" 
+      ns="53.24403108" we="23.55954887" km="15.1" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony wpada rzeczka Starzynka, niosąca podobną ilość wody, co Słoja. Na chwilę robi się szerzej, jednak miejscami rzeka jest nadal mocno zarośnięta i wiosłowanie bywa utrudnione</opispunktu> 
+    </punkt>
+    <punkt id="6196" miejscowosc="Lipowy Most" 
+      ns="53.22792348" we="23.54508793" km="11.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Zniszczony, betonowy przepust z 4 rur, dawniej zapewne pełniący funkcję mostu. Ze względu na sterczące ostre fragmenty betonu zalecana jest tu krótka przenoska prawą stroną</opispunktu> 
+    </punkt>
+    <punkt id="6197" miejscowosc="Lipowy Most" 
+      ns="53.21486299" we="23.53002983" km="8.4" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pojawienie się kolejnych niskich kładek oraz pojedynczych zwałek, zwiastuje zbliżanie się do zabudowań Lipowego Mostu</opispunktu> 
+    </punkt>
+    <punkt id="6198" miejscowosc="Lipowy Most" 
+      ns="53.20953587" we="23.53057317" km="7.5" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na publicznej, szutrowej drodze. Wygodny dostęp do wody poniżej mostu, po lewej stronie. Poniżej pojedyncze zatory z roślin oraz zwałki, niektóre dość wymagające</opispunktu> 
+    </punkt>
+    <punkt id="6199" miejscowosc="Kondycja - Borki" 
+      ns="53.18174573" we="23.52481621" km="0.5" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na szutrowej drodze. Wygodne miejsce zakończenia spływu. Poniższy, 500 metrowy odcinek do ujścia może być zarośnięty trzcinami i wiosłowanie może być utrudnione</opispunktu> 
+    </punkt>
+    <punkt id="6200" miejscowosc="Nowosiółki" 
+      ns="53.18117839" we="23.5205134" km="0" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Słoja uchodzi do Supraśli. Najbliższe, najbardziej dogodne miejsce zakończenia spływu znajduje się w Borkach, po prawej stronie, 3,5 km w dół Supraślą</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

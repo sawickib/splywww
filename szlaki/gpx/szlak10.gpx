@@ -1,0 +1,197 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.22278000" lon="22.53972000">
+<name>0.00</name>
+<desc>Jest tu nieźle urządzone obozowisko na kilka
+namiotów - własność gospodarza z pobliskiej wioski Supienie.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.20380000" lon="22.61655000">
+<name>5.80</name>
+<desc>Kamienny mostek pomiędzy J. Rospuda i J. Kamiennym.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.18305000" lon="22.62710000">
+<name>8.60</name>
+<desc>Ujście Rospudy z j. Kamiennego.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.17965000" lon="22.62958000">
+<name>8.90</name>
+<desc>Most na drodze do Suwałk</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.16112000" lon="22.62323000">
+<name>11.40</name>
+<desc>Ujście Rospudy do J. Długiego.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.15045000" lon="22.62830000">
+<name>12.70</name>
+<desc>Most na drodze Szafranki - Garbaś.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.13055000" lon="22.63240000">
+<name>15.50</name>
+<desc>Ujście Rospudy do J. Garbaś.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.12892000" lon="22.62247000">
+<name>15.70</name>
+<desc>Bardzo komfortowa łączka biwakowa na prawym brzegu J. Garbaś, na przeciwko miejsca, w którym wpada Rospuda.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.12195000" lon="22.63470000">
+<name>16.70</name>
+<desc>Rospuda wypływa z J. Garbaś.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.11270000" lon="22.63525000">
+<name>18.00</name>
+<desc>Wypływ Rospudy z J. Głębokiego.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>W pewnym momencie poziom wody podnosi się wyraźnie a nurt zanika - zbliżamy się do niewielkiej zapory przy młynie wodnym w Bakałarzewie.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>20.00</name>
+<desc>Przenoska ma około 50m.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Ryneczek handlowy znajduje się około 500m od mostu - naprzeciw siebie stały tam duży i niemal pusty sklep spółdzielczy (państwowy?) i mały prywatny, w którym półki uginały się od towarów.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="54.09178000" lon="22.64567000">
+<name>20.30</name>
+<desc>Połączenie Rospudy z J. Sumowo.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.06535000" lon="22.66733000">
+<name>23.00</name>
+<desc>Ujście z J. Sumowo.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.05985000" lon="22.69635000">
+<name>26.80</name>
+<desc>Połączenie Rospudy z J. Okrągłym.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.05572000" lon="22.69585000">
+<name>27.00</name>
+<desc>Ujście z J. Okrągłego</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.04892000" lon="22.69688000">
+<name>28.40</name>
+<desc>Płn. kraniec J. Bolesty.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>29.50</name>
+<desc>Nad j. Bolesty ok. 1km poniżej ujścia Rospudy do płn.
+krańca jeziora, dwa dobre biwaki na prawym brzegu przy ujsciu rz. Czerwonka do jeziora.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.01018000" lon="22.74808000">
+<name>34.20</name>
+<desc>Płd. kraniec J. Bolesty.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="54.00478000" lon="22.76182000">
+<name>35.50</name>
+<desc>Nurt przegradza tu tartak.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>38.00</name>
+<desc>Most kolejowy </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>39.00</name>
+<desc>Rynek o 100m, kilka sklepów</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="53.98460000" lon="22.80602000">
+<name>40.50</name>
+<desc>Biwak w pobliżu pałacu LM Paca.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Ruiny pałacu Ludwika Michała Paca (tego od znanego powiedzenia Pac wart pałaca). Park i zabezpieczone przed dalszym niszczeniem ruiny pałacu znajdują się w odległości kilkuset metrów od prawego brzegu rzeki. Z całej budowli pozostała tylko wieża zwana Bocianią i odbudowany fragment portyku, część pozostałych zabudowań okołopałacowych wykorzystują obecnie szkoły rolnicze. O historii pałacu i jego właściciela informuje tablica w parku.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.98452000" lon="22.80602000">
+<name>41.00</name>
+<desc>Kiepskie miejsce na biwak przy samym moście.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.97029200" lon="22.83344200">
+<name>43.30</name>
+<desc>Most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.94818100" lon="22.87351200">
+<name>49.20</name>
+<desc>Mostek w pobliżu Uroczyska Święte Miejsce.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>53.00</name>
+<desc>Mostek drogowy (ważny orientacyjnie)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>55.00</name>
+<desc>Pierwszy dobry biwak (prawy brzeg)</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>56.50</name>
+<desc>Drugi dobry biwak (też prawy brzeg)</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.89535000" lon="22.95392000">
+<name>60.30</name>
+<desc>Ujście do Rospudy połączonych rzek Szczeberki i Blizny.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.88357000" lon="22.96930000">
+<name>62.10</name>
+<desc>Ujście do północny kraniec J. Rospuda Augustowska.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>63.10</name>
+<desc>Na lewym brzegu półwysep "Goła Zośka" ze znamym kempingiem z wygodami.</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="53.85712000" lon="22.97143000">
+<name>65.00</name>
+<desc>Plaża w Augustowie, dogodne miejsce do zakończenia spływu.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.85070000" lon="22.97637000">
+<name>-1.00</name>
+<desc>Wypożyczalnia kajaków pana Jana Wojtuszko; ul. Nadrzeczna 62A, 16-300 Augustów, tel. (87) 6447540.</desc>
+<cmt>wypożyczalnia</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="2" nazwa="Słupia" wersja="5">
+<opis>Szlak Słupii od Gowidlina do Ustki.</opis> 
+  <odcinek id="4" typ="jezioro" nazwa="Jezioro Gowidlińskie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Płaski brzeg i bardzo dużo ładnych miejsc biwakowych</opis>
+    <punkt id="870" miejscowosc="" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Duży leśny biwak nad jeziorem Głębokim.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Jeśli nie zdecydowaliśmy się na spłynięcie starym korytem Słupii, czeka nas przewózka z j. Głębokiego do Gałąźnej Małej.</opispunktu> 
+    </punkt>
+    <punkt id="39" miejscowosc="Gowidlino" 
+      ns="54.32278" we="17.79346" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Duża łąka nad samym jeziorem Gowidlińskim. Bardzo miły właściciel, który jednak niestety wyczuł, że na kajakarzach można zarabiać.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="6" typ="rzeka" nazwa="Słupia w Sulęczynie" 
+      uciazliwosc="U4" trudnosc="WW1" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Prawdziwie górski kawałek rzeki, zaczyna się od pierwszego mostu, a kończy 3 metrowym jazem przy tartaku.</opis>
+    <punkt id="41" miejscowosc="Sulęczyno" 
+      ns="0" we="0" km="13" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy. Pod nim bystrze WW1+, napłynięcie z lewej na prawą. Betonowy most z datą 1908.  Mostek betonowy niezbyt używany Mostek drogowy do tartaku. Od niego zaczyna się bystrze WW1-2.</opispunktu> 
+    </punkt>
+    <punkt id="42" miejscowosc="Sulęczyno" 
+      ns="54.23037" we="17.76651" km="14" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Konieczna przenoska jazu po prawej stronie około 100m</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz spietrzający wodę do tartaku. Wysokość około 3 metrów.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="7" typ="rzeka" nazwa="Słupia od Sulęczyna do J. Żukowskiego" 
+      uciazliwosc="U3" trudnosc="ZWC" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Rzeka płynie szybko, wąsko, płytko. Zwalone drzewa, krzaki, mikroprogi.</opis>
+    <punkt id="44" miejscowosc="Nowe Pole" 
+      ns="54.2278" we="17.73098" km="18" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy, pod mostem bystrze z kamieniami WW1</opispunktu> 
+    </punkt>
+    <punkt id="45" miejscowosc="" 
+      ns="54.22046" we="17.70402" km="21" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie wodne z Jeziorem Mausz</opispunktu> 
+    </punkt>
+    <punkt id="46" miejscowosc="" 
+      ns="54.22769" we="17.67509" km="23" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">betonowy most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="47" miejscowosc="" 
+      ns="54.22684" we="17.64428" km="26" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most, którego nie ma na niektórych mapach.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="8" typ="jezioro" nazwa="Jezioro Żukowskie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="4"> 
+  <opis>Ładne jeziorko, szczegółów nie pamietam.</opis>
+    <punkt id="48" miejscowosc="" 
+      ns="54.23037" we="17.63071" km="27" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Słupii do Jeziora Żukowskiego</opispunktu> 
+    </punkt>
+    <punkt id="49" miejscowosc="" 
+      ns="54.2405" we="17.61885" km="" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Duże i ładne pole biwakowe, tuż przed ujściem rzeki, na prawym brzegu. Stoliki, 5zl za namiot.</opispunktu> 
+    </punkt>
+    <punkt id="50" miejscowosc="" 
+      ns="54.24026" we="17.61801" km="28.5" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Słupii z Jeziora Żukowskiego</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="9" typ="rzeka" nazwa="Słupia od Soszyc od J. Głębokiego" 
+      uciazliwosc="U2" trudnosc="ZWC" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="5"> 
+  <opis>Dosyć kręta i trudna rzeka. Trochę drzew, ale 95% z nich można pokonać bez wysiadania z kajaka.</opis>
+    <punkt id="55" miejscowosc="Soszyca" 
+      ns="54.24993" we="17.61801" km="32" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">betonowy most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="57" miejscowosc="Gołębia Góra" 
+      ns="54.25607" we="17.4785" km="42" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Duży i wysoki most betonowy na ruchliwej drodze. Pod mostem bystrze w kamieniami.</opispunktu> 
+    </punkt>
+    <punkt id="58" miejscowosc="Gołębia Góra" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Zaraz za mostem po prawej elegancki biwak, wiaty, stoliki itp. Wadą  jest zbyt dobry dojazd dla samochodów.</opispunktu> 
+    </punkt>
+    <punkt id="59" miejscowosc="" 
+      ns="54.26879" we="17.422286" km="47" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony odejście na Zalew Bytowej i stare koryto Słupii.</opispunktu> 
+    </punkt>
+    <punkt id="60" miejscowosc="" 
+      ns="54.27026" we="17.41423" km="47.55" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych przy ujściu Słupii do Jeziora Głębokiego.</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Słupii do Jeziora Głębokiego. Jest to raczej sztuczne ujście, krótki kanałek został przekopany dla potrzeb elektrowni w Gałąźni Małej.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="11" typ="mieszany" nazwa="Słupia od Gałąźnej Małej do Łysomiczek" 
+      uciazliwosc="U4" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="6"> 
+  <opis>Trzy elektrownie: Gałąźna Mł., Konradowo, Krzynia. Kanałki, przenoski, jeziora zalewowe. Poziom wody silnie sie zmienia nawet o 50cm, w zależności od pracy elektrowni (normalnie 7-13h, 19-22h).</opis>
+    <punkt id="65" miejscowosc="Gałąźna Mała" 
+      ns="54.2883" we="17.30307" km="58" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Zagospodarowane pole biwakowe, wiaty, stoliczki, miejsce na ognisko.</opispunktu> 
+    </punkt>
+    <punkt id="67" miejscowosc="" 
+      ns="54.31224" we="17.24541" km="" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na malutkiej wysepce na Jeziorze Konradowo. Maksymalna pojemność 11 osób. Powierzchnia 50 m2.</opispunktu> 
+    </punkt>
+    <punkt id="68" miejscowosc="" 
+      ns="54.31224" we="17.2397" km="62.5" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Słupii z Jeziora Konradowo. Wpływamy w kanał do elektrowni pod otwartą zastawką.</opispunktu> 
+    </punkt>
+    <punkt id="69" miejscowosc="Konradowo" 
+      ns="54.32033" we="17.2316" km="63.3" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Po prawej stronie wygodnie obnosimy elektrownie, 150metrów.</opispunktu> 
+    </punkt>
+    <punkt id="70" miejscowosc="" 
+      ns="54.34899" we="17.21401" km="" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Bardzo fajne miejsce biwakowe w połowie jeziora Krzynia na lewym brzegu.</opispunktu> 
+    </punkt>
+    <punkt id="71" miejscowosc="Krzynia" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Dobre miejsce biwakowe na zalesionym cyplu na prawym brzegu jeziora Krzynia.</opispunktu> 
+    </punkt>
+    <punkt id="72" miejscowosc="Krzynia" 
+      ns="54.34899" we="17.21215" km="68.5" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy elektrowni.</opispunktu> 
+    </punkt>
+    <punkt id="73" miejscowosc="Krzynia" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Po lewej przenosimy 150 metrów do okoła elektrowni. Wygodnie i ciekawostka w postaci tunelu do przenosek pod drogą ;))</opispunktu> 
+    </punkt>
+    <punkt id="74" miejscowosc="Krzynia" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="bar" kolejnosc="-1">Zaraz koło elektrowni jest sezonowy bar "Pod Brzozami". Drogo, ale można zjeść małe conieco.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="12" typ="rzeka" nazwa="Słupia od Łysomiczek do Słupska" 
+      uciazliwosc="U3" trudnosc="ZWC" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="7"> 
+  <opis>Już dosyć duża i głęboka rzeka. Nurt silny, zawalone drzewa, krzaki w wodzie. Najtrudniejszy fragment odcinka przed Łosinem.</opis>
+    <punkt id="75" miejscowosc="Łysomiczki" 
+      ns="54.35852" we="17.15588" km="71" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="76" miejscowosc="Łysomiczki" 
+      ns="54.35705" we="17.15486" km="" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Przed mostem małe pole biwakowe,  a poniżej mostu wielkie, zagospodarowane pole biwakowe szlaku Słupii. Darmowe.</opispunktu> 
+    </punkt>
+    <punkt id="77" miejscowosc="" 
+      ns="54.36022" we="17.08534" km="76.5" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy drogowy 2 km od Żelkowa.</opispunktu> 
+    </punkt>
+    <punkt id="78" miejscowosc="" 
+      ns="54.3778" we="17.05186" km="79" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na drodze między Kwakowem, a Lubuniem.</opispunktu> 
+    </punkt>
+    <punkt id="79" miejscowosc="Łosino" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Dogodne do biwakowanie pole na lewym brzegu, na wysokości Łosina. Dobra do biwakowania łąka tuż poniżej mostu koło Łosina.</opispunktu> 
+    </punkt>
+    <punkt id="80" miejscowosc="" 
+      ns="54.41635" we="17.02601" km="87" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="most" kolejnosc="-1">Dziurawy most stalowo drewniany około Łosina.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="13" typ="rzeka" nazwa="Słupia od Słupska do morza" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL3" 
+      kolejnosc="8"> 
+  <opis>Szeroka i głęboka rzeka 20m. Zdarzają się przeszkody w postaci zatoru z kilku zwalonych drzew. Bardzo ładna okolica. W strone morza stopniowo  coraz łatwiej.</opis>
+    <punkt id="52" miejscowosc="Młynki" 
+      ns="0" we="0" km="29.3" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">betonowy most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="53" miejscowosc="Młynki" 
+      ns="0" we="0" km="29.4" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Spietrzenie wody do elektrowni, dalej kanał, który jest normalnie nie pływany.</opispunktu> 
+    </punkt>
+    <punkt id="81" miejscowosc="Słupsk" 
+      ns="54.45346" we="17.03546" km="92" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowy mostek pieszo-rowerowy.</opispunktu> 
+    </punkt>
+    <punkt id="83" miejscowosc="Słupsk" 
+      ns="54.45973" we="17.03949" km="93" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Rozdzielenie koryta, na lewo kanał do młyna. Lepiej płynąć prosto i wygodnie obnieść jaz.</opispunktu> 
+    </punkt>
+    <punkt id="84" miejscowosc="Słupsk" 
+      ns="54.4598" we="17.0395" km="93.1" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych o konstrukcji łukowej.</opispunktu> 
+    </punkt>
+    <punkt id="85" miejscowosc="Słupsk" 
+      ns="0" we="0" km="93.15" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="jaz" kolejnosc="-1">2 metrowe spietrzenie wody, niespływalne.</opispunktu> 
+    </punkt>
+    <punkt id="88" miejscowosc="Słupsk" 
+      ns="0" we="0" km="93.8" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Duży, szeroki most drogowy na drodze krajowej. Dalej w Słupsku są jeszcze cztery mosty z czego ostatni zupełnie metalowy.</opispunktu> 
+    </punkt>
+    <punkt id="89" miejscowosc="Słupsk" 
+      ns="54.48162" we="17.02996" km="94.5" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="most" kolejnosc="-1">Duży i wysoki most kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="90" miejscowosc="" 
+      ns="54.54415" we="16.97894" km="107" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka drewniana, dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="91" miejscowosc="" 
+      ns="54.5443" we="16.9788" km="107.2" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Glina do Słupi z prawej strony.</opispunktu> 
+    </punkt>
+    <punkt id="92" miejscowosc="Bydlino" 
+      ns="54.54224" we="16.97894" km="" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Łąka biwakowa na lewym brzegu przed wsią. Miły gospodarz, można kupić mleko.</opispunktu> 
+    </punkt>
+    <punkt id="93" miejscowosc="Bydlino" 
+      ns="54.53839" we="16.96788" km="110" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="most" kolejnosc="-1">Duży most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="94" miejscowosc="" 
+      ns="54.54551" we="16.92781" km="113.5" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most koło Niestkowa</opispunktu> 
+    </punkt>
+    <punkt id="95" miejscowosc="" 
+      ns="54.55621" we="16.88757" km="118" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="most" kolejnosc="-1">most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="96" miejscowosc="Wodnica" 
+      ns="54.55723" we="16.87767" km="120" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="most" kolejnosc="-1">drewniany mostek</opispunktu> 
+    </punkt>
+    <punkt id="97" miejscowosc="Ustka" 
+      ns="54.57967" we="16.85713" km="124" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="most" kolejnosc="-1">Jedny most drogowy w Ustce</opispunktu> 
+    </punkt>
+    <punkt id="98" miejscowosc="Ustka" 
+      ns="54.57735" we="16.85494" km="" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Camping jaki udalo Mi się znaleźć najbliżej rzeki. Ul. Polna 2, 200 metrów od rzeki. Ciepła woda, prysznic.</opispunktu> 
+    </punkt>
+    <punkt id="100" miejscowosc="Ustka" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Bardzo dużo różnych sklepów</opispunktu> 
+    </punkt>
+    <punkt id="99" miejscowosc="Ustka" 
+      ns="0" we="0" km="125" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Słupii do Morza Bałtyckiego.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="5" typ="rzeka" nazwa="Słupia od J. Gowidlińskiego do J. Węgorzyno" 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Mała, wąska rzeka, czasami zarośnięta krzakami.</opis>
+    <punkt id="40" miejscowosc="Amalka" 
+      ns="0" we="0" km="8" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

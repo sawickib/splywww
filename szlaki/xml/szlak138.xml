@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="138" nazwa="Polska Woda (dopływ Baryczy)" wersja="1">
+<opis>Niewielki lewy dopływ Baryczy na pograniczu województw dolnośląskiego i wielkopolskiego. Obszar źródliskowy znajduje się w okolicach Sycowa (pow. oleśnicki), skąd płynie na północ, 'na chwilę' wpływa na teren Wielkopolski (pow. ostrzeszowski), w okolicach Międzyborza wraca również 'na chwilę' na Dolny Śląsk, następnie wpływa z powrotem na obszar Wielkopolski (pow. ostrowski), by po kilku kilometrach zmienić kierunek na północno-zachodni. Za miejscowością Bogdaj wpływa po raz kolejny na obszar województwa dolnośląskiego, by dotrzeć do Baryczy w kompleksie Stawów Milickich. Rzeka w górnym biegu nazywana jest Młyńską Wodą. Stosunkowo urozmaicona, plynie przez tereny otwarte, łąki i pola, a także przez obszary zalesione. Na przestrzeniach otwartych przeważnie jest uregulowana i częściowo wyprostowana (zasila stawy hodowlane), ale gdy zbliża się do lasów staje się dzika, zwałkowa i meandrująca. Lubiący skoki z prożków nie będą zawiedzeni. Rzeka pozwala też na rozprostowanie nóg, bowiem co pewien czas zapewnia przymusową przenoskę przez zamknięte zastawki. Opis sporządzono dla warunków wodnych panujących przy wskazaniu 224 na wodowskazie Bogdaj. Odcinek z Rybina do Bogdaja zajął dwom K1 przy tych warunkach 7,5 h (bez pośpiechu).</opis> 
+    <punkt id="4795" miejscowosc="Rybin" 
+      ns="51.37289379" we="17.73757262" km="41.2" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze asfaltowej. W pobliżu sporo miejsca na pozostawienie samochodów. Przy stanie wody 224 na wodowskazie Bogdaj, na odcinku do Niwek Kraszowskich zdarzają się wypłycenia utrudniające swobodny spływ</opispunktu> 
+    </punkt>
+    <punkt id="4796" miejscowosc="Rybin" 
+      ns="51.37788273" we="17.73395963" km="40.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zniszczona zastawka</opispunktu> 
+    </punkt>
+    <punkt id="4797" miejscowosc="Rybin" 
+      ns="51.3817363" we="17.73418677" km="40" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek 0,4 m - dwa przęsła z metalową kładką</opispunktu> 
+    </punkt>
+    <punkt id="4798" miejscowosc="Dąbrowa Kraszowska" 
+      ns="51.38808209" we="17.72954644" km="39.3" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Przyczółki po zniszczonej zastawce</opispunktu> 
+    </punkt>
+    <punkt id="4799" miejscowosc="Dąbrowa Kraszowska" 
+      ns="51.38854954" we="17.72932547" km="39.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka pod kątem 90 stopni w prawo, o wysokości 1,5m, poniżej zastawki sucho, cała woda płynie prosto</opispunktu> 
+    </punkt>
+    <punkt id="4800" miejscowosc="Niwki Kraszowskie" 
+      ns="51.39975474" we="17.71594505" km="37.7" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 2,5m - dwu stopniowy, w pobliżu zabudowań, niski betonowy most przed progiem uniemożliwia spłynięcie</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewą stroną około 20 m</opispunktu> 
+    </punkt>
+    <punkt id="4801" miejscowosc="Niwki Kraszowskie" 
+      ns="51.40014547" we="17.71578677" km="37.6" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, pod nim drewniane pale i kamienie. Wygodny dostęp do wody</opispunktu> 
+    </punkt>
+    <punkt id="4802" miejscowosc="Niwki Kraszowskie" 
+      ns="51.40156205" we="17.71561905" km="37.4" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 1,5 m, pod progiem głęboko, mały odwój</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualną przenoskę na odległość około 20 m zalecam wykonać lewym brzegiem, po trawie, prawy brzeg bowiem patrolowany jest przez kilka psów różnej wielkości, strzegących pobliskich domostw. Poniżej rzeka staje się dzika, meandruje, pojawiają się zwałki</opispunktu> 
+    </punkt>
+    <punkt id="4803" miejscowosc="Niwki Kraszowskie" 
+      ns="51.40314623" we="17.71860421" km="37.1" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony dopływa odnoga ze stawów. Nad nią, nieco w górę znajduje się most drogowy, wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="4804" miejscowosc="Niwki Książęce" 
+      ns="51.40823125" we="17.71871031" km="36.5" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy. Poniżej kilka zwałek w korycie rzeki</opispunktu> 
+    </punkt>
+    <punkt id="4805" miejscowosc="Niwki Książęce" 
+      ns="51.4135367" we="17.71582033" km="35.7" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="4806" miejscowosc="Kuźnica Kącka" 
+      ns="51.42049492" we="17.71016068" km="34.7" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="4807" miejscowosc="Kuźnica Kącka" 
+      ns="51.42755727" we="17.7072404" km="33.7" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="4808" miejscowosc="Chojnik" 
+      ns="51.43292992" we="17.70956081" km="32.9" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 0,8m, 3 przęsłowy z pochylnią, nad nim betonowa rama</opispunktu> 
+    </punkt>
+    <punkt id="4809" miejscowosc="Chojnik" 
+      ns="51.43589364" we="17.70910609" km="32.6" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Odejście w lewo młynówki - Młyńskiej Wody. Od tego miejsca oficjalnie rzeka nosi nazwę Polskiej Wody</opispunktu> 
+    </punkt>
+    <punkt id="4810" miejscowosc="Chojnik" 
+      ns="51.43626968" we="17.70922141" km="32.5" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 1,2m, 3 przęsła, nad progiem stalowa rama tworząca kładkę. Pod progiem głęboko, można skakać, odwój jest niewielki</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska 30m po trawie, lewym brzegiem. Za progiem niewygodne wodowanie z wysokiego brzegu</opispunktu> 
+    </punkt>
+    <punkt id="4811" miejscowosc="Chojnik" 
+      ns="51.43812084" we="17.71031847" km="32.2" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na lokalnej drodze. Poniżej rzeka intensywnie meandruje a w korycie zdarzają się leżące pojedyncze drzewa</opispunktu> 
+    </punkt>
+    <punkt id="4812" miejscowosc="Chojnik" 
+      ns="51.44609291" we="17.71056644" km="30.4" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na ruchliwej szosie nr 25 Oleśnica - Ostrów Wielkopolski</opispunktu> 
+    </punkt>
+    <punkt id="4813" miejscowosc="Chojnik" 
+      ns="51.4529216" we="17.69990897" km="28.9" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="4814" miejscowosc="Kałkowskie" 
+      ns="51.4635654" we="17.68964069" km="27.2" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski most. Metalowe szyny z napisem "Nośność 30 t"</opispunktu> 
+    </punkt>
+    <punkt id="4815" miejscowosc="Kałkowskie" 
+      ns="51.46411644" we="17.68858915" km="27" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 0,7m, 4 przęsła z metalową kładką</opispunktu> 
+    </punkt>
+    <punkt id="4816" miejscowosc="Kałkowskie" 
+      ns="51.46569052" we="17.68302759" km="26.6" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy z charakterystycznymi licznymi białymi stalaktytami</opispunktu> 
+    </punkt>
+    <punkt id="4817" miejscowosc="Kałkowskie" 
+      ns="51.47463021" we="17.6639763" km="26.2" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zniszczony próg o wysokości około 1m</opispunktu> 
+    </punkt>
+    <punkt id="4818" miejscowosc="Surmin" 
+      ns="51.48041744" we="17.6627945" km="23.7" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Metalowa kładka przy osiedlu domków letniskowych</opispunktu> 
+    </punkt>
+    <punkt id="4819" miejscowosc="Surmin" 
+      ns="51.4837031" we="17.65743726" km="23.1" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze, wygodny dostęp do wody, poniżej mostu zaczyna się odcinek zwałkowy</opispunktu> 
+    </punkt>
+    <punkt id="4820" miejscowosc="Mariak" 
+      ns="51.49022288" we="17.64612327" km="21.7" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="4821" miejscowosc="Mariak" 
+      ns="51.49254805" we="17.64260929" km="21.3" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zaraz za mostem znajduje się próg - pochylnia o wysokości około 1m. Poniżej pochylni w dnie leżą ostrokrawędziste kamienie</opispunktu> 
+    </punkt>
+    <punkt id="4822" miejscowosc="Mariak" 
+      ns="51.49381697" we="17.64048409" km="21" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek 0,4m z kamieniami poniżej</opispunktu> 
+    </punkt>
+    <punkt id="4823" miejscowosc="Mariak" 
+      ns="51.49493684" we="17.63872471" km="20.9" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta podwójna zastawka, za nią pochylnia i ostrokrawędziste kamienie</opispunktu> 
+    </punkt>
+    <punkt id="4824" miejscowosc="Mariak" 
+      ns="51.49998902" we="17.63543452" km="20.2" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="4825" miejscowosc="Mariak" 
+      ns="51.5010707" we="17.63199506" km="20" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek 0,3 m</opispunktu> 
+    </punkt>
+    <punkt id="4826" miejscowosc="Mariak" 
+      ns="51.5036387" we="17.62640723" km="19.4" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Podwójna podniesiona zastawka, próg 0,6m, niżej pochylnia i kamienie</opispunktu> 
+    </punkt>
+    <punkt id="4827" miejscowosc="Mariak" 
+      ns="51.50737888" we="17.62029655" km="18.8" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Podwójna otwarta zastawka, za nią pochylnia i próg 0,8m, poniżej płytko i ostrokrawędziste kamienie</opispunktu> 
+    </punkt>
+    <punkt id="4828" miejscowosc="Młynik" 
+      ns="51.50896603" we="17.61787378" km="18.6" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek 0,4m</opispunktu> 
+    </punkt>
+    <punkt id="4829" miejscowosc="Młynik" 
+      ns="51.51112715" we="17.61147623" km="18" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zamknięta podwójna zastawka</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Obowiązkowa przenoska prawym brzegiem około 30m. Mało wygodne wodowanie z wysokiego brzegu</opispunktu> 
+    </punkt>
+    <punkt id="4830" miejscowosc="Młynik" 
+      ns="51.51199689" we="17.60886415" km="17.8" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4831" miejscowosc="Młynik" 
+      ns="51.51422565" we="17.59608869" km="16.9" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="4832" miejscowosc="Młynik" 
+      ns="51.51439637" we="17.59340508" km="16.7" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zamknięta podwójna zastawka w pobliżu stawów i charakterystycznej wysokiej ambony</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Obowiązkowa przenoska lewym brzegiem na odległość około 10m. Wodowanie z betonowych płyt lub wysokiego brzegu</opispunktu> 
+    </punkt>
+    <punkt id="4833" miejscowosc="Bogdaj " 
+      ns="51.51609469" we="17.56447093" km="14.7" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne dojście do wody i sporo miejsca na samochody. Poniżej mostu znajduje się wodowskaz "Bogdaj", odczyty którego można obserwować na bieżąco w serwisie pogodowym IMGW-PIB. Przy stanie 224 wygodnie płynie się od Niwek Kraszowskich. Do tej miejscowości zdarzają się miejscowe wypłycenia</opispunktu> 
+    </punkt>
+    <punkt id="4834" miejscowosc="Lelików" 
+      ns="51.55585695" we="17.39193199" km="0" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Polskiej Wody do Baryczy</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="121" nazwa="Biebrza" wersja="1">
+<opis>Prawy dopływ Narwi o długości około 165 km. Swoje źródła ma na południe od Nowego Dworu na Podlasiu, uchodzi do Narwi ok. 3 km od Wizny. Jedna z "charakterystycznych" polskich rzek, którą każdy kajakarz obowiązkowo powinien spłynąć. Interesująca i diametralnie inna o każdej porze roku. Prawie w całości przepływa przez obszar Biebrzańskiego Parku Narodowego, z czym związane są pewne obostrzenia. Warto zapoznać się z nimi podczas planowania trasy spływu. Wiosenne spływy polecam tym, którzy cenią sobie ciszę, spokój i pełny kontakt z naturą. Rzeka wtedy rozlewa się praktycznie po całej dolinie i czasami można mieć trudności z ustaleniem jej głównego koryta. Poza tym tylko niezliczone ilości przeróżnego ptactwa, kilka łosi, jeden wilk... i my.</opis> 
+    <punkt id="4342" miejscowosc="Rogożynek" 
+      ns="53.70168984" we="23.40972521" km="149.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Sidry do Biebrzy</opispunktu> 
+    </punkt>
+    <punkt id="4343" miejscowosc="Lipsk" 
+      ns="53.73079" we="23.38302355" km="142.2" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4344" miejscowosc="Lipsk" 
+      ns="53.73375439" we="23.38681091" km="142.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oficjalne pole biwakowe (wiaty, toalety, prysznice), za mostem płytkim, zamulonym kanałem w prawo</opispunktu> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1">Wypożyczalnia sprzętu pływającego</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">W Lipsku kilka sklepów, w odległości około 1 km od pola biwakowego</opispunktu> 
+    </punkt>
+    <punkt id="4345" miejscowosc="Ostrowie" 
+      ns="53.71106282" we="23.23774435" km="126.1" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4346" miejscowosc="Ostrowie" 
+      ns="53.71106477" we="23.23709503" km="126" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Za mostem kolejowym po lewej stronie znajduje się oficjalne pole biwakowe tzn. kawałek podmokłej łączki</opispunktu> 
+    </punkt>
+    <punkt id="4347" miejscowosc="Krasnybór" 
+      ns="53.71412389" we="23.20498769" km="122" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście rzeki Lebiedzianki </opispunktu> 
+    </punkt>
+    <punkt id="4348" miejscowosc="Sztabin" 
+      ns="53.67190378" we="23.11636644" km="110" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Bardzo wąski most na bardzo ruchliwej szosie (bez pobocza)</opispunktu> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Lepiej tu nie wysiadać z kajaka. Do Sztabina wygodniej jest wybrać się z pola biwakowego oddalonego od mostu o 3 km</opispunktu> 
+    </punkt>
+    <punkt id="4349" miejscowosc="Sztabin" 
+      ns="53.66862747" we="23.10979296" km="109" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe po lewej stronie, z charakterystycznymi trójkątnymi domkami i banią</opispunktu> 
+    </punkt>
+    <punkt id="4350" miejscowosc="Sztabin" 
+      ns="53.67289144" we="23.09831075" km="107" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe po prawej stronie rzeki</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Wygodne dojście do sklepów w Sztabinie</opispunktu> 
+    </punkt>
+    <punkt id="4351" miejscowosc="Jagłowo" 
+      ns="53.62367717" we="22.99437182" km="92" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="4352" miejscowosc="Jagłowo" 
+      ns="53.62004281" we="22.96931702" km="90" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce wodowania kajaków</opispunktu> 
+    </punkt>
+    <punkt id="4353" miejscowosc="Dębowo" 
+      ns="53.60952515" we="22.93137919" km="84.9" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony do Biebrzy wpada woda z Kanału Augustowskiego, poprzez jaz. Przy wyższych stanach wody możliwa boczna fala i silniejszy nurt</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe po prawej stronie, pomiędzy jazem a śluzą Dębowo</opispunktu> 
+    </punkt>
+    <punkt id="4354" miejscowosc="Jasionowo" 
+      ns="53.58057909" we="22.93191733" km="81" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Brzozówki z lewej</opispunktu> 
+    </punkt>
+    <punkt id="4355" miejscowosc="Dolistowo" 
+      ns="53.55327542" we="22.90712764" km="77.2" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze gruntowej. Wygodne miejsce wodowania kajaków</opispunktu> 
+    </punkt>
+    <punkt id="4356" miejscowosc="Dolistowo" 
+      ns="53.5505611" we="22.9016198" km="76.6" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe (wiaty, wieża widokowa)</opispunktu> 
+    </punkt>
+    <punkt id="4357" miejscowosc="Wroceń" 
+      ns="53.53278338" we="22.8482506" km="71.6" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rozwidlenie rzeki, do pola biwakowego we Wroceniu płynąć w lewo</opispunktu> 
+    </punkt>
+    <punkt id="4358" miejscowosc="Wroceń" 
+      ns="53.5291503" we="22.8433405" km="71" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe. W pobliżu wieża widokowa</opispunktu> 
+    </punkt>
+    <punkt id="4359" miejscowosc="Wroceń" 
+      ns="53.52035313" we="22.80282309" km="67" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście rzeki Ełk</opispunktu> 
+    </punkt>
+    <punkt id="4360" miejscowosc="Goniądz" 
+      ns="53.49264688" we="22.7290602" km="59.8" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Kilkaset metrów od mostu znajduje się wieża widokowa BPN</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe za mostem po lewej stronie (kuchnia, toalety, natryski)</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">W Goniądzu kilka sklepów i restauracji</opispunktu> 
+    </punkt>
+    <punkt id="4361" miejscowosc="Osowiec" 
+      ns="53.48668548" we="22.64590337" km="52.3" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe za mostem w lewo kanałem</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Siedziba BPN. Twierdza Osowiec</opispunktu> 
+    </punkt>
+    <punkt id="4362" miejscowosc="Osowiec" 
+      ns="53.48302501" we="22.63844829" km="51.6" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4363" miejscowosc="Osowiec" 
+      ns="53.48234116" we="22.63787944" km="51.5" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy. W sezonie wiosennym BPN limituje ilość osobo-kajaków na dzień, od tego miejsca aż do Brzostowa. Zamiar płynięcia należy wcześniej zgłosić i za niego ekstra zapłacić</opispunktu> 
+    </punkt>
+    <punkt id="4364" miejscowosc="Osowiec" 
+      ns="53.477039" we="22.62462767" km="50.2" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z prawej Kanału Rudzkiego</opispunktu> 
+    </punkt>
+    <punkt id="4365" miejscowosc="Biały Grąd" 
+      ns="53.42878428" we="22.53399353" km="38.4" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe z wieżą widokową BPN. W sezonie wiosennym BPN nie zezwala na biwakowanie w tym miejscu</opispunktu> 
+    </punkt>
+    <punkt id="4366" miejscowosc="" 
+      ns="53.36062195" we="22.50350261" km="23.7" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Oznakowane ujście rzeki Kosódki z lewej</opispunktu> 
+    </punkt>
+    <punkt id="4367" miejscowosc="" 
+      ns="53.35902684" we="22.49735292" km="22.2" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Oznakowane ujście rzeki Wissy z prawej</opispunktu> 
+    </punkt>
+    <punkt id="4368" miejscowosc="Brzostowo" 
+      ns="53.31732598" we="22.46531963" km="14" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe z wieżą widokową</opispunktu> 
+    </punkt>
+    <punkt id="4369" miejscowosc="Wierciszewo" 
+      ns="53.21728364" we="22.4303056" km="0" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Biebrzy do Narwi</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

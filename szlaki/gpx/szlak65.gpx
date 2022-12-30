@@ -1,0 +1,45 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="49.81206862" lon="20.68202019">
+<name>0.00</name>
+<desc>Wypływ Dunajca z jeziora Czchowskiego.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="49.82358759" lon="20.68373680">
+<name>1.00</name>
+<desc>Prom w miejscowości Czchów. Należy uważaać na linę promu - schylić głowy.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="49.83538062" lon="20.69403648">
+<name>2.00</name>
+<desc>Na lewym brzegu, na pięknym wzniesieniu zamek w Czchowie.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="49.86631673" lon="20.77960968">
+<name>14.00</name>
+<desc>Na lewym brzgu, na wzniesieniu ruiny zamku w Melsztynie.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="49.86509958" lon="20.81291199">
+<name>15.00</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="49.95376028" lon="20.87453842">
+<name>26.00</name>
+<desc>Próg wodny za linią wysokiego napięcia.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="49.97153911" lon="20.88243484">
+<name>28.00</name>
+<desc>Most w miejscowości Łukanowice - Zgłobice na trasie E40. Koniec trasy.</desc>
+<cmt>most</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,70 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.59978991" lon="17.18198801">
+<name>19.00</name>
+<desc>Most na drodze z Barkowa do Debrzna. Kilka kilometrów płyniemy łąkami  - szlak niezwykle trudny i tylko na jedynki. Niedostępne brzegi, bagnisto - łąkowe. Przepływamy pod starym mostem i po 0,5 godziny dopływamy do mostu na drodze Uniechów - Debrzno</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.58960313" lon="17.15574429">
+<name>16.80</name>
+<desc>Most na drodze z Uniechowa do Debrzna. Zaczyna się leśny odcinek z większą ilością zwałek. Nurt jest wolny, koryto szerokie, brzegi bagniste. Rozlewiska zarośnięte trzciną, niską roślinnością wodną, łozami i krzakami, przez które miejscami trzeba się przeciągać</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.57929391" lon="17.14419964">
+<name>14.70</name>
+<desc>Kamieniste bystrze poniżej ukośnego prożka. Betonowe przyczółki po starym moście (chyba), po którym pozostała jedynie stalowa rura. Po lewej stronie wiata edukacyjna dla turystów wraz z ławami i stołami. W tym miejscu rzeka rozgałęzia się dwa razy by niedługo połączyć się z powrotem w jedno koryto. Poniżej rzeka nieco przyspiesza i pojawia się kilka drobnych zwałek. Niestety pogarsza się jej estetyka ponieważ w wodzie pojawiają się jakieś kłębki-kłaczki po czymś, co jest wyrzucane do rzeki poniżej progu. Niżej z lewej strony Czrząstową zasila ciek w kolorze mleka (listopad 2017)</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.57494254" lon="17.11821787">
+<name>12.20</name>
+<desc>Betonowy mostek przy dużej fermie (po prawej)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.57349259" lon="17.10143793">
+<name>10.90</name>
+<desc>Most betonowy na drodze do Pędziszewa, za charakterystycznym zakrętem o 90 stopni w lewo. Tuż za mostem po prawej ogrodzone pożarowe ujęcie wody dla Lasów Państwowych. Rzeka za mostem jest jeszcze wąska ale z czasem przechodzi w coraz szersze rozlewisko. Po obu stronach ładne widoki leśne</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.56430381" lon="17.07913098">
+<name>8.40</name>
+<desc>Jaz elektrowni w Nierybiu, nad nim most lokalnej drogi z Cierzni do Rozworów. Przy budynku znajduje się stolik z ławkami, a mili gospodarze nie mają nic przeciwko krótkiemu odpoczynkowi. Przenoska lewą stroną około 30 m, wodowanie z wysokiego brzegu</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.56002588" lon="17.05905677">
+<name>6.50</name>
+<desc>Drewniany mostek. Poniżej płyniemy wąskim odcinkiem z kilkoma zwałkami, który przed kolejną tamą przechodzi w szerokie rozlewisko najeżone sterczącymi z wody pniakami drzew</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.55945313" lon="17.03011909">
+<name>4.00</name>
+<desc>Tama elektrowni Buszkowo. Przenoska prawym brzegiem po trawie około 20 m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.55840388" lon="17.02614663">
+<name>3.70</name>
+<desc>Most na ruchliwej drodze nr 22 pomiędzy Lędyczkiem a Człuchowem. Wygodne miejsce zakończenia spływu, chociaż nie polecane ze względu na to, iż poniżej mostu rozpoczyna się atrakcyjny odcinek. Rzeka wpływa w leśne ostępy, przyspiesza i malowniczo kręci. Na tym odcinku pojawia się też kilka zwalonych drzew i głazy narzutowe w korycie. Pierwszym miejscem gdzie można wygodnie zakończyć spływ jest most w Lędyczku, już na Gwdzie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.55326870" lon="17.00288140">
+<name>1.40</name>
+<desc>Mostek kratownicowy na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.55201513" lon="17.00028950">
+<name>1.10</name>
+<desc>Stary sklepiony most ceglany, nadgryziony nieco zębem czasu</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.55443075" lon="16.98879175">
+<name>0.00</name>
+<desc>Ujście Chrząstowy do rzeki Szczyra</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

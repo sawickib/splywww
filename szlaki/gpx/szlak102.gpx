@@ -1,0 +1,40 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.87649464" lon="17.16178244">
+<name>8.20</name>
+<desc>Most przy Leśnictwie Łabędzie Bagno. Najdogodniejsze miejsce na rozpoczęcie spływu. Dojazd leśną drogą z drogi asfaltowej na trasie Przechlewo - Koczała (Bielsko - pierwszy łuk na zjeździe do tartaku)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.87203064" lon="17.17512398">
+<name>6.50</name>
+<desc>Most na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.86530836" lon="17.17482444">
+<name>5.50</name>
+<desc>Most na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.85591643" lon="17.16933660">
+<name>3.50</name>
+<desc>Most na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.84392278" lon="17.18853629">
+<name>0.40</name>
+<desc>Most na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.84288536" lon="17.19263369">
+<name>0.00</name>
+<desc>Ujście do Brdy</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

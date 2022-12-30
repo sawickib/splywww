@@ -1,0 +1,50 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="0.00000000" lon="0.00000000">
+<name>0.00</name>
+<desc>Drewniany most. 300 metrów w lewo i pod górę i znajdziemy się przy kościele w Sikórzu. Dobre miejsce do rozpoczęcia spływu.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.62915000" lon="19.54982000">
+<name>5.00</name>
+<desc>Drewniana kładka wykorzystująca przewrócone drzewo. </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.61296000" lon="19.56882000">
+<name>7.00</name>
+<desc>Betonowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.61177000" lon="19.56684000">
+<name>8.00</name>
+<desc>Zniszczony jaz spietrzający kiedyś wodę do młyna, w sumie jakiś metr różnicy wysokości.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.60291000" lon="19.55248000">
+<name>9.00</name>
+<desc>Zniszczone, betonowe spiętrzenie rzeki o wysokości ok. 50cm.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.60202000" lon="19.54225000">
+<name>13.00</name>
+<desc>Charakterystyczny dom na wyspie na środku rzeki. Po lewej można łatwo opłynąć, co po prawej - nie wiem.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.59789000" lon="19.53404000">
+<name>14.00</name>
+<desc>Ośrodek szkoleniowo-wypoczynkowy w Cierszewie. Przyjazny kajakarzom</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>16.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+
+</gpx>

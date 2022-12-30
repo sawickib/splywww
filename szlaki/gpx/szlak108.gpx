@@ -1,0 +1,228 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.34618700" lon="24.82566800">
+<name>87.20</name>
+<desc>Z biwaku do sklepu w Užuperkasis (południowa część Olkienik) jest 1.5km ładną drogą przez lasek.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="54.34539300" lon="24.83222400">
+<name>86.60</name>
+<desc>Šalčia [Solcza] dopływ z lewego brzegu [szlak kajakowy]</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.33234800" lon="24.78901600">
+<name>80.60</name>
+<desc>Struga Spengla - z prawego brzegu, dopływ słabo widoczny.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.32394400" lon="24.78756700">
+<name>80.10</name>
+<desc>Mostek drewniany (okresowy?).</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.31715800" lon="24.77425300">
+<name>77.10</name>
+<desc>Oznaczone obozowiska firm kajakowych i agroturystycznych pojawiają się na obydwu brzegach. Aby zabiwakować, należy zatelefonować. Niektóre mogą mieć wysoki standard i równie wysokie ceny.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.31156700" lon="24.77175000">
+<name>76.10</name>
+<desc>Dopływ rzeki Verseka z lewego brzegu, dobrze widoczny [szlak kajakowy - trudny].</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.31038200" lon="24.71692000">
+<name>70.10</name>
+<desc>Kładka wisząca - duża, na metalowych masztach. Główna  część zabudowań Pomerecza jest na prawym brzegu, ale głównie są to dacze.
+</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.30950100" lon="24.70342000">
+<name>69.10</name>
+<desc>Most kolejowy na trasie Wilno - Grodno.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.30997800" lon="24.69754400">
+<name>68.70</name>
+<desc>Miejsce biwakowe - jest 300m poniżej mostu kolejowego w Pomereczu, na łąkach prawego brzegu (nienajlepsze), w pobliżu zabudowań wsi.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.31108800" lon="24.66860600">
+<name>65.10</name>
+<desc>Kładka dla pieszych, wisząca.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.30605000" lon="24.65901700">
+<name>63.80</name>
+<desc>Miejsce biwakowe bardzo ładne - na prawym, wyższym brzegu pod lasem - około 300m poniżej zabudowań wsi Moliai, znajdujących się na lewym brzegu.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.30665600" lon="24.63220400">
+<name>59.90</name>
+<desc>W Moskówce na prawym brzegu jest kilka miejsc dobicia, ale jest to teren prywatny. Jedna z tablic głosi, że jest to:  "Teren psa bez uwięzi" (oczywiście po litewsku!).</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.29076900" lon="24.62952800">
+<name>56.60</name>
+<desc>Miejsce biwakowe - z elementami obozowiska - na prawym brzegu, na piaszczysto - trawiastej, wysokiej skarpie.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.28661100" lon="24.61110800">
+<name>54.60</name>
+<desc>Kładka wisząca.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.27760800" lon="24.58864600">
+<name>51.60</name>
+<desc>Skarpa prawego brzegu jest umocniona łukami z głazów. Na górze widać przjeżdżające auta szosą A4.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.26402400" lon="24.58461000">
+<name>50.60</name>
+<desc>Na lewym, wysokim brzegu w lesie widać oznaczone obozowisko firmy Upiu Labirintas [Labirynt Rzeki]. Warunki (ceny) biwakowania nieznane.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.26094500" lon="24.57629600">
+<name>49.60</name>
+<desc>Poniżej przyczółka koniec odcinka przełomowego rzeki</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.24709100" lon="24.56924500">
+<name>47.10</name>
+<desc>Na przeciw ujścia miało być miejsce biwakowe. Obecnie są dacze.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.24551500" lon="24.55320500">
+<name>45.10</name>
+<desc>Sklepy są na prawym brzegu 300m od mostu, we wsi Senoji Varena [Stare Orany].
+Miasto Varena [Orany] z marketami jest 4km szosą na południe.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>44.90</name>
+<desc>Oznaczone obozowisko w Oranach tuż poniżej mostku na prawym brzegu (2011r. - w remoncie).</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.23977500" lon="24.53969700">
+<name>43.60</name>
+<desc>Na lewym brzegu jest oznaczone dobicie do obozowiska firmy Juostandis. Samo obozowisko jest ok. 250m w głębi lasku [niezbyt dogodnie].</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.23437700" lon="24.52121400">
+<name>42.10</name>
+<desc>Na lewym brzegu jest niewielka łąka, a 50m w głębi lasu, na wyższej terasie jest polanka i wiata. Dobicie jest nienajlepsze, do niewielkiej, ale stromej skarpy.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>41.60</name>
+<desc>Następne miejsce biwakowe jest na lewym brzegu w lesie, około 500m poniżej. Dobicie lepsze.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.23178300" lon="24.49840500">
+<name>38.60</name>
+<desc>Poniżej kładki w Sołoworcach nurt Mereczanki przyśpiesza, w rzece pojawiają się głazy i kamieniste bystrza - bardzo malownicze, nietrudne. Bystrza ciągną się aż do ujścia rzeki Gruda - 23 km. Przy niskim stanie wody może być trudniej.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.22908100" lon="24.46373800">
+<name>37.60</name>
+<desc>Oznaczone obozowisko Mokama Stovyklaviete na prawym brzegu.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.21625500" lon="24.42118600">
+<name>32.10</name>
+<desc>Pole namiotowe Perloja Stovyklaviete - status nieznany. Pole leży na prawym, wysokim brzegu, z nad rzeki wiodą do niego schodki.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.21106600" lon="24.42061300">
+<name>31.60</name>
+<desc>Na lewym brzegu obok kładki jest ośrodek z domkami - być może można tam zanocować.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Miejsce biwakowe na prawym brzegu 300m poniżej kładki w Przełajach. Na brzegu jest rozległa nadbrzeżna łąka z grupą dużych narzutniaków widocznych z rzeki.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.19008900" lon="24.38433000">
+<name>26.60</name>
+<desc>Na prawym brzegu pojawiają się liczne oznaczone obozowiska - firmowe i agroturystyczne. Żeby zabiwakować, trzeba zatelefonować. Obozowiska te ciągną się wzdłuż  brzegu przez około 1km.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.18897600" lon="24.37358900">
+<name>25.80</name>
+<desc>Kładka wisząca dla pieszych w Miluniszkach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.17240100" lon="24.33507600">
+<name>23.10</name>
+<desc>Na lewym brzegu oznaczone obozowisko Rim Vid z dobrym dobiciem - miejsce przygotowane "na wysoki połysk". Na prawym, wysokim brzegu widać rozproszone gospodarstwa wsi.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.16380300" lon="24.33688100">
+<name>22.10</name>
+<desc>Na lewym brzegu ujścia jest niewielka polanka biwakowa.
+Jednak jest tu zakaz biwakowania (Park).</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>21.80</name>
+<desc>Na prawym brzegu jest piaszczysta plaża i możliwość biwaku, ale raczej nielegalna. Ponadto miejsce jest piknikowe.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.15867200" lon="24.32487600">
+<name>20.60</name>
+<desc>Oznaczone obozowisko Mardasavas na lewym brzegu (firmowe).</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Kładka wisząca dla pieszych - ok. 500m poniżej obozowiska Mardasavas.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.12028300" lon="24.30606700">
+<name>15.60</name>
+<desc>Kładka wisząca dla pieszych - 50m poniżej ujścia Grudy i pola namiotowego.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.10773400" lon="24.27689000">
+<name>11.60</name>
+<desc>Koniec przełomowego odcinka Mereczanki - nurt całkiem uspokaja się.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.10990000" lon="24.26733300">
+<name>11.10</name>
+<desc>Poniżej kładki na lewym brzegu jest ładne, oznaczone obozowisko z niezłym dobiciem - z nr telefonu.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.14474600" lon="24.23534400">
+<name>5.60</name>
+<desc>Wielki meander Mereczanki [Merkio Pasaga = Podkowa] - znany z opisów i fotografii. Prawy brzeg to wysoka skarpa  [punkt widokowy].</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.13293500" lon="24.24098600">
+<name>6.60</name>
+<desc>Oznaczony ośrodek wypoczynkowy na lewym brzegu - Merkio Slenis [Dolina Mereczanki]. Dobre dobicie, możliwość noclegu.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.14403300" lon="24.21364400">
+<name>3.20</name>
+<desc>Most drogowy na trasie A4 Druskienniki-Wilno - 150m poniżej pola namiotowego.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.15663900" lon="24.18494400">
+<name>0.00</name>
+<desc>Ujście Mereczanki do prawej odnogi Niemna [Lt Nemunas], oddzielonej od głównego nurtu Niemna przez dużą wyspę (300m długości).</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.15731800" lon="24.18015300">
+<name>-1.00</name>
+<desc>Tuż poniżej mostu jest możliwość dobicia do prawego nabrzeża - tzw. Przystań Rzeczna w Mereczu. Płaska, niska łąka z dojazdem z szosy i parkingiem.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+
+</gpx>

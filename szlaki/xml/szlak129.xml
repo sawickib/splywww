@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="129" nazwa="Mierzęcka Struga (Mierzęcinka)" wersja="1">
+<opis>Prawy dopływ dolnej Drawy. Płynie leniwie szeroką podmokłą doliną, meandrując i odbijając się od jej wysokich brzegów. Na znacznym odcinku rzeka kręci się pośród trzcinowisk, są również miejsca gdzie rzeka przepływa przez lasy. Liczba drzew powalonych do wody jest niewielka, przez co rzeka nie posiada typowego zwałkowego charakteru. Ze względu na to, że przepływa z dala od zabudowań oraz z uwagi na gęstą roślinność, tak nad, jak i podwodną, sprawia wrażenie bardzo czystej. Piaszczyste dno zachęca do brodzenia i pobierania kąpieli. Doskonała, jednodniowa alternatywa dla przeludnionej Drawy. Jest tu cicho, bezludnie i sterylnie (w sierpniu 2016 wyzbieraliśmy wszystkie dryfujące śmieci).
+Stan wody w Mierzęckiej Strudze śledzić można za pomocą wodowskazu zlokalizowanego poniżej mostu w Mierzęcinie (13,8 km). Wodowskaz ten niestety nie jest objęty odczytem automatycznym, przez co nie można podpatrywać go w internetowym serwisie pogodowym IMGW-PIB. Obserwacje możliwe są wyłącznie w terenie. W dniu spływu wodowskaz wskazywał poziom 76. Taka ilość wody gwarantuje dobre warunki do spływu na całym odcinku rzeki poniżej Mierzęcina, za wyjątkiem jednego miejsca, gdzie koryto rozszerza się i wypłyca na długości kilkudziesięciu metrów.</opis> 
+    <punkt id="4622" miejscowosc="Mierzęcin" 
+      ns="52.95584045" we="15.82931252" km="13.8" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze. Wygodny dostęp do wody. W pobliżu mostu mało jest miejsca na pozostawienie samochodów, znacznie więcej jest nieopodal, w centrum Mierzęcina</opispunktu> 
+    </punkt>
+    <punkt id="4623" miejscowosc="Mierzęcin" 
+      ns="52.9580876" we="15.83262718" km="13.4" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej stronie znajduje się wpływ na teren parku przy zadbanym zabytkowym zespole pałacowo-folwarcznym (Pałac Mierzęcin). Warto go zwiedzić chociażby ze względu na interesujący starodrzew (np 200 letni platan klonolistny o obwodzie pnia przekraczającym 6 m) i rzadko występującą roślinność parkową. Kajaki można przycumować do parkowego pomostu</opispunktu> 
+    </punkt>
+    <punkt id="4624" miejscowosc="Mierzęcin" 
+      ns="52.96802249" we="15.85095937" km="10.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oznakowane ładne pole biwakowe (Biwak Mierzęcin), na skraju lasu, po prawej stronie rzeki. Znajdują się tu m.in. zadaszone stoliki, ławki oraz kubły na śmieci</opispunktu> 
+    </punkt>
+    <punkt id="4625" miejscowosc="Łęczyn" 
+      ns="52.96800606" we="15.91100781" km="2.9" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po prawej potencjalne miejsce na dziki biwak z ogniskiem na środku polanki. W pobliżu na górce znajduje się zamieszkałe gospodarstwo, warto więc spytać czy teren ten nie jest prywatną własnością</opispunktu> 
+    </punkt>
+    <punkt id="4626" miejscowosc="Łęczyn" 
+      ns="52.96883286" we="15.91128409" km="2.8" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze, przed nim, po prawej, niewygodny wysoki pomost z drabinką</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Na moście znajduje się informacja o pobliskim sklepie (15 min), jeśli jednak sklep jest w takiej kondycji co informacja o nim na moście, można raczej uznać, że w Łęczynie sklepu nie ma</opispunktu> 
+    </punkt>
+    <punkt id="4627" miejscowosc="Łęczyn" 
+      ns="52.97168529" we="15.94607492" km="0" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Mierzęckiej Strugi do Drawy. Najbliższe dogodne miejsce zakończenia spływu znajduje się w Hutniku (Hutnikach), po prawej stronie Drawy, około 4 km poniżej ujścia Mierzęckiej Strugi</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

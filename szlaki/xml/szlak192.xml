@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="192" nazwa="Sokołda" wersja="1">
+<opis>Prawy dopływ Supraśli, o częściowo uregulowanym korycie, bujnie porastającym roślinnością podwodną. W pełni sezonu, brzegi intensywnie zarastają trzcinami, dzięki czemu po sezonie wegetacyjnym możliwe trzcinowe zatory. Czysta woda o wyraźnym nurcie. Teren otwarty, szeroka bezleśna dolina, na przepłyniętym odcinku, praktycznie tylko w jedym miejscu rzeka ociera się o burtę lasu. W czasie spływu wodowskaz Sokołda stabilizował się na poziomie 171, co gwarantowało bardzo dobre warunki wodne na reprezentowanym odcinku. Przy tych wskazaniach, odcinek Mićkowa Hać - Sokołda zajął około 5h, natomiast Sokołda - ujście do Supraśli 1,5h
+</opis> 
+    <punkt id="6057" miejscowosc="Mićkowa Hać" 
+      ns="53.3560113" we="23.37558648" km="30.8" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na asfaltowej drodze. Wygodne miejsce rozpoczynania spływu, aczkolwiek do tego miejsca dopływa już sporo wody, można więc próbować zaczynać wyżej. Przez najbliższy kilometr jest dość wąsko ze względu na koryto miejscami zarośnięte trzcinami</opispunktu> 
+    </punkt>
+    <punkt id="6058" miejscowosc="Mićkowa Hać" 
+      ns="53.35060176" we="23.37656688" km="29.9" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Kratownica zastawki tworząca próg o wysokości 0,8m. Poniżej progu jest głęboko, można  więc spływać bezpiecznie po rozpoznaniu przeszkody. Poniżej zastawki dno i nabrzeże wyłożone kamieniami. Dalej robi się szeroko i płynie się swobodnie, aż do ujścia do Supraśli</opispunktu> 
+    </punkt>
+    <punkt id="6059" miejscowosc="Stara Moczalnia" 
+      ns="53.34253815" we="23.37550787" km="28.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Betonowa konstrukcja wystająca z wody przy lewym brzegu na zakręcie rzeki w prawo</opispunktu> 
+    </punkt>
+    <punkt id="6060" miejscowosc="Stara Moczalnia" 
+      ns="53.34179064" we="23.36859878" km="28.1" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony rzeka Jałówka zasila wody Sokołdy. Jałówka w przyujściowym fragmencie przypomina wyprostowany kanał, szerszy od Sokołdy i mniej zarośnięty</opispunktu> 
+    </punkt>
+    <punkt id="6061" miejscowosc="Straż" 
+      ns="53.33190315" we="23.37446878" km="26.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Tuż przed mostem, z lewej strony wpada rzeka Kamionka</opispunktu> 
+    </punkt>
+    <punkt id="6062" miejscowosc="Straż" 
+      ns="53.33137165" we="23.37470349" km="26.1" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze nr 19 z Białegostoku do Sokółki</opispunktu> 
+    </punkt>
+    <punkt id="6063" miejscowosc="Straż" 
+      ns="53.33009735" we="23.37536508" km="26" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Stalowa kratownica zastawki nie piętrząca wody. Tworzy się na niej zator z roślinności spływającej rzeką. Za zastawką, na prawym brzegu mogiła kilkuletniej dziewczynki, prawdopodobnie ofiary kąpieli w tym miejscu, gdy zastawka piętrzyła wodę. Można w to miejsce dojechać samochodem, gruntową drogą od strony pobliskiej szosy, dzięki czemu miejsce to często jest wykorzystywane do rozpoczynania spływów</opispunktu> 
+    </punkt>
+    <punkt id="6064" miejscowosc="Ostrówek" 
+      ns="53.31389936" we="23.3929306" km="23" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek drogowy</opispunktu> 
+    </punkt>
+    <punkt id="6065" miejscowosc="Ostrówek" 
+      ns="53.29940377" we="23.39697784" km="20.4" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Ładne miejsce na dziki biwak lub odpoczynek na prawym wysokim brzegu, na wybitnym łuku rzeki. Miejsce to często opisywane jest, jako znajdujące się pod rozłożystym dębem, na skraju starego, puszczańskiego lasu. Miejsce suche, na wysokiej skarpie, z dobrym łagodnym dojściem do wody i możliwością kąpieli, chociaż koryto zarosnięte roślinnością. Do miejsca tego można też dojechać samochodem leśną drogą od strony Czarnej Białostockiej. Wyłożone kamieniami miejsce na ognisko oraz drewniany stelaż gotowy pod zadaszającą plandekę</opispunktu> 
+    </punkt>
+    <punkt id="6066" miejscowosc="Dworzysk" 
+      ns="53.28448906" we="23.40459313" km="17.9" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Stalowa kratownica zastawki nie pietrząca wody, na której tworzą się zatory ze spływającej roślinności</opispunktu> 
+    </punkt>
+    <punkt id="6067" miejscowosc="Dworzysk" 
+      ns="53.28406955" we="23.40418907" km="17.8" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Rozpadający się drewniany mostek drogowy, którego stalowe legary nośne spoczywają na poogryzanych przez bobry, drewnianych filarach. Po prawej stronie, pod lasem widoczne wiaty i tablice informacyjne. Przy moście tabliczka z oznakowaniem szlaku kajakowego - 16km</opispunktu> 
+    </punkt>
+    <punkt id="6068" miejscowosc="Dworzysk" 
+      ns="53.27438468" we="23.40713959" km="16.3" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Stalowa kratownica zastawki nie piętrząca wody, za to z dużym zatorem z roślinności</opispunktu> 
+    </punkt>
+    <punkt id="6069" miejscowosc="Dworzysk" 
+      ns="53.27089495" we="23.4242319" km="14.8" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Rozpadający się drewniany mostek</opispunktu> 
+    </punkt>
+    <punkt id="6070" miejscowosc="Międzyrzecze" 
+      ns="53.25966331" we="23.45880388" km="11.1" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Oznakowane wyjście na prawy brzeg w celu wykonania przenoski na rozlewisko poniżej zastawki, piętrzącej wodę na potrzeby pobliskiej elektrowni wodnej. Przejście 30 m ścieżką przez łąkę</opispunktu> 
+    </punkt>
+    <punkt id="6071" miejscowosc="Międzyrzecze" 
+      ns="53.25970119" we="23.45911457" km="11" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">W prawo drewniana zastawka z kładką i zakazem przejścia górą</opispunktu> 
+    </punkt>
+    <punkt id="6072" miejscowosc="Międzyrzecze" 
+      ns="53.25886176" we="23.46071527" km="10.8" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Małe elektownia wodna oraz budynek starego młyna</opispunktu> 
+    </punkt>
+    <punkt id="6073" miejscowosc="Międzyrzecze" 
+      ns="53.25862764" we="23.46080002" km="10.7" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Połączenie z młynówką na rozlewisku poniżej elektrowni</opispunktu> 
+    </punkt>
+    <punkt id="6074" miejscowosc="Kopna Góra" 
+      ns="53.25250814" we="23.46785912" km="9.7" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most nieczynnej wąskotorowej linii kolejowej</opispunktu> 
+    </punkt>
+    <punkt id="6075" miejscowosc="Sokołda" 
+      ns="53.24856858" we="23.47338604" km="8.9" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na ruchliwej drodze nr 676 z Supraśla do Krynek. Wygodne miejsce kończenia i rozpoczynania etapu. Po prawej stronie drogi, za mostem, w kierunku Supraśla znajduje się zatoczka, w której można dokonać załadunku sprzętu. We wsi, około 400m od mostu znajduje się restauracja, natomiast idąc tyle samo w przeciwną stronę można zwiedzić znane arboretum w Kopnej Górze oraz mogiły Powstańców, poległych w bitwie nad Sokołdą. W dalszym ciągu rzeka płynie otwartą szeroką doliną. Jest dość głęboka, a brzegi porośnięte są trzcinami. W korycie występuje gęsta roślinność wodna, a woda jest krystalicznie czysta</opispunktu> 
+    </punkt>
+    <punkt id="6076" miejscowosc="Sokołda" 
+      ns="53.2476073" we="23.47627977" km="8.6" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Stalowa kratownica zastawki nie piętrząca wody</opispunktu> 
+    </punkt>
+    <punkt id="6077" miejscowosc="Sokołda" 
+      ns="53.247293" we="23.47653281" km="8.5" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej stronie posadowiony jest wodowskaz Sokołda, wskazania którego można obserwować zdalnie, w internecie. Poziom 171 gwarantuje bardzo dobre warunki wodne na reprezentowanym odcinku. Poniżej malownicza wioska Zdroje po lewej stronie rzeki</opispunktu> 
+    </punkt>
+    <punkt id="6078" miejscowosc="Podłaźnie" 
+      ns="53.23729365" we="23.46881638" km="6.3" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka przed wioską</opispunktu> 
+    </punkt>
+    <punkt id="6079" miejscowosc="Łaźnie" 
+      ns="53.22717046" we="23.46579047" km="4.1" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Stalowa kratownica zastawki nie piętrząca wody. Gdy nie ma zatoru z roślinności przepływa się swobodnie</opispunktu> 
+    </punkt>
+    <punkt id="6080" miejscowosc="Łaźnie" 
+      ns="53.224568" we="23.46631703" km="3.8" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze publicznej</opispunktu> 
+    </punkt>
+    <punkt id="6081" miejscowosc="Surażkowo" 
+      ns="53.21321933" we="23.46010249" km="1.8" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoka kładka dla pieszych, za nią po prawej stronie piaszczysta plaża z dojazdem do samej wody. Poniżej odcinek z kilkoma malowniczymi drzewami przewróconymi do wody</opispunktu> 
+    </punkt>
+    <punkt id="6082" miejscowosc="Surażkowo" 
+      ns="53.21046464" we="23.46033898" km="1.4" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Stalowa kratownica zastawki piętrząca wodą na wysokość około 0,8m. Poniżej progu jest głęboko można więc bezpiecznie spływać progiem po rozpoznaniu przeszkody i przy odpowiednich warunkach wodnych</opispunktu> 
+    </punkt>
+    <punkt id="6083" miejscowosc="Stryjenszczyzna" 
+      ns="53.20671262" we="23.45702683" km="1" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu, pośród kępy sosen dogodne trawiaste miejsce na dziki biwak lub odpoczynek. Po przeciwnej stronie tablica z informacją o polu namiotowym w stadninie koni</opispunktu> 
+    </punkt>
+    <punkt id="6084" miejscowosc="Zasady" 
+      ns="53.20286506" we="23.45315374" km="0" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Sokołda uchodzi do Supraśli. Według tabliczki z kilometrażem szlaku jest to 48,5 km Supraśli. Wygodne miejsce zakończenia spływu znajduje się po lewej stronie Supraśli, w Zasadach, około 100m poniżej ujścia. Przy charakterystycznym pomoście znajduje się miejsce z dojazdem do samej wody</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

@@ -1,0 +1,60 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.59096617" lon="22.50884996">
+<name>43.90</name>
+<desc>Most na lokalnej drodze pomiędzy miejscowościami Ujście i Szewce. Rzeka ma tu szerokość 3-4 m i jest nieco płytka. Spływ można rozpocząć również kilkaset metrów dalej na sąsiednim moście na prawym dopływie - Rakowa. Obie rzeki w tym miejscu są podobnych rozmiarów i niosą taką samą ilość wody</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.59175409" lon="22.50406864">
+<name>43.20</name>
+<desc>Połączenie z rzeką Rakowa, od tego miejsca nie ma już problemów z ilością wody. Poniżej rozpoczyna się odcinek dziki, rzeka kręci i podmywa brzegi. W korycie od czasu do czasu leżą powalone drzewa, znacznie częściej na wodą zwisają łozy utrudniające przepłynięcie. Spotkamy też kilka kładek i pozostałości po nich</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.60030127" lon="22.42153958">
+<name>34.70</name>
+<desc>Stalowo-drewniany most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.60117497" lon="22.41171955">
+<name>33.80</name>
+<desc>Betonowy most na lokalnej drodze, pod nim niewielkie bystrze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.60325515" lon="22.39770933">
+<name>32.60</name>
+<desc>Most drogowy pomiędzy Momotami Górnymi i Dolnymi. Wodowanie nieco utrudnione ze względu na słabą dostępność brzegów</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.60309838" lon="22.38588830">
+<name>30.90</name>
+<desc>Drewniana kładka. Przed kładką po prawej ładna piaszczysta zatoczka, natomiast po drugiej stronie zadaszona drewniana wiata z miejscem na ognisko. Trudno ocenić czy jest to teren prywatny czy gminny ponieważ w okolicy nie ma stosownego oznakowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.61379907" lon="22.33571662">
+<name>26.70</name>
+<desc>Most na lokalnej drodze, z kamiennym bystrzem. Za mostem po lewej wygodne miejsce na postój z dojazdem dla samochodów. Stoi tu też zadaszona drewniana wiata</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.62134410" lon="22.28647887">
+<name>19.80</name>
+<desc>Most ruchliwej drogi nr 19 z Janowa Lubelskiego do Niska. Przed mostem po lewej wygodne miejsce z dojazdem, chociaż wyjście z wody nieco uciążliwe ze względu na stromy brzeg</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.62039183" lon="22.23650231">
+<name>15.30</name>
+<desc>Stary drewniany most, służący jako kładka dla pieszych. Możliwość zakończenia spływu, chociaż brzegi trudno dostępne - strome i zarośnięte</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.60363263" lon="22.06584548">
+<name>0.00</name>
+<desc>Ujście Bukowej do Sanu</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

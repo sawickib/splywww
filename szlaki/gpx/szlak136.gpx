@@ -1,0 +1,115 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.69834238" lon="15.72636629">
+<name>10.70</name>
+<desc>Spory utwardzony teren w sąsiedztwie rzeki w pobliżu placu zabaw dla dzieci. Wygodne miejsce wodowania ze stromej skarpy</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.70099093" lon="15.72874462">
+<name>10.30</name>
+<desc>Duży most na ruchliwej drodze nr 3</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.70273289" lon="15.73538431">
+<name>9.70</name>
+<desc>Wąski mostek na lokalnej drodze, zaraz za nim bystrze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.70644625" lon="15.74097434">
+<name>8.90</name>
+<desc>Mostek drewniany, zaraz za nim bystrze </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.70890948" lon="15.74182716">
+<name>8.50</name>
+<desc>Małe bystrze</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.71073646" lon="15.74385469">
+<name>8.30</name>
+<desc>Kolejne bystrze</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.71464899" lon="15.74554077">
+<name>7.80</name>
+<desc>Budowa mostu na drodze ekspresowej S3</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.71523376" lon="15.74643848">
+<name>7.70</name>
+<desc>Most betonowy na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.71626496" lon="15.74881004">
+<name>7.50</name>
+<desc>Most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.71733939" lon="15.74971614">
+<name>7.30</name>
+<desc>Podwójna zamknięta zastawka z wodowskazem wskazującym poziom 028, za nią brzegi betonowe pochyłe</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.71806658" lon="15.75024931">
+<name>7.20</name>
+<desc>Drewniany mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.71953658" lon="15.75129681">
+<name>7.00</name>
+<desc>Podwójna zastawka z wodowskazem wskazującym poziom 114. Lewa strona opuszczona na tyle, że umożliwia skok - poniżej progu wystarczająco głęboko</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.72320105" lon="15.75238061">
+<name>6.50</name>
+<desc>Podwójna zastawka z wodowskazem wskazującym poziom 100. Prawa część opuszczona na tyle, że możliwy jest skok z wysokości około 2m. Poniżej progu wystarczająco głęboko</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.72573629" lon="15.75385026">
+<name>6.20</name>
+<desc>Drewniana kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.72607987" lon="15.75257011">
+<name>6.10</name>
+<desc>Duży betonowy most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.72622599" lon="15.75198834">
+<name>6.00</name>
+<desc>Betonowa kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.72958787" lon="15.75199762">
+<name>5.60</name>
+<desc>Podwójna zastawka z wodowskazem wskazującym poziom 149. Obydwie przegrody otwarte na tyle, że umożliwiają skok około 1,5m. Za progiem głęboko</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.73461357" lon="15.75176920">
+<name>4.70</name>
+<desc>Most drogowy na szosie z Nowej Soli (Korzuchowa) do Bytomia Odrzańskiego, za nim pojedyncze zwałki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.74615389" lon="15.76325236">
+<name>2.90</name>
+<desc>Most kolejowy, za nim bystrze. Poniżej mostu zaczyna się odcinek typowo zwałkowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.74924342" lon="15.76492068">
+<name>2.40</name>
+<desc>Duży betonowy most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.75823820" lon="15.77849677">
+<name>0.00</name>
+<desc>Ujście Białej Wody do Odry. Spływ wygodnie jest zakończyć w miejscowości Kiełcz, lub nieco dalej, przy moście w Nowej Soli, ewentualnie na przystani nowosolskiej, przy wejściu do portu</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

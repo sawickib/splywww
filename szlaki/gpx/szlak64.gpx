@@ -1,0 +1,45 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.67999200" lon="22.49305000">
+<name>0.00</name>
+<desc>Ciehanowiec dość duże miasto podlaskie. Kajaki wodujemy za zaporą.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="52.67022600" lon="22.47642700">
+<name>2.20</name>
+<desc>Na prawym brzegu zabudowania wsi Kozarze.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.64537100" lon="22.47237500">
+<name>6.10</name>
+<desc>Przy niższym stanie wody próg trzeba obnieść prawą stroną</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="52.64022200" lon="22.44929500">
+<name>8.30</name>
+<desc>Rzeka skręca w lewo pod kątem prostym. Na prawym brzegu zabudowania wsi Zaszków.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.62236100" lon="22.44540500">
+<name>11.20</name>
+<desc>Na lewym brzegu ujscie rz. Pełchówki.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.61743000" lon="22.43149100">
+<name>12.80</name>
+<desc>Na lewym brzegu wieś Wojtkowice-Dady.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.60984100" lon="22.40843300">
+<name>15.10</name>
+<desc>Ujście do Buga. Dalej należy spłynać Bugiem do wsi Murawskie Nadbużne (ok.5km), gdzie można wygodnie skończyć spływ.</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

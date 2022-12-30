@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="25" nazwa="Kałębnica" wersja="2">
+<opis>Krótki szlak boczny wpadający do Wdy.
+</opis> 
+  <odcinek id="96" typ="mieszany" nazwa="Kałębnica" 
+      uciazliwosc="U4" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL3" 
+      kolejnosc="1"> 
+  <opis>Rzeka Kałebnica wraz z jeziorami przez, które przepływa jest lewym
+dopływem Wdy. Bardzo mały przepływ i dlatego koryto silnie 
+zarośnięte chabaziami. </opis>
+    <punkt id="859" miejscowosc="" 
+      ns="53.74326" we="18.41769" km="8.7" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Kałębnicy do Wdy.</opispunktu> 
+    </punkt>
+    <punkt id="860" miejscowosc="Skrzynia" 
+      ns="53.731" we="18.42122" km="7.3" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="861" miejscowosc="Skrzynia" 
+      ns="53.72839" we="18.42226" km="7.1" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Kajaki trzeba przeciagnać po trawie 5 metrów po płaskim, lewym brzegu.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">20 cm jazik, który właściwie można by spływać, ale kajaki mieliśmy szersze od zastawek ;) Koło jaziku, zamykana na kłódkę skrzynia na węgorze.</opispunktu> 
+    </punkt>
+    <punkt id="862" miejscowosc="" 
+      ns="53.72812" we="18.42366" km="6.8" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Kałębnicy z jeziora Słonego.</opispunktu> 
+    </punkt>
+    <punkt id="872" miejscowosc="" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Można całkiem przyjemnie zabiwakować na wyspie na jeziorze Słonym</opispunktu> 
+    </punkt>
+    <punkt id="868" miejscowosc="" 
+      ns="53.71643" we="18.42863" km="5.5" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Zarastające ujście Kałębnicy do jeziora Słonego.</opispunktu> 
+    </punkt>
+    <punkt id="867" miejscowosc="" 
+      ns="53.71636" we="18.43016" km="5" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek stalowo-drewniany.</opispunktu> 
+    </punkt>
+    <punkt id="866" miejscowosc="" 
+      ns="53.7159" we="18.4469" km="4.1" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek stalowo-drewniany na leśniej drodze.</opispunktu> 
+    </punkt>
+    <punkt id="865" miejscowosc="" 
+      ns="53.71593" we="18.44696" km="4" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Malutki, 20 cm jazik</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawą lub lewą, 3 metry. Uwaga na stalowe szyny wzmacniające.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="97" typ="jezioro" nazwa="Jezioro Kałębie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Duże jezioro na szlaku Kałębnicy</opis>
+    <punkt id="871" miejscowosc="Osiek" 
+      ns="0" we="0" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="bar" kolejnosc="-1">W miasteczku Osiek znajdziemy wiele sklepów i innych atrakcji</opispunktu> 
+    </punkt>
+    <punkt id="864" miejscowosc="" 
+      ns="53.71787" we="18.45011" km="3.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Kałębnicy z jeziora Kałębie.</opispunktu> 
+    </punkt>
+    <punkt id="863" miejscowosc="Dobry Brat" 
+      ns="53.71642" we="18.4626" km="3" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Ośrodek wczasowy nad jeziorem Kałębie. Pomost, plaża, kąpielisko, kawiarnia.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

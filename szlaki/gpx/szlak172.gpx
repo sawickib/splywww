@@ -1,0 +1,45 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.18101502" lon="15.85569678">
+<name>5.40</name>
+<desc>Most drogowy z prostokątnym przepustem. Wygodne miejsce startu. Poniżej odcinek między drzewami z drobnymi mało wymagającymi zwałkami i kilkoma tamami bobrowymi</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.17436741" lon="15.86657373">
+<name>4.20</name>
+<desc>Mostek betonowy na drodze do zamku, w którym obecnie mieści się specjalny ośrodek szkolno-wychowawczy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.17371885" lon="15.87144813">
+<name>3.80</name>
+<desc>Zamek po lewej, nieco oddalony od rzeki ale dość dobrze widoczny</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.16263749" lon="15.87220005">
+<name>2.20</name>
+<desc>Most betonowy. Poniżej odcinek z porządnymi zwałkami, oprócz stałych, starych drzew, w korycie rzeki pojawiły się nowe, pochodzące z mającej niedawno miejsce przycinki lasu (zima 2019). Pokonanie niektórych zwałek wymusza współpracę zespołową</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.15706562" lon="15.86611372">
+<name>1.30</name>
+<desc>Wysoki most łukowy na drodze z Drawna do Głuska. Możliwość zakończenia spływu, chociaż wyjście z wody jest niewygodne a skarpa szosy dość stroma. Poniżej krótki ale intensywny odcinek zwałkowy. Konfiguracja i wysokość niektórych przeszkód może wymusić nawet konieczność ich obnoszenia</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.15409143" lon="15.86552318">
+<name>0.70</name>
+<desc>Mostek na leśnej drodze. Przed mostem widoczne ruiny po tzw. Kościanym Młynie. W pobliżu wodowskaz wskazujący w dniu spływu poziom 42 co wydaje się niezbędnym minimum, gdyż miejscami trze się kajakiem po kamieniach. Na ostatnim odcinku do ujścia do Drawy nie ma już większych przeszkód</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.15036231" lon="15.86842669">
+<name>0.00</name>
+<desc>Ujście Słopicy do Drawy. Spływ najwygodniej zakończyć przy moście na drodze do miejscowości Zatom (około 15 min w dół Drawą) lub nieco dalej, na polu biwakowym DPN Bogdanka</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

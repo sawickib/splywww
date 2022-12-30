@@ -1,0 +1,335 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.72420649" lon="19.33797253">
+<name>98.50</name>
+<desc>Grupowa Oczyszczalnia Ścieków (GOŚ). Stopień wodny (spływalny). Wygodne wodowanie za stopniem</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.72714599" lon="19.33401623">
+<name>98.10</name>
+<desc>Most betonowy techniczny</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.73056609" lon="19.32706861">
+<name>97.50</name>
+<desc>Niebezpieczny próg - spływalny dla wprawnych</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.73691132" lon="19.31337377">
+<name>95.70</name>
+<desc>Most na drodze nr 71</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.75188548" lon="19.28308060">
+<name>92.40</name>
+<desc>Mostek betonowy na drodze Żabiczki - Bechcice</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.75574541" lon="19.26420605">
+<name>90.50</name>
+<desc>Spływalny próg</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.75504647" lon="19.25953657">
+<name>90.00</name>
+<desc>Rura nad wodą</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.75468857" lon="19.24407061">
+<name>88.70</name>
+<desc>Most na drodze Mirosławice - Bechcice Kolonia</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.75656161" lon="19.22144700">
+<name>86.10</name>
+<desc>Most na drodze nr 710</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.75965960" lon="19.21535837">
+<name>85.50</name>
+<desc>Most tramwajowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.76108598" lon="19.21251194">
+<name>85.20</name>
+<desc>Jaz</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.76623139" lon="19.20263637">
+<name>84.30</name>
+<desc>Mostek polny</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.77508121" lon="19.17417960">
+<name>81.90</name>
+<desc>Mostek polny</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.78318757" lon="19.15597301">
+<name>80.30</name>
+<desc>Mała elektrownia wodna</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.78667331" lon="19.13754854">
+<name>78.70</name>
+<desc>Mała elektrownia wodna</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.78503588" lon="19.11892653">
+<name>77.40</name>
+<desc>Mostek betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.78467219" lon="19.11313981">
+<name>77.00</name>
+<desc>Most na drodze Szydłów - Jerwonice</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.78325342" lon="19.10412506">
+<name>76.20</name>
+<desc>Mała elektrownia wodna</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.78299366" lon="19.10000584">
+<name>75.90</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.78114280" lon="19.08444126">
+<name>74.70</name>
+<desc>Mostek betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.78252908" lon="19.06967146">
+<name>73.50</name>
+<desc>Mała elektrownia wodna</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.78221019" lon="19.06491265">
+<name>73.00</name>
+<desc>Próg z bystrzem</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.78258222" lon="19.06283075">
+<name>72.90</name>
+<desc>Most na drodze Puczniew - Przyrownica</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.78800398" lon="19.03004234">
+<name>70.60</name>
+<desc>Mała elektrownia wodna. Droga betonowa Małyń - Jeziorko</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.79437511" lon="19.02210226">
+<name>69.40</name>
+<desc>Rura nad rzeką</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.80282557" lon="19.01321890">
+<name>67.80</name>
+<desc>Jaz</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.81075182" lon="18.99694011">
+<name>65.90</name>
+<desc>Most na drodze Ruda Jeżewska - Feliksów</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.82150860" lon="18.98228145">
+<name>64.00</name>
+<desc>Most na drodze Pustkowie - Kolonia Nowy Feliksów</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.82925099" lon="18.96081925">
+<name>62.20</name>
+<desc>Jaz + odnoga z jazem z prawej strony</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.84070064" lon="18.94582191">
+<name>60.50</name>
+<desc>Most, przed nim próg. Do mostku 5 spływalnych progów</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.84693903" lon="18.93075106">
+<name>59.20</name>
+<desc>Jaz</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.85378571" lon="18.92046164">
+<name>58.10</name>
+<desc>Z lewej dopływ kanału Pisi</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.86153026" lon="18.92771890">
+<name>57.00</name>
+<desc>Mała elektrownia wodna. Dobre miejsce zakończenia spływu</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.86352395" lon="18.93074778">
+<name>56.70</name>
+<desc>Z prawej ujście Bełdówki</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.89164687" lon="18.94930694">
+<name>53.20</name>
+<desc>Most na drodze nr 72</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.89675901" lon="18.94626839">
+<name>52.60</name>
+<desc>Most przy starym młynie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.90298111" lon="18.94646084">
+<name>51.80</name>
+<desc>Jaz</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.92521163" lon="18.96468622">
+<name>48.80</name>
+<desc>Jaz przy starym młynie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.93756071" lon="18.97892243">
+<name>46.90</name>
+<desc>Mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.94206330" lon="18.98163903">
+<name>46.30</name>
+<desc>Jaz</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.95215201" lon="18.99368445">
+<name>44.60</name>
+<desc>Niebezpieczny próg - spływalny dla wprawnych !!!</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.96531188" lon="19.00566402">
+<name>42.70</name>
+<desc>Niebezpieczny próg - spływalny dla wprawnych</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.97387767" lon="19.01314710">
+<name>41.70</name>
+<desc>Most na drodze nr 469</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.97925167" lon="19.01788619">
+<name>40.90</name>
+<desc>Mała elektrownia wodna</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.99413629" lon="19.01957537">
+<name>39.10</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.99765709" lon="19.02131299">
+<name>38.70</name>
+<desc>Most drogowy - autostrada A1</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.01132615" lon="19.01147876">
+<name>36.90</name>
+<desc>Mała elektrownia wodna</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.01524625" lon="19.00876105">
+<name>36.30</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.02376744" lon="19.01600521">
+<name>35.10</name>
+<desc>Mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.04029029" lon="19.03075732">
+<name>32.70</name>
+<desc>Most na drodze Władysławów - Borek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.05764398" lon="19.03574370">
+<name>30.50</name>
+<desc>Jaz</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.08153175" lon="18.94790102">
+<name>21.90</name>
+<desc>Most na drodze Zbylczyce - Kotowice</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.08156456" lon="18.91927973">
+<name>19.80</name>
+<desc>Mostek polny</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.08947160" lon="18.88970634">
+<name>17.60</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.08762233" lon="18.86517186">
+<name>15.90</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.08492554" lon="18.82680530">
+<name>13.20</name>
+<desc>Most na drodze nr 473</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.08472533" lon="18.82377036">
+<name>12.90</name>
+<desc>Kładka dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.09423965" lon="18.78805355">
+<name>9.50</name>
+<desc>Most z bystrzem i palami - kładka na drodze Sobótka - Cichmiana</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.10362358" lon="18.77262427">
+<name>8.00</name>
+<desc>Mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.10559062" lon="18.76622040">
+<name>7.50</name>
+<desc>Kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.10988379" lon="18.75358010">
+<name>6.80</name>
+<desc>Most na drodze Chełmno - Chruścin (Wilamów)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.11503894" lon="18.74241898">
+<name>5.40</name>
+<desc>Most drewniany na drodze Chełmno - Gaj</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.12038957" lon="18.73308104">
+<name>4.50</name>
+<desc>Kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.12557958" lon="18.70751448">
+<name>2.40</name>
+<desc>Most drogowy w Rzuchowie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.14166997" lon="18.68882955">
+<name>0.00</name>
+<desc>Ujście Neru do Warty</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

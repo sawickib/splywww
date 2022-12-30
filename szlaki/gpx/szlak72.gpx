@@ -1,0 +1,162 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.95454300" lon="16.18901200">
+<name>0.00</name>
+<desc>Plaża miejska, wygodne miejsce do wodowania</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="51.93685500" lon="16.20513900">
+<name>2.26</name>
+<desc>Wpływ do kanału</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.93188800" lon="16.20788100">
+<name>2.92</name>
+<desc>Wypływ na jez. Breńskie</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.92997400" lon="16.21465300">
+<name>3.50</name>
+<desc>Wpływ do kanału</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.93241500" lon="16.21736100">
+<name>3.80</name>
+<desc>Wypływ na jez. Białe</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.93527100" lon="16.22864900">
+<name>4.64</name>
+<desc>Wypływ na jez. Miałkie</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.93099100" lon="16.24022900">
+<name>5.58</name>
+<desc>Wpływ do kanału</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.92974600" lon="16.25430100">
+<name>6.68</name>
+<desc>Most drogowy, wygodne miejsce do wodowania. Częste zawody wędkarskie, możliwość przymusowej przenoski</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.92777400" lon="16.25542900">
+<name>6.94</name>
+<desc>Wypływ na jez. Lincjusz</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.92322900" lon="16.26338800">
+<name>7.71</name>
+<desc>Wpływ do kanału</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.92165300" lon="16.27266800">
+<name>8.48</name>
+<desc>Wypływ na jez. Brzeźnie</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.91764700" lon="16.28775200">
+<name>9.71</name>
+<desc>Wpływ do kanału</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.91992900" lon="16.28987900">
+<name>10.00</name>
+<desc>Od tego miejsca do Dominic (2,7 km) należy przenieść lub przewieźć kajaki leśną, piaszczystą drogą.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.94210600" lon="16.29857700">
+<name>12.76</name>
+<desc>Plaża miejska, wygodne miejsce do wodowania
+</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="51.95766300" lon="16.33485400">
+<name>15.80</name>
+<desc>Wpływ do kanału, wygodne miejsce do wodowania.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.95789100" lon="16.33529900">
+<name>15.83</name>
+<desc>Małe spiętrzenie wody, około 50 cm - możliwe do spłynięcia</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.96711900" lon="16.34365300">
+<name>17.42</name>
+<desc>Wypływ na jez. Wielkie</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.97652400" lon="16.34353100">
+<name>18.49</name>
+<desc>Wpływ do kanału</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.97832600" lon="16.34493700">
+<name>18.71</name>
+<desc>Most drogowy, wygodne miejsce do wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.98001500" lon="16.34647000">
+<name>18.93</name>
+<desc>Wypływ na jez. Małe</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.98193600" lon="16.34491200">
+<name>19.17</name>
+<desc>Wpływ do kanału</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.98535900" lon="16.33624800">
+<name>19.87</name>
+<desc>Most drogowy, wygodne miejsce do wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.98606200" lon="16.33071600">
+<name>20.26</name>
+<desc>Wypływ na jez. Boszkowskie</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.98523400" lon="16.32674100">
+<name>20.55</name>
+<desc>Wpływ do kanału Błotnickiego</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.99150900" lon="16.29303500">
+<name>23.15</name>
+<desc></desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="51.99492200" lon="16.28813500">
+<name>23.67</name>
+<desc>Wypływ na jez. Błotnickie</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.98213700" lon="16.25296900">
+<name>25.15</name>
+<desc>Rezerwat przyrody "Wyspa Konwaliowa"</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.96128300" lon="16.24910700">
+<name>29.62</name>
+<desc></desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="51.94941100" lon="16.21012800">
+<name>33.64</name>
+<desc>Most, wygodne miejsce wodowania
+</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>35.24</name>
+<desc>Plaża miejska, wygodne miejsce do wodowania</desc>
+<cmt>stanica</cmt>
+</wpt>
+
+</gpx>

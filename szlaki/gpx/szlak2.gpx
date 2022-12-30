@@ -1,0 +1,265 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.32278000" lon="17.79346000">
+<name>0.00</name>
+<desc>Duża łąka nad samym jeziorem Gowidlińskim. Bardzo miły właściciel, który jednak niestety wyczuł, że na kajakarzach można zarabiać.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>8.00</name>
+<desc>Betonowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>13.00</name>
+<desc>Betonowy most drogowy. Pod nim bystrze WW1+, napłynięcie z lewej na prawą. Betonowy most z datą 1908.  Mostek betonowy niezbyt używany Mostek drogowy do tartaku. Od niego zaczyna się bystrze WW1-2.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.23037000" lon="17.76651000">
+<name>14.00</name>
+<desc>Konieczna przenoska jazu po prawej stronie około 100m</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="54.22780000" lon="17.73098000">
+<name>18.00</name>
+<desc>Betonowy most drogowy, pod mostem bystrze z kamieniami WW1</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.22046000" lon="17.70402000">
+<name>21.00</name>
+<desc>Połączenie wodne z Jeziorem Mausz</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.22769000" lon="17.67509000">
+<name>23.00</name>
+<desc>betonowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.22684000" lon="17.64428000">
+<name>26.00</name>
+<desc>Betonowy most, którego nie ma na niektórych mapach.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.23037000" lon="17.63071000">
+<name>27.00</name>
+<desc>Ujście Słupii do Jeziora Żukowskiego</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.24050000" lon="17.61885000">
+<name>-1.00</name>
+<desc>Duże i ładne pole biwakowe, tuż przed ujściem rzeki, na prawym brzegu. Stoliki, 5zl za namiot.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.24026000" lon="17.61801000">
+<name>28.50</name>
+<desc>Wypływ Słupii z Jeziora Żukowskiego</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>29.30</name>
+<desc>betonowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>29.40</name>
+<desc>Spietrzenie wody do elektrowni, dalej kanał, który jest normalnie nie pływany.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.24993000" lon="17.61801000">
+<name>32.00</name>
+<desc>betonowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.25607000" lon="17.47850000">
+<name>42.00</name>
+<desc>Duży i wysoki most betonowy na ruchliwej drodze. Pod mostem bystrze w kamieniami.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Zaraz za mostem po prawej elegancki biwak, wiaty, stoliki itp. Wadą  jest zbyt dobry dojazd dla samochodów.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.26879000" lon="17.42228600">
+<name>47.00</name>
+<desc>Z prawej strony odejście na Zalew Bytowej i stare koryto Słupii.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.27026000" lon="17.41423000">
+<name>47.55</name>
+<desc>Kładka dla pieszych przy ujściu Słupii do Jeziora Głębokiego.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Duży leśny biwak nad jeziorem Głębokim.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.28830000" lon="17.30307000">
+<name>58.00</name>
+<desc>Betonowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.31224000" lon="17.24541000">
+<name>-1.00</name>
+<desc>Biwak na malutkiej wysepce na Jeziorze Konradowo. Maksymalna pojemność 11 osób. Powierzchnia 50 m2.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.31224000" lon="17.23970000">
+<name>62.50</name>
+<desc>Wypływ Słupii z Jeziora Konradowo. Wpływamy w kanał do elektrowni pod otwartą zastawką.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="54.32033000" lon="17.23160000">
+<name>63.30</name>
+<desc>Po prawej stronie wygodnie obnosimy elektrownie, 150metrów.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="54.34899000" lon="17.21401000">
+<name>-1.00</name>
+<desc>Bardzo fajne miejsce biwakowe w połowie jeziora Krzynia na lewym brzegu.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Dobre miejsce biwakowe na zalesionym cyplu na prawym brzegu jeziora Krzynia.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.34899000" lon="17.21215000">
+<name>68.50</name>
+<desc>Most drogowy przy elektrowni.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Po lewej przenosimy 150 metrów do okoła elektrowni. Wygodnie i ciekawostka w postaci tunelu do przenosek pod drogą ;))</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Zaraz koło elektrowni jest sezonowy bar "Pod Brzozami". Drogo, ale można zjeść małe conieco.</desc>
+<cmt>bar</cmt>
+</wpt>
+<wpt lat="54.35852000" lon="17.15588000">
+<name>71.00</name>
+<desc>Betonowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.35705000" lon="17.15486000">
+<name>-1.00</name>
+<desc>Przed mostem małe pole biwakowe,  a poniżej mostu wielkie, zagospodarowane pole biwakowe szlaku Słupii. Darmowe.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.36022000" lon="17.08534000">
+<name>76.50</name>
+<desc>Most betonowy drogowy 2 km od Żelkowa.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.37780000" lon="17.05186000">
+<name>79.00</name>
+<desc>Betonowy most na drodze między Kwakowem, a Lubuniem.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Dogodne do biwakowanie pole na lewym brzegu, na wysokości Łosina. Dobra do biwakowania łąka tuż poniżej mostu koło Łosina.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.41635000" lon="17.02601000">
+<name>87.00</name>
+<desc>Dziurawy most stalowo drewniany około Łosina.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.45346000" lon="17.03546000">
+<name>92.00</name>
+<desc>Stalowy mostek pieszo-rowerowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.45973000" lon="17.03949000">
+<name>93.00</name>
+<desc>Rozdzielenie koryta, na lewo kanał do młyna. Lepiej płynąć prosto i wygodnie obnieść jaz.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.45980000" lon="17.03950000">
+<name>93.10</name>
+<desc>Kładka dla pieszych o konstrukcji łukowej.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>93.15</name>
+<desc>2 metrowe spietrzenie wody, niespływalne.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>93.80</name>
+<desc>Duży, szeroki most drogowy na drodze krajowej. Dalej w Słupsku są jeszcze cztery mosty z czego ostatni zupełnie metalowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.48162000" lon="17.02996000">
+<name>94.50</name>
+<desc>Duży i wysoki most kolejowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.54415000" lon="16.97894000">
+<name>107.00</name>
+<desc>Kładka drewniana, dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.54430000" lon="16.97880000">
+<name>107.20</name>
+<desc>Ujście rzeki Glina do Słupi z prawej strony.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.54224000" lon="16.97894000">
+<name>-1.00</name>
+<desc>Łąka biwakowa na lewym brzegu przed wsią. Miły gospodarz, można kupić mleko.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.53839000" lon="16.96788000">
+<name>110.00</name>
+<desc>Duży most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.54551000" lon="16.92781000">
+<name>113.50</name>
+<desc>Betonowy most koło Niestkowa</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.55621000" lon="16.88757000">
+<name>118.00</name>
+<desc>most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.55723000" lon="16.87767000">
+<name>120.00</name>
+<desc>drewniany mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.57967000" lon="16.85713000">
+<name>124.00</name>
+<desc>Jedny most drogowy w Ustce</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.57735000" lon="16.85494000">
+<name>-1.00</name>
+<desc>Camping jaki udalo Mi się znaleźć najbliżej rzeki. Ul. Polna 2, 200 metrów od rzeki. Ciepła woda, prysznic.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Bardzo dużo różnych sklepów</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>125.00</name>
+<desc>Ujście Słupii do Morza Bałtyckiego.</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

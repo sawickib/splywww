@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="160" nazwa="Cysterska Pętla" wersja="1">
+<opis>Ciekawy szlak kajakowy na Pojezierzu Leszczyńskim (woj. wielkopolskie). Alternatywa rzeczno - kanałowo - jeziorowa dla Pętli Konwaliowej, w odróżnieniu od której nie posiada ani jednej przenoski dłuższej niż 20 m.
+Długość całej trasy wynosi 34 km i nawet krótkim kajakiem K1 można zatoczyć pełną pętlę w 1 dzień (w maju 2018 dwom K1 zajęło to 8 h). Szlak jest dobrze dostępny w różnych miejscach, przez co można go w dowolny sposób modyfikować. Niestety, w którym miejscu by nie zacząć spływu i w którą stronę by nie płynąć, zawsze jakiś odcinek pokonać trzeba będzie pod prąd. Nie ma tu jednak dużych różnic wysokości więc nurt jest nieznaczny (oczywiście w zależności od poziomu wody).
+Szlak na odcinku jeziorowym jest oznakowany i miejscami wypozażony w tablice informacyjne. Wpływy i wypływy z jezior, oznaczone są charakterystycznym trapezem, jednak na tyle małym, że niezbyt widocznym z większej odległości.
+Na szlaku nie ma wodowskazów, które można obserwować w internecie, istnieje jednak możliwość podpatrzenia ich w terenie. W dniu spływu wodowskaz Wieleń wskazywał poziom 072, wodowskaz Przemęt 062, a wodowskaz Mochy 094. Te wskazania gwarantują dobre warunki, nigdzie nie brakuje wody, a nurt jest słaby i da się bez problemów płynąć pod prąd. Należy mieć jednak na względzie, że znaczna część szlaku to zarastający kanał i w porze zwłaszcza letniej, rozwój bujnej roślinności wodnej z pewnością nie będzie sprzymierzeńcem kajakarzy. </opis> 
+    <punkt id="5245" miejscowosc="Wieleń" 
+      ns="51.95212475" we="16.18176799" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 305 Wschowa - Wolsztyn. Przed mostem w trzcinach wodowskaz Wieleń</opispunktu> 
+    </punkt>
+    <punkt id="5246" miejscowosc="Wieleń" 
+      ns="51.952066" we="16.184655" km="0.2" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Oznakowany wypływ na jezioro Trzytoniowe. Rozpoczyna się 13 kilometrowy odcinek jeziorowy</opispunktu> 
+    </punkt>
+    <punkt id="5247" miejscowosc="Osłonin" 
+      ns="51.949411" we="16.210128" km="2" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drewniany, wypływ na j. Osłonińskie</opispunktu> 
+    </punkt>
+    <punkt id="5248" miejscowosc="Osłonin" 
+      ns="51.94614239" we="16.23688678" km="3.8" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po lewej stronie duże żeremie bobrowe. Wpływ na j. Górskie</opispunktu> 
+    </punkt>
+    <punkt id="5249" miejscowosc="Olejnica" 
+      ns="51.961283" we="16.249107" km="6" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy, za nim pomost z tablicą informacyjną szlaku. Przed mostem po prawej stronie duża przystań AWF Wrocław. Wypływ na j. Olejnickie</opispunktu> 
+    </punkt>
+    <punkt id="5250" miejscowosc="Radomierz" 
+      ns="51.982137" we="16.252969" km="9" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rezerwat przyrody Wyspa Konwaliowa</opispunktu> 
+    </punkt>
+    <punkt id="5251" miejscowosc="Błotnica" 
+      ns="51.99722913" we="16.29248633" km="12.1" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Oznakowany kraniec jeziora Przemęckiego</opispunktu> 
+    </punkt>
+    <punkt id="5252" miejscowosc="Błotnica" 
+      ns="51.99828852" we="16.2934387" km="12.2" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy, przed nim spora zwałka z drzew ściętych i zwalonych do wody podczas udrażniania przebiegu linii energetycznej</opispunktu> 
+    </punkt>
+    <punkt id="5253" miejscowosc="Przemęt" 
+      ns="52.00072587" we="16.29468024" km="12.6" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na j. Przemęckie Małe. W oddali widać wieże klasztoru cysterskiego</opispunktu> 
+    </punkt>
+    <punkt id="5254" miejscowosc="Przemęt" 
+      ns="52.00611945" we="16.2926349" km="13.2" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Koniec j. Przemęckiego Małego. Zaczyna się odcinek skanalizowany</opispunktu> 
+    </punkt>
+    <punkt id="5255" miejscowosc="Przemęt" 
+      ns="52.00949967" we="16.29026836" km="13.6" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, przed nim pomost. Wygodne miejsce na zwiedzenie pobliskiego obiektu cysterskiego</opispunktu> 
+    </punkt>
+    <punkt id="5256" miejscowosc="Przemęt" 
+      ns="52.01352508" we="16.28552892" km="14.2" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Dwu przęsłowa zastawka przed wpływem na Południowy Kanał Obry, zamknięta ale nie piętrząca wody. Przymusowa króka przenoska po trawie kilkanaście metrów, bezpośrednio do PKO. Wyjście z wody po kamieniach. Pod zastawką znajduje się wodowskaz Przemęt. Zaczyna się prosty i nużący długi odcinek kanału, na którym jedynym urozmaiceniem są wędkarze i mijane identyczne mostki betonowe. Jedynym pocieszeniem jest, że płyniemy z prądem</opispunktu> 
+    </punkt>
+    <punkt id="5257" miejscowosc="Przemęt" 
+      ns="52.01178013" we="16.28240267" km="14.5" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Pierwszy most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="5258" miejscowosc="Perkowo" 
+      ns="52.01015691" we="16.26835799" km="15.5" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Drugi identyczny most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="5259" miejscowosc="Perkowo" 
+      ns="52.01360268" we="16.24879975" km="16.9" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Trzeci identyczny most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="5260" miejscowosc="Nowa Wieś" 
+      ns="52.01720415" we="16.23024445" km="18.2" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Czwarty identyczny most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="5261" miejscowosc="Nowa Wieś" 
+      ns="52.01943938" we="16.21153713" km="19.5" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Piąty identyczny most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="5262" miejscowosc="Nowa Wieś" 
+      ns="52.01918898" we="16.20725962" km="19.8" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="5263" miejscowosc="Nowa Wieś" 
+      ns="52.0187577" we="16.19965866" km="20.3" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Szósty identyczny most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="5264" miejscowosc="Mochy" 
+      ns="52.01771649" we="16.17931421" km="21.8" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy, pod nim 3 przęsłowa uniesiona zastawka, pod którą można przepłynąć. Przy zastawce wodowskaz Mochy</opispunktu> 
+    </punkt>
+    <punkt id="5265" miejscowosc="Mochy" 
+      ns="52.01664895" we="16.16191298" km="23" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Betonowy przepust w prawo, odprowadzający część wód w kierunku Północnego Kanału Obry</opispunktu> 
+    </punkt>
+    <punkt id="5266" miejscowosc="Mochy" 
+      ns="52.01556656" we="16.16143246" km="23.1" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Remontowany most na drodze nr 305 Wschowa - Wolsztyn. Za nim tymczasowy przepust 8 rurowy pod tymczasowym mostem. Za przepustem drzewo w poprzek nurtu, tworzące dość wymagającą zwałkę, ze względu na sporą ilość nagromadzonych śmieci</opispunktu> 
+    </punkt>
+    <punkt id="5267" miejscowosc="Mochy" 
+      ns="52.01486303" we="16.16060735" km="23.2" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Skręt w lewo w zarośnięty wąski kanał prowadzący w kierunku j. Mochyńskiego. Początek kanału znajduje się pomiędzy jedynymi dwoma dużymi drzewami. W zależności od pory roku, wpływ może być zamaskowany przez trzciny</opispunktu> 
+    </punkt>
+    <punkt id="5268" miejscowosc="Mochy" 
+      ns="52.01379381" we="16.16176786" km="23.4" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na płytki i zarośnięty nieco północny kraniec j. Mochyńskiego</opispunktu> 
+    </punkt>
+    <punkt id="5269" miejscowosc="Mochy" 
+      ns="52.00585456" we="16.15764349" km="24.3" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ z południowego krańca j. Mochyńskiego, po lewej duże żeremie bobrowe. Początek stojącej wody kanału, jednak poprzez swoje urozmaicenie bardziej przypominającego rzekę</opispunktu> 
+    </punkt>
+    <punkt id="5270" miejscowosc="Mochy" 
+      ns="52.00045482" we="16.15646808" km="25" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski mostek drewniany </opispunktu> 
+    </punkt>
+    <punkt id="5271" miejscowosc="Mochy" 
+      ns="51.99480877" we="16.15166359" km="25.8" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Most - podwójny przepust rurowy na drodze z Moch do Świętna. Dalej woda stojąca, głęboko i muliście. W pobliżu mostu sporo miejsca na samochody przy tablicy z nazwą miejscowości. Dalej szeroko, kilka łatwych zwałek i spore trzcinowiska. Okolica dzika i zabagniona</opispunktu> 
+    </punkt>
+    <punkt id="5272" miejscowosc="Mochy" 
+      ns="51.988452" we="16.148141" km="26.5" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Dopływamy do Kanału Kaszczorskiego. W prawo łącznik do Południowego Kanału Obry. Od tego miejsca płyniemy pod słaby prąd. Kanał tutaj przypomina rzekę i kręci wśród drzew</opispunktu> 
+    </punkt>
+    <punkt id="5273" miejscowosc="Kaszczor" 
+      ns="51.96813974" we="16.15699649" km="29.4" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska kładka drewniana. Nurt staje się bardziej wyraźny</opispunktu> 
+    </punkt>
+    <punkt id="5274" miejscowosc="Kaszczor" 
+      ns="51.958495" we="16.162474" km="30.8" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, przed nim pomost, tablica informacyjna, w pobliżu kościół, sklepy. Dalej odkryty teren, trzcinowiska, szeroko, głęboko, nurt nieco słabszy</opispunktu> 
+    </punkt>
+    <punkt id="5275" miejscowosc="Wieleń" 
+      ns="51.952298" we="16.18086" km="33.3" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz zastawka piętrząca wody całego kompleksu jezior. W zależności od poziomu wody opuszczona albo podniesiona, umożliwiając przepłynięcie. Po obu stronach zastawki betonowe przegrody. Przed i za zastawką drewniane pomosty ułatwiające ewentualną krótką przenoskę po trawie. Na pobliskim moście drogwym zamyka się Pętlę Cysterską</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

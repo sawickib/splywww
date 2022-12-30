@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="114" nazwa="Rega" wersja="3">
+<opis>Jedna z najdłuższych rzek przymorza, dla kajaków dostępna na odcinku ponad 150 km. Przepływa przez powiaty świdwiński, łobeski i gryficki, a do Bałtyku uchodzi w Mrzeżynie. Jest bardzo zróżnicowana pod wieloma względami, płynie szeroką doliną meandrując w jej obrębie, ale jednocześnie na niektórych odcinkach jest wyprostowna i wyczyszczona, przepływa przez zabagnione łąki wąskim korytem, w innych miejscach rozlewa się szeroko tworząc wypłycenia i przełomy na kamiennych bystrzach. Na odcinkach leśnych urody dodają drzewa przegradzające koryto rzeki. Jest też kilka sztucznych prożków oraz kilka obowiązkowych przenosek. Wodowskaz Resko podczas spływu wskazywał poziom pomiędzy 294 a 314. Odcinek od Sławy do Reska opisany jest na podstawie spływu z lipca 2012 - 3 długie K2 z dziećmi i sprzętem biwakowym na pokładzie. Płynęliśmy z pomocą oficjalnego (PZKaj) przewodnika kajakowego po Redze z roku 2004 - przewodnik ten jednak, co nie powinno bardzo dziwić, w wielu przypadkach utracił swą aktualność.
+Odcinek od Reska do Mrzeżyna opisany na podstawie spływu z sierpnia 2016. Wodowskaz Trzebiatów pokazywał wówczas poziom - 170, co gwarantuje bardzo dobre warunki wodne na tym odcinku.</opis> 
+  <odcinek id="482" typ="rzeka" nazwa="Łagiewniki - Resko" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="5"> 
+  <opis>Ładny, leśny fragment rzeki, z kilkoma drzewami w nurcie, jednak bez przeszkód utrudniających spływ</opis>
+    <punkt id="4671" miejscowosc="Trzebiatów" 
+      ns="54.06360031" we="15.26040313" km="14.3" etykieta="" 
+      kolejnosc="87"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, w pobliżu wodowskaz Trzebiatów. Duży sklep tuż przy rzece</opispunktu> 
+    </punkt>
+    <punkt id="4670" miejscowosc="Trzebiatów" 
+      ns="54.06432858" we="15.26395773" km="14.5" etykieta="" 
+      kolejnosc="86"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych obok starych murów miasta</opispunktu> 
+    </punkt>
+    <punkt id="4669" miejscowosc="Trzebiatów" 
+      ns="54.06564697" we="15.26702719" km="14.8" etykieta="" 
+      kolejnosc="85"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ młynówki z lewej</opispunktu> 
+    </punkt>
+    <punkt id="4668" miejscowosc="Trzebiatów" 
+      ns="54.06481121" we="15.27228065" km="15.3" etykieta="" 
+      kolejnosc="84"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4667" miejscowosc="Trzebiatów" 
+      ns="54.06066834" we="15.27551894" km="15.9" etykieta="" 
+      kolejnosc="83"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy stacji PKP</opispunktu> 
+    </punkt>
+    <punkt id="4666" miejscowosc="Trzebiatów" 
+      ns="54.05240063" we="15.27522401" km="16.9" etykieta="" 
+      kolejnosc="82"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4665" miejscowosc="Trzebiatów" 
+      ns="54.04865708" we="15.27155091" km="17.5" etykieta="" 
+      kolejnosc="81"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz elektrowni. Przenoska przed jazem prawym brzegiem po trawie 50 m lub za jazem, za ogrodzeniem elektrowni również w prawo - 40 m po piasku</opispunktu> 
+    </punkt>
+    <punkt id="4664" miejscowosc="Kłodkowo" 
+      ns="54.01546192" we="15.24555391" km="24.4" etykieta="" 
+      kolejnosc="80"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Duża prywatna wypożyczalnia kajaków po lewej, z zatoką i pomostem</opispunktu> 
+    </punkt>
+    <punkt id="4663" miejscowosc="Borzęcin" 
+      ns="53.99322919" we="15.28397343" km="29.1" etykieta="" 
+      kolejnosc="79"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4662" miejscowosc="Borzęcin" 
+      ns="53.98652299" we="15.29395014" km="30.3" etykieta="" 
+      kolejnosc="78"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej ujście rzeki Mołstowa</opispunktu> 
+    </punkt>
+    <punkt id="5425" miejscowosc="Borzęcin" 
+      ns="53.97902688" we="15.29093718" km="31.2" etykieta="" 
+      kolejnosc="77"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście rzeczki Lubosiel</opispunktu> 
+    </punkt>
+    <punkt id="4661" miejscowosc="Borzęcin" 
+      ns="53.97619059" we="15.28173183" km="32" etykieta="" 
+      kolejnosc="76"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z wygodnym dostępem do wody</opispunktu> 
+    </punkt>
+    <punkt id="4660" miejscowosc="Skalin" 
+      ns="53.95674852" we="15.25009788" km="36.8" etykieta="" 
+      kolejnosc="75"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek - kładka, wygodne miejsce z dojazdem i dostępem do wody od strony Dziadowa</opispunktu> 
+    </punkt>
+    <punkt id="4659" miejscowosc="Kowalewo" 
+      ns="53.93694265" we="15.23936948" km="39.4" etykieta="" 
+      kolejnosc="74"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z prawej rzeki Lubieszowa. Możliwość dzikiego biwakowania</opispunktu> 
+    </punkt>
+    <punkt id="4658" miejscowosc="Gryfice" 
+      ns="53.93049333" we="15.22411068" km="40.8" etykieta="" 
+      kolejnosc="73"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wyspa w korycie rzeki</opispunktu> 
+    </punkt>
+    <punkt id="5424" miejscowosc="Gryfice" 
+      ns="53.921858" we="15.211112" km="42.3" etykieta="" 
+      kolejnosc="72"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4656" miejscowosc="Gryfice" 
+      ns="53.91644613" we="15.20277106" km="43.3" etykieta="" 
+      kolejnosc="71"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4654" miejscowosc="Gryfice" 
+      ns="53.91326047" we="15.20064391" km="43.7" etykieta="" 
+      kolejnosc="70"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz pochyły z możliwością spłynięcia po ocenie trudności. Przenoska prawym brzegiem 100m przez park i deptak, wyjście i zejście wygodne</opispunktu> 
+    </punkt>
+    <punkt id="4653" miejscowosc="Gryfice" 
+      ns="53.91096446" we="15.2025311" km="44.1" etykieta="" 
+      kolejnosc="69"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej stanica wodna w Gryficach</opispunktu> 
+    </punkt>
+    <punkt id="4652" miejscowosc="Gryfice" 
+      ns="53.90805467" we="15.20603451" km="44.6" etykieta="" 
+      kolejnosc="68"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych na przedmieściach Gryfic</opispunktu> 
+    </punkt>
+    <punkt id="4651" miejscowosc="Smolęcin" 
+      ns="53.87844048" we="15.23250332" km="49.8" etykieta="" 
+      kolejnosc="67"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora - wał elektrowni wodnej. Przenoska lewym brzegiem poza ogrodzeniem 220 m. Poniżej zapory zaczyna się stosunkowo krótki ale za to bardzo ładny odcinek rzeki</opispunktu> 
+    </punkt>
+    <punkt id="4650" miejscowosc="Barkowo" 
+      ns="53.85914616" we="15.23085108" km="52" etykieta="" 
+      kolejnosc="66"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej ujście rzeki Gardominki w głębokiej zatoce za mostem drogowym</opispunktu> 
+    </punkt>
+    <punkt id="4649" miejscowosc="Barkowo" 
+      ns="53.84976158" we="15.24866913" km="53.6" etykieta="" 
+      kolejnosc="65"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość dzikiego biwaku na trawie, przy widocznych z daleka po lewej stronie palach po dawnym molo kąpieliska</opispunktu> 
+    </punkt>
+    <punkt id="4648" miejscowosc="Barkowo" 
+      ns="53.8303987" we="15.2759811" km="56.5" etykieta="" 
+      kolejnosc="64"> 
+    <opispunktu typ="most" kolejnosc="-1">Budowa mostu ekspresówki S6, początek rozlewisk jeziora Rejowickiego</opispunktu> 
+    </punkt>
+    <punkt id="5423" miejscowosc="Płoty" 
+      ns="53.81857829" we="15.2709131" km="58.2" etykieta="" 
+      kolejnosc="63"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z prawej rzeki Rekowa</opispunktu> 
+    </punkt>
+    <punkt id="5422" miejscowosc="Płoty" 
+      ns="53.815419" we="15.270975" km="58.5" etykieta="" 
+      kolejnosc="62"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Betonowe przyczółki po czymś</opispunktu> 
+    </punkt>
+    <punkt id="4647" miejscowosc="Płoty" 
+      ns="53.8078563" we="15.26721119" km="59.7" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy </opispunktu> 
+    </punkt>
+    <punkt id="4646" miejscowosc="Płoty" 
+      ns="53.80720534" we="15.27252693" km="60.1" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na drodze nr 6 Szczecin - Koszalin</opispunktu> 
+    </punkt>
+    <punkt id="5421" miejscowosc="Płoty" 
+      ns="53.80108064" we="15.27029495" km="61.3" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Dopływ młynówki z lewej, nieco w górę młynówki stanica z pomostem</opispunktu> 
+    </punkt>
+    <punkt id="4645" miejscowosc="Płoty" 
+      ns="53.80039545" we="15.26732717" km="61.5" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz pochyły. Poniżej jazu liczne głazy, należy odnaleźć właściwe miejsce w celu spłynięcia i ocenić trudności. Ewentualna przenoska prawą stroną 50m, leśną ścieżką. Wodowanie pośród dużych głazów. Zaraz za jazem most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4644" miejscowosc="Lisowo" 
+      ns="53.77690176" we="15.26001273" km="65.5" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora elektrowni wodnej. Przenoska prawym brzegiem 90m. W pobliżu miejsce na ognisko</opispunktu> 
+    </punkt>
+    <punkt id="4643" miejscowosc="Taczały" 
+      ns="53.7534422" we="15.2710367" km="68.4" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Początek częściowo zarastającego jeziora Kodno - Lisowskiego. Z lewej dopływ rzeki Ukleja, w postaci rozległej zatoki</opispunktu> 
+    </punkt>
+    <punkt id="5420" miejscowosc="Godziszewo" 
+      ns="53.753814" we="15.303192" km="71" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="most" kolejnosc="-1">Bardzo fotogeniczne jedno przęsło zniszczonego mostu kolejowego</opispunktu> 
+    </punkt>
+    <punkt id="5419" miejscowosc="Żerzyno" 
+      ns="53.75220597" we="15.31724436" km="72.2" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Piaskowa</opispunktu> 
+    </punkt>
+    <punkt id="4642" miejscowosc="Żerzyno" 
+      ns="53.75230855" we="15.323287" km="72.7" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz elektrowni wodnej. Przenoska prawą stroną 60 m</opispunktu> 
+    </punkt>
+    <punkt id="4641" miejscowosc="Resko" 
+      ns="53.77293192" we="15.39568244" km="80.3" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="4640" miejscowosc="Resko" 
+      ns="53.77341555" we="15.39698955" km="80.4" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pomost po prawej - przystań organizatora spływów, w pobliżu miejsce biwakowe, sanitariaty</opispunktu> 
+    </punkt>
+    <punkt id="4109" miejscowosc="Resko" 
+      ns="53.77121609" we="15.40364043" km="80.9" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w centrum Reska, tuż za nim jaz elektrowni wodnej. Przenoska prawą stroną 200m przez ruchliwą drogę, uliczką pomiędzy kamienicami. Wygodne wyjście i wejście do wody. Na końcu przenoski ławki i wiaty. W pobliżu sklepy i bar</opispunktu> 
+    </punkt>
+    <punkt id="4108" miejscowosc="Resko" 
+      ns="53.76841887" we="15.40719081" km="81.5" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska kładka</opispunktu> 
+    </punkt>
+    <punkt id="4107" miejscowosc="Resko" 
+      ns="53.7663153" we="15.40829089" km="81.8" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="most" kolejnosc="-1">Kratownicowy most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4106" miejscowosc="Resko" 
+      ns="53.76593093" we="15.43273359" km="84.2" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowy most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4105" miejscowosc="Łagiewniki" 
+      ns="53.7507828" we="15.50339478" km="92.3" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4104" miejscowosc="Łagiewniki" 
+      ns="53.7511732" we="15.50484114" km="92.5" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe w lesie po prawej stronie, tuż przed mostem. Wygodny dojazd, lecz niezbyt wygodne wodowanie, a zwłaszcza wyjście z wody na brzeg. Są tam też stoliki i ławki</opispunktu> 
+    </punkt>
+    <punkt id="4672" miejscowosc="Nowielice" 
+      ns="54.07400609" we="15.25068454" km="12.6" etykieta="" 
+      kolejnosc="88"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4673" miejscowosc="Nowielice" 
+      ns="54.07563882" we="15.24980423" km="12.4" etykieta="" 
+      kolejnosc="89"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4674" miejscowosc="Włodarka" 
+      ns="54.09684844" we="15.22458136" km="8.7" etykieta="" 
+      kolejnosc="90"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z lewej przez jaz Kanału Włodarka</opispunktu> 
+    </punkt>
+    <punkt id="4675" miejscowosc="Mrzeżyno" 
+      ns="54.14170831" we="15.28609388" km="0.6" etykieta="" 
+      kolejnosc="91"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, początek portu, wygodne miejsce zakończenia spływu z dojazdem w pobliże wody</opispunktu> 
+    </punkt>
+    <punkt id="4676" miejscowosc="Mrzeżyno" 
+      ns="54.14685745" we="15.28522193" km="0" etykieta="" 
+      kolejnosc="92"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Ujście Regi do Bałtyku</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="481" typ="rzeka" nazwa="Strzmiele - Łagiewniki" 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="4"> 
+  <opis>Na tym odcinku zaczynają się zwałki zmuszające do akrobatyki i opuszczania kajaka, co więcej zmuszające miejscami do opuszczania rzeki i ciągnięcia sprzętu lądem (w przypadku załadowanych K2). Większość przeszkód jednak, tak jak do tej pory da się przepłynąć</opis>
+    <punkt id="5418" miejscowosc="Przemysław" 
+      ns="53.72809915" we="15.54102747" km="98.2" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pale drewniane i kamienne przyczółki po starym moście</opispunktu> 
+    </punkt>
+    <punkt id="4102" miejscowosc="Karwowo" 
+      ns="53.70921294" we="15.54811254" km="101" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drewniany</opispunktu> 
+    </punkt>
+    <punkt id="4101" miejscowosc="Przyborze" 
+      ns="53.68464404" we="15.56151485" km="105" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pozostałości po moście, drewniane pale w nurcie</opispunktu> 
+    </punkt>
+    <punkt id="4100" miejscowosc="Strzmiele" 
+      ns="53.6562722" we="15.56128681" km="109.2" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce wodowania ze slipem i schodkami poniżej mostu po lewej stronie. W pobliżu sporo miejsca na samochody, a poniżej jeden z najbardziej atrakcyjnych odcinków Regi</opispunktu> 
+    </punkt>
+    <punkt id="4103" miejscowosc="Łagiewniki" 
+      ns="53.75014788" we="15.50706282" km="92.6" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Ładne miejsce biwakowe na stromej skarpie po lewej, obok pozostałości po jakiejś budowli wykorzystującej wody rzeki</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="480" typ="rzeka" nazwa="Łobez - Unimie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>W przeciwieństwie do Świdwina, przed i za Łobzem rzeka zaczyna śmierdzieć ! Odcinek pełen krzaków i łóz, dzięki którym odnosi się wrażenie płynięcia w lesie</opis>
+    <punkt id="4099" miejscowosc="Unimie" 
+      ns="53.63725805" we="15.57959234" km="112.9" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek. Przed mostkiem po prawej możliwość zabiwakowania</opispunktu> 
+    </punkt>
+    <punkt id="4098" miejscowosc="Unimie" 
+      ns="53.62793222" we="15.578805" km="114.4" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce wodowania, zwłaszcza kończenia spływu Brzeźnicką i Reską Węgorzą</opispunktu> 
+    </punkt>
+    <punkt id="4097" miejscowosc="Unimie" 
+      ns="53.62435212" we="15.58397322" km="115.1" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Brzeźnickiej Węgorzy z lewej</opispunktu> 
+    </punkt>
+    <punkt id="4096" miejscowosc="Łobez" 
+      ns="53.62157534" we="15.59935754" km="116.5" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka o lokalnej nazwie Most Cygański</opispunktu> 
+    </punkt>
+    <punkt id="4095" miejscowosc="Łobez" 
+      ns="53.62893934" we="15.61358772" km="118.6" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4094" miejscowosc="Łobez" 
+      ns="53.634263" we="15.62100915" km="119.4" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Gdzieś w okolicy tego mostu po prawej stronie stoi drewniana wiata turystyczna (tuż nad wodą). Z pewnością jest to dobre miejsce na odpoczynek i być może biwak, niestety w chwili naszego płynięcia wiata opanowana była przez miejscowych wulgarnych smakoszy win prostych</opispunktu> 
+    </punkt>
+    <punkt id="4093" miejscowosc="Łobez" 
+      ns="53.63528321" we="15.6224192" km="119.6" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg "nieco chlapiący". Jak ktoś ma fartuch to tu może się przydać</opispunktu> 
+    </punkt>
+    <punkt id="4092" miejscowosc="Łobez" 
+      ns="53.63681215" we="15.62304422" km="119.8" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="4091" miejscowosc="Łobez" 
+      ns="53.63863447" we="15.62378682" km="120" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w centrum miasta, blisko do marketu ale niezbyt wygodne wyjście z wody</opispunktu> 
+    </punkt>
+    <punkt id="4090" miejscowosc="Łobez" 
+      ns="53.63939906" we="15.62440052" km="120.1" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej wpada rzeka Łoźnica wzbogacona o wodę z jazu przed elektrownią</opispunktu> 
+    </punkt>
+    <punkt id="4089" miejscowosc="Łobez" 
+      ns="53.64044754" we="15.62519304" km="120.2" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz elektrowni wodnej. Przenoska lewym brzegiem około 50m. Jest to najwygodniejsze miejsce na zrobienie zakupów w tym mieście. Do najbliższego sklepu jest około 500 m ścieżką przez park</opispunktu> 
+    </punkt>
+    <punkt id="4088" miejscowosc="Łobez" 
+      ns="53.64159074" we="15.62871359" km="120.5" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz w lewo. Ze względu na małą ilość wody należy płynąć prosto na elektrownię</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="479" typ="rzeka" nazwa="Gola - Łobez" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis>Ładny, głównie leśny fragment rzeki. Trochę drewna w korycie i kilka kamiennych naturalnych bystrzy</opis>
+    <punkt id="4086" miejscowosc="Łobżany" 
+      ns="53.66857268" we="15.65421065" km="125.3" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Most lokalnej drogi</opispunktu> 
+    </punkt>
+    <punkt id="4085" miejscowosc="Prusinowo" 
+      ns="53.68866431" we="15.63187576" km="129.1" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na lokalnej drodze. Wygodne miejsce wodowania i kąpieli, z piaszczystym dojściem do wody. Najbliższy sklep znajduje się w Worowie, około 2 km asfaltem</opispunktu> 
+    </punkt>
+    <punkt id="4084" miejscowosc="Prusinowo" 
+      ns="53.69001679" we="15.62898775" km="129.4" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pierwsze oznakowane pole biwakowe na prywatnej działce</opispunktu> 
+    </punkt>
+    <punkt id="4083" miejscowosc="Prusinowo" 
+      ns="53.69122802" we="15.6274666" km="129.6" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia wodna. Przenoska lewym brzegiem w dół do suchego koryta</opispunktu> 
+    </punkt>
+    <punkt id="4082" miejscowosc="Prusinowo" 
+      ns="53.69309921" we="15.62448761" km="129.9" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy kilku przęsłowy</opispunktu> 
+    </punkt>
+    <punkt id="4081" miejscowosc="Prusinowo" 
+      ns="53.70140884" we="15.63438725" km="131.9" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Łukowaty most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4080" miejscowosc="Klępnica" 
+      ns="53.71260081" we="15.64955648" km="134.4" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka w pobliżu stacji PKP</opispunktu> 
+    </punkt>
+    <punkt id="5417" miejscowosc="Lipce" 
+      ns="53.71412901" we="15.67245309" km="136.8" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Starej Regi</opispunktu> 
+    </punkt>
+    <punkt id="5416" miejscowosc="Lipce" 
+      ns="53.72469836" we="15.6807355" km="138.2" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4078" miejscowosc="Gola Dolna" 
+      ns="53.73604017" we="15.71917809" km="141.5" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie Świdwin - Łobez</opispunktu> 
+    </punkt>
+    <punkt id="4087" miejscowosc="Łobez" 
+      ns="53.65316378" we="15.63818279" km="122.5" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Wygodne miejsce na dziki biwak w wewnętrznym zakolu rzeki. Piaszczyste dno, mały pomost, miejsce na ognisko, trawa</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="478" typ="rzeka" nazwa="Bystrzynka - Gola" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Fragment rzeki o uregulowanym charakterze. Odkryte przestrzenie na zewnątrz a koryto w trakcie gruntownego czyszczenia i przebudowy. Wbrew powszechnej opinii nie stwierdziliśmy zanieczyszczenia rzeki przez Świdwin</opis>
+    <punkt id="4077" miejscowosc="Gola Dolna" 
+      ns="53.74346837" we="15.72817487" km="142.8" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg zbudowany z wielkich głazów, leżących również w wodzie w lini najlepszego nurtu. W trosce o kajaki opuściliśmy je na cumach</opispunktu> 
+    </punkt>
+    <punkt id="4076" miejscowosc="Świdwin" 
+      ns="53.75865082" we="15.75172292" km="145.7" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg w sąsiedztwie starego młyna. W czasie spływu próg był wyburzany i pod nim w wodzie leżały wielkie kanciaste głazy. Z obawy o kajaki przenosiliśmy je z prawej strony około 20m</opispunktu> 
+    </punkt>
+    <punkt id="4075" miejscowosc="Świdwin" 
+      ns="53.76952201" we="15.76610399" km="147.5" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most z niedużym bystrzem</opispunktu> 
+    </punkt>
+    <punkt id="4074" miejscowosc="Świdwin" 
+      ns="53.77213167" we="15.76836572" km="147.8" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w centrum miasta. Pod mostem 2-stopniowy próg przedzielony pochylnią. Ze względu na utrudniony dostęp do rzeki za przeszkodą oraz warunki wodne pozwalające na przepłynięcie, długie kajaki spłynęły (prawym przęsłem) a krótki został opuszczony na cumie. Ewentualna przenoska prawym brzegiem przez ruchliwą ulicę i prywatną działkę przy budynku mieszkalnym. Ze względów bezpieczeństwa dzieci przerzuciliśmy lądem. Na szczęście w budynku mieszka bardzo sympatyczny pan, który nie utrudnia życia kajakarzom i nawet udostepnił wąską ścieżkę pomiędzy swoimi grządkami. Niestety wodowanie z bardzo stromego brzegu, za to pod dużą śliwą ze smacznymi owocami, dostępnymi wyłącznie z wody</opispunktu> 
+    </punkt>
+    <punkt id="4073" miejscowosc="Świdwin" 
+      ns="53.7754143" we="15.76865521" km="148.2" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4072" miejscowosc="Krosino" 
+      ns="53.80313773" we="15.77466465" km="151.8" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie Świdwin - Kołobrzeg</opispunktu> 
+    </punkt>
+    <punkt id="4071" miejscowosc="Bystrzynka" 
+      ns="53.81049143" we="15.79149465" km="153.4" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek betonowy - do spłynięcia</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="477" typ="rzeka" nazwa="Sława - Bystrzynka" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Odcinek rzeki głównie przez łąki i pola, miejscami występują kępy drzew. Generalnie wąsko, miejscami nawet bardzo. Odcinek fragmentami zarasta trzciną, zdarzają się też pojedyncze drzewa leżące w nurcie. Na krótkim odcinku za mostem w Rogalinku kamienne bystrze, poza tym kilka betonowych prożków </opis>
+    <punkt id="4070" miejscowosc="Bystrzynka" 
+      ns="53.81178334" we="15.79403203" km="153.6" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="4069" miejscowosc="Bystrzynka" 
+      ns="53.81260393" we="15.79517949" km="153.7" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Drugi betonowy prożek przy stawach hodowli pstrąga. Przęsła ciasne a za prożkiem płytko. Tu również opuszczaliśmy kajaki na cumach. Zaraz za progiem dopływ z lewej zrzutu wody ze stawów</opispunktu> 
+    </punkt>
+    <punkt id="4068" miejscowosc="Bystrzynka" 
+      ns="53.81331011" we="15.79582761" km="153.8" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pierwszy betonowy prożek przy stawach hodowli pstrąga. Przęsła ciasne a za prożkiem płytko, opuszczaliśmy więc kajaki na cumach</opispunktu> 
+    </punkt>
+    <punkt id="4067" miejscowosc="Niemierzyno" 
+      ns="53.81673909" we="15.82661073" km="156.1" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek 3 przęsłowy. Szerszy kajak nie zmieścił się w przęśle ale pozostałe przepłynęły bez problemu</opispunktu> 
+    </punkt>
+    <punkt id="4066" miejscowosc="Niemierzyno" 
+      ns="53.81542903" we="15.83190867" km="156.5" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy, przed mostem po lewej w lesie spore maliniska</opispunktu> 
+    </punkt>
+    <punkt id="4065" miejscowosc="Rogalinko" 
+      ns="53.80991692" we="15.83452822" km="157.5" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowy prożek</opispunktu> 
+    </punkt>
+    <punkt id="4064" miejscowosc="Rogalinko" 
+      ns="53.80632434" we="15.83345975" km="158.3" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski drewniany mostek ze sterczącymi w dół gwoździami</opispunktu> 
+    </punkt>
+    <punkt id="4063" miejscowosc="Rogalinko" 
+      ns="53.80459386" we="15.84022405" km="158.6" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4062" miejscowosc="Sława" 
+      ns="53.78455218" we="15.88099818" km="163.2" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowy prożek. Za prożkiem płytko - kamienie zabezpieczone przed wymywaniem stalową siatką</opispunktu> 
+    </punkt>
+    <punkt id="4061" miejscowosc="Sława" 
+      ns="53.77932689" we="15.8943607" km="164.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie Świdwin - Połczyn. Wygodne miejsce wodowania, chociaż skarpa wąska a ruch na drodze spory</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="76" nazwa="Smortawa" wersja="1">
+<opis>Smortawa - rzeka o dł. ok. 40 km, prawy dopływ Odry, mająca źródła w okolicach Świerczowa na Równinie Opolskiej. Płynie przez Bory Stobrawskie, uchodzi do Odry w okolicy Jelcza. Rrzeczka jest stosunkowo wąska, ma od 2 do kilku metrów szerokości.
+Na Ziemi Brzeskiej w okolicach Dobrzynia rzeczka płynie prawą krawędzią Pradoliny Wrocławskiej zajmując starorzecza Odry. Za przysiółkiem Leśna Woda tworzy szeroki i długi aż do Bystrzycy zalew. Jego brzegi są wykorzystywane masowo przez wędkarzy i letników na pikniki.
+W Bystrzycy nad zalewem znajdują się małe ośrodki wypoczynkowe z domkami kempingowymi.</opis> 
+  <odcinek id="306" typ="rzeka" nazwa="Borucice - Dobrzyń" 
+      uciazliwosc="U3" trudnosc="ZWC" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Odcinek zwałkowy prowadzący przez las. Sporo drzew w korycie, niektóre trzeba obnosić. Po środku odcinka niski mostek na leśnej drodze wymagający położenia się w kajaku lub obnoszenia z lewej lub prawej strony. W pewnym miejscu odcinka (przed mostkiem) gniazduje wielki drapieżny ptak. Nie boi się ludzi i podlatuje na odległość 10m (ale nie atakuje i nie odstrasza), siada na brzegu i obserwuje - aparaty foto należy trzymać w pogotowiu.</opis>
+    <punkt id="2695" miejscowosc="Borucice" 
+      ns="50.970156" we="17.563176" km="21.89" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na S krańcu wsi. Wygodne miejsce wodowania kajaków.</opispunktu> 
+    </punkt>
+    <punkt id="2696" miejscowosc="Dobrzyń" 
+      ns="50.952381" we="17.467758" km="14.7" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na N od wsi. Wygodne miejsce wodowania kajaków.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="307" typ="zalew" nazwa="Leśna Woda" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Zalew spiętrzony niewielkim progiem. Niestety brudny i zaśmiecony, sądząc po rodzaju śmieci głównie przez tzw. "wędkarzy".</opis>
+    <punkt id="2697" miejscowosc="Błota - Leśna Woda" 
+      ns="50.952718" we="17.448232" km="13.33" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="2698" miejscowosc="Bystrzyca" 
+      ns="50.954213" we="17.398105" km="9.22" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg około 0,5 m, do spłynięcia na całej szerokości.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska z lewej strony 50 m.</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Bar i domki kempingowe. Wygodne miejsce wodowania.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="308" typ="rzeka" nazwa="" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Odcinek rzeki prowadzący przez wieś, łąki i pola.</opis>
+    <punkt id="2699" miejscowosc="Bystrzyca" 
+      ns="50.955061" we="17.396762" km="9.08" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="2700" miejscowosc="Bystrzyca" 
+      ns="50.956829" we="17.392548" km="8.8" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="2701" miejscowosc="Bystrzyca" 
+      ns="50.963114" we="17.377665" km="7.74" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek o wysokości ok. 0,7 m, do spłynięcia lewą stroną.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska 10m lewym brzegiem.</opispunktu> 
+    </punkt>
+    <punkt id="2702" miejscowosc="Janików" 
+      ns="50.968797" we="17.372386" km="7" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce wodowania.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="309" typ="rzeka" nazwa="" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Odcinek leśny, systematycznie oczyszczany ze zwałek przez lokalne władze samorządowe. Wysokie, podmyte brzegi sprawiają, że jest on malowniczy i atrakcyjny.</opis>
+    <punkt id="2703" miejscowosc="Janików" 
+      ns="50.976054" we="17.364022" km="5.87" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="2704" miejscowosc="Janików" 
+      ns="50.98339" we="17.357879" km="4.8" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący wodę, odcinający cofkę z Odry w przypadku podwyższonego stanu wody. Najczęściej jest otwarty.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska 20m lewą lub prawą stroną.</opispunktu> 
+    </punkt>
+    <punkt id="2705" miejscowosc="Jelcz - Oława" 
+      ns="51.000367" we="17.327703" km="1.96" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce wodowania kajaków.</opispunktu> 
+    </punkt>
+    <punkt id="2706" miejscowosc="Jelcz" 
+      ns="51.007259" we="17.30396" km="0" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Smortawy do Odry.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

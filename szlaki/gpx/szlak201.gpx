@@ -1,0 +1,125 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.95704113" lon="15.80778198">
+<name>18.00</name>
+<desc>Wygodne miejsce startu pomiędzy dwoma mostami - przepustami z betonowych rur. Pierwszy przepust znajduje się pod główną drogą nr 248 [ul. Sulechowska], natomiast drugi pod boczną, brukowaną [ul. Kresowa]. W pobliżu trawiasty plac i sporo miejsca na samochody. Poniżej uregulowany kanał 3-4m szerokości, o głębokości od 0,5m wzwyż [woda spiętrzona zastawką], miejscami zarośnięty trzcinami, płynący pośród łąk i pól, równolegle do ruchliwej drogi Wschowa - Sulechów</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.96544503" lon="15.81100062">
+<name>17.00</name>
+<desc>Niski mostek - przepust z zastawką. Ze względu na zbyt mały prześwit konieczna krótka przenoska, z wyjściem na lewy brzeg. Fragmenty przed, i za mostem mocno zatrzcinione</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.96628203" lon="15.81467984">
+<name>16.70</name>
+<desc>Ładny, fotogeniczny, sklepiony, ceglany mostek na nieczynnej linii kolejowej pomiędzy Sulechowem a Konotopem. Poniżej zaczyna się krótki, ale malowniczy odcinek leśny z pojedynczymi zwałkami i rozlewiskami oraz niską tamą bobrową</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.97038088" lon="15.81431769">
+<name>16.20</name>
+<desc>Na wypływie z lasu, bardzo podobny do poprzedniego, łukowy mostek ceglany, za to w znacznie gorszej kondycji. Dalej, uregulowany, wykoszony kanał przez pola rzepaku. Z powodu okresowego piętrzenia, płynie się wysoko, a woda miejscami wylewa się z koryta i tworzy wcięte w brzeg, małe zatoki. Głębokość w niektórych miejscach przekracza 1,5m</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.98046473" lon="15.81701073">
+<name>14.90</name>
+<desc>Niski mostek ceglany na polnej drodze. Ze względu na zbyt mały prześwit pod mostkiem konieczna krótka przenoska</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.98380025" lon="15.82160586">
+<name>14.40</name>
+<desc>Betonowy mostek - zastawka. Zbyt mały prześwit w przepuście i konieczna krótka przenoska</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.98832842" lon="15.82310648">
+<name>13.80</name>
+<desc>Betonowy mostek - zastawka, piętrzący wodę na wyskokość około 0,8m. Zbyt mały prześwit w przepuście wymusza krótką przenoskę. Dalej fragment brzydkiego, płytkiego kanału, aż do kolejnej granicy lasu. Płynie się nisko, głębokim rowem, pośród pojedynczych drzew</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.00097039" lon="15.83612955">
+<name>11.90</name>
+<desc>Most na drodze pomiędzy miejscowościami Klenica i Siadcza. Wygodne miejsce dostępu do wody z dojazdem, ale w bezpośrednim sąsiedztwie mostu brakuje miejsca na samochody. Przepust 3 przęsłowy z małym prześwitem, wymuszający przenoskę prawym brzegiem przez asfaltową drogę. Poniżej ładny fragment leśny, z pojedynczymi zwałkami. Za mostem, brzegi wzmocnione są szpalerem drewnianych palików. Jeżeli kołki są widoczne, czyli wystają ponad lustro wody oznacza, że odcinek leśny będzie płytki i kajak w wielu miejscach osiadał będzie na piaszczystym dnie. Trudy odcinka z pewnością wynagrodzi malownicze otoczenie i kontakt z dziką zwierzyną licznie przebywającą nad wodą</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.00509320" lon="15.82764752">
+<name>11.20</name>
+<desc>Wysoki betonowy mostek na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.00762747" lon="15.82086212">
+<name>10.50</name>
+<desc>Betonowe przyczółki połączone ramą ze stalowej rury, pozostałość budowli hydrotechnicznej. Dzisiaj nie piętrzy wody, za to wyznacza koniec płycizn odcinka śródleśnego</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.00971989" lon="15.81327587">
+<name>9.90</name>
+<desc>3 przęsłowy betonowy przepust rurowy pod mostkiem na gruntowej drodze, w pobliżu skraju lasu. Dalszy odcinek przebiega w większości odkrytym terenem, obfitującym w trzcinowiska</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.01119643" lon="15.80863423">
+<name>9.60</name>
+<desc>Z lewej strony ujście strugi Wir</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.01536487" lon="15.80665766">
+<name>9.10</name>
+<desc>3 przęsłowy, betonowy przepust rurowy pod mostkiem na polnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.01966194" lon="15.80366513">
+<name>8.50</name>
+<desc>Przepływamy pod drogą nr 313, pomiędzy Klenicą a Kargową. Wygodny dostęp do wody z dojazdem samochodem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.02585109" lon="15.79589618">
+<name>7.60</name>
+<desc>Szeroki kanał ze stojącą wodą po lewej stronie</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.02648879" lon="15.79645585">
+<name>7.60</name>
+<desc>Niski, betonowy mostek na polnej drodze - przepust z 3 rur. Zbyt mały prześwit wymusza przenoskę z lewej strony, z wyjściem na ląd pośród wiekowych dębów ponadgryzanych przez bobry. Dalej, odcinek odsłonięty, przez łąki, pola i gęstniejące trzcinowiska</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.03324266" lon="15.80294759">
+<name>6.60</name>
+<desc>Kolejny, niski, betonowy przepust pod mostkiem, wymagający przenoski i sforsowania drewnianego ogrodzenia</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.03650630" lon="15.80550417">
+<name>6.20</name>
+<desc>Drewniany mostek z ceglanymi przyczółkami. Poniżej, z lewej strony ściana lasu, po prawej teren odsłonięty. Koryto wcięte nisko pomiędzy wysokimi brzegami</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.04682847" lon="15.76762962">
+<name>3.10</name>
+<desc>Wysoki betonowy most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.04765672" lon="15.76125235">
+<name>2.70</name>
+<desc>Jeszcze wyższy, betonowy most na asfaltowej drodze z Trzebiechowa do Smolna Wielkiego. Przed mostem, po lewej stronie słabo czytelny wodowskaz Ostrzyce</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.04537860" lon="15.74917821">
+<name>1.80</name>
+<desc>Mostek kratownicowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.04619953" lon="15.72430277">
+<name>0.10</name>
+<desc>Mostek kratownicowy na gruntowej, ale publicznej drodze z Ostrzyc do Podlegórza. Ostatnia możliwość zakończenia spływu przed ujściem Kanału Obrzyckiego do Obrzycy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.04671862" lon="15.72376645">
+<name>0.00</name>
+<desc>Ujście Kanału Obrzyckiego do Obrzycy. Spływ wygodnie jest zakończyć 700 m niżej, w Podlegórzu. Za mostem, po prawej stronie znajduje się pomost z wygodnym dostępem do wody i miejscem na kilka samochodów. Jest się tu również stolik, ławki i miejsce na ognisko. Ze względu na łatwy dostęp, okolice mostu często okupowane są przez wędkarzy</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

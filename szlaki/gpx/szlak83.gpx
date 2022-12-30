@@ -1,0 +1,71 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.10158600" lon="21.92719400">
+<name>21.00</name>
+<desc>Miejsce biwakowe nad jeziorem Gołdopiwo. Wygodne miejsce wodowania.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.13108100" lon="21.93207000">
+<name>17.29</name>
+<desc>Spiętrzenie na końcu jeziora Gołdopiwo śluzą Przerwanki. Wygodne miejsce wodowania. 
+Wg informacji otrzymanych w dniu 07.03.2011 r. od: Adamus; "Śluza w Przerwankach jest czynna w sezonie można się swobodnie śluzować (Śluzowy mieszka w domku jakieś 150 metrów od śluzy).</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.13985100" lon="21.92316000">
+<name>15.66</name>
+<desc>Wypływ na jezioro Wilkus</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="54.15429500" lon="21.91668000">
+<name>13.32</name>
+<desc>Przepływ na jezioro Brząs</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="54.15363900" lon="21.90371100">
+<name>12.47</name>
+<desc>Wypływ z jeziora Brząs</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="54.13983500" lon="21.89917600">
+<name>10.53</name>
+<desc>Wpływ na jezioro Pozezdrze</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="54.14964200" lon="21.88138200">
+<name>8.86</name>
+<desc>Wypływ z jeziora Pozezdrze</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="54.15096000" lon="21.87712500">
+<name>8.51</name>
+<desc>Most drogowy, wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.16904300" lon="21.85675600">
+<name>5.19</name>
+<desc>Mostek drewniany w lesie, przyjemne miejsce na odpoczynek i dziki biwak</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.18005600" lon="21.84103100">
+<name>3.23</name>
+<desc>Wypływ na jezioro Stręgiel</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="54.18340900" lon="21.80683900">
+<name>0.82</name>
+<desc>Wypływ na jezioro Święcajty</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="54.17755100" lon="21.81249300">
+<name>0.00</name>
+<desc>Wypożyczalnia sprzętu wodnego</desc>
+<cmt>wypożyczalnia</cmt>
+</wpt>
+
+</gpx>

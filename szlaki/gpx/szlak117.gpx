@@ -1,0 +1,95 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.16658300" lon="17.44264530">
+<name>11.70</name>
+<desc>Most drogowy z podwójnym wąskim przepustem. Wygodne miejsce rozpoczęcia spływu.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.16514609" lon="17.42762457">
+<name>10.50</name>
+<desc>Bardzo niski betonowy mostek.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.16524328" lon="17.42651640">
+<name>10.40</name>
+<desc>Betonowa zastawka o wysokości około 0,4 m, z dwoma przepustami</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.16053069" lon="17.41547221">
+<name>9.30</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.15864003" lon="17.41196576">
+<name>9.00</name>
+<desc>Betonowa zastawka o wysokości około 1 m.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.15769646" lon="17.40331042">
+<name>8.30</name>
+<desc>Betonowa zastawka o wysokości około 1 m z dwoma przepustami.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.15440669" lon="17.39881472">
+<name>7.80</name>
+<desc>Betonowa zastawka o wysokości około 0,6 m.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.14916900" lon="17.39448482">
+<name>7.10</name>
+<desc>Most na gruntowej drodze.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.13986320" lon="17.38118146">
+<name>5.70</name>
+<desc>Most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.13929684" lon="17.38040485">
+<name>5.60</name>
+<desc>Betonowa zastawka o wysokości około 0,3 m z dwoma przepustami.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.13504160" lon="17.37802500">
+<name>5.00</name>
+<desc>Betonowa zastawka o wysokości około 0,5 m z dwoma przepustami</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.13232028" lon="17.37872297">
+<name>4.70</name>
+<desc>Betonowa zastawka o wysokości około 0,3 m z dwoma przepustami.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.12997019" lon="17.37737741">
+<name>4.50</name>
+<desc>Ruchoma zastawka. W dniu płynięcia możliwa do pokonania.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.12850075" lon="17.37543442">
+<name>4.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.12089277" lon="17.36235581">
+<name>3.00</name>
+<desc>Betonowy mostek w lesie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.12188819" lon="17.33694544">
+<name>1.00</name>
+<desc>Mostek na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.11720530" lon="17.32919962">
+<name>0.00</name>
+<desc>Ujście Smolnej do Widawy</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

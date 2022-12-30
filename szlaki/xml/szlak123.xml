@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="123" nazwa="Barycz" wersja="1">
+<opis>Prawy dopływ Odry o długości około 140 km. Obszar źródłowy znajduje się w okollicach Ostrowa Wielkopolskiego, skąd płynie w kierunku zachodnim i uchodzi do Odry kilkanaście kilometrów powyżej Głogowa. Rzeka płynie szeroką, zabagnioną doliną. Na obszarach leśnych posiada charakter zbliżony do naturalnego, gdy jednak przepływa przez łąki i pola przypomina raczej wyprostowany kanał melioracyjny. Wody Baryczy od lat wykorzystywane są na potrzeby licznych stawów hodowlanych, słynących głównie z produkcji karpia. Ze względu na dużą powierzchnię akwenów wodnych i niewielkie zaludnienie, okolice doliny Baryczy upodobało sobie zróżnicowane gatunkowo ptactwo wodne. Z tego względu m.in. utworzono tu szereg rezerwatów przyrody, stref ochronnych, użytków ekologicznych, a w 1996 roku Park Krajobrazowy Dolina Baryczy.
+W dniu płynięcia, wodowskaz Łąki wskazywał poziom 140 a Osetno poziom 169. Warunki te gwarantują wystarczającą ilość wody, należy jednak mieć na uwadze to, że Barycz poprzegradzana jest progami i zastawkami, co w różnym czasie może mieć wpływ na ilość wody na poszczególnych odcinkach.</opis> 
+  <odcinek id="492" typ="rzeka" nazwa="Przygodzice - Wróbliniec" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Odcinek rzeki mocno uregulowany, w zasadzie przypominający bardziej kanał melioracyjny niż rzekę. W Przygodzicach, na wysokości stawów hodowlanych szerokość Baryczy nie przekracza 2 m i wiosłuje się "o brzegi". Jedyna zaleta tego odcinka to brak przenosek.</opis>
+    <punkt id="4387" miejscowosc="Przygodzice" 
+      ns="51.584055" we="17.81341151" km="130.3" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na drodze gruntowej, wygodne miejsce rozpoczęcia spływu. Z drogi prowadzącej z Przygodzic w kierunku Jankowa należy skręcić w lewo na wysokości cmentarza. 
+Ilość wody w rzece oraz dogodny dostęp do niej umożliwia rozpoczęcie spływu nieco wyżej, w Przygodzicach, bezpośrednio przy drodze nr 11, tu jednak miejscowy gospodarz nie wykazuje entuzjazmu na widok kajakarzy.</opispunktu> 
+    </punkt>
+    <punkt id="4388" miejscowosc="Janków Przygodzki" 
+      ns="51.58518402" we="17.8001513" km="129.4" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowy próg 0.5m z kamieniami poniżej.</opispunktu> 
+    </punkt>
+    <punkt id="4389" miejscowosc="Janków Przygodzki" 
+      ns="51.58461653" we="17.79146146" km="128.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4390" miejscowosc="Janków Przygodzki" 
+      ns="51.58461619" we="17.78000981" km="127.9" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na drodze gruntowej</opispunktu> 
+    </punkt>
+    <punkt id="4391" miejscowosc="Janków Przygodzki" 
+      ns="51.58452273" we="17.77709736" km="127.7" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4392" miejscowosc="Popłomyk" 
+      ns="51.58626866" we="17.76484514" km="126.9" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4393" miejscowosc="Popłomyk" 
+      ns="51.58777165" we="17.75193579" km="125.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na drodze gruntowej</opispunktu> 
+    </punkt>
+    <punkt id="4394" miejscowosc="Tarchały Wielkie" 
+      ns="51.58019513" we="17.73475576" km="124.4" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4395" miejscowosc="Tarchały Wielkie" 
+      ns="51.57898527" we="17.72796043" km="123.8" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Kamienny próg 0,5m</opispunktu> 
+    </punkt>
+    <punkt id="4396" miejscowosc="Tarchały Wielkie" 
+      ns="51.58039524" we="17.70248002" km="122" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z prawej</opispunktu> 
+    </punkt>
+    <punkt id="4397" miejscowosc="Tarchały Wielkie" 
+      ns="51.58021659" we="17.70164058" km="121.9" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">3 przęsłowa zastawka, otwarta</opispunktu> 
+    </punkt>
+    <punkt id="4398" miejscowosc="Tarchały Wielkie" 
+      ns="51.57990864" we="17.69963269" km="121.8" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most ma ruchliwej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4399" miejscowosc="Odolanów" 
+      ns="51.57625763" we="17.67232439" km="119.8" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4400" miejscowosc="Odolanów" 
+      ns="51.56526647" we="17.6550939" km="118" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4401" miejscowosc="Odolanów" 
+      ns="51.56538964" we="17.65120834" km="117.8" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływy z lewej i prawej strony</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">4 przęsłowa otwarta zastawka, za nią pochyły prożek 0,5m</opispunktu> 
+    </punkt>
+    <punkt id="4402" miejscowosc="Raczyce" 
+      ns="51.56456442" we="17.63033385" km="116.2" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most</opispunktu> 
+    </punkt>
+    <punkt id="4403" miejscowosc="Raczyce" 
+      ns="51.56094133" we="17.61873952" km="115.3" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="4404" miejscowosc="Uciechów" 
+      ns="51.55764999" we="17.58751826" km="113" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4405" miejscowosc="Uciechów" 
+      ns="51.55686579" we="17.57831599" km="112.3" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na gruntowej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4406" miejscowosc="Uciechów" 
+      ns="51.55492207" we="17.57221818" km="111.8" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z prawej rzeczki Kuroch. Barycz z województwa wielkopolskiego wpływa na obszar dolnośląskiego.</opispunktu> 
+    </punkt>
+    <punkt id="4407" miejscowosc="Bartniki" 
+      ns="51.5501836" we="17.56658188" km="111.1" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na drodze gruntowej</opispunktu> 
+    </punkt>
+    <punkt id="4408" miejscowosc="Wróbliniec" 
+      ns="51.54612937" we="17.55880377" km="110.4" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Spory dopływ z lewej</opispunktu> 
+    </punkt>
+    <punkt id="4409" miejscowosc="Wróbliniec" 
+      ns="51.54337257" we="17.54907649" km="109.6" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="493" typ="rzeka" nazwa="Wróbliniec - Milicz" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Na tym odcinku Barycz wpływa na tereny częścio zalesione, przez co staje się atrakcyjniejsza, choć w dalszym ciągu jest mocno uregulowana. O bliskości rozległych stawów hodowlanych przypominają odgłosy rozmaitego ptactwa wodnego.</opis>
+    <punkt id="4410" miejscowosc="Wróbliniec" 
+      ns="51.54322358" we="17.54700538" km="109.5" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka 3 przęsłowa</opispunktu> 
+    </punkt>
+    <punkt id="4411" miejscowosc="Potasznia" 
+      ns="51.54634039" we="17.51004892" km="106.7" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce dogodne do biwakowania na dziko</opispunktu> 
+    </punkt>
+    <punkt id="4412" miejscowosc="Potasznia" 
+      ns="51.54682926" we="17.50104549" km="106.1" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka 3 przęsłowa, otwarta</opispunktu> 
+    </punkt>
+    <punkt id="4413" miejscowosc="Potasznia" 
+      ns="51.55032605" we="17.48236894" km="104.5" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ Czarnej Wody z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="4414" miejscowosc="Potasznia" 
+      ns="51.55316097" we="17.46862404" km="103.5" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce wodowania.</opispunktu> 
+    </punkt>
+    <punkt id="4415" miejscowosc="Gądkowice" 
+      ns="51.55824999" we="17.45471384" km="102.3" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący wodę na wysokość około 1m.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ew. przenoska lewym lub prawym brzegiem, około 20m po trawie.</opispunktu> 
+    </punkt>
+    <punkt id="4416" miejscowosc="Lelików" 
+      ns="51.55720921" we="17.42711721" km="100.3" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4417" miejscowosc="Lelików" 
+      ns="51.55588892" we="17.39365401" km="97.9" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz Bolko. Zabytkowa konstrukcja walcowa z 1893 roku. Podobno w Polsce są takie tylko 3 a w Europie jedynie 8. Jaz piętrzy wodę na około 2 m.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Pierwsza obowiązkowa przenoska na trasie spływu, prawym brzegiem na odległość około 50m.</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Poniżej jazu dopływa z lewej strony Polska Woda.</opispunktu> 
+    </punkt>
+    <punkt id="4418" miejscowosc="Nowe Grodzisko" 
+      ns="51.5527915" we="17.36044236" km="95.4" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="4419" miejscowosc="Sławoszowice" 
+      ns="51.54363297" we="17.31378579" km="91.6" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony dopływa rzeką Prądnia</opispunktu> 
+    </punkt>
+    <punkt id="4420" miejscowosc="Sławoszowice " 
+      ns="51.53689393" we="17.29945737" km="90.1" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz Sławoszowice piętrzący wodę na wysokość około 3m</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewym brzegiem na odległość około 40m</opispunktu> 
+    </punkt>
+    <punkt id="4421" miejscowosc="Milicz" 
+      ns="51.53585191" we="17.29033896" km="89.5" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Ładny 5 przęsłowy most kolejowy z cegły. Pod mostem małe bystrze</opispunktu> 
+    </punkt>
+    <punkt id="4422" miejscowosc="Milicz" 
+      ns="51.53442687" we="17.2732351" km="88.2" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4423" miejscowosc="Milicz" 
+      ns="51.53214967" we="17.26596881" km="87.6" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wygodne miejsce wodowania, na lewym brzegu</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="494" typ="rzeka" nazwa="Milicz - Ruda Żmigrodzka" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Zdecydowanie najbardziej malowniczy odcinek na całej trasie spływu Baryczą. Ze względu na planowaną tu niegdyś budowę zbiornika zaporowego zaniechano regulacji tego odcinka rzeki. Barycz wije się wśród lasów i pól a w korycie rzeki zdarzają się powalone drzewa. Mankamentem tego odcinka, bezpośrenio związanym z jego atrakcyjnością są liczne spływy masowe i związany z nimi tłok i hałas na wodzie.</opis>
+    <punkt id="4424" miejscowosc="Milicz" 
+      ns="51.52870964" we="17.24738745" km="86.2" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na ul. Sułowskiej</opispunktu> 
+    </punkt>
+    <punkt id="4425" miejscowosc="Koruszka" 
+      ns="51.50334108" we="17.21520637" km="81.3" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość biwakowania na dziko</opispunktu> 
+    </punkt>
+    <punkt id="4426" miejscowosc="Sułów" 
+      ns="51.49018123" we="17.18037866" km="78" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz elektrowni wodnej</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem na odległość około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4427" miejscowosc="Sułów" 
+      ns="51.49093099" we="17.16449321" km="76.5" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4428" miejscowosc="Łąki" 
+      ns="51.49295016" we="17.1464835" km="75.1" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany most drogowy z wodowskazem wskazującym poziom 140 (bardzo dobre warunki wodne)</opispunktu> 
+    </punkt>
+    <punkt id="4429" miejscowosc="Niezgoda" 
+      ns="51.48652154" we="17.09188924" km="71" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz Niezgoda - 4 przęsłowy, o wysokości około 2,5m, z datą wskazującą na 1944 jako rok budowy</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Niewygodna przenoska prawym brzegiem, przez wąski mostek nad kanałem, około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4430" miejscowosc="Ruda Żmigrodzka" 
+      ns="51.48138491" we="17.02278492" km="66" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="495" typ="rzeka" nazwa="Ruda Żmigrodzka - Sądowel" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Na tym odcinku Barycz z powrotem staje się uregulowanym kanałem melioracyjnym. Płynie w równym korycie osłoniętym dodatkowo z obu stron wałami.</opis>
+    <punkt id="4431" miejscowosc="Ruda Żmigrodzka" 
+      ns="51.48249134" we="17.01651767" km="65.5" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z prawej strony rzeki Ługa (Stara Barycz)</opispunktu> 
+    </punkt>
+    <punkt id="4432" miejscowosc="Osiek" 
+      ns="51.48223865" we="16.99032217" km="63.6" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka 2 przęsłowa</opispunktu> 
+    </punkt>
+    <punkt id="4433" miejscowosc="Żmigród" 
+      ns="51.48260621" we="16.91372389" km="58.2" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne wodowanie przed mostem po lewej stronie</opispunktu> 
+    </punkt>
+    <punkt id="4434" miejscowosc="Żmigród" 
+      ns="51.48243573" we="16.91177409" km="58" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze Wrocław - Poznań</opispunktu> 
+    </punkt>
+    <punkt id="4435" miejscowosc="Żmigród" 
+      ns="51.48213433" we="16.90967497" km="57.9" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka 1 przęsłowa, otwarta</opispunktu> 
+    </punkt>
+    <punkt id="4436" miejscowosc="Żmigród" 
+      ns="51.48138323" we="16.90284763" km="57.4" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4437" miejscowosc="Żmigród" 
+      ns="51.48282765" we="16.89078867" km="56.5" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Sąsiecznicy z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="4438" miejscowosc="Bychowo" 
+      ns="51.49491019" we="16.86667286" km="54.2" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka</opispunktu> 
+    </punkt>
+    <punkt id="4439" miejscowosc="Bychowo" 
+      ns="51.50100245" we="16.85104238" km="52.9" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Filary po starym moście</opispunktu> 
+    </punkt>
+    <punkt id="4440" miejscowosc="Kędzie" 
+      ns="51.51095053" we="16.82074031" km="50.4" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka pod mostem</opispunktu> 
+    </punkt>
+    <punkt id="4441" miejscowosc="Bartków" 
+      ns="51.50817427" we="16.80345934" km="49.1" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość dzikiego biwakowania w ładnym miejscu na skarpie</opispunktu> 
+    </punkt>
+    <punkt id="4442" miejscowosc="Bartków" 
+      ns="51.50693323" we="16.797798" km="48.7" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście cieku z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="4443" miejscowosc="Ługi" 
+      ns="51.50908908" we="16.77198742" km="46.8" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka 2 przęsłowa</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy zaraz za zastawką</opispunktu> 
+    </punkt>
+    <punkt id="4444" miejscowosc="Ostrawa" 
+      ns="51.5315909" we="16.72751741" km="42.7" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta 2 przęsłowa zastawka</opispunktu> 
+    </punkt>
+    <punkt id="4445" miejscowosc="Ostrawa" 
+      ns="51.53568829" we="16.71621961" km="41.7" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście czegoś z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="4446" miejscowosc="Wąsosz" 
+      ns="51.55443907" we="16.69517509" km="39" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka 2 przęsłowa</opispunktu> 
+    </punkt>
+    <punkt id="4447" miejscowosc="Wąsosz" 
+      ns="51.55820883" we="16.68881194" km="38.4" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4448" miejscowosc="Wąsosz" 
+      ns="51.5606551" we="16.68676195" km="38" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Przystań wraz z terenem rekreacyjnym w Wąsoszu. Dobry dostęp do wody, toalety, wypożyczalnia sprzętu</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">W bliskiej odległości sklep spożywczy</opispunktu> 
+    </punkt>
+    <punkt id="4449" miejscowosc="Wąsosz" 
+      ns="51.56184603" we="16.68512343" km="37.9" etykieta="" 
+      kolejnosc="62"> 
+    <opispunktu typ="most" kolejnosc="-1">Kratownicowy most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4450" miejscowosc="Wąsosz" 
+      ns="51.56842935" we="16.66588894" km="36.3" etykieta="" 
+      kolejnosc="63"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ rzeki Orla z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="4451" miejscowosc="Bełcz Mały" 
+      ns="51.57810022" we="16.64505917" km="34.4" etykieta="" 
+      kolejnosc="64"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Miejsce odpoczynku z dobrym dojściem do wody</opispunktu> 
+    </punkt>
+    <punkt id="4452" miejscowosc="Sądowel" 
+      ns="51.58493289" we="16.6236319" km="32.5" etykieta="" 
+      kolejnosc="65"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta 3 przęsłowa zastawka</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="496" typ="rzeka" nazwa="Sądowel - Szaszorowice" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="4"> 
+  <opis>Odcinek Baryczy, który uznać można jako atrakcyjny pod względem estetycznym. Rzeka wkracza na obszary zalesione, kręci, a na wyskoich brzegach widać domki letniskowe.</opis>
+    <punkt id="4453" miejscowosc="Sądowel" 
+      ns="51.59367" we="16.61053287" km="31" etykieta="" 
+      kolejnosc="66"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zabytkowy kościół tuż nad rzeką. Miejsce atrakcyjne, z dobrym dostępem do wody</opispunktu> 
+    </punkt>
+    <punkt id="4454" miejscowosc="Wierzowice Wielkie" 
+      ns="51.59714512" we="16.58032336" km="28.7" etykieta="" 
+      kolejnosc="67"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość dzikiego biwaku na polanie śródleśnej</opispunktu> 
+    </punkt>
+    <punkt id="4455" miejscowosc="Wierzowice Wielkie" 
+      ns="51.59990039" we="16.57692049" km="28.3" etykieta="" 
+      kolejnosc="68"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4456" miejscowosc="Wierzowice Wielkie" 
+      ns="51.60684892" we="16.56971173" km="27.3" etykieta="" 
+      kolejnosc="69"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka 3 przęsłowa</opispunktu> 
+    </punkt>
+    <punkt id="4457" miejscowosc="Ryczeń" 
+      ns="51.61400057" we="16.51244422" km="22.8" etykieta="" 
+      kolejnosc="70"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek 0,4m</opispunktu> 
+    </punkt>
+    <punkt id="4458" miejscowosc="Ryczeń" 
+      ns="51.61531625" we="16.50963063" km="22.6" etykieta="" 
+      kolejnosc="71"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4459" miejscowosc="Ryczeń" 
+      ns="51.61695649" we="16.49995269" km="21.8" etykieta="" 
+      kolejnosc="72"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka 3 przęsłowa</opispunktu> 
+    </punkt>
+    <punkt id="4460" miejscowosc="Osetno" 
+      ns="51.63154346" we="16.46221405" km="18.3" etykieta="" 
+      kolejnosc="73"> 
+    <opispunktu typ="most" kolejnosc="-1">Stary most drogowy z wodowskazem wskazującym w dniu płynięcia poziom 169 (bardzo dobre warunki wodne)</opispunktu> 
+    </punkt>
+    <punkt id="4461" miejscowosc="Osetno" 
+      ns="51.63176268" we="16.45997714" km="18.1" etykieta="" 
+      kolejnosc="74"> 
+    <opispunktu typ="most" kolejnosc="-1">Nowy most drogowy na ruchliwej szosie</opispunktu> 
+    </punkt>
+    <punkt id="4462" miejscowosc="Osetno" 
+      ns="51.63836269" we="16.43882932" km="16.4" etykieta="" 
+      kolejnosc="75"> 
+    <opispunktu typ="most" kolejnosc="-1">Piękny, stary, kratownicowy most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4463" miejscowosc="Miechów" 
+      ns="51.64549504" we="16.41251652" km="14.2" etykieta="" 
+      kolejnosc="76"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka 3 przęsłowa, za nią kamienny prożek</opispunktu> 
+    </punkt>
+    <punkt id="4464" miejscowosc="Szaszorowice" 
+      ns="51.64868034" we="16.38026329" km="11.6" etykieta="" 
+      kolejnosc="77"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="497" typ="rzeka" nazwa="Szaszorowice - ujście do Odry" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="KL2" 
+      kolejnosc="5"> 
+  <opis>Mało atrakcyjny, przyujściowy odcinek szerokiej rzeki.</opis>
+    <punkt id="4465" miejscowosc="Żabin" 
+      ns="51.66552278" we="16.35849896" km="8.8" etykieta="" 
+      kolejnosc="78"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">2 przęsłowa otwarta zastawka pod mostem, za nią niewielki prożek</opispunktu> 
+    </punkt>
+    <punkt id="4466" miejscowosc="Bartodzieje" 
+      ns="51.6812231" we="16.33689544" km="6.4" etykieta="" 
+      kolejnosc="79"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4467" miejscowosc="Bartodzieje" 
+      ns="51.68720045" we="16.3277309" km="5.5" etykieta="" 
+      kolejnosc="80"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka 3 przęsłowa</opispunktu> 
+    </punkt>
+    <punkt id="4468" miejscowosc="Wyszanów" 
+      ns="51.68603611" we="16.26446609" km="0.8" etykieta="" 
+      kolejnosc="81"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, za nim małe bystrze po starym moście</opispunktu> 
+    </punkt>
+    <punkt id="4469" miejscowosc="Wyszanów" 
+      ns="51.68615922" we="16.251986" km="0" etykieta="" 
+      kolejnosc="82"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Baryczy do Odry</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

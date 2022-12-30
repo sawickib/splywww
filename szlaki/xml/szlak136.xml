@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="136" nazwa="Biała Woda (dopływ Odry)" wersja="1">
+<opis>Niewielka rzeczka w województwie lubuskim, lewy dopływ Odry. Dostępna wyłącznie dla K1 i wyłącznie przy podwyższonych stanach wody w okresie wiosenno - jesiennym. Górny odcinek od okolic Nowego Miasteczka do Rejowa uregulowany, poniżej do Odry jest dziko i zwałkowo. Rzeczka jest niepozorna, a w rzeczywistości dość wymagająca. Chcąc spłynąć cały odcinek z Nowego Miasteczka do Odry, skacząc wszystkie progi, tarmosząc się na bystrych wypłyceniach i na wszystkich zwałkach, bezpiecznie jest zaplanować około 6-7 h. Na napływach na progi znajdują się wodowskazy. Podane w opisie poziomy wody odczytane z wodowskazów gwarantują bezpieczne warunki do skoków z progów (poniżej progów wystarczająco głęboko). Przy innych stanach sugeruję wcześniejsze sprawdzenie ilości wody pod progiem.</opis> 
+    <punkt id="4762" miejscowosc="Gołaszyn" 
+      ns="51.69834238" we="15.72636629" km="10.7" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Spory utwardzony teren w sąsiedztwie rzeki w pobliżu placu zabaw dla dzieci. Wygodne miejsce wodowania ze stromej skarpy</opispunktu> 
+    </punkt>
+    <punkt id="4763" miejscowosc="Gołaszyn" 
+      ns="51.70099093" we="15.72874462" km="10.3" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Duży most na ruchliwej drodze nr 3</opispunktu> 
+    </punkt>
+    <punkt id="4764" miejscowosc="Gołaszyn" 
+      ns="51.70273289" we="15.73538431" km="9.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Wąski mostek na lokalnej drodze, zaraz za nim bystrze</opispunktu> 
+    </punkt>
+    <punkt id="4765" miejscowosc="Gołaszyn" 
+      ns="51.70644625" we="15.74097434" km="8.9" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek drewniany, zaraz za nim bystrze </opispunktu> 
+    </punkt>
+    <punkt id="4766" miejscowosc="Gołaszyn" 
+      ns="51.70890948" we="15.74182716" km="8.5" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Małe bystrze</opispunktu> 
+    </punkt>
+    <punkt id="4767" miejscowosc="Gołaszyn" 
+      ns="51.71073646" we="15.74385469" km="8.3" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Kolejne bystrze</opispunktu> 
+    </punkt>
+    <punkt id="4768" miejscowosc="Rejów" 
+      ns="51.71464899" we="15.74554077" km="7.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Budowa mostu na drodze ekspresowej S3</opispunktu> 
+    </punkt>
+    <punkt id="4769" miejscowosc="Rejów" 
+      ns="51.71523376" we="15.74643848" km="7.7" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4770" miejscowosc="Rejów" 
+      ns="51.71626496" we="15.74881004" km="7.5" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="4771" miejscowosc="Rejów" 
+      ns="51.71733939" we="15.74971614" km="7.3" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Podwójna zamknięta zastawka z wodowskazem wskazującym poziom 028, za nią brzegi betonowe pochyłe</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawą stroną na odległość 20m</opispunktu> 
+    </punkt>
+    <punkt id="4772" miejscowosc="Rejów" 
+      ns="51.71806658" we="15.75024931" km="7.2" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek</opispunktu> 
+    </punkt>
+    <punkt id="4773" miejscowosc="Rejów" 
+      ns="51.71953658" we="15.75129681" km="7" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Podwójna zastawka z wodowskazem wskazującym poziom 114. Lewa strona opuszczona na tyle, że umożliwia skok - poniżej progu wystarczająco głęboko</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska lewą stroną na odległość 20m. Wodowanie z pochyłego betonowego brzegu</opispunktu> 
+    </punkt>
+    <punkt id="4774" miejscowosc="Rejów" 
+      ns="51.72320105" we="15.75238061" km="6.5" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Podwójna zastawka z wodowskazem wskazującym poziom 100. Prawa część opuszczona na tyle, że możliwy jest skok z wysokości około 2m. Poniżej progu wystarczająco głęboko</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska lewą stroną na odległość 20m. Wodowanie z pochyłego, betonowego brzegu</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej kilka drzew w korycie rzeki</opispunktu> 
+    </punkt>
+    <punkt id="4775" miejscowosc="Rejów" 
+      ns="51.72573629" we="15.75385026" km="6.2" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka</opispunktu> 
+    </punkt>
+    <punkt id="4776" miejscowosc="Rejów" 
+      ns="51.72607987" we="15.75257011" km="6.1" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Duży betonowy most</opispunktu> 
+    </punkt>
+    <punkt id="4777" miejscowosc="Rejów" 
+      ns="51.72622599" we="15.75198834" km="6" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="4778" miejscowosc="Rejów" 
+      ns="51.72958787" we="15.75199762" km="5.6" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Podwójna zastawka z wodowskazem wskazującym poziom 149. Obydwie przegrody otwarte na tyle, że umożliwiają skok około 1,5m. Za progiem głęboko</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska lewą stroną na odległość 20m. Wodowanie z pochyłego betonowego brzegu</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej zastawki kilka zwałek w korycie rzeki</opispunktu> 
+    </punkt>
+    <punkt id="4779" miejscowosc="Rejów" 
+      ns="51.73461357" we="15.7517692" km="4.7" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na szosie z Nowej Soli (Korzuchowa) do Bytomia Odrzańskiego, za nim pojedyncze zwałki</opispunktu> 
+    </punkt>
+    <punkt id="4780" miejscowosc="Kiełcz" 
+      ns="51.74615389" we="15.76325236" km="2.9" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy, za nim bystrze. Poniżej mostu zaczyna się odcinek typowo zwałkowy</opispunktu> 
+    </punkt>
+    <punkt id="4781" miejscowosc="Kiełcz" 
+      ns="51.74924342" we="15.76492068" km="2.4" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Duży betonowy most</opispunktu> 
+    </punkt>
+    <punkt id="4782" miejscowosc="Kiełcz" 
+      ns="51.7582382" we="15.77849677" km="0" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Białej Wody do Odry. Spływ wygodnie jest zakończyć w miejscowości Kiełcz, lub nieco dalej, przy moście w Nowej Soli, ewentualnie na przystani nowosolskiej, przy wejściu do portu</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

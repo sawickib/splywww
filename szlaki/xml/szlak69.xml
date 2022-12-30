@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="69" nazwa="Strzegomka" wersja="4">
+<opis>Strzegomka jest lewym dopływem Bystrzycy, uchodzącym do niej w Samotworze, przy zachodnich przedmieściach Wrocławia. Początek bierze w Górach Wałbrzyskich, a następnie przepływa przez zaporowy zbiornik retencyjny Jezioro Dobromierz, który reguluje ilość wody w górnym, okresowo spławnym, najwyższym odcinku rzeki. Głównym dopływem Strzegomki jest rzeka Pełcznica, która oprócz zbiornika w Dobromierzu, ma największy wpływ na ilość wody w Strzegomce.
+Stosunkowo dzika i na większości odcinków nieuregulowana rzeka. Urozmaicona, płynie zarówno przez lasy jak i pola oraz łąki, posiada miejsca płytkie ale i bardzo głębokie. Na szlaku spotkamy liczne bystrza w postaci żwirowych przemiałów, sporo powalonych drzew, ruiny budowli hydrotechnicznych, niskie progi i wysokie jazy. Strzegomka, jak na rzekę nizinną jest stosunkowo wartka, tworzy liczne zakola, podmywa brzegi. Ze względu na ilość wody w rzece polecam spływy wiosenne, niestety wtedy też z powodu prowadzenia wód roztopowych z gór, Strzegomka staje się mętna. Latem, gdy wody Strzegomki są przejrzyste, ze względu na jej niewielką ilość spłynięcie niektórych odcinków może okazać się dość uciążliwe lub niemożliwe.
+Odcinek rzeki z Dobromierza do Pastuchowa przepłynięty na początku marca 2012, podczas roztopów zajął około 5h. Stan wody na wodowskazie w Łażanach wynosił wtedy 136, natomiast na wodowskazie w Chwaliszowie (powyżej Dobromierza) - 161. W Dobromierzu poniżej zapory wodowskaz pokazywał poziom 94. Do ujścia Pełcznicy woda była krystalicznie czysta.
+Odcinek z Zastruży do Stróży w kwietniu 2009 zajął około 5h, tyle samo czasu tydzień później zajął odcinek ze Stróży do Bagdaszowic.</opis> 
+  <odcinek id="271" typ="rzeka" nazwa="Zastruże - Wawrzeńczyce" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="4"> 
+  <opis>Ładny odcinek rzeki płynącej głównie przez las. Kilka powalonych drzew nadaje jej "charakteru".</opis>
+    <punkt id="2516" miejscowosc="Wawrzeńczyce" 
+      ns="50.98785195" we="16.65513632" km="22.5" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Wawrzeńczycami a Mietkowem. Wygodne miejsce do wodowania kajaków. Poniżej odcinek przez łąki, pola i wioskę</opispunktu> 
+    </punkt>
+    <punkt id="2515" miejscowosc="Ujów" 
+      ns="50.99611861" we="16.62006614" km="26.5" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Małe spiętrzenie wykonane z wbitych w dno patyków i zapartych o nie zardzewiałych blach i płyt pilśniowych. Wszystko po to, by napędzać wykonane amatorsko koło wodne do przydomowej elektrowienki. Należy zatrzymać się odpowiednio wcześniej aby nie dać się wciągnąć pod koło wodne (dość wartki nurt). Stosunkowo niewygodna przenoska 10m lewym lub prawym brzegiem przez gęste krzaki</opispunktu> 
+    </punkt>
+    <punkt id="2514" miejscowosc="Bogdanów" 
+      ns="51.00348689" we="16.57614809" km="30.1" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze do Bukowa</opispunktu> 
+    </punkt>
+    <punkt id="2513" miejscowosc="Zastruże" 
+      ns="50.98191758" we="16.51615074" km="36.2" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy miejscowościami Zastruże i Kruków. Wygodne miejsce na rozpoczęcie spływu, z betonową, płaską wylewką pod mostem. Jeżeli stan wody umożliwia start bezpośrednio z płaskiej wylewki betonowej oznacza, że poziom wody jest wysoki i na rzece będzie się działo</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="270" typ="rzeka" nazwa="Żarów - Zastruże" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="*" czystosc="KL3" 
+      kolejnosc="3"> 
+  <opis>Odcinek częściowo uregulowany, miejscami płytki.</opis>
+    <punkt id="2512" miejscowosc="Kruków" 
+      ns="50.97185564" we="16.50232132" km="38.1" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z wygodnym dostępem do wody. Poniżej, malowniczy odcinek rzeki płynącej głównie przez las. Kilka powalonych drzew nadaje jej charakteru</opispunktu> 
+    </punkt>
+    <punkt id="2511" miejscowosc="Łażany" 
+      ns="50.95682858" we="16.49983273" km="40" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy ul. Strefowej, obok Specjalnej Strefy Ekonomicznej</opispunktu> 
+    </punkt>
+    <punkt id="2510" miejscowosc="Łażany" 
+      ns="50.95304447" we="16.49281907" km="40.8" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Łażanami a Żarowem, przy ul. Wrocławskiej. Przed mostem, po lewej stronie znajduje się wodowskaz, wskazania którego można obserwować w internecie. Najniższa część wodowskazu w terenie jest zniszczona i niemożliwa do odczytania, ale zdalnie urządzenie jest sprawne. Poziom 106 gwarantuje dość dobre warunki wodne na reprezentowanym odcinku</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="460" typ="rzeka" nazwa="Strzegom - Pastuchów" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Na odcinku Strzegom - Pastuchów zdecydowanie zmniejsza się ilość przeszkód w wodzie. Pojedyncze drzewa i progi dodają uroku. Odradzam spływanie progami w Skarżycach (kamienie i gałęzie pod progiem) oraz w Pastuchowie pod metalową kładką (wysoki, wyrzucający na mur oporowy, nie wygodna asekuracja)</opis>
+    <punkt id="3857" miejscowosc="Międzyrzecze" 
+      ns="50.95789935" we="16.3683606" km="51.6" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="3858" miejscowosc="Morawa" 
+      ns="50.96405118" we="16.39512922" km="49.4" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="3859" miejscowosc="Skarżyce" 
+      ns="50.95970329" we="16.40875666" km="48.2" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Dwustopniowy próg o wysokości około 2m. Pod progiem wielkie kanciaste głazy, a zaraz za progiem gęste krzaki tuż nad lustrem wody. Bezpieczniej jest obnieść to miejsce, niż próbować spływać</opispunktu> 
+    </punkt>
+    <punkt id="3860" miejscowosc="Skarżyce" 
+      ns="50.95881737" we="16.41456653" km="47.7" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Pełcznicy z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="3861" miejscowosc="Skarżyce" 
+      ns="50.95626864" we="16.42109071" km="47.1" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="3862" miejscowosc="Pastuchów" 
+      ns="50.9524335" we="16.43946422" km="45.6" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Stalowy mostek, zaraz za nim zniszczona stalowa kładka i jaz przy dawnej cukrowni, po której dzisiaj pozostał jedynie widoczny z daleka, komin. Jaz jest skomplikowany technicznie z kilku powodów. Jest dwustopniowy, składający się z pochylni, odcinka poziomego i pionowego prożka. Problem polega na tym, że na niższej koronie prożka pionowego znajdują się 2 rzędy stalowo kamiennych, naprzemian posadowionych szykan, które w przypadku niskiej wody zatrzymują, a w przypadku wysokiej mogą uszkodzić sprzęt gdy napłynie się na nie z impetem, nabranym na pochylni. Drugim problemem jest lokalizacja jazu na zakręcie, dzięki czemu siła odśrodkowa wyrzuca główny nurt na pionową obmurówkę jazu, co w połączeniu z nagłym kontaktem z szykanami mocno utrudnia sytuację. W przypadku podjęcia decyzji o nie spływaniu jazem pojawia się problem trzeci, polegający na bardzo długiej przenosce. Pionowe obmurowania jazu, uniemożliwiające wyjście na brzeg zaczynają się na długo przed, a kończą sporo za jazem. Istnieje możliwość wyjścia z wody na prawo, pod mostkiem, tuż przed samym progiem, jest to jednak niewygodne i w przypadku wysokiej wody może być niebezpieczne ze względu na bliskość korony pochylni jazu</opispunktu> 
+    </punkt>
+    <punkt id="3863" miejscowosc="Pastuchów" 
+      ns="50.95345432" we="16.44093035" km="45.4" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Na kontakcie z lustrem wody (brak prześwitu) w poprzek rzeki przechodzi stalowa rura sporej średnicy. Przenoska lewą i prawą stroną, kilka metrów</opispunktu> 
+    </punkt>
+    <punkt id="3864" miejscowosc="Pastuchów" 
+      ns="50.95343215" we="16.44506329" km="45" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Most na drodze do Przyłęgowa. Pod mostem prożek o wysokości około 0,8m, za łagodnie nachyloną, pochylnią. Prożek można spływać zarówno lewym, jak i prawym przęsłem. W pobliżu mostu w miarę wygodny dostęp do wody, chociaż skarpy nieco strome i wzmocnione kamieniami. Przy samym moście trawiaste zatoczki na kilka samochodów. Poniżej miejscami bardziej bystro, liczne żwirowe przemiały, pojedyncze zwałki i zatory. Odcinek dość malowniczy ze względu na kręte koryto, podmyte pionowe skarpy i dzikie, zadrzewione brzegi. Po świeżych zgryzach widać, że bobry w tej okolicy mają się dobrze. Konfiguracja przeszkód nie wymaga obnoszenia ani współpracy zespołowej. Jedna zwałka bardziej wymagająca ze względu na silny nurt powstały na przewężeniu koryta, napierający i wpychający pod sekwencję przewróconych drzew</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="459" typ="rzeka" nazwa="Stawiska - Strzegom" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Odcinek Stawiska - Strzegom jest w większości uregulowany. Prowadzi przez miasto wzdłuż pionowych murków oporowych po obydwu stronach rzeki.</opis>
+    <punkt id="3854" miejscowosc="Stawiska" 
+      ns="50.9416522" we="16.32525033" km="56" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na ruchliwej trasie z Wrocławia do Jeleniej Góry</opispunktu> 
+    </punkt>
+    <punkt id="3855" miejscowosc="Strzegom" 
+      ns="50.95478816" we="16.3508124" km="53.1" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy ul. Świdnickiej. Wygodne miejsce wodowania ale w pobliżu ruchliwej drogi i skrzyżowania</opispunktu> 
+    </punkt>
+    <punkt id="3856" miejscowosc="Międzyrzecze" 
+      ns="50.95507922" we="16.36346623" km="52.1" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="458" typ="rzeka" nazwa="Dobromierz - Granica" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Odcinek rzeki z Dobromierza do miejscowości Granica jest miejscami nieco zarośnięty i poprzegradzany licznymi progami i prożkami. Wszystkie progi są spływalne, natomiast gęsta roślinność i przewrócone drzewa w dość wartkim nurcie często zmuszają do gimnastyki.</opis>
+    <punkt id="3847" miejscowosc="Dobromierz" 
+      ns="50.91003411" we="16.24369565" km="64" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych w miejscu po starym moście, tuż poniżej zapory w Dobromierzu. Wygodne miejsce rozpoczynania spływu. W pobliżu dużo miejsca na samochody</opispunktu> 
+    </punkt>
+    <punkt id="3848" miejscowosc="Dobromierz" 
+      ns="50.91189275" we="16.25010555" km="63.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg o wysokości około 1m</opispunktu> 
+    </punkt>
+    <punkt id="3849" miejscowosc="Dobromierz" 
+      ns="50.91260477" we="16.25095669" km="63.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze nr 34 do Świebodzic</opispunktu> 
+    </punkt>
+    <punkt id="3850" miejscowosc="Mały Modlęcin" 
+      ns="50.92304077" we="16.29439783" km="59.7" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Dwustopniowy próg o wysokości około 1m</opispunktu> 
+    </punkt>
+    <punkt id="3851" miejscowosc="Mały Modlęcin" 
+      ns="50.92338332" we="16.29510389" km="59.6" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce dostępu do wody</opispunktu> 
+    </punkt>
+    <punkt id="3852" miejscowosc="Granica" 
+      ns="50.9270495" we="16.30463074" km="58.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg o wysokości około 1m</opispunktu> 
+    </punkt>
+    <punkt id="3853" miejscowosc="Granica" 
+      ns="50.92801317" we="16.30952036" km="58.4" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg o wysokości około 1m</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="272" typ="rzeka" nazwa="Wawrzeńczyce - Stróża" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="-" czystosc="KL3" 
+      kolejnosc="5"> 
+  <opis>Odcinek przez łąki, pola i przez wieś. Liczni "kibice" - kajaki na Strzegomce wzbudzają zainteresowanie miejscowej ludności gdyż jest to stosunkowo rzadki widok.</opis>
+    <punkt id="2520" miejscowosc="Stróża" 
+      ns="51.00997485" we="16.67721078" km="19" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy ul. Parkowej. Odcinek rzeki płynącej na zmianę przez lasy i łąki. Liczne zakola, przegłębienia, kilka żwirowych przemiałów, płycizn i drzew powalonych w korycie rzeki</opispunktu> 
+    </punkt>
+    <punkt id="2519" miejscowosc="Stróża" 
+      ns="51.00186974" we="16.67648368" km="20" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Dobre miejsce do wodowania na łące powyżej mostu, na lewym brzegu. Jest to prywatny teren więc w dobrym tonie będzie uzgodnienie wszelkich działań z gospodarzem mieszkającym w pobliskim domostwie</opispunktu> 
+    </punkt>
+    <punkt id="2518" miejscowosc="Wawrzeńczyce" 
+      ns="50.99328267" we="16.65963523" km="21.8" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze, pod nim rozmyty kamienny prożek - bystrze</opispunktu> 
+    </punkt>
+    <punkt id="2517" miejscowosc="Wawrzeńczyce" 
+      ns="50.98870763" we="16.65605436" km="22.4" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek o wysokości około 0,7 m, do spłynięcia, ewentualnie do obniesienia kilka metrów z lewej lub z prawej strony. Brzegi strome</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="273" typ="rzeka" nazwa="Stróża - Samotwór" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="6"> 
+  <opis>Odcinek rzeki płynącej na zmianę przez lasy i łąki. Liczne zakola, przegłębienia, kilka kamienistych przemiałów, płycizn i drzew powalonych w korycie rzeki.</opis>
+    <punkt id="2532" miejscowosc="Samotwór" 
+      ns="51.106886" we="16.829207" km="0" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Strzegomki do Bystrzycy</opispunktu> 
+    </punkt>
+    <punkt id="2531" miejscowosc="Samotwór" 
+      ns="51.10362766" we="16.82775462" km="0.5" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze do Gałowa. Wygodne miejsce dostępu do wody. Tuż obok, przy moście na rzece Bystrzycy znajduje się plac z miejscem na kilka samochodów</opispunktu> 
+    </punkt>
+    <punkt id="2530" miejscowosc="Bogdaszowice" 
+      ns="51.08956016" we="16.80398193" km="2.9" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Bogdaszowicami a Skałką</opispunktu> 
+    </punkt>
+    <punkt id="2529" miejscowosc="Bogdaszowice" 
+      ns="51.08657748" we="16.79245901" km="3.9" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze do Stoszyc. Tuż za nim znajduje się dogodne miejsce z dostępem do wody, wzmocnione betonowymi płytami, jest to jednak prywatna łąka i warto przebywanie na niej uzgodnić z gospodarzem terenu. W miejscu tym znajduje się wodowskaz, wskazania którego można zdalnie obserwować w internecie</opispunktu> 
+    </punkt>
+    <punkt id="2528" miejscowosc="Wszemiłowice" 
+      ns="51.04713868" we="16.75861356" km="10.1" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Wszemiłowicami a Pełcznicą</opispunktu> 
+    </punkt>
+    <punkt id="2527" miejscowosc="Pełcznica Jastrzębia" 
+      ns="51.04574281" we="16.75810506" km="10.3" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący rzekę na potrzeby pobliskiego młyna. Wysokość spiętrzenia wynosi około 1 metra i przy podniesionej jednej z zastawek istnieje możliwość przepłynięcia, po wcześniejszym rozpoznaniu przeszkody. Wcześniej, w lewo odbija płytki kanał w kierunku młyna. Przy większych ilościach wody bywa on możliwy do przepłynięcia, trzeba jednak liczyć się z krótką przenoską przy samym młynie. Jeśli zastawki są opuszczone przenosimy kajaki z lewej strony 40 m przez pokrzywy lub z prawej, przez gęstą faszynę i wodujemy wygodnie tuż za jazem</opispunktu> 
+    </punkt>
+    <punkt id="2526" miejscowosc="Pełcznica" 
+      ns="51.03999344" we="16.74904595" km="11.2" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 346 pomiędzy Kątami Wrocławskimi a Środą Śląską. Dogodne miejsce do wodowania, występuje tu jednak bardzo intensywny ruch samochodowy</opispunktu> 
+    </punkt>
+    <punkt id="2525" miejscowosc="Pełcznica" 
+      ns="51.03894816" we="16.73601777" km="12.3" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="most" kolejnosc="-1">Most pomiędzy Pełcznicą a Kozłowem</opispunktu> 
+    </punkt>
+    <punkt id="2524" miejscowosc="Kozłów" 
+      ns="51.04018509" we="16.72098848" km="13.5" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek w Kozłowie</opispunktu> 
+    </punkt>
+    <punkt id="2523" miejscowosc="Sokolniki" 
+      ns="51.03448819" we="16.70309584" km="15.1" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w Sokolnikach</opispunktu> 
+    </punkt>
+    <punkt id="2522" miejscowosc="Sokolniki" 
+      ns="51.02982276" we="16.68607992" km="16.5" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="most" kolejnosc="-1">Most pomiędzy Piotrowicami a Sokolnikami</opispunktu> 
+    </punkt>
+    <punkt id="2521" miejscowosc="Sokolniki" 
+      ns="51.02163117" we="16.68331061" km="17.5" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="most" kolejnosc="-1">Most autostrady A4. Tuż za mostem 30 metrowy odcinek bardziej bystrej rzeki z większymi kamieniami na dnie.
+Na prawym brzegu znajduje się niewidoczny z wody, park linowy. Niestety, właściciele parku nie przygotowali jeszcze dogodnego wyjścia na brzeg</opispunktu> 
+    </punkt>
+  </odcinek>
+    <punkt id="6444" miejscowosc="Pyszczyn" 
+      ns="50.9922541" we="16.52981447" km="34.6" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Mało wygodny dostęp ze względu na podmyte strome skarpy. W sąsiedztwie mostu zatoczka na 3-4 samochody. Widać tu też ruiny funkconującego niegdyś młyna Pitschen Muhle</opispunktu> 
+    </punkt>
+    <punkt id="6443" miejscowosc="Kruków" 
+      ns="50.97613388" we="16.50516766" km="37.4" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Fragmenty betonowej konstrukcji zastawki przekierowującej niegdyś wodę do młyna w Sasterhausen (dzisiejsze Zastróże)</opispunktu> 
+    </punkt>
+    <punkt id="6442" miejscowosc="Kruków" 
+      ns="50.96703607" we="16.50749432" km="38.8" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Z prawej strony ujście kanału z oczyszczalni ścieków Żarów, bez specjalnego wpływu na jakość organoleptyczną wody w rzece. Zaraz po prawej malownicza, wysoka, zalesiona skarpa</opispunktu> 
+    </punkt>
+    <punkt id="6441" miejscowosc="Łażany" 
+      ns="50.95409903" we="16.49606476" km="40.5" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most na ruchliwej drodze do Świdnicy</opispunktu> 
+    </punkt>
+    <punkt id="6440" miejscowosc="Łażany" 
+      ns="50.95060399" we="16.48440722" km="41.4" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na lokalnej drodze [ul. Polna]</opispunktu> 
+    </punkt>
+    <punkt id="6439" miejscowosc="Łażany" 
+      ns="50.95086295" we="16.47245582" km="42.5" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na zakręcie rzeki, rozmyty jaz, z kamiennym bystrzem na długości 30m. Próg ten przekierowywał niegdyś wodę do młyna w Laasan (dzisiejsze Łażany). Poniżej odcinek wyprostowany w postaci uregulowanego, stopniowo dziczejącego kanału. Stromy brzeg jest obwałowany, a skarpy zabezpieczone kołkami z faszyną</opispunktu> 
+    </punkt>
+    <punkt id="6438" miejscowosc="Międzyrzecze" 
+      ns="50.95464456" we="16.36297093" km="52.2" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most przy ul. 3 Maja</opispunktu> 
+    </punkt>
+    <punkt id="6437" miejscowosc="Strzegom" 
+      ns="50.95438036" we="16.35182395" km="53" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 5 - obwodnicy miasta. Poniżej, zdecydowanie zmniejsza się ilość przeszkód w wodzie. Pojedyncze drzewa i progi dodają uroku</opispunktu> 
+    </punkt>
+    <punkt id="6436" miejscowosc="Strzegom" 
+      ns="50.95693799" we="16.3488946" km="53.4" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="6435" miejscowosc="Strzegom" 
+      ns="50.95700762" we="16.34586196" km="53.7" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek, kładka</opispunktu> 
+    </punkt>
+    <punkt id="6434" miejscowosc="Strzegom" 
+      ns="50.95511593" we="16.34174065" km="54" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek, kładka</opispunktu> 
+    </punkt>
+    <punkt id="6433" miejscowosc="Strzegom" 
+      ns="50.95486321" we="16.34075864" km="54.1" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Dwustopniowy niski prożek. Po lewej stronie placyk parkingowy na kilka samochodów</opispunktu> 
+    </punkt>
+    <punkt id="6432" miejscowosc="Strzegom" 
+      ns="50.95243653" we="16.33464282" km="54.6" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most przy ul. Wałbrzyskiej</opispunktu> 
+    </punkt>
+    <punkt id="6431" miejscowosc="Strzegom" 
+      ns="50.95140866" we="16.33371094" km="54.8" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski poprzeczny prożek. Poniżej odcinek uregulowany przez miasto, brzegi obmurowane</opispunktu> 
+    </punkt>
+    <punkt id="6430" miejscowosc="Stawiska" 
+      ns="50.94030924" we="16.32697097" km="56.3" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Poniżej odcinek porośnięty krzakami i zwieszającymi się do lustra wody, łozami, utrudniającymi swobodny spływ</opispunktu> 
+    </punkt>
+    <punkt id="6429" miejscowosc="Granica" 
+      ns="50.92852381" we="16.31121882" km="58.2" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek i bród przez rzekę</opispunktu> 
+    </punkt>
+    <punkt id="6428" miejscowosc="Serwinów" 
+      ns="50.91462062" we="16.25994543" km="62.7" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w Serwinowie. Poniżej odcinek miejscami stosunkowo dziko płynącej rzeki z drzewami i krzakami zwieszającymi się do wody.
+Wszystkie napotkane progi są spływalne po wcześniejszym rozpoznaniu przeszkody, natomiast gęsta roślinność i przewrócone drzewa, na dość wartkim nurcie często zmuszają do gimnastyki</opispunktu> 
+    </punkt>
+    <punkt id="6445" miejscowosc="Ujów" 
+      ns="50.99806207" we="16.61508769" km="27" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na gruntowej drodze</opispunktu> 
+    </punkt>
+    <punkt id="6446" miejscowosc="Stróża" 
+      ns="51.0054157" we="16.6793936" km="19.6" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="6447" miejscowosc="Bogdaszowice" 
+      ns="51.08353462" we="16.78950184" km="4.3" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pochylnia niskiego jazu z wystającą po środku, stalową szyną. Brzegi wzdłuż pochylni obmurowane na wysokość około 3m</opispunktu> 
+    </punkt>
+    <punkt id="6448" miejscowosc="Bogdaszowice" 
+      ns="51.08369084" we="16.79080164" km="4.2" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po prawej stronie duża zadaszona wiata ze stolikami, ławkami i miejscem na ognisko. Możliwy dojazd samochodem. Wygodne miejsce rozpoczynania i kończenia etapu, chociaż wyjście z wody wąskie i po kamieniach</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

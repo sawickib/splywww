@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="186" nazwa="Wieprza" wersja="1">
+<opis>Źródeł Wieprzy doszukiwać się należy nieco powyżej jeziora Białego w gminie Lipnica, w powiecie bytowskim. Większość opisów lokalizuje je jednak u wypływu z jeziora Kołoleż, w miejscowości Głodowo [przy drodze nr 20 pomiędzy Miastkiem a Bytowem], odkąd rzeka posiada stały przepływ wody przez cały rok. Jako typowa rzeka przymorza, uchodzi bezpośrednio do Bałtyku, w Darłówku, po ponad 130 km biegu. Opisany krótki odcinek Wieprzy [od ujścia Pokrzywnej do mostu w Biesowiczkach] to fragment dzikiej i czystej rzeki. Płynie bardzo malowniczo zarówno pośród łąk, w szerokiej dolinie, jak i w obszarach zalesionych, gdzie przyspiesza, podmywa brzegi, a jej nurt czasami przegradzają powalone drzewa. Odcinek ten wykorzystywany jest przez organizatorów spływów komercyjnych, dzięki czemu większość zwałek przystosowanych jest do tej formy turystyki wodnej. W listopadzie 2019 na odcinku 16 km leżały jedynie 2 drzewa wymagające jakiejkolwiek gimnastyki, pozostałe przeszkody pokonuje się bez najmniejszych problemów.</opis> 
+    <punkt id="5870" miejscowosc="Wałdowo" 
+      ns="54.06728801" we="17.16277978" km="125.7" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony dopływa Struga Kramarzyńska</opispunktu> 
+    </punkt>
+    <punkt id="5871" miejscowosc="Męciny" 
+      ns="54.08346094" we="17.13246246" km="122.8" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Doszenicy z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="5872" miejscowosc="Bożanka" 
+      ns="54.15088192" we="17.02677757" km="106.6" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Bożanki do Wieprzy, z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="5873" miejscowosc="Osówka " 
+      ns="54.16869846" we="17.01523237" km="103" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Pokrzywny z prawej strony, pośród rozległych łąk i pojedynczych drzew. Pokrzywna wydaje się być szersza od Wieprzy i niosąca więcej wody. Od tego miejsca rzeka ma 10-12 m szerokości i jest nieco głębsza. Po opuszczeniu łąk wpływa do lasu, a na zakolach pojawiają się piaszczyste podmyte skarpy. Dno robi się twarde i kamieniste, przez co rzeka wypłyca się i poszerza, a nurt przyspiesza</opispunktu> 
+    </punkt>
+    <punkt id="5874" miejscowosc="Mnich" 
+      ns="54.15595977" we="16.97522722" km="99" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe MNICH po prawej stronie na wysokiej skarpie, oznakowane biało-czerwonym sierżantem przymocowanym do drzewa. Pośród drzew stoi wiata, którą widać z rzeki. Jest tu też miejsce na ognisko. Wygodne miejsce do kończenia i rozpoczynania etapów. Sporo miejsca na samochody oraz dobry dojazd od strony Broczyny i Bożanki</opispunktu> 
+    </punkt>
+    <punkt id="5875" miejscowosc="Mnich" 
+      ns="54.15468038" we="16.97625309" km="98.8" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy, przed nim pale drewniane, niżej kilka zwałek w tym 2 [listopad 2019] wymagające gimnastyki i współpracy zespołowej</opispunktu> 
+    </punkt>
+    <punkt id="5876" miejscowosc="Broczyna" 
+      ns="54.15448258" we="16.95185067" km="95.9" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej ujście Broczynki, tuż za nim 3 rzędy pali po starym moście</opispunktu> 
+    </punkt>
+    <punkt id="5877" miejscowosc="Biesowiczki" 
+      ns="54.17651223" we="16.90732977" km="88.2" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście Studnicy, pośród łąk i pojedynczych drzew, poprzedzone tablicą informacyjną. Przy samym ujściu małe tabliczki z nazwami rzek, wskazujące ten sam kierunek</opispunktu> 
+    </punkt>
+    <punkt id="5878" miejscowosc="Biesowiczki" 
+      ns="54.1820854" we="16.90074266" km="87" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Duży, betonowy, sklepiony most drogowy z dobrze zachowanymi herbami szlachty pruskiej, widocznymi od wewnętrznej strony. Przy moście tabiczka szlaku Wieprzy wskazująca jego 83 kilometr. Wygodny dojazd i dostęp do wody, chociaż skarpy dość wysokie i strome</opispunktu> 
+    </punkt>
+    <punkt id="5879" miejscowosc="Kępka" 
+      ns="54.20962508" we="16.89690731" km="83" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście rzeczki Modła</opispunktu> 
+    </punkt>
+    <punkt id="5880" miejscowosc="Barwinek" 
+      ns="54.31054977" we="16.86670275" km="66.5" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony wpada rzeka Bystrzenica</opispunktu> 
+    </punkt>
+    <punkt id="5881" miejscowosc="Iwanowo" 
+      ns="54.33554102" we="16.74500285" km="55.7" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście rzeczki Ściegnica</opispunktu> 
+    </punkt>
+    <punkt id="5882" miejscowosc="Pomiłowo" 
+      ns="54.33947626" we="16.72779609" km="54.4" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej stronie uchodzi rzeczka Reknica</opispunktu> 
+    </punkt>
+    <punkt id="5883" miejscowosc="Sławno" 
+      ns="54.36531551" we="16.68801029" km="49.7" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony wpada rzeka Moszczenica</opispunktu> 
+    </punkt>
+    <punkt id="5884" miejscowosc="Sławsko" 
+      ns="54.3988857" we="16.72658617" km="44" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej rzeczka Wrześniczka</opispunktu> 
+    </punkt>
+    <punkt id="5885" miejscowosc="Tokary" 
+      ns="54.41391659" we="16.7373434" km="41.9" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej rzeczka Tokara</opispunktu> 
+    </punkt>
+    <punkt id="5886" miejscowosc="Tyn" 
+      ns="54.448999" we="16.74526977" km="36.9" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej rzeka Moszczeniczka</opispunktu> 
+    </punkt>
+    <punkt id="5887" miejscowosc="Chudaczewko" 
+      ns="54.44714998" we="16.66944659" km="29.9" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej rzeczka Jasienica</opispunktu> 
+    </punkt>
+    <punkt id="5888" miejscowosc="Mazów" 
+      ns="54.4421118" we="16.63873655" km="25.4" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej rzeczka Leśna</opispunktu> 
+    </punkt>
+    <punkt id="5889" miejscowosc="Stary Kraków" 
+      ns="54.44022466" we="16.59121519" km="20.9" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej rzeczka Jarosławianka</opispunktu> 
+    </punkt>
+    <punkt id="5890" miejscowosc="Zakrzewo Dolne" 
+      ns="54.44188059" we="16.47636987" km="10.25" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej rzeczka Stobnica</opispunktu> 
+    </punkt>
+    <punkt id="5891" miejscowosc="Darłówko" 
+      ns="54.43356729" we="16.389641" km="1.1" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Grabowej do Wieprzy</opispunktu> 
+    </punkt>
+    <punkt id="5892" miejscowosc="Darłówko" 
+      ns="54.4403007" we="16.37752304" km="0" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Wieprzy do Bałtyku</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="128" nazwa="Jeziorka (dopływ Średzkiej Wody)" wersja="3">
+<opis>Rzeczka nizinna w pobliżu Wrocławia. Dla kajaków dostępna wiosną podczas podwyższonych stanów wody i nie rozwiniętej jeszcze roślinności wodnej, głównie trzcin. Jest stosunkowo dobrze dostępna w różnych miejscach swego biegu, przez co daje możliwość dowolnej konfiguracji pływanych odcinków. Jak sama nazwa wskazuje, Jeziorka przepływa przez kilkanaście jezior, a w zasadzie starorzeczy. Płynie równolegle do Odry, czasem zbliżając się do niej, a czasem oddalając. Jest bardzo urozmaicona, płynie przez łąki i pola, jak również przez lasy. Na niektórych odcinkach posiada charakter zwałkowy, miejscami jest wyprostowana i uregulowana, w innych miejscach bardziej dzika. Na wielu odcinkach jest wybagrowana, jednak na niemalże wszystkich wpływach i wypływach z jezior gęsto zarośnięta trzcinami. Posiada nieznaczny spadek, przez co nie ma progów, a miejsc do skoków jest niewiele. W środkowej części znajdziemy naturalne tamy bobrowe, a w dolnym odcinku sztuczny próg (zastawkę). Uchodzi do Średzkiej Wody, a wraz z jej wodami po kilku kilometrach do Odry w Malczycach, gdzie wygodnie jest zakończyć spływ. Tam, przy samej rzece znajduje się wystarczająco dużo miejsca na pozostawienie samochodów. Rzeka Jeziorka na znacznym odcinku jest przebudowana i ureguowana przez człowieka. Choć po latach zarosła i ślady regulacji mocno się zatarły, płynąc nią warto wiedzieć, że na przełomie XIX i XX wieku powstała ona z kilku różnych cieków, uchodzących oddzielnie do Odry na odcinku od wrocławskiego Janówka do Malczyc. Podczas budowy wałów przeciwpowodziowych wzdłuż lewego brzegu Odry, ujścia tych cieków zostały zlikwidowane, a ich połączone wody skierowane na zachód, równolegle do biegu Odry. Stan wody w Jeziorce można śledzić za pomocą czterech wodowskazów (Prężyce - 28,2 km, Głoska - 15,9 km, Brodno - 3,8 km i Czarna Struga - 2,8 km) niestety nie są one objęte odczytem automatycznym, przez co nie ma ich w internetowym serwisie pogodowym IMGW-PIB. Obserwacje wodowskazów możliwe są wyłącznie w terenie.
+Czasy potrzebne na przepłynięcie poszczególnych odcinków przez 2 K1 przy cytowanych wskazaniach wodowskazów: Brzezinka Średzka - Gąsiorów = 4,5h; Gąsiorów - Malczyce = 6h. Z uwagi na gęste trzcinowiska i szereg innych przeszkód Jeziorkę zaliczam do rzek traperskich i polecam wyłącznie koneserom gatunku</opis> 
+    <punkt id="4618" miejscowosc="Brodno" 
+      ns="51.22413892" we="16.59769445" km="3.4" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Poniżej mostu zaczyna się odcinek śródleśny z powalonymi drzewami w poprzek rzeki i małymi rozlewiskami</opispunktu> 
+    </punkt>
+    <punkt id="4617" miejscowosc="Brodno" 
+      ns="51.22694287" we="16.59499809" km="3.8" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wodowskaz nie funkcjonujący niestety w osłonowym systemie IMGW-PIB. W dniu płynięcia wodowskaz wskazywał poziom 076, co gwarantuje bardzo dobre warunki wodne na tym odcinku. Wartość 056 na tym wodowskazie gwarantuje niezbędne minimum wody w rzece, chociaż miejscami szuraliśmy o piaszczyste wypłycenia</opispunktu> 
+    </punkt>
+    <punkt id="4616" miejscowosc="Brodno" 
+      ns="51.22726969" we="16.59573934" km="3.9" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz, zastawka o wysokości 1 m. Można skakać, poniżej jest dość głęboko a odwój jest niewielki. Ewentualna przenoska po trawie, kilkanaście metrów lewą lub prawą stroną. Przenoska mało wygodna ze względu na strome i wysokie brzegi</opispunktu> 
+    </punkt>
+    <punkt id="4615" miejscowosc="Zakrzów" 
+      ns="51.23326869" we="16.60997495" km="5.3" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4614" miejscowosc="Zakrzów" 
+      ns="51.23639273" we="16.6150562" km="6" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4613" miejscowosc="Zakrzów" 
+      ns="51.23875537" we="16.62102382" km="6.6" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4612" miejscowosc="Zakrzów" 
+      ns="51.23956726" we="16.62695144" km="7.1" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Kolejne małe leśne jeziorka. Za chwilę rzeka wypływa na łąki i pola</opispunktu> 
+    </punkt>
+    <punkt id="4611" miejscowosc="Słup" 
+      ns="51.24264255" we="16.64041411" km="8.6" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska kładka na końcu jeziora. Pod kładką mały prożek utrzymujący poziom wody w jeziorze. Poniżej kładki odcinek śródleśny z drzewami leżącymi w korycie rzeki</opispunktu> 
+    </punkt>
+    <punkt id="4610" miejscowosc="Słup" 
+      ns="51.23931179" we="16.65735079" km="9.9" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany, rozpadający się mostek przed wpłynięciem na jeziorko nr 13, prawdopodobnie największe na trasie, najdłuższe i najszersze, a już na pewno najbardziej malownicze. Przed mostkiem koryto rzeki mocno zarasta trzcinami, praktycznie uniemożliwiając płynięcie. Ewentualna przenoska lewym brzegiem około 100 m po trawie, za mostek, wodowanie ze stromego brzegu bezpośrednio do jeziora</opispunktu> 
+    </punkt>
+    <punkt id="4609" miejscowosc="Kobylniki" 
+      ns="51.23764185" we="16.67975741" km="11.9" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek w lesie. Za nim bardziej dziko, z uwagi na niewielkie rozlewiska i kilka drzew leżących w wodzie</opispunktu> 
+    </punkt>
+    <punkt id="4608" miejscowosc="Lubiatów" 
+      ns="51.23485147" we="16.69904203" km="13.4" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na lokalnej drodze. Poniżej mostu ładny leśny odcinek z powalonymi drzewami w korycie</opispunktu> 
+    </punkt>
+    <punkt id="5173" miejscowosc="Lubiatów" 
+      ns="51.23901409" we="16.70250457" km="14" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Bobrowa tama</opispunktu> 
+    </punkt>
+    <punkt id="4607" miejscowosc="Głoska" 
+      ns="51.24257722" we="16.7073652" km="14.6" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Dwunaste jeziorko na trasie Jeziorki. Wpływ na jeziorko jest mocno zarośnięty, jednak odcinek trzcin jest przerzedzony i nie sprawia większych trudności w przepłynięciu</opispunktu> 
+    </punkt>
+    <punkt id="4606" miejscowosc="Głoska" 
+      ns="51.24484631" we="16.71257116" km="15" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Duży, wysoki most na nowej drodze z Miękini do Brzegu Dolnego, pod nim kolejne (11) jeziorko</opispunktu> 
+    </punkt>
+    <punkt id="4605" miejscowosc="Głoska" 
+      ns="51.24423518" we="16.72196839" km="15.9" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy. Pod mostem wodowskaz wskazujący poziom 53, gwarantujący w miarę dobre warunki wodne na reprezentowanym odcinku, chociaż w niektórych miejscach poniżej zdarzały się punktowe wypłycenia uniemożliwiające swobodne przepłynięcie</opispunktu> 
+    </punkt>
+    <punkt id="4604" miejscowosc="Głoska" 
+      ns="51.24381625" we="16.72382373" km="16" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Dziesiąte jeziorko na trasie Jeziorki, tym razem mniej obciążone wędkarsko</opispunktu> 
+    </punkt>
+    <punkt id="4603" miejscowosc="Głoska" 
+      ns="51.24195787" we="16.72414569" km="16.3" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska kładka obok prywatnego stawu</opispunktu> 
+    </punkt>
+    <punkt id="4602" miejscowosc="Głoska" 
+      ns="51.23946489" we="16.72547252" km="16.6" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w centrum miejscowości</opispunktu> 
+    </punkt>
+    <punkt id="4601" miejscowosc="Głoska" 
+      ns="51.23958442" we="16.73184538" km="17.1" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na kolejne (nr 9) jeziorko na trasie Jeziorki. Należy płynąć środkiem, wzdłuż osi jeziorka, poza zasięgiem pomstujących wędkarzy, okupujących zarówno jeden, jak i drugi brzeg</opispunktu> 
+    </punkt>
+    <punkt id="4600" miejscowosc="Gąsiorów" 
+      ns="51.24122992" we="16.73777678" km="17.7" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kratownicowy na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4599" miejscowosc="Gąsiorów" 
+      ns="51.24234892" we="16.73860439" km="17.8" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4598" miejscowosc="Gąsiorów" 
+      ns="51.24303985" we="16.74197379" km="18.1" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na polnej drodze w pobliżu głównej drogi asfaltowej. W sąsiedztwie mostu dużo miejsca na pozostawienie samochodów</opispunktu> 
+    </punkt>
+    <punkt id="4597" miejscowosc="Gąsiorów" 
+      ns="51.24733113" we="16.74834057" km="18.8" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Tama bobrowa o wysokości około 0,8 m, funkcjonująca, w dobrej kondycji. Poniżej odcinek uregulowany i wykoszony</opispunktu> 
+    </punkt>
+    <punkt id="4596" miejscowosc="Księginice" 
+      ns="51.24421627" we="16.75761638" km="19.8" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Sklepiony ceglany most kolejowy na trasie Wrocław - Zielona Góra. Poniżej mostu zaczyna się krótki fragment rzeki bardziej dzikiej. Z powodu zamieszkiwania tego odcinka przez bobry w poprzek rzeki leży kilka niedużych drzew</opispunktu> 
+    </punkt>
+    <punkt id="4595" miejscowosc="Księginice" 
+      ns="51.2502935" we="16.77196057" km="21.4" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze z Księginic do Warzyny. Wygodne miejsce wodowania, choć trawiaste brzegi są nieco strome. W bezpośrednim sąsiedztwie mostu odchodzi polna droga gdzie można pozostawić samochody, po uzgodnieniu tego w pobliskim domostwie. Odcinek poniżej mostu jest uregulowany i na krótkim odcinku wybagrowany, dalej wszystko wraca do normy</opispunktu> 
+    </punkt>
+    <punkt id="4619" miejscowosc="Brodno" 
+      ns="51.22117914" we="16.59190391" km="2.8" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z lewej rzeki Czarna Struga (kanału - Nowy Rów), dostarczającego znaczną ilość wody. Kilka metrów poniżej ujścia, po prawej stronie znajduje się wodowskaz nie objęty systemem osłonowym IMGW-PIB. W dniu płynięcia wodowskaz wskazywał poziom 070, co gwarantuje bardzo dobre warunki wodne na tym odcinku. Wartość 058 na wodowskazie gwarantuje niezbędne minimum wody do ujścia</opispunktu> 
+    </punkt>
+    <punkt id="5049" miejscowosc="Lenartowice" 
+      ns="51.24480613" we="16.78521453" km="22.6" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Początek odcinka leśnego, zaczynają się trzciny i zwałki</opispunktu> 
+    </punkt>
+    <punkt id="5048" miejscowosc="Lenartowice" 
+      ns="51.24959814" we="16.79187456" km="23.5" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany, rozsypujący się niski mostek, wymuszający krótką przenoskę</opispunktu> 
+    </punkt>
+    <punkt id="5047" miejscowosc="Lenartowice" 
+      ns="51.2524951" we="16.79492664" km="23.9" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy na pola, koniec odcinka leśnego, dalej rzeka wybagrowana</opispunktu> 
+    </punkt>
+    <punkt id="5046" miejscowosc="Lenartowice" 
+      ns="51.25162539" we="16.80164791" km="24.5" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Przesmyk na śródleśne jeziorko nr 8, płytkie i zamulone, po drodze kilka łatwych zwałek</opispunktu> 
+    </punkt>
+    <punkt id="5045" miejscowosc="Lenartowice" 
+      ns="51.24861043" we="16.80431534" km="25" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jeziorko nr 7, dalej odcinek skomplikowany orientacyjnie, należy szukać nurtu, który mimo rozszerzenia akwenu jest tu dość wyraźny</opispunktu> 
+    </punkt>
+    <punkt id="5044" miejscowosc="Lenartowice" 
+      ns="51.24803596" we="16.80416168" km="25.1" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Koniec jeziorka nr 6, drewniana kładka, dalej trzcinowiska</opispunktu> 
+    </punkt>
+    <punkt id="5043" miejscowosc="Prężyce" 
+      ns="51.24772016" we="16.81231853" km="25.8" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Wąski przesmyk pomiędzy jeziorkami nr 5 a 6, droga z dojazdem od strony Prężyc i Lenartowic. Wygodne miejsce wodowania, w pobliżu dużo miejsca na samochody. Niski przepust dwu rurowy wymuszający krótką przenoskę przez drogę</opispunktu> 
+    </punkt>
+    <punkt id="5042" miejscowosc="Prężyce" 
+      ns="51.24210673" we="16.82391679" km="27" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jeziorko nr 5, drugie co do wielkości na szlaku, kierować się na przeciwległy jego koniec</opispunktu> 
+    </punkt>
+    <punkt id="5041" miejscowosc="Prężyce" 
+      ns="51.24163893" we="16.82594779" km="27.2" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy niski most drogowy przy cmentarzu, za nim krótki odcinek trzcinowiska przed wpływem na kolejne jeziorko</opispunktu> 
+    </punkt>
+    <punkt id="5040" miejscowosc="Prężyce" 
+      ns="51.24064969" we="16.82720254" km="27.4" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Ceglany most łukowy na lokalnej drodze do Zalewu Prężyckiego na Odrze. Wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="5039" miejscowosc="Prężyce" 
+      ns="51.23928107" we="16.82979439" km="27.7" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Początek zarośniętego jeziorka nr 4, płynąć w prawo, wzdłuż prawego brzegu, chociaż w lewo też otwiera się możliwość przepłynięcia</opispunktu> 
+    </punkt>
+    <punkt id="5038" miejscowosc="Prężyce" 
+      ns="51.23706989" we="16.83597034" km="28.2" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Koniec jeziorka, bród a za nim niska betonowa kładka. Krótka i wygodna przenoska lewym brzegiem. W miejscu tym znajduje się wbita w dno łata geodezyjna wskazująca w dniu spływu poziom 270. Wydaje się być to minimalnym poziomem do w miarę wygodnego spływu od Brzezinki (mowa o ilości wody, nie o gęstości trzcinowisk). Poniżej krótki odcinek bez trzcin ale przed wpłynięciem na kolejne jeziorko wszystko wraca do normy</opispunktu> 
+    </punkt>
+    <punkt id="5037" miejscowosc="Prężyce" 
+      ns="51.23419169" we="16.83884951" km="28.6" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ w połowie większego akwenu jeziorka nr 3. Przez chwilę odpoczniemy od trzcin. Płynąć w prawo</opispunktu> 
+    </punkt>
+    <punkt id="5036" miejscowosc="Czystopole" 
+      ns="51.23018094" we="16.84251538" km="29.2" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Koniec jeziorka nr 2, płynąć w prawo, prostopadle w kierunku widocznej lini energetycznej, mimo że konfiguracja terenu i gęste trzcinowiska sugerują płynięcie prosto</opispunktu> 
+    </punkt>
+    <punkt id="5035" miejscowosc="Czystopole" 
+      ns="51.22913251" we="16.84544838" km="29.5" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Początek jeziorka nr 2, robi się głębiej i do samego ujścia nie ma już problemów z ilością wody pod kilem</opispunktu> 
+    </punkt>
+    <punkt id="5034" miejscowosc="Czystopole" 
+      ns="51.2268754" we="16.84657385" km="29.8" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Koniec odcinka bagrowanego. W lesie kilka zwałek a poniżej gęste trzcinowiska</opispunktu> 
+    </punkt>
+    <punkt id="5033" miejscowosc="Czystopole" 
+      ns="51.22050024" we="16.84422434" km="30.6" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze. Na środku przepływu rząd drewnianych filarów piętrzących śmieci i utrudniających swobodne przepłynięcie. Poniżej trochę drzew i wybagrowany odcinek przez pola</opispunktu> 
+    </punkt>
+    <punkt id="5032" miejscowosc="Brzezinka Średzka" 
+      ns="51.2181809" we="16.84179291" km="31" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy. Widoczny z szosy charakterystyczny podwójny prostokątny przepust</opispunktu> 
+    </punkt>
+    <punkt id="5031" miejscowosc="Brzezinka Średzka" 
+      ns="51.21763865" we="16.84076486" km="31.1" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze pomiędzy Brzezinką a Pisarzowicami. Wygodne miejsce wodowania chociaż przy samym moście mało miejsca na poboczu. Poniżej odcinek wybagrowany ale płytki i zamulony</opispunktu> 
+    </punkt>
+    <punkt id="5030" miejscowosc="Brzezinka Średzka" 
+      ns="51.21459035" we="16.83915236" km="31.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pierwsze, w miarę wygodne miejsce z możliwością rozpoczęcia spływu. Wyżej jest już tylko zarośnięte jeziorko (nr 1) i wąski przesmyk z małą ilością wody za to z gęstym trzcinowiskiem. Z drogi w kierunku Wrocławia Leśnicy, za ostatnimi domami wsi należy skręcić w lewo, gruntową drogą wzdłuż ogrodzenia domostw. Wodowanie ze stromej skarpy na wypływie rzeki z zarośniętego jeziorka</opispunktu> 
+    </punkt>
+    <punkt id="4620" miejscowosc="Brodno" 
+      ns="51.21762673" we="16.56470804" km="0.6" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na lokalnej drodze. Do końca odcinek w odkrytym terenie, koryto nieco zarośnięte trzcinami</opispunktu> 
+    </punkt>
+    <punkt id="4621" miejscowosc="Lipnica" 
+      ns="51.21841433" we="16.55705219" km="0" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Jeziorki do Średzkiej Wody</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

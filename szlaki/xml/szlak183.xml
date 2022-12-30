@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="183" nazwa="Zdbica" wersja="1">
+<opis>Lewy, niewielki dopływ Dobrzycy, stosunkowo wąski, miejscami płytki, o spokojnym nurcie, z kilkoma łatwymi zwałkami, miejscami zarośnięty trzcinami. Obszar źródliskowy znajduje się w okolicy Nadarzyc skąd płynie na S, równolegle pomiędzy Piławą a Dobrzycą, do tej drugiej uchodzi przed miejscowością Ostrowiec. Wzdłuż górnego odcinka Zdbicy ciągnie się fragment umocnień Wału Pomorskiego, jest to teren podmokły i trudno dostępny. Następnie uchodzi do jeziora Zdbiczno, poniżej którego swym dolnym, najczęściej spływanym odcinkiem zasila wody Dobrzycy. Jedna z nielicznych polskich rzek 7 rzędu, którą daje się okresowo spłynąć kajakiem, możliwe jest to jednak wyłącznie wiosną lub podczas długotrwałych i intensywnych opadów. Rzeka jest dzika i czysta, ponieważ poza jeziorem Zdbiczno nie ma żadnego kotaktu z cywilizacją. Odcinek z miejscowości Zdbice do ujścia do Dobrzycy kilku K1 w październiku 2019 zajął nieco ponad 3h niespiesznego spływu</opis> 
+    <punkt id="5807" miejscowosc="Zdbice" 
+      ns="53.36124349" we="16.509305" km="8.4" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Charakterystyczne miejsce w lesie, przez miejscowych znane, jako byłe obozowisko harcerzy nad jeziorem Zdbiczno. Dobry dojazd leśną drogą od strony drogi asfaltowej Szwecja - Zdbice. Spływ wygodnie jest rozpocząć ze starego pomostu wybudowanego w kształt prostokąta, odgrodzonego od toni jeziora stalowymi kratami, tak więc przepływ pod pomostem nie jest możliwy, co w praktyce nie wydaje się oczywiste</opispunktu> 
+    </punkt>
+    <punkt id="5808" miejscowosc="Zdbice" 
+      ns="53.35807865" we="16.49495328" km="7.3" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Zdbicy z jeziora Zdbiczno, niewidoczny z daleka, nieoznakowany, schowany za trzcinami obok wędkarskiego pomostu. Zaraz za wypływem znajduje się charakterystyczna drewniana kładka oraz niska ambona myśliwska pokryta siatką maskującą. Poniżej odcinek około 600 m porośnięty trzcinami. Im dalej od jeziora, tym trzciny bardziej gęste, zmuszające ostatecznie do przeciągania się, bez możliwości wiosłowania. Na szczęście nurt rzeki jest czytelny więc wiadomo w którym kierunku płynąć</opispunktu> 
+    </punkt>
+    <punkt id="5809" miejscowosc="Zdbice" 
+      ns="53.3528992" we="16.49287979" km="6.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka zbudowana z wykorzystaniem grubej kłody. Koniec odcinka zatrzcinionego, rzeka wpływa do lasu. Poniżej fragment rzeki przypominający sztuczny przekop o wzmocnionych stromych brzegach. W korycie kilka powalonych drzew łatwych do przeskoczenia</opispunktu> 
+    </punkt>
+    <punkt id="5810" miejscowosc="Zdbice" 
+      ns="53.35060871" we="16.49058438" km="6.3" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na leśnej drodze z przepustem dwururowym. Przy niższych stanach wody ew. możliwość niewygodnego przepłynięcia ciasnym prawym przepustem, w przeciwnym razie niewygodna krótka przenoska z wyjściem z wody na stromą, obsypującą się skarpę</opispunktu> 
+    </punkt>
+    <punkt id="5811" miejscowosc="Zdbice" 
+      ns="53.34541258" we="16.48439012" km="5.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Charakterystyczny zielony budynek przypominający ujęcie wody p.poż. na potrzeby lasów. Poniżej kilka zwałek</opispunktu> 
+    </punkt>
+    <punkt id="5812" miejscowosc="Zdbice" 
+      ns="53.34334284" we="16.48417537" km="5" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Bobrza tama, poniżej której rzeka przyspiesza, zaczyna więc brakować wody. Fragment znacząco płytszej wody z szuraniem po twardym kamiennym dnie</opispunktu> 
+    </punkt>
+    <punkt id="5813" miejscowosc="Rudnica " 
+      ns="53.34119848" we="16.47837384" km="4" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na drodze leśnej tzw. Czarna Droga. Pod mostem małe bystrze. Poniżej rzeka wytraca energię i robi się nieco głębsza. Dalej kilka malowniczych prostych odcinków w szpalerze drzew</opispunktu> 
+    </punkt>
+    <punkt id="5814" miejscowosc="Ostrowiec" 
+      ns="53.31280125" we="16.50171775" km="0" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Zdbicy do Dobrzycy, tuż przed mostkiem, tzw Złamany Most, na dojeździe pożarowym nr 16. Odcinek około 200m przed ujściem jest porośnięty trzcinami, miejscami dość gęsto. Przy ujściu Zdbica rozdziela się na dwa koryta. Spływ wygodnie jest zakończyć na Dobrzycy, w miejscowości Ostrowiec. Tuż za głównym mostem, po prawej stronie znajduje się wygodne wyjście z wody, a zatoczka autobusowa w pobliżu umożliwia wygodny załadunek kajaków</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

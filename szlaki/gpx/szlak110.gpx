@@ -1,0 +1,168 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.27986800" lon="25.25582300">
+<name>60.00</name>
+<desc>Kładka dla pieszych nad Solczą</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.28260900" lon="25.24782400">
+<name>59.00</name>
+<desc>Most drogi D126.
+Alternatywne miejsce wodowania (bez możliwości biwaku)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.28869300" lon="25.23786800">
+<name>58.00</name>
+<desc>Niska kładka 200m poniżej biwaku</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.28876800" lon="25.22961100">
+<name>57.00</name>
+<desc>Przygotowane miejsce biwakowe z wiatą na lewym brzegu w lesie</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.28921500" lon="25.22080700">
+<name>56.00</name>
+<desc>Przygotowane miejsce biwakowe z wiatą na lewym brzegu, na polance na skraju lasku.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.29182100" lon="25.21010600">
+<name>53.50</name>
+<desc>W Gierwiszkach (wsi gminnej) powinny być sklepy.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="54.29885600" lon="25.19384400">
+<name>51.00</name>
+<desc>Kładka niska na końcu zabudowań wsi widocznych na prawym brzegu</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.29556100" lon="25.16995800">
+<name>48.00</name>
+<desc>Miejsce biwakowe na lewym brzegu w lesie</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.30029400" lon="25.15719600">
+<name>46.00</name>
+<desc>Poniżej kładki jest możliwość biwaku na łąkach wsi Kalitańce na prawym brzegu</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.30101700" lon="25.13550000">
+<name>44.00</name>
+<desc>Na dystansie następnych kilku kilometrów poniżej mostu i dacz,  można znaleźć kilka miejsc biwakowych w lesie na obydwu brzegach.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.30446200" lon="25.09556700">
+<name>37.50</name>
+<desc>Poniżej kładki jest możliwość biwaku na lewym brzegu na łąkach wsi Popiszki</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Mostek drewniany, szeroki i niski - 200m poniżej bani i kładki w Popiszkach.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.30652900" lon="25.08149100">
+<name>36.50</name>
+<desc>Miejsce biwakowe na lewym brzegu na małej polanie obok ogrodzonego wodopoju. Zabudowania wsi Popiszki są za laskiem - 250m.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.31183600" lon="25.07583100">
+<name>35.50</name>
+<desc>Mostek drewniany, dość niski. Pojedyncze zabudowania są na prawym brzegu, w głębi lasu (ok. 250m).</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.31311200" lon="25.06638000">
+<name>34.50</name>
+<desc>Kładka niska 100m poniżej miejsca biwakowego. Na lewym brzegu są pojedyncze zabudowania wsi.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.31591000" lon="25.05863100">
+<name>33.00</name>
+<desc>Miejsce biwakowe ok. 1km poniżej biwaku przy daczy, na lewym brzegu w lesie.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.32002200" lon="25.03975400">
+<name>31.00</name>
+<desc>Leśne pole biwakowe (wiata, stoły) na lewym brzegu.
+Stąd rzeką jest ok. 1km do ujścia Wisińczy.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.32244700" lon="25.04139500">
+<name>30.00</name>
+<desc>Ujście Wisińczy z prawego brzegu.
+Wbrew informacjom internetowym brak tu jest miejsc biwakowych.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.32448900" lon="25.02133800">
+<name>28.00</name>
+<desc>Miejsce biwakowe na lewym brzegu w lesie</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.32688600" lon="25.02345900">
+<name>27.00</name>
+<desc>Kładka duża, niska. Na prawym brzegu widoczne jest pojedyncze zabudowanie.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.32657500" lon="25.01199400">
+<name>25.50</name>
+<desc>Pole biwakowe na lewym brzegu, poniżej dużej lipy, na dużej polanie z dębem.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.32417300" lon="24.99590000">
+<name>23.50</name>
+<desc>Duże miejsce biwakowe na lewym, wysokim brzegu, na wielkiej polanie z rzadko rosnącymi sosnami. Z powodu dobrego dojazdu z pobliskiej drogi jest używane na pikniki.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.33743300" lon="24.96406100">
+<name>16.00</name>
+<desc>Obozowisko z pomostami na prawym brzegu u podnóża skarpy. Warunki i ceny biwakowania nieznane.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.34023900" lon="24.95385300">
+<name>15.00</name>
+<desc>Duże obozowisko z budynkami zaplecza, na prawym brzegu kilkadziesiąt metrów poniżej mostu. Prawdopodobnie własność jakiejś litewskiej firmy kajakowej. Warunki i ceny biwakowania nieznane.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.33427300" lon="24.93693400">
+<name>12.00</name>
+<desc>Miejsce biwakowe na dużej polanie pomiędzy rzeką a pobliskim laskiem. Za laskiem są zabudowania wsi - 1.2km.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Poniżej biwaku w nurcie pojawiają się kępy sitowia - rosnące na żwirowych mieliznach, oraz "łąki" roślinności podwodnej.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.33951400" lon="24.84997400">
+<name>3.50</name>
+<desc>Na polanie biwakowej jest budka wodowskazu (wygląda jak WC)</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Na przeciwko biwaku Valkininkai-Užuperkasis, lewym brzegu jest wyznaczone pole namiotowe [Stovyklaviete]. Teren może należeć do lewobrzeżnej wsi Pašalčiai.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.34239800" lon="24.84478500">
+<name>2.00</name>
+<desc>Sklepy są w Olkienikach - najbliższy ok. 1.5km szosą z mostu.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Na łąkach prawego brzegu ujściowego fragmentu Solczy jest kilka miejsc nadających się na biwak, ale są one wykorzystywane na pikniki. W pobliżu jest lasek. Do Olkienik jest stąd ok. 2km.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.34539300" lon="24.83222400">
+<name>0.00</name>
+<desc>Ujście Solczy do Mereczanki [Lt Merkys].</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="126" nazwa="Jeziorna Struga (Pieski Potok)" wersja="1">
+<opis>Niewielka rzeka na Pojezierzu Lubuskim, w powiecie sulęcińskim i międzyrzeckim. Lewy dopływ Obry. Wypływa z jeziora Buszenko na N od Łagowa, do Obry uchodzi w jednej z zatok Zalewu Bledzewskiego. Dla kajaków, przez cały rok dostępna od miejscowości Kursko. Leniwy nurt rzeki od Kurska pozwala na komfortowe pływanie w obydwu kierunkach.</opis> 
+    <punkt id="4561" miejscowosc="Kursko" 
+      ns="52.45116059" we="15.45270334" km="7.2" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Ogólno dostępna plaża nad jeziorem Kursko. Wygodny dostęp do wody, choć dojazd samochodem nieco skomplikowany (nieoznakowany). Łąka porośnięta trawą - możliwość zabiwakowania na dziko</opispunktu> 
+    </punkt>
+    <punkt id="4562" miejscowosc="Zamostowo" 
+      ns="52.45836685" we="15.45299976" km="6.4" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Kursko</opispunktu> 
+    </punkt>
+    <punkt id="4563" miejscowosc="Zamostowo" 
+      ns="52.45907321" we="15.45341182" km="6.3" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4564" miejscowosc="Zamostowo" 
+      ns="52.46040648" we="15.45416533" km="6.1" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wpływ na jezioro Długie</opispunktu> 
+    </punkt>
+    <punkt id="4565" miejscowosc="Chycina" 
+      ns="52.47680187" we="15.45248079" km="4.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przegroda z larsenów w miejscu wypływu rzeki z jeziora Długiego</opispunktu> 
+    </punkt>
+    <punkt id="4566" miejscowosc="Chycina" 
+      ns="52.4814481" we="15.44729736" km="3.5" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4567" miejscowosc="Chycina" 
+      ns="52.48289228" we="15.44521195" km="3.3" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wpływ na jezioro Chycińskie (Chycina)</opispunktu> 
+    </punkt>
+    <punkt id="4568" miejscowosc="Chycina" 
+      ns="52.48806319" we="15.44419332" km="2.7" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Chycińskiego (Chycina)</opispunktu> 
+    </punkt>
+    <punkt id="4569" miejscowosc="Chycina" 
+      ns="52.50026071" we="15.45806967" km="0.8" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze - przepust rurowy</opispunktu> 
+    </punkt>
+    <punkt id="4570" miejscowosc="Bledzew" 
+      ns="52.50545983" we="15.46480901" km="0" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Jeziornej Strugi do Zalewu Bledzewskiego</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

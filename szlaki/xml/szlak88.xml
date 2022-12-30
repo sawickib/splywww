@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="88" nazwa="Pisa (dopływ Narwi)" wersja="2">
+<opis>Łatwa rzeka nizinna. Fragment szlaku żeglownego łączącego Mazury z Warszawą - największa trudność to (niewielki) ruch jachtów i motorówek. Pisa wypływa z jeziora Roś w Piszu i wpada do Narwii w okolicy Nowogrodu. Brak przeszkód, umiarkowany nurt, liczne meandry. Długość Pisy to 80 kilometrów, czyli 2-3 dni spokojnego płynięcia.
+
+Woda czysta, podobno I klasa czystości, ale nie ryzykowałbym picia. Kąpać można się spokojnie - może z wyjątkiem samego Pisza, gdzie woda nie wygląda aż tak zachęcająco, lecz może to tylko moje subiektywne wrażenie.
+
+(Opis szlaku na podstawie spływu w sierpniu 2010)</opis> 
+  <odcinek id="359" typ="rzeka" nazwa="Łąki, łąki, łąki" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Mniej ciekawie. Szeroka rzeka meandruje wśród łąk. Mało drzew. Ciekawe miejsca biwakowe często ogrodzone pastuchem elektrycznym. Pod koniec odcinka nieco sympatyczniej - piaszczyste ławice, troszkę szybszy nurt. Na ostatnich 3-4 kilometrach rzeka stopniowo zwęża się i przyspiesza przed ujściem do Narwii.</opis>
+    <punkt id="2978" miejscowosc="Nowogród" 
+      ns="53.22992" we="21.87208" km="80.5" etykieta="koniec" 
+      kolejnosc="19"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Pisy do Narwii. Na przeciwnym, lewym brzegu Narwi  miasto Nowogród.</opispunktu> 
+    </punkt>
+    <punkt id="2977" miejscowosc="Morgowniki" 
+      ns="53.23133" we="21.87309" km="79.8" etykieta="biwakL" 
+      kolejnosc="18"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Zagospodarowane przez pobliskie nadleśnictwo pole namiotowe z wiatą. Kiepskie wyjście z wody. Możliwość dojazdu samochodem (polna droga odchodzi w Morgownikach od drogi 648 na południe) i zakończenia spływu.</opispunktu> 
+    </punkt>
+    <punkt id="2976" miejscowosc="Morgowniki" 
+      ns="53.23443" we="21.86743" km="79.5" etykieta="mostC" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, na prawym brzegu wieś Morgowniki.</opispunktu> 
+    </punkt>
+    <punkt id="2975" miejscowosc="Dobry  Las" 
+      ns="53.28602" we="21.86403" km="70" etykieta="mostB" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="2974" miejscowosc="Cieciory" 
+      ns="53.34347" we="21.79084" km="56" etykieta="mostA" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w Cieciorach.</opispunktu> 
+    </punkt>
+    <punkt id="2973" miejscowosc="Ptaki" 
+      ns="53.39096" we="21.79151" km="43" etykieta="przystan" 
+      kolejnosc="14"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na prawym brzegu pomost cumowniczy, za nim duże, zagospodarowane pole biwakowe.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="358" typ="rzeka" nazwa="Końcówka lasu" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Za Jeżami nad brzegami coraz więcej łąk, ale ciągle jeszcze sporo nadbrzeżnych drzew. Ładnie.</opis>
+    <punkt id="2972" miejscowosc="Ptaki" 
+      ns="53.3931" we="21.792" km="42.8" etykieta="most9" 
+      kolejnosc="13"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep na lewym brzegu, w pobliżu mostu drogowego w Ptakach.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most we wsi Ptaki. Przed mostem mini-port przy sklepie. </opispunktu> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1">Wypożyczalnia kajaków.</opispunktu> 
+    </punkt>
+    <punkt id="2971" miejscowosc="Kozioł" 
+      ns="53.43049" we="21.83045" km="35.3" etykieta="most8" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most we wsi Kozioł. Za mostem boisko, za nim mini-plaża i dobre wyjście na brzeg. </opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep na prawym brzegu rzeki, w pobliżu mostu drogowego w miejscowości Kozioł.</opispunktu> 
+    </punkt>
+    <punkt id="2970" miejscowosc="Kozioł" 
+      ns="53.43345" we="21.83751" km="34.8" etykieta="ORSKozioł" 
+      kolejnosc="11"> 
+    <opispunktu typ="bar" kolejnosc="-1">Ośrodek Rekreacyjno-Szkoleniowy Kozioł. Jadalnia. Wypożyczalnia kajaków.</opispunktu> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2969" miejscowosc="Wincenta" 
+      ns="53.45887" we="21.86397" km="30.5" etykieta="most7" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w pobliżu wsi Wincenta</opispunktu> 
+    </punkt>
+    <punkt id="2968" miejscowosc="Wincenta" 
+      ns="53.45975" we="21.8671" km="30" etykieta="Wincenta" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście strumyczka Wincenta - granicy woj. Mazurskiego i Podlaskiego. Przed II W.Ś. granica pomiędzy Niemcami (Prusy Wschodnie) i II Rzeczypospolitą.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="357" typ="rzeka" nazwa="Puszcza Piska" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Za Piszem Pisa płynie przez coś, co kiedyś było Puszczą Piską. Rzeka spokojnie meandruje przez podmokły las. Przez około 15 kilometrów w pobliżu rzeki przebiega na lewym brzegu droga 63 (Łomża-Pisz) - dość często wyraźnie słychać samochody. Mimo to można nad rzeką spotkac bardzo dużo ptaków (czaple, żurawie, błotniaki). Mało miejsc biwakowych w początkowym fragmencie - ciekawszych można spodziewać się dopiero za mostem na 18 kilometrze rzeki. </opis>
+    <punkt id="2967" miejscowosc="Jeże" 
+      ns="53.48732" we="21.86792" km="26" etykieta="most6" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w pobliżu wsi Jeże (500 m na lewym brzegu)</opispunktu> 
+    </punkt>
+    <punkt id="2966" miejscowosc="" 
+      ns="53.53174" we="21.84766" km="18" etykieta="most5" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze, w środku lasu (5 km na prawym brzegu wieś Pogubie Tylne)</opispunktu> 
+    </punkt>
+    <punkt id="2965" miejscowosc="" 
+      ns="53.54516" we="21.84678" km="15" etykieta="biwak1" 
+      kolejnosc="7"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Mały biwak na lewym brzegu: wyższy brzeg porośnięty resztkami sosnowego boru. W pobliżu (300 m) parking leśny przy drodze Pisz-Łomża.</opispunktu> 
+    </punkt>
+    <punkt id="2964" miejscowosc="" 
+      ns="53.58911" we="21.82376" km="8.5" etykieta="ruina" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ruiny przepompowni - punkt orientacyjny - nie należy się go bać.</opispunktu> 
+    </punkt>
+    <punkt id="2963" miejscowosc="Pisz" 
+      ns="53.62429" we="21.80687" km="2.5" etykieta="most4" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy - obwodnica Pisza. Za mostem, na prawym brzegu fabryka sklejki.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="356" typ="rzeka" nazwa="Pisz" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="KL3" 
+      kolejnosc="0"> 
+  <opis>Rzeka płynie przez miasteczko - ale woda do wytrzymania.</opis>
+    <punkt id="2962" miejscowosc="Pisz" 
+      ns="53.62701" we="21.8091" km="2.05" etykieta="most3" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka piesza. W pobliżu, na prawym brzegu restauracje i bary. Możliwość zacumowania kajaka.</opispunktu> 
+    </punkt>
+    <punkt id="2961" miejscowosc="Pisz" 
+      ns="53.62897" we="21.81047" km="1.8" etykieta="most2" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w pobliżu rynku.</opispunktu> 
+    </punkt>
+    <punkt id="2960" miejscowosc="Pisz" 
+      ns="53.63126" we="21.81189" km="1.5" etykieta="most1" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy, przed mostem na lewym brzgu knajpa.</opispunktu> 
+    </punkt>
+    <punkt id="2959" miejscowosc="Pisz" 
+      ns="53.6394" we="21.81648" km="0" etykieta="start" 
+      kolejnosc="0"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ rzeki z jeziora Roś. Łatwy do znalezienia: oznakowanie szlaku żeglownego i liczne cumujące jachty i motorówki.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="154" nazwa="Bukówka (dopływ Noteci)" wersja="1">
+<opis>Prawy dopływ Noteci czasami zwany również Kamionką. Obszar źródliskowy znajduje się w okolicy miejscowości Trzcinno w woj. zachodniopomorskim, następnie wpływa na teren woj. wielkopolskiego niedaleko Trzcianki i płynąc w kierunku południowo-zachodnim uchodzi do Noteci poniżej śluzy nr 21 Drawsko, pomiędzy Wieleniem a Krzyżem. Przez większość część roku spływy rozpoczynać można w sąsiedztwie jeziora Straduńskiego, na jednym z jego końców (Straduń, Smolarnia). Wyższe odcinki rzeki spływalne są wyłącznie wczesną wiosną lub po intensywnych opadach. Rzeka bardzo zróżnicowana w zależności od płyniętego odcinka, od powolnej i szeroko rozlanej, po wartką i przegrodzoną powalonymi drzewami. W przeszłości dość intensywnie zagospodarowana i poprzedzielana stopniami wodnymi przy nieistniejących dzisiaj młynach, w zależności od poziomu wody należy więc brać pod uwagę co kilka kilometrów, mało uciążliwe przenoski. Na podwyższonej wiosennej wodzie odcinek od szosy Trzcianka - Wołowe Lasy do Górnicy zajmuje około 5 h, z Górnicy do Kuźniczki 2,5 h, a z Kuźniczki do Herburtowa około 3,5 h. Ze względu na podłoże po jakim płynie, woda w rzece jest barwy brunatnej. Odcinek poniżej Kuźniczki w terminologii wędkarskiej określany jest jako rzeka górska i cieszy się on sporym zainteresowniem spiningistów. Płynąc w okresie innym niż wrzesień-grudzień, praktycznie co kilkaset metrów spotyka się nad wodą wędkarza.</opis> 
+    <punkt id="5050" miejscowosc="Wołowe Lasy" 
+      ns="53.07645246" we="16.36315368" km="48.9" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most (niski sklepiony przepust) na drodze pomiędzy Trzcianką a miejscowością Wołowe Lasy, w pobliżu dwie leśne drogi, u zbiegu których można zostawić samochód. Wygodne miejsce rozpoczynania spływu, chociaż odcinek wąskiej rzeki może nastręczać trudności w przypadku niskiej wody. Poniżej liczne bobrowe tamy i tamki tworzące małe śródleśne rozlewiska. W korycie pojedyncze zwałki</opispunktu> 
+    </punkt>
+    <punkt id="5051" miejscowosc="Wołowe Lasy" 
+      ns="53.07522863" we="16.36494318" km="48.4" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski mostek betonowy na leśnej drodze wymuszający krótką przenoskę</opispunktu> 
+    </punkt>
+    <punkt id="5052" miejscowosc="Żabowo" 
+      ns="53.06450577" we="16.36370099" km="46" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po lewej zalążki cywilizacji (dom, być może leśniczówka)</opispunktu> 
+    </punkt>
+    <punkt id="5053" miejscowosc="Żabowo" 
+      ns="53.0635049" we="16.36615318" km="45.8" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Przepust rurowy - mostek na leśnej drodze wymuszający krótką przenoskę</opispunktu> 
+    </punkt>
+    <punkt id="5054" miejscowosc="Straduń" 
+      ns="53.06126721" we="16.3767127" km="44.9" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Kolejna krótka przenoska przy leśniczówce. Przepust rurowy pod mostkiem na leśnej drodze. Dalszy odcinek dzikiej rzeki zakończony niewielkim rozlewiskiem</opispunktu> 
+    </punkt>
+    <punkt id="5055" miejscowosc="Straduń" 
+      ns="53.05791471" we="16.39114164" km="43.6" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz przy leśniczówce Bukowiec. Przepust rurowy przy ruinach młyna, za nim kamienie i fragment bardziej bystrej wody. Przenoska lewym brzegiem przez drogę około 50 m. Niżej, po krótkim odcinku leśnym rzeka zwalnia i wpływa na pola i łąki</opispunktu> 
+    </punkt>
+    <punkt id="5056" miejscowosc="Straduń" 
+      ns="53.05548553" we="16.38877514" km="43.2" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski przepust rurowy wymuszający krótką przenoskę</opispunktu> 
+    </punkt>
+    <punkt id="5057" miejscowosc="Straduń" 
+      ns="53.05121806" we="16.38313487" km="42.5" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy na pola i łąki</opispunktu> 
+    </punkt>
+    <punkt id="5058" miejscowosc="Straduń" 
+      ns="53.05111779" we="16.38046048" km="42.4" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski mostek przy gospodarstwie, wymuszający krótką przenoskę</opispunktu> 
+    </punkt>
+    <punkt id="5059" miejscowosc="Straduń" 
+      ns="53.05117823" we="16.37843473" km="42.2" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w centrum miejscowości</opispunktu> 
+    </punkt>
+    <punkt id="5060" miejscowosc="Straduń" 
+      ns="53.04952085" we="16.3780064" km="41.9" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rzeka zbliża się do jeziora. Na wprost w poprzek nurtu leży grube drzewo a tuż za nim stalowa siatka przegradzająca rzekę w dwóch miejscach, bez możliwości swobodnego przepłynięcia. Z tego miejsca można zrobić przenoskę bezpośrednio na jezioro (wodowanie na jeziorze z pomostu pływającego), albo przepchnąć się wąskim i płytkim kanałkiem kilkanaście metrów przed zwalonym drzewem, w prawo, tuż za ogrodzeniem prywatnej posesji</opispunktu> 
+    </punkt>
+    <punkt id="5061" miejscowosc="Straduń" 
+      ns="53.04901335" we="16.37464821" km="41.8" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Plaża, wygodny dostęp do jeziora</opispunktu> 
+    </punkt>
+    <punkt id="5062" miejscowosc="Smolarnia" 
+      ns="53.02922421" we="16.36042391" km="39.4" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Przeciwległy kraniec jeziora wieńczy przepust dwu przęsłowy pod drogą. Przed przepustem nisko zawieszone dwie rury w poprzek nurtu a dalej wąskie kraty na wpływie pod most. Poniżej fragment stojącej wody Rychlickiego Stawu, za to bardzo malowniczy</opispunktu> 
+    </punkt>
+    <punkt id="5063" miejscowosc="Rychlik" 
+      ns="53.02034158" we="16.34570695" km="37.8" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka drewniana na ścieżce edukacyjnej Nad Bukówką przy Rychlickim Stawie</opispunktu> 
+    </punkt>
+    <punkt id="5064" miejscowosc="Rychlik" 
+      ns="53.02200946" we="16.33862425" km="37.2" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Przepust rurowy pod drogą gruntową obok zabudowań, poniżej krótka pochylnia, na końcu której po środku leżą ostrokrawędziste głazy, pozostałe po ruinach młyna. Przy wyższej wodzie, w przypadku podjęcia decyzji o spływaniu tego miejsca zalecam prawy przepust i trzymanie się blisko prawej wymurówki. Najbezpieczniej jednak obnieść prożek lewym brzegiem wzdłuż ścieżki edukacyjnej około 80 m. Niżej odcinek zwałkowy</opispunktu> 
+    </punkt>
+    <punkt id="5065" miejscowosc="Rychlik" 
+      ns="53.02139526" we="16.3297478" km="36.5" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Zapchany gałęziami przepust rurowy pod gruntową drogą, w sąsiedztwie domostw. Krótka przenoska przez drogę, dalej odcinek przez łąki i odkryty teren</opispunktu> 
+    </punkt>
+    <punkt id="5066" miejscowosc="Rychlik" 
+      ns="53.02050607" we="16.32689603" km="36.2" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski drewniany mostek pośród łąk, do którego ze wszystkich stron szczelnie przylegają pastuchy elektryczne. Niewygodna krótka przenoska z gimnastyką pomiędzy pastuchami albo pokonanie mostku pod spodem metodą na glusia. Niżej odcinek łąkowo-bagienny bez zwałek ale z dwoma niskimi kładkami</opispunktu> 
+    </punkt>
+    <punkt id="5067" miejscowosc="Rychlicki Młyn" 
+      ns="53.00801663" we="16.32631097" km="34.7" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze - wysoki przepust rurowy przy zabudowaniach. Wygodny dostęp do wody z możliwością dojazdu ale bez miejsca na samochody. Poniżej odcinek zwałkowy</opispunktu> 
+    </punkt>
+    <punkt id="5068" miejscowosc="Górnica" 
+      ns="52.9842924" we="16.31496449" km="30.4" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora ziemna piętrząca rzekę w zarośnięte rozlewisko. Za niskim rurowym przepustem bystro i kamieniście. Przenoska lewą stroną przez gruntową drogę i łąkę, najlepiej aż za niską kładkę zlokalizowaną poniżej pobliskich zabudowań (około 100 m)</opispunktu> 
+    </punkt>
+    <punkt id="5069" miejscowosc="Górnica" 
+      ns="52.98370466" we="16.31454471" km="30.3" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska kładka drewniana</opispunktu> 
+    </punkt>
+    <punkt id="5070" miejscowosc="Górnica" 
+      ns="52.97867914" we="16.3089482" km="29.5" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek</opispunktu> 
+    </punkt>
+    <punkt id="5071" miejscowosc="Biernatowo" 
+      ns="52.97494086" we="16.30420427" km="29" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoka kładka przy zabudowaniach</opispunktu> 
+    </punkt>
+    <punkt id="5072" miejscowosc="Biernatowo" 
+      ns="52.97351077" we="16.29266785" km="28.1" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowe przyczółki jazu lub mostu zwężające koryto i tworzące niewielki prożek. Przy niższych stanach wody można tu zawiesić się na zatopionych betonowych resztkach budowli</opispunktu> 
+    </punkt>
+    <punkt id="5073" miejscowosc="Biernatowo" 
+      ns="52.97048344" we="16.28965256" km="27.7" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 180 pomiędzy Trzcianką a Wieleniem</opispunktu> 
+    </punkt>
+    <punkt id="5074" miejscowosc="Biernatowo" 
+      ns="52.96675422" we="16.28755798" km="27.2" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek 0,5 m przy betonowych przyczółkach</opispunktu> 
+    </punkt>
+    <punkt id="5075" miejscowosc="Biernatowo" 
+      ns="52.95942137" we="16.28643784" km="26.2" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Most a pod nim przepust dwu rurowy piętrzący wodę tworząc prożek. W przepuście stosunkowo bystra woda</opispunktu> 
+    </punkt>
+    <punkt id="5076" miejscowosc="Biernatowo" 
+      ns="52.95834566" we="16.26609548" km="24.8" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście NN cieku z lewej strony poprawiające warunki wodne w rzece, zaraz za nim wysoka niebieska kładka w pobliżu zabudowań</opispunktu> 
+    </punkt>
+    <punkt id="5077" miejscowosc="Kuźniczka" 
+      ns="52.95712826" we="16.25861434" km="24.2" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski betonowy mostek </opispunktu> 
+    </punkt>
+    <punkt id="5078" miejscowosc="Kuźniczka" 
+      ns="52.95491242" we="16.25228412" km="23.7" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z prawej rzeki Dzierzążna</opispunktu> 
+    </punkt>
+    <punkt id="5079" miejscowosc="Kuźniczka" 
+      ns="52.95026447" we="16.2329055" km="22.1" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Niebieska rama po zastawce, zaraz za nią mostek stalowo-drewniany</opispunktu> 
+    </punkt>
+    <punkt id="5080" miejscowosc="Kuźniczka" 
+      ns="52.95072877" we="16.22962674" km="21.8" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Charakterystyczny łuk rzeki w centrum wsi, przy ceglanym budynku Centrum Integracji  Środowisk Artystycznych. Wygodne miejsce wodowania a w pobliżu dużo miejsca na samochody</opispunktu> 
+    </punkt>
+    <punkt id="5081" miejscowosc="Kuźniczka" 
+      ns="52.94968207" we="16.22938217" km="21.7" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na lokalnej drodze, dalej odcinek zwałkowy na nieco szybszej wodzie</opispunktu> 
+    </punkt>
+    <punkt id="5082" miejscowosc="Brzezinki" 
+      ns="52.94664859" we="16.20993754" km="19.5" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze nr 177 pomiędzy Wieleniem a Człopą</opispunktu> 
+    </punkt>
+    <punkt id="5083" miejscowosc="Brzezinki" 
+      ns="52.94747485" we="16.20458176" km="18.8" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Płot pstrągarni w poprzek rzeki.  Przenoska prawym brzegiem na odległość około 100 m przez las i wysoką skarpę</opispunktu> 
+    </punkt>
+    <punkt id="5084" miejscowosc="Zwierzyniec" 
+      ns="52.94295433" we="16.18863792" km="16" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska kładka przy leśniczówce, zaraz za nią upierdliwe drzewo w sporym nurcie</opispunktu> 
+    </punkt>
+    <punkt id="5085" miejscowosc="Międzylesie" 
+      ns="52.93730847" we="16.17536196" km="14" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rzeka wypływa z lasu na łąkę użytku ekologicznego Bagienna Dolina Bukówki</opispunktu> 
+    </punkt>
+    <punkt id="5086" miejscowosc="Międzylesie" 
+      ns="52.9310301" we="16.16212586" km="12.9" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zniszczony jaz dwu stopniowy o wys. 1 m, z dwoma leżącymi skośnie w wodzie płytami betonowymi. Spływać ostrożnie środkiem celując pomiędzy skośne płyty</opispunktu> 
+    </punkt>
+    <punkt id="5087" miejscowosc="Międzylesie" 
+      ns="52.92935601" we="16.15820672" km="12.5" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na końcu użytku ekologicznego</opispunktu> 
+    </punkt>
+    <punkt id="5088" miejscowosc="Mniszek" 
+      ns="52.92880687" we="16.15295969" km="12" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Betonowe przyczółki po zastawce</opispunktu> 
+    </punkt>
+    <punkt id="5089" miejscowosc="Mniszek" 
+      ns="52.92135157" we="16.14394205" km="10.9" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze z Wielenia do Przesieki. Wygodne miejsce dostępu do wody, w pobliżu mostu jednak wąsko i mało przestrzeni na samochody</opispunktu> 
+    </punkt>
+    <punkt id="5090" miejscowosc="Mniszek" 
+      ns="52.91949885" we="16.13524665" km="10.2" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Dwu stopniowy jaz pod betonowym mostkiem o wysokości około 2 m. Dwa betonowe przęsła poprzedzone stalową ramą, następnie pochylnia, u podnóża której tworzy się niewielki odwój. Zagadką tego miejsca są wbite w dno drewniane pale, w które czasem lubi zaplątać się jakiś spływający konar. Wyjście z wody przed mostkiem na lewy brzeg, przenoska przez mostek po trawie na prawy brzeg około 80 m</opispunktu> 
+    </punkt>
+    <punkt id="5091" miejscowosc="Herburtowo" 
+      ns="52.90354171" we="16.10895557" km="6.7" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek z rzędu drewnianych pali</opispunktu> 
+    </punkt>
+    <punkt id="5092" miejscowosc="Herburtowo" 
+      ns="52.90274457" we="16.10723703" km="6.5" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy</opispunktu> 
+    </punkt>
+    <punkt id="5093" miejscowosc="Herburtowo" 
+      ns="52.90226212" we="16.10648489" km="6.4" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="most" kolejnosc="-1">Sklepiony przepust pod mostem</opispunktu> 
+    </punkt>
+    <punkt id="5094" miejscowosc="Herburtowo" 
+      ns="52.9003676" we="16.10402075" km="6" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Betonowa kładka po zastawce</opispunktu> 
+    </punkt>
+    <punkt id="5095" miejscowosc="Herburtowo" 
+      ns="52.8998789" we="16.10569572" km="5.9" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski betonowy mostek z wystającymi pionowo w dół drutami ze zbrojenia</opispunktu> 
+    </punkt>
+    <punkt id="5096" miejscowosc="Herburtowo" 
+      ns="52.89975316" we="16.10578513" km="5.85" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="most" kolejnosc="-1">Sklepiony most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="5097" miejscowosc="Herburtowo" 
+      ns="52.89954587" we="16.10592744" km="5.8" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na lokalnej drodze, wygodne miejsce zakończenia spływu, w pobliżu sporo miejsca na samochody</opispunktu> 
+    </punkt>
+    <punkt id="5098" miejscowosc="" 
+      ns="52.86217631" we="16.06044092" km="0" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Bukówki do Noteci</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

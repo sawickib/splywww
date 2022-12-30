@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="110" nazwa="Solcza [Šalčia] (Litwa)" wersja="2">
+<opis>Solcza (Lt Šalčia - znaczy zimna).
+Tu podkreślam: obecna litewska nazwa rzeki to Šalčia, a dawna polska nazwa to Solcza. Spotykane nagminnie w internecie takie nazwy jak: Solocza, Sołocza, Salcia, Szalczia itp., są całkowicie nieuprawnione i są dowodem na lenistwo umysłowe autorów tych nazw.
+Solcza to lewobrzeżny doływ Mereczanki (Lt Merkys). Ma 9 dopływów, z których tylko Wisińcza ma znaczenie jako szlak kajakowy (zwałkowy-trudny). Solcza ma źródła na Litwie na wschód od miasta Soleczniki (Lt Šalčininkai), następnie płynie kawałek przez Białoruś (gdzie nad nią leżą Bieniakonie - tu Mickiewicz spotykał się z ukochaną Marylą) i wpływa z powrotem na Litwę w rejonie wsi Koniuchy (Lt Kaniukai). 
+Spławny odcinek (z Koniuch) liczy ponad 60 km. Na Litwie Solcza płynie przez rejon Solecznicki zamieszkały głównie przez ludność pochodzenia polskiego i białoruskiego. Do Mereczanki uchodzi  koło miasteczka Olkieniki (Lt. Valkininkai).
+Wody Solczy są czyste i rzeczywiście zimne. Mało jest jednak w niej życia biologicznego - podobno co jakiś czas 'ktoś' bezkarnie wybija prądem całą faunę wodną (nawet nartników - owadów wodnych - nie widzieliśmy). Powoduje to oczywiście również zanik ptactwa wodnego i zwierzyny nadwodnej.
+Wybierając się na spływ na Litwę wypada przyswoić sobie przynajmniej kilka grzecznościowych zwrotów po litewsku i zachowywać się jak przystało w obcym kraju. Odłożyć na bok megalomańskie zapędy i nie uważać dzisiejszej Litwy za Kresy Rzeczypospolitej.
+Parę zwrotów: Laba diena = Dzień dobry, Ačiu = Dziękuję, Viso gero = Do widzenia;
+Kilka słowek praktycznych: parduotuve = sklep, stovyklaviete = obozowisko, Privati valda = własność prywatna, Atsargiai! Piktas šuo = Uwaga! Zły pies.
+Mapy: Sowieckie topograficzne 50-tki i setki w zasadzie wystarczają, ale polecam litewskie mapy topo w skali 1:50 tys., do nabycia w polskiej internetowej księgarni turystycznej.</opis> 
+  <odcinek id="456" typ="rzeka" nazwa="Solcza od Zygmunciszek do ujścia" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Odcinek liczy ok. 15 km. Poniżej mostu w Zygmunciszkach rzeka jest szersza, ale zaczyna się przełomowy fragment rzeki. Solcza zbliża się do głębiej wciętej doliny Mereczanki i przyśpiesza płynąc wąskim wąwozem o zalesionych brzegach. W nurcie zdarzają się zwalone drzewa na ogół do przepłynięcia. Pojawiają się też głazy narzutowe i żwirowe mielizny. Przy niższej wodzie może być nieco trudniej. Na tym odcinku brak jest zabudowań i kładek. Miejsc biwakowych jest dużo, jest też kilka zorganizowanych pól namiotowych. Odcinek płynęliśmy jeden, niecały dzień. Większe sklepy znajdziemy dopiero na końcu odcinka - w Olkienikach.</opis>
+    <punkt id="3829" miejscowosc="Valkininkai [Olkieniki]" 
+      ns="54.345393" we="24.832224" km="0" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Solczy do Mereczanki [Lt Merkys].</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Nad Mereczanką poniżej i powyżej ujścia Solczy jest kilka miejsc biwakowo - piknikowych o różnym statusie.</opispunktu> 
+    </punkt>
+    <punkt id="3828" miejscowosc="Valkininkai [Olkieniki]" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na łąkach prawego brzegu ujściowego fragmentu Solczy jest kilka miejsc nadających się na biwak, ale są one wykorzystywane na pikniki. W pobliżu jest lasek. Do Olkienik jest stąd ok. 2km.</opispunktu> 
+    </punkt>
+    <punkt id="3827" miejscowosc="Valkininkai - Užuperkasis [Olkieniki]" 
+      ns="54.342398" we="24.844785" km="2" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklepy są w Olkienikach - najbliższy ok. 1.5km szosą z mostu.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, betonowy.
+Przed mostem jest zrujnowana kładka wisząca.</opispunktu> 
+    </punkt>
+    <punkt id="3826" miejscowosc="Pašalčiai [Posolcze]" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na przeciwko biwaku Valkininkai-Užuperkasis, lewym brzegu jest wyznaczone pole namiotowe [Stovyklaviete]. Teren może należeć do lewobrzeżnej wsi Pašalčiai.</opispunktu> 
+    </punkt>
+    <punkt id="3825" miejscowosc="Valkininkai - Užuperkasis [Olkieniki]" 
+      ns="54.339514" we="24.849974" km="3.5" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na polanie biwakowej jest budka wodowskazu (wygląda jak WC)</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe na prawym brzegu na dużej, długiej polanie.</opispunktu> 
+    </punkt>
+    <punkt id="3824" miejscowosc="" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej biwaku w nurcie pojawiają się kępy sitowia - rosnące na żwirowych mieliznach, oraz "łąki" roślinności podwodnej.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe ok. 1 km poniżej biwaku Kiaulekai, na lewym brzegu w lesie.</opispunktu> 
+    </punkt>
+    <punkt id="3823" miejscowosc="Kiaulekai" 
+      ns="54.334273" we="24.936934" km="12" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe na dużej polanie pomiędzy rzeką a pobliskim laskiem. Za laskiem są zabudowania wsi - 1.2km.</opispunktu> 
+    </punkt>
+    <punkt id="3822" miejscowosc="Žygmantiškes [Zygmunciszki]" 
+      ns="54.340239" we="24.953853" km="15" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Duże obozowisko z budynkami zaplecza, na prawym brzegu kilkadziesiąt metrów poniżej mostu. Prawdopodobnie własność jakiejś litewskiej firmy kajakowej. Warunki i ceny biwakowania nieznane.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi nr 105, betonowy.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Niewielkie miejsce na biwak tuż przed mostem na lewym brzegu</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej mostu Solcza przyśpiesza, pojawiają się drzewiaste przeszkody w nurcie.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="455" typ="rzeka" nazwa="Solcza od Koniuch do Zygmunciszek" 
+      uciazliwosc="U4" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Odcinek liczy 44 km. Solcza w górnym biegu jest niewielką rzeką o głębości do 1.5m i szerokości 3-5m. Płynie powoli szeroką zabagnioną doliną zarośniętą trzcinami, wyższe brzegi są porośnięte lasem szpilkowym. Rzeka bardzo silnie meandruje (zdarzają się skróty meandrowe) i często podcina piaszczyste skarpy. Krętość rzeki niekiedy powoduje trudności manewrowe. Zabudowań jest niewiele, nieliczne są widoczne z rzeki, ale w ich pobliżu występuje główna trudność szlaku: liczne niskie kładki. Płynęliśmy kajakimi turystycznymi z całym sprzętem i żywnością, przy wysokiej wodzie. Wszystkie kładki i niektóre mostki pokonywaliśmy przenoskami lub "przesuwkami". Odcinek ten pokonaliśmy w 4 dni. Miejsc biwakowych jest dużo. Sklepy są tylko na początku i na końcu odcinka.</opis>
+    <punkt id="3821" miejscowosc="Žygmantiškes [Zygmunciszki]" 
+      ns="54.337433" we="24.964061" km="16" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Obozowisko z pomostami na prawym brzegu u podnóża skarpy. Warunki i ceny biwakowania nieznane.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Poniżej obozowiska jest dobicie do lewego brzegu, gdzie jest parking przy czynnym[?] sklepie (50m). Może to być część lewobrzeżnej wsi - Pavariai.</opispunktu> 
+    </punkt>
+    <punkt id="3820" miejscowosc="" 
+      ns="54.324173" we="24.9959" km="23.5" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Duże miejsce biwakowe na lewym, wysokim brzegu, na wielkiej polanie z rzadko rosnącymi sosnami. Z powodu dobrego dojazdu z pobliskiej drogi jest używane na pikniki.</opispunktu> 
+    </punkt>
+    <punkt id="3819" miejscowosc="" 
+      ns="54.326575" we="25.011994" km="25.5" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe na lewym brzegu, poniżej dużej lipy, na dużej polanie z dębem.</opispunktu> 
+    </punkt>
+    <punkt id="3818" miejscowosc="Nevainionys [Niewojniańce]" 
+      ns="54.326886" we="25.023459" km="27" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka duża, niska. Na prawym brzegu widoczne jest pojedyncze zabudowanie.</opispunktu> 
+    </punkt>
+    <punkt id="3817" miejscowosc="" 
+      ns="54.324489" we="25.021338" km="28" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe na lewym brzegu w lesie</opispunktu> 
+    </punkt>
+    <punkt id="3816" miejscowosc="Visinčia [Wisińcza]" 
+      ns="54.322447" we="25.041395" km="30" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Wisińczy z prawego brzegu.
+Wbrew informacjom internetowym brak tu jest miejsc biwakowych.</opispunktu> 
+    </punkt>
+    <punkt id="3815" miejscowosc="Visinčia [Wisińcza]" 
+      ns="54.320022" we="25.039754" km="31" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Leśne pole biwakowe (wiata, stoły) na lewym brzegu.
+Stąd rzeką jest ok. 1km do ujścia Wisińczy.</opispunktu> 
+    </punkt>
+    <punkt id="3814" miejscowosc="Tetervinai [Cieciorka]" 
+      ns="54.31591" we="25.058631" km="33" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe ok. 1km poniżej biwaku przy daczy, na lewym brzegu w lesie.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka niska</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Prywatne zejście do wody z wysokiej skarpy na lewym brzegu, 100m poniżej kładki  - możliwość biwakowania po uzyskaniu zgody w pobliskiej daczy (150m, za laskiem).</opispunktu> 
+    </punkt>
+    <punkt id="3813" miejscowosc="Tetervinai [Cieciorka]" 
+      ns="54.313112" we="25.06638" km="34.5" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka niska 100m poniżej miejsca biwakowego. Na lewym brzegu są pojedyncze zabudowania wsi.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość biwaku na niskich łąkach na lewym brzegu. Pojedyncze zabudowania wsi są widoczne w odległości 100m.</opispunktu> 
+    </punkt>
+    <punkt id="3812" miejscowosc="Uta [Huta]" 
+      ns="54.311836" we="25.075831" km="35.5" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek drewniany, dość niski. Pojedyncze zabudowania są na prawym brzegu, w głębi lasu (ok. 250m).</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość biwaku na prawym brzegu na skarpie tuż przed mostkiem</opispunktu> 
+    </punkt>
+    <punkt id="3811" miejscowosc="" 
+      ns="54.306529" we="25.081491" km="36.5" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe na lewym brzegu na małej polanie obok ogrodzonego wodopoju. Zabudowania wsi Popiszki są za laskiem - 250m.</opispunktu> 
+    </punkt>
+    <punkt id="3810" miejscowosc="" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek drewniany, szeroki i niski - 200m poniżej bani i kładki w Popiszkach.</opispunktu> 
+    </punkt>
+    <punkt id="3809" miejscowosc="Papiškes [Popiszki]" 
+      ns="54.304462" we="25.095567" km="37.5" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Poniżej kładki jest możliwość biwaku na lewym brzegu na łąkach wsi Popiszki</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Zaraz poniżej "Bani" jest kładka duża, niska; można stąd dojść do pobliskich, rozproszonych gospodarstw wsi Popiszki - 150m.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu widać pierwszy dom w Popiszkach - gospodarstwo agroturystyczne z "banią".</opispunktu> 
+    </punkt>
+    <punkt id="3808" miejscowosc="Senosios Rakliškes [Rakliszki]" 
+      ns="54.301017" we="25.1355" km="44" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na dystansie następnych kilku kilometrów poniżej mostu i dacz,  można znaleźć kilka miejsc biwakowych w lesie na obydwu brzegach.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy betonowy</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej mostu jest sporo dacz z prywatnymi pomostami</opispunktu> 
+    </punkt>
+    <punkt id="3807" miejscowosc="Kalitonys [Kalitańce]" 
+      ns="54.300294" we="25.157196" km="46" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Poniżej kładki jest możliwość biwaku na łąkach wsi Kalitańce na prawym brzegu</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka niska. Zabudowania wsi są widoczne w oddali na prawym brzegu.</opispunktu> 
+    </punkt>
+    <punkt id="3806" miejscowosc="" 
+      ns="54.295561" we="25.169958" km="48" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe na lewym brzegu w lesie</opispunktu> 
+    </punkt>
+    <punkt id="3805" miejscowosc="Rudnia" 
+      ns="54.298856" we="25.193844" km="51" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka niska na końcu zabudowań wsi widocznych na prawym brzegu</opispunktu> 
+    </punkt>
+    <punkt id="3804" miejscowosc="Gierwiszki" 
+      ns="54.291821" we="25.210106" km="53.5" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="sklep" kolejnosc="-1">W Gierwiszkach (wsi gminnej) powinny być sklepy.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy betonowy.
+Alternatywne miejsce wodowania, bez możliwości biwaku.</opispunktu> 
+    </punkt>
+    <punkt id="3803" miejscowosc="Gerviškes [Gierwiszki]" 
+      ns="54.289215" we="25.220807" km="56" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Przygotowane miejsce biwakowe z wiatą na lewym brzegu, na polance na skraju lasku.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Za laskiem jest kąpielisko w sztucznym zbiorniku - 150m od biwaku. Zabudowania wsi są widoczne za zbiornikiem - 250m od biwaku.</opispunktu> 
+    </punkt>
+    <punkt id="3802" miejscowosc="" 
+      ns="54.288768" we="25.229611" km="57" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Przygotowane miejsce biwakowe z wiatą na lewym brzegu w lesie</opispunktu> 
+    </punkt>
+    <punkt id="3801" miejscowosc="Pačiabatai [Poczobuty]" 
+      ns="54.288693" we="25.237868" km="58" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska kładka 200m poniżej biwaku</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość biwaku na niskich łąkach na prawym brzegu. W oddali widać pojedyncze gospodarstwa.</opispunktu> 
+    </punkt>
+    <punkt id="3800" miejscowosc="Kaniukai [Koniuchy]" 
+      ns="54.282609" we="25.247824" km="59" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi D126.
+Alternatywne miejsce wodowania (bez możliwości biwaku)</opispunktu> 
+    </punkt>
+    <punkt id="3799" miejscowosc="Kaniukai [Koniuchy]" 
+      ns="54.279868" we="25.255823" km="60" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych nad Solczą</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce do rozbicia kilku namiotów koło kładki, na zapleczu ostatniego gospodarstwa na lewym brzegu Solczy (oczywiście za zgodą gospodarzy).
+Wodowanie w starym brodzie powyżej kładki.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="207" nazwa="Mosiński Kanał" wersja="1">
+<opis>Kanał Mosiński jest jednym z elementów skomplikowanego systemu retencji wody i zarazem melioracji terenów rolniczych w dolinie Obry. Jego budowa miała na celu m.in. część wody Obry, pierwotnie płynącej w tym miejscu ze wschodu na zachód, przekierować na wschód i dawnym korytem Samicy Stęszewskiej wyprowadzić bezpośrednio do Warty. Różne opracowania różnie podają, ale oficjalnie, za początek Kanału Mosińskiego przyjmuje się jedno z miejsc tzw. Węzła Bonikowskiego, punkt rozdziału wód górnej Obry (Kanał Kościański) na, płynący w keirunku zachodnim - Południowy Kanał Obry oraz, płynący na wschód, właśnie Kanał Mosiński. Na XIX-wiecznych mapach również można dopatrzeć się, że w tym miejscu kończy się Kostener Obra-Kanal, a zaczyna płynący w lewo Obra-Sud-Kanal, jak i płynący w prawo Moschiner-Obra-Kanal. Z punktu widzenia wodniackiego ciek ten nie jest specjalnie atrakcyjny. Na całej długości, po obydwu stronach obwałowany jest materiałem powstałym z jego pogłębiania, przez co płynie się praktycznie jedynie w głębokim, wyprostowanym korycie, bez możliwości wglądu na okolicę. Jedynie środkowy fragment, pomiędzy Głuchowem a Bolesławcem przebiega przez obszary zalesione, jednak prawdziwą nagrodę otrzymuje się na koniec, poniżej Mosiny. Rzeka tu nie jest już regulowana, pięknie meandruje podmywając brzegi i tworząc wysokie, piaszczyste skarpy. Spływ najlepiej zaplanować w miesiącach wiosennych, bowiem latem, podczas niżówek hydrologicznych koryto znacząco zarasta roślinnością wodną. W maju 2022, czas spływu z Bonikowa do ujścia do Warty zajął 2xK1 około 6h. Wodowskaz Mosina pokazywał wówczas poziom 034, natomiast wodowskaz Kościan, poziom 130</opis> 
+    <punkt id="6780" miejscowosc="Bonikowo" 
+      ns="52.11490559" we="16.60932006" km="27.8" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Tzw. punkt bifurkacji rozpływu, czyli miejsce, w którym Kanał Kościański rozdwaja się na Obrzański Kanał Południowy oraz Kanał Mosiński. Na różnych mapach różnie to wygląda, ale oficjalnie miejsce to uznawane jest za początek Kanału Mosińskiego</opispunktu> 
+    </punkt>
+    <punkt id="6781" miejscowosc="Bonikowo" 
+      ns="52.11824343" we="16.6079395" km="27.4" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka piętrząca wodę około 0,8m. Nad nią mostek na polnej drodze, a poniżej kamienne przyczółki po nieznanej budowli</opispunktu> 
+    </punkt>
+    <punkt id="6782" miejscowosc="Bonikowo" 
+      ns="52.13012875" we="16.60430493" km="26.1" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 308 pomiędzy Kościanem a Grodziskiem Wielkopolskim, pod nim niewielkie bystrze. Wygodne miejsce dostępu do wody, chociaż brzegi nieco strome. W pobliżu mostu sporo miejsca na samochody, na trawiastych dróżkach wzdłuż kanału</opispunktu> 
+    </punkt>
+    <punkt id="6783" miejscowosc="Bonikowo" 
+      ns="52.13028228" we="16.60447565" km="26" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="6784" miejscowosc="Bonikowo" 
+      ns="52.15051566" we="16.62835096" km="23.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Dopływ z lewej Kanału Prut, czyli połączenie wód Obry z wodami Mogilnicy, odprowadzanych wspólnie na wschód, do Warty. Od tego miejsca kanał staje się znacznie głębszy, a po kilku kilometrach przestaje nawet przeszkadzać jego wyprostowany charakter, ze względu na drzewa i krzewy zwieszające się do lustra wody</opispunktu> 
+    </punkt>
+    <punkt id="6785" miejscowosc="Piotrowo Pierwsze" 
+      ns="52.16938924" we="16.67267204" km="19.6" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="6786" miejscowosc="Piotrowo Pierwsze" 
+      ns="52.18622719" we="16.70030642" km="16.9" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most drogi S5</opispunktu> 
+    </punkt>
+    <punkt id="6787" miejscowosc="Piotrowo Pierwsze" 
+      ns="52.18729341" we="16.70229346" km="16.7" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na starej drodze nr 5. Wygodny dostęp do wody. Robi się szeroko i nurt zaczyna zanikać. Krajobrazy coraz przyjemniejsze dla oka, a drzewa na brzegach i krzaki pozwalają zapomnieć, że płyniemy kanałem</opispunktu> 
+    </punkt>
+    <punkt id="6788" miejscowosc="Sierniki" 
+      ns="52.19672551" we="16.7134452" km="15.3" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Drzewo leżące w korycie, przegradzające je gałęziami na całej szerokości. Sama zwałka jest łatwa do pokonania, ale znikomy nurt sprawia, że przez drzewem tworzy się kilkudziesięciometrowy, gęsty korzuch ze wszystkiego, co płynie kanalem. Zalecana przenoska prawym, nieco stromym brzegiem i wodowanie z piaszczystej plaży</opispunktu> 
+    </punkt>
+    <punkt id="6789" miejscowosc="Bolesławiec" 
+      ns="52.21472397" we="16.73929289" km="12.5" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Kamienno betonowe przyczółki po budowli hydrotechnicznej. Na XIX w. mapie widać w tym miejscu jaz - zastawkę</opispunktu> 
+    </punkt>
+    <punkt id="6790" miejscowosc="Bolesławiec" 
+      ns="52.21594447" we="16.75043555" km="11.7" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy. Koniec odcinka zalesionego</opispunktu> 
+    </punkt>
+    <punkt id="6791" miejscowosc="Bolesławiec" 
+      ns="52.21754702" we="16.78174204" km="9.5" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Wysoka zastawka, przed którą tworzy się spory zator. Przenoska lewym brzegiem, kilkadziesiąt metrów, w zależności od długości zatoru. Wygodne miejsce kończenia i rozpoczynania etapu z dojazdem i miejscem na samochody</opispunktu> 
+    </punkt>
+    <punkt id="6792" miejscowosc="Bolesławiec" 
+      ns="52.21860741" we="16.78415101" km="9.3" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="6793" miejscowosc="Bolesławiec" 
+      ns="52.21973174" we="16.78788019" km="9" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Charakterystyczne, ceglane, wysokie przyczółki po jakiejś budowli hydrotechnicznej lub moście</opispunktu> 
+    </punkt>
+    <punkt id="6794" miejscowosc="Krosinko" 
+      ns="52.23106026" we="16.81744173" km="6.6" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy i kładka dla pieszych, pod nimi kamienne bystrze</opispunktu> 
+    </punkt>
+    <punkt id="6795" miejscowosc="Krosinko" 
+      ns="52.23141667" we="16.81845198" km="6.5" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Niewielki prożek. Po środku nurtu, na granicy lustra wody stoją 2 drewniane pale ze sterczącymi pionowo w górę śrubami !!! Przepływać ostrożnie, zwłaszcza delikatnym sprzętem</opispunktu> 
+    </punkt>
+    <punkt id="6796" miejscowosc="Krosinko" 
+      ns="52.23176327" we="16.81936422" km="6.3" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Samicy Stęszewskiej z lewej strony. Mimo stromej prawej strony jest to wygodne miejsce kończenia etapu, ze względu na dobry dojazd na prawy brzeg kanału i sporo miejsca na samochody</opispunktu> 
+    </punkt>
+    <punkt id="6797" miejscowosc="Mosina" 
+      ns="52.2425352" we="16.8425264" km="4.4" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pierwszy z trzech prożków mosińskich, ten najniższy. Decyzję o spływaniu należy podjąć w zależności od ilości wody oraz po ocenie stopnia trudności</opispunktu> 
+    </punkt>
+    <punkt id="6798" miejscowosc="Mosina" 
+      ns="52.24381967" we="16.8453041" km="4.1" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="6799" miejscowosc="Mosina" 
+      ns="52.24421207" we="16.84734693" km="3.9" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w ul. Mostowej</opispunktu> 
+    </punkt>
+    <punkt id="6800" miejscowosc="Mosina" 
+      ns="52.24448338" we="16.85033019" km="3.7" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w ul. Niezłomnych</opispunktu> 
+    </punkt>
+    <punkt id="6801" miejscowosc="Mosina" 
+      ns="52.24575922" we="16.85229466" km="3.5" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek w ul. T. Kościuszki</opispunktu> 
+    </punkt>
+    <punkt id="6802" miejscowosc="Mosina" 
+      ns="52.24710451" we="16.85399742" km="3.4" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Drugi z progów mosińskich, nieco wyższy od pierwszego</opispunktu> 
+    </punkt>
+    <punkt id="6803" miejscowosc="Mosina" 
+      ns="52.24829812" we="16.85626331" km="3.1" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy, pod nim wodowskaz Mosina</opispunktu> 
+    </punkt>
+    <punkt id="6804" miejscowosc="Mosina" 
+      ns="52.2494014" we="16.85807204" km="2.9" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Trzeci próg mosiński, najwyższy ze wszystkich. Poniżej, najbardziej fotogeniczny odcinek rzeki. Piaszczyste, wysokie skarpy na zakolach, kilka zwałek w korycie, a wszystko w mieszanym lesie</opispunktu> 
+    </punkt>
+    <punkt id="6805" miejscowosc="Mosina" 
+      ns="52.25057461" we="16.86039726" km="2.4" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Stalowe rury wysoko nad wodą I</opispunktu> 
+    </punkt>
+    <punkt id="6806" miejscowosc="Mosina" 
+      ns="52.25076292" we="16.86089351" km="2.3" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Stalowe rury wysoko nad wodą II</opispunktu> 
+    </punkt>
+    <punkt id="6807" miejscowosc="Rogalinek" 
+      ns="52.25321783" we="16.88627783" km="0" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Kanału Mosińskiego do Warty. Spływ wygodnie jest zakończyć na lewym brzegu Warty, zaraz za wypływem. Można w to miejsce dojechać od strony oczyszczalni ścieków dla Mosiny. Wygodnie jest też zakończyć spływ na prawym brzegu Warty, przed mostem, z dobrym dojazdem od strony Rogalinka</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

@@ -1,0 +1,239 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.27126629" lon="17.47824727">
+<name>31.30</name>
+<desc>Most na drodze gruntowej obok starego młyna. Wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.26691685" lon="17.47300354">
+<name>30.70</name>
+<desc>Jaz 0,6m. Pod nim nieco płytko</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.26547782" lon="17.47070697">
+<name>30.50</name>
+<desc>Niski mostek do pobliskiego gospodarstwa</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.26339360" lon="17.46579166">
+<name>30.00</name>
+<desc>Dopływ z prawej strony, na skraju lasu</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.25543426" lon="17.46179254">
+<name>29.10</name>
+<desc>W lewo przez jaz odpływa kanał zasilający stawy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.25241768" lon="17.45893645">
+<name>28.70</name>
+<desc>Mostek i kładki nad samą wodą</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.25050859" lon="17.45759234">
+<name>28.50</name>
+<desc>Mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24649582" lon="17.44982091">
+<name>27.80</name>
+<desc>Przenoska przed drogę, prawą stroną 40m</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.24210997" lon="17.44666991">
+<name>27.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.23699145" lon="17.44055653">
+<name>26.50</name>
+<desc>Mostek przy stawach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.23416324" lon="17.43587299">
+<name>26.00</name>
+<desc>Przenoska prawym brzegiem, niewygodna - plac budowy</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.23150894" lon="17.42793484">
+<name>25.40</name>
+<desc>Betonowy słup jako kładka na wysokości lustra wody</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.23050359" lon="17.42652309">
+<name>25.20</name>
+<desc>Most obwodnicy miasta Oleśnicy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.22968089" lon="17.42598028">
+<name>25.10</name>
+<desc>Przenoska lewym brzegiem 50m</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.22661425" lon="17.41684713">
+<name>24.30</name>
+<desc>Użytek ekologiczny "Ols Spalicki"</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.21978844" lon="17.40573803">
+<name>23.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.21877876" lon="17.38556390">
+<name>21.70</name>
+<desc>Ewentualna przenoska lewym brzegiem 20m</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.21477347" lon="17.37564618">
+<name>20.90</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.21268586" lon="17.37266997">
+<name>20.60</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.20863273" lon="17.36611527">
+<name>19.80</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.20830600" lon="17.35913256">
+<name>19.30</name>
+<desc>Niski mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.20819462" lon="17.35808954">
+<name>19.20</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.20801600" lon="17.35735718">
+<name>19.10</name>
+<desc>Niski mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.20409743" lon="17.33691554">
+<name>17.60</name>
+<desc>Ewentualna przenoska prawym brzegiem przez trzciny 10m</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.19963318" lon="17.33122272">
+<name>17.00</name>
+<desc>Ceglany, sklepiony mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.19930478" lon="17.32365244">
+<name>16.40</name>
+<desc>Mostek a za nim 3 niskie kładki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.19832436" lon="17.31521695">
+<name>15.80</name>
+<desc>Ceglany, sklepiony most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.19440225" lon="17.30602331">
+<name>15.00</name>
+<desc>Ewentualna przenoska lewym brzegiem 20m przez gęste trzciny</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.18753433" lon="17.30379892">
+<name>14.20</name>
+<desc>3 mosty obok siebie, w tym 1 kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.18278891" lon="17.30137944">
+<name>13.50</name>
+<desc>Ewentualna przenoska prawym brzegiem 10 m.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.17666779" lon="17.28042511">
+<name>11.50</name>
+<desc>Ewentualna przenoska 10m lewym brzegiem przez krzaki.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.17759100" lon="17.27712600">
+<name>11.21</name>
+<desc>Most drogowy pomiędzy Rakowem a Borową. Wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.16505700" lon="17.26088800">
+<name>9.31</name>
+<desc>Most drogowy pomiędzy Bielawą a Rakowem. Wygodne miejsce rozpoczynania spływu</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.14978900" lon="17.27189600">
+<name>7.32</name>
+<desc>Most na drodze pomiędzy Oleśniczką a Piecowicami</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.13386900" lon="17.27844900">
+<name>5.46</name>
+<desc>Przenoska prawym brzegiem - 20m</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.13052200" lon="17.27699300">
+<name>4.99</name>
+<desc>Most na drodze pomiędzy Katną a Brzezią Łąką. Wygodne miejsce do rozpoczynania lub kończenia spływu.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.11871200" lon="17.27391200">
+<name>3.37</name>
+<desc>Most nad rzeką</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.11852400" lon="17.27335200">
+<name>3.32</name>
+<desc>Rozwidlenie szlaku. Prosto płynie zasadnicza Oleśnica, jest jednak płytka i zarośnięta. W lewo odbija sztuczny kanał, do którego skierowanych jest większość wód rzeki.
+Wg informacji jakie dostarczył Sorpet (broks@poczta.onet.pl) w dniu 22.06.2011 r., płytki i zarośnięty odcinek prosto został udrożniony: "Rzeka nie płynie już kanałem,
+ale poszerzonym i skanalizowanym dawnym własnym korytem. Jest oczyszczona i wykoszona i bez najmniejszych problemów dopływa się do Widawy. Na tym odcinku jest tylko jedna przenoska przy młynie w miejscowości Zamłynie (Brzezia Łąka)".
+</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="17.24988861">
+<name>-1.00</name>
+<desc>Próg przy młynie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.11807500" lon="17.27361700">
+<name>3.27</name>
+<desc>Mały jaz (do obowiązkowego spłynięcia)</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.11099000" lon="17.26357100">
+<name>2.11</name>
+<desc></desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.11024400" lon="17.25783900">
+<name>1.70</name>
+<desc></desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.10950300" lon="17.25449800">
+<name>1.45</name>
+<desc></desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.10929900" lon="17.24119600">
+<name>0.41</name>
+<desc></desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.10872900" lon="17.23563600">
+<name>0.00</name>
+<desc>Ujście Oleśnicy do Widawy.
+Niestety są to tereny mocno podmokłe i brakuje w okolicy miejsca dogodnego do zakończenia spływu. Do najwygodniejszego miejsca - mostu, jest około 5 km w dół Widawą.</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="9" nazwa="Wda" wersja="5">
+<opis>Szlak Wdy od Lipusza do Tlenia. Jeden z znanych i cenionych szlaków w Polsce. Niezbyt trudny, przebiega przez środek Borów Tucholskich. Szlak zagospodarowany, spłyniecie jego zajmuje zwykle około 10 dni.</opis> 
+  <odcinek id="32" typ="jezioro" nazwa="Jezioro Żur" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="5"> 
+  <opis>Jezioro o całkowicie zarośnietych i stromych brzegach. Dodatkowo woda dosyć mętna. Na wiosnę kwitnące lipy tworzą przy brzegach kożuchy z pyłku, wygląda to jak rozlana żółta farba.</opis>
+    <punkt id="246" miejscowosc="" 
+      ns="53.59537" we="18.29788" km="" etykieta="" 
+      kolejnosc="89"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Dziki biwak na wyspie Madera na jeziorze Żur. Strome zejście do wody, pijawki ! Kontrole służb leśnych, można zapłacić mandat.</opispunktu> 
+    </punkt>
+    <punkt id="245" miejscowosc="Tleń" 
+      ns="0" we="0" km="141" etykieta="" 
+      kolejnosc="88"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Stannica PTTK "Lucyna" nad jeziorem Żur w Tleniu. Domki, pole namiotowe, wypożyczalnia sprzętu. tel. (052) 333-98-90</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="31" typ="rzeka" nazwa="Wda koło Starej Rzeki" 
+      uciazliwosc="U2" trudnosc="ZWC" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="4"> 
+  <opis>Najtrudniejszy odcinek Wdy. Nurt zdecydowanie przyspiesza, rzeka szeroka na 10-15 metrów.</opis>
+    <punkt id="240" miejscowosc="Stara Rzeka" 
+      ns="53.64489" we="18.2952" km="132.5" etykieta="" 
+      kolejnosc="83"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drewniany</opispunktu> 
+    </punkt>
+    <punkt id="239" miejscowosc="Stara Rzeka" 
+      ns="53.64989" we="18.29834" km="130" etykieta="" 
+      kolejnosc="82"> 
+    <opispunktu typ="most" kolejnosc="-1">Częściowo zwalona kładka drewniana, jak zwali się do końca, to będzie trzeba obnosić.</opispunktu> 
+    </punkt>
+    <punkt id="238" miejscowosc="Stara Rzeka" 
+      ns="53.65527" we="18.31725" km="129.5" etykieta="" 
+      kolejnosc="81"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy, około 200 metrów wyżej wielki zwalony dąb (chyba najciekawsza przeszkoda na Wdzie).</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="30" typ="rzeka" nazwa="Wda od jeziora Wdzydze do Tlenia" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Długi, bo 110km odcinek rzeki w czasie którego płynie ona przez Bory Tucholskie. Nie jest zbyt trudno, bo rzeka stopniowo staje się coraz większa. Za to dookołą dzika przyroda i mało cywilizacji.Pod względem kajakowym odcinek zagospodarowało PTTK Szlak Brdy:zrobione pola biwakowe, tabliczki na brzegach z kilometrażem.</opis>
+    <punkt id="244" miejscowosc="Tleń" 
+      ns="53.61137" we="18.27771" km="138.5" etykieta="" 
+      kolejnosc="87"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowo-betonowy most kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="243" miejscowosc="Tleń" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="86"> 
+    <opispunktu typ="bar" kolejnosc="-1">W Tleniu jest kilka barów i restauracja. Szczególnie polecamy hamburgery w barze z goframi.</opispunktu> 
+    </punkt>
+    <punkt id="242" miejscowosc="Tleń" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="85"> 
+    <opispunktu typ="sklep" kolejnosc="-1">W Tleniu w sezonie jest conajmniej 5 sklepów. Kupić można prawie wszystko.</opispunktu> 
+    </punkt>
+    <punkt id="241" miejscowosc="Tleń" 
+      ns="53.61721" we="18.27189" km="137.5" etykieta="" 
+      kolejnosc="84"> 
+    <opispunktu typ="most" kolejnosc="-1">Drogowy most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="237" miejscowosc="" 
+      ns="53.67293" we="18.33511" km="126" etykieta="" 
+      kolejnosc="80"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na prawym brzegu niezagospodarowany, ładne zejście do wody, polana z brzozami</opispunktu> 
+    </punkt>
+    <punkt id="1000" miejscowosc="" 
+      ns="0" we="0" km="125" etykieta="" 
+      kolejnosc="79"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Dla tych co płyną i potrafią, albo przynajmniej próbują coś
+zobaczyć. Na 55 km wg. starych tablic oznakowania szlaku na lewym brzegu na wysokiej skarpie -spoziomowana- brzoza i jej pięć córek REWELACJA. </opispunktu> 
+    </punkt>
+    <punkt id="236" miejscowosc="" 
+      ns="53.69883" we="18.35817" km="121" etykieta="" 
+      kolejnosc="78"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Dziki biwak na prawym brzegu (cyplu). Malownicza polana w lesie. Dobre zejście do wody od górnej  strony cyplu (patrząc wzdłuż
+rzeki).</opispunktu> 
+    </punkt>
+    <punkt id="235" miejscowosc="Błędno" 
+      ns="53.70011" we="18.35078" km="119.2" etykieta="" 
+      kolejnosc="77"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na prawym brzegu, na skarpie, duża, dzika, ładna polana. Piaszczyste zejście do wody. Około 500 metrów poniżej mostu.</opispunktu> 
+    </punkt>
+    <punkt id="234" miejscowosc="Błędno" 
+      ns="53.70075" we="18.34677" km="118.7" etykieta="" 
+      kolejnosc="76"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oficjalny biwak PTTK, dużo wiat, stołów, mało miejsca na namioty. Syfne zejście do wody, zalesiony.</opispunktu> 
+    </punkt>
+    <punkt id="233" miejscowosc="Błędno" 
+      ns="53.70231594" we="18.34791134" km="118.5" etykieta="" 
+      kolejnosc="75"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy, drogowy</opispunktu> 
+    </punkt>
+    <punkt id="232" miejscowosc="" 
+      ns="53.72824" we="18.38571" km="111" etykieta="" 
+      kolejnosc="74"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na lewym brzegu, wiata, stoły, pomost.</opispunktu> 
+    </punkt>
+    <punkt id="231" miejscowosc="" 
+      ns="53.72791" we="18.3881" km="110" etykieta="" 
+      kolejnosc="73"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na prawym brzegu, miejsce na ognisko, ławeczki.</opispunktu> 
+    </punkt>
+    <punkt id="230" miejscowosc="" 
+      ns="53.73397" we="18.38915" km="106.5" etykieta="" 
+      kolejnosc="72"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Dziki biwak na wysokim, lewym brzegu, ładna panorama, miejsce na ognisko.</opispunktu> 
+    </punkt>
+    <punkt id="228" miejscowosc="" 
+      ns="53.73922" we="18.39375" km="106.3" etykieta="" 
+      kolejnosc="71"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Zagospodarowany biwak na skarpie. Biwak na wysokim
+brzegu po prawej stronie. Do biwakowania nie zachęca bliska odległość od szosy, ale np. na przyrządzenie obiadu to piękne miejsce.
+</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Drogowy most betonowy</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Polecamy spacer do Kasparusa (ok. 2 km na prawo od rzeki). Taka zagubiona wioska wśród lasów, żywy skansen. </opispunktu> 
+    </punkt>
+    <punkt id="227" miejscowosc="" 
+      ns="53.741" we="18.39101" km="105.5" etykieta="" 
+      kolejnosc="70"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Brzezianek (prawy dopływ) do Wdy.</opispunktu> 
+    </punkt>
+    <punkt id="214" miejscowosc="" 
+      ns="53.74326" we="18.41769" km="103" etykieta="" 
+      kolejnosc="69"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Kałębnicy do Wdy.</opispunktu> 
+    </punkt>
+    <punkt id="213" miejscowosc="" 
+      ns="53.74973" we="18.42001" km="100" etykieta="" 
+      kolejnosc="68"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na lewym brzegu. Stoły, las.</opispunktu> 
+    </punkt>
+    <punkt id="212" miejscowosc="Wdecki Młyn" 
+      ns="53.78054" we="18.40113" km="96.5" etykieta="" 
+      kolejnosc="67"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Zorganizowany biwak koło leśniczówki, wiaty, pomost.</opispunktu> 
+    </punkt>
+    <punkt id="210" miejscowosc="Wdecki Młyn" 
+      ns="53.7818" we="18.39537" km="96" etykieta="" 
+      kolejnosc="66"> 
+    <opispunktu typ="jaz" kolejnosc="-1">2 metrowe spietrzenie wody do małej elektrowni.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">50 metrów po prawym brzegu. Niewygodne wodowanie kajaków poniżej jazu.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pojawiło się przy elektrowni niezłe pole biwakowe,  (wiaty, ognisko), jeśli nie przeszkadza warkot turbin.  </opispunktu> 
+    </punkt>
+    <punkt id="209" miejscowosc="Wda" 
+      ns="53.78844" we="18.38654" km="" etykieta="" 
+      kolejnosc="65"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Zorganizowane i płatne pole biwakowe PTTK na lewym brzegu, drewniane wiaty.</opispunktu> 
+    </punkt>
+    <punkt id="208" miejscowosc="Wda" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="64"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Dwa nieźle zaopatrzone sklepy. Ostatnie sklepy przed Tleniem (to nie żart!)</opispunktu> 
+    </punkt>
+    <punkt id="207" miejscowosc="Wda" 
+      ns="53.7947" we="18.38848" km="93.5" etykieta="" 
+      kolejnosc="63"> 
+    <opispunktu typ="most" kolejnosc="-1">Drogowy most betonowy. Wygodna zatoczka za mostem na lewym brzegu.</opispunktu> 
+    </punkt>
+    <punkt id="206" miejscowosc="Wda" 
+      ns="53.8033" we="18.38063" km="93" etykieta="" 
+      kolejnosc="62"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na lewym brzegu</opispunktu> 
+    </punkt>
+    <punkt id="205" miejscowosc="" 
+      ns="53.8233" we="18.36053" km="87" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="204" miejscowosc="" 
+      ns="53.82261" we="18.34793" km="86" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Mały, dziki biwak na prawym brzegu, w pobliżu las. Dobre dojście do wody. W pobliżu wieś Krępki.</opispunktu> 
+    </punkt>
+    <punkt id="202" miejscowosc="Młynki" 
+      ns="53.84833" we="18.35731" km="83" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Za mostem na wysokim prawym brzegu, koło leśniczówki, duże zorganizowanepole biwakowe PTTK. Pole na  niewielkim  wzniesieniu.  Uciążliwe wciąganie  sprzętu  na  górkę. Pomost. Dobre miejsce do kąpania i pływania.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="201" miejscowosc="Mały Bukowiec" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Przed mostem, na prawym brzegu, zupelnie niezagospodarowane, małe miejsce biwakowe.
+
+Po lewej przed mostem duża łąka, miejsce na dziki kemping dla dużej
+grupy.
+
+Za mostem jakieś 400m, pod lewej pod lasem łączka (wcześniej po lewej
+jakieś 200m jest ciek wypływający z łąk i wpadający  do rzeki), dobra
+na  kameralny kemping  dla mniejszej  grupy. Sprzęt  najlepiej wciągać
+uskokiem przy samotnym drzewie stojącym  nad rzeką na  początku łąki.
+Dobrze jest też w tej okolicy  rozstawiać namioty - będą niewidoczne z
+szosy oraz z mostu betonowego.</opispunktu> 
+    </punkt>
+    <punkt id="200" miejscowosc="Mały Bukowiec" 
+      ns="53.86209" we="18.26438" km="74.5" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="198" miejscowosc="Czarne" 
+      ns="53.84303" we="18.24201" km="70" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drewniany koło Młyńska</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek drewniany</opispunktu> 
+    </punkt>
+    <punkt id="196" miejscowosc="Czubek" 
+      ns="53.83228" we="18.23836" km="63.5" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu, duże przygotowane pole biwakowe PTTK. Wiaty, miejsce na ognisko.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Drogowy most drewniany</opispunktu> 
+    </punkt>
+    <punkt id="195" miejscowosc="" 
+      ns="53.83678" we="18.21383" km="62" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe z jednym stołem drewnianym.</opispunktu> 
+    </punkt>
+    <punkt id="194" miejscowosc="" 
+      ns="53.82938" we="18.17889" km="60.8" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Przygotowany biwak o nazwie "Tadonka". Drewniane wiaty, wygląda bardzo ciekawie.</opispunktu> 
+    </punkt>
+    <punkt id="193" miejscowosc="" 
+      ns="53.82959" we="18.17583" km="60" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Strugi z lewej strony do Wdy.</opispunktu> 
+    </punkt>
+    <punkt id="192" miejscowosc="Zimne Zdroje" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep zwyczajny, jak to na wsi, ale że gospodarz mieszka blisko, otworzy nawet w niedziele.</opispunktu> 
+    </punkt>
+    <punkt id="191" miejscowosc="Zimne Zdroje" 
+      ns="53.82476" we="18.15844" km="57.7" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy, za mostem po lewej dobre wyjście na brzeg.</opispunktu> 
+    </punkt>
+    <punkt id="999" miejscowosc="Zimne Zdroje" 
+      ns="0" we="0" km="57.5" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="biwak" kolejnosc="-1">W Zimnych Zdrojach ok. 250 przed mostem jest fajne
+miejsce biwakowe dla tych, którzy nie szukają na rzece wygód w rodzaju prysznice etc. Duża polana, krąg ogniskowy, ogromny stół i ławy. Miejsce nawet na duży spływ. </opispunktu> 
+    </punkt>
+    <punkt id="187" miejscowosc="" 
+      ns="53.8254" we="18.13872" km="55.5" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Lekko zorganizowane pole biwakowe. Kamienny krąg na ognisko, sławojka, dużo miejsca, słabe dojście do wody.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">mały mostek, kładka</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Mała, ale ładna polanka na lewym brzegu. Kiepskie dojście do wody, ale awaryjnie i na 5 namiotów może być.</opispunktu> 
+    </punkt>
+    <punkt id="188" miejscowosc="Jastrzębie" 
+      ns="53.82939" we="18.1306" km="55" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="most" kolejnosc="-1">kolejna kładka</opispunktu> 
+    </punkt>
+    <punkt id="186" miejscowosc="Czarna Woda" 
+      ns="53.83088" we="18.1306" km="51.5" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Stannica PTTK, na wysokiej skarpie na lewym brzegu. Prysznice, domki, itp.</opispunktu> 
+    </punkt>
+    <punkt id="185" miejscowosc="Czarna Woda" 
+      ns="53.84132" we="18.09194" km="51.1" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="most" kolejnosc="-1">Duży betonowy most na głównej drodze.</opispunktu> 
+    </punkt>
+    <punkt id="184" miejscowosc="Czarna Woda" 
+      ns="53.84207" we="18.09109" km="51" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy, a pod nim szerokie bystrze.</opispunktu> 
+    </punkt>
+    <punkt id="183" miejscowosc="Czarna Woda" 
+      ns="53.84522" we="18.0918" km="50.7" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oficjalne pole PTTK na prawym brzegu. Wiaty, miejsce na ognisko, prysznice.</opispunktu> 
+    </punkt>
+    <punkt id="182" miejscowosc="Czarna Woda" 
+      ns="53.84692" we="18.08703" km="50.1" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy dosyć wysoko nad wodą. Na moście tabliczki informujące o polach biwakowych w miejscowości.</opispunktu> 
+    </punkt>
+    <punkt id="181" miejscowosc="Czarna Woda" 
+      ns="53.84841" we="18.08437" km="49.8" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="most" kolejnosc="-1">Metalowa kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="180" miejscowosc="" 
+      ns="53.85008" we="18.08332" km="49.5" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Niechwaszcz do Wdy. Prawy dopływ.</opispunktu> 
+    </punkt>
+    <punkt id="179" miejscowosc="" 
+      ns="53.86534" we="18.07271" km="46.8" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka</opispunktu> 
+    </punkt>
+    <punkt id="178" miejscowosc="" 
+      ns="53.87222" we="18.061772" km="46.4" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole dogodne do biwakowania</opispunktu> 
+    </punkt>
+    <punkt id="177" miejscowosc="Klonowice" 
+      ns="53.8736" we="18.06417" km="45.8" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="most" kolejnosc="-1">drewniany most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="176" miejscowosc="" 
+      ns="53.87519" we="18.06292" km="45.5" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Studzienickie Strugi do Wdy. Połączenie z jeziorem Wieckim.</opispunktu> 
+    </punkt>
+    <punkt id="175" miejscowosc="" 
+      ns="53.87409" we="18.0591" km="44" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="174" miejscowosc="" 
+      ns="53.88385" we="18.04244" km="43" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowy most kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="173" miejscowosc="Wojtal" 
+      ns="53.89196" we="18.03256" km="42" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="most" kolejnosc="-1">Drugi most drogowy w Wojtalu.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">W Wojtalu zaraz za mostem jest pole biwakowe. Jednak nie polecamy, bo sprzedaż piwa ściąga nieciekawe towarzystwo ze wsi.  </opispunktu> 
+    </punkt>
+    <punkt id="172" miejscowosc="Wojtal" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Słabo zaopatrzony sklep wiejski. Oprócz tego zaraz koło przenoski, można kupić pstrągi wprost z hodowli.</opispunktu> 
+    </punkt>
+    <punkt id="169" miejscowosc="Wojtal" 
+      ns="53.89632" we="18.02849" km="41.5" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na jazie.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz wysokości 2m spiętrzający wode do młyna i do pstrągarni.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewą stroną, 20 metrów.</opispunktu> 
+    </punkt>
+    <punkt id="168" miejscowosc="" 
+      ns="53.90236" we="18.00371" km="40.3" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście jakiegoś kanałku (lewego dopływu Wdy)</opispunktu> 
+    </punkt>
+    <punkt id="167" miejscowosc="" 
+      ns="53.90211" we="18.00324" km="39.5" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka dla pieszych i psów ;)</opispunktu> 
+    </punkt>
+    <punkt id="166" miejscowosc="Miedzno" 
+      ns="53.90156" we="17.9883" km="39" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oficjalne, duże pole biwakowe PTTK na lewym brzegu, tuż poniżej Miedzna.Ładnie położoneŃwśród brzózek.</opispunktu> 
+    </punkt>
+    <punkt id="165" miejscowosc="Miedzno" 
+      ns="53.89761" we="17.98165" km="38.3" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="164" miejscowosc="Miedzno" 
+      ns="53.89896" we="17.97744" km="38" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowo-drewniany most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="162" miejscowosc="Miedzno" 
+      ns="53.90075" we="17.97749" km="37.5" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek drewniany, niestety dokladnie na poziomie wody.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Niestety trzeba przepchnąć kajaki przez mostek na poziomie wody (3 metry). Czasami można też lekko rozebrać tą prowizorkę i udaje się wtedy przeprowadzić kajak.</opispunktu> 
+    </punkt>
+    <punkt id="161" miejscowosc="Miedzno" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Tuż przed Miedznem duże, zorganizowane pole biwakowe PTTK. Na lewym, dosyć wysokim brzegu.</opispunktu> 
+    </punkt>
+    <punkt id="160" miejscowosc="Miedzno" 
+      ns="53.9021" we="17.97952" km="37" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Duże przygotowane pole biwakowe, stoły, sławojka. Płatne w sklepie 3zł/osoby.</opispunktu> 
+    </punkt>
+    <punkt id="159" miejscowosc="" 
+      ns="53.91031" we="17.96499" km="35.5" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="158" miejscowosc="Bąk" 
+      ns="53.91951" we="17.95483" km="33.5" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany most drogowy na piaszczystej drodze.</opispunktu> 
+    </punkt>
+    <punkt id="155" miejscowosc="" 
+      ns="53.94143" we="17.93592" km="30.5" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska w celu ominięcia kanału Wdy. Dosyć łatwa 15 metrów i to zdecydowanie w dół.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 2.5m, od którego zaczyna się kanał Wdy. Aby płynąć Wdą trzeba go obnieść, a nie popłynąć prosto kanałem.</opispunktu> 
+    </punkt>
+    <punkt id="154" miejscowosc="Borsk" 
+      ns="53.94893" we="17.92134" km="29.2" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Drogowy most betonowy.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="29" typ="jezioro" nazwa="Jezioro Wdzydze" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Duże jezioro o skomlikowanej linii brzegowej, na planie krzyża. Wiele wysp.</opis>
+    <punkt id="152" miejscowosc="Borsk" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="bar" kolejnosc="-1">Koło przenoski, nad jeziorem jest całkiem duży barek, duży 
+wybór ryb smażonych.
+W Borsku u ujścia Wdy z jeziora,na wysokości kąpieliska,w ośrodku
+Carnowodzianka znajduje się Cafe Bazaar, sezonowa knajpka prowadzona przez
+cooka z polskich promów,opisana swego czasu przez Piotra Bikonta w Magazynie
+GW.</opispunktu> 
+    </punkt>
+    <punkt id="150" miejscowosc="Borsk" 
+      ns="53.95579" we="17.91745" km="28.5" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jazy przy ujściu Wdy z jeziora Wdzydzkiego.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska z jeziora Wdzydze, 150 metrów po płaskim, drogą na lewym brzegu rzeki. Możliwe są również dwie krótsze, ale mniej wygodne przenoski jazów.</opispunktu> 
+    </punkt>
+    <punkt id="149" miejscowosc="" 
+      ns="53.99064" we="17.89985" km="25" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Bardzo dobre miejsce biwakowe na zachodnim brzegu wyspy Ostrów Wielki.Pomost, ale poza tym nie ma udogodnień.</opispunktu> 
+    </punkt>
+    <punkt id="148" miejscowosc="Wdzydze" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="sklep" kolejnosc="-1">We Wdzydzach jest kilka dobrze zaopatrzonych w sezonie sklepów.</opispunktu> 
+    </punkt>
+    <punkt id="147" miejscowosc="Wdzydze" 
+      ns="54.01142" we="17.93182" km="21.5" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Prywatna łąka nad jeziorem, można przybić i biwakować po uzgodnieniu z właścicielem. Niedaleko sklep.</opispunktu> 
+    </punkt>
+    <punkt id="146" miejscowosc="" 
+      ns="54.01753" we="17.89309" km="17.7" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Wdy do jeziora Radolne, które jest połączone z j. Wdzydze. Szerokie, łatwe do znalezienia.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="28" typ="jezioro" nazwa="Jezioro Schodno" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Jezioro jak jezioro, nic specjalnego. Na jednym brzegu las, na drugim wieś Schodno. Dosyć małe.</opis>
+    <punkt id="141" miejscowosc="" 
+      ns="54.04728" we="17.87156" km="10.7" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Duże zorganizowane pole PTTK na prawym brzegu przy ujściu z j. Schodno.</opispunktu> 
+    </punkt>
+    <punkt id="140" miejscowosc="" 
+      ns="54.05301" we="17.85859" km="10" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce do biwakowania na leśnej polanie na lewym brzegu jeziora Schodno.Nic specjalnie ciekawego. Kompletnie zacienione.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="27" typ="mieszany" nazwa="Wda od Lipusza do j. Wdzydze" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Mała rzeczka, szerokość około 4-5 metrów. Malowniczo wije się wśród łąk, lasów przepływa również przez jezioro Schodno.</opis>
+    <punkt id="145" miejscowosc="" 
+      ns="54.01821" we="17.89309" km="17.5" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek, a właściwie drewniana kładka.</opispunktu> 
+    </punkt>
+    <punkt id="144" miejscowosc="Loryniec" 
+      ns="54.04559" we="17.89777" km="13" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy, drogowy. Pod mostem bystrze, które ciągnie się przez 20 metrów. Uwaga ! przy lewym brzegu stalowe kołki.</opispunktu> 
+    </punkt>
+    <punkt id="143" miejscowosc="Loryniec" 
+      ns="54.04851" we="17.89266" km="12.4" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Trzebiocha do Wdy.</opispunktu> 
+    </punkt>
+    <punkt id="142" miejscowosc="Loryniec" 
+      ns="54.04962" we="17.88889" km="12" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Pierwszy most w Loryńcu, drewniany.</opispunktu> 
+    </punkt>
+    <punkt id="139" miejscowosc="" 
+      ns="54.0527" we="17.84828" km="9.3" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Wdy do j. Schodno</opispunktu> 
+    </punkt>
+    <punkt id="138" miejscowosc="" 
+      ns="54.05421" we="17.84634" km="9" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek drogowy</opispunktu> 
+    </punkt>
+    <punkt id="137" miejscowosc="" 
+      ns="54.05548" we="17.83842" km="8.5" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście kanałku do Wdy, łączącego ją z jeziorem Ostry.</opispunktu> 
+    </punkt>
+    <punkt id="136" miejscowosc="" 
+      ns="54.0607" we="17.83819" km="6" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">drewniany mostek</opispunktu> 
+    </punkt>
+    <punkt id="135" miejscowosc="Krugliniec" 
+      ns="54.08391" we="17.81412" km="3.5" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="134" miejscowosc="" 
+      ns="54.08897" we="17.80251" km="2.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="133" miejscowosc="Lipusz" 
+      ns="54.09424" we="17.78548" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Duży zorganizowany biwak na prawym brzegu. Na ulicy Lipowej 12. Niestety nie ma wiat :(</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

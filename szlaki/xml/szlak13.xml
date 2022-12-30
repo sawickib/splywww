@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="13" nazwa="Liwa" wersja="2">
+<opis>Liwa to płynący przez wschodnią część Pojezierza Iławskiego prawy dopływ Wisły o długości 111km. Niezbyt popularny, atrakcyjny szlak kajakowy. Przy normalnym poziomie wody spławny od wsi Bronowo (wyżej pakować się chyba nie warto, bo tam jest to kanał płynący przez pola).</opis> 
+  <odcinek id="63" typ="rzeka" nazwa="Liwa poniżej Prabut do Brokowa" 
+      uciazliwosc="U4" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Bardzo przyjemny odcinek wiodący prawie cały czas przez las. Na całym odcinku szerokość rzeki ok. 8m, a przed zaporami szerzej. Opis powstał na podstawie spływu, który się odbył w dnaich 20-21 marca 2004. Jak na wiosenną porę, to woda nie była bardzo wysoka. Koryto rzeki było mocno zawalone drzewami i wielokrotnie z tego powodu trzeba było robić przenoski lub przeciągać kajak nad drzewem. Konkretne miejsca tych zwałek nie zostały wyszczególnione w poniższym opisie, ponieważ jest spora szansa, że rzeczka zostanie "wysprzątana" przed latem lub zwałek jeszcze przybędzie.</opis>
+    <punkt id="587" miejscowosc="Brokowo" 
+      ns="53.76734" we="19.01396" km="24.4" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most samochodowy. Tuż przed mostem bystrze WWI. 
+Przy moście parking samochodowy z ławeczkami i miejscem na ognisko.</opispunktu> 
+    </punkt>
+    <punkt id="586" miejscowosc="Brokowo" 
+      ns="53.76685" we="19.02054" km="23.6" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Bystrze WWI+ na progu usypanym z kamieni. Zaraz za bystrzem niskie gałęzie - nietrudno o wywrotkę.</opispunktu> 
+    </punkt>
+    <punkt id="585" miejscowosc="Brokowo" 
+      ns="53.76526" we="19.02094" km="23.4" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Niewielka kładka dla pieszych leżąca w wodzie. Kajaki przepychamy nad kładką.</opispunktu> 
+    </punkt>
+    <punkt id="581" miejscowosc="Szadowo" 
+      ns="53.77587" we="19.0568" km="17.2" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Długa przenoska - 150m. Najlepiej przenosić się przy budynku dawnego młyna. Trzeba wejść przez bramę na teren posesji.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na prawym brzegu przed mostem. 30m od drogi asfaltowej. Jedna wiata.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Spiętrzenie wody po dawnym młynie.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Raz na pół godziny coś przejedzie.</opispunktu> 
+    </punkt>
+    <punkt id="579" miejscowosc="Wola Sosenka" 
+      ns="0" we="0" km="12" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla samochodów.</opispunktu> 
+    </punkt>
+    <punkt id="578" miejscowosc="" 
+      ns="53.7679" we="19.08996" km="10.5" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Mały most samochodowy na leśnej drodze żwirowej.</opispunktu> 
+    </punkt>
+    <punkt id="577" miejscowosc="" 
+      ns="53.7547" we="19.1036" km="7.3" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="576" miejscowosc="" 
+      ns="53.75212" we="19.10635" km="6.8" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Niewielki betonowy most samochodowy. Zaraz za mostkiem niewieki próg wodny - spływalny bez problemów.</opispunktu> 
+    </punkt>
+    <punkt id="573" miejscowosc="" 
+      ns="53.75515" we="19.13828" km="3.6" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska przy budynku elektrowni - ok. 20m.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Spiętrzenie na elektrowni wodnej.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most samochodowy.</opispunktu> 
+    </punkt>
+    <punkt id="569" miejscowosc="Stary Młyn" 
+      ns="53.75329" we="19.15065" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">-</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce zdatne na biwak. Stoły, brak wiat.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Niewielki mostek. Da się przejechać samochodem.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niespływalne spiętrzenie wody przy elektrowni.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

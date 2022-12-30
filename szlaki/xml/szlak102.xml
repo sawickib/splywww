@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="102" nazwa="Modra" wersja="1">
+<opis>Prawostronny dopływ górnej Brdy. Rzeka dzika, słabo penetrowana ale urocza i tylko na kajaki jedynki. Jedyne ślady cywilizacji to leśne mostki. Dostępna przez cały rok, oprócz zimy.</opis> 
+  <odcinek id="431" typ="rzeka" nazwa="Odcinek pierwszy" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Odcinek leśno-łąkowy. W dnie rzeki żółty piasek a na brzegach las mieszany. Jeden most Nadleśnictwa i żadnych śladów bytności ludzi.</opis>
+    <punkt id="3627" miejscowosc="Łabędzie Bagno" 
+      ns="53.87649464" we="17.16178244" km="8.2" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most przy Leśnictwie Łabędzie Bagno. Najdogodniejsze miejsce na rozpoczęcie spływu. Dojazd leśną drogą z drogi asfaltowej na trasie Przechlewo - Koczała (Bielsko - pierwszy łuk na zjeździe do tartaku)</opispunktu> 
+    </punkt>
+    <punkt id="3628" miejscowosc="Bielsko" 
+      ns="53.87203064" we="17.17512398" km="6.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na leśnej drodze</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="432" typ="rzeka" nazwa="Odcinek środkowy" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Odcinek mocno łąkowy a wręcz bagienny. Rzeka rozdziela się na kilka mniejszych odnóg ale bez względu na to którą się wybierze i tak w pewnym punkcie się łączą.</opis>
+    <punkt id="3629" miejscowosc="Bielsko" 
+      ns="53.86530836" we="17.17482444" km="5.5" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="3630" miejscowosc="Bielsko" 
+      ns="53.85591643" we="17.1693366" km="3.5" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na leśnej drodze</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="433" typ="rzeka" nazwa="Odcinek trzeci" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis>Trzeci etap leśny z małym górskim akcentem. Modra wpływa do Brdy przed Rezerwatem "Przytoń".</opis>
+    <punkt id="3631" miejscowosc="Folbryk (Folbrycht)" 
+      ns="53.84392278" we="17.18853629" km="0.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="3632" miejscowosc="Folbryk (Folbrycht)" 
+      ns="53.84288536" we="17.19263369" km="0" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście do Brdy</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

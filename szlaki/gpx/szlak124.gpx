@@ -1,0 +1,721 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.71484498" lon="15.95449741">
+<name>270.20</name>
+<desc>Zapora wodna zbiornika retencyjnego Bukówka</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.71282181" lon="15.95745692">
+<name>269.90</name>
+<desc>Mostek na lokalne drodze. Wygodne miejsce rozpoczynania spływu. W pobliżu sporo miejsca na pozostawienie samochodu. Poniżej mostu wodowskaz Bukówka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.71012461" lon="15.96111153">
+<name>269.50</name>
+<desc>Pionowy próg o wysokości ponad 3 m ze sporym odwojem. Zachęcam do obniesienia tego miejsca chociaż nie jest to rzecz wygodna, bowiem nurt przed progiem jest wartki a brzegi wybetonowane i śliskie. Przenoska lewym brzegiem 50 m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.70982607" lon="15.96155804">
+<name>269.40</name>
+<desc>Most drogowy. Wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.70710329" lon="15.96323277">
+<name>269.10</name>
+<desc>Most drogowy. Za nim, po lewej, widoczny z wody krzyż pokutny</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.70778247" lon="15.97725202">
+<name>267.70</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.71169800" lon="15.99219485">
+<name>266.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.71308099" lon="15.99810014">
+<name>265.60</name>
+<desc>3 przęsłowy pochyły jaz ze znacznym odwojem. Przenoska lewym brzegiem, ścinając wyraźny łuk rzeki</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.72107843" lon="15.99278313">
+<name>264.50</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.73266866" lon="15.98285172">
+<name>262.50</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.74309796" lon="15.98790724">
+<name>261.10</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.74396579" lon="15.98804813">
+<name>261.00</name>
+<desc>Dopływ z lewej strony potoku Świdnik</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.74618304" lon="15.98922944">
+<name>260.70</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.75709226" lon="15.98692922">
+<name>259.30</name>
+<desc>Mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.76287966" lon="15.99010041">
+<name>258.60</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.77000851" lon="15.99979939">
+<name>257.40</name>
+<desc>Dwu członowy jaz z ruchomą zastawką. Istnieje możliwość przepłynięcia prawą częścią jazu po śliskiej pochylni, na końcu której znajduje się 1,5 m uskok. Krótka przenoska prawym brzegiem</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.76883111" lon="16.00098001">
+<name>257.20</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.77086138" lon="16.00939093">
+<name>256.50</name>
+<desc>Dopływ z lewej strony potoku Bystra</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.77088723" lon="16.00965927">
+<name>256.40</name>
+<desc>Wiadukt drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.77197531" lon="16.01233792">
+<name>256.20</name>
+<desc>Jaz dwu członowy, możliwy do przeskoczenia po śliskiej pochylni. Ewentualna przenoska po pochylni jazu</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.77792860" lon="16.02225717">
+<name>254.90</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.78111320" lon="16.02653916">
+<name>254.50</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.78259331" lon="16.02771850">
+<name>254.20</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.78357414" lon="16.02782672">
+<name>254.10</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.78499773" lon="16.03212197">
+<name>253.70</name>
+<desc>Kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.78600369" lon="16.03338905">
+<name>253.60</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.78609993" lon="16.03390989">
+<name>253.50</name>
+<desc>Kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.78637739" lon="16.03540615">
+<name>253.40</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.78669999" lon="16.03898160">
+<name>253.20</name>
+<desc>Dopływ z prawej strony rzeki Zadrna</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.78712174" lon="16.03951890">
+<name>253.10</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.79141146" lon="16.04009555">
+<name>252.60</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.80081287" lon="16.03775770">
+<name>251.20</name>
+<desc>Prożek do spłynięcia</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.80840839" lon="16.03470099">
+<name>249.90</name>
+<desc>Zniszczony fragment jazu</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.81127494" lon="16.03747105">
+<name>249.50</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.81436795" lon="16.04200764">
+<name>249.00</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.81664639" lon="16.04117135">
+<name>248.70</name>
+<desc>Zastawka 3 przęsłowa na terenach wodonośnych. Przenoska prawym lub lewym brzegiem 30 m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.81869028" lon="16.04552816">
+<name>248.30</name>
+<desc>Dopływ z prawej strony rzeki Lesk</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.82020587" lon="16.04412614">
+<name>248.10</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.82263315" lon="16.04218156">
+<name>247.80</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.82638127" lon="16.04031632">
+<name>247.30</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.84237972" lon="16.02899855">
+<name>244.90</name>
+<desc>Stalowa kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.84387409" lon="16.02191890">
+<name>244.30</name>
+<desc>Most drogowy. Wygodne miejsce wodowania, w pobliżu sporo miejsca na zaparkowanie samochodu. Sklep 100 m powyżej mostu na prawym brzegu</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.96377652" lon="15.64523238">
+<name>196.30</name>
+<desc>Potężna zapora wybudowana przede wszystkim w celu ochrony przeciwpowodziowej miejscowości leżących poniżej, w dolinie Bobru. Ze względu na swoje położenie, miejsce to jest masowo odwiedzane przez turystów. Na wysokości korony zapory, po prawej stronie znajduje się restauracja. Poniżej zapory elektrownia wodna Pilchowice I. Z uwagi na rozmiary budowli wymuszające bardzo długą i niewygodną przenoskę, dobrze jest zaplanować etapy do, i od tego miejsca</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.96370501" lon="15.64051146">
+<name>196.00</name>
+<desc>Most drewniany poniżej zapory. Pod mostem wodowskaz, wskazania którego można zdalnie obserwować w internecie. Po prawej stronie mostu, przy tablicach informacyjnych sporo miejsca na samochody. Zejście do wody niezbyt wygodne, po trawie porastającej brzegi, wzmocnione dużymi kamieniami. Po lewej stronie mostu, przy zabudowaniach wodowanie wydaje się być bardziej wygodne. Zaraz za mostem kamienne bystrze, dalej głęboka i ciemna malownicza dolina. Należy rozważyć ewentualne rozpoczynanie etapu od tego miejsca przy niskiej wodzie. Wprawdzie początkowy etap do Pilchowic jest malowniczy, ale dalej są dwie uciążliwe przenoski, z długim brodzeniem w płytkiej wodzie i po śliskich kamieniach. Niewiele osób pływa tym odcinkiem, a zdecydowana większość komercyjnych spływów rozpoczyna się dopiero w Nielestnie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.96950110" lon="15.64270857">
+<name>195.20</name>
+<desc>Z lewej strony ujście dzikiego Potoku Maciejowickiego, w dolinie którego znajdują się małe wodospady i groty skalne</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.97379403" lon="15.64181511">
+<name>194.80</name>
+<desc>Koryto zwęża się i prosto, przez widoczną zastawkę woda płynie na próg przy zakładzie regeneracji filtrów. Przy niskich stanach większość wody płynie prosto, natomiast nieznaczna jej część przelewa się przez szeroki próg w lewo, za którym rozdziela się na kilka płytkich koryt. Przenoska przez stary kamienno drewniany próg i zarośla do miejsca, gdzie łączą się poszczególne koryta i daje się płynąć, około 200m. Jaz jest dość długi i trudno na nim wytypować dobre miejsce na przerzucenie sprzętu. Najlepiej zrobić to najbliżej zastawki i udać się korytem częściowo wypełnionym wodą, tu przenoska jest najkrótsza</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.97617241" lon="15.64077990">
+<name>194.50</name>
+<desc>Zastawka fabryki filtrów. Brzeg obmurowany, wysoki i stromy</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.97981281" lon="15.63994998">
+<name>194.00</name>
+<desc>Kratownicowy most drogowy. Przed nim, po prawej stronie można wodować się wygodnie w pobliżu leżącej, kamiennej płyty. Poniżej rozpoczyna się rozlewisko przed kolejną zaporą</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.98578765" lon="15.64511646">
+<name>193.30</name>
+<desc>Jaz oraz zastawka na potrzeby elektrowni wodnej Pilchowice II. Przenoska w lewo przez betonowy mur na wysokości tafli wody, tuż przy 5 przęsłowej zastawce, na odległość 10m. Wodowanie z wielkich głazów poniżej betonowej pochylni na granicy z zastawką. Dalej, przy niskiej wodzie 2 km uciążliwego odcinka z małą ilością wody. Brodzenie zdecydowanie dominuje nad elementami pływania, ale jest ładnie ze względu na to, że rzeka podmywa lewą, skalną burtę doliny. W końcówce odcinka bobrowa tama oraz liczne wielkie głazy osunięte ze zbocza</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.99266362" lon="15.66160416">
+<name>190.90</name>
+<desc>Zapora elektrowni wodnej Pilchowice II</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.99303634" lon="15.66293606">
+<name>190.80</name>
+<desc>Kratownicowy most kolejowy tuż za elektrownią Pilchowice II i połączeniem rzeki z młynówką. Za mostem po lewej stronie możliwość wodowania z wygodnym dostępem do wody, z gruntowej drogi</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.99792141" lon="15.67118060">
+<name>190.00</name>
+<desc>Kratownicowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.99936292" lon="15.67175602">
+<name>189.80</name>
+<desc>Z prawej strony ujście rzeki Lipka, zwanej też Chrośnickim Potokiem. Zaraz za ujściem duży parking wykorzystywany również przez spływy komercyjne. Poniżej spory ruch na wodzie, zwłaszcza w letnie ciepłe dni, przy ładnej pogodzie. Liczne żwirowe przemiały</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.01464689" lon="15.67785244">
+<name>186.80</name>
+<desc>Z prawej strony uchodzi potok Modrzewka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.01800007" lon="15.67899189">
+<name>186.50</name>
+<desc>Most drogowy, zaraz za nim z prawej strony wpada potok Wierzbnik</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.01843553" lon="15.66820437">
+<name>185.70</name>
+<desc>Most drogowy. Przed mostem po prawej stronie pole biwakowe z bufetem. Poniżej odcinek malowniczy w zalesionej dolinie, z licznymi żwirowymi przemiałami i bystrzami</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.02440728" lon="15.66139482">
+<name>184.90</name>
+<desc>Z lewej strony wpada rzeczka Jamna</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.03674083" lon="15.67358512">
+<name>182.70</name>
+<desc>Z prawej strony ujście Złotego Strumienia</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.05010222" lon="15.66700977">
+<name>180.60</name>
+<desc>Most drogowy. W tym miejscu, po prawej stronie kończy spływ większość imprez komercyjnych. Zaraz za mostem kamienna pochylnia jazu, piętrząca wodę na potrzeby elektrowni, do której krótki kanał odchodzi w lewo. W zależności od poziomu wody przenoska przez suchą pochylnię jazu, albo z prawej strony, przez drogę, około 100m. Dalej przyjemny odcinek zadrzewiony, z podmytymi skarpami i żwirowymi bystrzami</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.05053133" lon="15.66582651">
+<name>180.50</name>
+<desc>Elektrownia Marczów</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.07291392" lon="15.65113528">
+<name>177.00</name>
+<desc>W lewo odchodzi tzw. stare koryto Bobru, w prawo jaz w postaci pochylni i 2 m pionowego progu, z przepławką dla ryb z lewej strony. Pod progiem jest dosyć płytko. Wygodna przenoska prawym brzegiem po pomostach i slipach na odległość 50m. Dobry dojazd do samej wody gruntową drogą od strony miejscowości Sobota. Poniżej kamienne bystrza</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.07935259" lon="15.64554299">
+<name>176.70</name>
+<desc>Elektrownia Dębowy Gaj</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.08019799" lon="15.65656917">
+<name>176.10</name>
+<desc>Most drogowy. Płynąć lewym przęsłem ponieważ pod prawym ponoć sterczą stalowe pręty</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.08184750" lon="15.65602966">
+<name>175.90</name>
+<desc>Z lewej strony powraca młynówka, czyli faktycznie stare koryto Bobru</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.08371385" lon="15.65943646">
+<name>175.60</name>
+<desc>Z prawej strony wpada potok Sobótka. Dalej odcinek początkowo zadrzewiony, a następnie całkowicie zalesiony, aż do Lwówka Śląskiego. Nurt wyraźny, malowniczo</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.10755377" lon="15.60318236">
+<name>169.60</name>
+<desc>Prosto, przez podniesioną zastawkę większość wody płynie kanałem do elektrowni Lwówek Śląski. Nie należy tam wpływać ponieważ przy elektrowni brzegi są wysokie i nie ma możliwości wykonania wygodnej przenoski. Przed zastawką w prawo próg betonowy, przez który można wykonać przenoskę. Wygodne miejsce zakończenia etapu z dojazdem do samej wody od ul. Rybnej, z polanką umożliwiającą dziki biwak znajduje się 100m przed jazem, po lewej stronie. Tuż za linią drzew zbudowano prowizoryczny slip pomocny w lądowaniu</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.11033660" lon="15.60177759">
+<name>169.30</name>
+<desc>W prawo obniżenie do kanału ulgi, dla nadmiaru wód opływających z prawej stronę tzw. Wyspę Ulgi</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.10835082" lon="15.59761375">
+<name>169.20</name>
+<desc>Elektrownia Lwówek Śląski</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.11030475" lon="15.59926015">
+<name>169.10</name>
+<desc>Most drogowy przy ul. Betleja. Zaraz za mostem kamienny, zwężający się próg, najczęściej zbyt płytki na swobodne przepłynięcie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.10937921" lon="15.59622350">
+<name>169.05</name>
+<desc>Z lewej strony ujście potoku Srebrna</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.10946863" lon="15.59615503">
+<name>169.00</name>
+<desc>Tymczasowo nieczynny most drogowy przy ul. Betleja. Wygodne wodowanie w związku z tym, że most jest nieczynny i nie ma na nim ruchu. W przypadku niskiej wody zmiennie podawanej przez elektrownię, poniżej mostu mogą wystawać kamienie, aż do miejsca połączenia z głównym korytem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.11194345" lon="15.59488787">
+<name>168.80</name>
+<desc>Połączenie głównego koryta z młynówką</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.11520836" lon="15.59042950">
+<name>168.30</name>
+<desc>Kładka przy ul. Działkowej, przed i pod nią pale po starej konstrukcji mostu</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.11713457" lon="15.58936924">
+<name>168.10</name>
+<desc>Kratownicowy most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.11759425" lon="15.58885886">
+<name>168.00</name>
+<desc>Z lewej strony dopływa rzeczka Płóczka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.12012648" lon="15.58629621">
+<name>167.70</name>
+<desc>Z prawej strony uchodzi rzeka Widnica</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.12431316" lon="15.58493130">
+<name>167.10</name>
+<desc>W lewo próg, pochylnia porośnięta glonami. W zależności od ilości wody możliwość nieco tępego ślizgu po mokrej pochylni. W prawo odchodzi kanał do młyna i elektrowni</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.12412995" lon="15.58209521">
+<name>166.90</name>
+<desc>Tzw. most brunowski na drodze nr 297. Tuż za mostem do niedawna funkcjonował dosyć wymagający próg, bystrze z wielkich głazów. Obecnie, wybudowany poniżej jaz elektrowni piętrzy wodę na tyle, że próg w całości jest zalany i znajduje się poniżej jej lustra. Pozostały kamienie płytko pod powierzchnią, należy więc przepływać ostrożnie. Poniżej rozlewisko przed jazem elektrowni z jedyną na całym odcinku, konieczną do pokonania zwałką, z powalonego wielkiego dębu</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.12653742" lon="15.58329670">
+<name>166.80</name>
+<desc>Elektrownia Brzezie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.12932663" lon="15.57630568">
+<name>166.10</name>
+<desc>Zapora elektrowni wodnej z 2005 roku. Przenoska lewym brzegiem po trawie na odległość około 80m. Wyjście na umocnione kamieniami i siatką nabrzeże w pobliżu charakterystycznej, owocującej jabłonki. Zejście w dół ułatwiają betonowe schody, wzdłuż których można opuszczać kajaki, chociaż nie jest to wygodne ze względu na stalową barierkę. Wodowanie tuż za konstrukcją zapory. W pobliżu elektrowni, na dolnej wodzie stoi wodowskaz. Wskazania poziomu 19398 gwarantują dobre warunki wodne poniżej.
+Ze względu na to, że elektrownia wybudowana została nie tak dawno, nie ma jej w dostępnych w internecie opisach oraz papierowych przewodnikach [podobnie jak jeszcze kilku innych elektrowni na Bobrze]. Skutkiem tego, dalszy fragment rzeki na odcinku około 5 km wygląda całkowicie inaczej, ponieważ opisane jest tam koryto rzeki. Obecnie płynie się przez rozlewiska jezior Rakowickich I i II</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.13679630" lon="15.57058279">
+<name>165.10</name>
+<desc>Wąski przesmyk pomiędzy wyspą z prawej, a piaszczystym półwyspem z lewej strony, na sztucznym, powyrobiskowym zbiorniku, zwanym jeziorem Rakowickim I. Na półwyspie można znaleźć wiele dogodnych miejsc na dzikie biwakowanie, jednak od strony lądu wjazd na półwysep jest zamknięty i oznakowany, jako teren prywatny. W odróżnieniu od zaludnionego w sezonie letnim, następnego jeziora Rakowickiego II, jezioro Rakowickie I jest puste, zarówno na brzegach, jak i na wodzie</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.14427616" lon="15.56482160">
+<name>164.20</name>
+<desc>Konstrukcja stalowa podtrzymująca taśmociąg przechodzący przez rzekę. Krótki odcinek wąskiej, stojącej wody oddzielającej jeziora Rakowickie I i II. Na brzegach zaczynają pojawiać się pomstujący wędkarze</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.15465191" lon="15.55489812">
+<name>162.70</name>
+<desc>Przesmyk pomiędzy tzw. Cyplem Rakowickim z prawej, a piaszczystym półwyspem z lewej strony, w połowie długości jeziora Rakowickiego II. Jezioro to w sezonie letnim jest masowo okupowane przez wypoczywających turystów. Po wodzie pływa sporo jednostek, również silnikowych, a ciekawsze miejsca na brzegach zajęte są przez wędkarzy, trudno więc tu o dobre miejsce na biwak. Woda w jeziorze Rakowickim II jest znacznie bardziej przejrzysta niż w Rakowickim I, być może z powodu prowadzonego wciąż wydobycia piasku w kopalni, po prawej stronie pierwszego jeziora</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.16119167" lon="15.55067632">
+<name>161.90</name>
+<desc>Wypływ z jeziora Rakowickiego II, po prawej stronie ujście starego koryta Bobru, zasilonego wodami rzeczki Osownia</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.16249772" lon="15.54733542">
+<name>161.70</name>
+<desc>Z lewej strony ujście potoku Stoczek</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.16476836" lon="15.54701156">
+<name>161.50</name>
+<desc>Bystrze na rozmytym progu po starym, nieistniejącym młynie, z charakterystycznym wirkiem, na którym należy odbić mocno w lewo. Poniżej odcinek leśny z kilkoma przewróconymi drzewami</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.17131471" lon="15.54768157">
+<name>160.70</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.17994641" lon="15.54149315">
+<name>159.50</name>
+<desc>Jaz na potrzeby elektrowni Włodzice. Przenoska kilkanaście metrów, prawą stroną przez suchą, betonową pochylnię jazu i 1,5 m prożek</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.18056879" lon="15.54175921">
+<name>159.40</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.18171519" lon="15.54132262">
+<name>159.30</name>
+<desc>Elektrownia na młynówce</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.18206228" lon="15.54231849">
+<name>159.20</name>
+<desc>Powrót młynówki z lewej strony. Poniżej odcinek malowniczy, ze żwirowymi przemiałami, powalonymi drzewami i podmytymi skarpami</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.19473377" lon="15.54070177">
+<name>157.60</name>
+<desc>Z prawej strony ujście Żeliszowskiego Potoku</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.21057370" lon="15.51862882">
+<name>153.90</name>
+<desc>Zapora dla elktrowni Kraszewice [choć miejscowość to Kraszowice], do której młynówka w lewo doprowadza wodę przez uniesione 4 zastawki. Betonowy jaz z szerokim przelewem z prawej strony. Najkrótszą przenoskę można wykonać przez suchy przelew, na środku konstrukcji, pomiędzy 4 zamkniętymi przęsłami zastawki jazu, a betonowym progiem. Znajduje się tu niewidoczny z daleka wąski fragment pochylni, w którą można wpłynąć i wygodnie wysiąść z kajaka. Sprzęt przenosi się bezpośrednio przez konstrukcję jazu, po betonowej pochylni i kilku schodach przelewu. Wodowanie pośród zarośli na jednym z kanalików spływających bystro spod zastawki</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.21256061" lon="15.51647241">
+<name>153.70</name>
+<desc>Most kratownicowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.21176717" lon="15.51424208">
+<name>153.60</name>
+<desc>Elektrownia na młynówce</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.21284219" lon="15.51254915">
+<name>153.40</name>
+<desc>Powrót wody z elektrowni. Dalej stosunkowo dziko i ładnie. Przewrócone drzewa, podmyte skarpy, las na brzegach, miejscami bystro na żwirowych przemiałach. Pojawiają się pierwsze oznakowania szlaku wykonane przez firmę kajakową z Bolesławca</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.23210137" lon="15.49698194">
+<name>150.70</name>
+<desc>Z lewej strony ujście Mierzwińskiego Potoku</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.24406481" lon="15.51146621">
+<name>148.70</name>
+<desc>Za zakrętem rzeki, od wewnętrznej strony plaża żwirowo piaszczysta, naprzeciw wysokiej skarpy. Miejsce to jest dobrze dostępne od lądu i zaznaczone na mapach, jako rekreacyjne. Tuż za plażą, po prawej stronie, w skarpie nad rzeką widoczne są wychodnie skał piaskowcowych oraz ich fragmenty leżące w korycie rzeki</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.25626139" lon="15.53289059">
+<name>146.20</name>
+<desc>Ujście rzeczki Rakówka z prawej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.25810211" lon="15.54652036">
+<name>145.10</name>
+<desc>Kładka dla pieszych pomiędzy ul. Gdańską i Spacerową</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.25978456" lon="15.54675689">
+<name>144.90</name>
+<desc>Rozmyty próg, przekierowujący niegdyś wodę na młynówkę zasilającą tzw. Dolne Młyny, przy ul. Mostowej. W zależności od ilości wody próg można spłynąć, najlepiej z lewej strony, jednak tworząca się na nim fala sprawi, że kajaki z otwartymi kokpitami z pewnością nabiorą nieco wody</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.26479474" lon="15.54667375">
+<name>144.30</name>
+<desc>Betonowy most drogowy przy ul. Generała Augusta Emila Fieldorfa Nila </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.26908647" lon="15.55084447">
+<name>143.80</name>
+<desc>Wizytówka Bolesławca. Wysoki i bardzo efektowny most kolejowy ze skomplikowanym progiem o znacznej sumarycznej różnicy wysokości, rozłożonej na kilka poziomów. Próg zaczyna się łagodną długą pochylnią, następnie opada pionowymi dwoma uskokami po 0,8 m, kolejny poziom zakończony jest betonowymi zębami, a na koniec około 100 m kamiennego silnego bystrza z wielkimi kawałkami żelbetu z wystającymi prętami zbrojeniowymi. Zdecydowanie odradzam spływanie tego miejsca. Przenoska możliwa jest z lewej i prawej strony, jednak z prawej jest wygodniej. Miejsce to jest masowo odwiedzane przez mieszkańców miasta, a w ciepłe letnie dni nie trudno tu o kąpiących się w rzece. Startują tu również zorganizowane spływy komercyjne, dlatego też od tego miejsca do Trzebienia [126,4 km] należy spodziewać się wzmożonego ruchu na rzece</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.27117423" lon="15.55334260">
+<name>143.60</name>
+<desc>Most drogowy przy ul. Mostowej. Wygodny dojazd samochodem z możliwością zjazdu pod sam most [2020 r.]. W pobliżu duży plac na samochody. Poniżej odcinek pośród drzew, rzeka szeroka z wyraźnym nurtem, kilka kamiennych bystrzy oraz żwirowych przemiałów</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.28309890" lon="15.55612354">
+<name>142.10</name>
+<desc>Z prawej strony dopływ z oczyszczalni niedoczyszczonych ścieków. Przez pewien czas towarzyszyć będzie zapach detergentów</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.29793075" lon="15.56494457">
+<name>139.80</name>
+<desc>Próg o wysokości 0,8m z tworzącym się poniżej niewielkim odwojem, tzw próg z szynami. W zależności od poziomu wody, spływać po rozpoznaniu przeszkody, najlepiej z prawej strony. Na koronie progu w odległości co około 1,5-2m sterczą pionowo w górę 10-30 cm fragmenty stalowej konstrukcji jazu, o które zaczepia się płynąca rzeką roślinność, a pomiędzy które należy trafić nie chcąc uszkodzić kajaka. Brzegi jazu są obmurowane i wysokie. Tuż przed progiem, w prawo odchodzi podziemny kanał. Większość płynących robi tu przenoskę prawym brzegiem 80m. Lądowanie i wodowanie niezbyt wygodne ze stromego brzegu, w asyście dużych głazów</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.29917093" lon="15.56633242">
+<name>139.60</name>
+<desc>Oznakowane zwalisko drzew</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.31146784" lon="15.56815330">
+<name>138.20</name>
+<desc>Most autostrady A4</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.32561152" lon="15.57060775">
+<name>136.10</name>
+<desc>Most drogowy. Za mostem, po lewej stronie wodowskaz, wskazania którego można obserwować zdalnie w internecie. Poziom 79 gwarantuje dobre warunki wodne na reprezentowanym odcinku, jedynie miejscami przyciera się na żwirowych przemiałach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.32805853" lon="15.56745946">
+<name>135.70</name>
+<desc>Z prawej strony ujście Bobrzycy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.35075170" lon="15.58346697">
+<name>131.70</name>
+<desc>Most drogowy, możliwe dogodne wodowanie i lądowanie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.36384901" lon="15.57944929">
+<name>129.80</name>
+<desc>Most autostrady A18, poniżej ładne piaszczyste skarpy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.37455634" lon="15.58533682">
+<name>128.20</name>
+<desc>Charakterystyczny, bo wiszący, żółty most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.38799055" lon="15.58703237">
+<name>126.40</name>
+<desc>Opisany nazwą miejscowości most drogowy z wygodnym dostępem. Tu kończy większość spływów zorganizowanych. Poniżej zaczyna się długa cofka zapory elektrowni wodnej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.40612638" lon="15.59370213">
+<name>124.00</name>
+<desc>Zapora na potrzeby elektrowni Olszna [nie Oleszna], do której kanał odchodzi w prawo. Elektrownia nie jest widoczna z okolic jazu. Przenoska przez jaz lewym brzegiem po trawie [wyjście mało ewidentne i zarośnięte roślinnością], na odległość około 80m, przez betonową pochylnię za jazem i ścieżkę w trzcinach. Wodowanie na bystrej i wąskiej strudze wypływającej z zastawek, miejscami płytkiej, o żwirowym dnie. Można też przenoskę przez jaz wykonać z prawej strony, gdzie przy samym jazie znajduje się betonowy, niewidoczny z daleka mały slip. Kajaki jednak trzeba tu przerzucić przez barierkę, a poniżej jazu betonowa pochylnia jest znacznie bardziej stroma, niż na lewym brzegu</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.41184430" lon="15.59593650">
+<name>123.40</name>
+<desc>Elektrownia Olszna [nie Oleszna]</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.41399700" lon="15.59440927">
+<name>123.10</name>
+<desc>Wąski most drogowy. Na lewym brzegu, przed mostem mała polanka z dobrym dostępem do wody i miejscem na 2 samochody</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.41599115" lon="15.59360579">
+<name>122.80</name>
+<desc>Most kratownicowy, wyglądający na nieużytkowany od lat</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.42256286" lon="15.58906326">
+<name>121.90</name>
+<desc>Po prawej stronie długie składowisko piasku wydobytego w kopalni, przypominające naturalne pustynne wydmy</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.44122600" lon="15.59016728">
+<name>119.45</name>
+<desc>Łukowy most kolejowy i drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.44175974" lon="15.58985869">
+<name>119.40</name>
+<desc>Próg o wysokości około 0,5 m zaraz za mostem kolejowym, za nim kamienne bystrze. Spływać ostrożnie po rozpoznaniu przeszkody</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.45818664" lon="15.59213745">
+<name>117.20</name>
+<desc>Betonowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.46806990" lon="15.60729060">
+<name>115.30</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.47455150" lon="15.60570928">
+<name>114.60</name>
+<desc>Zapora elektrowni wodnej Leszno Górne. Przenoska lewym brzegiem około 120m. Wyjście z wody tuż przed betonowym przyczółkiem jazu pośród gęstej roślinności, dalej wąską ścieżką pośród drzew i krzaków malin oraz jeżyn, aż za ujście strumyka odwadniającego, widoczne po lewej stronie spore starorzecze</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.47546629" lon="15.60533344">
+<name>114.50</name>
+<desc>Most drogowy. Wygodne wodowanie z lewego brzegu pomiędzy jazem a mostem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.48974394" lon="15.61147005">
+<name>112.60</name>
+<desc>Z prawej strony powrót młynówki</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.50541096" lon="15.60939964">
+<name>110.60</name>
+<desc>Zapora elektrowni Leszno Dolne. Przenoska lewym brzegiem około 30m. Wodowanie z kamienistego nabrzeża, tuż za ścianą z larsenów</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.51690335" lon="15.59773590">
+<name>108.90</name>
+<desc>Most drogowy, przed i za mostem kamienne bystrza</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.53370787" lon="15.58006917">
+<name>105.00</name>
+<desc>Na lewym brzegu prowizoryczna wiata i trochę miejsca na dziki biwak</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.54510398" lon="15.57203777">
+<name>103.40</name>
+<desc>Zapora elektrowni Dziećmiarowice. Przenoska lewym brzegiem około 70m. Wodowanie z piaszczysto-żwirowej plaży poniżej stromej skarpy</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.56058525" lon="15.54405554">
+<name>100.50</name>
+<desc>Cofka przed zaporami elektrowni i nieczynnego młyna w Szprotawie. W prawo, usypana grobla z betonowych trylinek i gruzu - brak swobodnego przepływu. Chcąc wpłynąć na młynówkę, należy wykonać tu krótką przenoskę przez groblę i gruntową drogę. Na rozlewisku młynówki [Zalew Bobru], po prawej stronie wygodny dostęp do wody, z dojazdem samochodem i dużą ilością miejsca, na tyłach szkoły i osiedla bloków przy ul. Waszyngtona i Dębowej</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.56129235" lon="15.54114987">
+<name>100.30</name>
+<desc>Zapora elektrowni Szprotawa</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.56263545" lon="15.54072768">
+<name>100.20</name>
+<desc>Suchy kanał ulgi w lewo pomiędzy zalewem, a dolną wodą na Bobrze poniżej elektrowni. Na lewym brzegu, przed widocznym mostem i jazem, z górującym nad nimi monumentalnym budynkiem nieczynnego młyna, znajduje się obniżony, betonowy murek przelewowy ułatwiający wyjście z wody. Wygodne miejsce zakończenia etapu ze sporym placem na samochody, w pobliżu rosnącej, charakterystycznej samotnej sosny. Mimo znaku zakazu miejscowi tu wjeżdżają i parkują</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.56295397" lon="15.54043250">
+<name>100.10</name>
+<desc>Most drogowy, a pod nim jaz zastawka przy wysokim budynku młyna</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.56211664" lon="15.53289120">
+<name>99.60</name>
+<desc>Ujście Szprotawy do Bobru</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.56017432" lon="15.46562883">
+<name>93.30</name>
+<desc>Ujście rzeczki Ruda z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.55987938" lon="15.46035184">
+<name>93.00</name>
+<desc>Ujście rzeczki Stawna z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.57508468" lon="15.39476660">
+<name>86.70</name>
+<desc>Ujście Kwisy z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.63430408" lon="15.30579013">
+<name>72.80</name>
+<desc>Ujście Czernej z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.66608166" lon="15.30858492">
+<name>68.30</name>
+<desc>Ujście rzeczki Rynica z prawej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.79527326" lon="15.24135631">
+<name>48.90</name>
+<desc>Ujście rzeki Brzeźnica z prawej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.05124178" lon="15.07202454">
+<name>0.00</name>
+<desc>Ujście Bobru do Odry</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

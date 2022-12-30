@@ -1,0 +1,41 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.22066485" lon="16.86307134">
+<name>10.60</name>
+<desc>Most na lokalnej drodze. W pobliżu sporo miejsca na pozostawienie samochodów. Wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.20922155" lon="16.84863782">
+<name>7.90</name>
+<desc>Betonowy most na lokalnej drodze. Poniżej odcinek leśny z pojedynczymi zwałkami, w większości poprzecinanymi w sposób umożliwiający swobodne przepłynięcie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.22825761" lon="16.81215172">
+<name>2.50</name>
+<desc>3 przęsłowy jaz - zastawka przy elektrowni, o wysokości około 3 m. Nad jazem drewniany most na lokalnej drodze. Przenoska lewym brzegiem po trawie około 30 m. Przed elektrownią, po lewej stronie użytek ekologiczny Uroczyska Głomi.
+Na dolnej wodzie poniżej jazu znajduje się wodowskaz, nie jest on jednak objęty odczytami automatycznymi, a jego wskazania nie są wykazywane w serwisie pogodowym IMGW-PIB. W dniu spływu wodowskaz wskazywał poziom 128, co gwarantuje bardzo dobre warunki wodne</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.22105327" lon="16.79214778">
+<name>0.50</name>
+<desc>3 przęsłowy jaz przy elektrowni, o wysokości około 3 m, zakończony 5 metrową pochylnią. W przypadku podjęcia decyzji o spłynięciu jazu, należy zrobić to skrajnie lewym przęsłem uważając na wystający z lewej ściany metalowy pręt oraz mając na uwadze, że właściciel elektrowni nie wykazuje entuzjazmu na widok kajakarzy spływających ów próg</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.22077627" lon="16.79147975">
+<name>0.40</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.21797413" lon="16.79094692">
+<name>0.00</name>
+<desc>Ujście Głomi do Gwdy. Wygodnym miejscem zakończenia spływu jest parking po prawej stronie przed mostem na Gwdzie, obok Baru Bieszczadzkiego, około 0,5 h w dół Gwdą</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

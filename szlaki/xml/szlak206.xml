@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="206" nazwa="Mogilnica + Kanał Prut" wersja="1">
+<opis>Rzeka w województwie wielkopolskim. Kiedyś, przed skanalizowaniem była prawym dopływem Obry, dzisiaj, zasadniczo jej wody stanowią lewy dopływ Warty, z o wiele mniejszym udziałem w zasilaniu Obry. Można spotkać różne opisy, przebieg i nazewnictwo, jednak oficjalnie, Mogilnica początek bierze pomiędzy Koninem a Lubosiną w gminie Pniewy, płynąc generalnie na południe. Przed miejscowością Niewierz, z prawej strony zasila ją Mogilnica Górna, w Wojnowicach, z lewej Mogilnica Wschodnia, a w Troszczynie, z prawej Mogilnica Zachodnia. Do tego miejsca, rzeka czasami zwana jest Mogilnicą Środkową albo Mogielnicą. Na potrzeby niniejszego opracowania, kilometraż liczony jest wspólnie z Kanałem Prut, w który rzeka przechodzi w swym dolnym biegu. Poza tym, wg takiego klucza podawany jest również kilometraż na tabliczkach, zlokalizowanych na kilku obiektach hydrotechnicznych. Rzeka mocno zróżnicowana. Generalnie, uregulowana poprzez pogłębienie i wyprostowanie koryta oraz przedzieleniej jej w kilku miejscach jazami. Chociaż wyraźnie skanalizowana, w kilku miejscach wygląda na dziką za sprawą działalności bobrów i zalegania w korycie drzew, tworzących naturalne przeszkody. Przepływa przez obszary leśne, a na otwartych terenach, jej brzegi porośnięte są szpalerami drzew, gdzie staje się malownicza. W zależności od odcinka woda raczej mętna, a dno zamulone. Tam, gdzie płynie szybciej [na wysokości Kotowa i Konojada] dno jest przeważnie piaszczyste i żwirowe. Opis powstał na podstawie spływu z początku maja 2022 i zrobiony jest dla zastanych warunków. W innych warunkach i porach roku rzeka może wyglądać zupełnie inaczej, np. być mocno zarośnięta trzcinami. Wodowskaz Łęki Małe na 7,6 km, w dniu spływu wskazywał poziom 128, wodowskaz Maksymilianowo na 5,9km - 090, natomiast wodowskaz Kościan na Kanale Kościańskim, poziom 126. W takich warunkach odcinek z miejscowości Dalkowy Mokre do końca Kanału Prut, 4xK1 zajął około 8h. Na większości odcinków wody było wystarczająco dla lekkich K1, jedynie odcinek poniżej mostu na drodze nr 36 [18,6km] jest poszerzony i tam darło się po kamieniach. Poza tym, niedobór wody występował poniżej zastawki w Sepienku [3,6km], aż do połączenia z Kanałem Mosińskim</opis> 
+    <punkt id="6725" miejscowosc="Dalkowy Mokre" 
+      ns="52.28253246" we="16.45436358" km="27" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na asfaltowej drodze do Troszczyna. Mało wygodny dostęp do wody ze względu na głębokie koryto, strome brzegi i mocno zarośniętą okolicę. W pobliżu mostu nie ma dobrego miejsca na pozostawienie samochodu. Poniżej, odcinek niby w lesie, ale las znacząco oddalony od linii wody. Płynie się w głębokim korycie, w otwartym terenie, przez co niewiele widać. Po drodze kilka łatwych zwałek. Chociaż koryto jest pogłębione i uregulowane, rzeka kręci pomiędzy roślinnością wodną, pośród której tworzą się niewielkie zatory ze wszystkiego, co płynie w dół</opispunktu> 
+    </punkt>
+    <punkt id="6726" miejscowosc="Dalkowy Mokre" 
+      ns="52.28052589" we="16.45267076" km="26.7" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony dopływa Mogilnica Zachodnia, niosąca podobną ilość wody. Od tego miejsca warunki wodne znacząco się polepszają</opispunktu> 
+    </punkt>
+    <punkt id="6727" miejscowosc="Urbanowo" 
+      ns="52.27126894" we="16.45332215" km="25.5" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zamknięty jaz i zastawka na równoległych ciekach. Obiekt lata świetności ma już za sobą, jest mocno zaniedbany. Pomimo obecności na nim tabliczki z informacją, że jest to jaz ze stopniem [wodnym], nie piętrzy on wody i raczej nie spełnia swojej funkcji. Obowiązkowa, krótka, niewygodna przenoska. Brzegi wysokie i strome, przy samej zastawce, dodatkowo wyłożone betonowymi płytami. Możliwy dojazd od strony Urbanowa drogą, wyłożoną betonowymi płytami. Poniżej pojedyncze zwałki, możliwe do przejścia w pojedynkę. Wg tabliczki jest to 24+400 km rzeki</opispunktu> 
+    </punkt>
+    <punkt id="6728" miejscowosc="Woźniki" 
+      ns="52.26047784" we="16.47190267" km="23.5" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze asfaltowej w środku lasu. Niezbyt wygodny dostęp do wody ze stromych, wysokich brzegów. W odległości około 1 km znajduje się malowniczo położony, wart odwiedzenia, klasztor. Poniżej odcinek łatwych zwałek ze sporą bobrową tamą. Jest to obszar objęty ochroną Natura 2000 Dolina Mogielnicy</opispunktu> 
+    </punkt>
+    <punkt id="6729" miejscowosc="Drużyń" 
+      ns="52.24685898" we="16.48552248" km="21.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Krótki odcinek, ale dość wymagający ze względu na skomplikowane i wysokie zwałki ze starych, grubych drzew</opispunktu> 
+    </punkt>
+    <punkt id="6730" miejscowosc="Drużyń" 
+      ns="52.2396288" we="16.487219" km="20.5" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Charakterystyczne miejsce przecięcia rzeki z linią energetyczną oraz stalową rurą, posadowioną 3-4 m nad lustrem wody. Mniej więcej od tego miejsca zwałki się kończą i płynie się bardziej swobodnie</opispunktu> 
+    </punkt>
+    <punkt id="6731" miejscowosc="Kotowo" 
+      ns="52.22776829" we="16.493059" km="19" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most czynnej liniii kolejowej pomiędzy Poznaniem a Grodziskiem Wielkopolskim. W pobliżu mostu stacja Kotowo</opispunktu> 
+    </punkt>
+    <punkt id="6732" miejscowosc="Kotowo" 
+      ns="52.22466015" we="16.49343303" km="18.7" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu charakterystyczna kaskada - dopływ ścieków z pobliskich zakładów mięsnych. Zazwyczaj wpływają tędy ścieki doczyszczone, ale historia zna przypadki z przed lat, kiedy Mogilnica za sprawą tego ciurka, zmieniała swój kolor na różne odcienie czerwonego</opispunktu> 
+    </punkt>
+    <punkt id="6733" miejscowosc="Kotowo" 
+      ns="52.22402773" we="16.49350623" km="18.6" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most ruchliwej drogi nr 32. Poniżej koryto wyraźnie poszerzone i wyprostowane, w związku z czym odczuwa się braki wody pod kilem</opispunktu> 
+    </punkt>
+    <punkt id="6734" miejscowosc="Kotowo" 
+      ns="52.22056318" we="16.49363699" km="18.2" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Nieczynny jaz, nie piętrzący wody, pozostał jedynie mały prożek. Przyczółki łączy wąska kładka. Na lewym posadowiono tabliczkę z kilometrażem [18+080 km] oraz wodowskaz, ale nie sięga on lustra wody, więc nie spełnia swojej funkcji. Od tego miejsca, przez kilkaset metrów znacząco brakuje wody. Pokonanie tego odcinka polega na cioraniu się po mieliznach i kamieniach w poszukiwaniu nieco głębszego nurtu</opispunktu> 
+    </punkt>
+    <punkt id="6735" miejscowosc="Kotowo" 
+      ns="52.21569211" we="16.49321114" km="17.7" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Koniec charakterystycznego, długiego, płytkiego, szerokiego, prostego odcinka rzeki. Koryto zwęża się i rzeka zaczyna kręcić. Po kilku żwirowych przemiałach przestaje brakować wody. Teren otwiera się, na brzegach stoją już jedynie pojedyncze drzewa, a głównie sterczą suche kikuty, z których czasem coś wpadnie do wody, tworząc drobną przeszkodę</opispunktu> 
+    </punkt>
+    <punkt id="6736" miejscowosc="Granowo" 
+      ns="52.20484955" we="16.51106807" km="15.8" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście Kanału Granowskiego, bez specjalnego wpływu na poziom wody w Mogilnicy</opispunktu> 
+    </punkt>
+    <punkt id="6737" miejscowosc="Granówko" 
+      ns="52.19668929" we="16.51859359" km="14.7" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Kamienne przyczółki po budowli hydrotechnicznej, niewiadomego przeznaczenia</opispunktu> 
+    </punkt>
+    <punkt id="6738" miejscowosc="Granówko" 
+      ns="52.1934237" we="16.51707461" km="14.3" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony uchodzi Rów Kąkolewski, bez większego znaczenia dla poziomu wody w Mogilnicy</opispunktu> 
+    </punkt>
+    <punkt id="6739" miejscowosc="Jaskółki" 
+      ns="52.19022268" we="16.512884" km="13.8" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu, charakterystyczny ceglany przyczółek z widocznym korytkiem. Rzeka zatrzymuje się, bowiem wpływa w 2 km cofkę wysokiego jazu</opispunktu> 
+    </punkt>
+    <punkt id="6740" miejscowosc="Jaskółki" 
+      ns="52.18562368" we="16.50272155" km="12.8" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodny dostęp do wody, brzegi łagodne, porośnięte trawą</opispunktu> 
+    </punkt>
+    <punkt id="6741" miejscowosc="Jaskółki" 
+      ns="52.17858073" we="16.50496633" km="11.9" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Wysoki, dwu stopniowy jaz o rachitycznej, mało profesjonalnej konstrukcji wyższego piętrzenia i kamieniami poniżej pochylni. Przyczółki łączy kładka ze stalowej szyny. Zalecana przenoska prawym brzegiem. Wodowanie pośród sterczącej faszyny. Poniżej koryto głębokie, niedawno pogłębiane, a brzegi wysokie i strome</opispunktu> 
+    </punkt>
+    <punkt id="6742" miejscowosc="Konojad" 
+      ns="52.15576504" we="16.51867296" km="8.7" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Stalowa szyna pomiędzy kamiennymi przyczółkami, pozostałość po urządzeniu hydrotechnicznym</opispunktu> 
+    </punkt>
+    <punkt id="6743" miejscowosc="Konojad" 
+      ns="52.15309523" we="16.52864685" km="7.9" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski prożek - zastawka, możliwy do spłynięcia. Ze względu na stalową szynę na granicy lustra górnej wody zalecana jednak krótka przenoska. Na prawym przyczółku tabliczka z kilometrażem [7+970 km]. Okolica jazu wysoka i sucha, można więc dojechać autem w jego pobliże. Najlepiej zrobić to prawym brzegiem</opispunktu> 
+    </punkt>
+    <punkt id="6744" miejscowosc="Łęki Małe" 
+      ns="52.15116663" we="16.53206323" km="7.6" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze nr 308. Pod mostem wodowskaz Łęki Małe</opispunktu> 
+    </punkt>
+    <punkt id="6745" miejscowosc="Łęki Małe" 
+      ns="52.15012649" we="16.53252167" km="7.5" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na nieczynnej linii kolejowej. Poniżej głębokie, uregulowane koryto, brzegi wysokie, obwałowane po obydwu stronach</opispunktu> 
+    </punkt>
+    <punkt id="6746" miejscowosc="Łęki Małe" 
+      ns="52.14179909" we="16.54441672" km="6.2" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Przed szerokim łukiem rzeki w lewo, na wprost, za wałem widać prosty szpaler wysokich drzew, a na koronie prawego wału betonową studzienkę, w kierunku której prowadzi rura odprowadzająca część wody. Jest to początek Północnego Kanału Obry. Niegdyś, gdzieś właśnie w tym kierunku płynęła zasadnicza Mogilnica, by po pewnym czasie zasilić wody Obry. Widać to wyraźnie na mapach z początku XIX w. Po przeprowadzonych pracach melioracyjnych w dorzeczu Obry, aktualnie, zasadnicza część wód Mogilnicy odprowadzana jest na wschód. W tym miejscu, oficjalnie Mogilnica kończy swój bieg i rozdwaja się na Kanał Prut, płynący na wschód, oraz Północny Kanał Obry, płynący na południe, a potem na zachód. W sieci spotyka się wiele informacji o procentowych udziałach wody odpływającej w jedną, i w drugą stronę. Można próbować przeliczać to na objętości, ale w rzeczywistości, wszystko zależy od poziomu wody w Mogilnicy i stopnia piętrzenia przez zastawkę 300 m poniżej, na Kanale Prut. Przy poziomie 050 na górnej wodzie wodowskazu Maksymilianowo [5,9km], do Północnego Kanału Obry sączył się jedynie niewielki siurek</opispunktu> 
+    </punkt>
+    <punkt id="6747" miejscowosc="Maksymilianowo" 
+      ns="52.14052423" we="16.54790009" km="5.9" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka z trzema przepustami, piętrząca wodę na około 0,7m, nad nią most na lokalnej drodze gruntowej. Na górnej wodzie wodowskaz Maksymilianowo. Poniżej progu wystarczająco głęboko można więc swobodnie spływać po rozpoznaniu przeszkody. Wysokość zastawki reguluje ilość wody odprowadzanej wcześniej do Północnego Kanału Obry. Poniżej, prosty odcinek ordynarnego kanału, jednak szpaler wysokich drzew po obydwu stronach dodaje rzece uroku</opispunktu> 
+    </punkt>
+    <punkt id="6748" miejscowosc="Sepno" 
+      ns="52.13684807" we="16.5636405" km="4.8" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="6749" miejscowosc="Sepienko" 
+      ns="52.13754921" we="16.57884697" km="3.8" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze nr 208</opispunktu> 
+    </punkt>
+    <punkt id="6750" miejscowosc="Sepienko" 
+      ns="52.13762656" we="16.57918965" km="3.7" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowy most na nieczynnej linii kolejowej</opispunktu> 
+    </punkt>
+    <punkt id="6751" miejscowosc="Sepienko" 
+      ns="52.13774131" we="16.57986049" km="3.6" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Trójprzęsłowa, niesymetryczna zastawka, umożliwiająca spłynięcie z lewej strony. Na prawym przyczółku tabliczka z kilometrażem 3+722km. Wysokość progu około 0,6m, poniżej wystarczająco głęboko aby spłynąć po rozpoznaniu przeszkody. Dalej spore niedobory wody, wiosłuje się ciężko, na przemian grzęznąc w mule, szorując po piasku i hacząc o roślinność wodną. Prawdopodobnie, znacząca część wody na progu, kierowana jest w lewo przez kolejną zastawkę, z poziomu rzeki jednak trudno jest to stwierdzić</opispunktu> 
+    </punkt>
+    <punkt id="6752" miejscowosc="Sepienko" 
+      ns="52.13865218" we="16.58844675" km="3" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy na lokalnej drodze. Cały czas płytko, problemy z wiosłowaniem, często płynie się na pych</opispunktu> 
+    </punkt>
+    <punkt id="6753" miejscowosc="Sepienko" 
+      ns="52.14165716" we="16.60123895" km="2.1" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Kolejny mostek betonowy na lokalnej drodze. Cały czas płytko</opispunktu> 
+    </punkt>
+    <punkt id="6754" miejscowosc="Łagiewniki" 
+      ns="52.14630308" we="16.61608319" km="1" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy na gruntowej drodze. Robi się coraz głębiej, ponieważ dociera tu cofka z Kanału Kościańskiego i Mosińskiego. Ostatnia możliwość zakończenia spływu [ale z lichym dojazdem], przed wpływem na Kanał Mosiński</opispunktu> 
+    </punkt>
+    <punkt id="6755" miejscowosc="Łagiewniki" 
+      ns="52.15051566" we="16.62835096" km="0" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Połączenie Kanału Prut z dochodzącym z prawej strony, Kanałem Kościańskim. Od tego miejsca, aż do ujścia rzeki do Warty, ciek oficjalnie nazywa się Kanałem Mosińskim</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

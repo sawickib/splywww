@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="79" nazwa="Czarna Woda" wersja="3">
+<opis>Czarna Woda ? rzeka długości 47 km w województwie dolnośląskim, prawy dopływ  Bystrzycy.
+Źródła rzeki znajdują się na wysokości ok. 325 m n.p.m. na stokach góry Radunia w Masywie Ślęży, okrąża wzgórza od zachodu, uchodzi do Bystrzycy w rejonie Kątów Wrocławskich. Nad Czarną Wodą leży miasto Sobótka (wg Wikipedii).
+Niewielka nizinna rzeczka w pobliżu Wrocławia, doskonale nadająca się na jednodniowy spływ.
+Na codzień prowadzi zbyt mało wody by móc nią pływać, polecam więc spływy wiosenne bądź po opadach deszczu. Niestety wtedy też wody Czarnej Wody niosą sporo zawiesiny i są koloru kawy z mlekiem.
+Rzeczka stosunkowo łatwa a przy tym urozmaicona. Płynie zarówno przez pola i łąki jak i obszary zalesione. Spotkamy w korycie spore drzewa oraz kilka progów możliwych do spłynięcia. Jest stosunkowo łatwo dostępna z lądu w poszczególnych etapach, co umożliwia dostosowanie trasy do indywidualnych potrzeb.</opis> 
+  <odcinek id="330" typ="kanał" nazwa="Młynówka" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="5"> 
+  <opis>W miejscu ujścia Czarnej Wody do Bystrzycy zachodzi zjawisko które przypomina bifurkację, czyli skrzyżowanie rzek. Co prawda, podobnie jak w przypadku Nielbyi  Wełny w Wągrowcu, zjawisko to wywołane jest w sposób sztuczny, nie mniej jednak ma miejsce. 
+Spiętrzenie jazu na Bystrzycy wykonane było w celu odprowadzenia części wód Bystrzycy do młyna w Kątach. Młynówka bierze swój początek odchodząc od Bystrzycy pod kątem prostym w lewo tuż przed jazem. Dokładnie vis-a-vis wypływu Młynówki, do Bystrzycy z prawej strony pod takim samym kątem wpada Czarna Woda. Na planie, zjawisko to przypomina skrzyżowanie rzek.
+Spływ Czarną Wodą wygodnie jest zakończyć w Kątach Wrocławskich, płynąc Młynówką około 1 km do rogatek miasta. Tuż przy kracie przegradzającej w poprzek koryto Młynówki, przy drodze znajduje się miejsce parkingowe z dogodnym dostępem do wody.</opis>
+    <punkt id="2771" miejscowosc="Kąty Wrocławskie" 
+      ns="51.019832" we="16.779717" km="0" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska z Czarnej Wody na Bystrzycę 20m prawym brzegiem.</opispunktu> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Jaz na Bystrzycy nie jest widoczny z Czarnej Wody, a prąd dość silny. Ze względów bezpieczeństwa nie polecam wpływania na Bystrzycę w tym miejscu gdyż można nie zdążyć zareagować ! Jeżeli już, to należy trzymać się lewego brzegu Czarnej Wody !</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Czarnej Wody do Bystrzycy.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zaraz za ujściem pod kątem prostym w prawo znajduje się jaz na Bystrzycy o wysokości 1m.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="328" typ="rzeka" nazwa="Gniechowice - Kąty" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="4"> 
+  <opis>Spokojniejszy odcinek Czarnej Wody. Płynie przez łąki, pola i lasy. Po drodze spływa dwoma jazami. Warto zatrzymać się w Krobielowicach i zwiedzić tutejszy pałac.</opis>
+    <punkt id="2770" miejscowosc="Kąty Wrocławskie" 
+      ns="51.016889" we="16.783794" km="0.5" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zakręt rzeki o 90 stopni i zaraz za nim niewidoczny jaz dwustopniowy o wysokości 0,8m do spłynięcia.</opispunktu> 
+    </punkt>
+    <punkt id="2769" miejscowosc="Krobielowice" 
+      ns="51.0089" we="16.798106" km="1.92" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="bar" kolejnosc="-1">Restauracja w pałacu w Krobielowicach.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy pałacu, wygodne miejsce wodowania kajaków.</opispunktu> 
+    </punkt>
+    <punkt id="2768" miejscowosc="Krobielowice" 
+      ns="51.001909" we="16.809888" km="3.17" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Wygodna przenoska prawą stroną 20m.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 0,7m z płytami betonowymi w nurcie.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="327" typ="rzeka" nazwa="Gniechowice" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Rzeka staje się nieco węższa a przez to znacznie przyspiesza. Kluczy pomiędzy krzakami i podmywa skarpy tworząc pod nimi głęboczki.</opis>
+    <punkt id="2767" miejscowosc="Gniechowice" 
+      ns="50.986892" we="16.829424" km="5.48" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Obok siebie - nowy i stary most drogowy na ruchliwej trasie Wrocław - Świdnica. Wygodne miejsce wodowania kajaków przy moście starym.</opispunktu> 
+    </punkt>
+    <punkt id="2766" miejscowosc="Gniechowice" 
+      ns="50.978533" we="16.835129" km="6.66" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na lokalnej drodze. Pod mostkiem stanowisko do grilla.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="326" typ="rzeka" nazwa="Górzyce" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Zdecydowanie najładniejszy fragment rzeki. Na brzegach widoczny jest ślad po piętrzeniu wody. W chwili obecnej jaz jest zniszczony ale rzeka w tym miejscu nieco przyspiesza i kluczy pomiędzy zwalonymi starymi dębami.</opis>
+    <punkt id="2765" miejscowosc="Górzyce" 
+      ns="50.96922" we="16.826659" km="8.02" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na lokalnej drodze.</opispunktu> 
+    </punkt>
+    <punkt id="2764" miejscowosc="Górzyce" 
+      ns="50.968814" we="16.825997" km="8.08" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarty, zniszczony jaz.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="325" typ="rzeka" nazwa="Kwieciszów - Siedlakowice" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Czarna Woda nieco kręci, pokonuje małe spiętrzenia, wpływa na obszary leśne. Kilka drzew w korycie powoduje miejscowe nagromadzenie śmieci niesionych przez rzekę.</opis>
+    <punkt id="2763" miejscowosc="Siedlakowice" 
+      ns="50.957558" we="16.797096" km="10.73" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="2762" miejscowosc="Mirosławiczki" 
+      ns="50.95035" we="16.786619" km="11.94" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków.</opispunktu> 
+    </punkt>
+    <punkt id="2761" miejscowosc="Mirosławiczki" 
+      ns="50.941597" we="16.7887" km="13.18" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek kamienny 0,5m do spłynięcia.</opispunktu> 
+    </punkt>
+    <punkt id="2760" miejscowosc="Michałowice" 
+      ns="50.9402" we="16.78929" km="13.34" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="2759" miejscowosc="Michałowice" 
+      ns="50.938078" we="16.791534" km="13.64" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek 0,3m, do spłynięcia.</opispunktu> 
+    </punkt>
+    <punkt id="2758" miejscowosc="Michałowice" 
+      ns="50.935817" we="16.792574" km="13.94" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="324" typ="rzeka" nazwa="Żerzuszyce - Kwieciszów" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Odcinek rzeki płynącej pośród łąk i pól, szerokość nurtu 3-5 m. Po połączeniu z Potokiem Sulistrowickim wody jest znacznie więcej.</opis>
+    <punkt id="2757" miejscowosc="Kwieciszów" 
+      ns="50.930742" we="16.798801" km="14.71" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Bród, płyty betonowe w nurcie.</opispunktu> 
+    </punkt>
+    <punkt id="2756" miejscowosc="Żerzuszyce" 
+      ns="50.920513" we="16.796959" km="16.28" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Potoku Sulistrowickiego.</opispunktu> 
+    </punkt>
+    <punkt id="2755" miejscowosc="Żerzuszyce" 
+      ns="50.917412" we="16.784157" km="17.28" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

@@ -1,0 +1,150 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.11490559" lon="16.60932006">
+<name>27.80</name>
+<desc>Tzw. punkt bifurkacji rozpływu, czyli miejsce, w którym Kanał Kościański rozdwaja się na Obrzański Kanał Południowy oraz Kanał Mosiński. Na różnych mapach różnie to wygląda, ale oficjalnie miejsce to uznawane jest za początek Kanału Mosińskiego</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="52.11824343" lon="16.60793950">
+<name>27.40</name>
+<desc>Otwarta zastawka piętrząca wodę około 0,8m. Nad nią mostek na polnej drodze, a poniżej kamienne przyczółki po nieznanej budowli</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.13012875" lon="16.60430493">
+<name>26.10</name>
+<desc>Most na drodze nr 308 pomiędzy Kościanem a Grodziskiem Wielkopolskim, pod nim niewielkie bystrze. Wygodne miejsce dostępu do wody, chociaż brzegi nieco strome. W pobliżu mostu sporo miejsca na samochody, na trawiastych dróżkach wzdłuż kanału</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.13028228" lon="16.60447565">
+<name>26.00</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.15051566" lon="16.62835096">
+<name>23.20</name>
+<desc>Dopływ z lewej Kanału Prut, czyli połączenie wód Obry z wodami Mogilnicy, odprowadzanych wspólnie na wschód, do Warty. Od tego miejsca kanał staje się znacznie głębszy, a po kilku kilometrach przestaje nawet przeszkadzać jego wyprostowany charakter, ze względu na drzewa i krzewy zwieszające się do lustra wody</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="52.16938924" lon="16.67267204">
+<name>19.60</name>
+<desc>Mostek betonowy na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.18622719" lon="16.70030642">
+<name>16.90</name>
+<desc>Wysoki most drogi S5</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.18729341" lon="16.70229346">
+<name>16.70</name>
+<desc>Most na starej drodze nr 5. Wygodny dostęp do wody. Robi się szeroko i nurt zaczyna zanikać. Krajobrazy coraz przyjemniejsze dla oka, a drzewa na brzegach i krzaki pozwalają zapomnieć, że płyniemy kanałem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.19672551" lon="16.71344520">
+<name>15.30</name>
+<desc>Drzewo leżące w korycie, przegradzające je gałęziami na całej szerokości. Sama zwałka jest łatwa do pokonania, ale znikomy nurt sprawia, że przez drzewem tworzy się kilkudziesięciometrowy, gęsty korzuch ze wszystkiego, co płynie kanalem. Zalecana przenoska prawym, nieco stromym brzegiem i wodowanie z piaszczystej plaży</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.21472397" lon="16.73929289">
+<name>12.50</name>
+<desc>Kamienno betonowe przyczółki po budowli hydrotechnicznej. Na XIX w. mapie widać w tym miejscu jaz - zastawkę</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.21594447" lon="16.75043555">
+<name>11.70</name>
+<desc>Betonowy most drogowy. Koniec odcinka zalesionego</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.21754702" lon="16.78174204">
+<name>9.50</name>
+<desc>Wysoka zastawka, przed którą tworzy się spory zator. Przenoska lewym brzegiem, kilkadziesiąt metrów, w zależności od długości zatoru. Wygodne miejsce kończenia i rozpoczynania etapu z dojazdem i miejscem na samochody</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.21860741" lon="16.78415101">
+<name>9.30</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.21973174" lon="16.78788019">
+<name>9.00</name>
+<desc>Charakterystyczne, ceglane, wysokie przyczółki po jakiejś budowli hydrotechnicznej lub moście</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.23106026" lon="16.81744173">
+<name>6.60</name>
+<desc>Most drogowy i kładka dla pieszych, pod nimi kamienne bystrze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.23141667" lon="16.81845198">
+<name>6.50</name>
+<desc>Niewielki prożek. Po środku nurtu, na granicy lustra wody stoją 2 drewniane pale ze sterczącymi pionowo w górę śrubami !!! Przepływać ostrożnie, zwłaszcza delikatnym sprzętem</desc>
+<cmt>niebezpieczeństwo</cmt>
+</wpt>
+<wpt lat="52.23176327" lon="16.81936422">
+<name>6.30</name>
+<desc>Ujście Samicy Stęszewskiej z lewej strony. Mimo stromej prawej strony jest to wygodne miejsce kończenia etapu, ze względu na dobry dojazd na prawy brzeg kanału i sporo miejsca na samochody</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.24253520" lon="16.84252640">
+<name>4.40</name>
+<desc>Pierwszy z trzech prożków mosińskich, ten najniższy. Decyzję o spływaniu należy podjąć w zależności od ilości wody oraz po ocenie stopnia trudności</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.24381967" lon="16.84530410">
+<name>4.10</name>
+<desc>Kładka dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.24421207" lon="16.84734693">
+<name>3.90</name>
+<desc>Most w ul. Mostowej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.24448338" lon="16.85033019">
+<name>3.70</name>
+<desc>Most w ul. Niezłomnych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.24575922" lon="16.85229466">
+<name>3.50</name>
+<desc>Mostek w ul. T. Kościuszki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.24710451" lon="16.85399742">
+<name>3.40</name>
+<desc>Drugi z progów mosińskich, nieco wyższy od pierwszego</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.24829812" lon="16.85626331">
+<name>3.10</name>
+<desc>Most kolejowy, pod nim wodowskaz Mosina</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.24940140" lon="16.85807204">
+<name>2.90</name>
+<desc>Trzeci próg mosiński, najwyższy ze wszystkich. Poniżej, najbardziej fotogeniczny odcinek rzeki. Piaszczyste, wysokie skarpy na zakolach, kilka zwałek w korycie, a wszystko w mieszanym lesie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.25057461" lon="16.86039726">
+<name>2.40</name>
+<desc>Stalowe rury wysoko nad wodą I</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.25076292" lon="16.86089351">
+<name>2.30</name>
+<desc>Stalowe rury wysoko nad wodą II</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.25321783" lon="16.88627783">
+<name>0.00</name>
+<desc>Ujście Kanału Mosińskiego do Warty. Spływ wygodnie jest zakończyć na lewym brzegu Warty, zaraz za wypływem. Można w to miejsce dojechać od strony oczyszczalni ścieków dla Mosiny. Wygodnie jest też zakończyć spływ na prawym brzegu Warty, przed mostem, z dobrym dojazdem od strony Rogalinka</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

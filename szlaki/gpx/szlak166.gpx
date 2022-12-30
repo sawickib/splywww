@@ -1,0 +1,100 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.37642376" lon="17.63104297">
+<name>86.00</name>
+<desc>Most na ruchliwej drodze nr 212 Lębork - Bytów</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.37737255" lon="17.63062908">
+<name>85.90</name>
+<desc>Zrzucony łukowy kamienny wiadukt po starej linii kolejowej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.37753190" lon="17.62997769">
+<name>85.80</name>
+<desc>Duża łąka po prawej, z której startują spływy komercyjne. Teren jest zagospodarowywany, całość wyrównywana, ustawiono toi-toiki i zbudowano schodki oraz slip na stromym brzegu. W dniu spływu teren ten był nieoznakowany, ale jak udało nam się ustalić ponoć jest albo prywatny, albo dzierżawiony od gminy. Oddalona od rzeki część łąki stanowi spory parking</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.37700460" lon="17.62537095">
+<name>85.50</name>
+<desc>Jaz pstrągarni. Przenoska prawą stroną około 20m z niezbyt wygodnym wyjściem z wody na betonowe nabrzeże. Poniżej mało wody i kamienie, ponieważ większość jej kierowana jest na stawy hodowlane</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.37649227" lon="17.62155124">
+<name>85.20</name>
+<desc>Powrót wody z pstrągarni, dalej płynie się swobodnie</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.37643989" lon="17.62120054">
+<name>85.10</name>
+<desc>Mostek betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.37699524" lon="17.61985847">
+<name>85.00</name>
+<desc>Z prawej strony ujście Bukowiny. Dalej, przez jakiś czas nurt spokojny, po wpłynięciu do lasu robi się szerzej, bardziej bystro, kamieniście i miejscami płytko. Koryto rzeki często się rozwidla, a w nurcie pojawiają się pojedyncze, najczęściej poprzecinane drzewa</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.36840626" lon="17.56201046">
+<name>80.20</name>
+<desc>Niski, drewniany mostek i bród. Wygodne miejsce na przerwę. Dalej nurt bystry, a w korycie sporo kamieni, miejscami płytko</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.37152852" lon="17.53563388">
+<name>78.20</name>
+<desc>Prożek 2 x 0,5m. Drugi prożek to rząd drewnianych kołków, spływać ostrożnie. Poniżej w dalszym ciągu nurt bystry, a dno twarde i kamienieniste</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.37469870" lon="17.50639652">
+<name>76.00</name>
+<desc>Wysoki most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.37616619" lon="17.50327183">
+<name>75.70</name>
+<desc>Z lewej strony powrót młynówki. Poniżej odcinek z pojedynczymi zwałkami, niektóre nawet bardziej wymagające</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.41665182" lon="17.41858374">
+<name>66.10</name>
+<desc>Zapora hydroelektrowni, 5 przęseł zamkniętych zastawkami, poniżej kamienie. Przenoska lewym brzegiem po piasku, około 50m. Wygodne miejsce dla odwiedzenia pobliskich sklepów i barów. Dalej rzeka znacznie szersza, do mostu po obu stronach pola namiotowe. Na dolnej wodzie, przy wypływie z turbiny znajduje się wodowskaz nie objęty monitoringiem. Poziom 68.02 oznacza wystarczającą ilość wody, chociaż miejscami szoruje się po kamieniach. Podczas przenoski można przekonać się, jak bardzo orientacyjnie wylicznane są odległości na rzekach. Stoją tu bowiem obok siebie dwie tablice, jedna z kilometrażem rzeki, druga z opisem Młyna, różnica w odległości do ujścia Łupawy do Bałtyku wg nich wynosi 3,4 km</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.41812174" lon="17.41657543">
+<name>65.80</name>
+<desc>Po prawej stronie trawiasty plac gminny z wiatami i ławkami. Wygodne miejsce rozpoczynania / kończenia etapu. Przy szerokiej drodze szutrowej jest sporo miejsca na pozostawienie samochodu, opcja ta jednak wymusi natychmiastowe jego mycie, ponieważ przejeżdżające drogą inne samochody wzbudzają nieprawdopodobne ilości pyłu</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.41899068" lon="17.41580278">
+<name>65.70</name>
+<desc>Most drogowy, w pobliżu sklepy spożywcze. Poniżej mostu, po prawej stronie znajduje się wodowskaz Łupawa, którego wskazania można obserwować w internecie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.48610241" lon="17.39597381">
+<name>56.60</name>
+<desc>Ujście Darżyńskiej Strugi</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.47824783" lon="17.36021373">
+<name>53.30</name>
+<desc>Ujście rzeczki Rębowa</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.50783891" lon="17.29575298">
+<name>46.10</name>
+<desc>Ujście Charstnicy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.66913273" lon="17.05098676">
+<name>0.00</name>
+<desc>Ujście Łupawy do Bałtyku</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

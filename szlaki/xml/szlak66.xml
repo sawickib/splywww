@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="66" nazwa="Łyna" wersja="2">
+<opis>W górnym biegu Łyny wspaniałe lasy, jeziora oraz dwa przełomy. Pierwszy z nich to rez. Las Warmiński - wymagana zgoda Wojewódzkiego Konserwatora Przyrody na przepłynięcie. Przed nim ośrodek URM w Łańsku.
+Trasa od Olsztyna ma walory krajoznawcze. Szlak kończy się we wsi Stopki kilka km przed granicą państwa. Niewiele miejsc biwakowych i mało sklepów. </opis> 
+  <odcinek id="250" typ="rzeka" nazwa="Łyna" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="pozaKL" 
+      kolejnosc="8"> 
+  <opis>po prostu rzeka...samo wiosłowanie</opis>
+    <punkt id="2317" miejscowosc="" 
+      ns="54.32449" we="21.042403" km="" etykieta="00-00-W" 
+      kolejnosc="65"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">wies_Stopki_koniec_szlaku_granica_panstwa</opispunktu> 
+    </punkt>
+    <punkt id="2316" miejscowosc="" 
+      ns="54.25194" we="20.81833" km="" etykieta="00-00-X" 
+      kolejnosc="64"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">PKS_Bartoszyce_bezposredni_autobus_do_3miasta</opispunktu> 
+    </punkt>
+    <punkt id="2315" miejscowosc="" 
+      ns="54.2506" we="20.80946" km="" etykieta="00-00-X" 
+      kolejnosc="63"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">rynek</opispunktu> 
+    </punkt>
+    <punkt id="2314" miejscowosc="" 
+      ns="54.2515" we="20.81079" km="" etykieta="00-00-X" 
+      kolejnosc="62"> 
+    <opispunktu typ="bar" kolejnosc="-1">bar_popularny</opispunktu> 
+    </punkt>
+    <punkt id="2313" miejscowosc="Bartoszyce" 
+      ns="54.25568" we="20.80863" km="151" etykieta="31-40-W" 
+      kolejnosc="61"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">miejsce_zaladunku_kajakow_na_przyczepe</opispunktu> 
+    </punkt>
+    <punkt id="2312" miejscowosc="Bartoszyce" 
+      ns="54.25555" we="20.808" km="150.9" etykieta="31-50-M-X" 
+      kolejnosc="60"> 
+    <opispunktu typ="most" kolejnosc="-1">miejsce_wodowania_do_pks_mozna_isc_wzdluz_rzeki</opispunktu> 
+    </punkt>
+    <punkt id="2311" miejscowosc="Bartoszyce" 
+      ns="54.25004" we="20.79718" km="149.2" etykieta="33-20-B-PR" 
+      kolejnosc="59"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Bartoszyce</opispunktu> 
+    </punkt>
+    <punkt id="2310" miejscowosc="" 
+      ns="54.24208" we="20.78051" km="147.5" etykieta="34-90-X-PR" 
+      kolejnosc="58"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">teren_JW_zakaz_wstepu_po_prawej</opispunktu> 
+    </punkt>
+    <punkt id="2309" miejscowosc="" 
+      ns="54.22863" we="20.75564" km="143.8" etykieta="38-60-BG-PR" 
+      kolejnosc="57"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Ardapy</opispunktu> 
+    </punkt>
+    <punkt id="2308" miejscowosc="" 
+      ns="54.22238" we="20.745" km="142.6" etykieta="39-80-MP-PR-LE" 
+      kolejnosc="56"> 
+    <opispunktu typ="stanica" kolejnosc="-1">ratuszki-lipno_pseudo_stanica</opispunktu> 
+    </punkt>
+    <punkt id="2307" miejscowosc="" 
+      ns="54.1932" we="20.68236" km="135.9" etykieta="46-50-BG-LE" 
+      kolejnosc="55"> 
+    <opispunktu typ="biwak" kolejnosc="-1">prywatny</opispunktu> 
+    </punkt>
+    <punkt id="2306" miejscowosc="" 
+      ns="54.17368" we="20.63423" km="130.8" etykieta="51-60-X" 
+      kolejnosc="54"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">przyczolek_kamiennego_mostu_ruina</opispunktu> 
+    </punkt>
+    <punkt id="2305" miejscowosc="" 
+      ns="54.16606" we="20.61087" km="128.9" etykieta="53-50-U-LE" 
+      kolejnosc="53"> 
+    <opispunktu typ="ujście" kolejnosc="-1">rz._Elma</opispunktu> 
+    </punkt>
+    <punkt id="2304" miejscowosc="" 
+      ns="54.16369" we="20.61455" km="128" etykieta="54-40-X-U-LE" 
+      kolejnosc="52"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">rozwidlenie_nurt_prosto</opispunktu> 
+    </punkt>
+    <punkt id="2303" miejscowosc="" 
+      ns="54.15953" we="20.61014" km="127.3" etykieta="55-10-J-P-PR30" 
+      kolejnosc="51"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Po prawej 30m</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">elektrownia</opispunktu> 
+    </punkt>
+    <punkt id="2302" miejscowosc="" 
+      ns="54.15753" we="20.60673" km="127" etykieta="55-40-B-PR" 
+      kolejnosc="50"> 
+    <opispunktu typ="biwak" kolejnosc="-1">prywatny</opispunktu> 
+    </punkt>
+    <punkt id="2301" miejscowosc="" 
+      ns="54.14376" we="20.60786" km="123.9" etykieta="58-50-M" 
+      kolejnosc="49"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">ruiny_mostu_kolejowego</opispunktu> 
+    </punkt>
+    <punkt id="2300" miejscowosc="" 
+      ns="54.13057" we="20.5764" km="" etykieta="00-00-X" 
+      kolejnosc="48"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">PKS_PKP_Lidzbark_Warminski</opispunktu> 
+    </punkt>
+    <punkt id="2299" miejscowosc="" 
+      ns="54.127762" we="20.577376" km="" etykieta="00-00-X" 
+      kolejnosc="47"> 
+    <opispunktu typ="bar" kolejnosc="-1">w_bramie_cukiernia</opispunktu> 
+    </punkt>
+    <punkt id="2298" miejscowosc="Lidzbark Warmiński" 
+      ns="54.12761" we="20.576467" km="" etykieta="00-00-X" 
+      kolejnosc="46"> 
+    <opispunktu typ="bar" kolejnosc="-1">bar</opispunktu> 
+    </punkt>
+    <punkt id="2297" miejscowosc="" 
+      ns="54.127458" we="20.575818" km="" etykieta="00-00-X" 
+      kolejnosc="45"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">cerkiew_lidzbark_warminski</opispunktu> 
+    </punkt>
+    <punkt id="2296" miejscowosc="" 
+      ns="54.12644" we="20.58257" km="119.7" etykieta="62-70-X" 
+      kolejnosc="44"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">zamek_biskupow_warminskich</opispunktu> 
+    </punkt>
+    <punkt id="2295" miejscowosc="Lidzbark Warmiński" 
+      ns="54.12449" we="20.56979" km="118.6" etykieta="63-80-M" 
+      kolejnosc="43"> 
+    <opispunktu typ="most" kolejnosc="-1">Lidzbark_Warminski</opispunktu> 
+    </punkt>
+    <punkt id="2294" miejscowosc="" 
+      ns="54.12432" we="20.55276" km="117" etykieta="65-40-B-LE" 
+      kolejnosc="42"> 
+    <opispunktu typ="biwak" kolejnosc="-1">prywatna_laka</opispunktu> 
+    </punkt>
+    <punkt id="2293" miejscowosc="" 
+      ns="54.12231" we="20.54819" km="116.7" etykieta="65-70-B-LE" 
+      kolejnosc="41"> 
+    <opispunktu typ="biwak" kolejnosc="-1">tylko_dwa_namioty</opispunktu> 
+    </punkt>
+    <punkt id="2290" miejscowosc="" 
+      ns="54.01122" we="20.40476" km="79.8" etykieta="102-60-B" 
+      kolejnosc="38"> 
+    <opispunktu typ="biwak" kolejnosc="-1">102-60-B</opispunktu> 
+    </punkt>
+    <punkt id="2289" miejscowosc="Dobre Miasto" 
+      ns="53.98546" we="20.39777" km="75.6" etykieta="106-80-P-PR-LE50" 
+      kolejnosc="37"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Dobre_Miasto_centrum_w_lewo</opispunktu> 
+    </punkt>
+    <punkt id="2288" miejscowosc="Dobre Miasto" 
+      ns="53.98449" we="20.39777" km="75.4" etykieta="107-00-K" 
+      kolejnosc="36"> 
+    <opispunktu typ="most" kolejnosc="-1">Dobre_Miasto</opispunktu> 
+    </punkt>
+    <punkt id="2287" miejscowosc="Knopin" 
+      ns="53.95899" we="20.41073" km="69" etykieta="113-40-M-B-PR" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Knopin_w_lewo</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2286" miejscowosc="Kłodka" 
+      ns="53.92528" we="20.41344" km="61.8" etykieta="120-60-BG-PR" 
+      kolejnosc="34"> 
+    <opispunktu typ="biwak" kolejnosc="-1">wies_Klodka. Wg informacji otrzymanych od Pawła w dniu 12.04.2011 r."właściciel nie zezwala na biwak, ze wzgl. na śmieci pozostawiane notorycznie przez kajakarzy. W lipcu 2010 pozwolił tylko zostawić kajaki a biwak był przy ośrodku nad jez. Limajno (ok 3km z buta, w nocy wrzaski pijanych tubylców)".</opispunktu> 
+    </punkt>
+    <punkt id="2285" miejscowosc="" 
+      ns="53.87826" we="20.40248" km="52.3" etykieta="130-10-X" 
+      kolejnosc="33"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">ruiny_mostu</opispunktu> 
+    </punkt>
+    <punkt id="2284" miejscowosc="" 
+      ns="53.87389" we="20.39332" km="51" etykieta="131-40-U-LE" 
+      kolejnosc="32"> 
+    <opispunktu typ="ujście" kolejnosc="-1">starego_koryta_lyny</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="249" typ="jezioro" nazwa="jez Mosąg" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="7"> 
+  <opis></opis>
+    <punkt id="2283" miejscowosc="" 
+      ns="53.86193" we="20.394" km="49.8" etykieta="132-60-J-P-PR50" 
+      kolejnosc="31"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">pod_mostem_lub_pod_zastawka</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2282" miejscowosc="" 
+      ns="53.85236" we="20.39481" km="48.7" etykieta="133-70-BG" 
+      kolejnosc="30"> 
+    <opispunktu typ="biwak" kolejnosc="-1">teren_prywatny_wlasciciel_obok</opispunktu> 
+    </punkt>
+    <punkt id="2281" miejscowosc="" 
+      ns="53.851243" we="20.401861" km="48.2" etykieta="134-20-U" 
+      kolejnosc="29"> 
+    <opispunktu typ="ujście" kolejnosc="-1">jez_mosag</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="248" typ="mieszany" nazwa="rozlewisko przed elektrownią2" 
+      uciazliwosc="U3" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL3" 
+      kolejnosc="6"> 
+  <opis>brak nurtu, mocno pozarastane</opis>
+    <punkt id="2280" miejscowosc="" 
+      ns="53.8444" we="20.40421" km="47.4" etykieta="135-00-X" 
+      kolejnosc="28"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">plynac_wzdluz_lewego_brzegu_bo_na_srodku_zielsko</opispunktu> 
+    </punkt>
+    <punkt id="2279" miejscowosc="" 
+      ns="53.84097" we="20.40391" km="47" etykieta="135-40-PR-LE50" 
+      kolejnosc="27"> 
+    <opispunktu typ="jaz" kolejnosc="-1">elektrownia</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2278" miejscowosc="" 
+      ns="53.83245" we="20.41665" km="45.6" etykieta="136-80-BG-PR" 
+      kolejnosc="26"> 
+    <opispunktu typ="biwak" kolejnosc="-1">pole_biwakowe_Dywity</opispunktu> 
+    </punkt>
+    <punkt id="2277" miejscowosc="" 
+      ns="53.83026" we="20.42468" km="44.6" etykieta="137-80-BG-PR" 
+      kolejnosc="25"> 
+    <opispunktu typ="biwak" kolejnosc="-1">prywatny_czyli_platny_Redykajny</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="247" typ="rzeka" nazwa="rozlewisko przed elektrownią1" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="5"> 
+  <opis>brak nurtu</opis>
+    <punkt id="2276" miejscowosc="" 
+      ns="53.81381" we="20.45477" km="41.4" etykieta="141-00-P-LE50" 
+      kolejnosc="24"> 
+    <opispunktu typ="jaz" kolejnosc="-1">elektrownia_w_dol_po_skarpie</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2275" miejscowosc="" 
+      ns="53.80872" we="20.45815" km="40.7" etykieta="141-70-X" 
+      kolejnosc="23"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">rozlewisko_laka</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="246" typ="rzeka" nazwa="przełom" 
+      uciazliwosc="U1" trudnosc="WW1" 
+      malowniczosc="*" czystosc="KL3" 
+      kolejnosc="4"> 
+  <opis>wartki nurt</opis>
+    <punkt id="2274" miejscowosc="" 
+      ns="53.80432" we="20.45993" km="40" etykieta="142-40-X" 
+      kolejnosc="22"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">ruiny_mostu</opispunktu> 
+    </punkt>
+    <punkt id="2273" miejscowosc="39" 
+      ns="53.79677" we="20.4653" km="" etykieta="143-40-BG-PR" 
+      kolejnosc="21"> 
+    <opispunktu typ="biwak" kolejnosc="-1">malownicza_wiata</opispunktu> 
+    </punkt>
+    <punkt id="2272" miejscowosc="" 
+      ns="53.79571" we="20.46422" km="38.9" etykieta="143-50-BG-LE" 
+      kolejnosc="20"> 
+    <opispunktu typ="biwak" kolejnosc="-1">wiata</opispunktu> 
+    </punkt>
+    <punkt id="2271" miejscowosc="Olsztyn" 
+      ns="53.77868" we="20.47352" km="" etykieta="00-00-MP-LE" 
+      kolejnosc="19"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">miejsce_postoju_w_parku</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="245" typ="rzeka" nazwa="Ruś Olsztyn" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="pozaKL" 
+      kolejnosc="3"> 
+  <opis></opis>
+    <punkt id="2270" miejscowosc="" 
+      ns="53.77844" we="20.47373" km="35.8" etykieta="146-60-P-LE150" 
+      kolejnosc="18"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">pod_mostem</opispunktu> 
+    </punkt>
+    <punkt id="2269" miejscowosc="Olsztyn" 
+      ns="53.77743" we="20.47476" km="" etykieta="00-00-X" 
+      kolejnosc="17"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">zamek_olsztynski</opispunktu> 
+    </punkt>
+    <punkt id="2268" miejscowosc="Olsztyn" 
+      ns="53.77608" we="20.47292" km="" etykieta="00-00-K" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Olsztyn_centrum</opispunktu> 
+    </punkt>
+    <punkt id="2267" miejscowosc="" 
+      ns="53.774704" we="20.478376" km="35" etykieta="147-40-M" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">drogowy</opispunktu> 
+    </punkt>
+    <punkt id="2266" miejscowosc="" 
+      ns="53.76557" we="20.477" km="33.6" etykieta="148-80-M" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">drogowy_Olsztyn_Podgrodzie</opispunktu> 
+    </punkt>
+    <punkt id="2265" miejscowosc="" 
+      ns="53.75275" we="20.47143" km="32.1" etykieta="150-30-B-LE" 
+      kolejnosc="13"> 
+    <opispunktu typ="biwak" kolejnosc="-1">waska_polka_wzdluz_rzeki_Olsztyn_Kortowo</opispunktu> 
+    </punkt>
+    <punkt id="2264" miejscowosc="Bartag" 
+      ns="53.71726" we="20.47219" km="27.2" etykieta="155-20-M" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">drogowy_wies_Bartag</opispunktu> 
+    </punkt>
+    <punkt id="2263" miejscowosc="Bartag" 
+      ns="53.71538" we="20.47107" km="27" etykieta="155-40-BG-LE" 
+      kolejnosc="11"> 
+    <opispunktu typ="biwak" kolejnosc="-1">wies_bartag</opispunktu> 
+    </punkt>
+    <punkt id="2262" miejscowosc="" 
+      ns="53.691834" we="20.49421" km="22.4" etykieta="160-00-W" 
+      kolejnosc="10"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">koniec_przenoski_miejsce_wodowania</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="244" typ="rzeka" nazwa="rez Las Warmiński" 
+      uciazliwosc="U3" trudnosc="ZWC" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>szybki nurt, płytko, dużo zwałek, czysta woda</opis>
+    <punkt id="2261" miejscowosc="Ruś" 
+      ns="53.68761" we="20.49924" km="21.8" etykieta="160-60-BG-P300-P" 
+      kolejnosc="9"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Rus_legalny_biwak_sklepy._przenoska_lub_przewozka_300m_z_prawej_na_lewa</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2260" miejscowosc="" 
+      ns="53.66798" we="20.50984" km="19" etykieta="163-40-X" 
+      kolejnosc="8"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">przyczolek_starego_mostu</opispunktu> 
+    </punkt>
+    <punkt id="2259" miejscowosc="" 
+      ns="53.66675" we="20.50944" km="18.9" etykieta="163-50-X" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">resztki_mostu</opispunktu> 
+    </punkt>
+    <punkt id="2258" miejscowosc="" 
+      ns="53.64551" we="20.50435" km="15.3" etykieta="167-10-M-J-P-PRL" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">most_drogowy_przenoska_z_prawej_na_lewa_poczatek_przelomu</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2257" miejscowosc="" 
+      ns="53.64266" we="20.49909" km="14.7" etykieta="167-70-B-PR" 
+      kolejnosc="5"> 
+    <opispunktu typ="biwak" kolejnosc="-1">malowniczy_ale_biwakowanie_zabronione_rez_las_warminski</opispunktu> 
+    </punkt>
+    <punkt id="2256" miejscowosc="" 
+      ns="53.63034" we="20.49154" km="13" etykieta="169-40-U" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">jez_ustrych</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="243" typ="rzeka" nazwa="ośrodek URM" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>śliczna czysta i płytka rzeczka</opis>
+    <punkt id="2255" miejscowosc="" 
+      ns="53.62852" we="20.47787" km="11.9" etykieta="170-50-U" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">ujscie_ukryte_na_prawo_wzdluz_pomostu_OW_URM_Łansk</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">zakaz_wstepu_bez_zgody</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="242" typ="mieszany" nazwa="Kurki jez. Łańskie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>rzeką pośród wysokich trzcin</opis>
+    <punkt id="2254" miejscowosc="Łańsk" 
+      ns="53.61826" we="20.47307" km="10.7" etykieta="171-70-X" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">budka_wartownicza_BOR_pusta</opispunktu> 
+    </punkt>
+    <punkt id="2253" miejscowosc="" 
+      ns="53.60751" we="20.48163" km="9.3" etykieta="173-10-BG-LE" 
+      kolejnosc="1"> 
+    <opispunktu typ="biwak" kolejnosc="-1">ostatni_przed_osrodkiem_URM_Lansk_odwiedzany_przez_straz_lesna</opispunktu> 
+    </punkt>
+    <punkt id="2252" miejscowosc="Kurki" 
+      ns="53.536669" we="20.475483" km="0" etykieta="182-40-M-W" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Kurki_miejsce_wodowania</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="393" typ="rzeka" nazwa="Smolajny - Łaniewo" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="pozaKL" 
+      kolejnosc="9"> 
+  <opis>Wg Pawła: "najciekawszy odc. Łyny (nie licząc rezerwatu Las Warmiński) to przełom
+na odc. Smolajny-Łaniewo".</opis>
+    <punkt id="2292" miejscowosc="Łaniewo" 
+      ns="54.0934" we="20.44669" km="103" etykieta="79-40-M-LE" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Łaniewo_w_lewo</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Wg informacji uzyskanych od Pawła w dniu 12.04.2011 r.: "W Łaniewie miejsce na biwak za mostem po prawej, ale właściciel nie jest skłonny do pozwolenia ze wzgl. na śmieci pozostawiane notorycznie przez kajakarzy".</opispunktu> 
+    </punkt>
+    <punkt id="2291" miejscowosc="Smolajny" 
+      ns="54.02395" we="20.39525" km="83.7" etykieta="98-70-BG-LE" 
+      kolejnosc="39"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Smolajny_muliste_dno</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

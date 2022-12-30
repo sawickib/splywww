@@ -1,0 +1,130 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.48279156" lon="17.12556334">
+<name>16.00</name>
+<desc>Zapora jeziora Kowalskie. Wygodne miejsce wodowania, przed zaporą duży parking na samochody. Rzeka ma tu 5-8 m szerokości i płynie spokojnie pośród drzew. Miejscami jest porośnięta trzcinami</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.48115008" lon="17.11576654">
+<name>15.20</name>
+<desc>Zniszczona betonowa zastawka - kładka </desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.48144740" lon="17.11307907">
+<name>15.00</name>
+<desc>Drewniany mostek z rurą zawieszoną nisko nad wodą, wymuszającą krótką przenoskę. Z prawej opuszczone zabudowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.47769056" lon="17.09946224">
+<name>13.70</name>
+<desc>Niskie kładki w pobliżu zabudowań</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.47523530" lon="17.09829957">
+<name>13.40</name>
+<desc>Most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.46817304" lon="17.08061658">
+<name>11.90</name>
+<desc>Rura nisko nad wodą</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.46803368" lon="17.07975256">
+<name>11.80</name>
+<desc>Druga rura nisko nad wodą (w poblizu stawów hodowlanych)</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.46265311" lon="17.07846107">
+<name>11.10</name>
+<desc>Niska stalowa kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.46214647" lon="17.07756863">
+<name>11.00</name>
+<desc>Jaz o wysokości 2 m z wodowskazem. Krótka przenoska prawą stroną po trawie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.45895956" lon="17.07120447">
+<name>10.40</name>
+<desc>Most betonowy z wodowskazem </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.44671192" lon="17.05024623">
+<name>7.70</name>
+<desc>Betonowy mostek z małym prożkiem na zakręcie, za nim rura w poprzek nisko nad lustrem wody</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.44606673" lon="17.04604445">
+<name>7.40</name>
+<desc>Niska kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.44164420" lon="17.03925081">
+<name>6.70</name>
+<desc>Niski mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.44004251" lon="17.03452555">
+<name>6.30</name>
+<desc>Most drogowy. Poniżej mostu, wiosną tworzą się tu spore rozlewiska</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.43845733" lon="17.02624338">
+<name>5.50</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.43493501" lon="17.01928066">
+<name>4.90</name>
+<desc>Jaz 3 stopniowy - przenoska lewym podmokłym brzegiem. Niżej bystro i dziko, z kilkoma powalonymi drzewami w korycie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.43159654" lon="17.00422180">
+<name>3.70</name>
+<desc>Most ulicy Bałtyckiej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.42580046" lon="16.99157040">
+<name>2.50</name>
+<desc>Zamykana (podnoszona) brama na wpływie na obszar zakładów Nivea</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.42438357" lon="16.98599610">
+<name>2.10</name>
+<desc>Przesmyk pod niskim ogrodzeniem na wypływie z zakładów Nivea</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.42350452" lon="16.98053535">
+<name>1.60</name>
+<desc>Ceglany, sklepiony wiadukt łukowy. Niżej odcinek zwałkowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.42342907" lon="16.97681133">
+<name>1.30</name>
+<desc>Most na ul. Gdyńskiej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.42545868" lon="16.97371140">
+<name>1.00</name>
+<desc>Ulica Skromna. Jaz do spłynięcia po uprzednim rozpoznaniu: pochylnia z uskokiem, płynąć lewym przęsłem. Ewentualna przenoska lewym brzegiem. Dalej bystro, miejscami wąsko, po drodze 2 małe prożki. Odcinek na tyłach zaniedbanych domostw, sporo śmieci i gruzu w rzece</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.42562042" lon="16.96580599">
+<name>0.50</name>
+<desc>Most ul. Hlonda</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.42818456" lon="16.96230020">
+<name>0.00</name>
+<desc>Ujście Głównej do Warty. Spływ wygodnie jest zakończyć 200 m od ujścia, na lewym brzegu Warty, tuż za widocznym mostem Lecha. Znajduje się tu spory plac z miejscem na samochody i dostępem praktycznie do samej rzeki</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

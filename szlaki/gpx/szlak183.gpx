@@ -1,0 +1,50 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.36124349" lon="16.50930500">
+<name>8.40</name>
+<desc>Charakterystyczne miejsce w lesie, przez miejscowych znane, jako byłe obozowisko harcerzy nad jeziorem Zdbiczno. Dobry dojazd leśną drogą od strony drogi asfaltowej Szwecja - Zdbice. Spływ wygodnie jest rozpocząć ze starego pomostu wybudowanego w kształt prostokąta, odgrodzonego od toni jeziora stalowymi kratami, tak więc przepływ pod pomostem nie jest możliwy, co w praktyce nie wydaje się oczywiste</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.35807865" lon="16.49495328">
+<name>7.30</name>
+<desc>Wypływ Zdbicy z jeziora Zdbiczno, niewidoczny z daleka, nieoznakowany, schowany za trzcinami obok wędkarskiego pomostu. Zaraz za wypływem znajduje się charakterystyczna drewniana kładka oraz niska ambona myśliwska pokryta siatką maskującą. Poniżej odcinek około 600 m porośnięty trzcinami. Im dalej od jeziora, tym trzciny bardziej gęste, zmuszające ostatecznie do przeciągania się, bez możliwości wiosłowania. Na szczęście nurt rzeki jest czytelny więc wiadomo w którym kierunku płynąć</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.35289920" lon="16.49287979">
+<name>6.70</name>
+<desc>Drewniana kładka zbudowana z wykorzystaniem grubej kłody. Koniec odcinka zatrzcinionego, rzeka wpływa do lasu. Poniżej fragment rzeki przypominający sztuczny przekop o wzmocnionych stromych brzegach. W korycie kilka powalonych drzew łatwych do przeskoczenia</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.35060871" lon="16.49058438">
+<name>6.30</name>
+<desc>Most na leśnej drodze z przepustem dwururowym. Przy niższych stanach wody ew. możliwość niewygodnego przepłynięcia ciasnym prawym przepustem, w przeciwnym razie niewygodna krótka przenoska z wyjściem z wody na stromą, obsypującą się skarpę</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.34541258" lon="16.48439012">
+<name>5.30</name>
+<desc>Charakterystyczny zielony budynek przypominający ujęcie wody p.poż. na potrzeby lasów. Poniżej kilka zwałek</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.34334284" lon="16.48417537">
+<name>5.00</name>
+<desc>Bobrza tama, poniżej której rzeka przyspiesza, zaczyna więc brakować wody. Fragment znacząco płytszej wody z szuraniem po twardym kamiennym dnie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.34119848" lon="16.47837384">
+<name>4.00</name>
+<desc>Betonowy most na drodze leśnej tzw. Czarna Droga. Pod mostem małe bystrze. Poniżej rzeka wytraca energię i robi się nieco głębsza. Dalej kilka malowniczych prostych odcinków w szpalerze drzew</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.31280125" lon="16.50171775">
+<name>0.00</name>
+<desc>Ujście Zdbicy do Dobrzycy, tuż przed mostkiem, tzw Złamany Most, na dojeździe pożarowym nr 16. Odcinek około 200m przed ujściem jest porośnięty trzcinami, miejscami dość gęsto. Przy ujściu Zdbica rozdziela się na dwa koryta. Spływ wygodnie jest zakończyć na Dobrzycy, w miejscowości Ostrowiec. Tuż za głównym mostem, po prawej stronie znajduje się wygodne wyjście z wody, a zatoczka autobusowa w pobliżu umożliwia wygodny załadunek kajaków</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

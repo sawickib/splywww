@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="17" nazwa="Szlamica" wersja="2">
+<opis>Bardzo ciekawy wariant do szlaku Czarną Hańczą i Kanałem Augustowskim. Prowadzi z Rygola przez maleńką osadę Muły do przeciętego granicą jeziora Szlamy. Z Mułów przenoska lub przewózka piękną leśną drogą ok. 3 km do śluzy Kudrynki na Kanale Augustowskim. Dalej Kanałem Augustowskim od śluzy Kudrynki do połączenia z tradycyjnym szlakiem przy śluzie Sosnówek. Całość do przepłynięcia w jeden dzień, wody wszędzie dostatek.  Będąc w Kudrynkach warto się przespacerować do granicznej śluzy Kurzyniec, jedynej z zachowanymi kolumnami zwodzonego mostu - ok. 8 km w obie strony. Można oczywiście tam też dopłynąć - od śluzy Kudrynki 4 km i trochę przeszkód, w większości dzięki grasującym tu wszędzie bobrom. Swoją drogą spacer ten to ciekawa lekcja możliwości natury w zakresie renaturalizacji terenu. Dziś ten odcinek Kanału Augustowskiego znów stał się Czarną Hańczą i nawet trudno sobie wyobrazić, że pływały tędy 150 lat temu wyładowane zbożem kilkunastometrowe berlinki.</opis> 
+  <odcinek id="70" typ="mieszany" nazwa="Szlamica od jeziora Głębokiego do jeziora Szlamy" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Malownicze leśne jeziora połączone krętym odcinkiem rzeki. Pomiędzy nimi, na wzgórzach leży malutka osada Muły. "Leśna pustelnia" - tak pisał w swoim przewodniku Józef Kuran.</opis>
+    <punkt id="639" miejscowosc="" 
+      ns="0" we="0" km="7" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pn.-wsch. koniec wyspy na jeziorze Szlamy. Uwaga, bo przed nami na wodzie granica. Podobno była kiedyś oznaczona bojkami, ale "pokradli bo sznur był dobry na wnyki". Odległość do granicy z końca wyspy: 1 km.</opispunktu> 
+    </punkt>
+    <punkt id="638" miejscowosc="Muły" 
+      ns="0" we="0" km="6.3" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Szlamicy do jeziora Szlamy. Od wypływu z jeziora Głębokiego rzeka jest znacznie szersza niż wcześniej. Oba jeziora były kiedyś jednym. Przed nami na jeziorze wyspa.</opispunktu> 
+    </punkt>
+    <punkt id="646" miejscowosc="Muły" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Z Mułów przenoska lub przewózka piękną leśną drogą ok. 3 km do śluzy Kudrynki na Kanale Augustowskim. Organizacja przewózki (dla leniwych): pan Stanisław Michałowski, Rygol 11 tel. 087-641-75-05. (Piszę to jako właściciel kanadyjki z nosidłem - w skład podróży w tradycyjnym dla kanadyjki kanadyjskim terenie przenoski tej długości są chlebem powszednim - tak mówią wszyscy ci, którzy tam byli...) </opispunktu> 
+    </punkt>
+    <punkt id="637" miejscowosc="Muły" 
+      ns="0" we="0" km="5.9" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany most na drodze do Kudrynek. Wracamy do niego po obejrzeniu jeziora Szlamy i stąd zaczynamy przewózkę (lub przenoskę) do śluzy Kudrynki.</opispunktu> 
+    </punkt>
+    <punkt id="636" miejscowosc="" 
+      ns="0" we="0" km="4.1" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Leśny biwak na lewym brzegu jeziora, niedaleko ujścia.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="69" typ="rzeka" nazwa="Szlamica od mostu Rudawka-Giby do jeziora Głębokie" 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Piękny puszczański odcinek w głębokim wąwozie, podobny w charakterze do Czarnej Hańczy od Dworczyska do Jałowego Rogu, lecz szybszy. Liczne zwalone drzewa na ogół udaje się pokonać dołem. Niektóre przejścia są już ułatwione przy pomocy piły i siekiery.</opis>
+    <punkt id="635" miejscowosc="" 
+      ns="0" we="0" km="3.8" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Puszczańskich jezior czar... Ujście sztucznego odcinka Szlamicy do jeziora Głębokiego. Właściwa Szlamica wypływa dopiero z tego jeziora.</opispunktu> 
+    </punkt>
+    <punkt id="634" miejscowosc="Rygol" 
+      ns="0" we="0" km="2.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Bardzo wysoki betonowy most. W lewo niedaleko do sklepu i leśniczówki w której można uzyskać zgodę na biwakowanie nad jeziorem Głębokim. W pobliżu malutkie jeziorko Sinkewelen.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="68" typ="rzeka" nazwa="Szlamica od mostu Rudawka-Giby do Rygola" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Rzeka płynie łąkami w pewnym oddaleniu od wsi. Odcinek ten i następny jest sztucznym przekopem wykonanym przez budowniczych Kanału w celu zabezpieczenia go przed nadmiarem wód Czarnej Hańczy.  W niewielkiej odległości na pd, w tym samym kierunku płynie do Niemna Czarna Hańcza, będąca od śluzy Sosnówek Kanałem Augustowskim.</opis>
+    <punkt id="633" miejscowosc="Rygol" 
+      ns="0" we="0" km="1.7" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Spiętrzenie wody dla Małej Elektrowni Wodnej (czyli MEW). Trochę niewygodne lądowanie gdyż brzeg przed jazem jest stromo wyłożony "kocimi łbami". Lepiej wysiąść po prawej. Budynek elektrowni stoi na lewym brzegu. Za nim jest łączka nadająca się, oczywiście za zgodą właścicieli, na miejsce biwakowe, bardzo dobre  ze względów taktycznych. Stąd do sklepu, położonego na wschodnim krańcu wsi, jest niecały kilometr. W głębi na prawym brzegu bardzo ładny domek strażnika wodnego, który prawdopodobnie jest włścicielem łączki.</opispunktu> 
+    </punkt>
+    <punkt id="632" miejscowosc="Rygol" 
+      ns="0" we="0" km="0.6" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1">Wypożyczalnia i przewóz kajaków. Od strony rzeki mały pomost.</opispunktu> 
+    </punkt>
+    <punkt id="631" miejscowosc="Rygol" 
+      ns="0" we="0" km="0.2" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Przy lewym brzegu pomościk i wygodne wyjście na ląd zaś kawałek dalej od brzegu, na suchej łączce pole biwakowe i sezonowy sklep. Całość wraz z wypożyczalnią z następnego punktu należy do p. Stanisława Michałowskiego.</opispunktu> 
+    </punkt>
+    <punkt id="630" miejscowosc="Rygol" 
+      ns="53.9031" we="23.4094" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Pierwszy most w Rygolu. Czarna Hańcza tuż przed nim gwałtownie skręca w prawo. Na Szlamicę płyniemy wprost pod mostem.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="71" typ="kanał" nazwa="Kanał Augustowski od śluzy Kudrynki do śluzy Sosnówek" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Odcinek od Kudrynek do śluzy Tartak uznaliśmy za najpiękniejszy na całej przepłyniętej przez nas długości Kanału - od Kudrynek do Augustowa. Wokół puszcza, stary sosnowy las na wysokim lewy brzegu i mieszany na niskim prawym. Zaś w środku stoi woda kanału, z rzadka mieszana wiosłem. Za śluzą Tartak zaczynają się po prawej łąki wsi Rygol. Po lewej las.</opis>
+    <punkt id="645" miejscowosc="Sosnówek" 
+      ns="0" we="0" km="15.1" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="śluza" kolejnosc="-1">Śluza Sosnówek - pierwsza śluza na tradycyjnym szlaku Czarną Hańczą i Kanałem Augustowskim.</opispunktu> 
+    </punkt>
+    <punkt id="644" miejscowosc="" 
+      ns="0" we="0" km="14.9" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Czarna Hańcza w prawo pod prąd, na wprost przekop Kanału Augustowskiego.</opispunktu> 
+    </punkt>
+    <punkt id="643" miejscowosc="" 
+      ns="0" we="0" km="14.6" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rozwidlenie przed śluzą Sosnówek. Do komory w prawo, pod upust w lewo. Nad lewym kanałem, kawałek dalej niewielki mostek.</opispunktu> 
+    </punkt>
+    <punkt id="642" miejscowosc="Tartak" 
+      ns="0" we="0" km="11.1" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="śluza" kolejnosc="-1">Śluza Tartak. Czynna ale przenoska nie jest uciążliwa - na prawo od komory, w najwęższym miejscu. Przed i za komorą nieduże stawy.</opispunktu> 
+    </punkt>
+    <punkt id="641" miejscowosc="" 
+      ns="0" we="0" km="10.6" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rozwidlenie przed śluzą Tartak. Do komory w prawo, pod upust w lewo.</opispunktu> 
+    </punkt>
+    <punkt id="640" miejscowosc="Kudrynki" 
+      ns="53.8797" we="23.5039" km="8.1" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="śluza" kolejnosc="-1">Śluza Kudrynki. W pełni sprawna choć nie używana. Za zgodą śluzowego można biwakować. Jest też pole biwakowe na bindudze, kawałek za domkiem śluzowego. Sprzęt najlepiej zwodować przy upuście. Przed śluzą staw.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

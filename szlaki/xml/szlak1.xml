@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="1" nazwa="Rawka" wersja="4">
+<opis>Bardzo ładna mała rzeczka w okolicy Skierniewic. Dosyć uciążliwa i trudna. Idealnie nadaje się na weekendowy wypad z Warszawy. Przeciętnie cztery dni płynięcia. </opis> 
+  <odcinek id="166" typ="rzeka" nazwa="Rawka w Bolimowskim Parku Krajobrazowym" 
+      uciazliwosc="U4" trudnosc="ZWC" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Bardzo dużo drzew, szybki nurt. Rawka kręci, a wokoło piękna okolica.
+</opis>
+    <punkt id="4590" miejscowosc="Bolimów" 
+      ns="52.08174002" we="20.17178617" km="14.5" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Łąka naprzeciw domu sołtysa. Wygodne miejsce wodowania. Łąka z pewnością jest czyjąś własnością, jednak właściciel nie objawił się.</opispunktu> 
+    </punkt>
+    <punkt id="1150" miejscowosc="Bolimów" 
+      ns="52.07910996" we="20.17305039" km="14.8" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="most" kolejnosc="0">Most betonowy na drodze Skierniewice-Sochaczew koło Bolimowa.</opispunktu> 
+    </punkt>
+    <punkt id="4589" miejscowosc="Bolimów" 
+      ns="52.06738483" we="20.18221007" km="17.2" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Most autostrady</opispunktu> 
+    </punkt>
+    <punkt id="4588" miejscowosc="Bolimów" 
+      ns="52.05796003" we="20.1937073" km="19.7" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="jaz" kolejnosc="-1">3 przesłowy jaz z niewielkim odwojem, 2 stopniowy. Piętrzący wodę na potrzeby pobliskiego zalewu.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Wygodna przenoska prawym brzegiem, 30 m po trawie</opispunktu> 
+    </punkt>
+    <punkt id="1152" miejscowosc="Budy Grabskie" 
+      ns="52.01132247" we="20.20637053" km="30.8" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="0">Betonowy most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="4587" miejscowosc="Budy Grabskie" 
+      ns="52.00478774" we="20.21005339" km="31.9" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Zalesione zakole rzeki. Możliwość dzikiego biwakowania. Po ogromnej ilości śmieci sądzić można, że miejsce to jest znane i często wykorzystywane.</opispunktu> 
+    </punkt>
+    <punkt id="1153" miejscowosc="Ruda" 
+      ns="52.00151904" we="20.21319056" km="32.5" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="jaz" kolejnosc="0">Metrowe spiętrzenie rzeki. Ale po co ? 
+Niektórzy to spływają.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="0">Lokalny most drogowy nad jazem.</opispunktu> 
+    </punkt>
+    <punkt id="1154" miejscowosc="" 
+      ns="51.99804" we="20.22319" km="0" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="biwak" kolejnosc="0">Pole biwakowe na terenie ośrodka wczasowego. Opłaty nieznane.</opispunktu> 
+    </punkt>
+    <punkt id="1155" miejscowosc="" 
+      ns="51.99257" we="20.22194" km="0" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="biwak" kolejnosc="0">Zagospodarowane miejsce biwakowe: stoliki, itp. Obok stadnina koni.</opispunktu> 
+    </punkt>
+    <punkt id="1156" miejscowosc="Ruda" 
+      ns="51.98467276" we="20.22085014" km="36.1" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="0">Betonowy most drogowy nad jazem.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska 40 metrów po lewej stronie.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="0">Niespływalne 2 metrowe spiętrzenie wody do młyna. (w czerwcu 2015 r. pochylnia była spłynięta otwartymi kajakami bez najmniejszych problemów).</opispunktu> 
+    </punkt>
+    <punkt id="4591" miejscowosc="Patoki" 
+      ns="52.14233739" we="20.11230067" km="0" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Rawki do Bzury.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="167" typ="rzeka" nazwa="Rawka od Dolecka do Rudy" 
+      uciazliwosc="U3" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Odcinek trochę szerszy, łatwiejszy. Rzeka zwalnia i rozlewa się 
+na skutek kilku jazów do młynów. Rezerwat Rawka.</opis>
+    <punkt id="1157" miejscowosc="" 
+      ns="51.98441" we="20.2214" km="0" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="biwak" kolejnosc="0">Łąka na lewym brzegu tuż przed jazem. Od rzeki oddzielona
+pojedyńczą linią drzew przy białym domku, gdzie
+mieszka właściciel. Przedmieście Skierniewic.</opispunktu> 
+    </punkt>
+    <punkt id="1158" miejscowosc="Ruda" 
+      ns="51.98035421" we="20.22962494" km="37.1" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewym brzegiem - kilka metrów.
+Wygodny dostęp do wody.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="0">Most kolejowy. Zaraz za mostem próg ze stalowych larsenów. Spływać nie warto, szkoda kajaka. Łatwo spławić po prawej stronie. Po lewej zaraz za progiem dosyć głeboko.</opispunktu> 
+    </punkt>
+    <punkt id="1160" miejscowosc="Samice" 
+      ns="51.97379957" we="20.23286239" km="38.4" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="0">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4586" miejscowosc="Samice" 
+      ns="51.97409909" we="20.23627282" km="38.8" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ładne piaszczyste zakole rzeki, tzw. "Oberwanka"</opispunktu> 
+    </punkt>
+    <punkt id="1161" miejscowosc="Samice" 
+      ns="51.96211444" we="20.24837389" km="41" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="0">Betonowy most drogowy koło Samic.</opispunktu> 
+    </punkt>
+    <punkt id="1162" miejscowosc="Kamion" 
+      ns="51.94723009" we="20.26109231" km="44.7" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="0">Całkiem spory most drogowy na uczęszczanej drodze.</opispunktu> 
+    </punkt>
+    <punkt id="1163" miejscowosc="Kamion" 
+      ns="51.94522002" we="20.26371005" km="45" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="sklep" kolejnosc="-1">W Kamionie jest kilka sklepów.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="0">2.5 metrowe spiętrznie wody dla elektrowni wodnej.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="0">Przenoska po lewej stronie, 50 metrów.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="0">Most nad jazem, dojazd do prywatnej posesji.</opispunktu> 
+    </punkt>
+    <punkt id="1165" miejscowosc="Kamion" 
+      ns="51.94563" we="20.26649" km="0" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="biwak" kolejnosc="0">Bardzo dobre miejsce biwakowe tuż przed Kamionem. 2 metrowa skarpa na lewym brzegu.</opispunktu> 
+    </punkt>
+    <punkt id="1167" miejscowosc="Suliszew" 
+      ns="51.93023832" we="20.28587008" km="51" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="0">Betonowy most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="1168" miejscowosc="Suliszew" 
+      ns="51.92853432" we="20.28582535" km="51.3" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="przenoska" kolejnosc="0">Po prawej stronie 30 metrów przenoski.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep we wsi - 200 m od młyna. Napoje chłodzące można kupić w remizie.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="0">Lokalny mostek na jazie.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="0">Spiętrzenie wody do młyna, 2.5 metra. Niespływalne.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="168" typ="rzeka" nazwa="Rawka od Kurzeszyna do Dolecka" 
+      uciazliwosc="U4" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Mała rzeczka, bardzo kręcąca na tym odcinku. Wiele zwalonych przez 
+bobry drzew. Rezerwat Rawka.</opis>
+    <punkt id="1170" miejscowosc="Doleck" 
+      ns="51.90010599" we="20.30074074" km="57" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep, 200 metrów w prawą stronę od rzeki (sklep w słabej kondycji, wkrótce może zostać zamknięty)</opispunktu> 
+    <opispunktu typ="most" kolejnosc="0">Betonowy most drogowy. Wygodny dostęp do wody.</opispunktu> 
+    </punkt>
+    <punkt id="1171" miejscowosc="Psary" 
+      ns="51.88260032" we="20.28941669" km="60.9" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="0">Kładka betonowa koło Starej Rawy.</opispunktu> 
+    </punkt>
+    <punkt id="4585" miejscowosc="Psary" 
+      ns="51.88110441" we="20.2899273" km="61.2" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość dzikiego biwaku na suchej łące na prawym brzegu. W pobliżu wybitne strome wzniesienie, prawdopodobnie grodzisko.</opispunktu> 
+    </punkt>
+    <punkt id="1172" miejscowosc="Nowy Dwór" 
+      ns="51.86406016" we="20.2888313" km="66" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="0">Betonowy most drogowy. Przed mostem połączenie koryt w jedno.</opispunktu> 
+    </punkt>
+    <punkt id="1173" miejscowosc="Nowy Dwór" 
+      ns="51.86364" we="20.28682" km="66" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="0">Mały most, ale z kamieniami pod spodem. Przy niskiej wodzie nie można przepłynąć.</opispunktu> 
+    </punkt>
+    <punkt id="1174" miejscowosc="Nowy Dwór" 
+      ns="51.86312" we="20.28603" km="66" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="sklep" kolejnosc="0">Sklep spożywczy 100m w lewo od rzeki. Otwarty: pn-pt 8:30-18:30, sb 9:00-15:00</opispunktu> 
+    </punkt>
+    <punkt id="4584" miejscowosc="Nowy Dwór" 
+      ns="51.85566788" we="20.29146216" km="67.6" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4583" miejscowosc="Nowy Dwór" 
+      ns="51.85526303" we="20.29094609" km="67.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rozwidlenie rzeki, która na odcinku około 2 km płynie dwoma równoległymi korytami. Spławna jest zarówno lewa i prawa odnoga.</opispunktu> 
+    </punkt>
+    <punkt id="1175" miejscowosc="Wołucza" 
+      ns="51.84082692" we="20.29047311" km="71" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="0">Most drogowy koło Wołuczy.</opispunktu> 
+    </punkt>
+    <punkt id="1176" miejscowosc="Kurzeszynek" 
+      ns="51.83334705" we="20.28452436" km="72" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="0">Mała drewniana kładka.</opispunktu> 
+    </punkt>
+    <punkt id="1177" miejscowosc="Kurzeszyn" 
+      ns="51.82963" we="20.28269" km="73.5" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="biwak" kolejnosc="0">Łąka 100 metrów poniżej mostu, na której można zabiwakować. 
+Właściciel prawdopodobnie istnieje, ale się nie objawił.</opispunktu> 
+    </punkt>
+    <punkt id="1178" miejscowosc="Kurzeszyn" 
+      ns="51.82881" we="20.28017" km="73.6" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="0">Betonowy most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="4582" miejscowosc="Helenów" 
+      ns="51.8220982" we="20.27757728" km="74.6" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość dzikiego biwakowania z dojazdem do rzeki</opispunktu> 
+    </punkt>
+    <punkt id="4581" miejscowosc="Żydomice" 
+      ns="51.79466532" we="20.26520093" km="80.6" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="jaz" kolejnosc="-1">5 przęsłowy jaz o wys. 0,5 m</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most zaraz za jazem</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

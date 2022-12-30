@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="156" nazwa="Główna (dopływ Warty)" wersja="1">
+<opis>Rzeka płynie na terenie Pojezierza Wielkopolskiego. Początek bierze z południowego krańca jeziora Lednica. Początkowo płynie na południe, a następnie skręca na zachód w kierunku Pobiedzisk. W zlewni rzeki znajdują się liczne jeziora, zarówno naturalne jak i sztuczne. Są to począwszy od Lednicy, Jezioro Biezdruchowskie, Jezioro Kowalskie (zaporowe na Głównej). Największym dopływem (prawym) jest Struga Wierzenicka. W dorzeczu Głównej znajdują się trzy parki krajobrazowe: Lednicki Park Krajobrazowy, Park Krajobrazowy Promno i Park Krajobrazowy Puszcza Zielonka. Końcowy odcinek znajduje się w granicach Poznania, przy ujściu znajduje się część miasta również nazywana Główną (wg Wikipedii). 
+Jak na nizinną rzekę dość szybka, kręta i choć płynie w sąsiedztwie dużej aglomeracji miejskiej Poznania, miejscami bardzo dzika. Zróżnicowana krajobrazowo, trochę lasów, jednak większość odcinków prowadzi przez tereny otwarte, pola i łąki. Odcinek przyujściowy oferuje klimaty industrialne i zaplecze niezbyt zamożnych domostw o wątpliwej estetyce. Po drodze spotkamy kilka progów do spłynięcia lub obniesienia, w zależności od ilości wody. Na odcinku miejskim rzeka przepływa przez ogrodzone zakłady Nivea. Konieczne jest wcześniejsze poinformowanie dyrekcji zakładu o planowanym spływie, po to by pracownicy ochrony podnieśli zamykaną na kłódkę bramę wlotową nad korytem rzeki. Stany wody Głównej można obserwować wyłącznie w terenie, za pomocą wodowskazów w miejscowości Wierzenica. Wskazania wodowskazów: Wierzenica jaz (11,0 km) - 165 oraz Wierzenica most (10,4 km) - 145, gwarantują bardzo dobre warunki wodne. Odcinek z Barcinka w mostu Lecha na Warcie zajmuje w tych warunkach około 4 h.</opis> 
+    <punkt id="5174" miejscowosc="Barcinek" 
+      ns="52.48279156" we="17.12556334" km="16" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora jeziora Kowalskie. Wygodne miejsce wodowania, przed zaporą duży parking na samochody. Rzeka ma tu 5-8 m szerokości i płynie spokojnie pośród drzew. Miejscami jest porośnięta trzcinami</opispunktu> 
+    </punkt>
+    <punkt id="5175" miejscowosc="Wierzonka" 
+      ns="52.48115008" we="17.11576654" km="15.2" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zniszczona betonowa zastawka - kładka </opispunktu> 
+    </punkt>
+    <punkt id="5176" miejscowosc="Wierzonka" 
+      ns="52.4814474" we="17.11307907" km="15" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek z rurą zawieszoną nisko nad wodą, wymuszającą krótką przenoskę. Z prawej opuszczone zabudowania</opispunktu> 
+    </punkt>
+    <punkt id="5177" miejscowosc="Wierzonka" 
+      ns="52.47769056" we="17.09946224" km="13.7" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Niskie kładki w pobliżu zabudowań</opispunktu> 
+    </punkt>
+    <punkt id="5178" miejscowosc="Wierzonka" 
+      ns="52.4752353" we="17.09829957" km="13.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="5179" miejscowosc="Wierzenica" 
+      ns="52.46817304" we="17.08061658" km="11.9" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rura nisko nad wodą</opispunktu> 
+    </punkt>
+    <punkt id="5180" miejscowosc="Wierzenica" 
+      ns="52.46803368" we="17.07975256" km="11.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Druga rura nisko nad wodą (w poblizu stawów hodowlanych)</opispunktu> 
+    </punkt>
+    <punkt id="5181" miejscowosc="Wierzenica" 
+      ns="52.46265311" we="17.07846107" km="11.1" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska stalowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="5182" miejscowosc="Wierzenica" 
+      ns="52.46214647" we="17.07756863" km="11" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz o wysokości 2 m z wodowskazem. Krótka przenoska prawą stroną po trawie</opispunktu> 
+    </punkt>
+    <punkt id="5183" miejscowosc="Wierzenica" 
+      ns="52.45895956" we="17.07120447" km="10.4" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy z wodowskazem </opispunktu> 
+    </punkt>
+    <punkt id="5184" miejscowosc="Mechowo" 
+      ns="52.44671192" we="17.05024623" km="7.7" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek z małym prożkiem na zakręcie, za nim rura w poprzek nisko nad lustrem wody</opispunktu> 
+    </punkt>
+    <punkt id="5185" miejscowosc="Mechowo" 
+      ns="52.44606673" we="17.04604445" km="7.4" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska kładka</opispunktu> 
+    </punkt>
+    <punkt id="5186" miejscowosc="Janikowo" 
+      ns="52.4416442" we="17.03925081" km="6.7" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski mostek</opispunktu> 
+    </punkt>
+    <punkt id="5187" miejscowosc="Janikowo" 
+      ns="52.44004251" we="17.03452555" km="6.3" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Poniżej mostu, wiosną tworzą się tu spore rozlewiska</opispunktu> 
+    </punkt>
+    <punkt id="5188" miejscowosc="Janikowo" 
+      ns="52.43845733" we="17.02624338" km="5.5" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="5189" miejscowosc="Bogucin" 
+      ns="52.43493501" we="17.01928066" km="4.9" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 3 stopniowy - przenoska lewym podmokłym brzegiem. Niżej bystro i dziko, z kilkoma powalonymi drzewami w korycie</opispunktu> 
+    </punkt>
+    <punkt id="5190" miejscowosc="Poznań" 
+      ns="52.43159654" we="17.0042218" km="3.7" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most ulicy Bałtyckiej</opispunktu> 
+    </punkt>
+    <punkt id="5191" miejscowosc="Poznań" 
+      ns="52.42580046" we="16.9915704" km="2.5" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zamykana (podnoszona) brama na wpływie na obszar zakładów Nivea</opispunktu> 
+    </punkt>
+    <punkt id="5192" miejscowosc="Poznań" 
+      ns="52.42438357" we="16.9859961" km="2.1" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przesmyk pod niskim ogrodzeniem na wypływie z zakładów Nivea</opispunktu> 
+    </punkt>
+    <punkt id="5193" miejscowosc="Poznań" 
+      ns="52.42350452" we="16.98053535" km="1.6" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Ceglany, sklepiony wiadukt łukowy. Niżej odcinek zwałkowy</opispunktu> 
+    </punkt>
+    <punkt id="5194" miejscowosc="Poznań" 
+      ns="52.42342907" we="16.97681133" km="1.3" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ul. Gdyńskiej</opispunktu> 
+    </punkt>
+    <punkt id="5195" miejscowosc="Poznań " 
+      ns="52.42545868" we="16.9737114" km="1" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Ulica Skromna. Jaz do spłynięcia po uprzednim rozpoznaniu: pochylnia z uskokiem, płynąć lewym przęsłem. Ewentualna przenoska lewym brzegiem. Dalej bystro, miejscami wąsko, po drodze 2 małe prożki. Odcinek na tyłach zaniedbanych domostw, sporo śmieci i gruzu w rzece</opispunktu> 
+    </punkt>
+    <punkt id="5196" miejscowosc="Poznan" 
+      ns="52.42562042" we="16.96580599" km="0.5" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most ul. Hlonda</opispunktu> 
+    </punkt>
+    <punkt id="5197" miejscowosc="Poznań" 
+      ns="52.42818456" we="16.9623002" km="0" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Głównej do Warty. Spływ wygodnie jest zakończyć 200 m od ujścia, na lewym brzegu Warty, tuż za widocznym mostem Lecha. Znajduje się tu spory plac z miejscem na samochody i dostępem praktycznie do samej rzeki</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="150" nazwa="Gryżynka (dopływ Odry)" wersja="1">
+<opis>Prawy dopływ Odry na obszarze woj. lubuskiego. Przecina południową część Puszczy Rzepińskiej, w połowie drogi pomiędzy Krosnem Odrzańskim a Świebodzinem. Obszar źródliskowy znajduje się w okolicy miejscowości Gryżyna, a rzeka w górnym biegu nosi nazwę Gryżyński Potok, kiedy to płynie mocno urozmaiconą geomorfologicznie, głęboko wciętą doliną polodowcową. Płynie w większości przez teren Gryżyńskiego Parku Krajobrazowego, zasilając po drodze kilka stawów hodowlanych. Wartki nurt potoku był w przeszłości wykorzystywany do napędzania kilku młynów wodnych. Do dzisiaj w sposób czytelny w terenie zachowały się pozostałości dwóch z nich (Strzelnik i Zaskórz, przed wojną Vorder i Hinter Muhle). W górnym biegu Gryżynka zasilana jest przez liczne wysięki i źródła warstwowe spływające po słabo przepuszczalnych szczelnych glinach morenowych, przez co nawet w porach suchych wypływy są dość wydajne. Wzdłuż całej doliny widoczne są ślady bytowania bobrów. Liczne zgryzy, powalone drzewa i tamy świadczą o znacznej liczebności tego gatunku. Bobry mają tutaj doskonałe warunki do życia ponieważ rejon jest dziki i odludny. W górnym biegu rzeka jest płytka i zawalona drewnem, przez co dla kajaków trudna i uciążliwa, polecana wyłącznie "koneserom gatunku". Dość powiedzieć, że spływ tym odcinkiem odbywał się ze średnią prędkością 1km/1h. Rzeka jest trudno dostępna z lądu, przez co mało komfortowa w sytuacjach awaryjnych. Dodatkowej pikanterii dodaje fakt, że w dnie doliny nie ma zasięgu GSM. Odcinek z Gryżyny do Grabina zajął około 5 h, a z Grabina do ujścia do Odry 3,5 h spokojnego płynięcia K1.</opis> 
+    <punkt id="4980" miejscowosc="Gryżyna" 
+      ns="52.16064656" we="15.27005715" km="13.7" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Trzecia drewniana kładka na ścieżce edukacyjnej przy ruinach młyna (chyba Zaskórz, kiedyś napewno Hinter Muhle)</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pod kładką próg o wysokości około 1m zawalony drewnem. Spływanie progiem w zasadzie sprowadza się do pokonania zwałki górą, po pniach drzew </opispunktu> 
+    </punkt>
+    <punkt id="4979" miejscowosc="Gryżyna" 
+      ns="52.16626877" we="15.27121206" km="14.5" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Druga kładka drewniana na ścieżce edukacyjnej</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Za kładką tama bobrowa ze sporym rozlewiskiem </opispunktu> 
+    </punkt>
+    <punkt id="4978" miejscowosc="Gryżyna" 
+      ns="52.17044064" we="15.27038803" km="15" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Pierwsza kładka drewniana na ścieżce edukacyjnej, zaraz za nią ruiny młyna (chyba Strzelnik, kiedyś napewno Vorder Muhle)</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niewielki prożek do spłynięcia</opispunktu> 
+    </punkt>
+    <punkt id="4977" miejscowosc="Gryżyna" 
+      ns="52.17816632" we="15.2744032" km="16" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Koniec użytku ekologicznego ?Gryżyńskie Szuwary?, odtąd da się płynąć ale wody miejscami wciąż brakuje, rzeka ma tu 3-5 m szerokości. Sporo powalonych drzew w korycie, średnia prędkość to 1km/1h</opispunktu> 
+    </punkt>
+    <punkt id="4976" miejscowosc="Gryżyna" 
+      ns="52.18574586" we="15.28256067" km="17" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na Gryżyńskim Potoku. Bardzo wygodny dostęp do rzeki, jednak w tym miejscu zazwyczaj jest zbyt mało wody. Poniżej mostu rzeka wpływa w obszar użytku ekologicznego ?Gryżyńskie Szuwary?, gdzie otrzymuje wodne wsparcie z licznych źródeł i wysięków</opispunktu> 
+    </punkt>
+    <punkt id="4981" miejscowosc="Grabin" 
+      ns="52.15342757" we="15.26772895" km="12.7" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Początek stawów hodowlanych. Zastawka - 1,5 m próg z wejściem w rurowy, podwójny wąski przepust. Ze względów bezpieczeństwa nie należy spływać tego miejsca. Spora część wody kierowana jest w lewo przez przepust na stawy</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewym brzegiem, sztuczną groblą pomiędzy stawem a rzeką, na odleglość uzależnioną od warunków wodnych za progiem. Wejście do wody bardzo błotniste i grząskie (wały stawów mocno rozmakają)</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Jedno z nielicznych miejsc, gdzie do rzeki dochodzi droga. Teoretycznie da się tu dojechać samochodem, trzeba jednak pamiętać, że są to tereny Lasów Państwowych</opispunktu> 
+    </punkt>
+    <punkt id="4982" miejscowosc="Grabin" 
+      ns="52.13439019" we="15.27069993" km="10.4" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Koniec stawów hodowlanych. Podwójny przepust rurowy pod leśną drogą</opispunktu> 
+    </punkt>
+    <punkt id="4983" miejscowosc="Grabin" 
+      ns="52.12539381" we="15.2780785" km="9.1" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Podwójny most z podwójnym przepustem rurowym. W przepuście wąsko i bystro. Zdecydowanie bezpieczniej jest obnieść to miejsce górą przez drogę niż próbować spływać. Dobry dostęp od gruntowej drogi publicznej ale niewygodne wyjście ze względu na krzaki i błoto (najbliższa okolica rzeki bardzo grząska). Zejście na wodę poniżej przepustu wygodne, chociaż nieco strome</opispunktu> 
+    </punkt>
+    <punkt id="4984" miejscowosc="Grabin" 
+      ns="52.12091806" we="15.28063455" km="8.5" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek prowadzący na pola i łąki. Rzeka wpływa do lasu, nurt jest powolny, w korycie kilka powalonych drzew</opispunktu> 
+    </punkt>
+    <punkt id="4985" miejscowosc="Szklarka Radnicka" 
+      ns="52.09656445" we="15.27639966" km="5.5" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze a pod nim niski i wąski jaz. Przenoska prawym brzegiem przez podwórko i grządki przy pobliskim domostwie. Gospodarze są tak zaskoczeni widokiem kajakarzy na tej niepozornej rzeczce, że sami proponują takie rozwiązanie pokonania progu. Przejście lewą stroną wymaga sforsowania płotu, co gospodarzom mniej się podoba</opispunktu> 
+    </punkt>
+    <punkt id="4986" miejscowosc="Szklarka Radnicka" 
+      ns="52.09160752" we="15.28141833" km="4.8" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z lewej z jeziora Jelito</opispunktu> 
+    </punkt>
+    <punkt id="4987" miejscowosc="Szklarka Radnicka" 
+      ns="52.08942226" we="15.27422676" km="3.9" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z prawej z pobliskiego jeziora</opispunktu> 
+    </punkt>
+    <punkt id="4988" miejscowosc="Szklarka Radnicka" 
+      ns="52.08874247" we="15.27249493" km="3.7" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4989" miejscowosc="Szklarka Radnicka" 
+      ns="0" we="0" km="3.5" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na prywatną posesję, zaraz za nim wąski jaz z kołem młyńskim wykorzystywanym jako pompa wodna. Przy moście stoją drewniane ławki i stolik</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Niewygodna przenoska przez gęste krzaki lewym brzegiem na odległość 50 m. Wodowanie niewygodne z gęstych krzaków, na bystrej wodzie za jazem, pośród gałęzi przewróconego drzewa</opispunktu> 
+    </punkt>
+    <punkt id="4990" miejscowosc="Szklarka Radnicka" 
+      ns="52.0864431" we="15.27101372" km="3.3" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 276, w okolicy dużo miejsca na samochody. Jest to ostatnie miejsce przed wpłynięciem na Odrę, z którego można odebrać kajaki samochodem, chociaż nie jest tu wygodnie ze względu na dość mało miejsca przy samym moście i spory ruch na drodze. Pod mostem znajduje się wodowskaz nie objęty systemem monitoringu, bez możliwości podejrzenia jego wskazań w internecie. W dniu spływu wskazywał on poziom 042, co gwarantuje względnie dobre warunki do pływania kajakami K1. Poniżej mostu rzeka rozszerza się i jeszcze przez jakiś czas leżą w niej powalone drzewa łatwe do pokonania. Poniżej zaczynają się rozlewiska, trzcinowiska oraz miejscowe wypłycenia, i tak aż do samej Odry</opispunktu> 
+    </punkt>
+    <punkt id="4991" miejscowosc="Szklarka Radnicka" 
+      ns="52.072878" we="15.25286447" km="0" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Gryżynki do Odry. Wygodnym miejscem do zakończenia spływu jest główka po prawej stronie Odry na wysokości wsi Radnica, około 3 km od ujścia Gryżynki, z dojazdem do samej rzeki drogą gruntową i asfaltową (prawdopodobnie pozostałość po strarej przeprawie promowej)</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

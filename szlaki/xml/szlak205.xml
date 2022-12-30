@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="205" nazwa="Skroda (dopływ Nysy Łużyckiej)" wersja="1">
+<opis>Skroda, zwana też Skródą, a przed wojną - Schrot. Bardzo atrakcyjna rzeka zwałkowa biorąc pod uwagę ilość i trudność zwałek w stosunku do długości płynięcia. W zależności od wybranego odcinka, zabawa może trwać nawet cały dzień. Dzika, ale stosunkowo dobrze dostępna, z kilku mostów, średnio co 2-3 h, można więc dowolnie dopasowywać długości etapów. W dolnym biegu piękne, głębokie meandry, wysokie skarpy, źródełka, tamy bobrowe, ruiny budowli hydrotechnicznych, wszystko w gęstym lesie. Przed ujściem Skrody do Nysy Łużyckiej, od miejsca nazywanym Kucyk (na niektórych mapach - Klekot)  zaczyna się rezerwat Nad Młyńską Strugą. Tam też jest krótki odcinek o górskim charakterze, z głazami w korycie i zwałkami na szybszym nurcie. Warto mieć na uwadze, że przebywanie na obszarze rezerwatów wymaga posiadania stosownych zezwoleń.
+Obecnie, rzeka spławna jest praktycznie jedynie bardzo wczesną wiosną, po gwałtownych roztopach. W ostatnich kilku latach, odpowiednią wodę prowadziła zaledwie przez kilka dni w roku, zawsze w lutym. Trzeba brać przy tym pod uwagę, że odcinek rzeki poniżej Marcinowa przebiega w gęstym lesie, z ograniczonym dostępem słońca. Zdarzyło się, że pomimo dodatnich temperatur rzeka była jeszcze skuta lodem, bez możliwości przepłynięcia.
+W lutym 2017 odcinek z Marcinowa do ujścia do Nysy Łużyckiej zajął grupie 3xK1 około 6,5h. Wodowskaz Przewoźniki wskazywał wówczas poziom 285, co gwarantowało doskonałą wodę, wartką i głęboką, nieco mętną, bo w trakcie roztopów.
+W lutym 2021 odcinek z Marcinowa do Wierzbięcina zajął 2,5h, przy wskazaniach wodowskazu Przewoźniki - 293. Poniżej, w lesie rzeka była całkowicie zamarznięta.
+W lutym 2022 wodowskaz Przewoźniki wskazywał poziom 270, natomiast na ceglanym przepuście [22,5km] powyżej lustra wody widocznych było 19 rzędów cegieł. Przy tych warunkach odcinek z Grotowa (Cisowa) do Wierzbięcina zajął 5,5h, grupie 4xK1</opis> 
+    <punkt id="6701" miejscowosc="Grotów" 
+      ns="51.61206078" we="14.94190214" km="22.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Prostokątny, ceglany przepust pod wysoką skarpą drogi wznoszącej się do wiaduktu nad autostradą A18. Wygodne miejsce rozpoczynania spływu, z dojazdem gruntową drogą. W pobliżu skrzyżowania lokalnych dróg, nad przepustem sporo miejsca na samochody. Poniżej rzeka uregulowana i wyprostowana, po wpłynięciu do lasu pojawiają się zwałki, niektóre dość wymagające. Rzeka ma 2-3 m szerokości i średnio 0,5m głębokości. Ze względu na to, że na górnej Skrodzie nie ma wodowskazów, ceglany przepust może posłużyć jako poziom odniesienia. Jeżeli widocznych jest nad wodą 19 [i mniej] rzędów cegieł [poniżej poziomej, betonowej płyty], oznacza to bardzo dobre warunki wodne i odpowiednią głębokość na całym odcinku, o ile oczywiście zaraz poniżej mostu np. bobry nie spiętrzą wody. Powyżej, do przepustu wody dopływa dużo [przy takich warunkach], można więc próbować zaczynać spływ jeszcze wyżej</opispunktu> 
+    </punkt>
+    <punkt id="6702" miejscowosc="Grotów" 
+      ns="51.61188815" we="14.93381137" km="21.9" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z prawej bezimiennego cieku podwajającego ilość wody w Skrodzie. Koniec odcinka zwałkowego, poniżej koryto rzeki, do granicy wypływu z lasu jest pogłębione i świerzo wybagrowane</opispunktu> 
+    </punkt>
+    <punkt id="6703" miejscowosc="Grotów" 
+      ns="51.61089651" we="14.92997192" km="21.5" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rzeka wypływa z lasu na podmokłą łąkę</opispunktu> 
+    </punkt>
+    <punkt id="6704" miejscowosc="Grotów" 
+      ns="51.61018843" we="14.9270424" km="21.3" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony dopływa rzeka Pluskawa, podwajając ilość wody. Ze względu na liczne piętrzenia bobrowe, poniżej Skroda w wielu miejscach wylewa się poza koryto</opispunktu> 
+    </punkt>
+    <punkt id="6705" miejscowosc="Grotów" 
+      ns="51.60693284" we="14.91959636" km="21.1" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Przelany mostek z lichym dojazdem podmokłą, leśną dróżką. Poniżej kilka tam bobrowych, pojedyncze łatwe zwałki oraz ambony myśliwskie w pobliżu rzeki, umożliwiające zrobienie ładnych zdjęć na krętą rzekę rozcinającą podmokłą łąkę</opispunktu> 
+    </punkt>
+    <punkt id="6706" miejscowosc="Jędrzychowice" 
+      ns="51.60413697" we="14.91181247" km="19.9" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy na polnej drodze do Grotowa</opispunktu> 
+    </punkt>
+    <punkt id="6707" miejscowosc="Mieszków" 
+      ns="51.60122022" we="14.90248829" km="19" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przy pierwszych zabudowaniach pojawia się stalowa siatka w poprzek nurtu, na linii wody, możliwa do przejścia dołem (na mokro). Wpływa się na ogrodzony teren sadów, ale nikt nas nie zaczepił, nie było też np. psów</opispunktu> 
+    </punkt>
+    <punkt id="6708" miejscowosc="Mieszków" 
+      ns="51.60090052" we="14.89878929" km="18.8" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski jazik z dużymi głazami. Przepływa się przez betonowe okienko</opispunktu> 
+    </punkt>
+    <punkt id="6709" miejscowosc="Mieszków" 
+      ns="51.60091107" we="14.89804246" km="18.7" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście rzeczki Bielec. Rzeczka jest mocno zarośnięta trzcinami, widać jednak, że dostarcza dużo wody i dalej Skroda staje się znacznie szersza</opispunktu> 
+    </punkt>
+    <punkt id="6710" miejscowosc="Mieszków" 
+      ns="51.60011925" we="14.89620562" km="18.5" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Most na lokalnej drodze do Grotowa. Wygodne miejsce rozpoczynania etapu, chociaż brzegi mocno zarośnięte. Wcześniej, powyżej mostu stalowa siatka w poprzek rzeki, na linii wody. Przejście dołem na mokro. Opuszczamy ogrodzony teren sadów</opispunktu> 
+    </punkt>
+    <punkt id="6711" miejscowosc="Mieszków" 
+      ns="51.59575062" we="14.89240354" km="17.7" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek przy ruinach pałacu. Wygodne miejsce dostępu do wody</opispunktu> 
+    </punkt>
+    <punkt id="6712" miejscowosc="Mieszków" 
+      ns="51.59556733" we="14.89143538" km="17.6" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka przy charakterystycznym ujęciu wody, tworząca niski prożek 0,5m. Poniżej, po prawej stronie ruiny pałacu</opispunktu> 
+    </punkt>
+    <punkt id="6713" miejscowosc="Mieszków" 
+      ns="51.59533811" we="14.88902675" km="17.4" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowe przyczółki przelanego progu, nie piętrzącego wody</opispunktu> 
+    </punkt>
+    <punkt id="6714" miejscowosc="Mieszków" 
+      ns="51.59435361" we="14.88648494" km="17.2" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony dochodzi szeroki kanał, łączący rzekę ze stawami hodowlanymi</opispunktu> 
+    </punkt>
+    <punkt id="6715" miejscowosc="Mieszków" 
+      ns="51.59395133" we="14.88634829" km="17.1" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz betonowy piętrzący wodę na około 1,5m, z niską kładką. Poniżej jazu płytka, betonowa wylewka. Skok progiem gwarantuje twarde lądowanie, lepsza będzie krótka przenoska prawym brzegiem. Poniżej fragment mniej ciekawy, teren odkryty z pojedynczymi krzakami, koryto wyprostowane pomiędzy wysokimi brzegami. Robi się węziej, za to bardziej bystro</opispunktu> 
+    </punkt>
+    <punkt id="6716" miejscowosc="Łuków" 
+      ns="51.57753705" we="14.8805627" km="14.9" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony uchodzi rzeka Skrodzica (Deutsche Schrot). Przed samym ujściem gruba zwałka, a na środku skrzyżowania charakterystyczna wiklinowa budka dla ptaków. Za dopływem jest też mały prożek</opispunktu> 
+    </punkt>
+    <punkt id="6717" miejscowosc="Łuków" 
+      ns="51.57660783" we="14.88073353" km="14.8" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na lokalnej drodze. Na odcinku do Marcinowa płynie się malowniczą rzeką z kilkoma wysokimi tamami bobrowymi</opispunktu> 
+    </punkt>
+    <punkt id="6718" miejscowosc="Marcinów" 
+      ns="51.56206683" we="14.86604702" km="12.4" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, pod nim niska tama bobrowa. Wygodne miejsce z dojazdem i dostępem do wody. Poniżej malowniczy odcinek leśny z licznymi tamami bobrowymi i zwałkami. Niektóre przeszkody wymagają współpracy zespołowej</opispunktu> 
+    </punkt>
+    <punkt id="6719" miejscowosc="Wierzbięcin" 
+      ns="51.54485316" we="14.84694956" km="9.5" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodny dostęp do wody, z dojazdem asfaltową drogą. Na starych mapach widać, że powyżej mostu funkcjonował kiedyś młyn. Poniżej odcinek zwałkowy, niektóre przeszkody dosyć wymagające</opispunktu> 
+    </punkt>
+    <punkt id="6720" miejscowosc="Przewoźniki" 
+      ns="51.52718964" we="14.82648889" km="5.1" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z lewej rzeki Skródki (Kleine Schrot). W okolicy ruiny dawnego młyna Schrothammer</opispunktu> 
+    </punkt>
+    <punkt id="6721" miejscowosc="Przewoźniki" 
+      ns="51.52518097" we="14.82153213" km="4.5" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 350. W pobliżu mostu wodowskaz Przewoźniki, wskazania którego można obserwować zdalnie, w internecie</opispunktu> 
+    </punkt>
+    <punkt id="6722" miejscowosc="Przewoźniki" 
+      ns="51.52404718" we="14.81114315" km="3.3" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowy przyczółek po budowli hydrotechnicznej</opispunktu> 
+    </punkt>
+    <punkt id="6723" miejscowosc="Kucyk" 
+      ns="51.52071458" we="14.80341025" km="2.2" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na wyraźnym kolanie rzeki znajdują się, słabo widoczne w terenie ruiny młyna Kutschig. Dawniej stał tu zajazd i było to znane w okolicy miejsce wypoczynku. Na starych zdjęciach widać wysoką zaporę, piętrzącą wodę na tyle, że po stawie młyńskim pływano łódkami wiosłowymi. Poniżej, Skroda przepływa przez objęty ochroną leśny rezerwat przyrody Nad Młyńską Strugą</opispunktu> 
+    </punkt>
+    <punkt id="6724" miejscowosc="Sagar" 
+      ns="51.51846712" we="14.78379078" km="0" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Skrody do Nysy Łużyckiej. Przy ujściu polski słupek graniczny nr 274. Dogodne miejsca zakończenia spływu po polskiej stronie Nysy Łużyckiej znajdują się w Łęknicy, przy pierwszym moście, oraz za drugim (starym), 6 km od ujścia Skrody. Tu znajduje się duży plac za targowiskiem - Bazar Manhattan, na którym można zostawić samochody (ul. Wybrzeźna)</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

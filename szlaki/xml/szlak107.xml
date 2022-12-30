@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="107" nazwa="Szczyra" wersja="2">
+<opis>Lewy dopływ Gwdy ze źródłami w okolicach wsi Biskupnica. Długość Szczyrej to około 30 km. Spławna dla dwójek od mostu na drodze pomiędzy Buszkowem a Krzemieniewem (droga nr 22 - Czarne). Woda od 50 cm w górę (listopad 2011), mało zwałek, ciekawa krajobrazowo, kilka bystrzy. Mocno przecięta i bardzo czysta - brak śmieci - tylko przy moście na starcie. Woda prawie krystaliczna pomimo sporej ilości zagniwających liści w wodzie. Uroczy i czysty dopływ Gwdy.
+Odcinek od mostu w Krzemieniewie (8,7 km) do ujścia do Gwdy w Lędyczku to około 3 godziny pływania. Etap powyżej tego mostu jest mocno zwałkowy</opis> 
+    <punkt id="3691" miejscowosc="Lędyczek" 
+      ns="53.5456146" we="16.95525742" km="0.5" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drewniany.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Silne bystrze pod mostem i po kilkudziesięciu metrach dopływamy do połączenia Szczyrej z Gwdą</opispunktu> 
+    </punkt>
+    <punkt id="3690" miejscowosc="Buszkowo" 
+      ns="53.55443075" we="16.98879175" km="4" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej stronie ujście rzeki Chrząstowy. Przy granicy województw (pomorskie - wielkopolskie), odcinek mieszany - leśno łąkowy</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przed dopływem Chrząstowy jak i po połączeniu tych rzek Szczyra ma cały czas wysoki poziom wody - powyżej 60 cm (listopad 2011). Przed Lędyczkiem jest kilka bystrzy i kilka ciekawych zwałek, ale cały czas rzeczka jest otwarta tak dla "jedynek" jak i "dwójek"</opispunktu> 
+    </punkt>
+    <punkt id="3689" miejscowosc="Buszkowo" 
+      ns="53.56174801" we="17.00087853" km="5.3" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most wojskowy na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="3688" miejscowosc="Krzemieniewo" 
+      ns="53.58688231" we="17.00907959" km="8.7" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze pomiędzy Buszkowem a Krzemieniewem (droga nr 22 - Czarne)
+</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Kilka kilometrów płyniemy przez gęsty las z małą ilością zwałek. Rzeka ma sporo prostych odcinków i bez większych przeszkód można ją spłynąć "dwójkami". Po 40 minutach dopływamy do mostu wojskowego na leśnej drodze i widoczną linią wysokiego napięcia z prawej strony. Słychać też niedaleko szosę.</opispunktu> 
+    </punkt>
+    <punkt id="4737" miejscowosc="Krzemieniewo" 
+      ns="53.59712276" we="17.0342896" km="11.7" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowy - kratownicowy mostek na leśnej drodze, wygodne miejsce z dobrym dostępem do wody. Zaraz za mostkiem płytko pod wodą betonowa cembrowina. Etap około 2 kilometrowy - mocno zwałkowy. Po wypłynięciu z lasu dolina i koryto rzeki rozszerza się a drzew w wodzie ubywa</opispunktu> 
+    </punkt>
+    <punkt id="3692" miejscowosc="Lędyczek" 
+      ns="53.54162119" we="16.95260233" km="0" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Szczyrej do Gwdy.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Spływ zakończyć możemy już na poczatku Lędyczka po lewej stronie - drewniany pomościk, lub po prawej - wiatka i znak parkingowy. Po przepłynięciu głównego mostu w Lędyczku, mamy główne pole biwakowe na skarpie po lewej stronie. Wygodnie też jest zakończyć spływ tuż za mostem po lewej - miejsce parkingowe z wygodnym dostępem do wody</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

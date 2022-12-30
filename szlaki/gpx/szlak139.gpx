@@ -1,0 +1,75 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.65666493" lon="15.81003269">
+<name>17.30</name>
+<desc>Most na drodze asfaltowej pomiędzy miejscowościami Łabędzie i Karsibór. Wygodne miejsce wodowania, po trawie z nieco stromego brzegu. Kilkaset metrów od mostu, we wsi jest sporo miejsca na pozostawienie samochodów. Poniżej mostu odcinek spokojnej wody, nieco wąski i zarośnięty trzcinami.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.66294563" lon="15.80439275">
+<name>16.20</name>
+<desc>Niska kładka dwu przęsłowa na łąkach, prawdopodobnie pozostałość starej zastawki.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.67237020" lon="15.80399251">
+<name>14.90</name>
+<desc>Miejsce, w którym należy zachować czujność i zimną krew. Rzeka zbliża się do jeziora Więcław, nurt stopniowo zanika a koryto jest coraz bardziej zarośnięte trzcinami. W miejscu, w którym nie daje się już swobodnie płynąć, a ledwo widoczny nurt wpływa pod pierwszy rozłożysty krzako-krzew, należy skręcić prostopadle w lewo w gęste trzciny i przeciągnąć się przez nie kilkadziesiąt metrów (co zajmuje zazwyczaj 15-30 minut, w zależności od szczęścia i wyboru prawidłowego kierunku). Jest to najkrótsza droga do wolnej tafli jeziora Więcław. W pobliżu tego miejsca stoi również samotna wysoka olcha, na której wierzchołek można bez problemu wejść bezpośrednio z kajaka i ocenić swoje położenie.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.67245182" lon="15.80272234">
+<name>14.80</name>
+<desc>Wypływ na jezioro Więcław z gęstego trzcinowiska.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.67885571" lon="15.80090841">
+<name>14.20</name>
+<desc>Miejsce wygodnego dostępu do wody z możliwością dojazdu samochodem od strony wsi Więcław. Jest to zorganizowane, bezpłatne pole biwakowe nadleśnictwa.</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="53.68221888" lon="15.78743981">
+<name>13.20</name>
+<desc>Most na drodze nr 162 pomiędzy Drawskiem Pomorskim a Świdwinem. Przed mostem nisko nad wodą przeprowadzone są w poprzek rzeki pastuchy elektryczne. Z mostu, po prawej stronie rzeki, we wsi widać ciekawą architekturę budowlaną.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.68147797" lon="15.78520535">
+<name>13.00</name>
+<desc>Drugi most. Zaraz za nim, po prawej stronie znajduje się piaszczysta plaża, z której wygodnie można rozpocząć spływ.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.67899451" lon="15.77845062">
+<name>12.30</name>
+<desc>Przenoska lewą stroną po trawie pomiędzy kanałami. Terenu strzegą pokojowo nastawione psy. Poniżej elektrowni zaczyna się odcinek bystrej wody płynącej przez las.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="53.67792645" lon="15.73712562">
+<name>8.50</name>
+<desc>Młyn Nad Starą Regą. Jaz pod mostem drogowym.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.69407486" lon="15.68505943">
+<name>3.10</name>
+<desc>Most na drodze nr 151 Świdwin - Łobez, pod mostem kamienne bystrze.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.70078359" lon="15.68233519">
+<name>2.20</name>
+<desc>Niski betonowy prożek po czymś, w zasadzie jedynie pozostałości przyczółków. Poniżej rzeka płynie przez trzcinowiska do samego ujścia do Regi.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.71075752" lon="15.67567723">
+<name>0.50</name>
+<desc>Betonowy mostek na potrzeby pobliskiej kopalni żwiru i piasku.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.71412901" lon="15.67245309">
+<name>0.00</name>
+<desc>Ujście Starej Regi do Regi. Wygodnie jest zakończyć spływ na Redze, przy moście w Prusinowie, dokąd jest jeszcze około 1,5 h w zależności od poziomu wody w Redze. Po drodze należy wykonać dodatkowo przenoskę przez jaz elektrowni w Prusinowie.</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="157" nazwa="Kopel (dopływ Warty)" wersja="1">
+<opis>Kopel (częściej Kopla, ale również Kropla, Głuszynka i Kamionka) - prawy dopływ Warty. Obszar źródliskowy znajduje się w okolicach Kostrzyna, natomiast do Warty uchodzi w miejscowości Czapury, na południe od Poznania. Kopel, to nazwa oficjalna nadana rzece przez Komisję Nazw Miejscowości i Obiektów Fizjograficznych po konsultacji z Zakładem Hydrografii i Morfologii Koryt Rzecznych IMGW. W powszechnym użyciu stosuje się częściej nazwę Kopla. Dodatkowo, mylącą rzeczą jest nazewnictwo najniższego, około 10 kilometrowego odcinka rzeki. Wcześniej uznawano, że w miejscowości Kamionki z połączenia prawego dopływu - Kopla oraz lewego - Kamionki powstaje rzeka Głuszynka, która płynąc przez dzielnicę Poznania - Głuszynę, w Czapurach wpada do Warty. Następnie zrezygnowano z nazwy Kamionka i rzeka na całej długości od okolic Kórnika do Czapur nazywana była Głuszynką, z prawym dopływem - Koplą. Różnice w wielkości zlewni Kopla i Głuszynki skłoniły ww. Komisję do podjęcia decyzji o zmianie nazewnictwa i obecnie w miejscowości Kamionki, Głuszynka wpada do Kopla, a w Czapurach Kopel do Warty, chociaż na większości map jest odwrotnie i to Kopla wpada do Głuszynki, a ta w Czapurach do Warty. Tak czy inaczej jest to bardzo atrakcyjna, czysta i dzika rzeka. Ilość powalonych drzew na niektórych odcinkach sprawia, że jest dość wymagającą i uciążliwą rzeką zwałkową. Z uwagi na fakt, iż rzeka, zwłaszcza w górnym odcinku jest wąska i płytka, dostępna jest przy wyższych stanach wody. Jedyny wodowskaz znajduje się pod mostem w Głuszynie (4,3 km), nie jest on jednak objęty nonitoringiem automatycznym, dostępnym poprzez internet. Poziom 173 na tym wodowskazie gwarantuje bardzo dobre warunki wodne na dolnym odcinku. Przed połączeniem Kopla z Głuszynką znajduje się wodowskaz przy kładce w Szczytnikach (11 km), w dniu spływu był on jednak nieczytelny. Odcinek z Koninka do Czapur zajął kilku K1 około 4,5 h. </opis> 
+    <punkt id="5198" miejscowosc="Koninko" 
+      ns="52.32090754" we="17.03056314" km="15.3" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pętla autobusowa Koninko Węzeł, w sąsiedztwie drukarni Abedik na ul. Gutenberga. Kajaki trzeba przeciągnąć przez pole i las (100m). Rzeka ma tu około 5 m szerokości i twarde piaszczyste dno. Poniżej odcinek zwałkowy</opispunktu> 
+    </punkt>
+    <punkt id="5199" miejscowosc="Koninko" 
+      ns="52.31820136" we="17.02639119" km="14.8" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Duży most betonowy na ul. Magazynowej, pod nim małe bystrze</opispunktu> 
+    </punkt>
+    <punkt id="5200" miejscowosc="Koninko" 
+      ns="52.31382976" we="17.02331594" km="13.8" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na ul. Telewizyjnej</opispunktu> 
+    </punkt>
+    <punkt id="5201" miejscowosc="Koninko" 
+      ns="52.31408447" we="17.02247942" km="13.7" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście rzeki Michałówki</opispunktu> 
+    </punkt>
+    <punkt id="5202" miejscowosc="Koninko" 
+      ns="52.31391902" we="17.02188286" km="13.6" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="5203" miejscowosc="Koninko" 
+      ns="52.30847646" we="17.01736494" km="12.7" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy ul. Radiowa</opispunktu> 
+    </punkt>
+    <punkt id="5204" miejscowosc="Szczytniki" 
+      ns="52.30315017" we="17.01271785" km="11.9" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski most betonowy. Przy wyższej wodzie i braku możliwości przepłynięcia pod mostem, czeka bardzo niewygodna przenoska. Strome i wąskie wyjście z wody. szereg szczelnych ogrodzeń dochodzących do samej wody oraz ruchliwa droga</opispunktu> 
+    </punkt>
+    <punkt id="5205" miejscowosc="Szczytniki" 
+      ns="52.29846017" we="17.00703051" km="11" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowa kładka, za nią nieczytelny wodowskaz</opispunktu> 
+    </punkt>
+    <punkt id="5206" miejscowosc="Kamionki" 
+      ns="52.29442456" we="16.99706397" km="9.9" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="5207" miejscowosc="Kamionki" 
+      ns="52.2921207" we="16.995152" km="9.5" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Głuszynki z lewej. Poniżej rzeka znacznie się poszerza i płynie w otwartym terenie szeroką doliną</opispunktu> 
+    </punkt>
+    <punkt id="5208" miejscowosc="Kobylnik" 
+      ns="52.30074208" we="16.9772052" km="7.5" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek, kładka, poniżej bród przez rzekę</opispunktu> 
+    </punkt>
+    <punkt id="5209" miejscowosc="Daszewice" 
+      ns="52.30627737" we="16.96927801" km="6.5" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek ul. Piotrowska, poniżej bród</opispunktu> 
+    </punkt>
+    <punkt id="5210" miejscowosc="Głuszyna" 
+      ns="52.31700939" we="16.95305721" km="4.3" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy cmentarzu. Pod mostem wodowskaz</opispunktu> 
+    </punkt>
+    <punkt id="5211" miejscowosc="Babki" 
+      ns="52.31965249" we="16.9470897" km="3.7" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy ul. Babicka, niżej odcinek z kilkoma zwałkami</opispunktu> 
+    </punkt>
+    <punkt id="5212" miejscowosc="Czapury" 
+      ns="52.32083688" we="16.93164372" km="2.4" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="5213" miejscowosc="Czapury" 
+      ns="52.32127372" we="16.92012101" km="1.4" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pozostałości po moście i młynie zniszczonych w roku 1939. Znajdujący się tutaj próg o wysokości około 1,5 m, wygodniej jest spływać lewym przęsłem, ale lądowanie jest twarde, na betonie</opispunktu> 
+    </punkt>
+    <punkt id="5214" miejscowosc="Czapury" 
+      ns="52.3198107" we="16.91344338" km="0.7" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most drogowy, przed nim przez rzekę przechodzą charakterystyczne rury. Ze względu na to, iż przy moście znajduje się parking (po prawej przy przedszkolu), wygodnie jest tu zakończyć spływ. Lądowanie niewygodne na kamiennym brzegu i w silnym nurcie</opispunktu> 
+    </punkt>
+    <punkt id="5215" miejscowosc="Czapury" 
+      ns="52.31911094" we="16.90928055" km="0" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Kopla do Warty</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

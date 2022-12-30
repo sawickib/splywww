@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="190" nazwa="Stobrawa" wersja="1">
+<opis>Prawy dopływ Odry, płynący przez Bory Stobrawskie, na północ od Opola. Rzeka silnie doświadczona przez zabiegi melioracyjne, powoli odradza się, dziczeje i porasta roślinnością. Książkowy przykład niefrasobliwej i niekoniecznie potrzebnej ingerencji człowieka w przyrodę.
+W dniu spływu wodowskaz Karłowice wskazywał poziom 154, wodowskaz Domaradz na rzece Bogacica 131, wodowskaz Krzywa Góra na Budkowiczance 120, wodowskaz Ujście Nysy na Odrze 232, natomiast wodowskaz Brzeg na Odrze 155. Wskazania te gwarantują wystarczającą ilość wody na odcinku od Krogulnej, z wyjątkiem początkowego odcinak wzdłuż stawów hodowlanych, gdzie zdarzały się drobne wypłycenia oraz zatory. Również odcinek przyujściowy był nieco płytki, tam dla odmiany osiada się na żwirowych przemiałach, to jednak w dużej mierze uzależnione może być od poziomu wody w Odrze. Odcinek z Krogulnej do Odry 2 x K1, w maju 2020 zajął około 5h.
+</opis> 
+    <punkt id="6006" miejscowosc="Krogulna" 
+      ns="50.93795017" we="17.78737817" km="21.3" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący wodę na wysokość około 2m. Spora jej część przekierowana jest w tym miejscu w prawo i równolegle poprowadzonym korytem zasila stawy hodowlane. Miejsce wygodnego kończenia etapu, z dojazdem do jazu gruntową drogą. Zdaniem miejscowych, tu ponoć kończy się większość spływów, a w dół nikt nie pływa. Poniżej jazu widoczne zatory z roślinności, piany i wszelakiego dobra płynącego rzeką. Chcąc je ominąć, wygodniej jest zwodować się poniżej pobliskiego mostu drogowego, tam jednak brzegi są strome i zarośnięte</opispunktu> 
+    </punkt>
+    <punkt id="6007" miejscowosc="Krogulna" 
+      ns="50.93774836" we="17.78664165" km="21.2" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 454 z Opola do Namysłowa. Poniżej mostu, po prawej stronie droga prowadząca na stawy hodowlane, z przejazdem zamykanym na łańcuch, oznakowana zakazem wjazdu. Przed znakiem istnieje możliwość zaparkowania kilku samochodów. Stroma zarośnięta skarpa utrudnia wodowanie. Poniżej odcinek otwartego terenu a rzeka jest skanalizowana, wyprostowana i uregulowana. Odcinek posiada wyraźne tendencje do zarastania trzciną, spływać nim więc najlepiej wiosną, w każdym razie nie w szczycie sezonu wegetacyjnego roślin. Na wysokości stawów hodowlanych [nie widocznych z wody] pojawia się kilka łatwych drzewek przewróconych do rzeki. Nurt jest powolny, woda raczej brudna, mętna, ale nie śmierdzi. Głębokość przy zastanych warunkach jest wystarczająca na K1, jest kilka łatwych zwałek i jedna mała tama, powstała z nagromadzenia gałęzi i śmieci. Wzdłuż brzegów na całej długości wbite są w dno rzędy palików do powstrzymania erozji bocznej. W mętnej wodzie często ich nie widać i wpływa się na nie podczas omijania przeszkód</opispunktu> 
+    </punkt>
+    <punkt id="6008" miejscowosc="Siedlice" 
+      ns="50.92932323" we="17.76436765" km="19.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony przez zastawkę powraca spora ilość wody ze stawów do rzeki. Pojawiają się drzewa zarówno na brzegu, jak i leżące w korycie</opispunktu> 
+    </punkt>
+    <punkt id="6009" miejscowosc="Siedlice" 
+      ns="50.91502742" we="17.7421928" km="17" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na otwartej przestrzeni. Możliwy dojazd i wodowanie z pominięciem odcinka wzdłuż stawów. Poniżej rzeka wpływa w obszar zalesiony przepływając jednocześnie z powiatu namysłowskiego do opolskiego</opispunktu> 
+    </punkt>
+    <punkt id="6010" miejscowosc="Kuźnica Katowska" 
+      ns="50.90447652" we="17.73153253" km="15.6" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka piętrząca wodę na wysokość 1,5m. Poniżej charakterystyczne betonowe zęby uniemożliwiające bezkolizyjne przepłynięcie. Krótka przenoska z prawej strony po leśnej drodze. Dobre miejsce na odpoczynek w cieniu rozłożystego dębu. Poniżej zastawki brzegi wzmocnione kamieniami. W dalszym ciągu koryto rzeki skanalizowane, ale za to przez chwilę w lesie</opispunktu> 
+    </punkt>
+    <punkt id="6011" miejscowosc="Kuźnica Katowska" 
+      ns="50.90363721" we="17.73124162" km="15.5" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na leśnej drodze z możliwością dojazdu samochodem. Niżej, jeszcze przez chwilę odcinek zalesiony i łatwe do pokonania malownicze zwałki ze starych, omszałych drzew</opispunktu> 
+    </punkt>
+    <punkt id="6012" miejscowosc="Kuźnica Katowska" 
+      ns="50.89799065" we="17.72845859" km="14.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski betonowy prożek pochylnia. Niżej wyprostowany kanał, miejscami nieco dziczejący i zarastający roślinnością, z pojedynczymi drzewami</opispunktu> 
+    </punkt>
+    <punkt id="6013" miejscowosc="Karłowice" 
+      ns="50.89109706" we="17.72340294" km="14" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony dopływa Kluczborski Strumień wspomagany wodami młynówek zasilających stawy hodowlane</opispunktu> 
+    </punkt>
+    <punkt id="6014" miejscowosc="Karłowice" 
+      ns="50.89091882" we="17.72348195" km="13.9" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Filary po starym drewnianym moście</opispunktu> 
+    </punkt>
+    <punkt id="6015" miejscowosc="Karłowice" 
+      ns="50.87862497" we="17.72161867" km="12.4" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze do Wołczyna ul. Pokojowa. W pobliżu mostu dobry dostęp do wody, jednak droga jest wąska i nie ma tu miejsca do pozostawienia samochodu. Za mostem wodowskaz, którego wskazania można obserwować w internecie. Poziom 154 gwarantuje wystarczającą ilość wody na reprezentowanym odcinku</opispunktu> 
+    </punkt>
+    <punkt id="6016" miejscowosc="Karłowice" 
+      ns="50.87507486" we="17.71924662" km="12" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowy jaz z prożkiem 0,4m, za nim po prawej stronie widoczny zamek w Karłowicach</opispunktu> 
+    </punkt>
+    <punkt id="6017" miejscowosc="Karłowice" 
+      ns="50.87474755" we="17.7190426" km="11.9" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Czarna Woda z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="6018" miejscowosc="Karłowice" 
+      ns="50.87191616" we="17.71675994" km="11.6" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most z ozdobnymi barierkami i girlandami, na drodze do Popielowa. Utrudniony dostęp do wody, okolica mocno zarośnięta</opispunktu> 
+    </punkt>
+    <punkt id="6019" miejscowosc="Karłowice" 
+      ns="50.87078148" we="17.70562649" km="10.8" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na lokalnej drodze z utrudnionym dostępem do wody ze względu na gęstą roślinność</opispunktu> 
+    </punkt>
+    <punkt id="6020" miejscowosc="Karłowice" 
+      ns="50.86982738" we="17.70111367" km="10.4" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="6021" miejscowosc="Karłowice" 
+      ns="50.8695043" we="17.70017873" km="10.3" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka, na której gromadzą się śmieci. Poniżej odcinek porośnięty krzakami ze zwieszającymi się do wody łozami</opispunktu> 
+    </punkt>
+    <punkt id="6022" miejscowosc="Wapienniki" 
+      ns="50.85829782" we="17.69032043" km="8.8" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na wysokości widocznych po prawej stronie domostw znajduje się przewężenie rzeki z bardziej bystrą wodą. Z prawej strony duże kamienie, natomiast z lewej niskie i gęste łozy utrudniają swobodny przepływ, tworząc wąski przesmyk. Poniżej robi się szerzej i znikają krzaki, rzeka wpływa na całkowicie otwartą przestrzeń</opispunktu> 
+    </punkt>
+    <punkt id="6023" miejscowosc="Stare Kolnie" 
+      ns="50.84399377" we="17.67492404" km="6.8" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 457, możliwość podjęcia kajaków z wody.
+Przed mostem po prawej charakterystyczny wysoki mur, stanowiący prawdopodobnie przedłużenie wału odrzańskiego. Rzeka wypływa na otwartą przestrzeń i robi się znacznie szersza</opispunktu> 
+    </punkt>
+    <punkt id="6024" miejscowosc="Stare Kolnie" 
+      ns="50.84248673" we="17.66497861" km="6" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony połączone siły Budkowiczanki i Brynicy zasilają Stobrawę długim i prostym kanałem. Obie rzeki mają w tym miejscu podobną szerokość</opispunktu> 
+    </punkt>
+    <punkt id="6025" miejscowosc="Stare Kolnie" 
+      ns="50.84192831" we="17.66137747" km="5.8" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="6026" miejscowosc="Stobrawa" 
+      ns="50.84010925" we="17.64372284" km="4.5" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Na granicy lasu znajduje się zastawka piętrząca wodę na około 1m. Konstrukcja jazu umożlwia jego spłynięcie, poniżej jednak tworzy się niewielki odwój, a nieco dalej znajdują się 2 rzędy kamieni o ostrych krawędziach. Na prawym brzegu dobre miejsce na dziki biwak. Poniżej krótki odcinek śródleśny. Od tego miejsca woda zdecydowanie się oczyszcza, z dotychczas mętnej robi się przeźroczysta, czego nie można było stwierdzić do tej pory</opispunktu> 
+    </punkt>
+    <punkt id="6027" miejscowosc="Stobrawa" 
+      ns="50.84324534" we="17.62442385" km="3.1" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most betonowy na drodze nr 462. Ostatnia możliwość podjęcia kajaków przed wypłynięciem na Odrę. Poniżej, w zależności od poziomu wody w Odrze może być płytko, a nurt przyspiesza na żwirowych przemiałach</opispunktu> 
+    </punkt>
+    <punkt id="6028" miejscowosc="Prędocin" 
+      ns="50.85373302" we="17.5927377" km="0" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Stobrawy do Odry, która w tym miejscu nie jest żeglowna, a więc bardzo płytka. Spotkaliśmy wędkarza, który przechodził Odrę w poprzek i w najgłębszym miejscu wody miał poniżej pasa. Najbliższe wygodne lądowanie znajduje się przed miejscowością Kościerzyce, na prawym brzegu, z możliwością dojazdu do samej wody. Na łuku rzeki, gdzie droga 457 przebiega w jej pobliżu znajduje się przejazd przez wał, zbudowany z betonowych płyt</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

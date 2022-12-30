@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="82" nazwa="Bystrzyca" wersja="3">
+<opis>Bystrzyca (niem. Weistritz) -  lewy dopływ  Odry, odwadniający znaczny obszar Sudetów Środkowych. Jej źródła  znajdują się pod Leszczyńcem w Górach Suchych, natomiast ujście we Wrocławiu - na Praczach Odrzańskich. Długość Bystrzycy wynosi około 95 km. Powierzchnia dorzecza zajmuje 1768 km?. Na Bystrzycy znajdują się 2 sztuczne zbiorniki: Jezioro Lubachowskie koło Zagórza Śląskiego w górnym biegu oraz Jezioro Mietkowskie koło Mietkowa w środkowym. W dolnym biegu koło Wrocławia utworzono w 1998 r. Park Krajobrazowy Dolina Bystrzycy. 
+Ładna, czysta, zwałkowa rzeka, płynąca w zdecydowanej większości przez obszary porośnięte gęstą roślinnością. Czasem przedziera się przez krzaki, czasem miejscami wypłyca, dość często w korycie leżą powalone drzewa. Jest uregulowana licznymi prożkami, jazikami i większymi spiętrzeniami elektrowni, nie burzy to jednak jej dzikiego charakteru i nie ma większego wpływu na, miejscami,  stosunkowo wartki nurt.
+Planując spływ Bystrzycą od Mietkowa w dół należy zasięgnąć informacji o wielkości zrzutu wody z zapory. Przy większych upustach spływ może być dość trudny dla początkujących, jak sama nazwa wskazuje, rzeka jest stosunkowo bystra.</opis> 
+  <odcinek id="341" typ="rzeka" nazwa="Kąty - Skałka" 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Odcinek zwałkowy z miejscami zwolnienia nurtu w okolicach elektrowni wodnych. Poniżej Kątów przejrzystość wody znacznie się pogarsza, co gorsza walory zapachowe również świadczą o tym, że minęliśmy większą miejscowość i... gminną oczyszczalnię ścieków</opis>
+    <punkt id="2841" miejscowosc="Wrocław Pracze Odrzańskie" 
+      ns="51.194794" we="16.917843" km="0" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Bystrzycy do Odry. Spływ wygodnie jest zakończyć płynąc w dół Odrą 1,3 km do ujścia kanału wypływającego z oczyszczalni ścieków. Tuż przy ujściu znajduje się wygodna betonowa platforma, na którą można wjechać samochodem</opispunktu> 
+    </punkt>
+    <punkt id="3051" miejscowosc="Janówek" 
+      ns="51.188176" we="16.906823" km="1.15" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3050" miejscowosc="Pracze" 
+      ns="51.174553" we="16.897871" km="3.11" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy w pobliżu stacji Wrocław Pracze</opispunktu> 
+    </punkt>
+    <punkt id="3049" miejscowosc="Marszowice" 
+      ns="51.166825" we="16.892012" km="4.17" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3048" miejscowosc="Marszowice" 
+      ns="51.166194" we="16.888399" km="4.69" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewym brzegiem 30m po betonowej opasce</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 2m w prawo na potzreby pobliskiej elektrowni. Po pochylni 1,5 m niewidoczne oberwanie progu. Wygodne miejsce wodowania kajaków</opispunktu> 
+    </punkt>
+    <punkt id="3047" miejscowosc="Stabłowice" 
+      ns="51.14764" we="16.875002" km="7.93" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="3046" miejscowosc="Leśnica" 
+      ns="51.144976" we="16.874081" km="8.27" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy i tramwajowy. W pobliżu przystanki komunikacji miejskiej Wrocławia</opispunktu> 
+    </punkt>
+    <punkt id="3045" miejscowosc="Złotniki" 
+      ns="51.137511" we="16.875855" km="9.25" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="3044" miejscowosc="Złotniki" 
+      ns="51.137681" we="16.873849" km="9.39" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przy wyższej wodzie przenoska lewym brzegiem 50m</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 1m prostopadły do kierunku rzeki, ze sporym odwojem</opispunktu> 
+    </punkt>
+    <punkt id="3043" miejscowosc="Złotniki" 
+      ns="51.137601" we="16.872657" km="9.48" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy, w pobliżu stacji Wrocław Leśnica</opispunktu> 
+    </punkt>
+    <punkt id="3042" miejscowosc="Ratyń" 
+      ns="51.128467" we="16.862593" km="10.92" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3041" miejscowosc="Jarnołtów" 
+      ns="51.122102" we="16.841956" km="13.84" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze gruntowej do Gałowa</opispunktu> 
+    </punkt>
+    <punkt id="3040" miejscowosc="Jarnołtów" 
+      ns="51.118937" we="16.841074" km="14.31" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przy wyższej wodzie przenoska lewą stroną 30m po trawie</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 0,8m prostopadły do kierunku rzeki, dwu stopniowy, z małym odwojem. Wygodne miejsce wodowania kajaków</opispunktu> 
+    </punkt>
+    <punkt id="3039" miejscowosc="Jarnołtów" 
+      ns="51.116972" we="16.837804" km="14.62" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przy wyższej wodzie przenoska lewą stroną 30m po trawie</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 0,8m skośny do kierunku rzeki, z małym odwojem</opispunktu> 
+    </punkt>
+    <punkt id="3038" miejscowosc="Samotwór" 
+      ns="51.106886" we="16.829207" km="16.57" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony do Bystrzycy uchodzi rzeka Strzegomka</opispunktu> 
+    </punkt>
+    <punkt id="3037" miejscowosc="Samotwór" 
+      ns="51.104952" we="16.830308" km="16.85" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">W przypadku zamkniętego jazu niewygodna przenoska 30m prze gęste krzaki i pokrzywy, lewą stroną</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz w Samotworze - 5 przegród, zazwyczaj przynajmniej jedna jest podniesiona umożliwiając przepłynięcie</opispunktu> 
+    </punkt>
+    <punkt id="3036" miejscowosc="Samotwór" 
+      ns="51.103603" we="16.829457" km="17.1" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na drodze w kierunku Gałowa. Wygodne miejsce wodowania kajaków. Przy wyższym poziomie wody bardzo mały prześwit pod mostem</opispunktu> 
+    </punkt>
+    <punkt id="3035" miejscowosc="Samotwór" 
+      ns="51.102329" we="16.827779" km="17.23" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Odejście w lewo koryta w kierunku rzeki Strzegomki. Jest to alternatywa dla przenoski przez zamknięty jaz na Bystrzycy w Samotworze</opispunktu> 
+    </punkt>
+    <punkt id="3034" miejscowosc="Skałka" 
+      ns="51.089043" we="16.825776" km="18.8" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="2840" miejscowosc="Skałka" 
+      ns="51.088228" we="16.825768" km="18.91" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep spożywczy w Skałce</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 2m, piętrzący wodę na potrzeby pobliskiej elektrowni. Wygodne miejsce wodowania kajaków</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska z lewej lub prawej strony - 50m, po trawie</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Wygodne miejsce na biwak</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Blisko Młynówki bar ze świerzymi rybami z własnych stawów hodowlanych</opispunktu> 
+    </punkt>
+    <punkt id="2839" miejscowosc="Małkowice" 
+      ns="51.077317" we="16.818049" km="20.36" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="2838" miejscowosc="Sadowice" 
+      ns="51.062903" we="16.797085" km="24.19" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="2837" miejscowosc="Sadowice" 
+      ns="51.058202" we="16.797547" km="24.78" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="2836" miejscowosc="Sadowice" 
+      ns="51.054834" we="16.796599" km="25.16" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz przy elektrowni wodnej (działający zabytek techniki z 1921 r), piętrzący wodę na 2,5m.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewą stroną po betonie i kamieniach - 20m</opispunktu> 
+    </punkt>
+    <punkt id="2835" miejscowosc="Jurczyce" 
+      ns="51.051477" we="16.789393" km="25.92" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    </punkt>
+    <punkt id="2834" miejscowosc="Jurczyce" 
+      ns="51.049849" we="16.791657" km="26.19" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="2833" miejscowosc="Jurczyce" 
+      ns="51.04547" we="16.785371" km="27.23" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Zadaszone miejsce odpoczynku, wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="2832" miejscowosc="Jurczyce" 
+      ns="51.043464" we="16.783159" km="27.51" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="2831" miejscowosc="Kąty Wrocławskie" 
+      ns="51.032168" we="16.777826" km="29.04" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="2830" miejscowosc="Kąty Wrocławskie" 
+      ns="51.031226" we="16.778446" km="29.16" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ Młynówki z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="2829" miejscowosc="Kąty Wrocławskie" 
+      ns="51.026085" we="16.780443" km="29.88" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="2828" miejscowosc="Kąty Wrocławskie" 
+      ns="51.023931" we="16.781044" km="30.12" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most autostrady A4</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="340" typ="rzeka" nazwa="Progi" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis>Odcinek okresowo czyszczony z zalegających licznie drzew, za to prowadzący przez kilka prożków kamiennych piętrzących wodę na kilkadziesiąt centymetrów każdy</opis>
+    <punkt id="4486" miejscowosc="Kilianów" 
+      ns="50.99559962" we="16.77154133" km="33.9" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek kamienny</opispunktu> 
+    </punkt>
+    <punkt id="2826" miejscowosc="Kamionna" 
+      ns="50.98143" we="16.762601" km="35.75" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="4487" miejscowosc="Kilianów" 
+      ns="50.99788487" we="16.77065112" km="33.5" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek kamienny</opispunktu> 
+    </punkt>
+    <punkt id="4488" miejscowosc="Kilianów" 
+      ns="51.00023721" we="16.76996618" km="33.1" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek kamienny</opispunktu> 
+    </punkt>
+    <punkt id="4489" miejscowosc="Kilianów" 
+      ns="51.00309496" we="16.77225769" km="32.8" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek kamienny</opispunktu> 
+    </punkt>
+    <punkt id="4490" miejscowosc="Kilianów" 
+      ns="51.00390578" we="16.77259849" km="32.7" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Stary bród z wystających pod różnymi kątami betonowych płyt - utwardzona przeprawa w poprzek rzeki</opispunktu> 
+    </punkt>
+    <punkt id="4491" miejscowosc="Kilianów" 
+      ns="51.00725089" we="16.77417658" km="32.3" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek kamienny</opispunktu> 
+    </punkt>
+    <punkt id="4492" miejscowosc="Kilianów" 
+      ns="51.01031279" we="16.77678912" km="31.8" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek kamienny</opispunktu> 
+    </punkt>
+    <punkt id="4493" miejscowosc="Kilianów" 
+      ns="51.01248601" we="16.77786814" km="31.5" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek kamienny</opispunktu> 
+    </punkt>
+    <punkt id="4494" miejscowosc="Kilianów" 
+      ns="51.01409682" we="16.7772808" km="31.3" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek kamienny</opispunktu> 
+    </punkt>
+    <punkt id="4495" miejscowosc="Kilianów" 
+      ns="51.01626685" we="16.7789467" km="31" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek kamienny</opispunktu> 
+    </punkt>
+    <punkt id="2827" miejscowosc="Kąty Wrocławskie" 
+      ns="51.019864" we="16.779773" km="30.63" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 1,5m, poniżej jazu wymurówka z cegieł - lepiej nie spływać.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska z prawej, 20m po kamieniach</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Czarnej Wody do Bystrzycy z prawej strony</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Odpływ Młynówki w lewo w kierunku Kątów Wrocławskich</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="339" typ="rzeka" nazwa="Las" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Odcinek śródleśny, zwałkowy</opis>
+    <punkt id="2825" miejscowosc="Kamionna" 
+      ns="50.973856" we="16.741035" km="37.59" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewą stroną około 30m po trawie.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Dobre miejsce na biwak (polana w lesie)</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz o wyskości 2m.</opispunktu> 
+    </punkt>
+    <punkt id="2824" miejscowosc="Milin" 
+      ns="50.97376" we="16.708941" km="39.96" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="2823" miejscowosc="Milin" 
+      ns="50.975268" we="16.689863" km="41.13" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="338" typ="rzeka" nazwa="Mietków - Milin" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Początkowy odcinek pośród łąk, uregulowany i prosty. Następnie rzeka wpływa w gęste krzaki i nieco przyspiesza</opis>
+    <punkt id="2822" miejscowosc="Milin" 
+      ns="50.976583" we="16.674488" km="42.66" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jazik w lesie, o wysokości 0,7m. Przepływalny środkiem. Częste zatory z gałęzi i śmieci.</opispunktu> 
+    </punkt>
+    <punkt id="2821" miejscowosc="Mietków" 
+      ns="50.969692" we="16.654455" km="44.35" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="2820" miejscowosc="Mietków" 
+      ns="50.966099" we="16.645453" km="45.1" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

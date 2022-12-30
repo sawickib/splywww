@@ -1,0 +1,46 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.87526000" lon="16.23075500">
+<name>7.00</name>
+<desc>Most drogowy pomiędzy Wschową a Wolsztynem, wygodne miejsce wodowania kajaków. Droga przechodzi pomiędzy dwoma jeziorami: Lgińsko Małe i Lgińsko Duże. Rzeczka łącząca obydwa jeziora nie jest głęboka, warto jednak nią spłynąć kilkadziesiąt metrów do Lgińska Dużego.
+W przypadku małej ilości wody w rzeczce, jadąc od strony Wschowy skręcamy za mostem w leśną drogę w prawo, która po 200m doprowadza nas do jeziora. Ewentualnie można rozpocząć spływ na plaży głównej w centrum Lginia</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.89122300" lon="16.24595700">
+<name>4.80</name>
+<desc>Wypływ z jeziora Lgińsko Duże</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.89277200" lon="16.24540500">
+<name>4.60</name>
+<desc>W poprzek koryta wbite 3 rzędy pali oraz liczne głazy w wodzie. Wszystko to znajduje się stosunkowo płytko, ale nie jest widoczne na powierzchni wody. Płynąć ostrożnie, zwłaszcza szklakami i składakami. Przy mętnej wodzie przeszkoda jest bardzo słabo widoczna, a brak nurtu dodatkowo nie zakrzywia jej powierzchni</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.90290200" lon="16.24644300">
+<name>3.40</name>
+<desc>Most betonowy na polnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.91620100" lon="16.25389500">
+<name>1.70</name>
+<desc>Most drogowy, wygodne miejsce wodowania kajaków, chociaż droga ruchliwa i wąska</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.92171900" lon="16.25874000">
+<name>0.90</name>
+<desc>Wypływ na jezioro Lincjusz</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.92974600" lon="16.25430100">
+<name>0.00</name>
+<desc>Most drogowy, wygodne miejsce wodowania kajaków. Odcinek kanału w pobliżu mostu często wykorzystywany jest przez wędkarzy, każda próba prześliźnięcia się pomiędzy spławikami na wąskiej rzece, wzmaga napięcie po obu stronach</desc>
+<cmt>most</cmt>
+</wpt>
+
+</gpx>

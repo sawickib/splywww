@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="118" nazwa="Świerzna" wersja="1">
+<opis>Niewielka rzeczka we wschodniej części województwa dolnośląskiego, prawy dopływ Widawy. Początek swój bierze na wschód od Oleśnicy, natomiast do Widawy uchodzi w kompleksie leśnym w okolicach Leśnego Młyna. Ze względu na swe rozmiary, dla kajaków dostępna jest podczas wiosennych roztopów oraz po intensywnych opadach. Prowadzi czystą wodę i jest stosunkowo urozmaicona, płynąc zarówno przez łąki i pola, jak i przez obszary leśne. Odcinek od miejscowości Świerzna do ujścia do Widawy zajmuje około 3 h. Sztuczna regulacja rzeki nie utrudnia płynięcia tak jak na sąsiedniej Smolnej, natomiast na odcinku leśnym w nurcie Świerznej jest spora ilość powalonych drzew, co niewątpliwie urozmaica pływanie. Odcinki leśne (zwłaszcza dolny) są dzikie i nieuregulowane, przez co bardzo fotogeniczne. Na Świerznej nie ma wodowskazów, najbliższy znajduje się na Widawie w miejscowości Zbytowa. W dniu płynięcia Świerzną wodowskaz ten wskazywał poziom 358. Ilość wody pod kilem była wystarczająca do swobodnego pływania.</opis> 
+    <punkt id="4263" miejscowosc="Świerzna" 
+      ns="51.18056441" we="17.3995652" km="10.9" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kratownicowy na lokalnej drodze. Wygodne miejsce wodowania i startu, choć szerokość rzeki w tym miejscu nie przekracza 3m.</opispunktu> 
+    </punkt>
+    <punkt id="4264" miejscowosc="Ligota Wielka" 
+      ns="51.17818567" we="17.39082287" km="10.15" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze z Oleśnicy do Jelcza.</opispunktu> 
+    </punkt>
+    <punkt id="4265" miejscowosc="Ligota Wielka" 
+      ns="51.17809395" we="17.39059523" km="10.1" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Mały prożek z bystrzem a zaraz za nim stalowa rura nisko nad wodą - możliwość kolizji na sporej prędkości.</opispunktu> 
+    </punkt>
+    <punkt id="4266" miejscowosc="Ligota Wielka" 
+      ns="51.17627733" we="17.38844445" km="9.9" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski betonowy prożek</opispunktu> 
+    </punkt>
+    <punkt id="4267" miejscowosc="Ligota Wielka" 
+      ns="51.17458785" we="17.38644705" km="9.7" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski betonowy prożek</opispunktu> 
+    </punkt>
+    <punkt id="4268" miejscowosc="Ligota Wielka" 
+      ns="51.17131428" we="17.38256452" km="9.2" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski betonowy prożek</opispunktu> 
+    </punkt>
+    <punkt id="4269" miejscowosc="Ligota Wielka" 
+      ns="51.17016119" we="17.37648038" km="8.7" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski betonowy prożek</opispunktu> 
+    </punkt>
+    <punkt id="4270" miejscowosc="Ligota Wielka" 
+      ns="51.16869309" we="17.36633156" km="8" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="4271" miejscowosc="Krzeczyn" 
+      ns="51.1601949" we="17.36160574" km="6.8" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze. Wygodny dostęp do wody.</opispunktu> 
+    </punkt>
+    <punkt id="4272" miejscowosc="Krzeczyn" 
+      ns="51.15936005" we="17.3605775" km="6.7" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek około 0,5 m, nad nim betonowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="4273" miejscowosc="Krzeczyn" 
+      ns="51.15171405" we="17.35228097" km="5.6" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4274" miejscowosc="Krzeczyn" 
+      ns="51.1505491" we="17.3516986" km="5.5" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski prożek, nad nim betonowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="4275" miejscowosc="Krzeczyn" 
+      ns="51.14441091" we="17.3504517" km="4.8" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4276" miejscowosc="Ligota Mała" 
+      ns="51.13144888" we="17.34719811" km="3.3" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4277" miejscowosc="Ligota Mała" 
+      ns="51.12986639" we="17.34681947" km="3.1" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska betonowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="4278" miejscowosc="Ligota Mała" 
+      ns="51.12686011" we="17.33858012" km="2.4" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4279" miejscowosc="Leśny Młyn" 
+      ns="51.11967292" we="17.32400844" km="0.7" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4280" miejscowosc="Leśny Młyn" 
+      ns="51.11544367" we="17.31808765" km="0" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Świerznej do Widawy</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

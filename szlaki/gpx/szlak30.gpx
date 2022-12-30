@@ -1,0 +1,70 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.18506800" lon="17.46887300">
+<name>0.00</name>
+<desc>Miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.19763000" lon="17.46149000">
+<name>5.50</name>
+<desc>kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.19737000" lon="17.46061000">
+<name>5.60</name>
+<desc>kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.20438000" lon="17.45766000">
+<name>7.10</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.21678000" lon="17.44884000">
+<name>9.20</name>
+<desc>zwałka</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.22367000" lon="0.00000000">
+<name>10.20</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.24493000" lon="17.42734000">
+<name>14.20</name>
+<desc>zwałka i megaśmieci</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.24596000" lon="17.41827000">
+<name>15.60</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.24840100" lon="17.40056500">
+<name>17.70</name>
+<desc>ujście do Zalewu Bytowa</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.24963300" lon="17.39059000">
+<name>18.40</name>
+<desc>zapora przed starym korytem Słupii</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.26823000" lon="17.42219000">
+<name>22.10</name>
+<desc></desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.26879000" lon="17.42228600">
+<name>22.20</name>
+<desc>ujście do rz. Słupii</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

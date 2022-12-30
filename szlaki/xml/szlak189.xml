@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="189" nazwa="Pliszka" wersja="1">
+<opis>Prawy dopływ środkowej Odry, płynący w całości w województwie lubuskim. Bardzo malownicza rzeka przebijająca się przez ostępy leśne Puszczy Rzepińskiej, niemal całkowicie pozbawiona kontaktu z cywilizacją. Przewrócone drzewa, tamy bobrowe, jeziora, piękne dzikie biwaki w scenerii pagórków sandrowych niewątpliwie stanowią o jej atrakcyjności. Niegdyś, energia Pliszki wykorzystywana była gospodarczo, stąd stosunkowo liczne [13] w jej biegu miejsca piętrzenia wody na potrzeby młynów, stawów hodowlanych, urządzeń nawadniających czy hydroelektrowni. Dzisiaj działają już tylko nieliczne, a wszystkie pozostałe w postaci malowniczych ruin dodają kolorytu i stanowią ciekawy dodatek do spływu. Kłopotliwym jest próba oceny trudności i uciążliwości rzeki jako całości, bowiem poszczególne jej odcinki znacząco różnią się od siebie tymi elementami. Biorąc pod uwagę, że poszczególne fragmenty wygodnie można podzielić na jednodniowe etapy, każdy znajdzie na tej rzece coś dla siebie. Warto jednak Pliszkę spłynąć i poznać w całości. 
+Na całej rzece udało się namierzyć 3 wodowskazy, przy czym ten na górnej wodzie MEW Koziczyn jest praktycznie bezużyteczny, gdyż reprezentuje zaledwie 300 metrowy odcinek pomiędzy przenoskami. Wskazania poziomu 086 na wodowskazie Sądów (za pierwszym mostem) gwarantują dostateczne warunki wodne na odcinku z Kosobudek do Sądowa. W wielu miejscach wody jest zbyt mało i osiada się na mieliznach, zwłaszcza na odcinku zaraz za Kosobudkami, zaraz za Drzewcami Kijewo oraz poniżej progu Łapinóg. Przy tych warunkach odcinek Kosobudki - Pliszka zajął 5,5h, natomiast Łapinóg ? Sądów 3,5h. Poniżej jazu dla MEW Sądów stoi inny, słabo czytelny wodowskaz. Przy poziomie 3428 odcinek od ujścia rzeki Konotop do jazu Drzewce Kijewo zajął 3h, natomiast z Sądowa do ujścia do Odry w Uradzie 3,5h. Wskazania te gwarantują bardzo dobre warunki wodne na dolnym odcinku, poniżej Sądowa.</opis> 
+    <punkt id="5954" miejscowosc="Kosobudki" 
+      ns="52.25155153" we="15.18133532" km="59.6" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Konotopu do Pliszki. Poniżej fragment rzeki, na której zazwyczaj jest zbyt mało wody na swobodny spływ. Poza tym jest tu sporo drzew w korycie rzeki, przez co spływ jest trudny i uciążliwy</opispunktu> 
+    </punkt>
+    <punkt id="5955" miejscowosc="Kosobudki" 
+      ns="52.24859669" we="15.17401365" km="58.9" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na gruntowej, ale publicznej drodze. Praktycznie jedyna możliwość rozpoczęcia spływu w tej okolicy, zarówno w górę, jak i w dół dolina Pliszki jest podmokła i trudno dostęna. Poniżej zwałki i tamy bobrowe, kompletna dzicz i głusza. Przy samym moście wody wydaje się być akurat, jednak po chwili okazuje się, że tak nie jest. Płynąc w dół rzeki pokonamy 9 mniejszych lub większych tam bobrowych, pomiędzy którymi osiada się na mieliznach. Z lewej strony opływa się rezerwat torfowiskowy Mechowisko Kosobudki, małe rozlewisko porośnięte trzciną i trawą. Kierunek płynięcia nie jest tu jednoznaczny albowiem woda stoi spiętrzona kolejną tamą bobrową, a obecny dotąd szpaler drzew wyznaczający brzegi, zanika. Należy trzymać się lewego brzegu i szerokim łukiem, skręcając w prawo opłynąć rezerwat, przepychając się miejscami przez gęstą roślinność</opispunktu> 
+    </punkt>
+    <punkt id="5956" miejscowosc="Kosobudki" 
+      ns="52.24376395" we="15.15905972" km="57" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Koniec rezerwatu Mechowisko Kosobudki, woda zatrzymuje się i trudno odnaleźć właściwy kierunek w trzcinach i turzycy</opispunktu> 
+    </punkt>
+    <punkt id="5957" miejscowosc="Kosobudki" 
+      ns="52.24100846" we="15.15501386" km="56.5" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">W miejscu, gdzie brzegi wyraźnie zbliżają się do siebie stoi tama bobrowa, przebita w ostatnich latach charakterystyczną rurą, osadzoną na palikach wystających ponad lustro wody. Rura za zadanie ma oszukanie bobrów i wyrównywanie poziomów górnej i dolnej wody bez konieczności rozbierania tamy, a co za tym idzie obniżenie poziomu wody powyżej tamy. Dalej Pliszka płynie wąską doliną, stopniowo się rozszerzającą. Po obu stronach znajdują się użytki ekologiczne, po prawej Grzęzawisko, a po lewej Kijewo. Następnie dolina znowu się zwęża, a brzegi robią się stromsze. Na prawym brzegu znajduje się użytek ekologiczny Wiktorówka</opispunktu> 
+    </punkt>
+    <punkt id="5958" miejscowosc="Drzewce Kijewo" 
+      ns="52.23271633" we="15.13753629" km="54" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Początek krótkiego ale malowniczego przełomu przez wał piaszczystych pagórków sandrowych</opispunktu> 
+    </punkt>
+    <punkt id="5959" miejscowosc="Drzewce Kijewo" 
+      ns="52.23083862" we="15.13084851" km="53.1" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Most na gruntowej drodze publicznej. Ruiny młyna. Wygodne miejsce kończenia etapu, jednak nieco gorzej jest ze startem do kolejnego, ponieważ niżej jest nieco płytko i kamieniście. Jaz jest 3 stopniowy i dość wymagający w przypadku chęci spłynięcia: wielkie przewrócone drzewo przed progiem, betonowa niska kładka przed wpłynięciem pod mostek, 3 wąskie stopnie z małymi odwojami i betonowe wysokie obmurowania wzdłuż jazu. Poniżej wąski fragment szybkiej wody o charakterze górskim. Spłynięcie jazu wyłącznie dla koneserów i po wcześniejszym rozpoznaniu. Przenoska przez drogę gruntową i wyspę pomiędzy suchym korytem z prawej, a młynówką aktywną z lewej, na odległość około 50m. Wodowanie na końcu wyspy na bystrej wodzie. Dalej fragment nieco szybszej rzeki, za to ze znacznymi jej niedoborami i licznymi mieliznami z przemiałami żwirowymi oraz kamieniami po ruinach budowli hydrotechnicznych</opispunktu> 
+    </punkt>
+    <punkt id="5960" miejscowosc="Barcice" 
+      ns="52.22710589" we="15.08612117" km="47.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Początek zarastającego jeziora, robi się głębiej a przestrzeń się otwiera. Rzeka opływa zbiornik wąskim, krętym przesmykiem przez trzcinowiska i trawy. Po prawej stronie pozostawia się duży użytek ekologiczny Futory. Po opłynięciu otwartego obszaru wpływa się z powrotem do węższej doliny</opispunktu> 
+    </punkt>
+    <punkt id="5961" miejscowosc="Barcice" 
+      ns="52.22893563" we="15.06028094" km="42.3" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na wysokiej skarpie po lewej stronie widoczne są zabudowania wsi</opispunktu> 
+    </punkt>
+    <punkt id="5962" miejscowosc="Pliszka" 
+      ns="52.22496224" we="15.05115191" km="41" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Niezbyt wygodne miejsce kończenia i rozpoczynania etapu ze względu na stromą skarpę i wąską ruchliwą drogę krajową nr 138</opispunktu> 
+    </punkt>
+    <punkt id="5963" miejscowosc="Pliszka" 
+      ns="52.22463904" we="15.05029808" km="40.9" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora na potrzeby stawów hodowlanych</opispunktu> 
+    </punkt>
+    <punkt id="5964" miejscowosc="Gądków Wielki" 
+      ns="52.22327458" we="15.01752948" km="38" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wpływ na jezioro Ratno</opispunktu> 
+    </punkt>
+    <punkt id="5965" miejscowosc="Gądków Wielki" 
+      ns="52.22166821" we="15.0130042" km="37.7" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Ratno. Dalej rzeka płynie spokojnie w szerokiej, podmokłej dolinie. Po drodze kilka ładnych miejsc na dziki biwak</opispunktu> 
+    </punkt>
+    <punkt id="5966" miejscowosc="Gądków Wielki" 
+      ns="52.22129613" we="15.00514847" km="37.1" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wygodne miejsce wodowania tuż przed mostem kolejowym po lewej stronie. Dobry dojazd leśną drogą</opispunktu> 
+    </punkt>
+    <punkt id="5967" miejscowosc="Gądków Wielki" 
+      ns="52.22113802" we="15.00402427" km="37" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="5968" miejscowosc="Gądków Wielki" 
+      ns="52.22436214" we="14.97700794" km="34.9" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony mały dopływ ze stawów hodowlanych, zwany Ruskim Potokiem [Kanałem]</opispunktu> 
+    </punkt>
+    <punkt id="5969" miejscowosc="Gądków Wielki" 
+      ns="52.22455127" we="14.97286129" km="34.5" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Miejsce zwane Drewnianym Mostem. Dobry dojazd publiczną drogą, wygodne miejsce wodowania i lądowania</opispunktu> 
+    </punkt>
+    <punkt id="5970" miejscowosc="Gądków Wielki" 
+      ns="52.22313902" we="14.97162252" km="34.3" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wpływ na jezioro Wielicko</opispunktu> 
+    </punkt>
+    <punkt id="5971" miejscowosc="Łapinóg" 
+      ns="52.21205546" we="14.94318442" km="31.9" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Wypływ z jeziora Wielicko. Drewniany mostek a pod nim prożek tworzący jaz, pochylnię utrzymjącą poziom wody w jeziorze. Niegdyś w miejscu tym funkcjonował młyn [Alte Muhle], którego doszukać można się na przedwojennych mapach. W chwili obecnej znajduje się tu parking PZW, do którego można dojechać leśnymi drogami pożarowymi, nazwanymi odpowiednio; Gądkowska nr 12 oraz Kwadratowa nr 13. Drogi te, chociaż leśne ponoć są drogami gminnymi, więc poruszanie się po nich samochodami jest dozowlone. Po obu stronach wygodne miejsca biwakowe. Dalej rzeka szeroka na ponad 10 m i miejscami płytka, kilka wysepek i sporo głazów narzutowych w nurcie, dno w większości piaszczyste. Zwałki mocno przystrzyżone i dostosowane do spływów masowych. W zasadzie na całym odcinku do Sądowa jedynie dwa miejsca wymagają współpracy. Przed progami Kokoszka i Bełcze leżą drzewa, które wyglądają na pozostawione celowo, po to, aby nie spływać progów. Mimo wszystko odcinek bardzo malowniczy, nurt łagodny, w lesie, rzeka mocno kręci. Na brzegach wysięki wody zażelazionej, tworzące charakterystyczne rude nacieki węglanowe</opispunktu> 
+    </punkt>
+    <punkt id="5972" miejscowosc="Kokoszka" 
+      ns="52.20780951" we="14.89983131" km="25" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg po dawnym młynie, poprzedzony kilkoma przewróconymi drzewami. Nad progiem betonowy mostek. Próg zazwyczaj skacze się bez problemów, mimo tego że jest pionowy i wysoki na 1,5m. Pod progiem jest wystarczająco głęboko, a tworzący się odwój jest niewielki. Zaraz za progiem po lewej stronie zorganizowano ogrodzony parking z ławkami i wiatami oraz piaszczystą plażą w małej zatoczce. Kto nie chce się moczyć, co jest nieuniknione podczas skoku progiem, może zrobić przenoskę lewym brzegiem, przez leśną drogę na odległość około 40m. Wyjście z wody przy drewnianej tablicy [Sądów przystań 4h]</opispunktu> 
+    </punkt>
+    <punkt id="5973" miejscowosc="Bełcze" 
+      ns="52.2056974" we="14.87304132" km="21.3" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Bliskość następnego progu [dawny młyn tartaczny] sygnalizują pojawiające się rzędy drewnianych palików. Progu Bełcze nie spływa się ze względu na skomplikowaną konstrukcję, a w zasadzie tego, co po niej pozostało [betonowe płyty, wystające stalowe pręty i kamienie]. Przenoska też nie jest wygodna, lewym brzegiem wzdłuż brzegu przez ruiny młyna</opispunktu> 
+    </punkt>
+    <punkt id="5974" miejscowosc="Bełcze" 
+      ns="52.20878046" we="14.87164375" km="20.8" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Fotogeniczne ruiny drewnianego mostu w sąsiedztwie omszałego drzewa</opispunktu> 
+    </punkt>
+    <punkt id="5975" miejscowosc="Sądów" 
+      ns="52.21692621" we="14.8663375" km="18.9" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Teren się otwiera, za sprawą stawów hodowlanych, wybudowanych na prawym dopływie rzeczki Pstrążna, z Pliszką połączonej prostym kanalikiem</opispunktu> 
+    </punkt>
+    <punkt id="5976" miejscowosc="Sądów" 
+      ns="52.21933738" we="14.84779655" km="16.8" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Przed Sądowem po prawej stronie znajduje się trawiasta przystań Nadleśnictwa Cybinka, z pomostem w zatoce oraz wiatami. Można tu wjechać samochodem. Zaraz za przystanią znajduje się most drogowy przy ul. Zagórze, a tuż za nim wodowskaz. Wskazania poziomu 086 oznaczają dobre warunki wodne, za wyjątkiem fragmentów rzeki zaraz za Kosobudkami, za Drzewcami Kijewo oraz za Łapinogiem, gdzie nieco jej brakuje. Przed samą przystanią kilka zwałek do pokonania</opispunktu> 
+    </punkt>
+    <punkt id="5977" miejscowosc="Sądów" 
+      ns="52.22373602" we="14.84214092" km="15.7" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz hydroelektrowni oraz główny most drogowy w Sądowie. Wygodne miejsce wodowania, chociaż w pobliżu brak miejsca na samochody. Przed mostem po prawej zamykany oznakowany parking i trawiasty plac [chyba prywatny]. Niezbyt wygodna ale krótka przenoska lewym brzegiem przez bramkę w ogrodzeniu i asfaltową szosę. Za mostem drewniany slip ułatwiający wodowanie. Pod mostem podwójny przepust i próg pietrzący wodę dla elektrowni. Dla wprawnych i nie dbających o sprzęt, przy odpowiednich warunkach wodnych istnieje możlwość skoku progiem, prawym przęsłem [1,5m pionu + pochylnia pod mostem + 1,5m pionu]. Ze względu na możliwość uszkodzenia ciała i sprzętu zdecydowanie odradzam. Zaraz za progiem, na dolnej wodzie po prawej stronie znajduje się słabo czytelny wodowskaz. Poziom 3428 gwarantuje bardzo dobrą wodę na reprezentowanym odcinku. Niżej odcinek bez przeszkód, nurt powolny, po lewej okazała ogrodzona willa wraz z przylegającym terenem. Dalej nieco zwałek ale wszystkie przystosowane do spływów. Malownicza, zalesiona, głęboka dolina z wysokimi skarpami</opispunktu> 
+    </punkt>
+    <punkt id="5978" miejscowosc="Koziczyn" 
+      ns="52.23651609" we="14.79675153" km="11" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Początek rozlewiska przed zaporą dawnej papierni. Dno zbiornika miejscami mocno zamulone i płytkie. Pośród trzcin wypatrzeć można charakterystyczne dla Pliszki i często spotykane na zdjęciach kępy turzycowe, przypominające trawiaste kukły</opispunktu> 
+    </punkt>
+    <punkt id="5979" miejscowosc="Koziczyn" 
+      ns="52.23701979" we="14.78316196" km="9.1" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora na potrzeby dawnej papierni i stawów hodowlanych. Po lewej przystań z wiatą, ławkami i miejscem na ognisko. Nad przystanią, na wysokiej skarpie góruje piękna, stara ale popadająca w ruinę willa, niestety ogrodzona siatką wraz z przyległym parkiem. W pobliżu pasą się ostrożne na obcych, owce kameruńskie, natomiast po drugiej stronie, zgodnie z informacją na tabliczce, można kupić świeżego pstrąga. Wygodne miejsce kończenia i rozpoczynania etapu, z dojazdem do samej wody. Rozległe industrialne zabudowania z cegły i żelbetu, w większości popadające w ruinę. Krótka przenoska lewym brzegiem przez drogę z wodowaniem przy ścianie budynku. Wybór tej opcji umożliwi przepłynięcie ciekawym, ciemnym, długim i niskim przepustem pod fragmentem starej papierni. Alternatywnie, należy rozważyć długą przenoskę, ponad 200 m, z prawej strony budynku, drogą wzdłuż rampy, ścieżką za budynkiem, pomiędzy nim a stawem hodowlanym, załatwiając 3 przenoski na raz, na krótkim odcinku rzeki</opispunktu> 
+    </punkt>
+    <punkt id="5980" miejscowosc="Koziczyn" 
+      ns="52.23769684" we="14.78238366" km="9" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Długi łukowy niski przepust pod budynkiem papierni</opispunktu> 
+    </punkt>
+    <punkt id="5981" miejscowosc="Koziczyn" 
+      ns="52.23800369" we="14.78243576" km="8.9" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowa niska kładka wymuszająca krótką przenoskę za kładkę [na prawym brzegu wyjście z wody i wodowanie ułatwia zbudowana tu drewniana drabinka], albo od razu na drugą stronę kładki i za jaz otwartej hydroelektrowni - 60m ścieżką po trawie</opispunktu> 
+    </punkt>
+    <punkt id="5982" miejscowosc="Koziczyn" 
+      ns="52.23820837" we="14.7817707" km="8.8" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz otwartej elektrowni wodnej. Przenoska. Na górnej wodzie wodowskaz jednak mało przydatny do oceny poziomu wody w rzece. Wodowanie z lewego brzegu, przy drabince ułatwiającej stabilizację. Ze względu na bliskość jazu woda nieco kręci, dobrze więc zachować czujność</opispunktu> 
+    </punkt>
+    <punkt id="5983" miejscowosc="Koziczyn" 
+      ns="52.23944526" we="14.77355883" km="8.2" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Most nieczynnej linii kolejowej Słubice - Cybinka z widoczną datą 1907 r. Niżej malownicza głęboko wcięta dolina, zalesiona z wysokimi skarpami. Pojedyncze zwałki nie są trudne do pokonania i dostosowane są do spływów komercyjnych</opispunktu> 
+    </punkt>
+    <punkt id="5984" miejscowosc="Urad" 
+      ns="52.24969592" we="14.73190501" km="3" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Miejsce zwane Urad Bar, chociaż bar jest nieczynny od wielu lat. Most na ruchliwej drodze nr 29 ze Słubic do Krosna Odrzańskiego. Wygodne lądowanie przed mostem po lewej stronie. W pobliżu plac i dużo miejsca na samochody. Koniec odcinka śródleśnego, dalej odkryta, szeroka i zatrzciniona dolina łagodnie przechodząca w łęgi Doliny Środkowej Odry. Po lewej stronie ciekawe domki letniskowe, wybudowane na drzewach i palach</opispunktu> 
+    </punkt>
+    <punkt id="5985" miejscowosc="Urad" 
+      ns="52.25161154" we="14.70408523" km="0.3" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej asfaltowej drodze do Rybocic. Pod mostem kamienne bystrze, którego nurt wyrzuca na przewrócone drzewo</opispunktu> 
+    </punkt>
+    <punkt id="5986" miejscowosc="Urad" 
+      ns="52.25242058" we="14.69989097" km="0" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Pliszki do Odry. Zaraz za ujściem po prawej stronie widoczne jest wysokie betonowe nabrzeże portowe, z którego prawej strony, w pobliżu betonowych schodów znajduje się w miarę wygodne wyjście na ląd. W zależności od poziomu wody w Odrze, dobijanie do brzegu pośród dużych głazów o ostrych krawędziach. Dobry dojazd samochodem nad samą skrajnię, gruntową drogą przez plac portowy</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

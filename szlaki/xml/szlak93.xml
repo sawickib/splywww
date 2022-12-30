@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="93" nazwa="Ruziec" wersja="1">
+<opis>Bardzo ładna urozmaicona rzeczka z mnóstwem dzikich miejsc do biwakowania. Zdjęcia ze spływu Ruźcem można obejrzeć na stronie www.humbak.com. </opis> 
+  <odcinek id="374" typ="jezioro" nazwa="Jezioro Żalskie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL3" 
+      kolejnosc="0"> 
+  <opis>Jezioro Żalskie jest dość dużym akwenem stąd często występują tu silne wiatry i wysoka jak na jeziora fala. </opis>
+    <punkt id="3161" miejscowosc="Krystianowo - polna droga" 
+      ns="53.023005" we="19.286477" km="45.98" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Po przeniesieniu kajaków około 150 przez mały lasek start z Jeziora Żalskiego.</opispunktu> 
+    </punkt>
+    <punkt id="3162" miejscowosc="Przeszkoda" 
+      ns="53.019659" we="19.325561" km="42.77" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Jeziora Żalskiego do rzeki Ruziec.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="375" typ="rzeka" nazwa="Od jazu w Przeszkodzie do ujścia w Rudej" 
+      uciazliwosc="U5" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Odcinek dostępny tylko wiosną przy WWW.</opis>
+    <punkt id="3163" miejscowosc="Przeszkoda" 
+      ns="53.019597" we="19.325686" km="42.76" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Jaz. Przepływ zaspawany kratami.</opispunktu> 
+    </punkt>
+    <punkt id="3164" miejscowosc="Przeszkoda" 
+      ns="53.018171" we="19.329905" km="42.28" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most.</opispunktu> 
+    </punkt>
+    <punkt id="3165" miejscowosc="" 
+      ns="53.006963" we="19.329065" km="40.41" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Prowizoryczny mostek w postaci rur wkopanych w ziemię. </opispunktu> 
+    </punkt>
+    <punkt id="3166" miejscowosc="Ruda" 
+      ns="53.001006" we="19.327891" km="39.67" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Pod mostem przepływ betonowymi rurami. Bardzo ciasno. Możliwość zakleszczenia. Najlepiej przenieść kajak około  6m.</opispunktu> 
+    </punkt>
+    <punkt id="3167" miejscowosc="Ruda" 
+      ns="52.999727" we="19.326286" km="39.58" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Ruźca do Jeziora Ruda</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="376" typ="rzeka" nazwa="Od ujścia w Rudej do mostu w Kiełbzaku." 
+      uciazliwosc="U4" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Odcinek dostępny przy stanie niższym niż WWW.</opis>
+    <punkt id="3168" miejscowosc="Pinino" 
+      ns="52.997538" we="19.311509" km="38.56" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Jeziora Ruda do Ruźca.</opispunktu> 
+    </punkt>
+    <punkt id="3169" miejscowosc="" 
+      ns="52.996313" we="19.308663" km="38.25" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most.</opispunktu> 
+    </punkt>
+    <punkt id="3170" miejscowosc="Huta - Chojno" 
+      ns="52.986941" we="19.303032" km="36.81" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most.</opispunktu> 
+    </punkt>
+    <punkt id="3171" miejscowosc="" 
+      ns="52.975263" we="19.286893" km="33.47" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3172" miejscowosc="" 
+      ns="52.97216" we="19.282801" km="32.99" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3173" miejscowosc="" 
+      ns="52.963063" we="19.270311" km="31.25" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3174" miejscowosc="" 
+      ns="52.961164" we="19.25278" km="29.67" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3175" miejscowosc="Nietrzeba" 
+      ns="52.968298" we="19.223495" km="26.64" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Po prawej za mostem piękny drewniany młyn. Jakieś 50 m po lewej gospodarstwo w którym mieszka bardzo ciekawska ale przesympatyczna babcia, która zapraszała mnie na grilla :)</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3176" miejscowosc="Stalmierz" 
+      ns="52.980819" we="19.205863" km="23.48" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3177" miejscowosc="Kiełbzak" 
+      ns="52.996433" we="19.181945" km="19.84" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most. </opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Krótką jedynką skakałem z tego progu jednak trzeba uważać na wystające drewniane pale.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ruiny po młynie lub małej elektrowni. Przenoska ok 25m prawą stroną za młynem.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="377" typ="jezioro" nazwa="Jezioro Wojnowskie (Ruduskie)" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="3"> 
+  <opis></opis>
+    <punkt id="3178" miejscowosc="Rudusk" 
+      ns="53.003245" we="19.17779" km="18.96" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ Ruźca do Jeziora Wojnowskiego (Ruduskiego).</opispunktu> 
+    </punkt>
+    <punkt id="3179" miejscowosc="Zbójno - Wojnowo " 
+      ns="53.016747" we="19.173207" km="17.42" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Jeziora Wojnowskiego (Ruduskiego) do Ruźca.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="378" typ="rzeka" nazwa="Od wypływu z Jeziora Wojnowskiego do ujścia do Drwęcy" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="4"> 
+  <opis></opis>
+    <punkt id="3180" miejscowosc="Wojnowo" 
+      ns="53.017937" we="19.172793" km="17.29" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most.</opispunktu> 
+    </punkt>
+    <punkt id="3181" miejscowosc="Wojnowo" 
+      ns="53.019054" we="19.171808" km="17.15" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej ujście małego strumyka.</opispunktu> 
+    </punkt>
+    <punkt id="3182" miejscowosc="Ruże" 
+      ns="53.031708" we="19.16427" km="16.07" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3183" miejscowosc="Imbirkowo" 
+      ns="53.039253" we="19.161775" km="15.17" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Stary betonowy mostek a za nim próg złożony z trzech stopni. Fajne spływalne bystrze, dużo białej spienionej wody.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3184" miejscowosc="Imbirkowo" 
+      ns="53.03938" we="19.161565" km="15.16" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most.</opispunktu> 
+    </punkt>
+    <punkt id="3185" miejscowosc="Sitno" 
+      ns="53.04362" we="19.102734" km="10.49" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most.</opispunktu> 
+    </punkt>
+    <punkt id="3186" miejscowosc="Sokołowskie Rumunki" 
+      ns="53.076516" we="19.084389" km="6.22" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3187" miejscowosc="Zaręba" 
+      ns="53.090781" we="19.053634" km="2.57" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pozostałości po starym moście lub młynie. Fajne bezpieczne bystrze.</opispunktu> 
+    </punkt>
+    <punkt id="3188" miejscowosc="Zaręba" 
+      ns="53.090838" we="19.053304" km="2.56" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most a za nim bystrze.</opispunktu> 
+    </punkt>
+    <punkt id="3189" miejscowosc="Wygoda" 
+      ns="53.092475" we="19.048675" km="2.1" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na drodze Golub-Dobrzyń - Kikół.</opispunktu> 
+    </punkt>
+    <punkt id="3190" miejscowosc="Ruziec" 
+      ns="53.094995" we="19.041453" km="1.4" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="3191" miejscowosc="" 
+      ns="53.097155" we="19.028312" km="0" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Ruźca do Drwęcy.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

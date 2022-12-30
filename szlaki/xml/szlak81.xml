@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="81" nazwa="Cicha Woda" wersja="3">
+<opis>Cicha Woda - lewy dopływ Odry o długości 54,4 km i powierzchni dorzecza 348 km2. Płynie przez Wysoczyznę Średzką w województwie dolnośląskim. Rzeka wypływa koło wsi Goczałków na Wzgórzach Strzegomskich, na północ od Strzegomia na wys. 222 m n.p.m., a do Odry wpływa poniżej Kawic - naprzeciw Lubiąża.
+Piękna, zwałkowa, czysta rzeka. Stosunkowo płytka zaraz za Karnicami, od wpływu z prawej potoku Jarosławca - wody jest już wystarczająco. Mnóstwo zwałek, przenosek i wypłyceń żwirowych - bardzo malowniczo. Liczne ślady działalności bobrów i same bobry też. Sporo ryb w wodzie. Między Karnicami a Pęczkowem bobry spiętrzyły rzekę na 2m. Rozgałęzia się ona w tym miejscu na kilka cieków i zalewa las.
+Poniżej Dzierżkowic znacznie mniej zwałek, za to znacznie więcej zwieszających się do wody pokrzyw oraz kolczastych róż. Odcinek od Lasowic do mostu kolejowego w Mazurowicach gęsto porośnięty trzcinami zwieszającymi się z brzego do wody - płynięcie po omacku w ciągłym przechyle do przodu. Poniżej Lasowic woda nieco mętnieje.
+Wspaniała zwałkowa rzeczka blisko Wrocławia i Legnicy.
+Płynęliśmy 3 jedynkami tempem rekreacyjnym z przerwami na zwiedzanie i posiłki. Odcinek od Karnic do Dzierżkowic zajął nam 9h, odcinek od Dzierżkowic do Kawic 7h, natomiast od Kawic do ujścia Cichej Wody do Odry - 2,5 h.</opis> 
+  <odcinek id="365" typ="rzeka" nazwa="Mazurowice - Kawice" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="4"> 
+  <opis>Odcinek leśny, sporo zwalonych drzew w korycie</opis>
+    <punkt id="3065" miejscowosc="Kawice" 
+      ns="51.231211" we="16.42399" km="7.58" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="bar" kolejnosc="-1">Przy moście 2 restauracje, 100m w lewo</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na ruchliwej szosie pomiędzy Środą Śląską a Prochowicami. Wygodne miejsce wodowania - przy moście duży plac</opispunktu> 
+    </punkt>
+    <punkt id="3064" miejscowosc="Kawice" 
+      ns="51.228412" we="16.42186" km="7.86" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewą stroną kilka metrów, lub przez kładkę</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka z gwoździami nisko nad wodą</opispunktu> 
+    </punkt>
+    <punkt id="3063" miejscowosc="Mazurowice" 
+      ns="51.214955" we="16.414617" km="9.65" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy na trasie Wrocław - Legnica</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="364" typ="rzeka" nazwa="Lasowice - Mazurowice" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Odcinek przez łąki i pola, brzegi mocno porośnięte trzcinami zwieszającymi się gęsto do wody</opis>
+    <punkt id="3062" miejscowosc="Lasowice" 
+      ns="51.195926" we="16.435911" km="13.13" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pod mostem kamienie w nurcie</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep 100m od mostu w prawo</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="363" typ="rzeka" nazwa="Dzierżkowice - Lasowice" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis>Znacznie mniej zwałek ale za to więcej pokrzyw i dzikiej róży zwieszających się do wody</opis>
+    <punkt id="3061" miejscowosc="Lasowice" 
+      ns="51.192798" we="16.43281" km="13.62" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="3060" miejscowosc="Ruja" 
+      ns="51.178278" we="16.413836" km="15.94" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="3059" miejscowosc="Ruja" 
+      ns="51.172979" we="16.408387" km="16.66" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3058" miejscowosc="Ruja" 
+      ns="51.171478" we="16.398341" km="17.55" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="3057" miejscowosc="Komorniki" 
+      ns="51.171326" we="16.371923" km="19.76" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek 0,7m</opispunktu> 
+    </punkt>
+    <punkt id="3056" miejscowosc="Rogoźnik" 
+      ns="51.165938" we="16.359784" km="20.93" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3055" miejscowosc="Tyniec Legnicki" 
+      ns="51.158723" we="16.377029" km="22.44" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3054" miejscowosc="Tyniec Legnicki" 
+      ns="51.156219" we="16.388735" km="23.39" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3053" miejscowosc="Dzierżkowice" 
+      ns="51.156444" we="16.402926" km="24.43" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Łukowy, ceglany most kolejowy na nieczynnej trasie</opispunktu> 
+    </punkt>
+    <punkt id="3052" miejscowosc="Dzierżkowice" 
+      ns="51.156369" we="16.404524" km="24.56" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="2819" miejscowosc="Dzierżkowice" 
+      ns="51.154849" we="16.414052" km="25.28" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="337" typ="rzeka" nazwa="Jarosławiec - Dzierżkowice" 
+      uciazliwosc="U5" trudnosc="ZWC" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Piękny, zwałkowy odcinek czystej rzeki - polecam gorąco !</opis>
+    <punkt id="2818" miejscowosc="Dzierżkowice" 
+      ns="51.149083" we="16.422059" km="26.39" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Bród z betonowych płyt</opispunktu> 
+    </punkt>
+    <punkt id="2817" miejscowosc="Usza" 
+      ns="51.134108" we="16.427889" km="28.78" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jazik pochyły 0,8m - spławny i bezpieczny</opispunktu> 
+    </punkt>
+    <punkt id="2816" miejscowosc="Zawadka" 
+      ns="51.13411" we="16.448236" km="30.34" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w Zawadce</opispunktu> 
+    </punkt>
+    <punkt id="2815" miejscowosc="Chełm" 
+      ns="51.129488" we="16.46153" km="32" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="2814" miejscowosc="Pęczków" 
+      ns="51.119106" we="16.477743" km="33.87" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="2813" miejscowosc="Pęczków" 
+      ns="51.112691" we="16.490117" km="35.06" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Duża zwałka i tama wykonana przez bobry. Woda piętrzy się tu na ok 2m a rozlewisko zalewa otaczający las tworząc liczne wąskie odnogi.</opispunktu> 
+    </punkt>
+    <punkt id="2812" miejscowosc="Karnice" 
+      ns="51.104903" we="16.494831" km="36.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z prawej potoku Jarosławiec</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="336" typ="rzeka" nazwa="Karnice - Jarosławiec" 
+      uciazliwosc="U5" trudnosc="ZWC" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Płytki odcinek rzeki, miejscami nie da się płynąć, kilka zwałek. Od ujścia potoku Jarosławiec wody w rzece jest już wystarczająco aby płynąć swobodnie.</opis>
+    <punkt id="2811" miejscowosc="Karnice" 
+      ns="51.097987" we="16.480756" km="37.88" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Stary kamienny, sklepiony, częściowo zawalony most przy zaniedbanym dworku</opispunktu> 
+    </punkt>
+    <punkt id="2810" miejscowosc="Karnice" 
+      ns="51.097595" we="16.479126" km="38" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="366" typ="rzeka" nazwa="Kawice - Rogów" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="5"> 
+  <opis>Nudnawy odcinek przez wieś i łąki - uregulowany i wyczyszczony z wszelakiego dobra. Jak to zwykle bywa poniżej wioski sporo śmieci w rzece.</opis>
+    <punkt id="3066" miejscowosc="Kawice" 
+      ns="51.234682" we="16.430392" km="6.88" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Pod mostem kamienie</opispunktu> 
+    </punkt>
+    <punkt id="3067" miejscowosc="Rogów Legnicki" 
+      ns="51.244141" we="16.442" km="5.39" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz cofkowy przeciwpowodziowy, bez piętrzenia wody. Za nim kamienie w nurcie</opispunktu> 
+    </punkt>
+    <punkt id="3068" miejscowosc="Rogów Legnicki" 
+      ns="51.243491" we="16.446389" km="5.07" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Kawicami a Lubiążem</opispunktu> 
+    </punkt>
+    <punkt id="3069" miejscowosc="Rogów Legnicki" 
+      ns="51.245316" we="16.448672" km="4.8" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na bocznej drodze w kierunku Malczyc. Na moście widoczna data 1916 r.</opispunktu> 
+    </punkt>
+    <punkt id="3070" miejscowosc="Rogów Legnicki" 
+      ns="51.253829" we="16.454494" km="3.38" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Kawicami a Lubiążem</opispunktu> 
+    </punkt>
+    <punkt id="3071" miejscowosc="Rogów Legnicki" 
+      ns="51.254643" we="16.454596" km="3.27" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na leśnej drodze</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="367" typ="rzeka" nazwa="Ujście do Odry" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="6"> 
+  <opis>Bardzo ładny odcinek. Rzeka mocno kręci przez las. Trochę powalonych drzew, trochę podmytych brzegów. Cisza i bezludzie.</opis>
+    <punkt id="3072" miejscowosc="Rogów Legnicki" 
+      ns="51.272046" we="16.44362" km="0.22" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="3073" miejscowosc="Rogów Legnicki" 
+      ns="51.273371" we="16.44209" km="0" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Cichej Wody do Odry</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

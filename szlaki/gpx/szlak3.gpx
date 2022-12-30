@@ -1,0 +1,145 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.37077000" lon="19.52761000">
+<name>0.00</name>
+<desc>Betonowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.33715000" lon="19.52271000">
+<name>6.50</name>
+<desc>Niezłe dzikie miejsce biwakowe na lewym brzegu pod lasem.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.31182000" lon="19.51903000">
+<name>9.90</name>
+<desc>most betonowy na drodze między Jajkowem, a Wielkim Głęboczkiem.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.28010000" lon="19.47938000">
+<name>16.40</name>
+<desc>Most kolejowy o konstrukcji stalowej.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.28010000" lon="19.47940000">
+<name>16.40</name>
+<desc>ujście Skarlanki, łączącej j. Bachotek z Drwęcą</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.28215000" lon="19.47688000">
+<name>17.00</name>
+<desc>10 metrowa przenoska, łatwa przenoska po prawym brzegu. Można też po lewej części jazu.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="53.30345000" lon="19.46773000">
+<name>19.40</name>
+<desc>Duże i bardzo wygodne pole biwakowe na przeciwko wyspy. Pojemność conajmnie ze 200 osób. Dwa pomosty. W lipcu i sierpniu może być zajetę przez harcerzy.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.31232000" lon="19.45124000">
+<name>20.50</name>
+<desc>Ośrodek PTTK Bachotek, wypożyczalnia kajaków, sklepik, barek.</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="53.31991000" lon="19.44272000">
+<name>21.60</name>
+<desc>Most betonowy dosyć nisko nad wodą.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.33400000" lon="19.43287000">
+<name>23.40</name>
+<desc>Ujście Skarlanki z jeziora Strażym.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.33706000" lon="19.42645000">
+<name>-1.00</name>
+<desc>dobre, ładne i duże pole biwakowe na zachodnim brzegu j. Strażym</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.34009000" lon="19.42277000">
+<name>24.60</name>
+<desc>Ujście do j. Strażym kanałku łączącego je z j. Zbiczno</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.34157000" lon="19.41984000">
+<name>24.80</name>
+<desc>betonowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.34261000" lon="19.41715000">
+<name>25.10</name>
+<desc>ujście z j. Zbiczno</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.35473000" lon="19.38914000">
+<name>27.80</name>
+<desc>Zagospodarowane pole biwakowe ze stołami i ładną plażą.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.35457000" lon="19.38851000">
+<name>34.30</name>
+<desc>Betonowy most drogowy, mały, ale ruch spory.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.35804000" lon="19.36595000">
+<name>29.60</name>
+<desc>ujście z j. Cichego</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.35417000" lon="19.38937000">
+<name>31.30</name>
+<desc>ujście kanałku do j. Zbiczno z j. Cichego</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.33876000" lon="19.42813000">
+<name>34.80</name>
+<desc>Ujście Skarlanki do j. Strażym</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.34073000" lon="19.42813000">
+<name>35.00</name>
+<desc>Jaz spietrzający wode do młyna albo tartaku, wysokosci ze 2 metrów.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Betonowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.34765000" lon="19.42690000">
+<name>35.70</name>
+<desc>Drewniany most na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.36854000" lon="19.40814000">
+<name>39.00</name>
+<desc>Drewniana kładeczna dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.37607000" lon="19.40701000">
+<name>39.90</name>
+<desc>Ujście Skarlanki do j. Robotno</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.38154000" lon="19.40963000">
+<name>40.70</name>
+<desc>Ujście Skarlanki z j. Dębno</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.38418000" lon="19.41487000">
+<name>41.30</name>
+<desc>Betonowy most drogowy między J. Dębno, a J. Partęczyny Wielkie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.38776000" lon="19.42282000">
+<name>42.30</name>
+<desc>Duży ośrodek z kempingiem na wschodnim brzegu j. Partęczyny Wielkie.</desc>
+<cmt>biwak</cmt>
+</wpt>
+
+</gpx>

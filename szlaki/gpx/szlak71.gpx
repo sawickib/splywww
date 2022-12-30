@@ -1,0 +1,45 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.19578000" lon="19.65552600">
+<name>0.00</name>
+<desc>Start z Górzna z plaży nad  Jeziorem Górznieńskim.53</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="53.20803700" lon="19.65333300">
+<name>1.45</name>
+<desc>Jezioro Górznieńskie wpływa tu do rzeczki Górznianki.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.20889400" lon="19.65119540">
+<name>1.64</name>
+<desc>Drewniana kładka.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.21347500" lon="19.65394600">
+<name>2.13</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.22518600" lon="19.65348600">
+<name>4.00</name>
+<desc>Kamienny most. Po prawej na Górce leśniczówka.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.23541400" lon="19.64618200">
+<name>5.65</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.24079000" lon="19.64279900">
+<name>6.34</name>
+<desc>Ujście Górznianki do Brynicy.</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

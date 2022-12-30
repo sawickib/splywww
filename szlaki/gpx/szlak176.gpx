@@ -1,0 +1,85 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.12047805" lon="16.69135216">
+<name>64.50</name>
+<desc>Most na drodze nr 206 (ul. Wolności) z Miastka do Koszalina. Przy samym moście jest dość wąsko i niewygodnie, lepiej więc wodować się nieco niżej. Po prawej stronie, przy budynkach mieszkalnych sznajdują się miejsca parkingowe na kilka samochodów. Do mostu dopływa już sporo wody więc spływ można próbować zaczynać powyżej Polanowa</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.12149467" lon="16.69146923">
+<name>64.40</name>
+<desc>Nadgryziony zębem czasu, słabo czytelny wodowskaz Polanów. Wskazania poziomu 025 gwarantują przyzwoitą wodę, a tylko miejscami nieco się wypłyca na kamiennych przemiałachs</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.12172018" lon="16.69075299">
+<name>64.35</name>
+<desc>Most przy ul. Wiejskiej. W bezpośrednim sąsiedztwie znajduje się sklep spożywczy i spory plac. Można tu wygodnie zwodować kajaki z trawiastego brzegu przed mostem. Pod mostem małe bystrze, przy wyższej wodzie wyrzucające na stalową rurę poniżej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.12177475" lon="16.69065045">
+<name>64.30</name>
+<desc>Niska rura w poprzek rzeki podwieszona na stalowych szynach. Przeciskanie dołem na mokro lub krótka przenoska prawym brzegiem, umocnionym wielkimi głazami</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.12313891" lon="16.68816690">
+<name>64.10</name>
+<desc>Stalowa kładka dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.12352240" lon="16.68803552">
+<name>64.00</name>
+<desc>Niska rura przez rzekę ale przerzucona znacznie wyżej niż wcześniejsza</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.12527137" lon="16.68802678">
+<name>63.70</name>
+<desc>MEW przy ul. Młyńskiej. Przenoska około 150m lewym brzegiem po trawie, przez brukowaną drogę i boisko do piłki nożnej. Poniżej odcinek zwałkowy o umiarkowanych trudnościach. Jedynie kilka drzew wymaga współpracy zespołowej</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.13029067" lon="16.68161246">
+<name>62.70</name>
+<desc>Bród przez rzekę w pobliżu ul. Partyzanckiej</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.13228979" lon="16.68303140">
+<name>62.40</name>
+<desc>Spory dopływ z lewej strony. Poniżej fragmentami bardziej bystro</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.15129800" lon="16.69333126">
+<name>58.90</name>
+<desc>Most na drodze nr 208 z Polanowa do Kępic</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.15260244" lon="16.69344251">
+<name>58.70</name>
+<desc>Ujście rzeczki Błotnicy z lewej strony. Poniżej odcinek z drobnymi zwałkami, konfiguracja i wysokość kilku z nich wymusza współpracę zespołową</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.18875760" lon="16.70720962">
+<name>52.20</name>
+<desc>Z prawej strony ujście rzeczki Wielinki, wcześniej bystry odcinek przełomowy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.20069517" lon="16.71343803">
+<name>50.00</name>
+<desc>Pstrągarnia. Przenoska około 70m lewym brzegiem po trawie. Wyjście z wody przed betonowym murkiem na grząski brzeg. Przy jazie na górnej wodzie wodowskaz wskazujący w dniu spływu poziom 174</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.20280735" lon="16.71180651">
+<name>49.70</name>
+<desc>Most drogowy. Tuż przy moście zadaszona wiata przystanku autobusowego. Wygodne wodowanie/lądowanie tuż przed mostem po lewej stronie wpływając do koryta małego dopływu. W pobliżu miejsce na kilka samochodów</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.43356729" lon="16.38964100">
+<name>0.00</name>
+<desc>Ujście Grabowej do Wieprzy</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

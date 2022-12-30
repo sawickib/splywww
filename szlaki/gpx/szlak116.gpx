@@ -1,0 +1,240 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.61727270" lon="16.26435939">
+<name>85.80</name>
+<desc>Wygodne miejsce rozpoczęcia spływu</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.61724164" lon="16.36895623">
+<name>78.60</name>
+<desc>Wypływ z jeziora Komorze</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.61668448" lon="16.36866908">
+<name>78.50</name>
+<desc>Wpływ na jezioro Rakowo</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.61101141" lon="16.37933822">
+<name>77.50</name>
+<desc>Wypływ z jeziora Rakowo</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.61202634" lon="16.39421679">
+<name>76.40</name>
+<desc>Połączenie fragmentu rzeki płynącej z jezior Lubicko Małe i Wielkie. Spływ wygodnie jest rozpocząć również w miejscowości Łubowo, skąd do tego miejsca jest około 3 km.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.61331840" lon="16.39574100">
+<name>76.20</name>
+<desc>Wpływ na jezioro Brody</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.61436580" lon="16.42221369">
+<name>74.40</name>
+<desc>Wypływ z jeziora Brody</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.61482467" lon="16.42316860">
+<name>74.30</name>
+<desc>Wpływ na jezioro Strzeszyn</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.61415251" lon="16.42923572">
+<name>73.80</name>
+<desc>Wypływ z jeziora Strzeszyn</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.61188579" lon="16.43252651">
+<name>73.50</name>
+<desc>Wypływ na jezioro będące izolowanym fragmentem jeziora Kocie</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.61072480" lon="16.44017644">
+<name>73.00</name>
+<desc>Przesmyk na jezioro Kocie</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.61539400" lon="16.44697194">
+<name>72.30</name>
+<desc>Wypływ z jeziora Kocie</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.61714970" lon="16.44763281">
+<name>72.10</name>
+<desc>Dopływ z jeziora Łąkie</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.61706439" lon="16.44823815">
+<name>72.00</name>
+<desc>Most kolejowy i most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.59870037" lon="16.45064408">
+<name>69.80</name>
+<desc>Wypływ z jeziora Pile</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.58837997" lon="16.45277564">
+<name>68.60</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.58603478" lon="16.45313506">
+<name>68.30</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.58140789" lon="16.46694728">
+<name>67.10</name>
+<desc>Wpływ na jezioro Długie (Dołgie)</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.56008653" lon="16.50011810">
+<name>63.70</name>
+<desc>Wypływ z jeziora Długie (Dołgie)</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.54236152" lon="16.50235268">
+<name>61.20</name>
+<desc>Jaz piętrzący wodę na około 3m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.53969331" lon="16.50086222">
+<name>60.90</name>
+<desc>Bród przez rzekę</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.52984667" lon="16.49044852">
+<name>59.50</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.52680723" lon="16.48511683">
+<name>59.00</name>
+<desc>Pozostałości jazu</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.52314375" lon="16.48203542">
+<name>58.50</name>
+<desc>Stary drewniany most czołgowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.50481531" lon="16.48128988">
+<name>55.90</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.48432856" lon="16.49299491">
+<name>52.80</name>
+<desc>Możliwość biwakowania</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.47907635" lon="16.49125061">
+<name>52.10</name>
+<desc>Mała elektrownia wodna</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.47084060" lon="16.49308079">
+<name>51.00</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.46830418" lon="16.49361649">
+<name>50.60</name>
+<desc>Jaz przy starym młynie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.46601869" lon="16.49629675">
+<name>50.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.45882078" lon="16.49986558">
+<name>49.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.38669468" lon="16.52469781">
+<name>37.00</name>
+<desc>Możliwość biwakowania</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.35191499" lon="16.57012068">
+<name>30.10</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.34557967" lon="16.57045206">
+<name>29.10</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.34370258" lon="16.57037117">
+<name>28.90</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.31824673" lon="16.60213452">
+<name>23.80</name>
+<desc>Jaz przy pstrągarni</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.31600104" lon="16.61123029">
+<name>22.70</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.30252359" lon="16.64414752">
+<name>18.50</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.28458136" lon="16.68724519">
+<name>13.40</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.28109110" lon="16.69683339">
+<name>12.60</name>
+<desc>Jaz przy pstrągarni</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.26901859" lon="16.70951003">
+<name>10.60</name>
+<desc>Z prawej ujście rzeki Dobrzycy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.26915970" lon="16.71438509">
+<name>10.10</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.26707068" lon="16.73382180">
+<name>7.50</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.25722492" lon="16.74839718">
+<name>5.80</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.22839260" lon="16.77526113">
+<name>0.80</name>
+<desc>Most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.22493658" lon="16.78392617">
+<name>0.00</name>
+<desc>Ujście Piławy do Gwdy</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

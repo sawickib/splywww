@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="174" nazwa="Czarna Struga (Nowy Rów)" wersja="1">
+<opis>Niewielka, leniwie płynąca (miejscami praktycznie bez zauważalnego nurtu) rzeczka w gminie Miękinia oraz gminie Środa Śląska, na zachód od Wrocławia. Lewy dopływ Jeziorki. Dostępna praktycznie wyłącznie wczesną wiosną ze względu na ilość wody oraz miejscowe zarastanie trzcinami, co głównie stanowi o jej uciążliwości. Na całym przepłyniętym odcinku są trzy krótkie i wygodne przenoski, dwie przez niskie mostki i jedna przez bardzo grube drzewo. Poza tym nie ma większych utrudnień ani trudnych do pokonania zwałek. Pojedyncze drzewa przewrócone do wody można swobodnie opłynąć lub przeskoczyć górą. 
+Na Czarną Strugę (Nowy Rów) składają się 3 niewielkie cieki przepływające przez przez obszar pomiędzy Miękinią a Klęką, łączące się gdzieś przed Zaborem Wielkim. Póki co, nie udało się namierzyć miejsca ich połączenia w terenie, w każdym razie do mostku, przy którym wygodnie jest rozpocząć spływ dopływa już odpowiednia ilość wody. A zatem, spływ można próbować zacząć jeszcze wyżej, byle tylko dało się tam w miarę wygodnie dotrzeć z kajakiem. 
+Generalnie rzeka na całej długości wygląda na uregulowaną, jednak na tyle zdziczałą i miejscami zarośniętą, że jej regulacja jest mało widoczna. Jeden z dopływów niesie ścieki z gminnej oczyszczalni w Miękini, nie pogarsza to jednak czystości wody. Śmieci również jest niewiele, ale to dzięki temu, że ciek nie ma praktycznie wcale kontaktu z cywilizacją.
+Brak wodowskazów, najbliższy znajduje się przy ujściu do Jeziorki. W dniu spływu wskazywał poziom 52, reprezentuje on jednak poziom wody w Jeziorce a wskazania te nie wiele mają wspólnego ze stanem wody w Czarnej Strudze i nie należy się nimi sugerować. Gdyby jednak, to przy tych wskazaniach wody zasadniczo wystarcza, jedynie miejscami oraz około 1 km od ujścia do Jeziorki było dość płytko.
+Początkowo woda jest czysta i głęboka, po wpłynięciu do lasu nieco mętnieje ale tylko dlatego, że po obu stronach zaczynają się bagniska. Po lewej stronie znajduje się rezerwat Zabór, jednak jego obszar nie przylega bezpośrednio do rzeki. Po wypłynięciu na łąki pojawiają się gęste trzcinowiska i trzeba się nieco poprzedzierać, na szczęście niezbyt długo. Na odcinku leśnym pojawiają się pojedyncze tamy bobrowe.
+Odcinek z Zaboru Wielkiego do ujścia do Jeziorki zajął 2 jedynkom 3 h i 15 min niespiesznego spływu.
+Ciekawostką jest, że do dnia 1 stycznia 2019 r. rzeka oficjalnie nazywała się Nowy Rów. Po tym dniu, gdy weszło w życie rozporządzenia Ministra Spraw Węwnętrznych i Administracji z dnia 13 grudnia 2018 r. w sprawie ustalenia, zmiany i zniesienia urzędowych nazw niektórych miejscowości oraz obiektów fizjograficznych (Dz. U. z 2018 poz. 2447), oficjalną nazwą rzeki jest Czarna Struga</opis> 
+    <punkt id="5646" miejscowosc="Zabór Wielki" 
+      ns="51.21062919" we="16.72148593" km="10.2" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na drodze do lasu, wygodne miejsce rozpoczynania spływu. Jadąc przez Zabór Wielki w kierunku Środy Śląskiej, do rzeczonego mostku należy skręcić w lewo w gruntową drogę pomiędzy numerami domostw 88 i 17. Droga jest zmiennej jakości i prowadzi do lasu, a po przejechaniu mostka jest duża łąka z miejscem na samochód. Niestety nie udało nam się ustalić czy teren jest prywatny, czy gminny (może leśny), w każdym razie przez cały dzień nikt stojącym tam samochodem się nie zainteresował. Start z trawiastego brzegu poniżej betonowego mostka - przepustu rurowego</opispunktu> 
+    </punkt>
+    <punkt id="5647" miejscowosc="Zabór Wielki" 
+      ns="51.20963127" we="16.7084217" km="9.3" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej szeroki dopływ z Miękini. Po obu stronach zalesione bagna</opispunktu> 
+    </punkt>
+    <punkt id="5648" miejscowosc="Zabór Wielki" 
+      ns="51.20927861" we="16.70573203" km="9.1" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski most na leśnej drodze, po której poprowadzony jest czerwony szlak pieszy i rowerowy. W zależności od ilości wody konieczna przenoska nr 1. Możliwy jest dojazd do tego miejsca samochodem, jednak jest to droga leśna i wjeżdżając na nią należy liczyć się z konsekwencjami. Poniżej szeroko i głęboko, rzadkie trzciny po obu stronach</opispunktu> 
+    </punkt>
+    <punkt id="5649" miejscowosc="Lubiatów" 
+      ns="51.20811332" we="16.69651495" km="8.4" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Stary, niski, zmurszały drewniany mostek na poziomie lustra wody, aktualnie użytkowany jedynie przez dzikie zwierzęta. Wysokość mostku pozwala na przepchnięcie się górą, jednak nie polecam tego ze względu na wystające gwoździe. Zalecana przenoska nr 2. Poniżej rzeka wypływa z lasu na łąki i gęsto zarasta trzcinami, mocno utrudniając przeprawę</opispunktu> 
+    </punkt>
+    <punkt id="5650" miejscowosc="Lubiatów" 
+      ns="51.20697399" we="16.68450548" km="7.6" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z lewej z Miękini na otwartym terenie. Poniżej gęste trzcinowiska</opispunktu> 
+    </punkt>
+    <punkt id="5651" miejscowosc="Lubiatów" 
+      ns="51.20641181" we="16.67964668" km="7.2" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Grube drzewo na poziomie lustra wody, konieczna przenoska nr 3 (ostatnia)</opispunktu> 
+    </punkt>
+    <punkt id="5652" miejscowosc="Przedmoście" 
+      ns="51.20543448" we="16.67474723" km="6.9" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po lewej stronie przed wpłynięciem do lasu ruiny jakiejś budowli</opispunktu> 
+    </punkt>
+    <punkt id="5653" miejscowosc="Przedmoście" 
+      ns="51.20681519" we="16.66810136" km="6.4" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Nieczynna zastawka ze stalową, wygiętą ramą. Nurt zaczyna być zauważalny. Poniżej, w lesie brzegi stają się wyższe i stopniowo zanikają trzciny</opispunktu> 
+    </punkt>
+    <punkt id="5654" miejscowosc="Przedmoście" 
+      ns="51.20742509" we="16.66549014" km="6.2" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na leśnej drodze, lewy przyczółek ceglany a prawy kamienny</opispunktu> 
+    </punkt>
+    <punkt id="5655" miejscowosc="Szczepanów" 
+      ns="51.21164849" we="16.65722118" km="5.4" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Nieczynna zastawka, nad nią kładka pomiędzy betonowymi przyczółkami. Dalej cały czas przez las w głęboko wciętym korycie</opispunktu> 
+    </punkt>
+    <punkt id="5656" miejscowosc="Szczepanów" 
+      ns="51.20779138" we="16.63747749" km="3.9" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Sklepiony most na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5657" miejscowosc="Szczepanów" 
+      ns="51.20862565" we="16.63388832" km="3.7" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Tama bobrowa przy Leśniczówce Szczepanów. Melioranci oszukali tu bobry i, bez szkody dla tamy, zamontowali w niej charakterystyczną rurę spustową</opispunktu> 
+    </punkt>
+    <punkt id="5658" miejscowosc="Szczepanów" 
+      ns="51.2088142" we="16.63346642" km="3.6" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze asfaltowej do Lubiatowa. Istnieje tu możliwość podjęcia kajaków, jednak dostęp do wody utrudniają strome brzegi</opispunktu> 
+    </punkt>
+    <punkt id="5659" miejscowosc="Szczepanów" 
+      ns="51.2089099" we="16.63277447" km="3.5" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Nieczynna zastawka z betonową kładką</opispunktu> 
+    </punkt>
+    <punkt id="5660" miejscowosc="Szczepanów" 
+      ns="51.21072467" we="16.623531" km="2.8" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5661" miejscowosc="Szczepanów" 
+      ns="51.21153425" we="16.61984109" km="2.5" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z lewej strony rzeczki Cieciorki</opispunktu> 
+    </punkt>
+    <punkt id="5662" miejscowosc="Szczepanów" 
+      ns="51.21341311" we="16.6168" km="2.2" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze asfaltowej do Rzeczycy. Możliwość podjęcia kajaków chociaż brzegi są tu strome (ostatnia taka możlwość przed wpłynięciem na Jeziorkę)</opispunktu> 
+    </punkt>
+    <punkt id="5663" miejscowosc="Szczepanów" 
+      ns="51.21633817" we="16.61484543" km="1.8" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Tama bobrowa, niżej odcinek wyraźnie uregulowany. Zarówno lewa, jak i prawa strona wzmocniona palikami</opispunktu> 
+    </punkt>
+    <punkt id="5664" miejscowosc="Brodno" 
+      ns="51.22033391" we="16.59829617" km="0.5" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5665" miejscowosc="Brodno" 
+      ns="51.22124681" we="16.59447048" km="0.2" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Kolejna tama bobrowa</opispunktu> 
+    </punkt>
+    <punkt id="5666" miejscowosc="Brodno" 
+      ns="51.22117914" we="16.59190391" km="0" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Czarnej Strugi do Jeziorki. Zaraz poniżej wodowskaz, wskazujący w dniu spływu poziom 52. Zakończenie spływu możliwe jest na Jeziorce, w prawo pod niewielki nurt około 600m,do mostu na asfaltowej drodze do Brodna, lub w dół Jeziorką do Średzkiej Wody, do najbliższego mostu drogowego w Chomiąży</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

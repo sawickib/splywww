@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="98" nazwa="Widawa" wersja="3">
+<opis>Prawy dopływ Odry. Źródła Widawy znajdują się we Wzgórzach Twardogórskich na wysokości 204 m n.p.m. we wsi Drołtowice na północny zachód od Sycowa. W pobliżu Namysłowa rzeka zmienia kierunek z południowego na zachodni. Uchodzi do Odry poniżej Wrocławia, stanowiąc jednocześnie północną granicę miasta.
+Brzegi Widawy są uregulowane i obwałowane całkowicie lub częściowo. Porasta je sitowie, trzcina i trawa. Przez większą część swego biegu Widawa przepływa szeroką i płaską doliną o niewielkim spadku. Ze względu na płytkie koryto, często zalewa przylegające do niej łąki. Widawa stanowi centralną arterię wodną Równiny Oleśnickiej. Na Równinie Wrocławskiej rzeka tworzy meandry aż do granic Wrocławia. Od tego miejsca jej koryto jest w większości wyprostowane i obwałowane (wg Wikipedii).
+Rekreacyjna rzeka w bliskim sąsiedztwie Wrocławia, płynąca głównie prze pola i łąki. Pomiędzy Zbytową a Chrząstawą oraz w odcinku przyujściowym płynie przez tereny leśne, zdarzają się więc tu drzewa w korycie rzeki. Pomiędzy Psiem Polem a Szymanowem jest kilka prożków i bystrzy.
+Odcinek górny od zbiornika w Stradomii Wierzchniej do zbiornika Michalice, ze względu na ilość wody polecam wiosną lub po intensywnych opadach. Równo z granicą województwa opolskiego pojawiają się spore rozlewiska piętrzone przez nasypy mostów. Można tu mieć kłopoty z odnalezieniem koryta rzeki i ugrzęznąć w gęstych trzcinowiskach. Odcinek Stradomia Wierzchnia - Michalice zajmuje około 5,5 h przy stanie wody na wodowskazie w Namysłowie - 216. Najciekawszy, leśny odcinek ze Zbytowej do Chrząstawy, przy stanie 249 na wodowskazie Zbytowa zajmuje około 4h, natomiast z Wilczyc do ujścia do Odry powinno przepłynąć się średnio w około 5h.</opis> 
+  <odcinek id="419" typ="rzeka" nazwa="Świniary - Odra" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="4"> 
+  <opis>Odcinek leśny z kilkoma drzewami w korycie rzeki</opis>
+    <punkt id="5987" miejscowosc="Wilczyce" 
+      ns="0" we="0" km="20.6" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="most" kolejnosc="-1">Przerzucona nad rzeką wisząca kładka pomiędzy drzewami</opispunktu> 
+    </punkt>
+    <punkt id="3484" miejscowosc="Lesica" 
+      ns="51.19903177" we="16.91881864" km="0" etykieta="" 
+      kolejnosc="67"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Widawy do Odry. W miarę wygodnym miejscem zakończenia spływu jest betonowa platforma za oczyszczalnią ścieków w Janówku, kilkaset metrów w dół Odrą, po lewej stronie. Można tu dojechać samochodem do samej wody. Innym miejscem jest ul. Rędzińska, w pobliżu ujścia Ślęzy do Odry (5 km w górę Odrą). Jest to miejsce po dawnym promie, zarówno po lewej jak i prawej stronie do samej rzeki dochodzi wygodna asfaltowa droga</opispunktu> 
+    </punkt>
+    <punkt id="3483" miejscowosc="Świniary" 
+      ns="51.20525642" we="16.96353926" km="3.9" etykieta="" 
+      kolejnosc="65"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy. Ostatnie wygodne miejsce odbioru kajaków z dojazdem do wody, przed wypłynięciem na Odrę. Pod mostem niewielkie bystrze, a na filarze wodowskaz. Poniżej malowniczy odcinek leśny z kilkoma łatwymi zwałkami</opispunktu> 
+    </punkt>
+    <punkt id="5988" miejscowosc="Psie Pole" 
+      ns="51.14018154" we="17.09995629" km="17.7" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Betonowe przyczółki po zastawce, kamienie w nurcie</opispunktu> 
+    </punkt>
+    <punkt id="5989" miejscowosc="Krzyżanowice" 
+      ns="51.17361626" we="17.03821997" km="11.3" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi ekspresowej S5</opispunktu> 
+    </punkt>
+    <punkt id="5990" miejscowosc="Lesica" 
+      ns="51.1967491" we="16.92308916" km="0.5" etykieta="" 
+      kolejnosc="66"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Drewniane pale po starym moście</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="418" typ="rzeka" nazwa="Chrząstawa - Świniary" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Odcinek przez łąki i pola. Kilka prożków urozmaica spływ.</opis>
+    <punkt id="3482" miejscowosc="Świniary" 
+      ns="51.20558163" we="16.96479871" km="4" etykieta="" 
+      kolejnosc="64"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze z Wrocławia do Obornik Śląskich</opispunktu> 
+    </punkt>
+    <punkt id="3481" miejscowosc="Szymanów" 
+      ns="51.19793063" we="16.99881694" km="6.7" etykieta="" 
+      kolejnosc="63"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka - 3 przęsła. Próg piętrzy wodę na wysokość około 2,5 m. Krótka przenoska prawą stroną po trawie. Mało wygodne wyjście na stromy brzeg, wodowanie z kamiennego uregulowanego brzegu. Na górnej wodzie znajduje się wodowskaz wskazujący w dniu spływu poziom 232, co gwarantuje dobre warunki na reprezentowanym odcinku. Poniżej kilka ładnych podmytych skarp w zakolach rzeki</opispunktu> 
+    </punkt>
+    <punkt id="3480" miejscowosc="Szymanów" 
+      ns="51.19223833" we="17.01286813" km="7.9" etykieta="" 
+      kolejnosc="62"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="3479" miejscowosc="Pracze Widawskie" 
+      ns="51.18001869" we="17.01777409" km="9.5" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze. Przy niskim stanie wody tworzy się tutaj małe bystrze. Za mostem po lewej widoczne resztki pałacu Glitterów. Poniżej zaczyna się cofka zastawki w Szymanowie z niemal stojącą wodą. Na przewróconych drzewach tworzą się zatory z wszelakiego dobra niesionego przez rzekę</opispunktu> 
+    </punkt>
+    <punkt id="3477" miejscowosc="Widawa" 
+      ns="51.1791029" we="17.02394472" km="10" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na drodze nr 5</opispunktu> 
+    </punkt>
+    <punkt id="3476" miejscowosc="Widawa" 
+      ns="51.1753267" we="17.03246577" km="10.8" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek kamienny - 0,3m. Niegdyś kierował wodę w prawo, na nieczynny dzisiaj Kanał Psarski</opispunktu> 
+    </punkt>
+    <punkt id="3475" miejscowosc="Krzyżanowice" 
+      ns="51.17096157" we="17.04755386" km="12.1" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, za mostem wodowskaz</opispunktu> 
+    </punkt>
+    <punkt id="3474" miejscowosc="Krzyżanowice" 
+      ns="51.16945876" we="17.05351842" km="12.5" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek - 0,4m z kamieniami przy burtach - płynąć środkiem</opispunktu> 
+    </punkt>
+    <punkt id="3473" miejscowosc="Raków" 
+      ns="51.16727179" we="17.05851692" km="13" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi ekspresowej S8</opispunktu> 
+    </punkt>
+    <punkt id="3472" miejscowosc="Raków" 
+      ns="51.16497875" we="17.06537933" km="13.5" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="most" kolejnosc="-1">Przyczółki drugiego tymczasowego mostu na poligonie wojskowym</opispunktu> 
+    </punkt>
+    <punkt id="3471" miejscowosc="Raków" 
+      ns="51.16549718" we="17.0687151" km="13.8" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="most" kolejnosc="-1">Przyczółki tymczasowego mostu na poligonie wojskowym</opispunktu> 
+    </punkt>
+    <punkt id="3470" miejscowosc="Sołtysowice" 
+      ns="51.16396068" we="17.07756577" km="14.5" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek kamienny - 0,3m</opispunktu> 
+    </punkt>
+    <punkt id="3469" miejscowosc="Sołtysowice" 
+      ns="51.16270838" we="17.07862379" km="14.6" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej asfaltowej drodze. Dobre miejsce wodowania i lądowania. Przy moście duży plac na samochody</opispunktu> 
+    </punkt>
+    <punkt id="3468" miejscowosc="Sołtysowice" 
+      ns="51.15270942" we="17.08812929" km="16" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Kamienny prożek 0,8m. Niegdyś nad prożkiem była kładka dla pieszych, obecnie rozebrana</opispunktu> 
+    </punkt>
+    <punkt id="3467" miejscowosc="Kłokoczyce" 
+      ns="51.14927796" we="17.09380187" km="16.6" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej stronie ujście rzeki Dobrej, bardzo często gęsto zarośnięte</opispunktu> 
+    </punkt>
+    <punkt id="3466" miejscowosc="Psie Pole" 
+      ns="51.14554253" we="17.09675651" km="17" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy, pod nim kamienne bystrze</opispunktu> 
+    </punkt>
+    <punkt id="3465" miejscowosc="Psie Pole" 
+      ns="51.14318145" we="17.09881829" km="17.4" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na ul. Krzywoustego, ruchliwej trasie wylotowej z Wrocławia</opispunktu> 
+    </punkt>
+    <punkt id="3464" miejscowosc="Wilczyce" 
+      ns="51.12445183" we="17.15069216" km="22.4" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków. W pobliżu sporo miejsca na samochody. Poniżej mostu betonowe przyczółki po zastawce</opispunktu> 
+    </punkt>
+    <punkt id="3463" miejscowosc="Wilczyce" 
+      ns="51.12556357" we="17.15896914" km="23.2" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany, rozpadający się mostek</opispunktu> 
+    </punkt>
+    <punkt id="3462" miejscowosc="Kiełczówek" 
+      ns="51.12523481" we="17.17516233" km="24.4" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy tzw. Sielskiej Zagrodzie. Miejsce tłumnie odwiedzane przez Wrocławian, szczególnie przy ładnej pogodzie. Znajduje się tu restauracja i wokół sporo terenów rekreacyjnych</opispunktu> 
+    </punkt>
+    <punkt id="3461" miejscowosc="Kiełczówek" 
+      ns="51.12028219" we="17.19559427" km="26" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Cztero przęsłowa zastawka o wysokości progu około 0,5m. Zaraz za nią kamienie, za prawym przepustem</opispunktu> 
+    </punkt>
+    <punkt id="3460" miejscowosc="Krzyków" 
+      ns="51.11488561" we="17.20840842" km="27.3" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej stronie ujście rzeki Oleśnicy</opispunktu> 
+    </punkt>
+    <punkt id="3459" miejscowosc="Krzyków" 
+      ns="51.108729" we="17.235636" km="29.7" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej stronie ujście kanału ulgi rzeki Oleśnicy</opispunktu> 
+    </punkt>
+    <punkt id="3458" miejscowosc="Wieściszów" 
+      ns="51.10314056" we="17.24194603" km="30.5" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze gruntowej. Po lewej stronie staw oraz ruiny starego młyna</opispunktu> 
+    </punkt>
+    <punkt id="4323" miejscowosc="Chrząstawa" 
+      ns="51.10041359" we="17.25693045" km="31.7" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej ujście rzeki Granicznej</opispunktu> 
+    </punkt>
+    <punkt id="3457" miejscowosc="Chrząstawa" 
+      ns="51.10058639" we="17.25810337" km="31.8" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka cztero przęsłowa. W zależności od ilości wody może być całkowicie opuszczona bez konieczności skakania lub obnoszenia</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="417" typ="rzeka" nazwa="Zbytowa - Chrząstawa" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Odcinek leśny, z kilkoma drzewami w korycie rzeki</opis>
+    <punkt id="3456" miejscowosc="Chrząstawa" 
+      ns="51.10193032" we="17.27836567" km="33.3" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze gruntowej, koniec odcinka leśnego. Popularne miejsce kończenia i rozpoczynania etapu z dobrym dojazdem od strony Chrząstawy i znacznie gorszym od strony Brzeziej Łąki. W pobliżu miejsce na kilka samochodów</opispunktu> 
+    </punkt>
+    <punkt id="3455" miejscowosc="Leśny Młyn" 
+      ns="51.11544367" we="17.31808765" km="36.8" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście rzeki Świerznej, zasłonięte przez zwalone drzewo.</opispunktu> 
+    </punkt>
+    <punkt id="3454" miejscowosc="Leśny Młyn" 
+      ns="51.1172053" we="17.32919962" km="37.8" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Smolnej</opispunktu> 
+    </punkt>
+    <punkt id="3453" miejscowosc="Leśny Młyn" 
+      ns="51.11619485" we="17.33235299" km="38" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w Leśnym Młynie</opispunktu> 
+    </punkt>
+    <punkt id="3452" miejscowosc="Grędzina" 
+      ns="51.10676626" we="17.37930512" km="42.2" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie Oleśnica - Jelcz-Laskowice</opispunktu> 
+    </punkt>
+    <punkt id="3451" miejscowosc="Zbytowa" 
+      ns="51.1058754" we="17.40678957" km="44.5" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania. W pobliżu mostu wodowskaz. Popularny punkt rozpoczynania etapu odcinkiem leśnym do Chrząstawy. Początkowo pośród trzcin, po wpłynięciu w obszar zadrzewiony pojawiają się zwałki, a pokonanie niektórych wymaga współpracy zespołowej</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="489" typ="mieszany" nazwa="Wygoda - Zbiornik Michalice" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Od momentu wpływu Widawy na obszar województwa opolskiego zaczynają się wielkie rozlewiska. Wszystkie mosty i nasypy piętrzą wodę na tyle, że tworzą sie spore jeziora. Na odcinku tym można mieć kłopoty z odnalezieniem koryta rzeki i osiąść na mieliźnie. Nie trudno też o zabłądzenie pośród gęstych trzcinowisk. Niedogodności wynagradzają licznie napotykane ptaki, także tych rzadziej spotykanych gatunków. Coraz częściej w korycie pojawiają się grube drzewa zmuszając do zwałkowej gimnastyki.</opis>
+    <punkt id="4322" miejscowosc="Objazda" 
+      ns="51.12102237" we="17.75370653" km="76" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przed zalewem Michalice. Wygodne miejce dostępu do wody.</opispunktu> 
+    </punkt>
+    <punkt id="4321" miejscowosc="Objazda" 
+      ns="51.1307211" we="17.73678506" km="77.7" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Bardzo niski most i nasyp gruntowej drogi, mocno piętrzący wodę. Przenoska przez drogę - 10m</opispunktu> 
+    </punkt>
+    <punkt id="4320" miejscowosc="Idzikowice" 
+      ns="51.15127131" we="17.70215941" km="81.2" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4319" miejscowosc="Idzikowice" 
+      ns="51.15212803" we="17.70170587" km="81.3" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Most i nasyp nieczynnej lini kolejowej znacznie piętrzący wodę</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="488" typ="rzeka" nazwa="Stradomia Wierzchnia - Wygoda" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Odcinek polecany na wiosenne spływy roztopowe lub po opadach deszczu. W miarę szybka woda (jak na niziny) ale sporo niskich kładek utrudniających spływ.</opis>
+    <punkt id="4318" miejscowosc="Wygoda" 
+      ns="51.17468061" we="17.6996856" km="83.8" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z lewej Czarnej Widawy połączonej z młynówkami. Początek sporych rozlewisk.</opispunktu> 
+    </punkt>
+    <punkt id="4317" miejscowosc="Wygoda" 
+      ns="51.17979844" we="17.70276478" km="84.5" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4316" miejscowosc="Dalborowice" 
+      ns="51.19846993" we="17.70997305" km="86.9" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Rozmyty jaz w prawo, nieco chlapiący</opispunktu> 
+    </punkt>
+    <punkt id="4315" miejscowosc="Dalborowice" 
+      ns="51.19902512" we="17.71127314" km="87" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4314" miejscowosc="Dalborowice" 
+      ns="51.20227104" we="17.71421325" km="87.4" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Rozmyty jaz w prawo</opispunktu> 
+    </punkt>
+    <punkt id="4313" miejscowosc="Dziadowa Kłoda" 
+      ns="51.21713379" we="17.71253367" km="89.2" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4312" miejscowosc="Dziadowa Kłoda" 
+      ns="51.22582554" we="17.70964604" km="90.2" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4311" miejscowosc="Dziadowa Kłoda" 
+      ns="51.22821053" we="17.7086663" km="90.5" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4310" miejscowosc="Dziadowa Kłoda" 
+      ns="51.23366537" we="17.7056339" km="91.2" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4309" miejscowosc="Dziadowa Kłoda" 
+      ns="51.23448313" we="17.70502506" km="91.3" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek</opispunktu> 
+    </punkt>
+    <punkt id="4308" miejscowosc="Dziadowa Kłoda" 
+      ns="51.23567366" we="17.70465228" km="91.4" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz w prawo o wysokości około 0,8m. Próg piętrzony blachą o ostrych krawędziach. Ewentualna przenoska 20 m lewym brzegiem po trawie</opispunktu> 
+    </punkt>
+    <punkt id="4307" miejscowosc="Dziadowa Kłoda" 
+      ns="51.23600844" we="17.70443016" km="91.45" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska kładka</opispunktu> 
+    </punkt>
+    <punkt id="4306" miejscowosc="Dziadowa Kłoda" 
+      ns="51.24168506" we="17.70173747" km="92.3" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska kładka przy brzozowym gaju</opispunktu> 
+    </punkt>
+    <punkt id="4305" miejscowosc="Dziadowa Kłoda" 
+      ns="51.24369618" we="17.69889806" km="92.5" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski most betonowy na gruntowej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4304" miejscowosc="Stradomia Dolna" 
+      ns="51.24579511" we="17.69619354" km="92.8" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska kładka</opispunktu> 
+    </punkt>
+    <punkt id="4303" miejscowosc="Stradomia Dolna" 
+      ns="51.2474729" we="17.68249206" km="93.9" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4302" miejscowosc="Stradomia Dolna" 
+      ns="51.250247" we="17.66791095" km="94.9" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most n lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4301" miejscowosc="Stradomia Dolna" 
+      ns="51.25154956" we="17.66214388" km="95.4" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Spory dopływ z prawej. Poniżej liczne niskie kładki.</opispunktu> 
+    </punkt>
+    <punkt id="4300" miejscowosc="Nowa Stradomia" 
+      ns="51.2550565" we="17.65622455" km="95.9" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4299" miejscowosc="Nowa Stradomia" 
+      ns="51.25549173" we="17.65580468" km="96" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Rozmyty jaz</opispunktu> 
+    </punkt>
+    <punkt id="4298" miejscowosc="Stradomia Wierzchnia" 
+      ns="51.26220594" we="17.65052376" km="96.9" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski betonowy mostek</opispunktu> 
+    </punkt>
+    <punkt id="4297" miejscowosc="Stradomia Wierzchnia" 
+      ns="51.26258954" we="17.65045172" km="96.95" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej wpada spory dopływ, znacznie poprawiający warunki wodne Widawy.</opispunktu> 
+    </punkt>
+    <punkt id="4296" miejscowosc="Stradomia Wierzchnia" 
+      ns="51.26600801" we="17.65057522" km="97.3" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4295" miejscowosc="Stradomia Wierzchnia" 
+      ns="51.27017005" we="17.65112561" km="97.8" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4294" miejscowosc="Stradomia Wierzchnia" 
+      ns="51.27056733" we="17.65104711" km="97.9" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na lokalnej drodze. Kilka metrów powyżej wygodne miejsce wodowania kajaków.</opispunktu> 
+    </punkt>
+    <punkt id="4293" miejscowosc="Stradomia Wierzchnia" 
+      ns="51.27172373" we="17.65219726" km="98" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora zbiornika Stradomia Wierzchnia</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

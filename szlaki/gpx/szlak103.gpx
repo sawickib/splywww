@@ -1,0 +1,50 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.76683100" lon="17.42778495">
+<name>10.50</name>
+<desc>Most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.76949280" lon="17.42507092">
+<name>10.10</name>
+<desc>Start ? droga Bytów ? Chojnice, za leśniczówką w Babilonie skręcamy w prawo i przed ośrodkiem wypoczynkowym skręcamy w prawo. Kajaki wodujemy około 15 metrów od granicy lasu po lewej stronie ? ośrodek i zabudowania za nim zostawiamy za plecami. Niedogodne zejście ze skarpy i samo miejsce spuszczania kajaka. </desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.78262369" lon="17.41846890">
+<name>8.00</name>
+<desc>Mostek na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.78652018" lon="17.41775535">
+<name>7.50</name>
+<desc>Połączenie Czerwonki i Czerwonej Strugi</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.78801469" lon="17.43741751">
+<name>6.20</name>
+<desc>Most na drodze z Chojnic do Bytowa</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.79311395" lon="17.45123092">
+<name>4.80</name>
+<desc>Mostek na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.78686796" lon="17.47785313">
+<name>1.80</name>
+<desc>Most w Kopernicy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.78104391" lon="17.49690517">
+<name>0.00</name>
+<desc>Ujście Czerwonej Strugi do jeziora Charzykowskiego</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

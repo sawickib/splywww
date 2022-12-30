@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="20" nazwa="Czerska Struga" wersja="3">
+<opis>Płynący przez Bory Tucholskie lewy dopływ Brdy. Ciekawy szlak kajakowy, spływalny na odcinku dwudziestu kilku kilometrów. Płynięcie polecam zaczynać nie od początku poniższego opisu, a dopiero od 7.28km. Nietuzinkową atrakcją szlaku jest akwedukt - skrzyżowanie Czerskiej Strugi z Wielkim Kanałem Brdy. Przy rzece nie ma żadnych wyznaczonych pól biwakowych, jednak z miejscami biwakowymi "na dziko" nie powinno być problemów na odcinkach, gdzie rzeka płynie w bezpośrednim sąsiedztwie lasu. Opis powstał na podstawie spływu w sierpniu 2004.</opis> 
+  <odcinek id="81" typ="rzeka" nazwa="Czerska Struga w okolicy Zapędowa" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="4"> 
+  <opis>Łąkowo - szuwarowy odcinek rzeki. Przed zaporą w Nowym Młynie płytkie muliste rozlewisko.</opis>
+    <punkt id="736" miejscowosc="" 
+      ns="53.688062" we="17.851138" km="0" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Czerskiej Strugi do Brdy.</opispunktu> 
+    </punkt>
+    <punkt id="735" miejscowosc="Nowy Młyn" 
+      ns="53.69173627" we="17.85693776" km="0.75" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Spiętrzenie wody po dawnym młynie. Przenoska 30m - budynek młyna obchodzimy z prawej strony.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="80" typ="rzeka" nazwa="Czerska Struga od Fojutowa" 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Miły odcinek wiodący głównie przez las mieszany. Szerokość koryta około 5m. Sporo zwalonych drzew. W większości przypadków da się pod nimi przecisnąć bez wychodzenia z kajaka.</opis>
+    <punkt id="734" miejscowosc="Gartki" 
+      ns="53.70718221" we="17.87674689" km="3.74" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki betonowy most.</opispunktu> 
+    </punkt>
+    <punkt id="733" miejscowosc="Gartki" 
+      ns="53.70916308" we="17.89604763" km="5.68" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski drewniany most.</opispunktu> 
+    </punkt>
+    <punkt id="732" miejscowosc="Fojutowo" 
+      ns="53.72130377" we="17.9025109" km="8.46" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Akwedukt - skrzyżowanie Czerskiej Strugi i Wielkiego Kanału Brdy. Czerska Struga przepływa wysokim tunelem 10m poniżej Kanału. Płynąc tunelem słychać ładne echo wiosłowania. Akwedukt jest w bardzo dobrym stanie - odnowiony kilka lat temu. Na górnym poziomie akweduktu jest wiata, a 50m od niej leśniczówka. Przy leśniczówce kiosk - głownie ze słodyczami i napojami - otwarty tylko w sezonie turystycznym. Sporo osób zaczyna spływ Czerską Strugą właśnie przy akwedukcie, przenosząc kajaki z Kanału. Niestety nie ma tu wygodnego miejsca do znoszenia kajaków - są tylko wąskie schody. Jeśli ktoś chce przenosić duży,  ciężki kajak z Kanału na Czerską Strugę, to chyba najsensowniejszym rozwiązaniem jest zaopatrzenie się dziesięciometrową linkę i spuszczanie kajaków "na uwięzi" po stromym trawiastym nasypie.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="79" typ="rzeka" nazwa="Czerska Struga od Łosin do Fojutowa" 
+      uciazliwosc="U3" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Rzeka meandruje przez zabagniony teren. Typowy odcinek szuwarowy. Szuwary tu nie rosną bardzo wysoko i dzięki temu krajobraz jest nie tylko szczypiorkowy. W wielu miejscach szuwary zarastają koryto i trzeba się mozolić, żeby przedrzeć się przez kawałki, w których jest więcej masy szuwarowej niż wody. Dużo śmieci. Ten odcinek szczególnie polecam zbieraczom butelek.</opis>
+    <punkt id="731" miejscowosc="" 
+      ns="53.73042193" we="17.9220766" km="11" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski most. Ledwie się da pod nim przepłynąć.</opispunktu> 
+    </punkt>
+    <punkt id="730" miejscowosc="Łosiny" 
+      ns="53.73853427" we="17.93541686" km="13.42" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w Łosinach.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="78" typ="rzeka" nazwa="Czerska Struga od Złotowa do Łosin" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="1"> 
+  <opis>Spływanie Czerską Strugą proponuję zacząć od tego odcinka. Tu już koryto jest na tyle szerokie, że nawet kajak dwuosobowy bez problemów będzie się mieścił. Trasa prowadzi częściowo przez las mieszany, a częściowo przez pola. Nieco zwalonych drzew, jednakże nie powinny one wymagać przenosek. Widoczne ślady działalności bobrów. Od tego odcinka na szlaku widoczne są ślady bytności kajakarzy w postaci wyciętych gałęzi, które uniemożliwiały by przepłynięcie.</opis>
+    <punkt id="729" miejscowosc="" 
+      ns="53.74775495" we="17.94338275" km="15.09" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Solidny mostek dla samochodów. Za niski, żeby pod nim przepłynąć.</opispunktu> 
+    </punkt>
+    <punkt id="728" miejscowosc="" 
+      ns="0" we="0" km="15.49" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Tama bobrowa. Spiętrzenie wody około 1m. Bardzo fajnie się po tym zjeżdza, choć pewnie bez fartucha bym się nie zdecydował. Bliskość tamy rozpoznajemy po podtopionych pniach drzew i po spowolnionym nurcie.</opispunktu> 
+    </punkt>
+    <punkt id="727" miejscowosc="Twarożnica" 
+      ns="53.75630523" we="17.95426215" km="16.86" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowo-drewniany most.</opispunktu> 
+    </punkt>
+    <punkt id="726" miejscowosc="" 
+      ns="53.76470577" we="17.96756477" km="18.78" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na trasie Czersk-&gt;Tuchola. To chyba najsensowniejsze miejsce na rozpoczęcie spływu Czerską Strugą.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="77" typ="rzeka" nazwa="Czerska Struga w okolicy Czerska" 
+      uciazliwosc="U6" trudnosc="ZWB" 
+      malowniczosc="-" czystosc="pozaKL" 
+      kolejnosc="0"> 
+  <opis>Odcinek na granicy spływalności. Koryto wąskie, że ledwie się kajak zmieści, zarośnięte, z dużą ilością pokrzyw. Mogą występować zawaliska, które trzeba obnosić. Krajobraz nieciekawy - trzciny, betonowe ogrodzenia, dużo śmieci. Zapachy nienajpiękniejsze. Określenie "smródka" dobrze oddaje charakter tego odcinka. Polecam tylko masochistom.</opis>
+    <punkt id="725" miejscowosc="Złotowo" 
+      ns="53.76573129" we="17.97150825" km="18.93" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Kładka dla pieszych. Trzeba obnieść.</opispunktu> 
+    </punkt>
+    <punkt id="724" miejscowosc="Złotowo" 
+      ns="53.76931054" we="17.97807169" km="19.65" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Mostek, którym nawet traktor przejedzie. W tej okolicy rzeka płynie przez pola i jest uregulowana.</opispunktu> 
+    </punkt>
+    <punkt id="723" miejscowosc="Złotowo" 
+      ns="53.77632342" we="17.98472335" km="21.31" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Niski mostek dla pieszych. Trzeba obnieść.</opispunktu> 
+    </punkt>
+    <punkt id="722" miejscowosc="Złotowo" 
+      ns="53.78577977" we="17.98228482" km="23.2" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony koryto ze ściekami. Fu, ale smród! Zaraz za korytem rzekę przecina nasyp o wysokości 8m. Przepływa się pod nim kilkunastometrowym tunelem (najlepiej wpływać z zatkanym nosem).</opispunktu> 
+    </punkt>
+    <punkt id="721" miejscowosc="Złotowo" 
+      ns="53.78820347" we="17.98778673" km="23.76" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Most na drodze asfaltowej. Uwaga: zaraz za mostem jest kaskada! Sumaryczna różnica poziomów prawie 2m. Trzeba to obnieść. Nieprzyjemna przenoska około 30m. Kajaki wyciągamy z prawej strony 10m przed mostem. Przechodzimy przez most i wodujemy z lewej strony 15m za mostem. Zejście do wodowania bardzo zniechęcające - pokrzywy i błoto wymieszane ze śmieciami.</opispunktu> 
+    </punkt>
+    <punkt id="720" miejscowosc="Czersk" 
+      ns="53.78908012" we="17.98917127" km="23.91" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony dopływ Klaskamskiej Strugi. Odnosi się wrażenie, że wpadająca rzeczka niesie więcej wody niż sama Czerska Struga przed przyjęciem dopływu.</opispunktu> 
+    </punkt>
+    <punkt id="719" miejscowosc="Czersk" 
+      ns="53.79240221" we="17.97836753" km="25.09" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze asfaltowej. Tuż przed mostem rzekę przecinają rury kilkadziesiąt centymetrów nad wodą - da się pod mimi przecisnąć. Za mostem po lewej stronie jest fabryka mebli. Krajobraz industrialny - rury, hale, kominy, odgłosy pomp i innych maszyn.</opispunktu> 
+    </punkt>
+    <punkt id="718" miejscowosc="Czersk" 
+      ns="53.79185217" we="17.97249296" km="25.74" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Nietrudna przenoska przez most.</opispunktu> 
+    </punkt>
+    <punkt id="717" miejscowosc="Czersk" 
+      ns="53.79104656" we="17.96889709" km="26.06" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze asfaltowej. Kajaki wygodnie jest wodować po lewej stronie 50m za mostem.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="21" nazwa="Drzewiczka" wersja="11">
+<opis>Prawy dopływ Pilicy, uchodzący przy Nowym Mieście. Niniejszy opis dotyczy jedynie dolnego odcinka od Drzewicy, ale rzeka jest również spływalna wyżej. (Chociaż zależy to od stanu wody - przy suszy może to być problematyczne lub wręcz niemożliwe.)</opis> 
+  <odcinek id="83" typ="rzeka" nazwa="Lewa odnoga przy ujściu" 
+      uciazliwosc="U4" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Odcinek okresowo może nie nadawać się do przepłynięcia za względu na niewielką ilość wody. Na tym odcinku dno jest piaszczyste, więc w ciepłe letnie dni spacerek z kajakiem na smyczy nie jest jakąś katorgą. </opis>
+    <punkt id="758" miejscowosc="" 
+      ns="51.61" we="20.57389" km="36.42" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Drzewiczki do Pilicy. Stąd jest kilometr do centrum Nowego Miasta.</opispunktu> 
+    </punkt>
+    <punkt id="757" miejscowosc="" 
+      ns="0" we="0" km="35.65" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="756" miejscowosc="" 
+      ns="0" we="0" km="35.23" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Wysoki jaz. Różnica poziomów 2m. </opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Jaz z konieczną przenoską. W odcinku za jazem może być bardzo mało wody.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="82" typ="rzeka" nazwa="Drzewiczka poniżej Drzewicy" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Ciekawy odcinek o zmiennym charakterze. Częściowo wiedzie przez lasy, częściowo przez pola. Szerokość rzeki około 8m. Nurt bardzo zmienny - miejscami szybki (nawet kilka bystrz), a innym razem spowolniony przez jazy. Nawet na kawałkach płynących przez pola brzegi rzeki są porośnięte drzewami. Spora liczba zwalonych drzew, wymagających troszkę wprawy przy ich omijaniu. Większość zwałek jest poprzecinanych tak, że można przepłynąć. Na szczęście przecięcia te są zrobione z umiarem. Na tym odcinku nie ma wyznaczonych pól biwakowych, ale jest bardzo dużo dogodnych miejsc do biwakowania "na dziko".</opis>
+    <punkt id="755" miejscowosc="" 
+      ns="0" we="0" km="35.15" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rozwidlenie rzeki. Pomiędzy odnogami są stawy rybne. Jeśli chce się dopłynąć do Pilicy, to lepiej wybrać lewą odnogę, bo na prawej odnodze jest elektrownia wodna w okolicy wsi Wólka Magierowa, którą w 2010r niesposób było obnieść, chociaż wg. relacji z 2008 roku było to możliwe - patrz zakładka "Autorzy i historia".
+</opispunktu> 
+    </punkt>
+    <punkt id="754" miejscowosc="" 
+      ns="0" we="0" km="33.77" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany most w nienajlepszym stanie.</opispunktu> 
+    </punkt>
+    <punkt id="753" miejscowosc="Zdżarki." 
+      ns="0" we="0" km="31.98" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wieś Zdżarki po lewej stronie. W wodzie leży słup betonowy. Jeśli ma się delikatny kajak, to chyba najlepiej wysiąść na ten słup i nieobciążony kajak przeciągnąć po słupie. 100 metrów za tym słupem rzeka zbliża się na 10m do często uczęszczanej szosy między Nowym miastem a Odżywołem.</opispunktu> 
+    </punkt>
+    <punkt id="752" miejscowosc="Brzeski" 
+      ns="0" we="0" km="28.33" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Trzy mostki dla pieszych w Brzeskach.</opispunktu> 
+    </punkt>
+    <punkt id="751" miejscowosc="" 
+      ns="0" we="0" km="27.77" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Kładka dla pieszych z poręczą zrobiona z dużego pnia. Trzeba obnieść - z prawej strony parę metrów.</opispunktu> 
+    </punkt>
+    <punkt id="750" miejscowosc="Piaski" 
+      ns="0" we="0" km="23.48" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Nieduży most drewniany.</opispunktu> 
+    </punkt>
+    <punkt id="749" miejscowosc="Ceteń" 
+      ns="0" we="0" km="22.26" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Pień drzewa w wodzie w poprzek rzeki. Raczej do obniesienia - z prawej strony parę metrów. (Jak będzie płynął tędy jakiś spływ z piłami, to zapewne ta przeszkoda zostanie usunięta.)</opispunktu> 
+    </punkt>
+    <punkt id="748" miejscowosc="Odrzywół" 
+      ns="0" we="0" km="20.97" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Duży most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="747" miejscowosc="Odrzywół" 
+      ns="51.52194" we="20.56222" km="20.75" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz około 50cm wysokości. Pewnie sam jaz dałoby się spłynąć bez wiekszych problemów, ale zaraz za jazem są drewniane paliki po starym moście, więc może lepiej nie ryzykować i obnieść - lewym brzegiem ok. 40m.</opispunktu> 
+    </punkt>
+    <punkt id="746" miejscowosc="" 
+      ns="0" we="0" km="20.04" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pionowy próg wodny wysokości ok. 70cm. Raczej słabo nadaje się do spływania, bo miejscami wystają jakieś ostre żelastwa. Najlepiej to obnieść po prawej stronie - ok. 30m. Po prawej stronie jest staw, nie mający w tym miejscu połączenia z rzeką. Sporo wędkarzy. 50m dalej jest mostek dla pieszych.</opispunktu> 
+    </punkt>
+    <punkt id="745" miejscowosc="Lipowa" 
+      ns="0" we="0" km="18.79" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Wiata biwakowa na niewielkiej wysepce połączonej ze stałym lądem małym mostkiem przerzuconym nad wykopanym (?) wokół wysepki
+kanałem. Pod wiatą znajduje się palenisko/grillowisko, a niżej pod nim,  w dole okratowane pomieszczenie  "gospodarcze" z niewielką umywalką. Obok wiaty wysoko umieszczony mały zbiornik na wodę, prawdopodobnie niesprawny. Całość dość zaniedbana, ale zadaszenie ok i palenisko zdatne do użytku.
+Na wysepce dodatkowo specjalne wybetonowane miejsce z siedziskami i paleniskiem na ognisko. W przypadku wysokiej wody palenisko może być zalane... W pobliżu na stałym lądzie niewielka, zamknięta budka gospodarcza (?)
+Całość należy do p. Kowalczewskiego - poety z Radomia, który kiedyś planował rozwój tego miejsca. Niestety splot okolicznośći (choroba/wypadek) sprawiły, że miejsce obecnie jest zaniedbane.
+Zagląda tu kontrolnie były właściciel tego gruntu, mieszkający w pobliskim domu... Nie wnosi sprzeciwu co do pobytu pod warunkiem pozostawienia miejsca w czystości...</opispunktu> 
+    </punkt>
+    <punkt id="744" miejscowosc="Janówek I" 
+      ns="0" we="0" km="18.5" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek dla pieszych.</opispunktu> 
+    </punkt>
+    <punkt id="743" miejscowosc="Janówek II" 
+      ns="0" we="0" km="14.69" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek dla pieszych.</opispunktu> 
+    </punkt>
+    <punkt id="742" miejscowosc="Nieznamierowice" 
+      ns="0" we="0" km="10.92" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="stanica" kolejnosc="-1">[marzec 2009] 
+Tuż przed  jazem, po prawej stronie  powstaje pensjonat, aktualnie nadal nieczynny, w trakcie remontu. W/g słów właściciela powinien być gotowy na lato 2009... W środku mają być pokoje gościnne i kuchnia przygotowana do sprzedaży posiłków. Pomost przy pensjonacie nieco
+zniszczony. Możliwe, choć utrudnione wyciąganie kajaków (transport na zewnątrz przez zdemontowaną część ogrodzenia i posesję - wymaga zgody
+właściciela). Na posesji możliwość pozostawienia (za niewielką opłatą) samochodu pod opieką gospodarza... 
+</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz o wysokości około 1m. Niewielki odwój o głębokiej cyrkulacji. Bez asekuracji z brzegu (z rzutką) proponuję tego nie spływać, tylko obnieść kajaki lewym brzegiem - około 30m. Zaraz za jazem jest most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="741" miejscowosc="" 
+      ns="0" we="0" km="8.58" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Niewielki próg powstały z ułożonych w poprzek rzeki płyt betonowych. Kiedyś to służyło jako  przejazd przez rzekę dla samochodów, ale teraz już nie jest to przejezdne. Można spływać, ale kajaki się pewnie trochę poobijają. 50m dalej jest metalowy mostek dla pieszych. Od tego miejsca rzeka zwalnia - jest to wpływ jazu w Nieznamierowicach.</opispunktu> 
+    </punkt>
+    <punkt id="740" miejscowosc="Drzewica" 
+      ns="0" we="0" km="2.28" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście niewielkiej rzeczki Brzuśni.</opispunktu> 
+    </punkt>
+    <punkt id="739" miejscowosc="Drzewica" 
+      ns="0" we="0" km="2.05" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="738" miejscowosc="Drzewica" 
+      ns="0" we="0" km="1.33" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Główny most drogowy w Drzewicy. Zaraz za mostem po prawej stronie pokaźne ruiny zamku z XVI wieku.</opispunktu> 
+    </punkt>
+    <punkt id="737" miejscowosc="Drzewica" 
+      ns="51.44611" we="20.46111" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most samochodowy na zaporze. 
+</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Tuż poniżej zapory jest tor kajakarstwa górskiego - właściwie dwa tory: stary po prawej stronie i nowy (otwarty w 2005r) po lewej.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Spiętrzenie wody na potrzeby zakładów Gerlach, a przy okazji i tor kajakarstwa górskiego zyskał. Około 2 metrów różnicy poziomów.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

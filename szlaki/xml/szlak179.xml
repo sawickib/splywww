@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="179" nazwa="Wołczenica" wersja="2">
+<opis>Rzeka w woj. zachodniopomorskim, której obszar źródliskowy znajduje się na N od Nowogardu. Uchodzi do Zatoki Cichej w ciągu rzeki Dziwny (łącznika Odry i Zalewu Szczecińskiego z Bałtykiem, w Skarchowie, na S od Kamienia Pomorskiego), umownie można więc przyjąć, że Wołczenica jest prawym dopływem Odry. Wołczenicę, generalnie należy uznawać za rzekę zwałkową, chociaż stopień jej uciążliwości i trudność przeszkód, zróżnicowana jest w zależności od wybranego odcinka. Sporym problemem jest zapora przy stawach hodowlanych w Derkaczu, a konkretnie brak wody za zaporą, nie tylko w okresach niżówek. Jedyna, stała przenoska na opisanym odcinku rzeki może wydłużyć się o dodatkowych kilkaset metrów. Niestety zapora nie posiada przepławki dla ryb (co denerwuje również wędkarzy, ze względu na brak możliwości migracji ryb), więc cała woda z rzeki kierowana jest na stawy. Po powrocie wody ze stawów płynie się już swobodnie. Większość spływu odbywa się w otwartym terenie pośród szpalerów drzew, tylko miejscami rzeka wpływa do zwartego lasu. Ze względu na walory przyrodnicze, w biegu Wołczenicy utworzono formy ochrony przyrody: Zespół Przyrodniczo-Krajobrazowy Dolina Rzeki Wołczenicy, rezerwaty przyrody: Przybiernowski Bór Bagienny, Przełom Rzeki Wołczenicy oraz obszar Natura 2000 - Bagna Rozwarowskie. Poziom wody można obserwować za pomocą wodowskazu Moracz (27,6 km). Jest on słabo czytelny ale jedyny na reprezentowanym odcinku. Wskazania 1954 gwarantują wystarczający poziom wody, chociaż są to stany raczej niskie, mimo to jedynie miejscami napotyka się na drobne mielizny. Poniżej zapory Derkacz niemalże całkowity zanik wody na odcinku kilkuset metrów. W maju 2019 odcinek Świętoszewko - Kozielice kilku K1 zajął 4,5 h (przy stanie 1954 na wodowskazie Moracz) niespiesznego spływu. W kwietniu 2021 odcinek Błotno - Derkacz zajął 6,5h, a wodowskaz Moracz wskazywał wtedy poziom 1976. Pomimo, że poziom ten gwarantuje bardzo dobre warunki wodne, poniżej zapory w Derkaczu również i wtedy nie było wody</opis> 
+    <punkt id="5723" miejscowosc="Derkacz" 
+      ns="53.78213145" we="14.85408933" km="25.8" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ostry zakręt w prawo i wzmocniony lewy brzeg betonowymi trójnikami. Powrót wody ze stawów hodowlanych, dalej da się płynąć swobodnie. Poniżej odcinek zwałkowy o niewielkich trudnościach technicznych</opispunktu> 
+    </punkt>
+    <punkt id="5722" miejscowosc="Derkacz" 
+      ns="53.78255841" we="14.85823605" km="26.2" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Rozlewisko i zapora zabierająca całą wodę na stawy hodowlane. Niezbyt wygodne wyjście z wody na lewy brzeg, dość stromo. Przy zaporze sporo miejsca na kilka samochodów, jest to bardzo dobre miejsce na zakończenie etapu, zwłaszcza, że poniżej często brakuje wody na odcinku kilkuset metrów. Płynących dalej, czeka przenoska po trawie, na koniec brzegu umocnionego gabionami i luźnymi głazami. Poniżej odcinek z małą ilością wody i wystającymi kamieniami. Możliwa konieczność holowania kajaka korytem rzeki lub stromym, zalesionym i zakrzaczonym brzegiem, na odległość kilkuset metrów</opispunktu> 
+    </punkt>
+    <punkt id="5721" miejscowosc="Moracz" 
+      ns="53.77266974" we="14.8695123" km="27.6" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy. Za mostem po lewej stronie słabo czytelny wodowskaz Moracz</opispunktu> 
+    </punkt>
+    <punkt id="5720" miejscowosc="Moracz" 
+      ns="53.77131548" we="14.87079861" km="27.8" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Grube drzewo w poprzek rzeki, nad nim drewniana kładka, a tuż za nim prożek kamienny. W pobliżu na skarpie budynki mieszkalne. W 2021 grube drzewo było odsunięte i leżało wzdłuż prawego brzegu. Kiedyś była to wymagająca zwałka, dzisiaj niski kamienny prożek</opispunktu> 
+    </punkt>
+    <punkt id="5719" miejscowosc="Moracz" 
+      ns="53.76735873" we="14.87401778" km="28.3" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Widoczna z wody duża farma fotowoltaiczna po prawej stronie. Poniżej odcinek zwałkowy o niewielkich trudnościach i uciążliwości</opispunktu> 
+    </punkt>
+    <punkt id="5718" miejscowosc="Moracz" 
+      ns="53.76458046" we="14.87852857" km="29" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Spora tama bobrowa</opispunktu> 
+    </punkt>
+    <punkt id="5717" miejscowosc="Świętoszewko" 
+      ns="53.76091829" we="14.88928822" km="30.4" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowy most nieczynnej linii kolejowej. W krajobraz rzeki powracają zwałki, w postaci pojedynczych, sporych wierzb</opispunktu> 
+    </punkt>
+    <punkt id="5716" miejscowosc="Świętoszewko" 
+      ns="53.7594095" we="14.89433282" km="30.8" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Nieużytkowany mostek betonowy, okolice którego wykorzystywane są do kończenia i rozpoczynania etapów. Charakterystyczny esik rzeki z betonowymi pozostałościami starego młyna. Przed mostem po prawej wykoszona łączka i uprzejmy gospodarz, jednak brzegi nieco strome i zaopatrzone w drewniane paliki na granicy lustra wody. Znacznie wygodniej, chociaż mniej estetycznie jest poniżej mostka. Tu dostęp do wody jest pośród krzaków, za to z łagodnego brzegu. Poniżej pojedyncze zwałki. Rzeka kręci i podmywa burty koryta, co widać po kołkach wzmacniających pierwotne brzegi, częstokroć sterczących pionowo w aktualnym środku nurtu. Płynąć ostrożnie, zwłaszcza kajakami dmuchanymi</opispunktu> 
+    </punkt>
+    <punkt id="6567" miejscowosc="Świętoszewko" 
+      ns="53.75995512" we="14.89513627" km="30.9" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy </opispunktu> 
+    </punkt>
+    <punkt id="6566" miejscowosc="Czarnogłowy" 
+      ns="53.75884895" we="14.90905576" km="32.6" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na lokalnej drodze. Rzeka wypływa z terenów zalesionych na otwarte przestrzenie. Na pewien czas znikają zwałki i płynie się bez przeszkód</opispunktu> 
+    </punkt>
+    <punkt id="6565" miejscowosc="Czarnogłowy" 
+      ns="53.75693031" we="14.91225997" km="33" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Podmyte i przekrzywione betonowe przyczółki po budowli hydrotechnicznej. Zaraz za nimi, po prawej stronie domy letniskowe nad sztucznym, powyrobiskowym zbiorniku Czarnogłowy Duże</opispunktu> 
+    </punkt>
+    <punkt id="6564" miejscowosc="Czarnogłowy" 
+      ns="53.75043208" we="14.93271967" km="34.9" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Filar i przyczółki betonowe po moście na dawnej linii kolejowej. Poniżej, na prawym brzegu, wzdłuż koryta rzeki ciągnie się wysoka skarpa, w rzeczywistości sztuczna hałda z materiału stanowiącego nadkład dawnej, pobliskiej kopalni odkrywkowej wapienia. Wzdłuż obydwu stron rzeki znajdują się sztuczne jeziora powstałe po zalaniu wyrobisk górniczych, działającej od 1902 roku kopalni Pommersche Kalksteinwerke Gmbh. Kopalnia działała również po wojnie, do 1968 roku, kiedy to została całkowicie zalana wodą. Rzeka wpływa do zwartego lasu, początek krótkiego odcinka przełomowego z bardzo dużą ilością powalonych drzew. Odcinek wymagający, chociaż konfiguracja większości zwałek nie wymaga współpracy zespołowej</opispunktu> 
+    </punkt>
+    <punkt id="6563" miejscowosc="Trzechel" 
+      ns="53.74844871" we="14.9456297" km="36" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy na leśnej drodze, oznakowanej jako dojazd pożarowy nr 6. Koniec rezerwatu Przybiernowski Bór Bagienny, jednocześnie początek rezerwatu Przełom Rzeki Wołczenicy. Cały czas zwałkowo, w podmokłej i szerokiej dolinie</opispunktu> 
+    </punkt>
+    <punkt id="6562" miejscowosc="Trzechel" 
+      ns="53.74763942" we="14.96616772" km="37.5" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu początek rezerwatu Przybiernowski Bór Bagienny</opispunktu> 
+    </punkt>
+    <punkt id="6561" miejscowosc="Trzechel" 
+      ns="53.7458531" we="14.97602811" km="38.5" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony uchodzi prosty kanał Trzechelskiej Strugi</opispunktu> 
+    </punkt>
+    <punkt id="6560" miejscowosc="Błotno" 
+      ns="53.75146594" we="14.99706701" km="41" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Charakterystyczna tama bobrowa o wysokości około 1m</opispunktu> 
+    </punkt>
+    <punkt id="6559" miejscowosc="Błotno" 
+      ns="53.7555051" we="15.00082385" km="41.7" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy przy asfaltowej drodze do Łęgna. Wygodne miejsce rozpoczynania etapu, ale w bezpośrednim sąsiedztwie mostu nie ma miejsca na samochody ze względu na strome skarpy. Poniżej szerokość rzeki 3-4m, na brzegach podmokłe łąki i pojedyncze drzewa. W korycie nieliczne zwałki, choć niektóre wymagające współpracy</opispunktu> 
+    </punkt>
+    <punkt id="6558" miejscowosc="Błotno" 
+      ns="53.7558124" we="15.00313873" km="41.8" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony uchodzi rzeczka Dąbrzyca</opispunktu> 
+    </punkt>
+    <punkt id="5724" miejscowosc="Wysoka Kamieńska" 
+      ns="53.79102205" we="14.84797752" km="24.1" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Drut kolczasty nisko nad wodą i ciąg pastwisk po prawej. Koniec odcinka zwałkowego</opispunktu> 
+    </punkt>
+    <punkt id="5725" miejscowosc="Wysoka Kamieńska" 
+      ns="53.79859218" we="14.84661852" km="23.6" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z lewej cieku Karwia Struga</opispunktu> 
+    </punkt>
+    <punkt id="5726" miejscowosc="Wysoka Kamieńska" 
+      ns="53.81336232" we="14.84904846" km="21.6" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="5727" miejscowosc="Wysoka Kamieńska" 
+      ns="53.81443494" we="14.84963563" km="21.5" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Charakterystyczna rura betonowa na przestrzał lewego brzegu. Przy wyższych stanach wody zasilane są nią pobliskie stawy hodowlane</opispunktu> 
+    </punkt>
+    <punkt id="5728" miejscowosc="Wysoka Kamieńska" 
+      ns="53.81784625" we="14.85294396" km="21" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="5729" miejscowosc="Baczysław " 
+      ns="53.8256586" we="14.86231404" km="19.8" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy. Za nim małe bystrze i rura stalowa wysoko nad wodą</opispunktu> 
+    </punkt>
+    <punkt id="5730" miejscowosc="Kozielice" 
+      ns="53.85426776" we="14.86455139" km="16.3" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy pomiędzy Kozielicami a Dargoszewem. Wygodne miejsce wodowania oraz lądowania, chociaż brzegi nieco strome. W Kozielicach przy skrzyżowaniu sporo miejsca na samochody</opispunktu> 
+    </punkt>
+    <punkt id="5731" miejscowosc="Rekowo" 
+      ns="53.88638372" we="14.78862261" km="7.45" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej dopływ cieku Stawna</opispunktu> 
+    </punkt>
+    <punkt id="5732" miejscowosc="Rozwarowo" 
+      ns="53.90145493" we="14.74275961" km="2.5" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej dopływ rzeki Grzybnicy</opispunktu> 
+    </punkt>
+    <punkt id="5733" miejscowosc="Skarchowo" 
+      ns="53.92198015" we="14.75272721" km="0" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Wołczenicy do zatoki Cichej na rzece Dziwnie</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

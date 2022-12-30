@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="164" nazwa="Chotla" wersja="1">
+<opis>Niewielki, lewobrzeżny dopływ Radwi. Dziki i zwałkowy, o czystej wodzie i piaszczystym dnie. Na całej długości dobrze dostępny z lądu [liczne mosty co kilka kilometrów], można więc dowolnie planować etapy. Odcinek z Tyczewa do Bukówka zajmuje około 3,5h spokojnego spływu.</opis> 
+    <punkt id="5389" miejscowosc="Tyczewo" 
+      ns="53.9859364" we="16.2960859" km="25.4" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most sklepiony na drodze do miejscowości Pobądz, kiedyś przebiegała po nim również linia kolejowa. Pod mostem ruiny młyna. Dwu przęsłowa przepławka z małym bystrzem (płynąć lewą stroną). Wygodne miejsce rozpoczynania etapu, chociaż brzegi wysokie i nieco strome. Odcinek poniżej jest dziki i zwałkowy o umiarkowanej uciążliwości, jednak niektóre przeszkody wymagają współpracy zespołowej przy ich pokonywaniu</opispunktu> 
+    </punkt>
+    <punkt id="5390" miejscowosc="Bukowo" 
+      ns="53.97949929" we="16.27329283" km="23.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Ruiny drewnianego mostu w lesie </opispunktu> 
+    </punkt>
+    <punkt id="5391" miejscowosc="Bukowo" 
+      ns="53.9783982" we="16.27339418" km="23.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Rzeka wypływa z lasu na łąki. Próg dwu stopniowy, po około 1m wysokości każdy, z charakterystycznymi korytkami [przerwy w koronie, mające prawdopodobnie ułatwiać migrację ryb], w których klinują się kajaki przy próbie przepływania. W górnym prożku korytko znajduje się po prawej stronie, natomiast w dolnym po lewej. Zalecam spływanie górnego progu z lewej strony, przepromowanie w prawo pomiędzy prożkami i spłynięcie dolnego z prawej. Uniknie się w ten sposób kłopotliwego zaklinowania w korytku. Poniżej krótki odcinek uregulowany i wykołkowany wzdłuż brzegów, dalej znowu dziko</opispunktu> 
+    </punkt>
+    <punkt id="5392" miejscowosc="Bukowo" 
+      ns="53.97142539" we="16.24241153" km="20.8" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki sklepiony most z 1903 roku, na lokalnej drodze. Wygodny dostęp do wody z wydokiej skarpy</opispunktu> 
+    </punkt>
+    <punkt id="5393" miejscowosc="Bukowo" 
+      ns="53.97100433" we="16.23338866" km="20.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Drewniane filary po moście w lesie. Niżej zwałki wymagające wspópracy zespołowej</opispunktu> 
+    </punkt>
+    <punkt id="5394" miejscowosc="Retowo" 
+      ns="53.97492267" we="16.205246" km="16.5" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Sklepiony most ceglany na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5395" miejscowosc="Bukówko" 
+      ns="53.9771467" we="16.19870392" km="16" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Odbicie w lewo na stawy hodowlane, płynąć w prawo</opispunktu> 
+    </punkt>
+    <punkt id="5396" miejscowosc="Bukówko" 
+      ns="53.97739233" we="16.19849933" km="15.9" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Podwójny niski prożek piętrzący wodę na potrzeby stawów hodowlanych. Zarówno górny, jak i dolny prożek posiadają przepusty w środkowej części ułatwiające swobodne przepłynięcie. Górny prożek ponadto posiada stalową ramę. Poniżej progu mało wody [większość jej skierowana jest na stawy] trzeba więc szukać głębszych miejsc w piaszczystym dnie</opispunktu> 
+    </punkt>
+    <punkt id="5397" miejscowosc="Bukówko" 
+      ns="53.97858304" we="16.19466174" km="15.7" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mały prożek z głazów</opispunktu> 
+    </punkt>
+    <punkt id="5398" miejscowosc="Bukówko" 
+      ns="53.97937355" we="16.19442797" km="15.6" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Powrót wody ze stawów, niżej już jej nie brakuje</opispunktu> 
+    </punkt>
+    <punkt id="5399" miejscowosc="Bukówko" 
+      ns="53.97991041" we="16.1940823" km="15.5" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Miejsce lądowania do Pałacu w Bukówku [możliwe noclegi z wyżywieniem]. Po prawej stronie tabliczka informacyjna. Wyjście z wody na prawy brzeg, na niską skarpę</opispunktu> 
+    </punkt>
+    <punkt id="5400" miejscowosc="Bukówko " 
+      ns="53.98258156" we="16.19023913" km="15" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na bocznej drodze bez przejazdu</opispunktu> 
+    </punkt>
+    <punkt id="5401" miejscowosc="Bukówko" 
+      ns="53.98479626" we="16.1895629" km="14.8" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Główny most we wsi, za [pod] nim niewielkie bystrze</opispunktu> 
+    </punkt>
+    <punkt id="5402" miejscowosc="Wronie Gniazdo" 
+      ns="54.05652961" we="16.1341364" km="0" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Chotli do Radwi</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

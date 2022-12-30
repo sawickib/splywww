@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="80" nazwa="Ślęza" wersja="3">
+<opis>Ślęza, niem. Lohe, lewobrzeżny dopływ Odry o długości blisko 78,6 km. Źródła Ślęzy znajdują się na Wzgórzach Niemczańsko-Strzelińskich, w pobliżu Bobolic, na wysokości ok. 340 m n.p.m. Rzeka generalnie płynie w kierunku północnym omijając od wschodu Masyw Ślęży, na ostatnim odcinku swojego biegu płynie uregulowanym korytem pomiędzy zachodnimi osiedlami Wrocławia, wpada do Odry na jej 261,6 km.
+Atrakcyjna rzeczka na spływ jednodniowy. Podstawową zalętą Ślęzy jest jej bliskość od Wrocławia i stosunkowo łatwa dostępność w poszczególnych odcinkach. W miesiącach letnich niesie stosunkowo mało wody i dość mocno zarasta roślinnością co utrudnia pływanie, za to w miesiącach wiosennych oraz po deszczach, niesie wody wystarczająco dużo by móc nią spłynąć, niestety ma to swoje konsekwencje w klarowności wody w rzece.
+Odcinek z Jordanowa do Ślęzy płynięty był przy stanie wody na wodowskazie w Ślęzie - 222 (ilość wody w sam raz). Podczas spływów odcinkiem od Ślęzy do ujścia wodowskaz w Ślęzie wskazywał poziomy pomiędzy 184 a 199, co również gwarantowało wystarczającą ilość wody.</opis> 
+  <odcinek id="457" typ="rzeka" nazwa="Las Pilczycki" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="5"> 
+  <opis>Odcinek prowadzący przez obszary leśne (po prawej). Kilka drzew w rzece.</opis>
+    <punkt id="4792" miejscowosc="Wrocław Oporów" 
+      ns="51.07703497" we="16.98212246" km="12.6" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="most" kolejnosc="-1">Most łączący ul. Racławicką z Aleją Piastów</opispunktu> 
+    </punkt>
+    <punkt id="2809" miejscowosc="Wrocław Maślice" 
+      ns="51.159263" we="16.950568" km="0" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Ślęzy do Odry. Tuż za ujściem po lewej znajduje się dogodny dojazd dla samochodów od ul. Rędzińskiej (asfalt dochodzi do samej wody). Równie dogodnie można dojechać do Odry po drugiej stronie, od strony Osobowic i Rędzina.
+W pobliżu ujścia, na końcu ul. Rędzińskiej znajduje się petla autobusowa komunikacji miejskiej, a przy samej rzece sporo miejsca na samochody</opispunktu> 
+    </punkt>
+    <punkt id="3846" miejscowosc="Wrocław Pilczyce" 
+      ns="51.15224396" we="16.95226128" km="0.9" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Autostradowej Obwodnicy Wrocławia (AOW)</opispunktu> 
+    </punkt>
+    <punkt id="2808" miejscowosc="Wrocław Pilczyce" 
+      ns="51.14244" we="16.955946" km="2.51" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przed mostem kamienne bystrze</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most Maślicki. W pobliżu komunikacja miejska.</opispunktu> 
+    </punkt>
+    <punkt id="4793" miejscowosc="Wrocław Muchobór" 
+      ns="51.0990688" we="16.96106681" km="9.2" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pozostałości po jazie</opispunktu> 
+    </punkt>
+    <punkt id="4794" miejscowosc="Wrocław Pilczyce" 
+      ns="51.14250951" we="16.95654321" km="2.4" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="most" kolejnosc="-1">Most tramwajowy. Poniżej odcinek leśny z kilkoma drzewami w korycie rzeki</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="335" typ="rzeka" nazwa="Wrocław" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="KL2" 
+      kolejnosc="4"> 
+  <opis>Uregulowany odcinek Ślęzy prowadzący przez zachodni Wrocław.</opis>
+    <punkt id="2807" miejscowosc="Wrocław Pilczyce" 
+      ns="51.142504" we="16.948481" km="3.1" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Trudności z dobiciem do brzegu w bezpiecznej odległości od jazu. W przypadku gdy jaz jest opuszczony woda w tym miejscu bardzo przyspiesza i miejsce to staje się niebezpieczne</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz wysokości 4m Małej Elektrowni Wodnej przy ul. Mącznej. W pobliżu pętla tramwajowa oraz duży parking</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Obowiązkowa, newygodna przenoska lewą stroną 40m. Przed jazem teren jest podmokły i zarośnięty trzcinami. Najbardziej wygodnie jest wyjść z wody przy samym jazie</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W przypadku niskich stanów wody, z reguły pracuje tylko 1 turbina, co oznacza niedostatek wody do płynięcia na odcinku poniżej jazu. Należy wówczas poprosić niezwykle uprzejmego właściciela elektrowni aby na 15 min uruchomił obie turbiny... i po kłopocie</opispunktu> 
+    </punkt>
+    <punkt id="3845" miejscowosc="Wrocław Pilczyce" 
+      ns="51.1379767" we="16.94503941" km="3.6" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Pilczycki na drodze nr 94. Zaraz za nim kładka dla pieszych prowadząca na widoczny po lewej stadion</opispunktu> 
+    </punkt>
+    <punkt id="2806" miejscowosc="Wrocław Pilczyce" 
+      ns="51.137287" we="16.945163" km="3.71" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="most" kolejnosc="-1">Most tramwajowy. W pobliżu pętla tramwajowa i autobusowa</opispunktu> 
+    </punkt>
+    <punkt id="3844" miejscowosc="Wrocław Kuźniki" 
+      ns="51.13363051" we="16.94502257" km="4.1" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3843" miejscowosc="Wrocław Kuźniki" 
+      ns="51.13274831" we="16.94458238" km="4.2" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na nieczynnej bocznicy kolejowej. Ulubione miejsce spotkań miejscowych smakoszy dystylatów, piwa, chipsów itp. Okolice mostu to jeden wielki śmietnik.</opispunktu> 
+    </punkt>
+    <punkt id="3842" miejscowosc="Wrocław Kuźniki" 
+      ns="51.1284034" we="16.93962247" km="4.8" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="3841" miejscowosc="Wrocław Żerniki" 
+      ns="51.12235461" we="16.93911881" km="5.5" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="2805" miejscowosc="Wrocław Żerniki" 
+      ns="51.121922" we="16.938972" km="5.62" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Żernicki</opispunktu> 
+    </punkt>
+    <punkt id="3840" miejscowosc="Wrocław Nowy Dwór" 
+      ns="51.11142536" we="16.94291367" km="7.1" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej dopływa Potok Kasina</opispunktu> 
+    </punkt>
+    <punkt id="2804" miejscowosc="Wrocław Nowy Dwór" 
+      ns="51.111114" we="16.943657" km="7.22" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz dwuprzęsłowy 0,8 m. Pod jazem płytko</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewą i prawą stroną około 15 m</opispunktu> 
+    </punkt>
+    <punkt id="3839" miejscowosc="Wrocław Nowy Dwór" 
+      ns="51.10919874" we="16.95028701" km="7.7" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="2803" miejscowosc="Wrocław Nowy Dwór" 
+      ns="51.108444" we="16.952116" km="7.91" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Strzegomski</opispunktu> 
+    </punkt>
+    <punkt id="3837" miejscowosc="Wrocław Muchobór" 
+      ns="51.09536865" we="16.96953764" km="10" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej mostu koryto rzeki porastają trzciny i miejscami płynie się wąskimi przesmykami</opispunktu> 
+    </punkt>
+    <punkt id="2802" miejscowosc="Wrocław Muchobór" 
+      ns="51.094935" we="16.969869" km="10.09" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Muchoborski pomiędzy ul. Ostrowskiego i Krzemieniecką</opispunktu> 
+    </punkt>
+    <punkt id="2801" miejscowosc="Wrocław Oporów" 
+      ns="51.08366" we="16.970684" km="11.48" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Oporowski pomiędzy ul. Solskiego i Grabiszyńską. W pobliżu pętla tramwajowa i parking</opispunktu> 
+    </punkt>
+    <punkt id="2800" miejscowosc="Wrocław Oporów" 
+      ns="51.080831" we="16.97864" km="12.14" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Dwuprzęsłowy jaz około 1m pod Kładką Oporowską, z niewielkim odwojem</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska prawą stroną około 30m, najczęściej wśród tłumów gapiów</opispunktu> 
+    </punkt>
+    <punkt id="2799" miejscowosc="Wrocław Klecina" 
+      ns="51.065042" we="16.986187" km="14.03" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Kleciński na ul. Wałbrzyskiej. W pobliżu pętla tramwajowa.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej mostu koryto rzeki zarośnięte jest trzcinami, tak więc miejscami płynie się wąskimi przesmykami</opispunktu> 
+    </punkt>
+    <punkt id="3836" miejscowosc="Wrocław Klecina" 
+      ns="51.06113217" we="16.98967957" km="14.5" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Dwustopniowy prożek w Parku Klecińskim</opispunktu> 
+    </punkt>
+    <punkt id="3835" miejscowosc="Wrocław Partynice" 
+      ns="51.05959569" we="16.99002955" km="14.7" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Partynicki na al. Karkonoskiej</opispunktu> 
+    </punkt>
+    <punkt id="3834" miejscowosc="Wrocław Partynice" 
+      ns="51.05935197" we="16.99024697" km="14.75" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3833" miejscowosc="Wrocław Partynice" 
+      ns="51.0553441" we="16.99292917" km="15.2" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Dwustopniowy prożek, pozostałości po zastawce</opispunktu> 
+    </punkt>
+    <punkt id="3832" miejscowosc="Ślęza" 
+      ns="51.04340244" we="16.98604659" km="16.7" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Autostrady A4</opispunktu> 
+    </punkt>
+    <punkt id="3831" miejscowosc="Ślęza" 
+      ns="51.04059459" we="16.98311462" km="17" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Trójprzęsłowy jaz o wysokości około 1m. Spływać można z lewej i z prawej strony "na mokro" - pod progiem wystarczająco głęboko. Wąskim, środkowym przęsłem można skoczyć "na sucho" ale również i "na twardo", bowiem podstawa progu to płytko zanużona betonowa płyta.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Niezbyt wygodna przenoska lewą i prawą stroną około 50m. Wodowanie ze stromego brzegu</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej odcinek nieco bardziej dziki z kilkoma drzewami w korycie</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="334" typ="rzeka" nazwa="Galowice - Ślęza" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Odcinek spokojnej rzeki z jednym dużym zatorem ze śmieci. Brzegi porośnięte gęstą roślinnością przez co rzeka staje się dzika i ponura.</opis>
+    <punkt id="2798" miejscowosc="Ślęza" 
+      ns="51.037241" we="16.985312" km="17.57" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków. Poniżej mostu, po lewej aktywny wodowskaz, którego wskazania można obserwować w internecie. W grudniu 2016 wodowskaz wskazywał poziom 184 - jest to bardzo dobra woda (wszystkie progi poniżej [z wjątkiem elektrowni na ul. Mącznej] można spływać bez problemów.
+W pobliżu przystanek komunikacji miejskiej oraz zatoczka na 3 samochody przy ul. Rzecznej.</opispunktu> 
+    </punkt>
+    <punkt id="2797" miejscowosc="Ślęza" 
+      ns="51.024176" we="16.991088" km="19.27" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewą stroną 20m.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 1,5m.</opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ młynówki w prawo.</opispunktu> 
+    </punkt>
+    <punkt id="2796" miejscowosc="Komorowice" 
+      ns="51.014026" we="16.998557" km="20.78" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków.</opispunktu> 
+    </punkt>
+    <punkt id="2795" miejscowosc="Rzeplin" 
+      ns="51.002381" we="17.009963" km="22.35" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków.</opispunktu> 
+    </punkt>
+    <punkt id="2794" miejscowosc="Rzeplin" 
+      ns="50.99933" we="17.011701" km="22.71" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej dopływa rzeka Żórawka</opispunktu> 
+    </punkt>
+    <punkt id="2793" miejscowosc="Żórawina" 
+      ns="50.98628072" we="17.01789237" km="24.23" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków.</opispunktu> 
+    </punkt>
+    <punkt id="2792" miejscowosc="Galowice" 
+      ns="50.97611" we="17.005857" km="25.74" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek, kładka</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="333" typ="rzeka" nazwa="Żerniki" 
+      uciazliwosc="U2" trudnosc="ZWC" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Odcinek z dwoma dużymi zatorami z drzew i śmieci. Miejsce niewygodne, wąskie i o szybkim nurcie. Woda piętrzy się tu na około 1m. Brzegi wysokie i podmyte, praktycznie brak możliwości wyjścia na ląd. Przenoska przez zator bardzo niewygodna.</opis>
+    <punkt id="2791" miejscowosc="Żerniki Wielkie" 
+      ns="50.96415" we="17.004789" km="27.19" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="2790" miejscowosc="Żerniki Wielkie" 
+      ns="50.954682" we="17.012297" km="28.39" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zator z drzew i śmieci, piętrzący wodę na wysokość w sumie około 1m</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Niewygodna przenoska, brzegi wysokie i podmyte; 100m brzegiem lub 20m przeciskając się przez zator.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="332" typ="rzeka" nazwa="Borów - Żerniki" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Odcinek rzeki bardziej dziki. Ślęza kręci i podmywa brzegi. Pojawiają się drzewa i krzaki a nurt przyspiesza.</opis>
+    <punkt id="2789" miejscowosc="Pasterzyce" 
+      ns="50.947802" we="17.006248" km="29.37" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 0,5m.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="2788" miejscowosc="Brzeście" 
+      ns="50.923941" we="16.985028" km="33.05" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 0,6m.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="2787" miejscowosc="Marcinkowice" 
+      ns="50.913815" we="16.991653" km="34.34" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 0,5m.</opispunktu> 
+    </punkt>
+    <punkt id="2786" miejscowosc="Boguszyce" 
+      ns="50.904502" we="16.997352" km="35.52" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 0,5m.</opispunktu> 
+    </punkt>
+    <punkt id="2785" miejscowosc="Brzezica" 
+      ns="50.89540495" we="17.00047565" km="36.65" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 0,6m.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="2784" miejscowosc="Borów" 
+      ns="50.888945" we="16.990025" km="37.78" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 0,5m.</opispunktu> 
+    </punkt>
+    <punkt id="2783" miejscowosc="Borów" 
+      ns="50.88621155" we="16.98095124" km="38.54" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 1m.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawą stroną 20m.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych.</opispunktu> 
+    </punkt>
+    <punkt id="2782" miejscowosc="Borów" 
+      ns="50.8852789" we="16.97977954" km="38.74" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście Małej Ślęzy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="331" typ="rzeka" nazwa="Jordanów - Borów" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="*" czystosc="KL3" 
+      kolejnosc="0"> 
+  <opis>Odcinek rzeki o szerokości do 5m. Spora ilość jazów kamiennych. Rzeka sprawia wrażenie uregulowanej, posiada wykoszone brzegi, na których widnieją pnie po wyciętych drzewach</opis>
+    <punkt id="2781" miejscowosc="Borów" 
+      ns="50.88329" we="16.971665" km="39.3" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="2780" miejscowosc="Tyniec nad Ślęzą" 
+      ns="50.88475" we="16.932997" km="42.09" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 0,5m.</opispunktu> 
+    </punkt>
+    <punkt id="2779" miejscowosc="Tyniec nad Ślęzą" 
+      ns="50.885691" we="16.928201" km="42.45" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 0,6m.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="2778" miejscowosc="Tyniec nad Ślęzą" 
+      ns="50.885863" we="16.92416" km="42.73" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg kamienny 0,5m.</opispunktu> 
+    </punkt>
+    <punkt id="2777" miejscowosc="Popowice" 
+      ns="50.881359" we="16.888326" km="45.5" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg kamienny 0,5m.</opispunktu> 
+    </punkt>
+    <punkt id="2776" miejscowosc="Popowice" 
+      ns="50.881298" we="16.881292" km="46.04" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">20 metrowe, kamienne bystrze.</opispunktu> 
+    </punkt>
+    <punkt id="2775" miejscowosc="Jordanów Śląski" 
+      ns="50.868924" we="16.869472" km="47.97" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka</opispunktu> 
+    </punkt>
+    <punkt id="2774" miejscowosc="Jordanów Śląski" 
+      ns="50.863925" we="16.869656" km="48.54" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

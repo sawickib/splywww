@@ -1,0 +1,50 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.85901322" lon="17.07384989">
+<name>13.50</name>
+<desc>Most na lokalnej drodze. Wygodne miejsce startu ale bardzo złej jakości droga gruntowa od strony Koczały. W pobliżu mostu ławki, wiata i miejsce na ognisko przy charakterystycznej pętli, na której można pozostawić samochody. Poniżej odcinek leśny z kilkoma zwałkami. Szeroko i miejscami płytko, trzeba dobrze czytać wodę bo kajak często wiesza się na piaskowo-żwirowych mieliznach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.84792339" lon="17.07694571">
+<name>12.00</name>
+<desc>Mostek w lesie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.83105146" lon="17.09317867">
+<name>9.10</name>
+<desc>Uroczysko Dwa Mostki, drewniany most o 2 przęsłach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.83038424" lon="17.09362168">
+<name>9.00</name>
+<desc>Z prawej strony do Rudy wpada coś NN lub wg niektórych, Kuśnia wpada do o wiele mniejszej Rudy. Tak czy inaczej, rzeka wypływa na otwarty teren, robi się węższa a przez to głębsza</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.82712801" lon="17.14545703">
+<name>5.00</name>
+<desc>Most betonowy na drodze ze Sporysza do Borowego Młyna i Lipnicy, pod nim próg z ostrokrawędzistymi kamieniami. W przypadku podjęcia decyzji o spływaniu tego miejsca, wygodniej jest to zrobić z prawej strony wzdłuż drewnianej belki leżącej w osi nurtu. Przenoska z prawej strony przez drogę obok starego dębu</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.82495314" lon="17.16922038">
+<name>2.60</name>
+<desc>Niespływalny próg przed pstrągarnią, przysłonięty niską stalową kładką, wcześniej ładny fragment rzeki przez zatopiony las. Oznakowana krótka przenoska z prawej strony na rzekę, w przypadku płynięcia dalej (uwaga na psy, które mają dostęp do tego miejsca poprzez kładkę). W przypadku zamiaru kończenia spływu w Rudnikach wygodniej jest wysiąść z lewej strony na łąkę, przed ogrodzeniem pstrągarni i przeciągnąć kajaki po trawie 100m do drogi. Na lewym brzegu wzdłuż lini wody leży dużo kolczastego drutu</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.82527046" lon="17.17094904">
+<name>2.50</name>
+<desc>Most drogowy na bocznej ale asfaltowej drodze, w pobliżu sporo miejsca na samochody. Jest to ostatnie miejsce z dostępem do wody przed wpłynięciem na Brdę</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.82472728" lon="17.20330032">
+<name>0.00</name>
+<desc>Ujście Rudy do Brdy. Spływ można zakończyć, płynąc w dół Brdy, przy moście w Pakotulsku (około 6 km), albo w górę około 1 km do tzw. Garbatego Mostu</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,80 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.95806803" lon="17.74441621">
+<name>7.30</name>
+<desc>Betonowy most na lokalnej drodze. Zaraz za mostem niska stalowa kładka, a pod nią 2 stopniowy jaz 2x1m, piętrzący wodę dla młyna i stawów hodowlanych znajdujących się po lewej stronie. Wygodne miejsce startu z prawego brzegu, chociaż teren ten może okazać się prywatnym. W pobliżu sporo miejsca na kilka samochodów. Poniżej odcinek nieco płytki i bardziej bystry, aż do ostatnich zabudowań wsi i wypływu rzeki na łąki. Po drodze mały prożek i żwirowe przemiały. Na łąkach nurt zwalnia, robi się nieco głębiej, a dno staje piaszczyste. Teren jest otwarty z pojedynczymi drzewami wzdłuż koryta rzeki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.95357456" lon="17.73519058">
+<name>6.40</name>
+<desc>Most na lokalnej drodze, pod mostem przepust 2 rurowy. Dalej nurt spokojny, brzegi wzmocnione drewnianymi kołkami, liczne drobne dopływiki poprawiające stopniowo warunki wodne</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.95266442" lon="17.71703450">
+<name>5.10</name>
+<desc>Niski drewniany mostek przy charakterystycznym bloku mieszkalnym</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.95392473" lon="17.71060403">
+<name>4.60</name>
+<desc>Niska stalowa kładka przed pasem drzew okalających jezioro Leśno Górne</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.95435962" lon="17.70927313">
+<name>4.50</name>
+<desc>Płytki wypływ na jezioro Leśno Górne - piaszczysta łacha. Do wypływu z jeziora kierować się w lewą stronę</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.95232449" lon="17.70449438">
+<name>4.10</name>
+<desc>Szeroki wypływ Młosiny z jeziora Leśno Górne</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.94874944" lon="17.70082586">
+<name>3.60</name>
+<desc>Most drogowy, przed nim po prawej drewniane pomosty, a po lewej budynek szkoły. Zaraz za mostem wypływ na jezioro Leśno Dolne. Po prawej stronie pomost kąpieliska, wiaty ławki, miejsca na ognisko, plac zabaw dla dzieci i wygodny dostęp do wody. Warto zatrzymać się tutaj i zwiedzić pobliski drewniany kościół z początku XVIII wieku, a także przepłynąć na drugi, południowy koniec jeziora, gdzie w lesie znajdują się kurhany i kamienne kręgi</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.94912667" lon="17.69763678">
+<name>3.40</name>
+<desc>Wypływ z jeziora Leśno Dolne, po prawej stronie sygnalizowany wcześniej drewniany kościół. Niżej cembrowiny stanowiące niegdyś przyczółki kładki lub mostu</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.94910380" lon="17.69544454">
+<name>3.20</name>
+<desc>Most drogowy, za nim po prawej mylący nieco znak wskazujący na 30km szlaku kajakowego [zapewne chodzi o szlak Młosina + Zbrzyca]. Vis a vis zbudowany z trylinek zjazd do wody na tyłach budynku straży pożarnej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.94875991" lon="17.69440488">
+<name>3.10</name>
+<desc>Stanica wodna na rzece z tabliczką wskazującą na 4 km szlaku kajakowego. Pomost ułatwiający dostęp do wody, wiaty oraz tablice informacyjne. Dalej szeroko i głęboko, bez utrudnień. Pojedynczo rosnące drzewa, ale generalnie płynie się nadal terenem otwartym, w płytkiej dolince</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="53.95006780" lon="17.68519070">
+<name>2.40</name>
+<desc>Ujście z prawej rowu melioracyjnego zwanego Młosienicą</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.94816056" lon="17.68126926">
+<name>1.90</name>
+<desc>Wysoka drewniana kładka przy gospodarstwie. Poniżej rzeka wpływa w najładniejszy odcinek leśny, mocno zniszczony wskutek huraganu</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.94567842" lon="17.67266052">
+<name>1.20</name>
+<desc>Betonowy most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.94695880" lon="17.65807090">
+<name>0.00</name>
+<desc>Ujście Młosiny do Zbrzycy</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

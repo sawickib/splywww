@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="29" nazwa="Skrwa Północna" wersja="2">
+<opis>Skrwa Północna to prawobrzeżny dopływ Wisły, który wpada do niej kilkanaście kilometrów poniżej Płocka. Cały spławny szlak ma ponad 100km, ale w tej chwili mamy opis tylko ostatnich (podobno najładniejszych) 15km. 
+Rzeka płynie przez piękną okolicę Brudzeńskiego Parku Krajobrazowego.</opis> 
+  <odcinek id="108" typ="rzeka" nazwa="Skrwa w Rezerwacie Sikórz" 
+      uciazliwosc="U6" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Piękny, ale bardzo uciążliwy odcinek szlaku. Dzika dolina rzeki z wieloma zwałkami.</opis>
+    <punkt id="949" miejscowosc="" 
+      ns="52.62915" we="19.54982" km="5" etykieta="147" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka wykorzystująca przewrócone drzewo. </opispunktu> 
+    </punkt>
+    <punkt id="948" miejscowosc="Sikórz" 
+      ns="0" we="0" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany most. 300 metrów w lewo i pod górę i znajdziemy się przy kościele w Sikórzu. Dobre miejsce do rozpoczęcia spływu.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="109" typ="rzeka" nazwa="Skrwa od Lasotek do ujścia" 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Rzeka płynie stopniowo coraz wolniej przez łąki i pola Brudzeńskiego Parku Krajobrazowego.</opis>
+    <punkt id="953" miejscowosc="" 
+      ns="52.60202" we="19.54225" km="13" etykieta="151" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Charakterystyczny dom na wyspie na środku rzeki. Po lewej można łatwo opłynąć, co po prawej - nie wiem.</opispunktu> 
+    </punkt>
+    <punkt id="950" miejscowosc="Lasotki" 
+      ns="52.61296" we="19.56882" km="7" etykieta="148" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="952" miejscowosc="" 
+      ns="52.60291" we="19.55248" km="9" etykieta="150" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zniszczone, betonowe spiętrzenie rzeki o wysokości ok. 50cm.</opispunktu> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">W zależności od poziomu wody spływanie może być niebezpieczne dla kajaka, albo dla kajakarza.</opispunktu> 
+    </punkt>
+    <punkt id="951" miejscowosc="" 
+      ns="52.61177" we="19.56684" km="8" etykieta="149" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zniszczony jaz spietrzający kiedyś wodę do młyna, w sumie jakiś metr różnicy wysokości.</opispunktu> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Prawdziwa biała woda. Długi i skomplikowany moment. Przed płynięciem koniecznie trzeba zatrzymać się i obejrzeć z brzegu..</opispunktu> 
+    </punkt>
+    <punkt id="955" miejscowosc="Murzynowo" 
+      ns="0" we="0" km="16" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Skrwy do Wisły.</opispunktu> 
+    </punkt>
+    <punkt id="954" miejscowosc="Cierszewo" 
+      ns="52.59789" we="19.53404" km="14" etykieta="152" 
+      kolejnosc="6"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Ośrodek szkoleniowo-wypoczynkowy w Cierszewie. Przyjazny kajakarzom</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

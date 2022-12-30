@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="135" nazwa="Szum" wersja="1">
+<opis>Rzeka na Roztoczu, prawy dopływ Tanwi. Płynie przez Roztocze Środkowe i Równinę Biłgorajską. Głównym dopływem (lewym) jest struga Niepryszka. Ważniejsze miejscowości nad Szumem to Górecko Stare, Górecko Kościelne i Sigła. Początek bierze w Roztoczańskim Parku Narodowym, w uroczysku Międzyrzeki (wg Wikipedii). Poniżej Górecka Starego rzeka tworzy malowniczy przełom przez strefę krawędziową Roztocza Środkowego. Na odcinku tym znajduje się kilka progów, zwanych ?szumami? oraz liczne powalone drzewa. Odcinek ten objęty jest ochroną rezerwatową i wyłączony dla spływów kajakowych. Rzeka o niewielkim przepływie, dostępna po opadach oraz podczas wiosenno - jesiennych podwyższonych stanów wody</opis> 
+    <punkt id="4752" miejscowosc="Górecko Stare" 
+      ns="50.51905656" we="22.99576129" km="17.4" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, poniżej rzeka płytka, wąska i kręta</opispunktu> 
+    </punkt>
+    <punkt id="4753" miejscowosc="Górecko Stare" 
+      ns="50.51513619" we="22.9915414" km="16.7" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Początek rezerwatu "Szum" - odcinek wyłączony dla spływów kajakowych. W korycie rzeki liczne progi i powalone drzewa</opispunktu> 
+    </punkt>
+    <punkt id="4754" miejscowosc="Mienniki" 
+      ns="50.51057935" we="22.98939252" km="16" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z lewej potoku Świrek albo Świerk (w zależności od mapy)</opispunktu> 
+    </punkt>
+    <punkt id="4755" miejscowosc="Górecko Kościelne" 
+      ns="50.50697925" we="22.97529218" km="14.6" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora oraz prywatna elektrownia wodna</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Obowiązkowa przenoska prawą stroną 80 m stromą ścieżką. Wodowanie na płytkiej i bystrej wodzie</opispunktu> 
+    </punkt>
+    <punkt id="4756" miejscowosc="Górecko Kościelne" 
+      ns="50.50608908" we="22.97318004" km="14.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Podwójny betonowy przepust pod drogą, o przekroju kwadratu</opispunktu> 
+    </punkt>
+    <punkt id="4757" miejscowosc="Górecko Kościelne" 
+      ns="50.5001766" we="22.96694537" km="13.1" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Dreniana kładka przez rzekę w pobliżu ładnego, drewnianego, zabytkowego kościółka - kaplicy. W pobliżu źródeło z czystą wodą</opispunktu> 
+    </punkt>
+    <punkt id="4758" miejscowosc="Dąbrowa" 
+      ns="50.48749829" we="22.95286474" km="10.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Łukowaty, obszerny przepust pod drogą do miejscowości Dąbrowa</opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro</opispunktu> 
+    </punkt>
+    <punkt id="4759" miejscowosc="Sigła" 
+      ns="50.4805117" we="22.95015792" km="10" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Polana po prawej stronie jeziora. Wygodny dostęp do wody i dojazd od strony drogi</opispunktu> 
+    </punkt>
+    <punkt id="4760" miejscowosc="Sigła" 
+      ns="50.47996408" we="22.95087028" km="9.9" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Podwójny kamienny próg piętrzący wodę w jeziorze, o wysokości około 4 m</opispunktu> 
+    </punkt>
+    <punkt id="4761" miejscowosc="Szostaki" 
+      ns="50.41541606" we="22.92485671" km="0" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Szumu do Tanwi</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

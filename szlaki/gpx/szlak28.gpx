@@ -1,0 +1,162 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.50414900" lon="22.30254800">
+<name>0.00</name>
+<desc>Most drogowy. Dogodne miejsce do rozpoczecia spływu. 
+Rzeka płynie w mocno zadrzewionym jarze i ma charakter "zwałkowy".</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.50486900" lon="22.30110800">
+<name>0.28</name>
+<desc>Niska metalowa kładka.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.50734900" lon="22.29934800">
+<name>0.69</name>
+<desc>Betonowy mostek dla pieszych.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="22.29902800">
+<name>0.85</name>
+<desc>Tama(próg) ziemno-drewniana (0k. 0.9 m).</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.51325900" lon="22.29739800">
+<name>1.87</name>
+<desc>Gospodarstwo na lewym brzegu. 50 m dalej dwustopniowa zastawka.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>1.92</name>
+<desc>Dwustopniowa zastawka. Tworzy dwa progi. Pierwszy 0.5 m, dalej drewniana 3 metrowa
+ pochylnia zakończona 0.9 m spadkiem. Raczej należy przenieść prawym brzegiem.
+</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="52.52143800" lon="22.29600900">
+<name>2.89</name>
+<desc>Kladka. Początek zabudowań wsi Zembrów
+Koniec odcinka Zwałkowego</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.52250800" lon="22.30333900">
+<name>3.44</name>
+<desc>Kladka, a za nią bród.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.52730500" lon="22.31556900">
+<name>4.48</name>
+<desc>Most drogowy. Możliwość rozpoczęcia spływu na krótszej trasie. </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.52730500" lon="22.31556900">
+<name>4.48</name>
+<desc>Most drogowy. 
+Za mostem rzeka płynie tu w głębokim na 2-3m jarze o pionowych ścianach.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.53243800" lon="22.32333900">
+<name>5.31</name>
+<desc>Wysoki jaz, za którym tworzy sie silny odwój. Przy dużej wodzie może być niebezpieczny. 
+Za jazem rzeka zmienia charakter na jeziorny - mocno zarosnięta trzcinami.</desc>
+<cmt>niebezpieczeństwo</cmt>
+</wpt>
+<wpt lat="52.54605700" lon="22.33197900">
+<name>7.18</name>
+<desc>Jaz w "zęby". Betonowy jaz wybudowany na wzór blank muru zamku. Przerwy pomiędzy  "zębami" umożliwiają przy niskiej wodzie swobodne spłynięcie kajakami jednoosobowymi. 
+Dwójki mogą się nie zmieścić.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.55077700" lon="22.33992000">
+<name>7.99</name>
+<desc>Most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Wieś Szwejki 500m w lewo. Mozliwość zakupów. </desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="52.55745700" lon="22.34260000">
+<name>8.79</name>
+<desc>Zastawka. Woda kierowana do stawów po prawej. jeśli zastawka jest zamknieta, przenoska lewym brzegiem. Przy niskim stanie wody w rzece, cała woda moze być skierowana do zasilania stawów. 
+Czeka nas wtedy przenoska na odcinku ok.1300m do miejsca gdzie 
+stawy oddają wodę rzece (czyli ok.50m przed mostem Seroczyn).</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="52.56728700" lon="22.35259000">
+<name>10.20</name>
+<desc>Most drogowy. 100 m dalej zastawka podnoszona.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.57611700" lon="22.36612000">
+<name>11.65</name>
+<desc>Linia wysokiego napięcia.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.57796600" lon="22.36965100">
+<name>11.96</name>
+<desc>Jaz i kładka nad nim.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.58570600" lon="22.37444100">
+<name>12.96</name>
+<desc>Kładka. 50 m dalej most drewniany. Po prawej początek lasu mieszanego. Na brzegach widoczne ślady żerowania bobrów.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.59175600" lon="22.37632100">
+<name>13.85</name>
+<desc>Jaz 30 cm wysokości, spływalny. 
+Koniec lasu mieszanego. 
+Dalej łąki.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.59286600" lon="22.37305100">
+<name>14.12</name>
+<desc>Jaz 50 cm wyokości, spływalny.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.59770600" lon="22.39045100">
+<name>15.71</name>
+<desc>Most betonowy. Z mostu, od spodu wystają grube stalowe druty!!! 
+Przy małym prześwicie bradzo duże niebezpieczeństwo zaczepienia się. 
+Bezpieczniej obnieść.</desc>
+<cmt>niebezpieczeństwo</cmt>
+</wpt>
+<wpt lat="52.59536600" lon="22.39572100">
+<name>16.70</name>
+<desc>Cetynia zakręca prawie pod kątem prostym w lewo.
+Po prawej stronie pojawia się wał przeciwpowodziowy.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.60019600" lon="22.40204100">
+<name>16.86</name>
+<desc>Drewniany most drogowy. Początek wału po lewej stronie.
+Za mostem rzeka zwęża się do szerokości kajaka i płynie na poziomie ląki.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc> Położona na lewym brzegu Wieś Białobrzegi oddalona jes o ok. 1 km, ale sklep ogólnospożywczy jest na końcu wsi ok. 1.8 km. </desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="52.60163600" lon="22.40589100">
+<name>17.16</name>
+<desc>Rzeka ponownie rozszerza się, by po ok. 800m zniknać pod grubą warstwą roślin wodnych. 
+Do Buga jest stąd ok. 300m na północ po łące, ale po drodze należy jeszcze pokonać mocno zarośnięte łozinami starorzecze. Wczesną wiosną zapewne nie będzie tego pronlemu.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.61239500" lon="22.39826200">
+<name>19.28</name>
+<desc>Ujście Cetyni do Buga. Stąd jeszcze tylko 4km Bugiem do dogodnego miejsca zakończenia spływu we wsi Murawskie Nadburzańskie na prawym brzegu lub na lewym (świetne miejsce biwakowe) przy polnej drodze prowadzącej do wsi Kiełpiniec.
+</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="204" nazwa="Sucha (dopływ Szprotawy)" wersja="1">
+<opis>Potok Sucha. Mała rzeczka, trudno dostępna i solidnie zawalona drewnem. Zazwyczaj bardzo niski poziom wody uniemożliwia jakikolwiek spływ. W zasadzie, dostępna wyłącznie wczesną wiosną, i to zarówno ze względu na ilość wody, ale też z uwagi na niski jeszcze stopień rozwoju roślinności wodnej. Gdyby nie liczne bobrowe tamy, piętrzące wodę, na niektórych odcinkach w ogóle nie dałoby się płynąć. Rzeka wyłącznie dla koneserów gatunku, pływających w jednoosobowych kajakach polietylenowych !!!
+Odcinek górny, z Borowiny do Gościeszowic, wiosną 2021 zajął 2xK1 około 4,4h. Wodowskaz Szprotawa na rzece Szprotawie wskazywał wówczas poziom 208, co odpowiadało dość niskiej wodzie na Suchej, zwłaszcza zaraz poniżej tam bobrowych.
+Odcinek dolny z Gościeszowic do ujście do Szprotawy, wiosną 2022 zajął 2,5h. Wodowskaz Szprotawa wskazywał wówczas poziom 220, co korelowało z bardzo dobrą wodą na Potoku Sucha</opis> 
+    <punkt id="6678" miejscowosc="Borowina" 
+      ns="51.64052279" we="15.60255395" km="11.9" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na leśnej drodze, na wysokości (równoleżniku) odpowiadającej stacji paliw w północnej części miejscowości Borowina. Mało wygodny dojazd od strony wsi polną i leśną drogą, bardzo wyboistą, wykorzystywaną przez ciężki sprzęt rolniczy i leśny. Przy samym moście charakterystyczna tabliczka ku pamięci ŚP Adolfa Plisaka, kimkolwiek był. Wodowanie wygodne, chociaż rzeczka nieco płytka, o szerokości do 3 m. Od samego początku bardzo dużo wymagających zwałek zarówno grubych drzew, jak i drobnych gałęzi. Praktycznie, cały czas gimnastyka z krótkimi przerwami na płynięcie. Co pewien czas bobrowe tamy i rozlewiska. Miejscami nurt przyspiesza na żwirowych przemiałach, w tych miejscach robi się zbyt płytko by swobodnie płynąć. Takie warunki obowiązują aż do opuszczenia przez rzekę terenów zalesionych</opispunktu> 
+    </punkt>
+    <punkt id="6679" miejscowosc="Borowina" 
+      ns="51.6280272" we="15.60480351" km="9.9" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na leśnej drodze do Międzylesia. Poniżej spore rozlewisko spiętrzone bobrową tamą. Koryto rzeki przestaje być widoczne, należy więc płynąć pomiędzy drzewami delikatnie zakręcając w prawo ku widocznym polom uprawnym i myśliwskiej ambonie</opispunktu> 
+    </punkt>
+    <punkt id="6680" miejscowosc="Borowina" 
+      ns="51.62487925" we="15.59911554" km="9.3" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoka tama bobrowa przy ambonie myśliwskiej. Na koronie tamy posadowiono drewnianą kładkę dla pieszych, lub odwrotnie, to bobry wypełniły patykami przestrzeń pod kładką, piętrząc wodę. Tak, czy inaczej, miejsce to wymaga sporej gimnastyki lub krótkiej przenoski</opispunktu> 
+    </punkt>
+    <punkt id="6681" miejscowosc="Borowina" 
+      ns="51.62159998" we="15.59959137" km="8.8" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na leśnej drodze. W sieci można znaleźć opis dziewiczego spływu tą rzeką kajakarzy ze Szprotawy. Prawdopodobnie, to właśnie w tym miejscu zaczynali swój spływ</opispunktu> 
+    </punkt>
+    <punkt id="6682" miejscowosc="Dzikowice" 
+      ns="51.61787633" we="15.60156886" km="8.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Gęste trzcinowiska. Należy trzymać się lewej strony, chociaż słaby nurt sugeruje kierunek lekko w prawo, prosto pod krzaki i w trzciny, na płyciznę. Jedyną wskazówkę stanowi tu samotne, suche, rozłożyste drzewo, stojące nad głębokim, właściwym korytem. Rzeka wypływa z lasu, odtąd teren miejscami się otwiera, a czasem jedynie ociera o las. W miejscach zadrzewionych zdarzają się zwałki, jednak płynie się już zdecydowanie szybciej</opispunktu> 
+    </punkt>
+    <punkt id="6683" miejscowosc="Dzikowice" 
+      ns="51.61583094" we="15.60259134" km="8" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski, betonowy mostek. Poniżej miejscami trzcinowiska, na przemian z wygodnym, głębokim korytem</opispunktu> 
+    </punkt>
+    <punkt id="6684" miejscowosc="Dzikowice" 
+      ns="51.61483285" we="15.60922461" km="7.5" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Charakterystyczne przyczółki po zniszczonym mostku</opispunktu> 
+    </punkt>
+    <punkt id="6685" miejscowosc="Dzikowice" 
+      ns="51.6157205" we="15.61668679" km="6.9" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski, betonowy mostek, poniżej odcinek zwałkowy</opispunktu> 
+    </punkt>
+    <punkt id="6686" miejscowosc="Dzikowice" 
+      ns="51.61358125" we="15.62156735" km="6.5" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Rozpadająca się drewniana kładka - mostek, na betonowych przyczółkach</opispunktu> 
+    </punkt>
+    <punkt id="6687" miejscowosc="Gościeszowice" 
+      ns="51.61284626" we="15.62428274" km="6.3" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony Suchą zasila tzw. Dopływ spod Międzylesia. Rzeka na pewien czas opuszcza zwarty las i płynie w malowniczym szpalerze starych dębów</opispunktu> 
+    </punkt>
+    <punkt id="6688" miejscowosc="Gościeszowice" 
+      ns="51.60530133" we="15.63560154" km="5" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na polnej drodze. Koryto przedzielone stalową, pionową szyną</opispunktu> 
+    </punkt>
+    <punkt id="6689" miejscowosc="Gościeszowice" 
+      ns="51.60449889" we="15.64090146" km="4.6" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z lewej strony tzw. Dopływu spod Gościeszowic. Poniżej gęste trzcinowiska, ale wody w korycie jest wystarczająco by swobodnie płynąć</opispunktu> 
+    </punkt>
+    <punkt id="6690" miejscowosc="Gościeszowice" 
+      ns="51.60374489" we="15.64144371" km="4.5" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na asfaltowej drodze, poprzedzony gęstym trzcinowiskiem. Możliwy, ale niezbyt wygodny dostęp do wody ze względu na podmokły teren, gęste trzcinowiska i sporą głębokość wody w tym miejscu. Przy wyższej wodzie tworzy się tu spore rozlewisko obejmujące okoliczne pola i łąłki. Poniżej mostu trzciny są znacząco rzadsze</opispunktu> 
+    </punkt>
+    <punkt id="6691" miejscowosc="Gościeszowice" 
+      ns="51.60219885" we="15.64298687" km="4.3" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na niewielki staw, często okupowany przez wędkarzy. Dobry dojazd i wygodne wodowanie, ale wędkarze niezbyt przyjaźni kajakarzom</opispunktu> 
+    </punkt>
+    <punkt id="6692" miejscowosc="Gościeszowice" 
+      ns="51.60133014" we="15.64381055" km="4.2" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Przed samym mostem na asfaltowej szosie stoi betonowa zastawka, utrzymująca poziom wody w stawie. W dniu spływu, zastawka była całkowicie przelana, można więc było pokonać ją górą, pomiędzy dwoma prowadnicami. Można też prowadnice ominąć z prawej lub lewej strony, wtedy w ogóle nie dotyka się do betonowej konstrukcji zastawki</opispunktu> 
+    </punkt>
+    <punkt id="6693" miejscowosc="Gościeszowice" 
+      ns="51.60118956" we="15.64396731" km="4.15" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej, asfaltowej drodze do Dzikowic</opispunktu> 
+    </punkt>
+    <punkt id="6694" miejscowosc="Gościeszowice" 
+      ns="51.60010102" we="15.64458283" km="4" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony uchodzi mało wyraźny tzw. Dopływ spod Niegosławic. Poniżej, rzeka rozlewa się poza koryto, pojawiają się zwałki i tamy bobrowe. Miejscami, koryto wyznacza jedynie szpaler starych dorodnych dębów</opispunktu> 
+    </punkt>
+    <punkt id="6695" miejscowosc="Gościeszowice" 
+      ns="51.59204626" we="15.64525672" km="3" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Sklepiony most kolejowy. Jest bardzo malowniczo, liczne powalone drzewa wprawdzie utrudniają spływ, ale dodają rzece uroku i charakteru</opispunktu> 
+    </punkt>
+    <punkt id="6696" miejscowosc="Sucha Dolna" 
+      ns="51.58905683" we="15.64671829" km="2.4" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy w lesie, całkowicie przelany, a ponad wodę wystaje jedynie betonowa obmurówka. Poniżej, w dalszym ciągu dominują zwałki i tamy bobrowe, piętrzące wodę na tyle, że czasami występują trudności ze znalezieniem koryta. Wysoki poziom wody sprawia, że większość przeszkód wygodnie jest pokonać górą i tylko jedno drzewo na całym odcinku należało obnieść</opispunktu> 
+    </punkt>
+    <punkt id="6697" miejscowosc="Sucha Dolna" 
+      ns="51.58532685" we="15.64673636" km="1.8" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Za jedną z tam bobrowych, na prawym brzegu otwiera się śródleśna łąka. Tuż nad wodą, postawiono stolik i ławki oraz tablicę informacyjną z nazwą rzeki. Jest to element ścieżki spacerowej, początek której znajduje się przy elektrowni Wiechlice, na rzece Szprotawie. Poniżej tego miejsca Sucha wraca do koryta i dalej płynie już w jego obrębie, chociaż po drodze spiętrzona jest jeszcze jedną bobrową tamą</opispunktu> 
+    </punkt>
+    <punkt id="6698" miejscowosc="Sucha Dolna" 
+      ns="51.58117571" we="15.64441972" km="1.1" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wyraźny, bezimienny dopływ z prawej strony, o mlecznej barwie wody, co wyraźnie kontrastuje z krystaliczną wodą Suchej. Rzeka wypływa z lasu, a więc pojawiają się też trzciny. Dalej, prostym kanałem przepływa obok charakterystycznej stacji gazowej, zlokalizowanej na prawym brzegu</opispunktu> 
+    </punkt>
+    <punkt id="6699" miejscowosc="Sucha Dolna" 
+      ns="51.57438784" we="15.65036679" km="0.2" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na asfaltowej drodze pomiędzy Niegosławicami a Szprotawą. Ze względu na dobry dojazd, można tu kończyć etap lub kontynuować spływ wypływając na rzekę Szprotawę</opispunktu> 
+    </punkt>
+    <punkt id="6700" miejscowosc="Sucha Dolna" 
+      ns="51.57262547" we="15.65035349" km="0" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Suchej do Szprotawy. Spływ skończyć można w Cieciszowie, gdzie przed mostem na lewym brzegu znajduje się przystań i miejsce na samochody</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

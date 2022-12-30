@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="141" nazwa="Mołstowa" wersja="1">
+<opis>Lewy dopływ Regi. Płynie głównie przez obszary leśne, dzięki czemu w przeważającej części posiada charakter rzeki zwałkowej. W górnym odcinku praktycznie niedostępna z lądu w przypadku sytuacji awaryjnych, a brak zasięgu GSM nie ułatwia sytuacji. Od Berkanowa do Rzesznikowa, w zależności od poziomu wody, rzeka jest wymagająca i uciążliwa, wyłącznie dla koneserów gatunku. Na odcinku tym nie ma praktycznie możliwości zakończenia spływu z wygodnym i oficjalnym dojazdem po kajaki. Ten fragment rzeki jest całkowicie dziki, nieuregulowany, kręty, ze sporą ilością drewna w korycie zmuszającego do ciągłego pokonywania przeszkód. Brzegi są zabagnione, porośnięte gęstą roślinnością, a drogi w pobliżu rzeki to drogi leśne, na przejazd którymi należy uzyskać zezwolenie. Poniżej Rzesznikowa płynie się znacznie łatwiej, drewna w rzece jest zauważalnie mniej, pojawiają się za to przenoski przez jazy. Jest znacznie więcej możliwości odebrania kajaków z rzeki. Na Mołstowej nie ma wodowskazów, najbliższy znajduje się w Resku na Redze. Opis sporządzono w 2017 roku dla warunków podwyższonych stanów w dorzeczu Regi (intensywne opady), a wodowskaz ten wskazywał wówczas poziom pomiędzy 370 a 394. Przy tych stanach wody odcinek z Berkanowa do Międzyrzecka zajmuje około 3-4 h, z Międzyrzecka do Rzesznikowa około 8-9 h, natomiast z Rzesznikowa do ujścia do Regi około 6 h</opis> 
+    <punkt id="4890" miejscowosc="Berkanowo" 
+      ns="53.81713072" we="15.55671645" km="51.8" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Wygodne miejsce startu spływu ze śródleśnej polany. 3 przęsłowy jaz o konstrukcji betonowej ramy i wysokości około 1,5 m. Przy wyższych stanach wody możliwe jest spłynięcie jazu, poniżej jednak tworzy się wówczas niewielki odwój. Najwygodniej jest spływać środkowym przęsłem, wcześniej schylając się pod drewnianą kładką.</opispunktu> 
+    </punkt>
+    <punkt id="4891" miejscowosc="Berkanowo" 
+      ns="53.82857703" we="15.56111929" km="49.4" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Stalowe druty - pastuchy elektryczne poprowadzone nisko nad taflą wody</opispunktu> 
+    </punkt>
+    <punkt id="4892" miejscowosc="Międzyrzecko" 
+      ns="53.8504257" we="15.55007201" km="43.9" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek za leśniczówką na drodze leśnej pomiędzy miejscowościami Międzyrzecze i Iglice, wygodne miejsce dostępu do wody</opispunktu> 
+    </punkt>
+    <punkt id="4893" miejscowosc="Międzyrzecko" 
+      ns="53.85143155" we="15.54839316" km="43.7" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z prawej strony rzeczki Podleśna. W odległości kilkuset metrów od tego miejsca znajduje się Dom Myśliwski SOKOŁÓWKA Koła Łowieckiego SOKÓŁ w Świdwinie.</opispunktu> 
+    </punkt>
+    <punkt id="4894" miejscowosc="Międzyrzecze" 
+      ns="53.87104395" we="15.53754076" km="39.7" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście potoku Leźnica</opispunktu> 
+    </punkt>
+    <punkt id="4895" miejscowosc="Powalice" 
+      ns="53.88045144" we="15.53179332" km="37.4" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany most na leśnej drodze, dojazd pożarowy nr 15</opispunktu> 
+    </punkt>
+    <punkt id="4896" miejscowosc="Powalice" 
+      ns="53.89194099" we="15.53063646" km="35.3" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony wpada rzeka Czernica znacznie poprawiając stosunki wodne</opispunktu> 
+    </punkt>
+    <punkt id="4897" miejscowosc="Powalice" 
+      ns="53.89555606" we="15.52764229" km="34.6" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Przebudowa mostu na leśnej drodze - dojazd pożarowy nr 16 w pobliżu skrzyżowania z dojazdem pożarowym nr 14 (występują różnice w oznakowaniu w terenie i na mapach)</opispunktu> 
+    </punkt>
+    <punkt id="4898" miejscowosc="Rzesznikowo" 
+      ns="53.92705399" we="15.48231568" km="25.4" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z prawej rzeki Rzecznica</opispunktu> 
+    </punkt>
+    <punkt id="4899" miejscowosc="Rzesznikowo" 
+      ns="53.92653879" we="15.48021198" km="25.3" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most nieczynej linii kolejowej, ścieżka rowerowa</opispunktu> 
+    </punkt>
+    <punkt id="4900" miejscowosc="Rzesznikowo" 
+      ns="53.92763434" we="15.48004484" km="25.1" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi nr 6 Szczecin - Koszalin. Bardzo wygodne miejsce wodowania. Trawiasty brzeg w bezpośrednim sąsiedztwie dużego parkingu z nieograniczoną ilością miejsca na samochody. Na parkingu znajduje się również mały sklep spożywczy. Od tego miejsca rzeka, choć w dalszym ciągu miejscami zwałkowa, nie jest już tak mocno uciążliwa, a niektóre odcinki są uregulowane</opispunktu> 
+    </punkt>
+    <punkt id="4901" miejscowosc="Rzesznikowo " 
+      ns="53.93296016" we="15.47899959" km="24.4" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz małej elektrowni wodnej</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Krótka przenoska prawym brzegiem po trawie</opispunktu> 
+    </punkt>
+    <punkt id="4902" miejscowosc="Grąd" 
+      ns="53.95472023" we="15.4397678" km="19.4" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy pomiędzy Kiełpinem a Starninem</opispunktu> 
+    </punkt>
+    <punkt id="4903" miejscowosc="Grąd" 
+      ns="53.95442247" we="15.41974323" km="17.4" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy - nieczynna zastawka </opispunktu> 
+    </punkt>
+    <punkt id="4904" miejscowosc="Grąd " 
+      ns="53.95529846" we="15.41934027" km="17.3" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz małej elektrowni wodnej</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Wygodna 30 metrowa przenoska prawym brzegiem po trawie</opispunktu> 
+    </punkt>
+    <punkt id="4905" miejscowosc="Grąd" 
+      ns="53.95655867" we="15.41400564" km="16.6" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Przepust rurowy przy budowie drogi S6</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Niewygodna krótka przenoska na drugą stronę przepustu</opispunktu> 
+    </punkt>
+    <punkt id="4906" miejscowosc="Grąd" 
+      ns="53.95507087" we="15.41011392" km="16.2" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski most</opispunktu> 
+    </punkt>
+    <punkt id="4907" miejscowosc="Brojce" 
+      ns="53.95935065" we="15.37183902" km="11.8" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy miejscowościami Brojce i Strzykocin, zaraz za nim po lewej zabudowania nieczynnego młyna</opispunktu> 
+    </punkt>
+    <punkt id="4908" miejscowosc="Brojce" 
+      ns="53.9608847" we="15.37095746" km="11.6" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most nieczynnej linii kolejowej</opispunktu> 
+    </punkt>
+    <punkt id="4909" miejscowosc="Mołstówko" 
+      ns="53.98560451" we="15.36360273" km="7.9" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz przy stawach hodowlanych</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Wygodna krótka przenoska lewą stroną po trawie </opispunktu> 
+    </punkt>
+    <punkt id="4910" miejscowosc="Mołstówko" 
+      ns="53.98715068" we="15.36328938" km="7.7" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy miejscowościami Mołstowo, Strzykocin i Dargosław</opispunktu> 
+    </punkt>
+    <punkt id="4911" miejscowosc="Bielikowo" 
+      ns="53.99312196" we="15.31364296" km="2" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze z Bielikowa do Żukowa, pod nim małe bystrze. Jest to ostatnie miejsce z możliwością podjęcia kajaków z wody przed wpłynięciem na Regę</opispunktu> 
+    </punkt>
+    <punkt id="4912" miejscowosc="Bielikowo" 
+      ns="53.99200855" we="15.31202141" km="1.8" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Otwarta zastawka</opispunktu> 
+    </punkt>
+    <punkt id="4913" miejscowosc="Bielikowo" 
+      ns="53.98652299" we="15.29395014" km="0" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Mołstowej (Mołstowy) do Regi. Najbliższe wygodne miejsce podjęcia kajaków z wody znajduje się przy prywatnej przystani w Kłodkowie, 45 min w dół Regi</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="100" nazwa="Gremzdówka" wersja="1">
+<opis>Niewielka rzeczka w północno-wschodniej Polsce, lewy dopływ Czarnej Hańczy. Stanowi przyjemną jednodniową alternatywę dla przeludnionego i monotonnego spływu Hańczą. Szlak jest krótki ale za to urozmaicony. Rzeka płynie przez kilka połączonych ze sobą jezior, na odcinku leśnym kręci się pomiędzy przewróconymi do wody drzewami, złapiemy też do kajaka trochę pająków podczas forsowania wstępnego trzcinowiska. 
+Jak twierdzą miejscowi, Gremzdówka bardzo rzadko użytkowana jest przez kajakarzy. Być może wynika to z faktu, że już samo zlokalizowanie ujścia Gremzdówki do Czarnej Hańczy od strony Hańczy jest stosunkowo trudne i niejednoznaczne. Drugim powodem jest fakt prowadzenia przez rzekę zazwyczaj zbyt małej ilości wody. Nasz spływ (sierpień 2011) odbył się po intensywnych opadach deszczu oraz przy wysokim stanie wody na Czarnej Hańczy.
+Gremzówka prowadzi wody barwy brunatnej, podobno jest to efektem obecności na obszarze który odwadnia, licznych torfowisk i pokładów rudy darniowej.
+Opis szlaku sporządzony jest "z góry w dół" do ujścia, leniwy nurt rzeki pozwala jednak na bezproblemowe wpływanie pod prąd od strony Czarnej Hańczy.</opis> 
+  <odcinek id="426" typ="mieszany" nazwa="Jeziora" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Odcinek prowadzący przez kilka jezior połączonych ze sobą krótkimi odcinkami rzeczki. Miejscami gęsta roślinność wodna utrudniająca wiosłowanie.</opis>
+    <punkt id="3554" miejscowosc="Głuszyn" 
+      ns="54.07049594" we="23.22710814" km="5.3" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ z jeziora Gremzdy</opispunktu> 
+    </punkt>
+    <punkt id="3553" miejscowosc="Bursynowizna" 
+      ns="54.09206117" we="23.19435556" km="8.4" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Północny kraniec jeziora Gremzdy</opispunktu> 
+    </punkt>
+    <punkt id="3555" miejscowosc="Głuszyn" 
+      ns="54.06829715" we="23.23322545" km="4.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ na jezioro Głuche</opispunktu> 
+    </punkt>
+    <punkt id="3556" miejscowosc="Jeziorki" 
+      ns="54.06232656" we="23.23611104" km="3.9" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ z jeziora Głuchego</opispunktu> 
+    </punkt>
+    <punkt id="3557" miejscowosc="Jeziorki" 
+      ns="54.05989426" we="23.23041788" km="3.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ na jezioro Jurkowo</opispunktu> 
+    </punkt>
+    <punkt id="3558" miejscowosc="Jeziorki" 
+      ns="54.05457479" we="23.22970479" km="2.5" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ z jeziora Jurkowo</opispunktu> 
+    </punkt>
+    <punkt id="3559" miejscowosc="Jeziorki" 
+      ns="54.0526014" we="23.22937178" km="2.3" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wpływ na jezioro Kociołek</opispunktu> 
+    </punkt>
+    <punkt id="3560" miejscowosc="Jeziorki" 
+      ns="54.05110424" we="23.23059176" km="" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Przepływ na jezioro Płaskie</opispunktu> 
+    </punkt>
+    <punkt id="3561" miejscowosc="Jeziorki" 
+      ns="54.04512015" we="23.22657818" km="" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe na skraju Wigierskiego Parku Narodowego. Wygodny dojazd, sklep na miejscu (w razie potrzeb wykraczających poza ofertę sklepu, możliwość dowozu na zamówienie), pokoje, domki kempingowe, ciepła woda, sauna, kuchnia, boisko do siatkówki, ognisko, huśtawki dla dzieci, bardzo miły gospodarz Pan Krzysztof i... poza nim "żywego ducha".
+Kontakt: "BeJot" Milewscy, Pogorzelec 28, 16-506 Giby, tel 087 516-54-08, 504 418-429.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep na polu biwakowym</opispunktu> 
+    </punkt>
+    <punkt id="3562" miejscowosc="Jeziorki" 
+      ns="54.0517121" we="23.22889738" km="2.2" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ z jeziora Kociołek</opispunktu> 
+    </punkt>
+    <punkt id="3563" miejscowosc="Jeziorki" 
+      ns="54.05075671" we="23.22566073" km="1.9" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ na jezioro Miałkie</opispunktu> 
+    </punkt>
+    <punkt id="3564" miejscowosc="Gremzdówka" 
+      ns="54.04866468" we="23.22002433" km="1.5" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ z jeziora Miałkiego</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="427" typ="rzeka" nazwa="Rzeka" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Odcinek rzeczny. Ciek wije się przez podtopiony las, końcowe kilkaset metrów przed wypłynięciem na Czarną Hańczę gęste trzcinowiska.</opis>
+    <punkt id="3565" miejscowosc="Gremzdówka" 
+      ns="54.04720597" we="23.21738875" km="1.3" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="3566" miejscowosc="Gremzdówka" 
+      ns="54.04639418" we="23.20133978" km="0" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Gremzdówki do Czarnej Hańczy</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="5" nazwa="Korytnica" wersja="8">
+<opis>Korytnica jest ciekawą alternatywą dla odcinka DPN (Drawieńskiego Parku Narodowego) Drawy, ze względu na nieco mniejsze obciążenie spływami komercyjnymi. Nieźle nadaje się na weekendowy wypad, chociaż osobiście wolę opcje z 2-ma biwakami na trasie. Jest dość uciążliwa, szczególnie w dolnym biegu (za drugim biwakiem przy pstrągarni), sporo drzew leżących w korycie rzeki oraz szybki nurt (jak na rzekę nizinną).
+Aktualnie (sierpień 2016) jest już mocno "dostosowana" do spływów komercyjnych i jej uciążliwość znacznie spadła. Płynąc dużym kajakiem z bagażami można przepłynąć cały szlak w 1 dzień tylko dwukrotnie wysiadając na zwalonych drzewach (nie licząc stałych przenosek na sztucznych progach).
+Rzeka prowadzi organoleptycznie czystą wodę na całej swej długości. Wyjątek stanowi jezioro Nowa Korytnica, w którym woda jest mętna.
+Dostępna jest na odcinku prawie 28 km przez cały rok, a jej roczne wahania poziomu wody, wg opisów na tablicach informacyjnych, wynoszą zaledwie 15 cm.</opis> 
+  <odcinek id="64" typ="rzeka" nazwa="Korytnica (ładny kawałek)" 
+      uciazliwosc="U3" trudnosc="ZWC" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Rzeka meandruje przez tereny podmokłe i bagniska - płynie się dłużej niż wynika to z kilometrażu  /widać ten odcinek na mapie/.
+Po zakończeniu mokradeł rozpoczyna się /przenoską przez zwalone drzewo; po prawej najpiękniejszy biwak na trasie, choć może on prowadzić do konfliktów z leśniczym/ najpiękniejszy odcinek rzeki, prowadzący lasami aż do gospodarstwa rybnego w Jaźwinach, gdzie rzeczka jest poważnie zaśmiecona a woda niepokojąco się pieni.... </opis>
+    <punkt id="267" miejscowosc="Sówka" 
+      ns="53.16179612" we="15.90885668" km="4.5" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz spiętrzający wodę dla gospodarstwa rybnego</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">ŚLICZNY biwaczek po lewej: trawka wystrzyżona jak na polu golfowym. Jest kilka zadaszeń miejsce na ognisko i nawet klop leśny :-) (nie korzystałem ale słyszałem że w miarę czysty). Z biwaczku można przejść się przez mostek do gospodarstwa rybnego i nabyć pstrąga na ognisko. Po prawej też jest kilka zabudowań, mieszka tam leśniczy i do niego należy zwrócić sie z pytaniem czy można rozbić się na biwaczku</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewą stroną po slipie</opispunktu> 
+    </punkt>
+    <punkt id="266" miejscowosc="Sówka" 
+      ns="53.16225175" we="15.9099537" km="4.6" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski most betonowy przed zastawką spiętrzającą wodę dla gospodartwa rybnego (hodowla pstrąga). Parę metrów przed mostkiem jest fajny biwak po lewej stronie.</opispunktu> 
+    </punkt>
+    <punkt id="265" miejscowosc="Sówka" 
+      ns="53.17554899" we="15.93939662" km="7.9" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pozostałości drewnianiego mostku w postaci rzędów pali</opispunktu> 
+    </punkt>
+    <punkt id="3003" miejscowosc="Nowa Korytnica" 
+      ns="53.20871652" we="15.97192936" km="14" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu pole namiotowe prowadzone przez Lasy Państwowe - płatne ale są zadaszenia, ławki, ognisko oraz pomost (wg informacji przekazanej przez r6591@op.pl w dniu 01.08.2010).</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="34" typ="mieszany" nazwa="Korytnica" 
+      uciazliwosc="U4" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Malowniczość: górny odcinek: średnio, płynie się pośród łąk (no i co jakiś czas zastawki przerywają leniwą kontemplację), środkowy odcinek (las i jeziora do 1-go biwaku): ładnie i żadnych siedzib ludzkich; środkowy odcinek (od 1-go biwaku do pstrągarni) bardzo ładny; dolny odcinek od pstrągarni do "Bogdanki" bardzo ładny, miejscami śliczny.</opis>
+    <punkt id="275" miejscowosc="Bogdanka" 
+      ns="53.14490133" we="15.87440759" km="0" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak Bogdanka na terenie DPN, po prawej stronie. Biwak płatny (niestety nie można zapłacić na biwaku należy wykonać to w Drawnie w stanicy DPN (przy moście w Drawnie)</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Korytnicy do Drawy</opispunktu> 
+    </punkt>
+    <punkt id="274" miejscowosc="Bogdanka" 
+      ns="53.14569612" we="15.87692732" km="0.2" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most 2 minuty przed biwakiem Bogdanka i ujściem Korytnicy do Drawy</opispunktu> 
+    </punkt>
+    <punkt id="273" miejscowosc="Jaźwiny" 
+      ns="53.15415743" we="15.8836187" km="1.7" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, za nim zaczyna się krótki ale dziki odcinek rzeki z kilkoma drzewami leżącymi w korycie</opispunktu> 
+    </punkt>
+    <punkt id="271" miejscowosc="Jaźwiny" 
+      ns="53.15402602" we="15.88345386" km="0" etykieta="" 
+      kolejnosc=""> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska po lewej stronie około 100 m (ale ciągnie się sprzęt z górki). O wiele krótsza przenoska jest wówczas gdy przed młynem na rozlewisku nie popłynie się w lewo (a właściwie nieomal prosto), tylko w prawo do śluzy młyńskiej i przeniesie prawym brzegiem (a właściwie pociągnie kajak w dół) ok. 20 może 25 metrów.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">We wsi Jaźwiny jest jaz spiętrzający wodę na potrzeby młyna (może to teraz jest elektrownia wodna lub młyn jest nieczynny - w sobotę 10.09.2011 r. nie pracował). </opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przed jazem jest rozlewisko dość zamulone (dno wygląda ładnie ale jak wysiadłem to miałem poważne problemy żeby wdrapać się do kajaka, w kilka sekund zapadłem się około metra, strasznie bulgotało przy tym, miałem troszkę problemów z wyjściem, skończyło sie na wyłażeniu po 2 jedynkach). Więc nie polecam wysiadania :-)</opispunktu> 
+    </punkt>
+    <punkt id="263" miejscowosc="Nowa Korytnica" 
+      ns="53.20866479" we="15.96862958" km="13.9" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce postojowe z ławkami, wiatami, pomostem i slipem, wyraźnie oznakowane zakazem biwakowania. Dobry dojazd dla samochodów. Miejsce mocno eksploatowane przez spływy komercyjne, od tego miejsca na rzece robi się ciasno i głośno</opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Korytnicy z jeziora Nowa Korytnica. Rzeka w tym miejscu często jest bardzo zarośnięta trzcinami - trzeba się przedzierać, co jest dość uciążliwe i czasochłonne.
+</opispunktu> 
+    </punkt>
+    <punkt id="262" miejscowosc="Nowa Korytnica" 
+      ns="53.21712" we="15.98238" km="15" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwaczek na jeziorem Nowa Korytnica. Po prawej stronie mniej więcej za połową jeziora. Należy minąć 2 cypelki, pomiędzy nimi obozowisko harcerzy (przynajmniej latem 2001). Biwaczek jest niezły, są stoliczki, miejsce na ognisko, niestety nie ma zadaszenia i najwyraźniej nigdy nie było</opispunktu> 
+    </punkt>
+    <punkt id="261" miejscowosc="Nowa Korytnica" 
+      ns="53.22476981" we="15.99874077" km="16.7" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Korytnicy do jeziora Nowa Korytnica. Woda staje się mętna</opispunktu> 
+    </punkt>
+    <punkt id="259" miejscowosc="Brodźce" 
+      ns="53.22524" we="15.99896" km="0" etykieta="" 
+      kolejnosc=""> 
+    <opispunktu typ="most" kolejnosc="-1">Zniszczony niski mostek. 
+Wg informacji uzyskanych od "r6591@op.pl": "na 8,6 nie ma już mostku i można przepłynąć bez problemów"</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Niestety trzeba przenosić po lewej stronie (20 metrów) przy niskim stanie wody dałoby się przepłynąć......
+Wg informacji uzyskanych od "r6591@op.pl": "przenoska nie aktualna, płynąłem 01.08.2010"</opispunktu> 
+    </punkt>
+    <punkt id="258" miejscowosc="Nowa Studnica" 
+      ns="53.24528073" we="16.00734859" km="19.7" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most kolejowy, za nim spore rozlewiska</opispunktu> 
+    </punkt>
+    <punkt id="257" miejscowosc="Nowa Studnica" 
+      ns="53.24783174" we="16.00808708" km="20.1" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Korytnicy z jeziora Studnickiego</opispunktu> 
+    </punkt>
+    <punkt id="256" miejscowosc="Nowa Studnica" 
+      ns="53.25101207" we="16.0136625" km="20.6" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Korytnicy do jeziora Studnickiego. Jeziorko bardziej przypomina zarośnięte rozlewisko.
+Wg różnych informacji jeziorko podobno jest mocno zamulone. W sierpniu 2016 nie było</opispunktu> 
+    </punkt>
+    <punkt id="255" miejscowosc="Nowa Studnica" 
+      ns="53.25565237" we="16.01922733" km="21.4" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Za mostem po lewej stronie znajduje się łąka z dostępem do wody. Być może da się na niej zabiwakować</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze. Po lewej jest wieś Nowa Studnica, nie widać jej ale tak wynika z mapy. Nie byłem, ale z tego co się orientuję to nic w niej nie ma (sklepu itd.).</opispunktu> 
+    </punkt>
+    <punkt id="254" miejscowosc="Bralin" 
+      ns="53.26392162" we="16.02677568" km="22.5" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po lewej duża łąka z dobrym dojściem do wody, na ostrym zakręcie rzeki w prawo. Być może jest tu możliwość zabiwakowania na dziko</opispunktu> 
+    </punkt>
+    <punkt id="253" miejscowosc="Karwiagać" 
+      ns="53.27376104" we="16.03735278" km="24" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na leśnej drodze. 5 minut dalej pierwsze i jedyne drzewo na górnym odcinku (sierpień 2016) wymagające "gimnastyki"</opispunktu> 
+    </punkt>
+    <punkt id="252" miejscowosc="Karwiagać" 
+      ns="53.2823699" we="16.03669547" km="25.1" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany zawalony mostek, kładka. Za jakiś czas (około 10-15 minut) zacznie się odcinek leśny</opispunktu> 
+    </punkt>
+    <punkt id="251" miejscowosc="Karwiagać" 
+      ns="53.28310912" we="16.03648633" km="25.2" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Trzecia zastawka, w sierpniu 2016 otwarta. Za nią niewielkie bystrze</opispunktu> 
+    </punkt>
+    <punkt id="250" miejscowosc="Stara Korytnica" 
+      ns="53.28788682" we="16.03766632" km="25.9" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Druga zastawka, w sierpniu 2016 była otwarta</opispunktu> 
+    </punkt>
+    <punkt id="249" miejscowosc="Stara Korytnica" 
+      ns="53.29094403" we="16.03297848" km="26.4" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Nie jest to od razu "jaz", w zasadzie "jazik" lub jak kto woli zastawka. Malutka (typowa dla melioracji) około 1 m wysokości. Niestety nad jazikiem jest kładka i prześwit pomiędzy kładką a lustrem wody wynosi koło 50 cm, (ciężko się zmieścić) więc nie polecam skakania -&gt; można sobie rozbić łepetynę. Za jazikiem jest tylko 40-50 cm wody i dno z betonowych płyt :-). Przenoska około 15m, stroną dowolną (zależy od wysokości pokrzyw, ostów i ewentualnie wydeptanej ścieżki).
+W sierpniu 2016 zastawka była otwarta i przepłynięcie nie stanowiło problemu</opispunktu> 
+    </punkt>
+    <punkt id="248" miejscowosc="Stara Korytnica" 
+      ns="53.29437066" we="16.03643045" km="26.9" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Takie sobie hm.... malutkie spiętrzenie (nie jest to ani zastawka ani bystrze): kilka pniaczków, troszkę kamieni ale bardzo początkujący przezywali :-). Można powiedzieć że pierwsza marna namiastka atrakcji :-)
+Bród przez rzekę a za nim niewielki kamienny prożek.</opispunktu> 
+    </punkt>
+    <punkt id="247" miejscowosc="Stara Korytnica" 
+      ns="53.29834415" we="16.04034975" km="27.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Mały pomost (drewniany) około 500 m za wsią Stara Korytnica po prawej stronie. Łąka i miejsce parkingowe wykorzystywane przez prywatną firmę organizującą spływy. Wygodne miejsce na rozpoczęcie spływu</opispunktu> 
+    </punkt>
+  </odcinek>
+    <punkt id="4639" miejscowosc="Jaźwiny" 
+      ns="53.15437734" we="15.88474257" km="1.8" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz spiętrzający wodę na potrzeby elektrowni lub młyna</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Oznakowana przenoska po prawej stronie około 30 m po slipie</opispunktu> 
+    </punkt>
+    <punkt id="4638" miejscowosc="Sówka" 
+      ns="53.16131894" we="15.90855233" km="4.4" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="bar" kolejnosc="-1">Bar przy samej rzece po prawej stronie</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Poniżej kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="4637" miejscowosc="Nowa Korytnica" 
+      ns="53.20828932" we="15.96821855" km="13.8" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy a za nim spore rozlewiska i trzcinowiska. Duża ilość roślinności wodnej sprawia, że woda stopniowo odzyskuje klarowność</opispunktu> 
+    </punkt>
+    <punkt id="4636" miejscowosc="Stara Korytnica" 
+      ns="53.30144061" we="16.04257221" km="27.9" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy nieczynnym młynie. Wygodne miejsce rozpoczęcia spływu</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Powyżej mostu jest spora łąka z miejscem na ognisko, rodzaj dzikiego, nieoznakowanego pola biwakowego. Wygniecenia na trawie świadczą o wykorzystywaniu tego miejsca pod namioty</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Poniżej mostu znajduje się niewielki prożek ale wąski i chlapiący. Zwodować można się tuż za nim po lewej stronie, chociaż miejsce to jest mocno podmokłe</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

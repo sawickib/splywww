@@ -1,0 +1,60 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.51905656" lon="22.99576129">
+<name>17.40</name>
+<desc>Most drogowy, poniżej rzeka płytka, wąska i kręta</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.51513619" lon="22.99154140">
+<name>16.70</name>
+<desc>Początek rezerwatu "Szum" - odcinek wyłączony dla spływów kajakowych. W korycie rzeki liczne progi i powalone drzewa</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.51057935" lon="22.98939252">
+<name>16.00</name>
+<desc>Ujście z lewej potoku Świrek albo Świerk (w zależności od mapy)</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.50697925" lon="22.97529218">
+<name>14.60</name>
+<desc>Zapora oraz prywatna elektrownia wodna</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.50608908" lon="22.97318004">
+<name>14.40</name>
+<desc>Podwójny betonowy przepust pod drogą, o przekroju kwadratu</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.50017660" lon="22.96694537">
+<name>13.10</name>
+<desc>Dreniana kładka przez rzekę w pobliżu ładnego, drewnianego, zabytkowego kościółka - kaplicy. W pobliżu źródeło z czystą wodą</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.48749829" lon="22.95286474">
+<name>10.80</name>
+<desc>Łukowaty, obszerny przepust pod drogą do miejscowości Dąbrowa</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.48051170" lon="22.95015792">
+<name>10.00</name>
+<desc>Polana po prawej stronie jeziora. Wygodny dostęp do wody i dojazd od strony drogi</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="50.47996408" lon="22.95087028">
+<name>9.90</name>
+<desc>Podwójny kamienny próg piętrzący wodę w jeziorze, o wysokości około 4 m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.41541606" lon="22.92485671">
+<name>0.00</name>
+<desc>Ujście Szumu do Tanwi</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

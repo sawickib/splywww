@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="61" nazwa="Wisła" wersja="10">
+<opis>"Szara, zapuszczona Wisła jest drogą do Bałtyku. Nie znajdzie tu wędrowiec emocyj sportowych, pozna zato Wisłę, spinającą niby klamrą kraj cały od gór po morze!" - pisał Heinrich w swoim przewodniku. Trudno się z tym nie zgodzić, bo rzeka ta swoją wielkością nie ma sobie równej i pływanie nią to doświadczenie jedyne w swoim rodzaju. Wrażeń jednak też nie zabraknie, bo z pozoru powolna i majestatyczna Wisła, czasem może zamienić się w trudny akwen. Rozlewiska, płycizny, samotne wyspy, strome brzegi tworzą niezapomniany klimat tej pięknej rzeki.</opis> 
+  <odcinek id="230" typ="rzeka" nazwa="Wisła od Puław do Kozienic [57,3 km]" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="pozaKL" 
+      kolejnosc="7"> 
+  <opis>Jeden z bardziej malowniczych odcinków Wisły. Szczególnie za Dęblinem szerokość przekracza niejednokrotnie 1 km, a w nurcie występuje wiele wysp, wysepek i piaszczystych łach. Wybierając drogę płynięcia należy się kierować oznaczeniami w postaci wbitych tyczek. Często zdarza się że trzeba płynąć po kilkaset metrów w poprzek, z jednego brzegu na drugi.</opis>
+    <punkt id="2172" miejscowosc="Warszawa" 
+      ns="52.2113" we="21.1008" km="506" etykieta="" 
+      kolejnosc="92"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Port w stanicy Warszawski Klub Wodniaków PTTK.</opispunktu> 
+    </punkt>
+    <punkt id="2171" miejscowosc="Siekierki LB" 
+      ns="52.1917" we="21.1043" km="504.2" etykieta="" 
+      kolejnosc="91"> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Betonowe nabrzeże przy elektrociepłowni.</opispunktu> 
+    </punkt>
+    <punkt id="2170" miejscowosc="Kępa Zawadowska LB" 
+      ns="52.1517" we="21.1551" km="499.5" etykieta="" 
+      kolejnosc="90"> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Uwaga na pracujące i zakotwiczone barki i pogłębiarki.</opispunktu> 
+    </punkt>
+    <punkt id="2169" miejscowosc="Oborki LB" 
+      ns="52.1221" we="21.1752" km="494" etykieta="" 
+      kolejnosc="89"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej stronie ujście Jeziorki. Widoczne zabudowania Warszawy i kominy EC Siekierki.</opispunktu> 
+    </punkt>
+    <punkt id="2168" miejscowosc="Świdry Wielkie PB" 
+      ns="52.0999" we="21.2147" km="490" etykieta="" 
+      kolejnosc="88"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Świdra. Rzeka ma długość ok. 85 kilometrów. Szlak dostępny jest dla kajaków.</opispunktu> 
+    </punkt>
+    <punkt id="2167" miejscowosc="Gassy LB" 
+      ns="52.0785" we="21.2098" km="488" etykieta="" 
+      kolejnosc="87"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po obu stronach rzeki umocnione nabrzeże.</opispunktu> 
+    </punkt>
+    <punkt id="2166" miejscowosc="Glinki PB" 
+      ns="51.9972" we="21.224" km="477" etykieta="" 
+      kolejnosc="86"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="2165" miejscowosc="Góra Kalwaria" 
+      ns="51.991" we="21.2287" km="476.6" etykieta="" 
+      kolejnosc="85"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej stronie wpływ do portu rzecznego.</opispunktu> 
+    </punkt>
+    <punkt id="2164" miejscowosc="Góra Kalwaria LB" 
+      ns="51.9906" we="21.2347" km="476.2" etykieta="" 
+      kolejnosc="84"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w Góry Kalwarii.</opispunktu> 
+    </punkt>
+    <punkt id="2163" miejscowosc="Góra Kalwaria" 
+      ns="51.9868" we="21.242" km="474" etykieta="" 
+      kolejnosc="83"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Umocnione brzegi po obu stronach rzeki.</opispunktu> 
+    </punkt>
+    <punkt id="2162" miejscowosc="Ostrówik LB" 
+      ns="51.937" we="21.265" km="467" etykieta="" 
+      kolejnosc="82"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po lewej stronie widoczne ruiny zamku w Czersku.</opispunktu> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Na wysokości nadbrzeżnych umocnień pływają motorówki i skutery wodne.</opispunktu> 
+    </punkt>
+    <punkt id="2161" miejscowosc="Mniszew LB" 
+      ns="51.8612" we="21.2799" km="457" etykieta="" 
+      kolejnosc="81"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej stronie ujście rzeki Pilicy. Pilica jest najdłuższym lewym dopływem Wisły (dł. 342 km). Pilica jest łatwym szlakiem kajakowym, zarówno powyżej Zalewu Sulejowskiego i jak również w dolnym odcinku.</opispunktu> 
+    </punkt>
+    <punkt id="2160" miejscowosc="Mniszew LB" 
+      ns="51.8503" we="21.2896" km="455" etykieta="" 
+      kolejnosc="80"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Ok. kilometr do miejscowości Mniszew.</opispunktu> 
+    </punkt>
+    <punkt id="2159" miejscowosc="" 
+      ns="51.8354" we="21.3528" km="451" etykieta="" 
+      kolejnosc="79"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na prawym brzegu ujście rzeki Wilgi.</opispunktu> 
+    </punkt>
+    <punkt id="2158" miejscowosc="Holendry PB" 
+      ns="51.8275" we="21.3609" km="450" etykieta="" 
+      kolejnosc="78"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Wysoka kępa porośnięta lasem, dobrze nadaje się na biwak osłonięty przed wiatrem.</opispunktu> 
+    </punkt>
+    <punkt id="2157" miejscowosc="Tarnów PB" 
+      ns="51.7901" we="21.4326" km="443" etykieta="" 
+      kolejnosc="77"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep znajduje się w sąsiedniej wsi ok. 3 km.</opispunktu> 
+    </punkt>
+    <punkt id="2156" miejscowosc="Tarnów PB" 
+      ns="51.7744" we="21.4437" km="441" etykieta="" 
+      kolejnosc="76"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej stronie ujście Promnika. Rzeka ma charakter górski o średnim spadku 3,5 promila. Szlak jest dostępny dla kajaków przy wiosennej wysokiej wodzie od mostu kolejowego Piława Dęblin.</opispunktu> 
+    </punkt>
+    <punkt id="2155" miejscowosc="Kłoda LB" 
+      ns="51.7091" we="21.4351" km="431.2" etykieta="" 
+      kolejnosc="75"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Radomki. Okolica słabo zaludniona i jest problem ze znalezieniem sklepu. Prawdopodobnie znajduje się w Ryczywole tj. 3,5 km w górę Radomki.</opispunktu> 
+    </punkt>
+    <punkt id="2154" miejscowosc="Kozienice LB" 
+      ns="51.6652" we="21.472" km="425.5" etykieta="" 
+      kolejnosc="74"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu Elektrownia Kozienice, największa w Polsce elektrownia opalana węglem kamiennym o mocy 2,8 GW.</opispunktu> 
+    </punkt>
+    <punkt id="2153" miejscowosc="Dęblin PB" 
+      ns="51.5674" we="21.8053" km="395.1" etykieta="" 
+      kolejnosc="73"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Półtora kilometra za mostem w Dęblinie rozpoczyna się odcinek z licznymi wyspami, łachami i rozgałęzieniami nurtu Wisły. Bardzo łatwo znaleźć tu bezpieczny biwak, z dużą ilością drewna, na którym jedynymi nieproszonymi gośćmi mogą być dzikie zwierzęta.</opispunktu> 
+    </punkt>
+    <punkt id="2152" miejscowosc="Dęblin PB" 
+      ns="51.5596" we="21.8269" km="393.4" etykieta="" 
+      kolejnosc="72"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="2151" miejscowosc="Dęblin PB" 
+      ns="51.5556" we="21.8322" km="392.8" etykieta="" 
+      kolejnosc="71"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu zabudowania twierdzy Dęblin.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Do centrum miasta od brzegu jest ok 500 metrów.</opispunktu> 
+    </punkt>
+    <punkt id="2150" miejscowosc="Dęblin PB" 
+      ns="51.5507" we="21.8319" km="392.3" etykieta="" 
+      kolejnosc="70"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="2149" miejscowosc="Dęblin PB" 
+      ns="51.547" we="21.8344" km="391.8" etykieta="" 
+      kolejnosc="69"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Wieprz dł. 303 km. Jej o naturalnych walorach przyrodniczych i krajobrazowych posiada status obrazu chronionego bogatego w liczne rozlewiska , mokradła i starorzecza</opispunktu> 
+    </punkt>
+    <punkt id="2148" miejscowosc="Puławy" 
+      ns="51.4455" we="21.9451" km="374.9" etykieta="" 
+      kolejnosc="68"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Pompownia - ujęcie wody dla Zakłądów Azotowych Puławy. W
+sąsiedztwie ośrodek rekraacyjny sezonowy możliwość noclegu, bufet. </opispunktu> 
+    <opispunktu typ="stanica" kolejnosc="-1">Ośrodek rekraacyjny sezonowy, możliwość noclegu, bufet. </opispunktu> 
+    </punkt>
+    <punkt id="2772" miejscowosc="Puławy" 
+      ns="0" we="0" km="371.9" etykieta="" 
+      kolejnosc="64"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Po prawej wejście do portu w Puławach.</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Nad brzegiem całoroczna restauracja.</opispunktu> 
+    </punkt>
+    <punkt id="2773" miejscowosc="Puławy" 
+      ns="0" we="0" km="374.5" etykieta="" 
+      kolejnosc="67"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej ujście rzeki Kurówki, długość: 50 km.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="224" typ="rzeka" nazwa="Wisła od Annopola do Kazimierza nad Wisłą" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="pozaKL" 
+      kolejnosc="6"> 
+  <opis>Jeden z najbardziej malowniczych odcinków. Rzeka rozlewa się szeroko, a na każdym zakręcie przepływa między niezliczonymi łachami. Wiele z nich to kilkuset metrowe połacie piasku, ciągnące się po horyzont. Na wielu z nich można biwakować, będąc odciętym od lądu. Drewno w dużych ilościach jest przeważnie naniesione przez wiosenną wodę.</opis>
+    <punkt id="2146" miejscowosc="Puławy" 
+      ns="51.4377" we="21.9434" km="374.2" etykieta="" 
+      kolejnosc="66"> 
+    <opispunktu typ="most" kolejnosc="-1">Nowy most drogowy w kształcie charakterystycznego łuku. Najdłuższe przęsło mostowe w Polsce długość 221m.</opispunktu> 
+    </punkt>
+    <punkt id="2145" miejscowosc="Puławy" 
+      ns="51.4237" we="21.9468" km="372.6" etykieta="" 
+      kolejnosc="65"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Po prawej stronie przystań żeglugi (statki kursują w sezonie pomiędzy Puławami, a Kazimierzem Dolnym). Bulwar miejski.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Oddalając się od rzeki trafimy do dużego sklepu, czynnego w święta.</opispunktu> 
+    </punkt>
+    <punkt id="2144" miejscowosc="Puławy" 
+      ns="51.4136" we="21.9447" km="371.5" etykieta="" 
+      kolejnosc="63"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy Puławy.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Przed mostem po lewej między ostrogami przystań. Stąd ok 1 km do sklepu asfaltową drogą.</opispunktu> 
+    </punkt>
+    <punkt id="2143" miejscowosc="Kazimierz Dolny PB" 
+      ns="51.324" we="21.9437" km="359" etykieta="" 
+      kolejnosc="62"> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Na wysokości miasta, w górę aż do promu w Janowcu i w dół rzeki pływają statki z wycieczkami.</opispunktu> 
+    <opispunktu typ="stanica" kolejnosc="-1">Przystań jachtowa przy ul. Senatorskiej 21 (tel. 0 81 8810400). Można uzgodnić rozbicie namiotów za niewielka opłatą.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Kajaki zostawiliśmy na brzegu pomiędzy zacumowanymi statkami wycieczkowymi. Zabraliśmy cenne rzeczy i wiosła, żeby nikogo nie skusiła okazja do pływania i w kamizelkach (było strasznie zimno) poszliśmy coś zjeść.</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">W Kazimierzu jest dużo barów, jednak w dniach wolnych od pracy na jedzenie trzeba czekać kilkadziesiąt minut. Ceny obiadu to kilkanaście-kilkadziesiąt złotych.</opispunktu> 
+    </punkt>
+    <punkt id="2142" miejscowosc="Janowiec LB" 
+      ns="51.3175" we="21.9162" km="356.7" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Prom dolnolinowy. W weekendy i dni wolne od pracy prom pełen jest turystów, a po obu stronach stoją kolejki do przeprawy. Kajakarze wywołują spore zainteresowanie.</opispunktu> 
+    </punkt>
+    <punkt id="2141" miejscowosc="Janowiec LB" 
+      ns="51.3096" we="21.9025" km="355.5" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po lewej stronie na wysokiej skarpie widoczne są ruiny zamku w Janowcu. Po prawej na wysokiej skarpie stoi zabytkowy wiatrak w Męćmierzu. W oddali widoczne zabudowania Kazimierza.</opispunktu> 
+    </punkt>
+    <punkt id="2140" miejscowosc="Kłudzie LB" 
+      ns="51.1528" we="21.7807" km="331.5" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Po lewej stronie przeprawy promowej znajduje się sklep.</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">W okresie letnim tuż przy rzece działa bar.</opispunktu> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Prom napędzany kutrem holowniczym. Uwaga na jego ruch, ponieważ porusza się znacznie szybciej niż promy linowe. Najbezpieczniej jest zaczekać aż dobije do brzegu, albo przepływać z dala od niego.</opispunktu> 
+    </punkt>
+    <punkt id="2139" miejscowosc="Solec nad Wisłą LB" 
+      ns="51.1394" we="21.7892" km="331" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po lewej stronie na wysokiej skarpie widoczne zabudowania Solca i ruin starego zamku.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">W Solcu jest schronisko młodzieżowe o wysokim standardzie, gdzie można tanio przenocować. ul. Łoteckiego 24 , 27-320, tel. 483761202
+W okolicy Solca i Kłudzia znajduje się sporo ośrodków wypoczynkowych.</opispunktu> 
+    </punkt>
+    <punkt id="2138" miejscowosc="Piotrawin PB" 
+      ns="51.0844" we="21.7937" km="324" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej stronie ujście rzeki Kamiennej. Długość 138 km (wg innych źródeł ? nawet 156 km) powierzchnia dorzecza  2007,9 km2 średni przepływ w górnym biegu 1,5 m3/s średni przepływ przy ujściu 10 m3/s Kamienna oprócz okresów suszy jest dostępna dla spływów kajakowych od Skarżysko-Kamienna.</opispunktu> 
+    </punkt>
+    <punkt id="2137" miejscowosc="Łopoczno PB" 
+      ns="51.0606" we="21.8215" km="321.5" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Na charakterystycznym wysokim brzegu znajduje się niewielki wiejski sklepik. Wcześniej po prawej stronie leży Józefów, ale szerokość rzeki utrudnia dopłynięcie.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="223" typ="rzeka" nazwa="Wisła od ujścia Sanu do Annopola" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="pozaKL" 
+      kolejnosc="5"> 
+  <opis>Wisła znacznie się poszerza, w zależności od poziomu rzeki, pojawiają się liczne piaszczyste łachy. Jednak nie utrudniają one płynięcia, mielizny nie występują. Rzeka otoczona jest lasami i bardzo malowniczymi kredowymi wzniesieniami przed Annopolem, które najładniej wyglądają w promieniach słońca.</opis>
+    <punkt id="2136" miejscowosc="Annopol PB" 
+      ns="50.8849" we="21.8301" km="298.4" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wodowskaz po prawej stronie: WW 680 SW 290</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="2135" miejscowosc="Annopol" 
+      ns="50.8719" we="21.8425" km="296.8" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej stronie widoczne wysokie, kilkudziesięciometrowe wapienne urwiska.</opispunktu> 
+    </punkt>
+    <punkt id="2134" miejscowosc="Opoka Wielka PB" 
+      ns="50.8675" we="21.848" km="295" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej stronie ujście rzeki Sanna o długości 51km i powierzchni dorzecza 606 km?. Źródła jej wypływają w miejscowości Wierzchowiska. Górny bieg Sanny zaliczany jest do najpiękniejszych pod względem krajobrazowym na Wyżynie Lubelskiej.</opispunktu> 
+    </punkt>
+    <punkt id="2133" miejscowosc="Zawichost LB" 
+      ns="50.805" we="21.8645" km="287.5" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="sklep" kolejnosc="-1">W miasteczku jest kilka sklepów, bankomat, apteka.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu widoczne zabudowania Zawichostu. Na wysokości miasteczka pływa prom dolnolinowy, uwaga na linę! Występuje ruch barek i pogłębiarek. Przy bardzo niskim stanie wody można wypatrywać ruin zamku położonego na wiślanej kępie (najczęściej pod wodą).</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="229" typ="rzeka" nazwa="Wisła od Tarnobrzega do ujścia Sanu" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="pozaKL" 
+      kolejnosc="4"> 
+  <opis>Rzeka płynie w otoczeniu wzgórz pokrytych lasami.</opis>
+    <punkt id="2132" miejscowosc="Szczytniki LB" 
+      ns="50.7355" we="21.8442" km="280.7" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Sanu z prawej strony.</opispunktu> 
+    </punkt>
+    <punkt id="2131" miejscowosc="Zalesie Gorzyckie PB" 
+      ns="50.6803" we="21.7919" km="273" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="2130" miejscowosc="Sandomierz PB" 
+      ns="50.673" we="21.7589" km="269.15" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej stronie wejście do portu.</opispunktu> 
+    </punkt>
+    <punkt id="2129" miejscowosc="Sandomierz" 
+      ns="50.674" we="21.7569" km="269.05" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="2128" miejscowosc="Sandomierz LB" 
+      ns="50.6681" we="21.7355" km="267.5" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Przystań LOK.</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Nad brzegiem rzeki znajduje się dużo barów.</opispunktu> 
+    </punkt>
+    <punkt id="2127" miejscowosc="Tarnobrzeg PB" 
+      ns="50.5717" we="21.6573" km="254.82" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Do sklepu należy przejść przez park i alejką w górę skarpy wejść na osiedle. Ok 5 minut od rzeki znajduje się kilka dużych sklepów czynnych również w niedzielę.</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Przy nabrzeżu promowym znajduje się park i bar.</opispunktu> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Prom górnolinowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="228" typ="rzeka" nazwa="Wisła od Dunajca do Połańca [63,05 km]" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="pozaKL" 
+      kolejnosc="3"> 
+  <opis></opis>
+    <punkt id="2126" miejscowosc="Siedleszczany PB" 
+      ns="50.5188" we="21.6021" km="247.7" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy i drogowy na grodze nr 371 Łążek LB-Siedleszczany PB. Na horyzoncie widać Tarnobrzeg.</opispunktu> 
+    </punkt>
+    <punkt id="2125" miejscowosc="Baranów Sandomierski PB" 
+      ns="50.5145" we="21.5308" km="242.7" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Prom górnolinowy</opispunktu> 
+    </punkt>
+    <punkt id="2124" miejscowosc="Niekórza LB" 
+      ns="50.4403" we="21.4041" km="227.3" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Linia wysokiego napięcia.</opispunktu> 
+    </punkt>
+    <punkt id="2123" miejscowosc="Zaduszniki PB" 
+      ns="50.4604" we="21.4496" km="232.2" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy LHS (Linia Hutnicza Szerotorowa) Zaduszniki</opispunktu> 
+    </punkt>
+    <punkt id="2122" miejscowosc="Ostrówek PB" 
+      ns="50.4374" we="21.3852" km="226.9" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej stronie ujście rzeki Wisłoka.</opispunktu> 
+    </punkt>
+    <punkt id="2121" miejscowosc="Połaniec LB" 
+      ns="50.4355" we="21.3438" km="223.65" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Próg piętrzący przy elektrowni w Połańcu. Znajduje się kilkaset metrów poniżej głównego bloku elektrowni. Za nim tworzy się silny odwój i niezbędne jest przenoszenie kajaka prawym, betonowym brzegiem. Próg jest ruchomy i działa w przypadku niskich stanów wody. Informacji o aktualnej sytuacji można się dowiedzieć pod nr. tel. (0-15) 865-61-66.</opispunktu> 
+    </punkt>
+    <punkt id="2120" miejscowosc="Połaniec LB" 
+      ns="50.4316" we="21.336" km="222.9" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Nadbrzeże elektrowni Połaniec. Należy płynąć przy prawym brzegu i obserwować znaki nawigacyjne.</opispunktu> 
+    </punkt>
+    <punkt id="2119" miejscowosc="Połaniec LB" 
+      ns="50.4265" we="21.3264" km="222" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej ujście rzeki Czarna.</opispunktu> 
+    </punkt>
+    <punkt id="2118" miejscowosc="Połaniec LB" 
+      ns="50.422" we="21.3113" km="221" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Do miasta w lewo ok 2 km.</opispunktu> 
+    </punkt>
+    <punkt id="2117" miejscowosc="Gliny Wielkie PB" 
+      ns="50.3983" we="21.2818" km="219" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wyspa i rozgałęzienie nurtu Wisły. Główny nurt po lewej, ale przy wysokiej wodzie można przepłynąć po prawej stronie.</opispunktu> 
+    </punkt>
+    <punkt id="2116" miejscowosc="Szczucin PB" 
+      ns="50.3244" we="21.0744" km="193.82" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy Szczucin.</opispunktu> 
+    </punkt>
+    <punkt id="2115" miejscowosc="Nowy Korczyn LB" 
+      ns="50.2964" we="20.8543" km="175.4" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej ujście rzeki Nidy dł. 153 km. W górnym biegu, od Mniszka do Mokrska Górnego bardzo malowniczy szlak kajakowy.</opispunktu> 
+    </punkt>
+    <punkt id="2114" miejscowosc="Nowy Korczyn LB" 
+      ns="50.2901" we="20.8017" km="169" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Prom górnolinowy między miejscowościami Nowy Korczyn i Borusowa.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">W lewo do sklepu ok. 1,5 km.</opispunktu> 
+    </punkt>
+    <punkt id="2147" miejscowosc="Karsy PB" 
+      ns="50.2751" we="20.774" km="166" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej wodowskaz Karsy. Rzędna "0"=166,71cm (WW=920cm SW=164cm)</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="227" typ="rzeka" nazwa="Wisła od Raby do Dunajca [25,95 km]" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="pozaKL" 
+      kolejnosc="2"> 
+  <opis>Wciąż odcinek ten jest uregulowany, ale jest bardziej dziki niż poprzedni. Mogą pojawić się niewielkie mielizny i przeszkody.</opis>
+    <punkt id="2113" miejscowosc="Opatowiec LB" 
+      ns="50.242" we="20.7281" km="160.6" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej ujście rzeki Dunajec dl. 247 km. Jest to doskonały szlak na którym można rozpocząć spływ i dalej kontynuować płynięcie Wisłą, przez co unikamy nieciekawego odcinka za Krakowem.</opispunktu> 
+    </punkt>
+    <punkt id="2112" miejscowosc="Jagodniki LB" 
+      ns="50.2051" we="20.68" km="153" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście rzeki Nidzicy, dł. 62,9 km. W dolnym biegu jej wody są silnie zanieczyszczone.</opispunktu> 
+    </punkt>
+    <punkt id="2111" miejscowosc="Jagodniki LB" 
+      ns="50.1892" we="20.6595" km="150.7" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście rzeki Uszwicy.</opispunktu> 
+    </punkt>
+    <punkt id="2110" miejscowosc="Szczurowa PB" 
+      ns="50.1527" we="20.6105" km="145.2" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Nowy most drogowy między Szczurową a Sokołowicami na drodze 768.</opispunktu> 
+    </punkt>
+    <punkt id="2109" miejscowosc="Witów LB" 
+      ns="50.1542" we="20.5968" km="144" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej ujście rzeki Szreniawy, dł. 79,8 km.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="226" typ="rzeka" nazwa="Wisła uregulowana za Krakowem [42,05 km]" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="pozaKL" 
+      kolejnosc="1"> 
+  <opis>Odcinek uregulowany, brzegi umocnione wysokimi wałami. Niewiele widać poza najbliższym brzegiem. W nurcie nie występują przeszkody, a zakola mają promienie odpowiednie dla ogromnych barek. Dlatego odcinek ten należy jak najszybciej przepłynąć i o nim zapomnieć.</opis>
+    <punkt id="2108" miejscowosc="Ujście Solne PB" 
+      ns="50.1376" we="20.5087" km="134.65" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej ujście rzeki Raby. Długość 131,9 km.</opispunktu> 
+    </punkt>
+    <punkt id="2107" miejscowosc="Nowe Brzesko LB" 
+      ns="50.1202" we="20.3786" km="121.24" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Do Nowego Brzeska w lewo 1km.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="2106" miejscowosc="Nowe Brzesko LB" 
+      ns="50.118" we="20.3601" km="119.35" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Bystrze z licznymi kamiennymi płytami w nurcie, szczególnie odczuwalne przy niskim stanie wody. Płynąć prawą stroną.</opispunktu> 
+    </punkt>
+    <punkt id="2105" miejscowosc="Wawrzeńczyce LB" 
+      ns="50.0931" we="20.2913" km="111.2" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Z lewej strony znajduje się stary port remontowy oraz cmentarzysko starych barek. Widok dosyć interesujący.</opispunktu> 
+    </punkt>
+    <punkt id="2104" miejscowosc="Niepołomice PB" 
+      ns="50.0495" we="20.2124" km="102.4" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="sklep" kolejnosc="-1">W prawo do centrum Niepołomic ok. 2km.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="2103" miejscowosc="Niepołomice PB" 
+      ns="50.0427" we="20.1595" km="98" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="2102" miejscowosc="Kraków" 
+      ns="50.0427" we="20.1169" km="93.6" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej ujście kanałku tworzącego kilkumetrowy wodospad.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="225" typ="rzeka" nazwa="Wisła w Krakowie [17,2 km]" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="pozaKL" 
+      kolejnosc="0"> 
+  <opis>Wisła w Krakowie jest uregulowana i poprzegradzana stopniami wodnymi. Stanowi część Kaskady Górnej Wisły tworzącej system kanałów i zapór umożliwiających żeglugę od ujścia Przemszy. Dla kajakarzy taka ingerencja w naturalny nie przyniosła nic dobrego. Prąd jest wolny (w Krakowie prawie zerowy), brzegi uregulowane i obwałowane a w nurcie brak jakichkolwiek łach czy wysp. Na szczęście projekt regulacji całej Wisły nigdy nie został ukończony.</opis>
+    <punkt id="2101" miejscowosc="Kraków" 
+      ns="50.0448" we="20.1006" km="91.5" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Śluza Przewóz. Jeśli nie działa z powodu niskiego stanu wody, trzeba wrócić do głównego nurtu i przenieść kajak lewym brzegiem ok. 150 m. przy stopniu wodnym Przewóz. Na samym końcu w wodzie zatopione są ostre metalowe pręty - trzeba obnieść.</opispunktu> 
+    </punkt>
+    <punkt id="2100" miejscowosc="Kraków" 
+      ns="50.0466" we="20.0954" km="91.2" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Początek górnego kanału śluzy Przewóz - w lewo, długość 180 m. należy sprawdzić czy śluza działa szczególnie przy niskich stanach wody - tel. (0-12) 645-06-40</opispunktu> 
+    </punkt>
+    <punkt id="2099" miejscowosc="Kraków" 
+      ns="50.0533" we="20.087" km="90.6" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej ujście jakiegoś niewykorzystywanego portu.</opispunktu> 
+    </punkt>
+    <punkt id="2098" miejscowosc="Kraków" 
+      ns="50.0512" we="20.0707" km="89.4" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej ujście rzeki Dlubnii, długości 49,2 km.</opispunktu> 
+    </punkt>
+    <punkt id="2097" miejscowosc="Kraków" 
+      ns="50.0508" we="20.0581" km="88.5" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Przystań na lewym brzegu. Prawdopodobnie także możliwość noclegu.</opispunktu> 
+    </punkt>
+    <punkt id="2096" miejscowosc="Kraków" 
+      ns="50.0519" we="20.0498" km="87.9" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy Wandy.</opispunktu> 
+    </punkt>
+    <punkt id="2095" miejscowosc="Kraków" 
+      ns="50.055" we="19.9971" km="82.9" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy Łęg.</opispunktu> 
+    </punkt>
+    <punkt id="2094" miejscowosc="Kraków" 
+      ns="50.0559" we="19.9817" km="81.3" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej główki portu Płaszów.</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej ujście rzeki Białuchy. Długość 33,4 km. W górnym odcinku płynie na terenie Ojcowskiego parku Narodowego w Dolinie Prądnika.</opispunktu> 
+    </punkt>
+    <punkt id="2093" miejscowosc="Kraków" 
+      ns="50.0541" we="19.9764" km="80.8" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Śluza stopnia wodnego Dąbie. Opłata za śluzowanie to 3,25 zł od kajaka. tel. (0-12) 656-04-96</opispunktu> 
+    </punkt>
+    <punkt id="2092" miejscowosc="Kraków" 
+      ns="50.0524" we="19.9695" km="80.3" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="2091" miejscowosc="Kraków" 
+      ns="50.0524" we="19.9644" km="80.1" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej port Zabłocie i przeładunek kruszywa. trzeba uważać na pływające barki.</opispunktu> 
+    </punkt>
+    <punkt id="2090" miejscowosc="Kraków" 
+      ns="50.0526" we="19.9608" km="79.7" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Kotlarski. Zbudowany w 2001 roku, najdłuższy w Polsce most łukowy nie posiadający przęseł w nurcie rzeki. Długość przęsła 166 metrów.</opispunktu> 
+    </punkt>
+    <punkt id="2089" miejscowosc="Kraków" 
+      ns="50.0501" we="19.9545" km="79.2" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="2088" miejscowosc="Kraków" 
+      ns="50.0493" we="19.953" km="79" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy Powstańców Śląskich.</opispunktu> 
+    </punkt>
+    <punkt id="2087" miejscowosc="Kraków" 
+      ns="50.0454" we="19.9449" km="78.3" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy Józefa Piłsudzkiego. Oddany do użytku w 1933 roku. Ma 146,42 metry długości i 10 metrów szerokości użytkowej.</opispunktu> 
+    </punkt>
+    <punkt id="2086" miejscowosc="Kraków" 
+      ns="50.0442" we="19.9411" km="78" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście rzeki Wilgi. Długość 21,4 km.</opispunktu> 
+    </punkt>
+    <punkt id="2085" miejscowosc="Kraków" 
+      ns="50.0496" we="19.9341" km="77.2" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy Grunwaldzki.</opispunktu> 
+    </punkt>
+    <punkt id="2084" miejscowosc="Kraków" 
+      ns="50.0536" we="19.932" km="76.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wzgórze Wawelskie.</opispunktu> 
+    </punkt>
+    <punkt id="2083" miejscowosc="Kraków" 
+      ns="50.0542" we="19.9281" km="76.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Drogowy most Dębnicki.</opispunktu> 
+    </punkt>
+    <punkt id="2082" miejscowosc="Kraków" 
+      ns="50.0517" we="19.916" km="75.4" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej ujście rzeki Rudawy. Zaczyna się betonowe nabrzeże i bulwar Krakowa.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

@@ -1,0 +1,61 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.75329000" lon="19.15065000">
+<name>0.00</name>
+<desc>-</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="53.75515000" lon="19.13828000">
+<name>3.60</name>
+<desc>Przenoska przy budynku elektrowni - ok. 20m.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="53.75212000" lon="19.10635000">
+<name>6.80</name>
+<desc>Niewielki betonowy most samochodowy. Zaraz za mostkiem niewieki próg wodny - spływalny bez problemów.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.75470000" lon="19.10360000">
+<name>7.30</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.76790000" lon="19.08996000">
+<name>10.50</name>
+<desc>Mały most samochodowy na leśnej drodze żwirowej.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>12.00</name>
+<desc>Kładka dla samochodów.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.77587000" lon="19.05680000">
+<name>17.20</name>
+<desc>Długa przenoska - 150m. Najlepiej przenosić się przy budynku dawnego młyna. Trzeba wejść przez bramę na teren posesji.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="53.76526000" lon="19.02094000">
+<name>23.40</name>
+<desc>Niewielka kładka dla pieszych leżąca w wodzie. Kajaki przepychamy nad kładką.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.76685000" lon="19.02054000">
+<name>23.60</name>
+<desc>Bystrze WWI+ na progu usypanym z kamieni. Zaraz za bystrzem niskie gałęzie - nietrudno o wywrotkę.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.76734000" lon="19.01396000">
+<name>24.40</name>
+<desc>Most samochodowy. Tuż przed mostem bystrze WWI. 
+Przy moście parking samochodowy z ławeczkami i miejscem na ognisko.</desc>
+<cmt>most</cmt>
+</wpt>
+
+</gpx>

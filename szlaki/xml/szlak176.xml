@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="176" nazwa="Grabowa" wersja="1">
+<opis>Rzeka Grabowa stanowi największy lewy dopływ Wieprzy, uchodzący do niej w odległości około około 1 kilometra od Bałtyku, niedaleko Darłówka. Niegdyś Grabowa uchodziła bezpośrednio do morza w sąsiedztwie miejscowości Bobolin, jednak w okresie międzywojennym została przebudowana, a jej wody skierowano w stronę Wieprzy. Posiada dwa różne oblicza, wyższy odcinek ma charakter zbliżony do górskiego - bystry i zwałkowy, natomiast dolny jest spokojny o leniwym nurcie. Odcinek od Polanowa do Buszyna jest nieco bardziej wymagający, a rzeka płynąc głęboką, zalesioną doliną miejscami mocno kręci, przyspiesza na kamiennych bystrzach i jej nurt przegradzają powalone drzewa. Jest to zdecydowanie najbardziej atrakcyjny odcinek, przepłynięcie którego latem 2019 kilku kajakom K1 zajęło około 4,5 h niespiesznego spływu. Stan wody na tym odcinku można obserwować za pomocą wodowskazu Polanów (64,4 km), który w dniu spływu wskazywał poziom 025, oraz wodowskazu na górnej wodzie jazu pstrągarni Buszyno (50,0 km), który pokazywał poziom 174. Wskazania te zapewniają przyzwoitą wodę na reprezentowanym odcinku, a jedynie miejscami szoruje się nieznacznie kajakiem na kamiennych wypłyceniach.</opis> 
+    <punkt id="5674" miejscowosc="Polanów" 
+      ns="54.12047805" we="16.69135216" km="64.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 206 (ul. Wolności) z Miastka do Koszalina. Przy samym moście jest dość wąsko i niewygodnie, lepiej więc wodować się nieco niżej. Po prawej stronie, przy budynkach mieszkalnych sznajdują się miejsca parkingowe na kilka samochodów. Do mostu dopływa już sporo wody więc spływ można próbować zaczynać powyżej Polanowa</opispunktu> 
+    </punkt>
+    <punkt id="5675" miejscowosc="Polanów" 
+      ns="54.12149467" we="16.69146923" km="64.4" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Nadgryziony zębem czasu, słabo czytelny wodowskaz Polanów. Wskazania poziomu 025 gwarantują przyzwoitą wodę, a tylko miejscami nieco się wypłyca na kamiennych przemiałachs</opispunktu> 
+    </punkt>
+    <punkt id="5676" miejscowosc="Polanów" 
+      ns="54.12172018" we="16.69075299" km="64.35" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most przy ul. Wiejskiej. W bezpośrednim sąsiedztwie znajduje się sklep spożywczy i spory plac. Można tu wygodnie zwodować kajaki z trawiastego brzegu przed mostem. Pod mostem małe bystrze, przy wyższej wodzie wyrzucające na stalową rurę poniżej</opispunktu> 
+    </punkt>
+    <punkt id="5677" miejscowosc="Polanów" 
+      ns="54.12177475" we="16.69065045" km="64.3" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Niska rura w poprzek rzeki podwieszona na stalowych szynach. Przeciskanie dołem na mokro lub krótka przenoska prawym brzegiem, umocnionym wielkimi głazami</opispunktu> 
+    </punkt>
+    <punkt id="5678" miejscowosc="Polanów" 
+      ns="54.12313891" we="16.6881669" km="64.1" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowa kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="5679" miejscowosc="Polanów" 
+      ns="54.1235224" we="16.68803552" km="64" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Niska rura przez rzekę ale przerzucona znacznie wyżej niż wcześniejsza</opispunktu> 
+    </punkt>
+    <punkt id="5680" miejscowosc="Polanów" 
+      ns="54.12527137" we="16.68802678" km="63.7" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="jaz" kolejnosc="-1">MEW przy ul. Młyńskiej. Przenoska około 150m lewym brzegiem po trawie, przez brukowaną drogę i boisko do piłki nożnej. Poniżej odcinek zwałkowy o umiarkowanych trudnościach. Jedynie kilka drzew wymaga współpracy zespołowej</opispunktu> 
+    </punkt>
+    <punkt id="5681" miejscowosc="Polanów Czajka" 
+      ns="54.13029067" we="16.68161246" km="62.7" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Bród przez rzekę w pobliżu ul. Partyzanckiej</opispunktu> 
+    </punkt>
+    <punkt id="5682" miejscowosc="Polanów Czajka" 
+      ns="54.13228979" we="16.6830314" km="62.4" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Spory dopływ z lewej strony. Poniżej fragmentami bardziej bystro</opispunktu> 
+    </punkt>
+    <punkt id="5683" miejscowosc="Wielin" 
+      ns="54.151298" we="16.69333126" km="58.9" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 208 z Polanowa do Kępic</opispunktu> 
+    </punkt>
+    <punkt id="5684" miejscowosc="Wielin" 
+      ns="54.15260244" we="16.69344251" km="58.7" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeczki Błotnicy z lewej strony. Poniżej odcinek z drobnymi zwałkami, konfiguracja i wysokość kilku z nich wymusza współpracę zespołową</opispunktu> 
+    </punkt>
+    <punkt id="5685" miejscowosc="Świerkowiec" 
+      ns="54.1887576" we="16.70720962" km="52.2" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście rzeczki Wielinki, wcześniej bystry odcinek przełomowy</opispunktu> 
+    </punkt>
+    <punkt id="5686" miejscowosc="Buszyno" 
+      ns="54.20069517" we="16.71343803" km="50" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pstrągarnia. Przenoska około 70m lewym brzegiem po trawie. Wyjście z wody przed betonowym murkiem na grząski brzeg. Przy jazie na górnej wodzie wodowskaz wskazujący w dniu spływu poziom 174</opispunktu> 
+    </punkt>
+    <punkt id="5687" miejscowosc="Buszyno" 
+      ns="54.20280735" we="16.71180651" km="49.7" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Tuż przy moście zadaszona wiata przystanku autobusowego. Wygodne wodowanie/lądowanie tuż przed mostem po lewej stronie wpływając do koryta małego dopływu. W pobliżu miejsce na kilka samochodów</opispunktu> 
+    </punkt>
+    <punkt id="5688" miejscowosc="Darłówko" 
+      ns="54.43356729" we="16.389641" km="0" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Grabowej do Wieprzy</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

@@ -1,0 +1,55 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.39253526" lon="23.20656415">
+<name>104.00</name>
+<desc>Most drogowy. W pobliżu duży parking, wiaty, ławki, WC, wygodne miejsce zakończenia/rozpoczynania spływów</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.36696689" lon="23.07893210">
+<name>89.80</name>
+<desc>Most na lokalnej drodze. W pobliżu ławeczki i WC</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.36035598" lon="23.04552722">
+<name>86.40</name>
+<desc>Otwarty jaz ? dwu przęsłowa zastawka ze sporym odwojem (w zależności od ilości wody), przepływanie po wcześniejszej ocenie trudności </desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.34782375" lon="23.03021088">
+<name>84.30</name>
+<desc>Drugi jaz ze sporym odwojem (w zależności od ilości wody), spływać lewym przęsłem po wcześniejszej ocenie trudności </desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.34959550" lon="23.01443500">
+<name>83.00</name>
+<desc>Most drogowy, pod nim niewielkie bystrze. Wygodny dostęp do wody z dobrym dojazdem, najlepiej przed mostem po lewej stronie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.39871752" lon="22.95673097">
+<name>73.20</name>
+<desc>Z prawej ujście rzeki Sopot</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.41541606" lon="22.92485671">
+<name>69.30</name>
+<desc>Z prawej ujście rzeki Szum</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.46567717" lon="22.55344489">
+<name>26.70</name>
+<desc>Z prawej ujście rzeki Łady</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.49283388" lon="22.25649557">
+<name>0.00</name>
+<desc>Ujście Tanwi do Sanu</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

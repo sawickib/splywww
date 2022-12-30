@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="170" nazwa="Kłoniecznica" wersja="1">
+<opis>Prawy dopływ Zbrzycy. Obszar źródliskowy stanowią cieki zasilające ciąg jezior: Studzieniczno, Kłączno i Ryńskie, leżące na południe od Bytowa. Kierując się na południe Kłoniecznica przepływa jeszcze przez jezioro Małe oraz Kielskie, które jest ostatnią stojącą wodą w biegu rzeki. Nie licząc jezior, płynie malowniczą doliną, częściowo zalesioną, a częściowo wykorzystywaną rolniczo przez ludzi. Chociaż miejscami kręci i przyspiesza nie ma na rzece miejsc trudnych, czy uciążliwych. Kilka drzew w nurcie dostosowanych zostało przez organizatorów spływów komercyjnych do postaci niezauważalnej, a jedyną przeszkodą na rzece może stanowić kilka niskich kładek oraz dość liczne pastuchy elektryczne, natomiast na jeziorach wiatr i związana z nim boczna fala. Przy silnym wietrze wiejącym w kierunkach równoleżnikowych, fartuchy na kajakach mogą przydać się zwłaszcza na jeziorze Kielskim, na którym przecina się protopadle jedną z osi jeziora. Woda w rzece jest bardzo czysta, a dno w większości twarde i piaszczyste, upstrzone w liczne skorupki muszli. Kłoniecznica ze Zbrzycą łączy się poniżej miejscowości Laska, zasilając wody jeziora Księże. Spotyka się różne nazwy rzeki, np. Kłonecznica, jednak oficjalną i prawidłową jest Kłoniecznica. Na rzece nie ma wodowskazów możliwych do zaobserwowania zdalnego, są jednak takie, które można podpatrzyć w terenie. Wskazania 077 wodowskazu Laska Leśnictwo, znajdującego się przed progiem na górnej wodzie [2,7 km], oraz 038 wodowskazu Laska Leśnictwo przed mostem [1,2 km], gwarantują wystarczająca ilość wody od Hamer Młyna do jazu przed pstrągarnią. W zależności od tego ile przęseł jest otwartych, a co za tym idzie, ile wody spływa jazem, poniżej może być jej zbyt mało by swobodnie spłynąć. Gdy w pstrągarni aktualnie hodowane są ryby, zabiera ona prawie całą wodę z rzeki.
+Przy opisanych wyżej warunkach wodnych odcinek z Hamer Młyna do ujścia do Zbrzycy zajął około 4,5h</opis> 
+    <punkt id="5557" miejscowosc="Hamer Młyn" 
+      ns="54.03487228" we="17.50710119" km="16.8" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany most na publicznej szutrowej drodze. Pod mostem próg piętrzący wodę dla pobliskiego młyna i tartaku. Wygodne miejsce rozpoczynania spływu poniżej młyna z drewnianych pomostów</opispunktu> 
+    </punkt>
+    <punkt id="5558" miejscowosc="Hamer Młyn" 
+      ns="54.03185172" we="17.51117369" km="16.3" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Pierwszy z niepoliczalnej liczby drewnianych niskich mostków i kładek</opispunktu> 
+    </punkt>
+    <punkt id="5559" miejscowosc="Hamer Młyn" 
+      ns="54.02937386" we="17.51449129" km="16" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Kielskie. Kierować się na wprost na SE, wzdłuż dłuższej osi zbiornika. Po przepłynięciu ok 1,5 km po obu stronach porośniętego lasem jeziora widowczne będą zabudowania stanic wędkarskich, szeroki wypływ rzeki z jeziora znajduje się po prawej stronie, tuż za pomostem stanicy, przesłonięty nieco trzcinami. Akwen jeziora otwarty jest w dwóch prostopadłych kierunkach, w zależności od kierunku i siły wiatru możliwość wystąpienia bocznej fali</opispunktu> 
+    </punkt>
+    <punkt id="5560" miejscowosc="Modrzejewo" 
+      ns="54.01956194" we="17.5354897" km="14.2" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Kielskiego. Poniżej odcinek rzei o nieznacznie zmianiającym się charakterze, praktycznie bez przeszkód w nurcie</opispunktu> 
+    </punkt>
+    <punkt id="5561" miejscowosc="Modrzejewo" 
+      ns="54.01490564" we="17.53260083" km="13.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na szutrowej drodze publicznej, zaraz za nim niewielki prożek - bystrze. Przed mostem po prawej stronie znajdują się schodki do wody i istnieje tu możliwość wodowania w przypadku rezygnacji z płynięcia przez jezioro Kielskie. Brzeg wysoki i wzmocniony drewnianymi kołkami. W pobliżu wiaty i ławki</opispunktu> 
+    </punkt>
+    <punkt id="5562" miejscowosc="Stoltmany" 
+      ns="54.00303265" we="17.52811698" km="11.5" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na publicznej drodze, przed nim po prawej hodowla krów szkockich</opispunktu> 
+    </punkt>
+    <punkt id="5563" miejscowosc="Sątoczno" 
+      ns="53.99459193" we="17.51488164" km="9.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na publicznej drodze w pobliżu gospodarstwa, poniżej 2 niskie i bardzo niskie mostki drewniane</opispunktu> 
+    </punkt>
+    <punkt id="5564" miejscowosc="Sątoczno" 
+      ns="53.99154983" we="17.51519141" km="9.3" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Bardzo niski mostek drewniany</opispunktu> 
+    </punkt>
+    <punkt id="5565" miejscowosc="Sątoczno" 
+      ns="53.99032193" we="17.5148198" km="9.1" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski drewniany mostek</opispunktu> 
+    </punkt>
+    <punkt id="5566" miejscowosc="Sątoczno " 
+      ns="53.98915149" we="17.50998185" km="8.7" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeczki Jażdżewka, odwadniającej bagniste jezioro Pceń. Nazwa rzeki pochodzi ponoć od nazwy ryby jazgarz, kasz. jôżdż, (lm) jażdże [Słownik nazw geograficznych gminy Lipnica - Alina i Tomasz Drzazga]</opispunktu> 
+    </punkt>
+    <punkt id="5567" miejscowosc="Kłonecznica" 
+      ns="53.98204925" we="17.50757342" km="7.8" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w miejscowości Kłonecznica [nie mylić z nazwą rzeki - Kłoniecznicą]</opispunktu> 
+    </punkt>
+    <punkt id="5568" miejscowosc="Kłonecznica" 
+      ns="53.97316777" we="17.5130126" km="6.1" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski mostek drewniany</opispunktu> 
+    </punkt>
+    <punkt id="5569" miejscowosc="Budy " 
+      ns="53.9523263" we="17.50578337" km="2.7" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany most, za którym rozpoczyna się młynówka do pstrągarni. Przed mostem po prawej 3 stopniowy jaz, z prożkami po kilkadziesiąt centymetrów. W zależności od pory roku, a co za tym idzie, obecnością ryb w hodowli, prawie cała woda kierowana jest na młynówkę. Jeśli nie ma ryb to zastawka jest otwarta i znaczna ilość wody przelewa się jazem do koryta rzeki. Przed progiem po prawej stronie znajduje się wodowskaz. Przy wskazaniu 077 i otwarciu jedynie jednego z 4 przęseł zastawki, wody w korycie jest zdecydowanie zbyt mało i nie daje się swobodnie płynąć. Chcąc nieco skrócić męki, należy dopłynąć młynówką do ukośnej deski, kierującej płynące śnieci z powrotem do koryta, i przenieść się w dół na rzekę. Ten manewr niestety nie rozwiązuje problemów z brakiem wody, a swobodnie płynąć można dopiero gdy woda wróci kilkoma rurami ze stawów. Jeśli jednak woda kierowana jest przez jaz do koryta, jest to najbardziej ciekawy i szybki odcinek całej Kłoniecznicy. Woda płynie tu bystro, jest kręto, z kilkoma przewróconymi drzewami, w zależności od ilości wody dość wymagająco. Poniżej pstrągarni wody jest już wystarczająco i płynie ona wartko do jeziora Księże</opispunktu> 
+    </punkt>
+    <punkt id="5570" miejscowosc="Budy" 
+      ns="53.94871252" we="17.50275375" km="2.2" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Metalowe koryto oddające z impetem część wody z młynówki. Zaraz za nim po prawej źródełko czystej wody</opispunktu> 
+    </punkt>
+    <punkt id="5571" miejscowosc="Laska Leśnictwo" 
+      ns="53.94620108" we="17.50139491" km="1.7" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Spora fotogeniczna zwałka maskująca rurę oddającą wodę z pierwszych stawów, za nią kolejne rury poprawiające stosunki wodne w rzece</opispunktu> 
+    </punkt>
+    <punkt id="5572" miejscowosc="Laska Leśnictwo" 
+      ns="53.94305609" we="17.50119495" km="1.2" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most  na lokalnej drodze, przed mostem po prawej wodowskaz. Poziom 038 jest gwarancją bardzo dobrej wody poniżej mostu. Dalej odcinek węższej, głębszej i szybszej wody</opispunktu> 
+    </punkt>
+    <punkt id="5573" miejscowosc="Laska Leśnictwo" 
+      ns="53.93479992" we="17.49835878" km="0.2" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Ostatnia drewniana kładka przed jeziorem Księże</opispunktu> 
+    </punkt>
+    <punkt id="5574" miejscowosc="Laska Leśnictwo" 
+      ns="53.93424334" we="17.49614305" km="0" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Księże, miejscami dość płytko z powodu naniesionej przez rzekę łachy piasku</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

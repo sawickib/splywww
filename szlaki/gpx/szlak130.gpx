@@ -1,0 +1,80 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.71885831" lon="22.67114732">
+<name>63.90</name>
+<desc>Most drogowy w pobliżu centrum miejscowości. Dobry dojazd i wygodne wodowanie. Poniżej mostu sporo trawiastej przestrzeni. Brzegi dość wysokie i strome, porośnięte trawą. Rzeka ma tu 4-6 m szerokości, koryto jest uregulowane, teren odsłonięty z pojedynczymi drzewami</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.71202204" lon="22.67617276">
+<name>62.90</name>
+<desc>Bardzo ładny most drogowy - kamienny, sklepiony, z podwójnym przepustem. Albo bardzo stary, albo bardzo dobrze wystylizowany na "stary"</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.71116190" lon="22.67965253">
+<name>62.60</name>
+<desc>Most drogi 835, za nim widoczna na drzewach działalność bobrów</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.70772906" lon="22.68757143">
+<name>61.90</name>
+<desc>Most drogowy, pod nim bystrze i rura przechodząca nisko nad wodą</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.69701603" lon="22.69873645">
+<name>60.30</name>
+<desc>Spory dopływ z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.69449855" lon="22.69967558">
+<name>60.00</name>
+<desc>Pochyły prożek</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.68936356" lon="22.70532736">
+<name>59.00</name>
+<desc>Most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.67860273" lon="22.71267495">
+<name>57.30</name>
+<desc>Most drogowy, za nim bystrze. Poniżej mostu, w pewnej odległości od siebie znajdują się 4 pochyłe prożki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.67164348" lon="22.72194424">
+<name>56.00</name>
+<desc>Prożek</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.67070825" lon="22.72125233">
+<name>55.80</name>
+<desc>Prożek</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.66807930" lon="22.72219171">
+<name>55.50</name>
+<desc>Duży most na ruchliwej drodze nr 74</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.65249376" lon="22.72639562">
+<name>51.80</name>
+<desc>Most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.65666157" lon="22.71390855">
+<name>50.70</name>
+<desc>Drewniana kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.65381970" lon="22.68878989">
+<name>46.60</name>
+<desc>Most drogowy.W pobliżu sporo miejsca na pozostawienie samochodu. Wygodny punkt zakończenia/rozpoczynania spływu</desc>
+<cmt>most</cmt>
+</wpt>
+
+</gpx>

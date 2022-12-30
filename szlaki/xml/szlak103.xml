@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="103" nazwa="Czerwona Struga + Czerwonka" wersja="1">
+<opis>Niewielka rzeczka płynąca na pograniczu powiatów człuchowskiego i chojnickiego w województwie pomorskim. Uchodzi do jeziora Charzykowskiego można więc uznać ją za dopływ Brdy. Szczerze polecam tę rzeczkę wszystkim miłośnikom dziczy. Spływy możliwe tylko jedynkami. 
+</opis> 
+  <odcinek id="434" typ="rzeka" nazwa="Czerwonka" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Po 3 minutach płynięcia Czerwonką i przebijania się przez krzaki, wpływamy w las. Sporo zwałek już na początku. Piękne widoki leśnej głuszy. Czerwona Struga wbija się strumieniem z lewej strony Czerwonki ale nazwę jednak dalej płynące wody przejmują od tej mniejszej, czyli Czerwonej Strugi. </opis>
+    <punkt id="3633" miejscowosc="Stara Rogoźnica" 
+      ns="53.766831" we="17.42778495" km="10.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="3634" miejscowosc="Stara Rogoźnica" 
+      ns="53.7694928" we="17.42507092" km="10.1" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Start ? droga Bytów ? Chojnice, za leśniczówką w Babilonie skręcamy w prawo i przed ośrodkiem wypoczynkowym skręcamy w prawo. Kajaki wodujemy około 15 metrów od granicy lasu po lewej stronie ? ośrodek i zabudowania za nim zostawiamy za plecami. Niedogodne zejście ze skarpy i samo miejsce spuszczania kajaka. </opispunktu> 
+    </punkt>
+    <punkt id="3635" miejscowosc="Babilon" 
+      ns="53.78262369" we="17.4184689" km="8" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="3636" miejscowosc="Babilon" 
+      ns="53.78652018" we="17.41775535" km="7.5" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie Czerwonki i Czerwonej Strugi</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="435" typ="rzeka" nazwa="Czerwona Struga" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Po dobrej godzinie dopływa się do mostu w Babilonie. Przed nim szersze rozlewisko i sporo trzcin ale da się płynąć. Na pytanie czy ktoś tu płynął ? Kobieta wyglądająca z ganku domu odpowiada ? ? Nie ? nigdy?...</opis>
+    <punkt id="3637" miejscowosc="Babilon" 
+      ns="53.78801469" we="17.43741751" km="6.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze z Chojnic do Bytowa</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="436" typ="rzeka" nazwa="Babilon - Kopernica" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Za mostem zaczyna się najtrudniejszy odcinek ? trzcinowiska są dość gęste. Zmniejsza się średnia prędkość, ale nagrodą za to jest przepiękny odcinek leśny? Zwałki nie takie liczne, woda czysta i leniwa. Cisza i spokój. Nie ma mostów i śladów ludzi. Po dobrych dwóch godzinach dociera się do Kopernicy</opis>
+    <punkt id="3638" miejscowosc="Babilon" 
+      ns="53.79311395" we="17.45123092" km="4.8" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na leśnej drodze</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="437" typ="rzeka" nazwa="Odcinek przyujściowy" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Szerokie rozlewisko i ślady bobrowych tam tuż przed miejscowością świadczą o tym, że kiedyś musiała być tu regulowana spławność wody. </opis>
+    <punkt id="3639" miejscowosc="Kopernica" 
+      ns="53.78686796" we="17.47785313" km="1.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w Kopernicy</opispunktu> 
+    </punkt>
+    <punkt id="3640" miejscowosc="Kopernica" 
+      ns="53.78104391" we="17.49690517" km="0" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Czerwonej Strugi do jeziora Charzykowskiego</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

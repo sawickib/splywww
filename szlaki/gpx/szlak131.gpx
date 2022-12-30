@@ -1,0 +1,55 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.45035198" lon="23.14085436">
+<name>20.10</name>
+<desc>Most kolejowy, zaraz za nim mały prożek utworzony przez dwie betonowe płyty stanowiące bród ? przejazd przez rzekę i drewniana kładka dla pieszych. Mimo intensywnych deszczy rzeka prowadzi krystalicznie czystą wodę. Dno jest piaszczyste. Przed mostem spory dopływ z prawej strony wyraźnie poprawia warunki wodne</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.44985137" lon="23.13173607">
+<name>19.30</name>
+<desc>Most z kołem młyńskim po prawej stronie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.44782748" lon="23.12881288">
+<name>18.50</name>
+<desc>Drugie koło młyńskie po lewej stronie na niewielkim kamiennym spiętrzeniu. Koła służą nabieraniu wody z rzeki i przenoszeniu jej kilka metrów wyżej</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.44235550" lon="23.11942535">
+<name>17.00</name>
+<desc>Tama bobrowa o wysokości 1,5 m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.44074392" lon="23.11266205">
+<name>16.30</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.43530737" lon="23.05674730">
+<name>11.10</name>
+<desc>Ruiny drewnianego mostu. Wcześniej koniec rezerwatu "Czartowe Pole". Dolina znacznie się rozszerza a ilość drzew w korycie maleje</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.42332498" lon="23.02450738">
+<name>7.80</name>
+<desc>Most na leśnej drodze. Poniżej praktycznie rzeka jest wyczyszczona z powalonych drzew</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.40088103" lon="22.96370168">
+<name>0.60</name>
+<desc>Most drogowy betonowy, pod nim niewielki prześwit. Wygodne miejsce zakończenia spływu</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.39871752" lon="22.95673097">
+<name>0.00</name>
+<desc>Ujście Sopotu do Tanwi</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

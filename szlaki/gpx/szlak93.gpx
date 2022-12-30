@@ -1,0 +1,165 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.02300500" lon="19.28647700">
+<name>45.98</name>
+<desc>Po przeniesieniu kajaków około 150 przez mały lasek start z Jeziora Żalskiego.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="53.01965900" lon="19.32556100">
+<name>42.77</name>
+<desc>Wypływ Jeziora Żalskiego do rzeki Ruziec.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.01959700" lon="19.32568600">
+<name>42.76</name>
+<desc></desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.01817100" lon="19.32990500">
+<name>42.28</name>
+<desc>Betonowy most.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.00696300" lon="19.32906500">
+<name>40.41</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.00100600" lon="19.32789100">
+<name>39.67</name>
+<desc>Betonowy most.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.99972700" lon="19.32628600">
+<name>39.58</name>
+<desc>Ujście Ruźca do Jeziora Ruda</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.99753800" lon="19.31150900">
+<name>38.56</name>
+<desc>Wypływ Jeziora Ruda do Ruźca.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="52.99631300" lon="19.30866300">
+<name>38.25</name>
+<desc>Betonowy most.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.98694100" lon="19.30303200">
+<name>36.81</name>
+<desc>Betonowy most.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.97526300" lon="19.28689300">
+<name>33.47</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.97216000" lon="19.28280100">
+<name>32.99</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.96306300" lon="19.27031100">
+<name>31.25</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.96116400" lon="19.25278000">
+<name>29.67</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.96829800" lon="19.22349500">
+<name>26.64</name>
+<desc>Po prawej za mostem piękny drewniany młyn. Jakieś 50 m po lewej gospodarstwo w którym mieszka bardzo ciekawska ale przesympatyczna babcia, która zapraszała mnie na grilla :)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.98081900" lon="19.20586300">
+<name>23.48</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.99643300" lon="19.18194500">
+<name>19.84</name>
+<desc>Betonowy most. </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.00324500" lon="19.17779000">
+<name>18.96</name>
+<desc>Wypływ Ruźca do Jeziora Wojnowskiego (Ruduskiego).</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.01674700" lon="19.17320700">
+<name>17.42</name>
+<desc>Wypływ Jeziora Wojnowskiego (Ruduskiego) do Ruźca.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.01793700" lon="19.17279300">
+<name>17.29</name>
+<desc>Betonowy most.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.01905400" lon="19.17180800">
+<name>17.15</name>
+<desc>Po prawej ujście małego strumyka.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.03170800" lon="19.16427000">
+<name>16.07</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.03925300" lon="19.16177500">
+<name>15.17</name>
+<desc>Stary betonowy mostek a za nim próg złożony z trzech stopni. Fajne spływalne bystrze, dużo białej spienionej wody.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.03938000" lon="19.16156500">
+<name>15.16</name>
+<desc>Betonowy most.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.04362000" lon="19.10273400">
+<name>10.49</name>
+<desc>Betonowy most.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.07651600" lon="19.08438900">
+<name>6.22</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.09078100" lon="19.05363400">
+<name>2.57</name>
+<desc>Pozostałości po starym moście lub młynie. Fajne bezpieczne bystrze.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.09083800" lon="19.05330400">
+<name>2.56</name>
+<desc>Betonowy most a za nim bystrze.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.09247500" lon="19.04867500">
+<name>2.10</name>
+<desc>Betonowy most na drodze Golub-Dobrzyń - Kikół.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.09499500" lon="19.04145300">
+<name>1.40</name>
+<desc>Betonowy most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.09715500" lon="19.02831200">
+<name>0.00</name>
+<desc>Ujście Ruźca do Drwęcy.</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,260 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.96609900" lon="16.64545300">
+<name>45.10</name>
+<desc>Most drogowy, wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.96969200" lon="16.65445500">
+<name>44.35</name>
+<desc>Most drogowy, wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.97658300" lon="16.67448800">
+<name>42.66</name>
+<desc>Jazik w lesie, o wysokości 0,7m. Przepływalny środkiem. Częste zatory z gałęzi i śmieci.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.97526800" lon="16.68986300">
+<name>41.13</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.97376000" lon="16.70894100">
+<name>39.96</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.97385600" lon="16.74103500">
+<name>37.59</name>
+<desc>Przenoska lewą stroną około 30m po trawie.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="50.98143000" lon="16.76260100">
+<name>35.75</name>
+<desc>Most drogowy, wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.99559962" lon="16.77154133">
+<name>33.90</name>
+<desc>Prożek kamienny</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.99788487" lon="16.77065112">
+<name>33.50</name>
+<desc>Prożek kamienny</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.00023721" lon="16.76996618">
+<name>33.10</name>
+<desc>Prożek kamienny</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.00309496" lon="16.77225769">
+<name>32.80</name>
+<desc>Prożek kamienny</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.00390578" lon="16.77259849">
+<name>32.70</name>
+<desc>Stary bród z wystających pod różnymi kątami betonowych płyt - utwardzona przeprawa w poprzek rzeki</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.00725089" lon="16.77417658">
+<name>32.30</name>
+<desc>Prożek kamienny</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.01031279" lon="16.77678912">
+<name>31.80</name>
+<desc>Prożek kamienny</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.01248601" lon="16.77786814">
+<name>31.50</name>
+<desc>Prożek kamienny</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.01409682" lon="16.77728080">
+<name>31.30</name>
+<desc>Prożek kamienny</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.01626685" lon="16.77894670">
+<name>31.00</name>
+<desc>Prożek kamienny</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.01986400" lon="16.77977300">
+<name>30.63</name>
+<desc>Jaz 1,5m, poniżej jazu wymurówka z cegieł - lepiej nie spływać.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.02393100" lon="16.78104400">
+<name>30.12</name>
+<desc>Most autostrady A4</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.02608500" lon="16.78044300">
+<name>29.88</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.03122600" lon="16.77844600">
+<name>29.16</name>
+<desc>Dopływ Młynówki z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.03216800" lon="16.77782600">
+<name>29.04</name>
+<desc>Kładka dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.04346400" lon="16.78315900">
+<name>27.51</name>
+<desc>Kładka dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.04547000" lon="16.78537100">
+<name>27.23</name>
+<desc>Zadaszone miejsce odpoczynku, wygodne miejsce wodowania</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.04984900" lon="16.79165700">
+<name>26.19</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.05147700" lon="16.78939300">
+<name>25.92</name>
+<desc>Mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.05483400" lon="16.79659900">
+<name>25.16</name>
+<desc>Jaz przy elektrowni wodnej (działający zabytek techniki z 1921 r), piętrzący wodę na 2,5m.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.05820200" lon="16.79754700">
+<name>24.78</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.06290300" lon="16.79708500">
+<name>24.19</name>
+<desc>Betonowa kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.07731700" lon="16.81804900">
+<name>20.36</name>
+<desc>Most drogowy, wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.08822800" lon="16.82576800">
+<name>18.91</name>
+<desc>Sklep spożywczy w Skałce</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="51.08904300" lon="16.82577600">
+<name>18.80</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.10232900" lon="16.82777900">
+<name>17.23</name>
+<desc>Odejście w lewo koryta w kierunku rzeki Strzegomki. Jest to alternatywa dla przenoski przez zamknięty jaz na Bystrzycy w Samotworze</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.10360300" lon="16.82945700">
+<name>17.10</name>
+<desc>Most drogowy na drodze w kierunku Gałowa. Wygodne miejsce wodowania kajaków. Przy wyższym poziomie wody bardzo mały prześwit pod mostem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.10495200" lon="16.83030800">
+<name>16.85</name>
+<desc>W przypadku zamkniętego jazu niewygodna przenoska 30m prze gęste krzaki i pokrzywy, lewą stroną</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.10688600" lon="16.82920700">
+<name>16.57</name>
+<desc>Z lewej strony do Bystrzycy uchodzi rzeka Strzegomka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.11697200" lon="16.83780400">
+<name>14.62</name>
+<desc>Przy wyższej wodzie przenoska lewą stroną 30m po trawie</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.11893700" lon="16.84107400">
+<name>14.31</name>
+<desc>Przy wyższej wodzie przenoska lewą stroną 30m po trawie</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.12210200" lon="16.84195600">
+<name>13.84</name>
+<desc>Most na drodze gruntowej do Gałowa</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.12846700" lon="16.86259300">
+<name>10.92</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.13760100" lon="16.87265700">
+<name>9.48</name>
+<desc>Most kolejowy, w pobliżu stacji Wrocław Leśnica</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.13768100" lon="16.87384900">
+<name>9.39</name>
+<desc>Przy wyższej wodzie przenoska lewym brzegiem 50m</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.13751100" lon="16.87585500">
+<name>9.25</name>
+<desc>Kładka dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.14497600" lon="16.87408100">
+<name>8.27</name>
+<desc>Most drogowy i tramwajowy. W pobliżu przystanki komunikacji miejskiej Wrocławia</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.14764000" lon="16.87500200">
+<name>7.93</name>
+<desc>Kładka dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.16619400" lon="16.88839900">
+<name>4.69</name>
+<desc>Przenoska lewym brzegiem 30m po betonowej opasce</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.16682500" lon="16.89201200">
+<name>4.17</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.17455300" lon="16.89787100">
+<name>3.11</name>
+<desc>Most kolejowy w pobliżu stacji Wrocław Pracze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.18817600" lon="16.90682300">
+<name>1.15</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.19479400" lon="16.91784300">
+<name>0.00</name>
+<desc>Ujście Bystrzycy do Odry. Spływ wygodnie jest zakończyć płynąc w dół Odrą 1,3 km do ujścia kanału wypływającego z oczyszczalni ścieków. Tuż przy ujściu znajduje się wygodna betonowa platforma, na którą można wjechać samochodem</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

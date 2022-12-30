@@ -1,0 +1,170 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.09759500" lon="16.47912600">
+<name>38.00</name>
+<desc>Most drogowy, wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.09798700" lon="16.48075600">
+<name>37.88</name>
+<desc>Stary kamienny, sklepiony, częściowo zawalony most przy zaniedbanym dworku</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.10490300" lon="16.49483100">
+<name>36.40</name>
+<desc>Dopływ z prawej potoku Jarosławiec</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.11269100" lon="16.49011700">
+<name>35.06</name>
+<desc>Duża zwałka i tama wykonana przez bobry. Woda piętrzy się tu na ok 2m a rozlewisko zalewa otaczający las tworząc liczne wąskie odnogi.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.11910600" lon="16.47774300">
+<name>33.87</name>
+<desc>Most drogowy, wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.12948800" lon="16.46153000">
+<name>32.00</name>
+<desc>Most drogowy, wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.13411000" lon="16.44823600">
+<name>30.34</name>
+<desc>Most w Zawadce</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.13410800" lon="16.42788900">
+<name>28.78</name>
+<desc>Most drogowy, wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.14908300" lon="16.42205900">
+<name>26.39</name>
+<desc>Bród z betonowych płyt</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.15484900" lon="16.41405200">
+<name>25.28</name>
+<desc>Most drogowy, wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.15636900" lon="16.40452400">
+<name>24.56</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.15644400" lon="16.40292600">
+<name>24.43</name>
+<desc>Łukowy, ceglany most kolejowy na nieczynnej trasie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.15621900" lon="16.38873500">
+<name>23.39</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.15872300" lon="16.37702900">
+<name>22.44</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.16593800" lon="16.35978400">
+<name>20.93</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.17132600" lon="16.37192300">
+<name>19.76</name>
+<desc>Prożek 0,7m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.17147800" lon="16.39834100">
+<name>17.55</name>
+<desc>Betonowa kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.17297900" lon="16.40838700">
+<name>16.66</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.17827800" lon="16.41383600">
+<name>15.94</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.19279800" lon="16.43281000">
+<name>13.62</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.19592600" lon="16.43591100">
+<name>13.13</name>
+<desc>Pod mostem kamienie w nurcie</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.21495500" lon="16.41461700">
+<name>9.65</name>
+<desc>Most kolejowy na trasie Wrocław - Legnica</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.22841200" lon="16.42186000">
+<name>7.86</name>
+<desc>Przenoska lewą stroną kilka metrów, lub przez kładkę</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.23121100" lon="16.42399000">
+<name>7.58</name>
+<desc>Przy moście 2 restauracje, 100m w lewo</desc>
+<cmt>bar</cmt>
+</wpt>
+<wpt lat="51.23468200" lon="16.43039200">
+<name>6.88</name>
+<desc>Most drogowy. Pod mostem kamienie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24414100" lon="16.44200000">
+<name>5.39</name>
+<desc>Jaz cofkowy przeciwpowodziowy, bez piętrzenia wody. Za nim kamienie w nurcie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.24349100" lon="16.44638900">
+<name>5.07</name>
+<desc>Most drogowy pomiędzy Kawicami a Lubiążem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24531600" lon="16.44867200">
+<name>4.80</name>
+<desc>Most drogowy na bocznej drodze w kierunku Malczyc. Na moście widoczna data 1916 r.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.25382900" lon="16.45449400">
+<name>3.38</name>
+<desc>Most drogowy pomiędzy Kawicami a Lubiążem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.25464300" lon="16.45459600">
+<name>3.27</name>
+<desc>Mostek na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.27204600" lon="16.44362000">
+<name>0.22</name>
+<desc>Most na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.27337100" lon="16.44209000">
+<name>0.00</name>
+<desc>Ujście Cichej Wody do Odry</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

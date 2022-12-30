@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="28" nazwa="Cetynia" wersja="6">
+<opis>Bardzo interesujacy lewy dopływ rzeki Bug. Ma mocno zróżnicowany charakter (płynie w ciemnym, zalesionym jarze, małym dość głębokim wąwozie, łąką, przedziera się przez trzcinowiska, ale jest też odcinek mono uregulowany). Ma też do pokonania kilka progów, przenosek oraz zwalonych drzew. Jesienią (wtedy nią płynęliśmy) tuż przed ujściem, może nawet całkiem zarosnąć zmuszając do przedzierania się przez gęste łoziny i starorzecze, aby dotrzeć do Buga. 
+Dostateczną ilość wody ma wczesną wiosną i po długotrwałych deszczach. 
+Polecam ją dla doświadczonych kajakarzy na jednoosobowych kajakach polietylenowych.
+Czas potrzebny do pokonania obu odcinków (oraz 4 km Buga) 6-8 godzin w zależności od poziomu wody, pory roku oraz doświadczenia kajakarzy.</opis> 
+  <odcinek id="101" typ="rzeka" nazwa="Cetynia od Zembrowa" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="1"> 
+  <opis>Mniej uciązliwy odcinek rzeki, pomimo to bardzo urozmaicony. Fragmenty łąkowy, jeziorny (gęste trzciny), kilka jazów, łoziny, parę zwałek oraz 1-2 przenoski (za to długie).</opis>
+    <punkt id="946" miejscowosc="" 
+      ns="52.612395" we="22.398262" km="19.28" etykieta="p32" 
+      kolejnosc="26"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Cetyni do Buga. Stąd jeszcze tylko 4km Bugiem do dogodnego miejsca zakończenia spływu we wsi Murawskie Nadburzańskie na prawym brzegu lub na lewym (świetne miejsce biwakowe) przy polnej drodze prowadzącej do wsi Kiełpiniec.
+</opispunktu> 
+    </punkt>
+    <punkt id="945" miejscowosc="Białobrzegi" 
+      ns="52.601636" we="22.405891" km="17.16" etykieta="p29" 
+      kolejnosc="25"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rzeka ponownie rozszerza się, by po ok. 800m zniknać pod grubą warstwą roślin wodnych. 
+Do Buga jest stąd ok. 300m na północ po łące, ale po drodze należy jeszcze pokonać mocno zarośnięte łozinami starorzecze. Wczesną wiosną zapewne nie będzie tego pronlemu.</opispunktu> 
+    </punkt>
+    <punkt id="944" miejscowosc="Białobrzegi" 
+      ns="0" we="0" km="" etykieta="p28a" 
+      kolejnosc="24"> 
+    <opispunktu typ="sklep" kolejnosc="-1"> Położona na lewym brzegu Wieś Białobrzegi oddalona jes o ok. 1 km, ale sklep ogólnospożywczy jest na końcu wsi ok. 1.8 km. </opispunktu> 
+    </punkt>
+    <punkt id="943" miejscowosc="Białobrzegi" 
+      ns="52.600196" we="22.402041" km="16.86" etykieta="p28" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany most drogowy. Początek wału po lewej stronie.
+Za mostem rzeka zwęża się do szerokości kajaka i płynie na poziomie ląki.</opispunktu> 
+    </punkt>
+    <punkt id="942" miejscowosc="Białobrzegi" 
+      ns="52.595366" we="22.395721" km="16.7" etykieta="p27" 
+      kolejnosc="22"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Cetynia zakręca prawie pod kątem prostym w lewo.
+Po prawej stronie pojawia się wał przeciwpowodziowy.</opispunktu> 
+    </punkt>
+    <punkt id="941" miejscowosc="Białobrzegi" 
+      ns="52.597706" we="22.390451" km="15.71" etykieta="p26" 
+      kolejnosc="21"> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Most betonowy. Z mostu, od spodu wystają grube stalowe druty!!! 
+Przy małym prześwicie bradzo duże niebezpieczeństwo zaczepienia się. 
+Bezpieczniej obnieść.</opispunktu> 
+    </punkt>
+    <punkt id="940" miejscowosc="" 
+      ns="52.592866" we="22.373051" km="14.12" etykieta="p25" 
+      kolejnosc="20"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 50 cm wyokości, spływalny.</opispunktu> 
+    </punkt>
+    <punkt id="939" miejscowosc="" 
+      ns="52.591756" we="22.376321" km="13.85" etykieta="p24" 
+      kolejnosc="19"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 30 cm wysokości, spływalny. 
+Koniec lasu mieszanego. 
+Dalej łąki.</opispunktu> 
+    </punkt>
+    <punkt id="938" miejscowosc="" 
+      ns="52.585706" we="22.374441" km="12.96" etykieta="p22" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka. 50 m dalej most drewniany. Po prawej początek lasu mieszanego. Na brzegach widoczne ślady żerowania bobrów.</opispunktu> 
+    </punkt>
+    <punkt id="937" miejscowosc="" 
+      ns="52.577966" we="22.369651" km="11.96" etykieta="p21" 
+      kolejnosc="17"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz i kładka nad nim.</opispunktu> 
+    </punkt>
+    <punkt id="936" miejscowosc="" 
+      ns="52.576117" we="22.36612" km="11.65" etykieta="p20" 
+      kolejnosc="16"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Linia wysokiego napięcia.</opispunktu> 
+    </punkt>
+    <punkt id="935" miejscowosc="Seroczyn" 
+      ns="52.567287" we="22.35259" km="10.2" etykieta="p19" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. 100 m dalej zastawka podnoszona.</opispunktu> 
+    </punkt>
+    <punkt id="934" miejscowosc="" 
+      ns="52.557457" we="22.3426" km="8.79" etykieta="p18" 
+      kolejnosc="14"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Zastawka. Woda kierowana do stawów po prawej. jeśli zastawka jest zamknieta, przenoska lewym brzegiem. Przy niskim stanie wody w rzece, cała woda moze być skierowana do zasilania stawów. 
+Czeka nas wtedy przenoska na odcinku ok.1300m do miejsca gdzie 
+stawy oddają wodę rzece (czyli ok.50m przed mostem Seroczyn).</opispunktu> 
+    </punkt>
+    <punkt id="933" miejscowosc="Szwejki" 
+      ns="0" we="0" km="" etykieta="p17a" 
+      kolejnosc="13"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Wieś Szwejki 500m w lewo. Mozliwość zakupów. </opispunktu> 
+    </punkt>
+    <punkt id="932" miejscowosc="Szwejki" 
+      ns="52.550777" we="22.33992" km="7.99" etykieta="p17" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="931" miejscowosc="" 
+      ns="52.546057" we="22.331979" km="7.18" etykieta="p16" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz w "zęby". Betonowy jaz wybudowany na wzór blank muru zamku. Przerwy pomiędzy  "zębami" umożliwiają przy niskiej wodzie swobodne spłynięcie kajakami jednoosobowymi. 
+Dwójki mogą się nie zmieścić.</opispunktu> 
+    </punkt>
+    <punkt id="930" miejscowosc="Zembrów" 
+      ns="52.532438" we="22.323339" km="5.31" etykieta="p14" 
+      kolejnosc="10"> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Wysoki jaz, za którym tworzy sie silny odwój. Przy dużej wodzie może być niebezpieczny. 
+Za jazem rzeka zmienia charakter na jeziorny - mocno zarosnięta trzcinami.</opispunktu> 
+    </punkt>
+    <punkt id="929" miejscowosc="Zembrów" 
+      ns="52.527305" we="22.315569" km="4.48" etykieta="p13a" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. 
+Za mostem rzeka płynie tu w głębokim na 2-3m jarze o pionowych ścianach.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="100" typ="rzeka" nazwa="Cetynia od Sabnie" 
+      uciazliwosc="U4" trudnosc="ZWB" 
+      malowniczosc="*" czystosc="KL3" 
+      kolejnosc="0"> 
+  <opis>"Zwałkowy" odcinek rzeki. Płytki dość bystry nurt. Płynie w mocno zadrzewionym jarze. Dużo zwalonych drzew, kładki i niskie mostki, jedna przenoska.</opis>
+    <punkt id="928" miejscowosc="Zembrów" 
+      ns="52.527305" we="22.315569" km="4.48" etykieta="p13" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Możliwość rozpoczęcia spływu na krótszej trasie. </opispunktu> 
+    </punkt>
+    <punkt id="927" miejscowosc="Zembrów" 
+      ns="52.522508" we="22.303339" km="3.44" etykieta="p12" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Kladka, a za nią bród.</opispunktu> 
+    </punkt>
+    <punkt id="926" miejscowosc="Zembrów" 
+      ns="52.521438" we="22.296009" km="2.89" etykieta="p11" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Kladka. Początek zabudowań wsi Zembrów
+Koniec odcinka Zwałkowego</opispunktu> 
+    </punkt>
+    <punkt id="925" miejscowosc="Sabnie" 
+      ns="0" we="0" km="1.92" etykieta="p10" 
+      kolejnosc="5"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Dwustopniowa zastawka. Tworzy dwa progi. Pierwszy 0.5 m, dalej drewniana 3 metrowa
+ pochylnia zakończona 0.9 m spadkiem. Raczej należy przenieść prawym brzegiem.
+</opispunktu> 
+    </punkt>
+    <punkt id="924" miejscowosc="Sabnie" 
+      ns="52.513259" we="22.297398" km="1.87" etykieta="p9" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Gospodarstwo na lewym brzegu. 50 m dalej dwustopniowa zastawka.</opispunktu> 
+    </punkt>
+    <punkt id="923" miejscowosc="Sabnie" 
+      ns="0" we="22.299028" km="0.85" etykieta="p8" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Tama(próg) ziemno-drewniana (0k. 0.9 m).</opispunktu> 
+    </punkt>
+    <punkt id="922" miejscowosc="Sabnie" 
+      ns="52.507349" we="22.299348" km="0.69" etykieta="p7" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek dla pieszych.</opispunktu> 
+    </punkt>
+    <punkt id="921" miejscowosc="Sabnie" 
+      ns="52.504869" we="22.301108" km="0.28" etykieta="p6" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska metalowa kładka.</opispunktu> 
+    </punkt>
+    <punkt id="920" miejscowosc="Sabnie" 
+      ns="52.504149" we="22.302548" km="0" etykieta="p5" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Dogodne miejsce do rozpoczecia spływu. 
+Rzeka płynie w mocno zadrzewionym jarze i ma charakter "zwałkowy".</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

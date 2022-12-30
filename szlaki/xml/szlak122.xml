@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="122" nazwa="Nysa Szalona" wersja="2">
+<opis>Niewielka rzeczka w środkowej części woj. dolnośląskiego - prawy dopływ Kaczawy. Płynie na pograniczu gór i nizin, dzięki czemu jest stosunowo bystra i "wyhamowywana" licznymi, mniejszymi i większymi prożkami. Na obszarach zabudowanych uregulowana betonowymi ograniczeniami i wzmocnieniami brzegów, poza terenem zabudowanym bardziej dzika, zarośnięta drzewami i krzakami. Przy typowych warunkach wodnych nieco płytka, więcej wody pojawia się na granicy Wolbromka i Kłaczyny, gdzie do Nysy z prawej strony wpływa rzeczka Sadówka i od tego miejsca daje się płynąć. Znacznie lepiej robi się dopiero od wpływu z lewej strony Nysy Małej. Od tego miejsca płynie się już praktycznie bez kontaktu z dnem. W wodzie, na brzegach i na drzewach dużo śmieci, chociaż woda stosunkowo czysta i mało śmierdząca. Rzeczka jest łatwo dostępna z brzegu na całym odcinku ze względu na bliskość dróg i zabudowań.
+W dniu płynięcia odcinka z Kłaczyny do Jawora, wodowskaz w Jaworze wskazywał poziom 32. Przy tym stanie wody, komfortowo płynie się dopiero od ujścia Nysy Małej, powyżej tego miejsca bardzo często haczy się o wystające z dna kamienia, czego przy wartkim nurcie nie da się uniknąć. Andrzej Pokonieczny dodaje, że przy poziomie minimum 40 (wodowskaz Jawor) pływać można z Czernicy, minimum 50 - z Kłaczyny, minimum 70 - z Bolkowa, zaliczając górski odcinek WWI w Wolbromku.</opis> 
+  <odcinek id="491" typ="rzeka" nazwa="Gniewków - Jawor" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Odcinek z Gniewkowa do Jawora dużo bardziej dziki ze względu na większe oddalenie od siedzib ludzkich. Sporo krzaków i drzew na brzegach, jednak bez zwałek w korycie.</opis>
+    <punkt id="4386" miejscowosc="Jawor" 
+      ns="51.05691572" we="16.17336552" km="18" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="sklep" kolejnosc="-1">W pobliżu mostu sklep spożywczy na nieodległym osiedlu mieszkaniowym.</opispunktu> 
+    </punkt>
+    <punkt id="4385" miejscowosc="Jawor" 
+      ns="51.05237275" we="16.1848703" km="19" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek w Jaworze</opispunktu> 
+    </punkt>
+    <punkt id="4384" miejscowosc="Jawor" 
+      ns="51.04835594" we="16.18981286" km="19.6" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, pod nim wodowskaz "JAWOR"</opispunktu> 
+    </punkt>
+    <punkt id="4383" miejscowosc="Jawor" 
+      ns="51.04057737" we="16.20350251" km="21" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 2-stopniowy z niewielkim odwojem. Na niższym progu ostro krawędziste kamienie. Przy wyższych stanach wody (wodowskaz Jawor &gt;40) pierwszy próg jest bardzo niebezpieczny. Tworzy się za nim długi odwój o głębokiej cyrkulacji i jest tam 2m głębokości. Natomiast ten drugi stopień to okresowa tama zbudowana z kamieni przez dzieci, które tam się kąpią.</opispunktu> 
+    </punkt>
+    <punkt id="4382" miejscowosc="Zębowice" 
+      ns="51.0398424" we="16.21048949" km="21.7" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w Zębowicach</opispunktu> 
+    </punkt>
+    <punkt id="4381" miejscowosc="Czernica" 
+      ns="51.01072004" we="16.20749275" km="25.4" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pod mostem próg 1m. Fartuch, który do tej pory nie był konieczny, na tym progu może być wskazany.</opispunktu> 
+    </punkt>
+    <punkt id="4380" miejscowosc="Czernica" 
+      ns="51.00984072" we="16.20702618" km="25.5" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Wygodna przenoska lewym brzegiem 30m po trawie</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg z pochylnią i dużym głazem po środku. W prawo odprowadzenie wód "młynówki"</opispunktu> 
+    </punkt>
+    <punkt id="4379" miejscowosc="Czernica" 
+      ns="51.00417299" we="16.20942742" km="26.2" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Nysy Małej. Znacząca poprawa jakości płynięcia ze względu na ilość wody.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="490" typ="rzeka" nazwa="Kłaczyna - Gniewków" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Odcinek z Kłaczyny do Gniewkowa to głównie teren zabudowany (zaplecze wiejskich gospodarstw). Wzmocnione brzegi, liczne prożki, nurt wartki.</opis>
+    <punkt id="4378" miejscowosc="Gniewków" 
+      ns="50.99872961" we="16.21691666" km="27" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w Gniewkowie</opispunktu> 
+    </punkt>
+    <punkt id="4377" miejscowosc="Gniewków" 
+      ns="50.99183725" we="16.22385259" km="28" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w Gniewkowie</opispunktu> 
+    </punkt>
+    <punkt id="4376" miejscowosc="Dzierzków" 
+      ns="50.98424954" we="16.23531463" km="29.3" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w Dzierzkowie</opispunktu> 
+    </punkt>
+    <punkt id="4375" miejscowosc="Roztoka" 
+      ns="50.97334846" we="16.23469804" km="30.6" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska lewym lub prawym brzegiem 20m po trawie</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek 0,7m za nim płytko</opispunktu> 
+    </punkt>
+    <punkt id="4374" miejscowosc="Roztoka" 
+      ns="50.96860555" we="16.23358347" km="31.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4373" miejscowosc="Roztoka" 
+      ns="50.95749978" we="16.22922013" km="32.5" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4372" miejscowosc="Kłaczyna" 
+      ns="50.9528013" we="16.21610259" km="33.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska prawym lub lewym brzegiem 20m po trawie.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 1,2m, za nim płytko.</opispunktu> 
+    </punkt>
+    <punkt id="4371" miejscowosc="Kłaczyna" 
+      ns="50.94389391" we="16.19866877" km="35.4" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4370" miejscowosc="Kłaczyna" 
+      ns="50.9354068" we="16.1786719" km="37.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 4 stopniowy. Wygodne miejsce rozpoczynania spływu. Powyżej wpada do Nysy rzeka Sadówka znacznie poprawiając stosunki wodne. Przy progu sporo miejsca na samochody a właściciele terenu są przychylni kajakarzom.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="117" nazwa="Smolna" wersja="1">
+<opis>Niewielka rzeczka we wschodniej części województwa dolnośląskiego, prawy dopływ Widawy. Początek swój bierze gdzieś pomiędzy Oleśnicą a Bierutowem, natomiast do Widawy uchodzi w kompleksie leśnym w okolicach Leśnego Młyna. Ze względu na swe rozmiary, dla kajaków dostępna jest podczas wiosennych roztopów oraz po intensywnych opadach. Rzeka stosunkowo gęsto piętrzona, ze sporą ilością betonowych progów. Dla lubiących skakanie w kajaku może być atrakcyjna, dla obnoszących takie miejsca - dość uciążliwa. Na odcinku nieco ponad 10 km znajdują się 3 obowiązkowe przenoski (brak możliwości przepłynięcia) i cały szereg mniejszych progów możliwych do pokonania w kajaku. Prześwit poziomy (szerokość) niektórych jazów uniemożliwia swobodne spłynięcie i kajak blokuje się (zawisa) na progu. Odcinek od Gręboszyc do ujścia do Widawy zajmuje około 3 h. Na Smolnej nie ma wodowskazów, najbliższy znajduje się na Widawie w miejscowości Zbytowa. W dniu płynięcia Smolną wodowskaz ten wskazywał poziom 359. Ilość wody pod kilem była wystarczająca do swobodnego pływania. </opis> 
+    <punkt id="4246" miejscowosc="Gręboszyce" 
+      ns="51.166583" we="17.4426453" km="11.7" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z podwójnym wąskim przepustem. Wygodne miejsce rozpoczęcia spływu.</opispunktu> 
+    </punkt>
+    <punkt id="4247" miejscowosc="Smolna" 
+      ns="51.16514609" we="17.42762457" km="10.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Bardzo niski betonowy mostek.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska 10m lewą lub prawą stroną.</opispunktu> 
+    </punkt>
+    <punkt id="4248" miejscowosc="Smolna" 
+      ns="51.16524328" we="17.4265164" km="10.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowa zastawka o wysokości około 0,4 m, z dwoma przepustami</opispunktu> 
+    </punkt>
+    <punkt id="4249" miejscowosc="Smolna" 
+      ns="51.16053069" we="17.41547221" km="9.3" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pod mostem zastawka piętrząca wodę na około 1,5 m. Praktycznie brak możliwości przepłynięcia - na środku 2 stalowe elementy konstrukcyjne jazu.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Niewygodna przenoska około 20 m przez szosę i barierki</opispunktu> 
+    </punkt>
+    <punkt id="4250" miejscowosc="Smolna" 
+      ns="51.15864003" we="17.41196576" km="9" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowa zastawka o wysokości około 1 m.</opispunktu> 
+    </punkt>
+    <punkt id="4251" miejscowosc="Zimnica" 
+      ns="51.15769646" we="17.40331042" km="8.3" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowa zastawka o wysokości około 1 m z dwoma przepustami.</opispunktu> 
+    </punkt>
+    <punkt id="4252" miejscowosc="Zimnica" 
+      ns="51.15440669" we="17.39881472" km="7.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowa zastawka o wysokości około 0,6 m.</opispunktu> 
+    </punkt>
+    <punkt id="4253" miejscowosc="Zimnica" 
+      ns="51.149169" we="17.39448482" km="7.1" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na gruntowej drodze.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka piętrząca wodę na około 1,5 m. Praktycznie brak możliwości przepłynięcia.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewym brzegiem około 10 m.</opispunktu> 
+    </punkt>
+    <punkt id="4254" miejscowosc="Ligota Mała" 
+      ns="51.1398632" we="17.38118146" km="5.7" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4255" miejscowosc="Ligota Mała" 
+      ns="51.13929684" we="17.38040485" km="5.6" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowa zastawka o wysokości około 0,3 m z dwoma przepustami.</opispunktu> 
+    </punkt>
+    <punkt id="4256" miejscowosc="Ligota Mała" 
+      ns="51.1350416" we="17.378025" km="5" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowa zastawka o wysokości około 0,5 m z dwoma przepustami</opispunktu> 
+    </punkt>
+    <punkt id="4257" miejscowosc="Ligota Mała" 
+      ns="51.13232028" we="17.37872297" km="4.7" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowa zastawka o wysokości około 0,3 m z dwoma przepustami.</opispunktu> 
+    </punkt>
+    <punkt id="4258" miejscowosc="Ligota Mała" 
+      ns="51.12997019" we="17.37737741" km="4.5" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Ruchoma zastawka. W dniu płynięcia możliwa do pokonania.</opispunktu> 
+    </punkt>
+    <punkt id="4259" miejscowosc="Ligota Mała" 
+      ns="51.12850075" we="17.37543442" km="4.2" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4260" miejscowosc="Ligota Mała" 
+      ns="51.12089277" we="17.36235581" km="3" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek w lesie</opispunktu> 
+    </punkt>
+    <punkt id="4261" miejscowosc="Leśny Młyn" 
+      ns="51.12188819" we="17.33694544" km="1" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4262" miejscowosc="Leśny Młyn" 
+      ns="51.1172053" we="17.32919962" km="0" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Smolnej do Widawy</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

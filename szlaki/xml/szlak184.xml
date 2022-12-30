@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="184" nazwa="Piławka" wersja="1">
+<opis>Niewielki dopływ Dobrzycy, w dorzeczu Gwdy, możliwy do spłynięcia głównie wiosną oraz podczas podwyższonych stanów wody. Jest to jedna z nielicznych polskich rzek 7 rzędu, w której ilość wody umożliwia spłynięcie kajakiem. Mimo tego, że rzeka w większości przepływa przez obszary zalesione nie jest specjalnie trudna ani uciążliwa. Na odcinku z Chrząstkowa do Ostrowca nurt jest spokojny, pojedyncze drzewa w korycie, z małymi wyjątkami nie są trudne do pokonania, a do spłynięcia są jedynie dwa niewielkie prożki. Rzeka znana jest przede wszystkim jako element tzw. Pętli Wałeckiej, o długości szlaku około 45 km, w tym dwie kilkusetmetrowe przenoski, natomiast sama Piławka, bez jeziora Bytyń Wielki, z którego wypływa, ma nieco ponad 20 km. Odcinek z Chrząstkowa do Ostrowca na Dobrzycy, w październiku 2019, kilku K1 zajął około 5h, z czego 4h to spływ Piławką. </opis> 
+    <punkt id="5815" miejscowosc="Chrząstkowo" 
+      ns="53.30360614" we="16.40666753" km="9" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze nr 10 Wałcz - Szczecin. Jadąc od strony Wałcza, zaraz za mostem wygodnie jest skręcić w prawo, w gruntową, nieoznakowaną drogę do Kłębowca. Z tego miejsca najwygodniej i najkrócej jest przerzucić kajaki na drugą stronę szosy [uwaga na pędzące TIRy], w pobliżu zatoczki autobusowej, tuż nad rzekę. Teren przy moście zazwyczaj jest utrzymany i wykoszony. Tabliczka kilometrowa informuje o 31,4 km szlaku [prawdopodobnie Pętli Wałeckiej], jednak jest to jedyna tabliczka na odcinku do ujścia. Most stanowi półokrągły przepust, a brzegi wzmocnione są kamieniami. Poniżej rzeka przepływa przez fragment lasu, następnie teren się otwiera, pojawiają się trzciny, a z wody wystają malownicze kikuty suchych drzew</opispunktu> 
+    </punkt>
+    <punkt id="5816" miejscowosc="Olszynka" 
+      ns="53.30424946" we="16.41846222" km="7.9" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niewielki prożek do spłynięcia, trochę chlapiący. Na początku około 0,8 m pionu a dalej pochyłe, kamienne bystrze. Poniżej odcinek zwałkowy, niektóre przeszkody wymagają współpracy zespołowej</opispunktu> 
+    </punkt>
+    <punkt id="5817" miejscowosc="Olszynka " 
+      ns="53.30517322" we="16.45230494" km="5" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Sklepiony most na drodze nr 163 z Wałcza do Czaplinka. Możliwość podjęcia kajaków</opispunktu> 
+    </punkt>
+    <punkt id="5818" miejscowosc="Olszynka " 
+      ns="53.30569208" we="16.45592799" km="4.6" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na nieczynnej linii kolejowej pomiędzy Wałczem a Złocieńcem. Pod mostem kamienne bystrze</opispunktu> 
+    </punkt>
+    <punkt id="5819" miejscowosc="Olszynka" 
+      ns="53.30424274" we="16.45832345" km="4.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej stronie fragmenty nieużytkowanej budowli, wraz z rurą uchodzącą do rzeki. Cały czas odcinek rzeki płynącej przez las, ze zwałkami wymagającymi współpracy</opispunktu> 
+    </punkt>
+    <punkt id="5820" miejscowosc="Pluskota" 
+      ns="53.30649309" we="16.46746599" km="3.15" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowy próg o wysokości około 1m. Pod progiem jest głęboko więc można bezpiecznie spływać</opispunktu> 
+    </punkt>
+    <punkt id="5821" miejscowosc="Pluskota" 
+      ns="53.30669094" we="16.46766103" km="3.1" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na lokalnej drodze. Możliwość podjęcia kajaków. Poniżej odcinek leśny, zwałkowy, dość uciążliwy. Niektóre przeszkody wymagają współpracy zespołowej</opispunktu> 
+    </punkt>
+    <punkt id="5822" miejscowosc="Kołatnik" 
+      ns="53.30702" we="16.48380122" km="1.2" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście rzeczki Pilca [zwanej też zamiennie: Żydówka, Żydowska Struga, Młynówka, Młynarka, podobnie jak przed wojną Juden Fliess i Muhlenfliess]</opispunktu> 
+    </punkt>
+    <punkt id="5823" miejscowosc="Kołatnik" 
+      ns="53.30807301" we="16.49506963" km="0.1" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Bezimienny, ale wyraźny dopływ z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="5824" miejscowosc="Ostrowiec " 
+      ns="53.30917199" we="16.4958838" km="0" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Piławki do Dobrzycy. Spływ wygodnie jest zakończyć przy moście w Ostrowcu, około 1 h w dół Dobrzycą</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

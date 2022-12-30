@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="130" nazwa="Biała Łada" wersja="1">
+<opis>Prawy dopływ Tanwi; płynie z Roztocza Zachodniego przez Równinę Biłgorajską w woj. lubelskim, w powiatach janowskim i biłgorajskim oraz na krótkim odcinku niżańskim (woj. podkarpackie). Biała Łada (dawniej Łada Polska) wypływa we wsi Chrzanów Pierwszy (część wsi Chrzanów) na wysokości 260 m n.p.m. W okolicy miejscowości Sól (powiat biłgorajski) rzeka przyjmuje swój największy (lewy) dopływ Czarną Ładę (dawniej Łada Ruska) i przybiera nazwę Łada. Płynie z północy na południe i przepływa m.in. przez Goraj, Wolę Radzięcką i miasto Biłgoraj. Rzeka uchodzi do Tanwi w pobliżu wsi Łazory na wysokości 170 m n.p.m. (wg Wikipedii).
+Niewielka, częściowo uregulowana rzeczka, dostępna w górnym biegu raczej dla K1, o charakterystycznym mlecznym zabarwieniu (stąd zapewne jej nazwa). Z wędkarskiego punktu widzenia jest to "kraina pstrąga i lipienia", co może świadczyć o czystości wody</opis> 
+    <punkt id="4688" miejscowosc="Goraj" 
+      ns="50.71885831" we="22.67114732" km="63.9" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w pobliżu centrum miejscowości. Dobry dojazd i wygodne wodowanie. Poniżej mostu sporo trawiastej przestrzeni. Brzegi dość wysokie i strome, porośnięte trawą. Rzeka ma tu 4-6 m szerokości, koryto jest uregulowane, teren odsłonięty z pojedynczymi drzewami</opispunktu> 
+    </punkt>
+    <punkt id="4689" miejscowosc="Bononia" 
+      ns="50.71202204" we="22.67617276" km="62.9" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Bardzo ładny most drogowy - kamienny, sklepiony, z podwójnym przepustem. Albo bardzo stary, albo bardzo dobrze wystylizowany na "stary"</opispunktu> 
+    </punkt>
+    <punkt id="4690" miejscowosc="Bononia" 
+      ns="50.7111619" we="22.67965253" km="62.6" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi 835, za nim widoczna na drzewach działalność bobrów</opispunktu> 
+    </punkt>
+    <punkt id="4691" miejscowosc="Wólka Abramowska" 
+      ns="50.70772906" we="22.68757143" km="61.9" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, pod nim bystrze i rura przechodząca nisko nad wodą</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej mostu, w pewnej odległości od niego znajdują się 2 pochyłe prożki oraz 1 bobrowa tama </opispunktu> 
+    </punkt>
+    <punkt id="4692" miejscowosc="Abramów" 
+      ns="50.69701603" we="22.69873645" km="60.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Spory dopływ z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="4693" miejscowosc="Abramów" 
+      ns="50.69449855" we="22.69967558" km="60" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pochyły prożek</opispunktu> 
+    </punkt>
+    <punkt id="4694" miejscowosc="Abramów" 
+      ns="50.68936356" we="22.70532736" km="59" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4695" miejscowosc="Radzięcin" 
+      ns="50.67860273" we="22.71267495" km="57.3" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, za nim bystrze. Poniżej mostu, w pewnej odległości od siebie znajdują się 4 pochyłe prożki</opispunktu> 
+    </punkt>
+    <punkt id="4696" miejscowosc="Stara Wieś" 
+      ns="50.67164348" we="22.72194424" km="56" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek</opispunktu> 
+    </punkt>
+    <punkt id="4697" miejscowosc="Stara Wieś" 
+      ns="50.67070825" we="22.72125233" km="55.8" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek</opispunktu> 
+    </punkt>
+    <punkt id="4698" miejscowosc="Stara Wieś" 
+      ns="50.6680793" we="22.72219171" km="55.5" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Duży most na ruchliwej drodze nr 74</opispunktu> 
+    </punkt>
+    <punkt id="4699" miejscowosc="Kąty" 
+      ns="50.65249376" we="22.72639562" km="51.8" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zaczyna się odcinek dziki, nieuregulowany, z częstymi drzewami w korycie, wymagającymi sporej gimnastyki</opispunktu> 
+    </punkt>
+    <punkt id="4700" miejscowosc="Kąty" 
+      ns="50.65666157" we="22.71390855" km="50.7" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka</opispunktu> 
+    </punkt>
+    <punkt id="4701" miejscowosc="Rzeczyce" 
+      ns="50.6538197" we="22.68878989" km="46.6" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.W pobliżu sporo miejsca na pozostawienie samochodu. Wygodny punkt zakończenia/rozpoczynania spływu</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">W pobliżu mostu sklep spożywczy</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

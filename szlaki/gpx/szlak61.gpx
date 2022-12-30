@@ -1,0 +1,476 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.05170000" lon="19.91600000">
+<name>75.40</name>
+<desc>Po lewej ujście rzeki Rudawy. Zaczyna się betonowe nabrzeże i bulwar Krakowa.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.05420000" lon="19.92810000">
+<name>76.50</name>
+<desc>Drogowy most Dębnicki.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.05360000" lon="19.93200000">
+<name>76.70</name>
+<desc>Wzgórze Wawelskie.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.04960000" lon="19.93410000">
+<name>77.20</name>
+<desc>Most drogowy Grunwaldzki.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.04420000" lon="19.94110000">
+<name>78.00</name>
+<desc>Z prawej ujście rzeki Wilgi. Długość 21,4 km.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.04540000" lon="19.94490000">
+<name>78.30</name>
+<desc>Most drogowy Józefa Piłsudzkiego. Oddany do użytku w 1933 roku. Ma 146,42 metry długości i 10 metrów szerokości użytkowej.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.04930000" lon="19.95300000">
+<name>79.00</name>
+<desc>Most drogowy Powstańców Śląskich.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.05010000" lon="19.95450000">
+<name>79.20</name>
+<desc>Most kolejowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.05260000" lon="19.96080000">
+<name>79.70</name>
+<desc>Most Kotlarski. Zbudowany w 2001 roku, najdłuższy w Polsce most łukowy nie posiadający przęseł w nurcie rzeki. Długość przęsła 166 metrów.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.05240000" lon="19.96440000">
+<name>80.10</name>
+<desc>Po prawej port Zabłocie i przeładunek kruszywa. trzeba uważać na pływające barki.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.05240000" lon="19.96950000">
+<name>80.30</name>
+<desc>Most kolejowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.05410000" lon="19.97640000">
+<name>80.80</name>
+<desc>Śluza stopnia wodnego Dąbie. Opłata za śluzowanie to 3,25 zł od kajaka. tel. (0-12) 656-04-96</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.05590000" lon="19.98170000">
+<name>81.30</name>
+<desc>Po prawej główki portu Płaszów.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.05500000" lon="19.99710000">
+<name>82.90</name>
+<desc>Most drogowy Łęg.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.05190000" lon="20.04980000">
+<name>87.90</name>
+<desc>Most drogowy Wandy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.05080000" lon="20.05810000">
+<name>88.50</name>
+<desc>Przystań na lewym brzegu. Prawdopodobnie także możliwość noclegu.</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="50.05120000" lon="20.07070000">
+<name>89.40</name>
+<desc>Po lewej ujście rzeki Dlubnii, długości 49,2 km.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.05330000" lon="20.08700000">
+<name>90.60</name>
+<desc>Po lewej ujście jakiegoś niewykorzystywanego portu.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.04660000" lon="20.09540000">
+<name>91.20</name>
+<desc>Początek górnego kanału śluzy Przewóz - w lewo, długość 180 m. należy sprawdzić czy śluza działa szczególnie przy niskich stanach wody - tel. (0-12) 645-06-40</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.04480000" lon="20.10060000">
+<name>91.50</name>
+<desc>Śluza Przewóz. Jeśli nie działa z powodu niskiego stanu wody, trzeba wrócić do głównego nurtu i przenieść kajak lewym brzegiem ok. 150 m. przy stopniu wodnym Przewóz. Na samym końcu w wodzie zatopione są ostre metalowe pręty - trzeba obnieść.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.04270000" lon="20.11690000">
+<name>93.60</name>
+<desc>Po lewej ujście kanałku tworzącego kilkumetrowy wodospad.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.04270000" lon="20.15950000">
+<name>98.00</name>
+<desc>Most kolejowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.04950000" lon="20.21240000">
+<name>102.40</name>
+<desc>W prawo do centrum Niepołomic ok. 2km.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="50.09310000" lon="20.29130000">
+<name>111.20</name>
+<desc>Z lewej strony znajduje się stary port remontowy oraz cmentarzysko starych barek. Widok dosyć interesujący.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.11800000" lon="20.36010000">
+<name>119.35</name>
+<desc>Bystrze z licznymi kamiennymi płytami w nurcie, szczególnie odczuwalne przy niskim stanie wody. Płynąć prawą stroną.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.12020000" lon="20.37860000">
+<name>121.24</name>
+<desc>Do Nowego Brzeska w lewo 1km.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="50.13760000" lon="20.50870000">
+<name>134.65</name>
+<desc>Po prawej ujście rzeki Raby. Długość 131,9 km.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.15420000" lon="20.59680000">
+<name>144.00</name>
+<desc>Po lewej ujście rzeki Szreniawy, dł. 79,8 km.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.15270000" lon="20.61050000">
+<name>145.20</name>
+<desc>Nowy most drogowy między Szczurową a Sokołowicami na drodze 768.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.18920000" lon="20.65950000">
+<name>150.70</name>
+<desc>Z prawej strony ujście rzeki Uszwicy.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.20510000" lon="20.68000000">
+<name>153.00</name>
+<desc>Z lewej strony ujście rzeki Nidzicy, dł. 62,9 km. W dolnym biegu jej wody są silnie zanieczyszczone.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.24200000" lon="20.72810000">
+<name>160.60</name>
+<desc>Po prawej ujście rzeki Dunajec dl. 247 km. Jest to doskonały szlak na którym można rozpocząć spływ i dalej kontynuować płynięcie Wisłą, przez co unikamy nieciekawego odcinka za Krakowem.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.27510000" lon="20.77400000">
+<name>166.00</name>
+<desc>Po prawej wodowskaz Karsy. Rzędna "0"=166,71cm (WW=920cm SW=164cm)</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.29010000" lon="20.80170000">
+<name>169.00</name>
+<desc>Prom górnolinowy między miejscowościami Nowy Korczyn i Borusowa.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.29640000" lon="20.85430000">
+<name>175.40</name>
+<desc>Po lewej ujście rzeki Nidy dł. 153 km. W górnym biegu, od Mniszka do Mokrska Górnego bardzo malowniczy szlak kajakowy.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.32440000" lon="21.07440000">
+<name>193.82</name>
+<desc>Most drogowy Szczucin.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.39830000" lon="21.28180000">
+<name>219.00</name>
+<desc>Wyspa i rozgałęzienie nurtu Wisły. Główny nurt po lewej, ale przy wysokiej wodzie można przepłynąć po prawej stronie.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.42200000" lon="21.31130000">
+<name>221.00</name>
+<desc>Do miasta w lewo ok 2 km.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="50.42650000" lon="21.32640000">
+<name>222.00</name>
+<desc>Po lewej ujście rzeki Czarna.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.43160000" lon="21.33600000">
+<name>222.90</name>
+<desc>Nadbrzeże elektrowni Połaniec. Należy płynąć przy prawym brzegu i obserwować znaki nawigacyjne.</desc>
+<cmt>niebezpieczeństwo</cmt>
+</wpt>
+<wpt lat="50.43550000" lon="21.34380000">
+<name>223.65</name>
+<desc>Próg piętrzący przy elektrowni w Połańcu. Znajduje się kilkaset metrów poniżej głównego bloku elektrowni. Za nim tworzy się silny odwój i niezbędne jest przenoszenie kajaka prawym, betonowym brzegiem. Próg jest ruchomy i działa w przypadku niskich stanów wody. Informacji o aktualnej sytuacji można się dowiedzieć pod nr. tel. (0-15) 865-61-66.</desc>
+<cmt>niebezpieczeństwo</cmt>
+</wpt>
+<wpt lat="50.43740000" lon="21.38520000">
+<name>226.90</name>
+<desc>Po prawej stronie ujście rzeki Wisłoka.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.46040000" lon="21.44960000">
+<name>232.20</name>
+<desc>Most kolejowy LHS (Linia Hutnicza Szerotorowa) Zaduszniki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.44030000" lon="21.40410000">
+<name>227.30</name>
+<desc>Linia wysokiego napięcia.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.51450000" lon="21.53080000">
+<name>242.70</name>
+<desc>Prom górnolinowy</desc>
+<cmt>niebezpieczeństwo</cmt>
+</wpt>
+<wpt lat="50.51880000" lon="21.60210000">
+<name>247.70</name>
+<desc>Most kolejowy i drogowy na grodze nr 371 Łążek LB-Siedleszczany PB. Na horyzoncie widać Tarnobrzeg.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.57170000" lon="21.65730000">
+<name>254.82</name>
+<desc>Do sklepu należy przejść przez park i alejką w górę skarpy wejść na osiedle. Ok 5 minut od rzeki znajduje się kilka dużych sklepów czynnych również w niedzielę.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="50.66810000" lon="21.73550000">
+<name>267.50</name>
+<desc>Przystań LOK.</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="50.67400000" lon="21.75690000">
+<name>269.05</name>
+<desc>Most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.67300000" lon="21.75890000">
+<name>269.15</name>
+<desc>Po prawej stronie wejście do portu.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.68030000" lon="21.79190000">
+<name>273.00</name>
+<desc>Most kolejowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.73550000" lon="21.84420000">
+<name>280.70</name>
+<desc>Ujście Sanu z prawej strony.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.80500000" lon="21.86450000">
+<name>287.50</name>
+<desc>W miasteczku jest kilka sklepów, bankomat, apteka.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="50.86750000" lon="21.84800000">
+<name>295.00</name>
+<desc>Po prawej stronie ujście rzeki Sanna o długości 51km i powierzchni dorzecza 606 km?. Źródła jej wypływają w miejscowości Wierzchowiska. Górny bieg Sanny zaliczany jest do najpiękniejszych pod względem krajobrazowym na Wyżynie Lubelskiej.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.87190000" lon="21.84250000">
+<name>296.80</name>
+<desc>Po prawej stronie widoczne wysokie, kilkudziesięciometrowe wapienne urwiska.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.88490000" lon="21.83010000">
+<name>298.40</name>
+<desc>Wodowskaz po prawej stronie: WW 680 SW 290</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.06060000" lon="21.82150000">
+<name>321.50</name>
+<desc>Na charakterystycznym wysokim brzegu znajduje się niewielki wiejski sklepik. Wcześniej po prawej stronie leży Józefów, ale szerokość rzeki utrudnia dopłynięcie.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="51.08440000" lon="21.79370000">
+<name>324.00</name>
+<desc>Po lewej stronie ujście rzeki Kamiennej. Długość 138 km (wg innych źródeł ? nawet 156 km) powierzchnia dorzecza  2007,9 km2 średni przepływ w górnym biegu 1,5 m3/s średni przepływ przy ujściu 10 m3/s Kamienna oprócz okresów suszy jest dostępna dla spływów kajakowych od Skarżysko-Kamienna.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.13940000" lon="21.78920000">
+<name>331.00</name>
+<desc>Po lewej stronie na wysokiej skarpie widoczne zabudowania Solca i ruin starego zamku.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.15280000" lon="21.78070000">
+<name>331.50</name>
+<desc>Po lewej stronie przeprawy promowej znajduje się sklep.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="51.30960000" lon="21.90250000">
+<name>355.50</name>
+<desc>Po lewej stronie na wysokiej skarpie widoczne są ruiny zamku w Janowcu. Po prawej na wysokiej skarpie stoi zabytkowy wiatrak w Męćmierzu. W oddali widoczne zabudowania Kazimierza.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.31750000" lon="21.91620000">
+<name>356.70</name>
+<desc>Prom dolnolinowy. W weekendy i dni wolne od pracy prom pełen jest turystów, a po obu stronach stoją kolejki do przeprawy. Kajakarze wywołują spore zainteresowanie.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.32400000" lon="21.94370000">
+<name>359.00</name>
+<desc>Na wysokości miasta, w górę aż do promu w Janowcu i w dół rzeki pływają statki z wycieczkami.</desc>
+<cmt>niebezpieczeństwo</cmt>
+</wpt>
+<wpt lat="51.41360000" lon="21.94470000">
+<name>371.50</name>
+<desc>Most drogowy Puławy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>371.90</name>
+<desc>Po prawej wejście do portu w Puławach.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.42370000" lon="21.94680000">
+<name>372.60</name>
+<desc>Po prawej stronie przystań żeglugi (statki kursują w sezonie pomiędzy Puławami, a Kazimierzem Dolnym). Bulwar miejski.</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="51.43770000" lon="21.94340000">
+<name>374.20</name>
+<desc>Nowy most drogowy w kształcie charakterystycznego łuku. Najdłuższe przęsło mostowe w Polsce długość 221m.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>374.50</name>
+<desc>Po prawej ujście rzeki Kurówki, długość: 50 km.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.44550000" lon="21.94510000">
+<name>374.90</name>
+<desc>Pompownia - ujęcie wody dla Zakłądów Azotowych Puławy. W
+sąsiedztwie ośrodek rekraacyjny sezonowy możliwość noclegu, bufet. </desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.54700000" lon="21.83440000">
+<name>391.80</name>
+<desc>Ujście rzeki Wieprz dł. 303 km. Jej o naturalnych walorach przyrodniczych i krajobrazowych posiada status obrazu chronionego bogatego w liczne rozlewiska , mokradła i starorzecza</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.55070000" lon="21.83190000">
+<name>392.30</name>
+<desc>Most kolejowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.55560000" lon="21.83220000">
+<name>392.80</name>
+<desc>Na prawym brzegu zabudowania twierdzy Dęblin.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.55960000" lon="21.82690000">
+<name>393.40</name>
+<desc>Most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.56740000" lon="21.80530000">
+<name>395.10</name>
+<desc>Półtora kilometra za mostem w Dęblinie rozpoczyna się odcinek z licznymi wyspami, łachami i rozgałęzieniami nurtu Wisły. Bardzo łatwo znaleźć tu bezpieczny biwak, z dużą ilością drewna, na którym jedynymi nieproszonymi gośćmi mogą być dzikie zwierzęta.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.66520000" lon="21.47200000">
+<name>425.50</name>
+<desc>Na lewym brzegu Elektrownia Kozienice, największa w Polsce elektrownia opalana węglem kamiennym o mocy 2,8 GW.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.70910000" lon="21.43510000">
+<name>431.20</name>
+<desc>Ujście rzeki Radomki. Okolica słabo zaludniona i jest problem ze znalezieniem sklepu. Prawdopodobnie znajduje się w Ryczywole tj. 3,5 km w górę Radomki.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.77440000" lon="21.44370000">
+<name>441.00</name>
+<desc>Po prawej stronie ujście Promnika. Rzeka ma charakter górski o średnim spadku 3,5 promila. Szlak jest dostępny dla kajaków przy wiosennej wysokiej wodzie od mostu kolejowego Piława Dęblin.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.79010000" lon="21.43260000">
+<name>443.00</name>
+<desc>Sklep znajduje się w sąsiedniej wsi ok. 3 km.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="51.82750000" lon="21.36090000">
+<name>450.00</name>
+<desc>Wysoka kępa porośnięta lasem, dobrze nadaje się na biwak osłonięty przed wiatrem.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.83540000" lon="21.35280000">
+<name>451.00</name>
+<desc>Na prawym brzegu ujście rzeki Wilgi.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.85030000" lon="21.28960000">
+<name>455.00</name>
+<desc>Ok. kilometr do miejscowości Mniszew.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="51.86120000" lon="21.27990000">
+<name>457.00</name>
+<desc>Po lewej stronie ujście rzeki Pilicy. Pilica jest najdłuższym lewym dopływem Wisły (dł. 342 km). Pilica jest łatwym szlakiem kajakowym, zarówno powyżej Zalewu Sulejowskiego i jak również w dolnym odcinku.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.93700000" lon="21.26500000">
+<name>467.00</name>
+<desc>Po lewej stronie widoczne ruiny zamku w Czersku.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.98680000" lon="21.24200000">
+<name>474.00</name>
+<desc>Umocnione brzegi po obu stronach rzeki.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.99060000" lon="21.23470000">
+<name>476.20</name>
+<desc>Most drogowy w Góry Kalwarii.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.99100000" lon="21.22870000">
+<name>476.60</name>
+<desc>Po prawej stronie wpływ do portu rzecznego.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.99720000" lon="21.22400000">
+<name>477.00</name>
+<desc>Most kolejowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.07850000" lon="21.20980000">
+<name>488.00</name>
+<desc>Po obu stronach rzeki umocnione nabrzeże.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.09990000" lon="21.21470000">
+<name>490.00</name>
+<desc>Ujście Świdra. Rzeka ma długość ok. 85 kilometrów. Szlak dostępny jest dla kajaków.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.12210000" lon="21.17520000">
+<name>494.00</name>
+<desc>Po lewej stronie ujście Jeziorki. Widoczne zabudowania Warszawy i kominy EC Siekierki.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.15170000" lon="21.15510000">
+<name>499.50</name>
+<desc>Uwaga na pracujące i zakotwiczone barki i pogłębiarki.</desc>
+<cmt>niebezpieczeństwo</cmt>
+</wpt>
+<wpt lat="52.19170000" lon="21.10430000">
+<name>504.20</name>
+<desc>Betonowe nabrzeże przy elektrociepłowni.</desc>
+<cmt>niebezpieczeństwo</cmt>
+</wpt>
+<wpt lat="52.21130000" lon="21.10080000">
+<name>506.00</name>
+<desc>Port w stanicy Warszawski Klub Wodniaków PTTK.</desc>
+<cmt>stanica</cmt>
+</wpt>
+
+</gpx>

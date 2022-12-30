@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="177" nazwa="Prusina" wersja="2">
+<opis>Prawy dopływ Wdy, uchodzący do niej w miejscowości Tleń. Niewielka rzeczka płynąca generalnie z północy na południe, po części przez obszar Borów Tucholskich i Wdeckiego Parku Krajobrazowego. Odwadniając obszary ukształtowane niegdyś przez lodowiec i dość mocno nasycone wodą, płynie stosunkowo wąskim korytem, raz w szerszej, raz w znacznie węższej dolinie. Dzięki tym cechom niesie wody na tyle dużo, że umożliwia spływanie kajakiem nawet w miesiącach letnich (koryto ma podobną szerokość w większości biegu rzeki). Ze względu na charakter, umownie Prusinę podzielić można na 3 odcinki, górny - od źródeł do skomplikowanej w pokonaniu MEW w Śliwiczkach, środkowy - ze Śliwiczek do miejscowości Łążek oraz dolny - odcinek przełomowy z Łążka do Tlenia. Najniższy odcinek charakterystyczny jest ze względu na zwiększony spadek i trudniejsze do pokonania przeszkody w nurcie. Wprawne oko, dostrzeże w dolinie Prusiny ciekawe formy geomorfologiczne związane z działalnością lodowca i jej późniejszym rozwojem. Stan wody Prusiny można obserwować za pomocą wodowskazu Tleń - Evita (1,6 km), nie jest on jednak objęty stałym monitoringiem, tak więc odczyt możliwy jest jedynie w terenie. Wskazania poziomu 024 gwarantują niezbędne minimum na reprezentowanym odcinku. Obecność piaszczystych wypłyceń w środkowym i kamiennych, przystrzymujących bystrzy na dolnym odcinku oznacza, że dla bardziej komfortowego pływania wody mogłoby być ciut więcej. Ze względu na charakter rzeki zalecane pływanie K1. Odcinek ze Śliwiczek do Tlenia wiosną 2019 zajął kilku kajakom nieco ponad 3 h niespiesznego spływu.</opis> 
+    <punkt id="5696" miejscowosc="Łążek" 
+      ns="53.63944958" we="18.22283022" km="5.7" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Charakterystyczne i ekologiczne umocnienie skarpy oponami samochodowymi przy pierwszym gospodarstwie</opispunktu> 
+    </punkt>
+    <punkt id="5695" miejscowosc="Łąski Piec" 
+      ns="53.64832753" we="18.21554292" km="7.1" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Znaczący dopływ z prawej - rzeczka Golionka. Nazwa ponoć pochodzi od parowu Goły Jon, przez który przepływa</opispunktu> 
+    </punkt>
+    <punkt id="5694" miejscowosc="Zazdrość" 
+      ns="53.66074296" we="18.21556866" km="9.1" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony Prusinę zasilają wody rzeczki Grzybienicy, która w wyższej części swego biegu wykorzystuje 3, ułożone względem siebie prostopadle, rynny polodowcowe</opispunktu> 
+    </punkt>
+    <punkt id="5693" miejscowosc="Zazdrość" 
+      ns="53.66178308" we="18.21430527" km="9.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek w sąsiedztwie kapliczki</opispunktu> 
+    </punkt>
+    <punkt id="5692" miejscowosc="Laski" 
+      ns="53.66995642" we="18.21357103" km="10.4" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Niewielki drewniany mostek</opispunktu> 
+    </punkt>
+    <punkt id="5691" miejscowosc="Sarnia Góra" 
+      ns="53.67909012" we="18.21134457" km="11.6" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki betonowy most z 1914 r. pod nim małe kamienne bystrze</opispunktu> 
+    </punkt>
+    <punkt id="5690" miejscowosc="Śliwiczki" 
+      ns="53.68643838" we="18.20039591" km="12.8" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Możliwe wodowanie przy łące 200-300 m poniżej zapory, po lewej stronie rzeki, w sąsiedztwie rozwidlenia dróg gruntowych (Śliwiczki Wybudowanie). Można dotrzeć do rzeki idąc miedzą przez pole uprawne (teren prywatny) i podmokłą łąkę (około 100 m). Początkowo rzeka płynie spokojnie, pośród łąk i pojedynczych drzew. Po drodze znajduje się kilka łatwych zwałek, drewnianych kładek i niska tama bobrowa. Rzeka miejscami wypłyca się na piaszczystych łachach. Tuż przed mostem wpływa na obszary leśne i pojawia się kilka zwalonych drzew</opispunktu> 
+    </punkt>
+    <punkt id="5689" miejscowosc="Śliwiczki" 
+      ns="53.68777761" we="18.19812085" km="13" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Most drogowy i zapora MEW</opispunktu> 
+    </punkt>
+    <punkt id="5697" miejscowosc="Łążek" 
+      ns="53.63846599" we="18.22390375" km="5.5" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most, wygodny dostęp do wody z wykorzystaniem drewnianego pomostu</opispunktu> 
+    </punkt>
+    <punkt id="5698" miejscowosc="Szarlata" 
+      ns="53.62753202" we="18.23320895" km="4" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek Nadleśnictwa Trzebciny. Poniżej rozpoczyna się odcinek zdecydowanie bardziej bystry z dużymi głazami i drzewami w nurcie. Pokonanie kilku zwałek wymaga współpracy zespołowej. Rzeka tworzy tu odcinek przełomowy wcinając się wąską doliną, miejscami podmywając strome zbocza</opispunktu> 
+    </punkt>
+    <punkt id="5699" miejscowosc="Wygoda" 
+      ns="53.62513104" we="18.24794456" km="2.8" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek w lesie, w dalszym ciągu bystro i zwałkowo</opispunktu> 
+    </punkt>
+    <punkt id="5700" miejscowosc="Tleń" 
+      ns="53.61962368" we="18.25776651" km="1.6" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych na wysokości dużego ośrodka wypoczynkowego Evita (po lewej). Zaraz za kładką wodowskaz wskazujący w dniu spływu poziom 024, gwarantujący niezbędne minimum wody. Powyżej Łążka kilka piaszczystych wypłyceń, natomiast poniżej Łążka przytrzymują kamienne bystrza. Dla komfortowego pływania wody powinno być nieco więcej niż 024</opispunktu> 
+    </punkt>
+    <punkt id="5701" miejscowosc="Tleń" 
+      ns="53.61777474" we="18.25882535" km="1.3" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Niska stalowa rura w poprzek zanikającego nurtu. Koniec odcinka przełomowego, dalej rozlewisko i cofka jeziora zaporowego na Wdzie</opispunktu> 
+    </punkt>
+    <punkt id="5702" miejscowosc="Tleń" 
+      ns="53.61726999" we="18.27056755" km="0.1" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy ul. Czerskiej, tuż przed rozlewiskiem jeziora zaporowego</opispunktu> 
+    </punkt>
+    <punkt id="5703" miejscowosc="Tleń" 
+      ns="53.61731625" we="18.27084935" km="0" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Prusiny do Wdy. Vis a vis po drugiej stronie jeziora (rzeki Wdy) znajduje się duży budynek z widocznym z daleka napisem: PRZYSTANEK TLEŃ, przed którym zorganizowano przystań kajakową, wiaty, ławki i parking dla samochodów. Można tu wygodnie zakończyć spływ. Płynąc jednak na wprost przez jezioro, wzdłuż mostu na Wdzie, wpłyniemy na płytką piaszczystą łachę zbudowaną prawdopodobnie z osadów niesionych nurtem Prusiny. Wygodniej opłynąć łachę łukiem z lewej strony</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

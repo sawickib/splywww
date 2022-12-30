@@ -1,0 +1,50 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.37839913" lon="15.77272152">
+<name>19.10</name>
+<desc>Południowy kraniec jeziora Strunowo. Szlak Starej Drawy odgałęzia się w kierunku zachodnim, niewielką zatoczką</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.37826469" lon="15.77159255">
+<name>19.00</name>
+<desc>Zastawka z przepławką dla ryb wędrownych z prawej strony. Nad konstrukcją znajduje się most drogowy</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.35392281" lon="15.73799796">
+<name>11.40</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.35336677" lon="15.73761360">
+<name>11.30</name>
+<desc>Ujście Pełknicy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.32471315" lon="15.75381742">
+<name>5.20</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.31100220" lon="15.77076205">
+<name>1.20</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.30907708" lon="15.76979857">
+<name>0.90</name>
+<desc>Z prawej strony uchodzi rzeka Głęboka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.30936234" lon="15.77605490">
+<name>0.00</name>
+<desc>Połączenie koryt Starej i Nowej Drawy</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,75 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.53552025" lon="16.85315299">
+<name>10.60</name>
+<desc>Trawiasty plac w centrum miasta, poniżej mostu na głównej drodze nr 11. Wygodne miejsce rozpoczęcia spływu z dobrym dojazdem i miejscem na samochody</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.53562373" lon="16.85403113">
+<name>10.50</name>
+<desc>Niski most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.53547991" lon="16.85437284">
+<name>10.40</name>
+<desc>Bardzo niski most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.53620078" lon="16.85634338">
+<name>10.20</name>
+<desc>Niski most betonowy. Poniżej rzeka uregulowana, pogłębiona i wyczyszczona z gałęzi oraz śmieci, które leżą na brzegach i brzydko wyglądają</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.53916519" lon="16.86458741">
+<name>9.50</name>
+<desc>Betonowy most a pod nim próg - pochylnia o różnicy poziomów około 1,5 m. Przepływ przez kwadratowe okno</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.53685858" lon="16.88587144">
+<name>6.90</name>
+<desc>Prożek 0,5 m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.53663128" lon="16.88747751">
+<name>6.70</name>
+<desc>Nowy most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.53641409" lon="16.88932783">
+<name>6.60</name>
+<desc>Jaz w lewo z potrójnym kamienistym progiem o różnicy poziomów około 3 m, nad nim stalowa kładka</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.53542726" lon="16.90253330">
+<name>5.30</name>
+<desc>Ruiny kamiennego młyna z prożkiem kamiennym 0,5 m, nad nim betonowa kładka</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.53644643" lon="16.91792791">
+<name>3.60</name>
+<desc>Skośny prożek utworzony z rzędu drewnianych pali</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.53430144" lon="16.94267154">
+<name>0.70</name>
+<desc>Drewniana kładka przez którą poprowadzony jest szlak turystyczny</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.53335031" lon="16.94674758">
+<name>0.30</name>
+<desc>Most na ruchliwej drodze nr 22</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.53211576" lon="16.94725982">
+<name>0.00</name>
+<desc>Ujście Czarnej do Gwdy. Najwygodniej jest zakończyć spływ przy moście w Lędyczku, gdzie jest sporo miejsca na samochody. Do mostu pod prąd Gwdą jest około 0,5 km</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

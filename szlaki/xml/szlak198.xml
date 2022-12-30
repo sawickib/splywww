@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="198" nazwa="Brzeźnica" wersja="1">
+<opis>Brzeźnica, przez niektórych zwana Brzeźniczanką lub Boberkiem, a niegdyś  Briesnitz jest prawostronnym dopływem Bobru, uchodzącym do niego w Nowogrodzie Bobrzańskim. Niezwykle urokliwa rzeka, jednak, ze względu na swoją dzikość i niedostatki wody obecnie, zazwyczaj jest trudno i rzadko dostępna dla kajaków. Obserwując przebieg rzeki na mapie topograficznej widać wyraźnie, że dzieli się na dwie części. Górną, przebiegającą głównie w terenie odkrytym, charakteryzującą się licznymi meandrami pośród zabudowań, oraz dolną, dziką, równie meandrującą, jednak płynącą w całkowitej głuszy ostępów leśnych.
+Wyższy odcinek, z pozoru nieciekawy jest dość przyjemny do płynięcia. Nie ma tu większych przeszkód, nurt jest znaczny, a gospodarstwa, w większości odsunięte od rzeki na tyle, że nie psują ogólnego, pozytywnego wrażenia. Oczywiście, wprawne oko wypatrzy kilka miejsc zrzutów żużlo-śmieci oraz ujścia śmierdzących rurek PCV, są to jednak miejsca nieliczne.
+Poniżej miejscowości Brzeźnica rzeka wpływa do lasu i zmienia swój wizerunek. Liczne bobrowe tamy, powalone drzewa, podmycia brzegów, przemiały żwirowe i pojedyncze głazy narzutowe w nurcie nadają odcinkowi charakteru. Brak zasięgu telefonii komórkowej i możliwości wcześniejszej ewakuacji dodatkowo dodaje dolnemu fragmentowi, pikanterii.
+Na Brzeźnicy nie ma wodowskazów, najbliższy znajduje się na Bobrze, w Nowogrodzie Bobrzańskim. W dniu spływu wskazywał on poziom 175, jednak nie odzwierciedla to raczej ilości wody w Brzeźnicy. Za wodowskaz może posłużyć za to prawy filar głównego mostu w Brzeźnicy (ul. Zielonogórska = 21,4 km). Patrząc w górę rzeki (w tym przypadku będzie to lewy filar) należy policzyć poziome warstwy cegieł budujące filar, wystające ponad lustro wody. Nad najwyższą warstwą znajduje się betonowa wymurówka, przechodząca w skośne sklepienie przęseł mostu. Gdy widocznych jest 18 warstw, wydaje się to niezbędnym minimum, a i tak na odcinku leśnym kajaki wieszają się na piaszczystych łachach i żwirowych przemiałach. Przy tych warunkach, przez wieś płynie się swobodnie. Tak więc, im mniej cegieł widać (&lt;18), tym lepiej.
+Przy takich warunkach wodnych, odcinek Górna Brzeźnica ? Drągowina, wiosną 2021 zajął 3xK1 około 6 h, natomiast z Drągowiny do Bobru można dopłynąć w około 4h</opis> 
+    <punkt id="6532" miejscowosc="Brzeźnica Górna" 
+      ns="51.71368858" we="15.40387178" km="24.6" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek drogowy - dwa sklepione przęsła. Samochód można zostawić w okolicy pobliskiego domu przy ul. Nadbrzeżnej 10. Teren wygląda na prywatny, warto więc zapytać o taką możliwość, gospodarza. Dalej odcinek kręcącej rzeki pośród zabudowań, jednak na tyle daleko od domost, że odnosi się wrażenie dzikości. W kilku miejscach bezpośrednio do rzeki uchodzą wilgotne i śmierdzące rurki, ale nie jest ich wiele i nie burzą harmonii całości. Po drodze kilka łatwych zwałek, kamiennych bystrzy i charakterystyczne płaśnie o twardym, białym ilastym dnie, na których nurt nieco przyspiesza. W górnej Brzeźnicy rzeka ma 3-4 m szerokości</opispunktu> 
+    </punkt>
+    <punkt id="6533" miejscowosc="Brzeźnica Górna" 
+      ns="51.7135331" we="15.39843284" km="24.1" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony, spod mostu wpada Kociński Potok (przed wojną - Kothen Bach), znacząco polepszając stosunki wodne w Brzeźnicy</opispunktu> 
+    </punkt>
+    <punkt id="6534" miejscowosc="Brzeźnica Górna" 
+      ns="51.71604769" we="15.39134177" km="23.3" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w pobliżu kościoła, za nim kamienne bystrze</opispunktu> 
+    </punkt>
+    <punkt id="6535" miejscowosc="Brzeźnica Górna" 
+      ns="51.721704" we="15.38237658" km="21.9" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Betony most. Tuż za nim, nisko nad lustrem wody, słabo widoczne pastuchy elektryczne</opispunktu> 
+    </punkt>
+    <punkt id="6536" miejscowosc="Brzeźnica Dolna" 
+      ns="51.72232386" we="15.37679691" km="21.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Główny most ceglany w Brzeźnicy, w ciągu ul. Zielonogórskiej. Trzy sklepione przęsła podparte filarami. Z uwagi na to, że na rzece nie ma czytelnych urzadzeń pomiarowych poziomu wody w rzece, orograficznie prawy filar mostu może posłużyć za wodowskaz. Zaraz za mostem, z lewej strony wpada potok Mrówla (dawniej Reinitz Bach)</opispunktu> 
+    </punkt>
+    <punkt id="6537" miejscowosc="Brzeźnica Dolna" 
+      ns="51.72429045" we="15.37193282" km="20.9" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy przy ul. Leśnej</opispunktu> 
+    </punkt>
+    <punkt id="6538" miejscowosc="Brzeźnica Dolna" 
+      ns="51.72731167" we="15.36852478" km="20.3" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka spinająca brzegi rzeki</opispunktu> 
+    </punkt>
+    <punkt id="6539" miejscowosc="Brzeźnica Dolna" 
+      ns="51.72951506" we="15.36336525" km="19.6" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przed wpłynięciem do lasu kamienne bystrze, na ostrym zakręcie w lewo. Stał tu kiedyś  most, co widać na przedwojennych mapach i prawdopodobnie na ruinach mostu powstało bystrze</opispunktu> 
+    </punkt>
+    <punkt id="6540" miejscowosc="Brzeźnica Dolna" 
+      ns="51.73114228" we="15.35806352" km="19.1" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ruiny młyna. Przyczółki po zastawce, a za nimi na brzegu, po lewej stronie charakterystyczne graniastosłupy betonowych filarów</opispunktu> 
+    </punkt>
+    <punkt id="6541" miejscowosc="Brzeźnica Dolna" 
+      ns="51.7312826" we="15.35695454" km="19" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce dostępu do wody przed odcinkiem leśnym. Początek rezerwatu przyrody Dąbrowa Brzeźnicka im. Bolesława Grochowskiego. Zaczyna się odcinek zwałkowy, większość przeszkód możliwa jest do pokonania w pojedynkę, ale w kilku przypadkach konieczna jest współpraca zespołu. Do Przybymierza ładnie, chociaż w oczy rzucają się też nagromadzenia śmieci, niesione przez rzekę i osadzone na licznych przeszkodach</opispunktu> 
+    </punkt>
+    <punkt id="6542" miejscowosc="Brzeźnica Dolna" 
+      ns="51.73155023" we="15.35660149" km="18.9" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski betonowy mostek</opispunktu> 
+    </punkt>
+    <punkt id="6543" miejscowosc="Brzeźnica Dolna" 
+      ns="51.73399568" we="15.35281523" km="18.5" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na leśnej drodze, oznaczonej na mapach, jako ścieżka rowerow nr VIII. Koniec rezerwatu przyrody</opispunktu> 
+    </punkt>
+    <punkt id="6544" miejscowosc="Przybymierz" 
+      ns="51.74194257" we="15.34966723" km="16.6" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony dopływa rzeczka Szum</opispunktu> 
+    </punkt>
+    <punkt id="6545" miejscowosc="Przybymierz" 
+      ns="51.74528293" we="15.34828106" km="15.9" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony dopływ bezimiennego potoku, ale bardzo malowniczego. Na przedwojennych, niemieckich mapach widnieje on pod nazwą Dober</opispunktu> 
+    </punkt>
+    <punkt id="6546" miejscowosc="Przybymierz" 
+      ns="51.74744805" we="15.34621974" km="15.4" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Kamienny prożek w miejscu po starym moście. Poniżej spore bobrowisko, mnóstwo zgryzów i zwalonych drzew</opispunktu> 
+    </punkt>
+    <punkt id="6547" miejscowosc="Przybymierz" 
+      ns="51.75186538" we="15.33896396" km="14.5" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście potoku Dobra</opispunktu> 
+    </punkt>
+    <punkt id="6548" miejscowosc="Przybymierz" 
+      ns="51.75273514" we="15.337755" km="14.4" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z wygodnym dostępem do wody. Pod mostem kamienne bystrze. Kilkaset metrów za Przybymierzem, po wpłynięciu rzeki do lasu rozpoczyna się bardzo malowniczy odcinek do Drągowiny. Zmienia się nieco charakter lasu, ale zwałki występują dalej. W krajobrazie doliny dominuje starodrzew liściasty, a w korycie rzeki żwirowe bystrza, głazy i wysokie burty skarp</opispunktu> 
+    </punkt>
+    <punkt id="6549" miejscowosc="Drągowina" 
+      ns="51.75803887" we="15.31853072" km="11.8" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Nowy most betonowy na leśnej drodze, oznakowanej na mapach, jako rowerowa VIII. Poniżej wysokie skarpy i głazy w nurcie</opispunktu> 
+    </punkt>
+    <punkt id="6550" miejscowosc="Drągowina" 
+      ns="51.76554266" we="15.30535402" km="9" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ruiny urządzeń piętrzących wodę dla starego, nieczynnego młyna w Drągowinie</opispunktu> 
+    </punkt>
+    <punkt id="6551" miejscowosc="Drągowina" 
+      ns="51.76620732" we="15.30459563" km="8.8" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most betonowy przy zabudowaniach byłej leśniczówki w Drągowinie, obecnie gospodarstwa Malinówka. U niezwykle gościnnych, uczynnych i sympatycznych gospodarzy, Państwa Magdy i Sylwestra można zaopatrzyć się w różnorodne autorskie, własne wyroby kulinarne. O zamiarze odwiedzenia gospodarstwa Malinówka należy uprzedzić wcześniej gospodarzy, gdyż teren okolicy mostu po obydwu stronach jest ich prywatnym, jest ogrodzony i wykorzystywany przez liczne, spacerujące luzem, często dość egzotyczne zwierzęta gospodarskie</opispunktu> 
+    </punkt>
+    <punkt id="6552" miejscowosc="Drągowina" 
+      ns="51.7678369" we="15.30219076" km="8.5" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Główny most na gruntowej, ale publicznej drodze, z wygodnym dostępem do wody. Zaraz za mostem po prawej stronie stoi stary wodowskaz, niestety nieczytelny</opispunktu> 
+    </punkt>
+    <punkt id="6553" miejscowosc="Drągowina" 
+      ns="51.7688341" we="15.30108156" km="8.2" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski betonowy prożek. Poniżej odcinek malowniczy, w lesie, liczne zwałki, pojedyncze tamy bobrowe, głazy narzutowe w nurcie i żwirowe przemiały</opispunktu> 
+    </punkt>
+    <punkt id="6554" miejscowosc="Dobroszów Wielki" 
+      ns="51.77500223" we="15.28804063" km="6.4" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Wysoki na około 3 m betonowy próg po młynie Kupferhammer, z odchodzącą w prawo młynówką. Próg sam w sobie nie jest trudny do spłynięcia przy wyższej wodzie, jednak ze względu na zalegające poniżej wielkie betonowe głazy może być dość niebezpieczny. Konstrukcja posiada filar, który dzieli go na dwie części. Lewa strona stanowi pochylnię, natomiast prawa strona to pionowy uskok. Teoretycznie, tuż za filarem istnieje 1,5 metrowa przestrzeń pomiędzy częścią pionową a pochylnią, poniżej której nie ma betonowych głazów i którą można próbować spłynąć. W przypadku braku możliwości precyzyjnego manewrowania, istnieje jednak możliwość uszkodzenia sprzętu. Wygodną przenoskę można wykonać prawym brzegiem, wpływając w młynówkę i przerzucając się 30m na piaszczystą plażę poniżej progu. Dalej rozpoczyna się odcinek bardzo malowniczy w głęboko wciętym korycie, w równie głębokiej dolinie, obfitujący w bystrza i pojedyncze głazy, powalone drzewa i wysokie podmyte piaszczyste skarpy</opispunktu> 
+    </punkt>
+    <punkt id="6555" miejscowosc="Nowogród Bobrzański" 
+      ns="51.79172187" we="15.24918816" km="1.2" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoko posadowiony most na drodze nr 295 do Żagania. Niezbyt wygodny dostęp do wody oraz ruchliwa droga sprawia, że nie jest to dobre miejsce na zakończenie etapu</opispunktu> 
+    </punkt>
+    <punkt id="6556" miejscowosc="Nowogród Bobrzański" 
+      ns="51.79177913" we="15.24855124" km="1.1" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wysokie przyczółki po starym moście, a pomiędzy nimi leżące w wodzie kanciaste głazy, tworzące bystrze. Ze względu na możliwość uszkodzenia sprzętu, przy niższej wodzie lepiej obnieść to miejsce prawą stroną</opispunktu> 
+    </punkt>
+    <punkt id="6557" miejscowosc="Nowogród Bobrzański" 
+      ns="51.79527326" we="15.24135631" km="0" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Brzeźnica do Bobru. Spływ wygodnie jest zakończyć kilkaset metrów niżej, pod mostem na Bobrze z prawej strony. Za mostem znajduje się spory trawiasty plac na samochody, przed bramą popadającej w ruinę starej fabryki</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

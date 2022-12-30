@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="8" nazwa="Widawka" wersja="9">
+<opis>Widawka - prawy dopływ Warty długości 98 km. Spławna od m.Słok, ale nie polecana do pływania ze względu na proste i wybetonowane koryto. Rzeka płynęła przez teren kopalni Bełchatów i została przełożona w nowe koryto, które kończy się w m.Zarzecze. Woda w rzece w większości pochodzi z pomp głębinowych (ok.400) odwadniających odkrywkę Bełchatów i Szczerców. Odcinek polecany do płynięcia od m.Żar do ujścia do Warty .  </opis> 
+  <odcinek id="50" typ="rzeka" nazwa="Widawka od Restarzewa do Chociwia" 
+      uciazliwosc="U1" trudnosc="ZWC" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Za mostem rzeka się zwęża i przyspiesza. Koryto zarasta krzakami i 
+należy się bardzo pilnować bo o kabinę nietrudno. Przed Chociwiem 
+lądujemy na prawym brzegu gdy uslyszymy jak woda szumi na progu.
+</opis>
+    <punkt id="430" miejscowosc="Chociw" 
+      ns="51.39370624" we="19.00693067" km="23" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="sklep" kolejnosc="-1">We wsi znajdują się 2 sklepy.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="429" miejscowosc="Chociw" 
+      ns="51.39073972" we="19.00562214" km="23.3" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość dzikego biwaku po prawej stronie.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Kamienny próg w prawo przy młynie</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska 50 m po trawie</opispunktu> 
+    </punkt>
+    <punkt id="428" miejscowosc="Restarzew" 
+      ns="51.37192035" we="19.0206667" km="28" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, kościół, sklepy. Za mostem rzeka się zwęża i nurt staje się szybszy - troszkę krzakoterapi.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="49" typ="rzeka" nazwa="Widawka od Szczercowa do Restarzewa" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Malowniczy odcinek rzeki z małymi utrudnieniami przy starych młynach, 
+lecz nie wymagający przenosek.</opis>
+    <punkt id="427" miejscowosc="Sarnów" 
+      ns="51.362012" we="19.018916" km="29.5" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Gospodarstwo agroturystyczne Teresa Łojanowska tel.606 989 693 lub 43 67230 18. Noclegi w pokojach, pole biwakowe tuż przy rzece.
+
+</opispunktu> 
+    </punkt>
+    <punkt id="426" miejscowosc="Korablew" 
+      ns="51.35567518" we="19.02030126" km="31" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="ujście" kolejnosc="-1">L Dopływ rzeki Krasówka. Wpada z wielkim hukiem, gdyż niesie dużo wody z odkrywki Szczerców.</opispunktu> 
+    </punkt>
+    <punkt id="425" miejscowosc="Korablew" 
+      ns="51.3558187" we="19.02309409" km="31.3" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz przy zniszczonym młynie. Można spływać w prawo pod betonową kładką. Poniżej niewielki odwój.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska lewą stroną wzdłuż muru młyna po kamieniach i kłodach drewna.</opispunktu> 
+    </punkt>
+    <punkt id="423" miejscowosc="Zagrodniki" 
+      ns="51.34794363" we="19.05860853" km="35.3" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pale w rzece. Spływać ostrożnie.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="422" miejscowosc="Szczercowska Wieś" 
+      ns="51.34686479" we="19.07774251" km="37.6" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="ujście" kolejnosc="-1">P Ujście rzeki Pilsi.</opispunktu> 
+    </punkt>
+    <punkt id="421" miejscowosc="Kościuszki" 
+      ns="51.34182639" we="19.08435419" km="38.4" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na drodze nr 8. Tuż przed mostem rząd pali drewnianych w poprzek rzeki.</opispunktu> 
+    </punkt>
+    <punkt id="420" miejscowosc="Szczerców" 
+      ns="51.33093445" we="19.10768337" km="40.7" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="419" miejscowosc="Szczerców" 
+      ns="51.32826646" we="19.11324517" km="41.2" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z wodowskazem.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">W pobliżu bary i sklepy 20 m przed i za mostem.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="48" typ="rzeka" nazwa="Widawka od Żaru do Szczercowa" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Odcinek bardzo malowniczy, po obu stronach liczne domki letniskowe.</opis>
+    <punkt id="416" miejscowosc="Lubośnia" 
+      ns="51.30837249" we="19.15535922" km="45.9" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz przy młynie w postaci kamiennego progu pod mostem kratownicowym.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Zalecana przenoska lewym brzegiem 30m.</opispunktu> 
+    </punkt>
+    <punkt id="4483" miejscowosc="Lubośnia" 
+      ns="51.30546097" we="19.1591708" km="46.6" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwy dziki biwak w lesie z wygodnym dostępem do wody.</opispunktu> 
+    </punkt>
+    <punkt id="4482" miejscowosc="Żar" 
+      ns="51.30609314" we="19.16467303" km="47.1" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z lewej strony.</opispunktu> 
+    </punkt>
+    <punkt id="415" miejscowosc="Żar" 
+      ns="51.30500048" we="19.17473667" km="47.9" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Miejsce wodowania na prawym brzegu. Dojazd do m.Żar z drogi Bełchatów - Szczerców, 2 km za m.Kluki skręcamy w lewo w las żwirową drogą i dalej już asfaltem do mostu.</opispunktu> 
+    </punkt>
+    <punkt id="417" miejscowosc="Trakt Puszczański" 
+      ns="51.31833548" we="19.13645519" km="43.8" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="biwak" kolejnosc="-1">L Niewidoczny z rzeki ośrodek wypoczynkowy - obok betonowego słupa leżącego w poprzek rzeki. Bar, noclegi, ryby w stawie.</opispunktu> 
+    </punkt>
+    <punkt id="4484" miejscowosc="Trakt Puszczański" 
+      ns="51.32396625" we="19.12903367" km="42.5" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="418" miejscowosc="Szczerców" 
+      ns="51.32674778" we="19.11809173" km="41.6" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz na potrzeby małej elektrowni wodnej.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Niewygodna przenoska 20m lewą stroną po betonowych schodach, lub prawą stroną na młynówkę - około 60m.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="498" typ="kanał" nazwa="Wawrzkowizna - Smugi" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Odcinek rzeki przypominający kanał. Brzegi wzmocnione betonowymi płytami. Stosunkowo wartki nurt jest jedyną atrakcją na tym odcinku.</opis>
+    <punkt id="4470" miejscowosc="Wawrzkowizna" 
+      ns="51.29805985" we="19.32949196" km="61" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący wodę na potrzeby terenów rekreacyjnych w ośrodku wypoczynkowym. Poniżej jazu możliwość startu z wygodnym dojazdem do wody "Młynówki". Samo zejście nieco uciążliwe ze względu na wybetonowany stromy brzeg.</opispunktu> 
+    </punkt>
+    <punkt id="4471" miejscowosc="Wawrzkowizna" 
+      ns="51.2982157" we="19.32688325" km="60.8" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie "Młynówki" z Widawką</opispunktu> 
+    </punkt>
+    <punkt id="4472" miejscowosc="Wawrzkowizna " 
+      ns="51.29970917" we="19.32261934" km="60.5" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek 0,5 m</opispunktu> 
+    </punkt>
+    <punkt id="4473" miejscowosc="Kuźnica Kaszewska " 
+      ns="51.29939421" we="19.30919857" km="59.5" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="4474" miejscowosc="Kuźnica Kaszewska " 
+      ns="51.29892867" we="19.29445283" km="58.5" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej dopływ cieku niosącego sporą ilość wody. Pochodzi ona z odwodnienia pobliskiej kopalni odkrywkowej.</opispunktu> 
+    </punkt>
+    <punkt id="4475" miejscowosc="Kuźnica Kaszewska " 
+      ns="51.29881677" we="19.29109667" km="58.3" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4476" miejscowosc="Zarzecze" 
+      ns="51.29970136" we="19.28251174" km="57.7" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="4477" miejscowosc="Zarzecze " 
+      ns="51.29987867" we="19.28210198" km="57.6" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4478" miejscowosc="Zarzecze " 
+      ns="51.29987627" we="19.27510478" km="57.1" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz o wysokości 2m</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska 10m lewą stroną z niewygodnym wodowaniem na pochyłym betonowym brzegu</opispunktu> 
+    </punkt>
+    <punkt id="4479" miejscowosc="Zarzecze " 
+      ns="51.29991527" we="19.2677649" km="56.6" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="4480" miejscowosc="Smugi " 
+      ns="51.29710273" we="19.24585183" km="55" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">3 przęsłowy jaz o wysokości 1m ze sporym odwojem.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska prawą stroną około 20m, z niewygodnym wyjściem z wody po betonowych płytach.
+W tym miejscu kończy się odcinek z wybetonowanymi brzegami i rzeka zdecydowanie zyskuje na atrakcyjności.</opispunktu> 
+    </punkt>
+    <punkt id="4481" miejscowosc="Smugi " 
+      ns="51.29708575" we="19.24549597" km="54.9" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z prawej strony.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="51" typ="rzeka" nazwa="Widawka od Chociwia" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="4"> 
+  <opis>Rzeka jak autostrada do rozwidlenia przy starym młynie. Najlepiej 
+lądować na prawym brzegu i pieszo obejść teren i wybrać wariant 
+plynięcia jedną z odnóg.</opis>
+    <punkt id="441" miejscowosc="Jeziorko" 
+      ns="51.50982664" we="18.86892928" km="0" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Widawki do Warty. Dogodne miejsce do zakończenia spływu i odbioru kajaków znajduje się w miejscowości Pstrokonie - 1,2 km w dół Wartą.</opispunktu> 
+    </punkt>
+    <punkt id="440" miejscowosc="Jeziorko" 
+      ns="51.50665662" we="18.8755053" km="0.6" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek.</opispunktu> 
+    </punkt>
+    <punkt id="439" miejscowosc="Rembieszów" 
+      ns="51.49275435" we="18.89887509" km="3.3" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Resztki młyna - płynąć P. Przy mostku możliwoć wyjścia i wybrania wariantu płynięcia. Rzeka płynie dwoma korytami, które łączą się po 800 m. Można też zakończyć spływ - droga od mostu w prawo 1400 m do wsi Rembieszow przy sklepie.</opispunktu> 
+    </punkt>
+    <punkt id="438" miejscowosc="Ligota" 
+      ns="51.47833199" we="18.92441167" km="6.8" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek.</opispunktu> 
+    </punkt>
+    <punkt id="437" miejscowosc="Górki Grabińskie" 
+      ns="51.46512535" we="18.94345948" km="9.3" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="436" miejscowosc="Górki Grabińskie" 
+      ns="51.46323428" we="18.94618867" km="9.6" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Stała przenoska.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz do elektrownii wodnej.</opispunktu> 
+    </punkt>
+    <punkt id="435" miejscowosc="Górki Grabińskie" 
+      ns="51.45615884" we="18.9574388" km="11.2" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="ujście" kolejnosc="-1">L Ujście rzeki Nieciecz.</opispunktu> 
+    </punkt>
+    <punkt id="434" miejscowosc="Grabno" 
+      ns="51.45056435" we="18.97361884" km="12.7" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="ujście" kolejnosc="-1">P Ujście Grabi.</opispunktu> 
+    </punkt>
+    <punkt id="433" miejscowosc="Rogoźno" 
+      ns="51.43563337" we="18.97458014" km="15.2" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce wodowania.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">W pobliżu mostu sklep spożywczy.</opispunktu> 
+    </punkt>
+    <punkt id="432" miejscowosc="Ruda" 
+      ns="51.4213378" we="18.98914076" km="17.4" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="4485" miejscowosc="Ruda" 
+      ns="51.41731294" we="18.99176871" km="18.4" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z prawej strony rzeki Chrząstawki.</opispunktu> 
+    </punkt>
+    <punkt id="431" miejscowosc="Ruda" 
+      ns="51.41542457" we="18.99244475" km="18.6" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">W tym miejscu znajdował się most, figuruje on jeszcze na starszych mapach. Obecnie pozostały jedynie przyczółki.</opispunktu> 
+    </punkt>
+    <punkt id="3002" miejscowosc="Ruda" 
+      ns="51.410636" we="18.991049" km="19" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po prawej stronie Gospodarstwo Agroturystyczne tel.505398129 - nocleg w pokojach, w stodole, pod namiotem. Sklep do godz 19.00, bar 3 km.
+</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

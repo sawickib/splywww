@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="105" nazwa="Gwda" wersja="1">
+<opis>płynie na pograniczu Pojezierza Wałeckiego i Pojezierza Krajeńskiego. Prawy dopływ Noteci o długości 147 km.</opis> 
+  <odcinek id="438" typ="rzeka" nazwa="Gwda Mała" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Start z prawej strony mostu w Gwdzie Małej. Rzeka szerokim rozlewiskiem płynie małą doliną. Po obu stronach budynki i poletka. Przez ponad godzinę słychać szum samochodów ? płyniemy mając po lewej stronie drogę nr 201. 
+</opis>
+    <punkt id="3658" miejscowosc="Gwda Mała" 
+      ns="53.73373242" we="16.8077839" km="110.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie nr 20 ze Szczecinka do Słupska</opispunktu> 
+    </punkt>
+    <punkt id="3659" miejscowosc="Gwda Mała" 
+      ns="53.72815128" we="16.81703171" km="109.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="439" typ="rzeka" nazwa="Jeleni Ruczaj" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Mało uczęszczany most drogowy i po dobrej godzinie kolejny most, kolejowy. Przed nim piękne widoki zalesionych brzegów. Przewaga drzew liściastych. </opis>
+    <punkt id="3660" miejscowosc="Jeleni Ruczaj" 
+      ns="53.71027384" we="16.84803135" km="105.2" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Mało uczęszczany most drogowy, nie zamieszczany na niektórych mapach</opispunktu> 
+    </punkt>
+    <punkt id="3661" miejscowosc="Jeleni Ruczaj" 
+      ns="53.68900095" we="16.8598709" km="102.2" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="440" typ="rzeka" nazwa="Lubnica" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Zbliżamy się do zabudowań wsi Lubnica lub Lubnicki Młyn ? z prawej strony archaiczne zejście do olbrzymiego drzewa przegradzającego rzekę i ładne miejsce (specjalnie dla kajakarzy) do przepłynięcia ?pod? bez przenoszenia kajaka. Chwilę później most drogowy (droga szutrowa) potocznie nazywana Lubnicą. Jest tam wysoki budynek z cegieł i prywatne pole biwakowe z ogromną wiatą po lewej stronie. </opis>
+    <punkt id="3662" miejscowosc="Lubnica" 
+      ns="53.63417472" we="16.88996961" km="94" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="441" typ="rzeka" nazwa="Węgorzewo" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Dwie godziny dalej Elektrownia w Węgorzewie Szczecineckim ? pole biwakowe ukryte z lewej strony (po przenosce). Miejsce przenoszenia dobrze oznaczone ? ale samo biwakowisko (z wiatą) oddalone o ponad 100 metrów i trzeba wejść na drogę by je odnaleźć. Płyniemy cały czas po granicy województw ? Pomorskiego i Wielkopolskiego. </opis>
+    <punkt id="3663" miejscowosc="Węgorzewo Szczecineckie" 
+      ns="53.59869292" we="16.92100519" km="86.5" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz elektrowni</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="442" typ="rzeka" nazwa="Łomczewo" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="4"> 
+  <opis>Cały czas mamy lasy po obu stronach i kolejną elektrownię ? z wielkim szklanym dachem i ogromnym kołem, na które z tamy leje się woda i swoim ciężarem wprawia je w ruch. Piękny widok. </opis>
+    <punkt id="3664" miejscowosc="Łomczewo" 
+      ns="53.57572601" we="16.93874236" km="84.5" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz elektrowni</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="443" typ="rzeka" nazwa="Lędyczek" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="5"> 
+  <opis>Najbardziej dłuży się trasa przed samym Lędyczkiem ? około 2 ? 3 godzin od Węgorzewa, chociaż jest to piękny odcinek ze względu na lasy i możliwość dzikich biwaków. </opis>
+    <punkt id="3665" miejscowosc="Lędyczek" 
+      ns="53.53517043" we="16.9520066" km="78.4" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na trasie nr 22 pomiędzy Jastrowiem a Człuchowem</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po wpłynięciu na szersze rozlewisko już za mostem ? na skarpie spore pole biwakowe ? kilka domków i sanitariaty ? niestety w coraz gorszym stanie. </opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Bar - restauracja w centrum Lędyczka.</opispunktu> 
+    </punkt>
+    <punkt id="3666" miejscowosc="Drawień" 
+      ns="53.67515289" we="16.86607875" km="101.5" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz elektrowni</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Szybki nurt i ponad metrowy spadek w betonowym, trzy metrowym przepuście pod mostem.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska z lewej strony.
+Przy elektrowni przenoska dość wygodna, zejście z prawej strony rzeki. Dalej rzeka płynie szybszym nurtem. </opispunktu> 
+    </punkt>
+    <punkt id="3667" miejscowosc="Drawień" 
+      ns="53.66865532" we="16.87340652" km="100" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3668" miejscowosc="Lubnica" 
+      ns="53.62849855" we="16.89348315" km="93.3" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Czernicy</opispunktu> 
+    </punkt>
+    <punkt id="3669" miejscowosc="Podgaje" 
+      ns="53.47818981" we="16.91867154" km="73.5" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora wodna</opispunktu> 
+    </punkt>
+    <punkt id="3670" miejscowosc="Jastrowie" 
+      ns="53.41364479" we="16.86787397" km="67.8" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora wodna</opispunktu> 
+    </punkt>
+    <punkt id="3671" miejscowosc="Ptusza" 
+      ns="53.36683763" we="16.79688423" km="59.5" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora wodna</opispunktu> 
+    </punkt>
+    <punkt id="3672" miejscowosc="Tarnówka" 
+      ns="53.34604608" we="16.81542436" km="51.5" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora wodna</opispunktu> 
+    </punkt>
+    <punkt id="3673" miejscowosc="Krępsko" 
+      ns="53.26474702" we="16.78116171" km="36.1" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie nr 11 z Piły do Jastrowia</opispunktu> 
+    </punkt>
+    <punkt id="3674" miejscowosc="Dobrzyca" 
+      ns="53.22272363" we="16.78364741" km="30.5" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora wodna</opispunktu> 
+    </punkt>
+    <punkt id="3675" miejscowosc="Piła" 
+      ns="53.15136164" we="16.73954484" km="20.5" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, ul. Jana Pawła II</opispunktu> 
+    </punkt>
+    <punkt id="3676" miejscowosc="Byszki" 
+      ns="53.08841873" we="16.75150511" km="7.6" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz</opispunktu> 
+    </punkt>
+    <punkt id="3677" miejscowosc="Ujście" 
+      ns="53.05480434" we="16.72588007" km="0" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Gwdy do Noteci</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

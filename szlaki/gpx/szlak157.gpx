@@ -1,0 +1,100 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.32090754" lon="17.03056314">
+<name>15.30</name>
+<desc>Pętla autobusowa Koninko Węzeł, w sąsiedztwie drukarni Abedik na ul. Gutenberga. Kajaki trzeba przeciągnąć przez pole i las (100m). Rzeka ma tu około 5 m szerokości i twarde piaszczyste dno. Poniżej odcinek zwałkowy</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.31820136" lon="17.02639119">
+<name>14.80</name>
+<desc>Duży most betonowy na ul. Magazynowej, pod nim małe bystrze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.31382976" lon="17.02331594">
+<name>13.80</name>
+<desc>Most drogowy na ul. Telewizyjnej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.31408447" lon="17.02247942">
+<name>13.70</name>
+<desc>Z prawej ujście rzeki Michałówki</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.31391902" lon="17.02188286">
+<name>13.60</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.30847646" lon="17.01736494">
+<name>12.70</name>
+<desc>Most drogowy ul. Radiowa</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.30315017" lon="17.01271785">
+<name>11.90</name>
+<desc>Niski most betonowy. Przy wyższej wodzie i braku możliwości przepłynięcia pod mostem, czeka bardzo niewygodna przenoska. Strome i wąskie wyjście z wody. szereg szczelnych ogrodzeń dochodzących do samej wody oraz ruchliwa droga</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.29846017" lon="17.00703051">
+<name>11.00</name>
+<desc>Stalowa kładka, za nią nieczytelny wodowskaz</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.29442456" lon="16.99706397">
+<name>9.90</name>
+<desc>Kładka dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.29212070" lon="16.99515200">
+<name>9.50</name>
+<desc>Ujście Głuszynki z lewej. Poniżej rzeka znacznie się poszerza i płynie w otwartym terenie szeroką doliną</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.30074208" lon="16.97720520">
+<name>7.50</name>
+<desc>Mostek, kładka, poniżej bród przez rzekę</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.30627737" lon="16.96927801">
+<name>6.50</name>
+<desc>Mostek ul. Piotrowska, poniżej bród</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.31700939" lon="16.95305721">
+<name>4.30</name>
+<desc>Most drogowy przy cmentarzu. Pod mostem wodowskaz</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.31965249" lon="16.94708970">
+<name>3.70</name>
+<desc>Most drogowy ul. Babicka, niżej odcinek z kilkoma zwałkami</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.32083688" lon="16.93164372">
+<name>2.40</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.32127372" lon="16.92012101">
+<name>1.40</name>
+<desc>Pozostałości po moście i młynie zniszczonych w roku 1939. Znajdujący się tutaj próg o wysokości około 1,5 m, wygodniej jest spływać lewym przęsłem, ale lądowanie jest twarde, na betonie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.31981070" lon="16.91344338">
+<name>0.70</name>
+<desc>Wysoki most drogowy, przed nim przez rzekę przechodzą charakterystyczne rury. Ze względu na to, iż przy moście znajduje się parking (po prawej przy przedszkolu), wygodnie jest tu zakończyć spływ. Lądowanie niewygodne na kamiennym brzegu i w silnym nurcie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.31911094" lon="16.90928055">
+<name>0.00</name>
+<desc>Ujście Kopla do Warty</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="127" nazwa="Marycha (dawniej Sejna)" wersja="1">
+<opis>Poski odcinek to nie duża rzeczka w okolicy Suwałk. Bardzo czysta i w dzikiej okolicy. Polowa spływanego odcinka stanowi granicę polsko litewską. W dalszy biegu wyznacza granicę litwesko białoruską. Bez dokumentów niedostępna.
+Brak jakiejkolwiek infrastuktury.</opis> 
+  <odcinek id="506" typ="rzeka" nazwa="Marycha" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Nie trudny, ale nie dla zupełnie początkujących. Niesamowicie czysta woda jest ogromnym atutem rzeki. Czas pokonywania odcinka: 5-6h</opis>
+    <punkt id="4592" miejscowosc="Stanowisko" 
+      ns="53.993188" we="23.484033" km="10.8" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Koniec szkalu</opispunktu> 
+    </punkt>
+    <punkt id="4593" miejscowosc="Zelwa" 
+      ns="54.027119" we="23.458686" km="0" etykieta="1" 
+      kolejnosc="0"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Za mostem na prawo wygodne miejsce do wodowania</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="4594" miejscowosc="Budwieć" 
+      ns="54.011291" we="23.500902" km="5.8" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek, w zależności pod stanu wody pokonujemy nad lub pod.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

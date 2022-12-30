@@ -1,0 +1,60 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.30360614" lon="16.40666753">
+<name>9.00</name>
+<desc>Most na ruchliwej drodze nr 10 Wałcz - Szczecin. Jadąc od strony Wałcza, zaraz za mostem wygodnie jest skręcić w prawo, w gruntową, nieoznakowaną drogę do Kłębowca. Z tego miejsca najwygodniej i najkrócej jest przerzucić kajaki na drugą stronę szosy [uwaga na pędzące TIRy], w pobliżu zatoczki autobusowej, tuż nad rzekę. Teren przy moście zazwyczaj jest utrzymany i wykoszony. Tabliczka kilometrowa informuje o 31,4 km szlaku [prawdopodobnie Pętli Wałeckiej], jednak jest to jedyna tabliczka na odcinku do ujścia. Most stanowi półokrągły przepust, a brzegi wzmocnione są kamieniami. Poniżej rzeka przepływa przez fragment lasu, następnie teren się otwiera, pojawiają się trzciny, a z wody wystają malownicze kikuty suchych drzew</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.30424946" lon="16.41846222">
+<name>7.90</name>
+<desc>Niewielki prożek do spłynięcia, trochę chlapiący. Na początku około 0,8 m pionu a dalej pochyłe, kamienne bystrze. Poniżej odcinek zwałkowy, niektóre przeszkody wymagają współpracy zespołowej</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.30517322" lon="16.45230494">
+<name>5.00</name>
+<desc>Sklepiony most na drodze nr 163 z Wałcza do Czaplinka. Możliwość podjęcia kajaków</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.30569208" lon="16.45592799">
+<name>4.60</name>
+<desc>Most na nieczynnej linii kolejowej pomiędzy Wałczem a Złocieńcem. Pod mostem kamienne bystrze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.30424274" lon="16.45832345">
+<name>4.30</name>
+<desc>Po prawej stronie fragmenty nieużytkowanej budowli, wraz z rurą uchodzącą do rzeki. Cały czas odcinek rzeki płynącej przez las, ze zwałkami wymagającymi współpracy</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.30649309" lon="16.46746599">
+<name>3.15</name>
+<desc>Betonowy próg o wysokości około 1m. Pod progiem jest głęboko więc można bezpiecznie spływać</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.30669094" lon="16.46766103">
+<name>3.10</name>
+<desc>Betonowy mostek na lokalnej drodze. Możliwość podjęcia kajaków. Poniżej odcinek leśny, zwałkowy, dość uciążliwy. Niektóre przeszkody wymagają współpracy zespołowej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.30702000" lon="16.48380122">
+<name>1.20</name>
+<desc>Z prawej ujście rzeczki Pilca [zwanej też zamiennie: Żydówka, Żydowska Struga, Młynówka, Młynarka, podobnie jak przed wojną Juden Fliess i Muhlenfliess]</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.30807301" lon="16.49506963">
+<name>0.10</name>
+<desc>Bezimienny, ale wyraźny dopływ z prawej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.30917199" lon="16.49588380">
+<name>0.00</name>
+<desc>Ujście Piławki do Dobrzycy. Spływ wygodnie jest zakończyć przy moście w Ostrowcu, około 1 h w dół Dobrzycą</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

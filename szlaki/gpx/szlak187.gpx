@@ -1,0 +1,150 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.00769762" lon="16.97909922">
+<name>36.80</name>
+<desc>Kładka dla pieszych przy placu obok Biedronki, przy ul. Fabrycznej. Wygodne miejsce rozpoczynania spływu z trawiastego brzegu, w pobliżu kładki sporo miejsca na samochody. Początkowy odcinek nieco płytki i z kamieniami</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.00893854" lon="16.97569565">
+<name>36.50</name>
+<desc>Zniszczony próg betonowy tworzący bystrze. Spływać ostrożnie ze względu na ostre fragmenty konstrukcji. Niżej dość wartki nurt z kamieniami w korycie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.00995725" lon="16.97256955">
+<name>36.20</name>
+<desc>Niska drewniana kładka tuż nad lustrem wody. Podczas przechodzenia górą należy uważać na wystające gwoździe po szczeblach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.01235315" lon="16.97249938">
+<name>35.90</name>
+<desc>Stalowa rura wysoko nad wodą oraz betonowa kładka. Zaraz za nimi potrójny prożek z pochylniami pomiędzy. Na ostatnim szerokim progu trzymać się prawej strony, ze względu na duże głazy leżące tuż pod progiem, na które znosi nurt</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.01174968" lon="16.96735231">
+<name>35.50</name>
+<desc>Przed wysokim budynkiem skręcić w prawo pod betonową konstrukcję mostka - kładki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.01335192" lon="16.96602515">
+<name>35.30</name>
+<desc>Kamienny prożek bystrze w miejscu dawnego mostu kolejowego. Spływać ostrożnie ze względu na ostre kamienie na sporym nurcie. Zaraz po lewej oczyszczalnia z dyskretnym odprowadzeniem ścieków. Poniżej odcinek śródleśny, zwałkowy, miejscami bystry</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.02748339" lon="16.95207780">
+<name>32.40</name>
+<desc>Drewniany mostek na stalowych szynach. Pod mostem koryto rzeki zwęża się, więc nurt przyspiesza, tworząc bystrze. Możliwość awaryjnego dojazdu samochodem w pobliże. Przy mostku tabliczka Kawczyn 12 km</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.02926852" lon="16.94788758">
+<name>31.90</name>
+<desc>Z prawej dopływa rzeczka Węgorzynka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.05102741" lon="16.92118837">
+<name>26.20</name>
+<desc>Drugi drewniany mostek z możliwością awaryjnego dojazdu. Przy mostku tabliczka Kawczyn 8 km</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.05417039" lon="16.91707640">
+<name>25.60</name>
+<desc>Z lewej strony uchodzi Pierska Struga, która odprowadza wodę z pobliskiej pstrągarni. Niestety, na pewien czas znacząco brudzi i zasmradza Studnicę</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.06462485" lon="16.91568136">
+<name>23.40</name>
+<desc>Charakterystyczna linia energetyczna wysoko nad rzeką. Poniżej odcinek bardziej bystry, wyciszany 3 niewielkimi prożkami</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.07193843" lon="16.90389495">
+<name>21.00</name>
+<desc>Ostry zakręt w lewo z kamiennym bystrzem, nurt wyrzuca na powalone drzewo. Niżej rzeka wypływa na łąki i znacząco zwalnia</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.07581405" lon="16.88958131">
+<name>19.60</name>
+<desc>Próg piętrzący wodę na potrzeby hydroelektrowni, zlokalizowanej kilkaset metrów niżej. Całkowicie opuszczona zastawka nie dająca możliwości przepłynięcia prosto, na kanał młyński [konieczna przenoska], zabierający większą ilość wody z rzeki. Dalej odcinek prostego i uregulowanego kanału młyńskiego do elektrowni. Natomiast w lewo, na starorzecze istnieje możliwość spłynięcia krótkimi kajakami, przepławką dla ryb. Jednak, poniżej odcinek bardzo płytki bez możliwości wiosłowania, aż do najblliższego mostu</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.07753224" lon="16.88751586">
+<name>19.30</name>
+<desc>Most na lokalnej drodze, na starorzeczu. Koniec odcinka bardzo płytkiego, dalej wody na tyle, że daje się wiosłować</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.07770352" lon="16.88838857">
+<name>19.25</name>
+<desc>Mostek na lokalnej drodze, na kanale młyńskim</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.07786742" lon="16.88712006">
+<name>19.20</name>
+<desc>Po lewej agroturystyka, pole biwakowe, pokoje do wynajęcia i wypożyczalnia kajaków. Poniżej odcinek starorzecza z wystarczającą ilością wody aby móc swobodnie płynąć. Spowodowane jest to obecnością tamy bobrowej, piętrzącej wodę w korycie</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.07963008" lon="16.88474149">
+<name>18.80</name>
+<desc>Spora bobrowa tama pierząca wodę na starorzeczu. Poniżej tamy kamienie i kompletny brak wody na swobodny spływ, aż do hydroelektrowni. Dlatego, chyba lepiej dla sprzętu i nerwów, jeśli popłynie się młynówką i dopłynie nią do hydroelektrowni, mimo tego, że przed nią jest mało wygodne wyjście z wody</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.08123231" lon="16.88590636">
+<name>18.50</name>
+<desc>Bezobsługowa mała elektrownia wodna. Przenoska z kanału młyńskiego lewym brzegiem, po trawie. Wodowanie poniżej stromej skarpy. W pobliżu budynku, po prawej dobre miejsce na dziki biwak z wygodnym dojazdem gruntową drogą. Płynąc starorzeczem natomiast, widok budynku hydroelektrowni oznacza koniec brodzenia, dalej wody już nie brakuje. Poniżej odcinek bez przeszkód i ze spokojnym nurtem</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.08555547" lon="16.88600818">
+<name>17.80</name>
+<desc>Niska drewniana kładka ze szczebelkami uzbrojonymi w wystające gwoździe. Tuż za nią rozlewisko przed hydroelektrownią</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.08606179" lon="16.88628522">
+<name>17.70</name>
+<desc>Mała elektrownia wodna. Konieczna przenoska lewym brzegiem po trawie, przez drewniany mostek. Wodowanie ze stromego brzegu. Na dolnej wodzie, na budynku elektrowni zaznaczono, opatrzone datami, poziomy wody, znacząco przemawiające do wyobraźni... Dalej odcinek zwałkowy, kilka z nich wymaga współpracy zespołowej</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.09032799" lon="16.88228830">
+<name>16.70</name>
+<desc>Z lewej strony uchodzi rzeczka Świerzynka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.12079650" lon="16.86802626">
+<name>11.20</name>
+<desc>Z lewej strony dopływa rzeczka Białka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.12335559" lon="16.86779051">
+<name>10.70</name>
+<desc>Rzędy drewnianych stempli po starym moście</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.12371076" lon="16.86626910">
+<name>10.60</name>
+<desc>Most drogowy z tabliczką szlaku kajakowego 10 km. Pod mostem małe bystrze. Poniżej odcinek zwałkowy i miejscami bystry. Niektóre zwałki wymagają współpracy zespołowej, a inne zachowania zimnej krwi, ponieważ pokonanie przeszkód odbywa się na sporym nurcie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.16453665" lon="16.90431051">
+<name>2.40</name>
+<desc>Z lewej strony dopływ rzeczki Dzika. Koniec odcinka zwałkowego</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.16515387" lon="16.90458424">
+<name>2.30</name>
+<desc>Elektrownia wodna Ciecholub. Bardzo wygodne miejsce do rozpoczynania i kończenia etapu. Na górnej i dolnej wodzie pomosty z drabinkami i slipem. Tablice z opisem i mapą szlaku. Dobry dojazd samochodem nad samą wodę. Na górnej wodzie stoi mało czytelny, ale jedyny na Studnicy, wodowskaz. Obok wodowskazu posadowiono tabliczkę z kotą 5665, co prawdopodobnie oznacza rekordową wodę w tym miejscu. Wskazania poziomu 5020 dały względnie dobre warunki do spływu, jednak umiejscowienie wodowskazu na górnej wodzie, w cofce urządzenia piętrzącego, w bardzo małym stopniu odzwierciedla faktyczny stan wody w rzece. Nie należy więc przesadnie sugerować się jego wskazaniami</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.16584290" lon="16.90211962">
+<name>2.10</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.17651223" lon="16.90732977">
+<name>0.00</name>
+<desc>Ujście Studnicy do Wieprzy</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

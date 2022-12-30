@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="90" nazwa="Czerna Wielka" wersja="2">
+<opis>Czerna Wielka (niem. Große Tschirne, Großer Hammerbach), lewy dopływ Bobru o długości 71,9 km i powierzchni dorzecza 949 km. Rzeka wypływa ze źródeł na Pogórzu Izerskim, na południowy zachód od wsi Gierałtów. Płynie przez Bory Dolnośląskie zasilana przez swoje główne dopływy Ziębinę i Czerną Małą (lewe). Na odcinku długości ok. 20 km od ujścia Czernej Małej w Iłowej aż do ujścia do Bobru w Żaganiu, rzeka nosi nazwę Czerna (wg Wikipedii).
+Bardzo ładna i czysta rzeka, fragmentami zwałkowa, o szerokości 3-8m, płynąca kilometrami przez bezkresne lasy, silnie meandrująca i podmywająca brzegi. W środkowym odcinku stosunkowo słabo dostępna z lądu i w znacznej części poza zasięgiem GSM, co stanowi z jednej strony o jej atrakcyjności, a z drugiej o braku możliwości udzielenia w razie potrzeby szybkiej pomocy, czy też ewakuacji np. w razie pogorszenia pogody.
+Odcinek z miejscowości Poświętne do Kowalic polecam wyłącznie miłośnikom kajakarstwa zwałkowego, dodatkowo ze względu na ilość wody, zalecam pływanie po Czernej po okresie deszczowym. W Żaganiu znajduje się wodowskaz, którego wskazania można obserwować w internecie. Najniższy poziom na tym wodowskazie, przy którym dane mi było płynąć odcinek z Kowalic do Żagania, to 75. Przy tym stanie, wody brakuje na niektórych progach ale poza nimi płynie się bez przeszkód.</opis> 
+  <odcinek id="362" typ="rzeka" nazwa="Odcinek zwałkowy" 
+      uciazliwosc="U5" trudnosc="ZWC" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Piękny kawałek ładnej zwałkowej rzeki - gorąco polecam koneserom gatunku</opis>
+    <punkt id="5162" miejscowosc="Żaganiec" 
+      ns="51.56378116" we="15.26781587" km="14" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz elektrowni. Spływać w prawo od budynku przez 5 przęsłowy, 3 stopniowy próg z kładką. Najwygodniej skoczyć środkowym przęsłem, ponieważ najłatwiej wtedy trafić na nurcie w wąską ścieżkę wyrwę  w rzędzie ostro krawędzistych kamieni ułożonych w poprzek nurtu, poniżej ostatniego stopnia progu</opispunktu> 
+    </punkt>
+    <punkt id="5161" miejscowosc="Czerna" 
+      ns="51.53107763" we="15.23983374" km="21.2" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Drogowy most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="5160" miejscowosc="Czerna" 
+      ns="51.53056091" we="15.23930236" km="21.3" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg o wysokości około 1,5m zbudowany z wielkich głazów. Najwygodniej jest go spływać bliżej prawej strony, tutaj fragment pionowy zrębu progu jest niższy </opispunktu> 
+    </punkt>
+    <punkt id="5159" miejscowosc="Czerna" 
+      ns="51.52431198" we="15.2266315" km="22.9" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Rzędy pali drewnianych tworzących rodzaj prożka. Często zatrzymują się tu spływające drzewa, piętrząc wodę i utrudniając przejście</opispunktu> 
+    </punkt>
+    <punkt id="3024" miejscowosc="Dolanów" 
+      ns="51.52252404" we="15.22168513" km="23.4" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi nr 18</opispunktu> 
+    </punkt>
+    <punkt id="5158" miejscowosc="Dolanów" 
+      ns="51.519369" we="15.21852151" km="24" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze, pod nim bystrze</opispunktu> 
+    </punkt>
+    <punkt id="3023" miejscowosc="Dolanów" 
+      ns="51.51918529" we="15.21824366" km="24.1" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Czerna Wielka łączy się z Czerną Małą, dalej płynąc jako Czerna</opispunktu> 
+    </punkt>
+    <punkt id="5157" miejscowosc="Kowalice" 
+      ns="51.48993961" we="15.23160966" km="28.5" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg o wysokości około 2m, trzy przęsła, nad nimi stalowa kładka. Najwygodniej jest spływać środkowym przęsłem i zaraz odbić w lewo, ponieważ poniżej progu po prawej stronie wystaje betonowa płyta</opispunktu> 
+    </punkt>
+    <punkt id="3022" miejscowosc="Kowalice" 
+      ns="51.48505079" we="15.2324567" km="29.4" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz wysokości 1m, zaraz za nim most na drodze gruntowej. Wygodne miejsce wodowania kajaków</opispunktu> 
+    </punkt>
+    <punkt id="3021" miejscowosc="Kowalice" 
+      ns="51.47225227" we="15.23611021" km="31.4" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście rzeki Ziębiny</opispunktu> 
+    </punkt>
+    <punkt id="5156" miejscowosc="Kowalice" 
+      ns="51.45536222" we="15.25016099" km="34.9" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Ruiny młyna, betonowy most na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="3019" miejscowosc="Nowoszów (Nowa Wieś)" 
+      ns="51.44015952" we="15.27061508" km="37.9" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Bardzo ładny sklepiony most ceglany na leśnej drodze. Miejsce to nazywane jest Czerwonym Mostem. Miejsce po nieistniejącej już wsi Nowoszów</opispunktu> 
+    </punkt>
+    <punkt id="5155" miejscowosc="" 
+      ns="51.42695977" we="15.2785601" km="39.9" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony rzekę zasila ciur, który czasami śmierdzi detergentami i mocno się pieni</opispunktu> 
+    </punkt>
+    <punkt id="5154" miejscowosc="" 
+      ns="51.41582041" we="15.29343946" km="41.9" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ruiny wioski</opispunktu> 
+    </punkt>
+    <punkt id="5153" miejscowosc="" 
+      ns="51.40882486" we="15.2981594" km="43" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ruiny wioski</opispunktu> 
+    </punkt>
+    <punkt id="3018" miejscowosc="Poświętne" 
+      ns="51.38929664" we="15.28802696" km="46" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na leśnej drodze, wygodne miejsce wodowania kajaków. Pod mostkiem próg 3 przęsłowy, prawdopodobnie piętrzący wodę dla młyna, którego ruiny znajdują się w odległości 50m po prawej stronie w lesie. W pobliżu sporo miejsca na dziki biwak</opispunktu> 
+    </punkt>
+    <punkt id="3026" miejscowosc="Żaganiec" 
+      ns="51.56803102" we="15.26808283" km="13.4" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze z Żagania do Iłowej</opispunktu> 
+    </punkt>
+    <punkt id="5163" miejscowosc="Żaganiec" 
+      ns="51.56944403" we="15.26880499" km="13.1" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek - kładka</opispunktu> 
+    </punkt>
+    <punkt id="3027" miejscowosc="Żagań" 
+      ns="51.59770209" we="15.27234466" km="7.4" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3028" miejscowosc="Żagań" 
+      ns="51.60320705" we="15.28365416" km="5.8" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="3029" miejscowosc="Żagań" 
+      ns="51.61125204" we="15.28412692" km="4.2" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="5164" miejscowosc="Żagań" 
+      ns="51.61364629" we="15.28863324" km="3.8" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek przy ruinach papierni</opispunktu> 
+    </punkt>
+    <punkt id="5165" miejscowosc="Żagań" 
+      ns="51.61397992" we="15.289658" km="3.7" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most przy ruinach papierni</opispunktu> 
+    </punkt>
+    <punkt id="5166" miejscowosc="Żagań" 
+      ns="51.61598975" we="15.29198508" km="3.3" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wąski przesmyk w prawo na zalew przed przystanią klubu Szron-Czerna</opispunktu> 
+    </punkt>
+    <punkt id="5167" miejscowosc="Żagań" 
+      ns="51.62331367" we="15.29256599" km="2.3" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="5168" miejscowosc="Żagań" 
+      ns="51.6258652" we="15.29401412" km="2" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg kamienny</opispunktu> 
+    </punkt>
+    <punkt id="5169" miejscowosc="Żagań" 
+      ns="51.6274558" we="15.29428794" km="1.8" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="5170" miejscowosc="Żagań" 
+      ns="51.62916218" we="15.30094057" km="1.2" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ul. Chrobrego</opispunktu> 
+    </punkt>
+    <punkt id="5171" miejscowosc="Żagań" 
+      ns="51.63246794" we="15.3053593" km="0.2" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 12</opispunktu> 
+    </punkt>
+    <punkt id="5172" miejscowosc="Żagań" 
+      ns="51.63430408" we="15.30579013" km="0" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Czernej do Bobru</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

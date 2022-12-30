@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="16" nazwa="Chocina" wersja="6">
+<opis>Lewy dopływ Brdy (uchodzi do jeziora Karsińskiego, przed miejscowości Swornegacie). Rzeka nizinna o leniwym nurcie.  Uwaga: podany "kilometraż" jest przybliżony i orientacyjny. Czas płynięcia od Zielonej Chociny do ujścia ok. 5-6 h. Szerokość rzeki do 10m, średnia głębokość 1,2m, rzeka płynie leniwie pośród łąk i pastwisk oraz pól uprawnych. Ma swój urok zwłaszcza jesienią o wczesnym mglistym i chłodnym poranku.</opis> 
+  <odcinek id="67" typ="rzeka" nazwa="Chocina od Zielonej Chociny" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL3" 
+      kolejnosc="0"> 
+  <opis>Rzeka nizinna o leniwym nurcie.</opis>
+    <punkt id="629" miejscowosc="" 
+      ns="53.84610146" we="17.50069309" km="0" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Chociny do jeziora Karsińskiego</opispunktu> 
+    </punkt>
+    <punkt id="628" miejscowosc="Kokoszka" 
+      ns="0" we="0" km="1.2" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="stanica" kolejnosc="-1">W miejscowości, na prawym brzegu, duży ośrodek wypoczynkowo-rekreacyjny ze ścieżką dydaktyczną.</opispunktu> 
+    </punkt>
+    <punkt id="627" miejscowosc="Kokoszka" 
+      ns="53.84227392" we="17.49163512" km="1.5" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Bardzo brzydki most</opispunktu> 
+    </punkt>
+    <punkt id="626" miejscowosc="" 
+      ns="0" we="0" km="3.8" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Ostatnia kładka</opispunktu> 
+    </punkt>
+    <punkt id="625" miejscowosc="" 
+      ns="0" we="0" km="5.5" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Następny mostek,  odtąd rzeka już tak nie kręci.</opispunktu> 
+    </punkt>
+    <punkt id="624" miejscowosc="Klucza" 
+      ns="53.83488769" we="17.46656654" km="6.3" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek, gdzie rzeka tworzy zakole (ciągle meandrując), w którym po lewej stronie, pięknie położone siedlisko o nazwie Klucza z dojazdem przez kolejny mostek.</opispunktu> 
+    </punkt>
+    <punkt id="623" miejscowosc="" 
+      ns="0" we="0" km="7.6" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Kolejna kładka</opispunktu> 
+    </punkt>
+    <punkt id="622" miejscowosc="" 
+      ns="0" we="0" km="8.2" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Kolejna kładka tuż nad wodą. Od tego miejsca rzeka bardzo silnie meandruje (zamiana kierunku często o 180 stopni) częściowo wśród łąk, częściowo przez las przy bardzo niskich brzegach. Bardzo piękny odcinek.</opispunktu> 
+    </punkt>
+    <punkt id="968" miejscowosc="" 
+      ns="0" we="0" km="10" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Kolejna kładka tuż nad powierzchnią. W zależności od poziomu wody, czasami trzeba obnosić.</opispunktu> 
+    </punkt>
+    <punkt id="621" miejscowosc="Chocimski Młyn" 
+      ns="0" we="0" km="10.5" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka tuż nad lustrem wody, która przy wyższym stanie wody prawdopodobnie będzie zalana (możliwość "przeskoczenia" górą?). Przenoska - łatwa ok. 10 m lewym brzegiem.</opispunktu> 
+    </punkt>
+    <punkt id="620" miejscowosc="Chociński Młyn" 
+      ns="53.8316496" we="17.4477785" km="11" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska 30 m prawym brzegiem przez jezdnię na drodze nr 236 (Swornegacie-Korne). Przenoska niekłopotliwa chociaż pod górkę - trzeba tylko uważać na ruch samochodowy.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pod mostem próg ok. 1 m, tuż za nim dwa rzędy pali (pozostałości po starym młynie). </opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most z pozostałościami po drewnianym młynie na lewym brzegu - za mostem.</opispunktu> 
+    </punkt>
+    <punkt id="617" miejscowosc="" 
+      ns="0" we="0" km="11.3" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Kolejna kładka. Następne 1300 m to leniwy nurt i łagodne meandry wśród łąk - w sumie nudny fragment.</opispunktu> 
+    </punkt>
+    <punkt id="616" miejscowosc="" 
+      ns="0" we="0" km="12.8" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">kładka</opispunktu> 
+    </punkt>
+    <punkt id="615" miejscowosc="" 
+      ns="0" we="0" km="14" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Kolejna kładka. Następnie piękny odcinek rzeki płynącej wśród łąk, a miejscami w lesie.</opispunktu> 
+    </punkt>
+    <punkt id="614" miejscowosc="" 
+      ns="0" we="0" km="15" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Kolejny mostek</opispunktu> 
+    </punkt>
+    <punkt id="613" miejscowosc="" 
+      ns="53.8589212" we="17.44066319" km="16" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Następny mostek na na drodze lokalnej Sepiot-Zielona Huta. Przez następny kilometr rzeka płynie łagodnymi zakolami, a proste odcinki przypominają kanał z widocznymi pozostałościami dawnych umocnień na obu brzegach. Nad brzegami nieco zarośli i drzew, za którymi widać górki i dalej las, który niekiedy podchodzi bliżej brzegów.</opispunktu> 
+    </punkt>
+    <punkt id="612" miejscowosc="" 
+      ns="0" we="0" km="16.2" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Następna kładka, przy której można zatrzymać się (na lewym brzegu) na krótki postój.</opispunktu> 
+    </punkt>
+    <punkt id="611" miejscowosc="" 
+      ns="0" we="0" km="16.6" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka</opispunktu> 
+    </punkt>
+    <punkt id="610" miejscowosc="" 
+      ns="0" we="0" km="17.6" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na ok. 17,6 km rzekę tarasuje brzoza. Przy niskim lub średnim stanie można prześlizgnąć się pod nią tuż przy prawym brzegu. Przy wyższym stanie wody trzeba przenieść kajak brzegiem, co może być kłopotliwie z uwagi na krzewy i nieco podwyższony i zabagniony prawy brzeg. Raczej próbować lewą stroną.</opispunktu> 
+    </punkt>
+    <punkt id="609" miejscowosc="" 
+      ns="0" we="0" km="18.4" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Kolejny, następny mostek. Rzeka wpływa w las, brzeg nieco się podnosi, ale nadal jest niski.</opispunktu> 
+    </punkt>
+    <punkt id="608" miejscowosc="" 
+      ns="53.87509367" we="17.43565341" km="19.6" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Kolejny mostek</opispunktu> 
+    </punkt>
+    <punkt id="607" miejscowosc="Jonki" 
+      ns="0" we="0" km="20.6" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Za mostkiem w Jonkach rzeka skręca w prawo i po 200 m rzekę przegradza zastawka. Przy średnim i niskim stanie wody i podniesionym jednym z czterech przepustów można przepłynąć bez problemów.</opispunktu> 
+    </punkt>
+    <punkt id="606" miejscowosc="Jonki" 
+      ns="53.87830386" we="17.42530635" km="20.8" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek w miejscowości Jonki</opispunktu> 
+    </punkt>
+    <punkt id="605" miejscowosc="" 
+      ns="0" we="0" km="22.8" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W sąsiedztwie zabudowań na prawym brzegu przerzucone w poprzek rzeki dwa pnie sosnowe - konieczne przeciągnięcie kajaka górą.
+Jak donosi Piotr Eichler z Suchego Lasu, pni sosnowych już nie ma. </opispunktu> 
+    </punkt>
+    <punkt id="1336" miejscowosc="" 
+      ns="0" we="0" km="23.3" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy</opispunktu> 
+    </punkt>
+    <punkt id="604" miejscowosc="Zielona Chocina" 
+      ns="53.89249363" we="17.40446676" km="24.8" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Wygodne wodowanie w miejscowości Zielona Chocina na lewym brzegu przed mostem na trasie nr 212 (Chojnice-Bytów). Wodowanie łatwe. Od Zielonej Chociny rzeka przez około 4 kilometry leniwie meandruje wśród łąk.</opispunktu> 
+    </punkt>
+    <punkt id="3001" miejscowosc="Zielona Chocina" 
+      ns="53.89209959" we="17.40379442" km="24.85" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska przy wysokim stanie wody</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka z 4 przepustami wody.</opispunktu> 
+    </punkt>
+    <punkt id="3000" miejscowosc="Zielona Chocina" 
+      ns="0" we="0" km="24.9" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep spożywczy</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Małe pole biwakowe z mini wiatą</opispunktu> 
+    </punkt>
+    <punkt id="2999" miejscowosc="Popielewo" 
+      ns="53.89515886" we="17.372302" km="28.3" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka</opispunktu> 
+    </punkt>
+    <punkt id="2998" miejscowosc="Popielewo" 
+      ns="53.89299606" we="17.36397528" km="28.8" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka szerokości 2m</opispunktu> 
+    </punkt>
+    <punkt id="2997" miejscowosc="Kępinka" 
+      ns="0" we="0" km="29.2" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek drewniany szerokości 3m</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Trudna przenoska - trzciny, bagniste brzegi (zator z roślin wodnych około 25m, gruby na 0,5m)</opispunktu> 
+    </punkt>
+    <punkt id="2996" miejscowosc="Duża Kępina" 
+      ns="0" we="0" km="30.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka szerokości 2m</opispunktu> 
+    </punkt>
+    <punkt id="2995" miejscowosc="Duża Kępina" 
+      ns="0" we="0" km="30.9" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka szerokości 2m</opispunktu> 
+    </punkt>
+    <punkt id="2994" miejscowosc="Binduga" 
+      ns="53.89967162" we="17.33442303" km="31" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Wodowanie na prawym brzegu rzeki przed mostem</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

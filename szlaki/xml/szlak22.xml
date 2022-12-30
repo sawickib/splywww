@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="22" nazwa="Dniestr (Ukraina)" wersja="3">
+<opis>Dniestr od Halicza do Chocimia - Najciekawszy odcinek Dniestru na Zachodniej Ukrainie. Rzeka o charakterze nizinnym płynąca w górskim krajobrazie głęboko wciętego Jaru Dniestrowego, liczne boczne wąwozy i jary. Dno i brzegi kamieniste. Przeszkód brak, trudności niewielkie - zdarzają się możliwe do ominięcia przemiały i szypoty. Uwaga przy niskim poziomie wody - ze względu na sporą szybkość nurtu niebezpieczeństwo uszkodzenia sprzętu. Silny wiatr szybko podnosi nieprzyjemną, krótką i wysoką falę. Na brzegach częste odkrywki różnokolorowych skał, bogata i nieraz już egzotyczna  dla nas roślinność, wielka ilość ptactwa, zwłaszcza czapli. Okolice rzeki, jak na Ukrainę, gęsto zaludnione choć nie odczuwa się tego ze względu na częstą niedostępność brzegów. Sklepy zaopatrzone przyzwoicie, przy tym możliwość uzupełnienia zakupów u ludzi - warzywa, mleko a nawet chleb. Wygodnych i pięknie położonych miejsc biwakowych dostatek, dla dowolnie licznych grup. Stara, ciekawa i w wielu przypadkach zabytkowa zabudowa okolicznych wsi i miasteczek, robiących wrażenie zagubionych w czasie i przestrzeni. Nieodparte i historycznie uzasadnione uczucie kulturowej swojskości. Początkowo na obu brzegach Haliczyna, od okolic Zaleszczyk na lewym brzegu Podole, na prawym - Bukowina. Są też oczywiście sprawy ciemniejsze - nie jest to w końcu wyjazd na Krutynię - potrzebna jest świadomość celu.</opis> 
+  <odcinek id="86" typ="rzeka" nazwa="Dniestr od Zaleszczyk do Chocimia" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL3" 
+      kolejnosc="2"> 
+  <opis>Dolina poszerza się. Jar staje się mniej wyrazisty lecz rzeka nadal płynie wśród wysokich, urwistych, skalisto-gliniastych wzgórz. W kilku miejscach pionowe, kilkunastometrowe skalne ściany opadają wprost do rzeki. Prędkość nurtu początkowo nie zmienia się, od Dźwinogrodu zaczyna powoli spadać. Koło Chocimia rzeka praktycznie już stoi. Nadal fantastyczne zakręty. Szerokość rzeki od 100 m do ponad 300 m koło Chocimia. Uwaga na liny licznych promów.</opis>
+    <punkt id="818" miejscowosc="Chocim" 
+      ns="0" we="0" km="282" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Chocim położony jest na prawym brzegu coraz potężniej rozlanego Dniestrowskiego Wodoschronienia. Wieże zamku, tu mówi się fortecy, widoczne są z daleka. Forteca stoi przy samym brzegu, koło ujścia niewielkiego potoczku. Wznosząca się nad nim najpotężniejsza, północna baszta sięga wysokości 50 m ponad poziom rzeki. Forteca nie jest budowlą rozległą jak twierdza w Kamieńcu Podolskim, ale jest postawiona wzwyż, w bardzo zwarty sposób. Budowana i rozbudowywana od XII w. wciąż przechodziła z rąk do rąk: mołdawskich, polskich, tureckich, ukraińskich a później i rosyjskich. Zachowana w dobrym stanie, obecnie trwają prace przy rekonstrukcji budowli wewnątrz murów. Wejście za biletami wstępu.</opispunktu> 
+    </punkt>
+    <punkt id="817" miejscowosc="Żwaniec" 
+      ns="0" we="0" km="278" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w Żwańcu. Po lewej ujście Żwańczyka, za nim zabudowania Żwańca. Widoczne ruiny zamku, położone nad Żwańczykiem oraz kościół ormiański Niepokalanego Poczęcia NMP. Na prawym brzegu wieś Ataki - dobre miejsce do lądowania i zakończenia spływu. Stąd 24 km do Kamieńca Podolskiego.</opispunktu> 
+    </punkt>
+    <punkt id="816" miejscowosc="Isakowce" 
+      ns="0" we="0" km="275" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Zbrucz - do wojny rzeki granicznej z ZSRR. Był to wtedy styk trzech granic, gdyż prawy, bukowiński brzeg należał do Rumunii. Zbrucz przy ujściu szeroko rozlany - cofka  Dniestrowskiego Wodoschronienia. Na Zbruczu, tuż przed ujściem dwa drogowe mosty. W oddali po lewej widoczny most na Żwańczyku. Most na Dniestrze powoli wyłania się zza zakrętu.</opispunktu> 
+    </punkt>
+    <punkt id="815" miejscowosc="Okopy" 
+      ns="0" we="0" km="273" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Za urwiskami lewego brzegu naprzeciwko wsi Przyhorodek leży wieś Okopy. Dawniej Okopy św. Trójcy - miejsce znane z akcji dramatu "Nieboska komedia" Zygmunta Krasińskiego. Wieś, rozciągnięta wzdłóż brzegu Dniestru, otoczona jest z przeciwnej strony pętlą Zbrucza, który zbliża się do Dniestru na odległość około 500 m. W miejscu tym widać pozostałości umocnień twierdzy z końca XVII w.: wał ziemny oraz jedyna zachowana brama - "Kamieniecka". Kawałek dalej zrujnowany kościół św. Trójcy. Miejscowi ludzie twierdzą, że kościelna krypta połączona jest korytarzem z oknem skalnym w niedalekim, urwistym brzegu Dniestru.</opispunktu> 
+    </punkt>
+    <punkt id="814" miejscowosc="Raszków" 
+      ns="0" we="0" km="262" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na prawym brzegu wieś Raszków, nieco dalej, na lewym - Trubczyn. Duży jar za Raszkowem nosił kiedyś nazwę "jaru Heleny" choć ten Raszków, który miał na myśli Sienkiewicz pisząc "Ogniem i mieczem" leży w Mołdawii. Bardzo dobre miejsce biwakowe. Za Trubczynem lewy brzeg ponownie stromieje, odsłaniając skały: era paleozoiczna, okres syluru, wiek około 400 milionów lat.</opispunktu> 
+    </punkt>
+    <punkt id="813" miejscowosc="Dźwinogród" 
+      ns="0" we="0" km="258" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce wyjątkowo malownicze. Nad tarasem lewego brzegu ciągnie się do zakrętu rzeki długi, pionowy mur z glinki, wysokości do 20 m. Nad urwiskiem stoi duży, z daleka widoczny krzyż. Za krzyżem i ponad nim kępa starych drzew osłania cerkiewkę i cmentarzyk. Na samym zakręcie uchodzi do rzeki szemrząc małym wodospadem potoczek. Przy ujściu potoczku ślady dawno opuszczonej zagrody, ruiny młyna, na drugim brzegu kolejne opuszczone gospodarstwo, stoi jeszcze chałupa. Nad nią brzeg Dniestru ponownie stromieje. Wieś położona jest w głębi doliny potoczku, na obu jego stokach. Jest to stary gród ruski, którego historia sięga czasów przedpiastowskich. Do dziś pozostały ślady grodziska.</opispunktu> 
+    </punkt>
+    <punkt id="812" miejscowosc="Ruchocin" 
+      ns="0" we="0" km="252" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Dobre miejsce biwakowe ze źródełkiem, na lewym brzegu, naprzeciwko wsi Ruhocin. Dalej, na lewym brzegu leży wieś Dnistrowe, dawniej Wołkowce koło Dźwinogrodu. Z rzeki widoczny jest kościół.</opispunktu> 
+    </punkt>
+    <punkt id="811" miejscowosc="Olchowiec" 
+      ns="0" we="0" km="250" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Koło wsi Olchowiec, na lewym brzegu wysokie wzgórza. Najwyższe to góra Tarasa Bulby, wg. legendy miejsce śmierci bohatera powieści Ignacego Hohola. Powieść ta to ukraiński odpowiednik "Ogniem i mieczem" Henryka Sienkiewicza.</opispunktu> 
+    </punkt>
+    <punkt id="810" miejscowosc="Chudykowice" 
+      ns="0" we="0" km="240" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu wieś Chudykowice, na końcu wsi prom. Stąd do Mielnicy Podolskiej są 2 km piechotą. Mielnica Podolska - miasteczko, 4 tys. mieszkańców. Cerkiew, kościół (czynny), zachowany pałac i park - obecnie Dom Dziecka dla upośledzonych dzieci. Restauracja "Mielniczanka". Stąd można się wybrać do Krzywcza, 16 km w kierunku północnym, komunikacja autobusowa. W okolicy Krzywcza znajdują się jaskinie gipsowe z bogatą szatą naciekową, jedne z najdłuższych w Europie. Najdłuższa jaskinia - "Optymistyczna". Do zwiedzania udostępniona jest jaskinia "Kryształowa" - oświetlona, z ułożonym chodnikiem i obsługą przewodnicką. Ponadto ruiny zamku. 10 km na wschód od Mielnicy leżą Kudryńce - ruiny potężnego zamku, wybudowanego na pocz. XVII w. i w tym czasie porównywalnego wielkością do twierdzy w Kamieńcu Podolskim są bardzo malownicze położone nad zakolem Zbrucza. Na wąskim i zwężającym się w kierunku wsch. pasie terenu na pd.-wsch. od Mielnicy, położonym pomiędzy Dniestrem i Zbruczem, m.in. w okolicy wsi Dźwiniaczka wypatrzeć można wyraźne ślady obwałowań, potocznie zwanych "Wałami Trajana". Liczne znaleziska monet i innych przedmiotów z okresu rzymskiego.</opispunktu> 
+    </punkt>
+    <punkt id="809" miejscowosc="Uście Biskupie" 
+      ns="0" we="0" km="236" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Za urwiskiem lewego brzegu ujście rzeki Niezławy, za nim duża wieś Uście Biskupie.</opispunktu> 
+    </punkt>
+    <punkt id="808" miejscowosc="" 
+      ns="0" we="0" km="234" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe na prawym brzegu, fantastyczna skalna sceneria przeciwległego brzegu. Dalej po lewej pionowe urwisko opadające wprost do wody.</opispunktu> 
+    </punkt>
+    <punkt id="807" miejscowosc="Horoszowa" 
+      ns="0" we="0" km="230" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Duża wieś Horoszowa, po lewej, w zakolu Dniestru. Ciekawa drewniana zabudowa. Za wsią wyspa, dalej dobre miejsce na biwak.</opispunktu> 
+    </punkt>
+    <punkt id="806" miejscowosc="Onut" 
+      ns="0" we="0" km="224" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wieś Onut na prawym brzegu, ciekawa drewniana cerkiew, ujście rzeki Potok, wyspy, prom. Stąd według mapy zaczyna się Dniestrowskie Wodoschowiszcze, tj. sztuczny zbiornik z zaporą w Nowodniestrowsku.</opispunktu> 
+    </punkt>
+    <punkt id="805" miejscowosc="Samuszyn" 
+      ns="0" we="0" km="218" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wieś Samuszyn na prawym brzegu. Prom, będzie ich coraz więcej gdyż najbliższy most jest dopiero w Żwańcu. Przed wsią malowniczy pas pionowych skał opadających wprost do rzeki. Za wsią wyspy, cały archipelag. Od promu do Uścia Biskupiego drogą 4 km, rzeką 20 km.</opispunktu> 
+    </punkt>
+    <punkt id="804" miejscowosc="Kołodróbka" 
+      ns="0" we="0" km="210" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu wieś Kołodróbka, dawna osada tatarska. Liczne znaleziska starożytności. Obok rezerwat florystyczny "Cynkiw". Miejsce biwakowe.</opispunktu> 
+    </punkt>
+    <punkt id="803" miejscowosc="Mosorówka" 
+      ns="0" we="0" km="208" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu, przed wsią Mosorówka stoi ogromny budynek przepompowni. Woda pobierana z rzeki służy do nawadniania okolicznych pól.</opispunktu> 
+    </punkt>
+    <punkt id="802" miejscowosc="Bródek" 
+      ns="0" we="0" km="203" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej duża wieś Bródek - po mołdawsku Vadu Nistrului, po lewej wieś Sinków. Z Bródka 7 km do Okna (neogotycki pałac z pocz. XIX w., jedyna na Bukowinie zachowana w całości rezydencja). Za wsią początek kolejnej serii wielkich zakrętów.</opispunktu> 
+    </punkt>
+    <punkt id="801" miejscowosc="Zazulińce" 
+      ns="0" we="0" km="200" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Duża wieś Zazulińce na lewym brzegu. Koło niej dobre miejsce na biwak. Za wsią lewy brzeg opada pionowym urwiskiem wprost do wody. Spadek rzeki widoczny "gołym okiem".</opispunktu> 
+    </punkt>
+    <punkt id="800" miejscowosc="Gródek" 
+      ns="0" we="0" km="189" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Piękne miejsce biwakowe na prawym brzegu, poniżej widocznego z daleka monastyru i cerkwi Zaśnięcia NMP w Kulewcach. Na przeciwległym brzegu długa gliniasta ścianka - "Poczeniha", podziurawiona ptasimi gniazdami. Za nią zaczynają się zabudowania Gródka. Ujście Seretu. Zabytkowe cerkwie: w Gródku, Kasperowcach i Kułakowcach nad Seretem.</opispunktu> 
+    </punkt>
+    <punkt id="799" miejscowosc="" 
+      ns="0" we="0" km="187" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wyspa w środku koryta rzeki, szypoty. Ominąć z prawej.</opispunktu> 
+    </punkt>
+    <punkt id="798" miejscowosc="Dobrowlany" 
+      ns="0" we="0" km="180" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po lewej wieś Dobrowlany, za nią, w bocznej dolince rezerwat florystyczny "Jar Obiżowa". Południowa roślinność (kiedyś m.in. stanowiska migdałowców), istniejąca tu dzięki specyficznemu, prawie śródziemnomorskiemu klimatowi okolic Zaleszczyk. Dobre miejsce na biwak. Kawałek dalej, po lewej, na stromym brzegowym stoku gaj platanowy.</opispunktu> 
+    </punkt>
+    <punkt id="797" miejscowosc="Zaleszczyki" 
+      ns="0" we="0" km="175" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Zaleszczyki, stolica rejonu (powiatu), 13 tys. mieszkańców. Miejscowość jest położona na końcu cypla, z trzech stron otoczonego wodami Dniestru. Dawniej kurort i uzdrowisko, liczne pensjonaty, Dom Uzdrowiskowy, park Majorowej, plaża. Obecnie niestety miejsce dość zaniedbane. W centrum miasta kościół katolicki i parafia. Ze wzgórza Kriszczatik na prawym, bukowińskim brzegu wspaniała panorama miasta i okolicy. We wtorek dzień targowy, pełen niemal wschodniej egzotyki. Dwa mosty - kolejowy i drogowy. Pod mostami płynąć prawą stroną.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="85" typ="rzeka" nazwa="Dniestr od Niżniowa do Zaleszczyk." 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL3" 
+      kolejnosc="1"> 
+  <opis>Jar Dniestrowy. Szerokość rzeki do 150 m. Stromy i wysoki brzeg to z jednej, to zdrugiej strony, to z obu.  Wysokość wzgórz na brzegach do 120 m nad poziom rzeki. Stromość w wielu przypadkach uniemożliwia podejście na wprost. Kolorowe skały, odsłonięte przekroje przez kolejne warstwy wysokości do 100 m. Groty, niektóre noszące ślady zamieszkania. Fantastyczne meandry.</opis>
+    <punkt id="796" miejscowosc="Zielony Gaj" 
+      ns="0" we="0" km="168" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu wieś Zielony Gaj, dawniej Żeżawa. Drewniana cerkiew z końca XVIII wieku. Miejsce biwakowe.</opispunktu> 
+    </punkt>
+    <punkt id="795" miejscowosc="Horodnica" 
+      ns="0" we="0" km="164" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Nad położoną na prawym brzegu wsią Horodnica zaczyna się pas wysokich, bardzo stromych i miejscami skalistych,  pociętych bocznymi jarami wzgórz. Przewyższenie znad rzeki sięga 120 m. Na najwyższym wierzchołku, niedaleko wsi, na usypanym kopcu stoi krzyż pamięci poległych za Samostinną Ukrainę. Wspaniała panorama. Rezerwat florystyczny. Na prawym brzegu, za kolejnym bocznym jarem jest już Bukowina. Przed wojną dochodziła tu do rzeki granica z Rumunią.</opispunktu> 
+    </punkt>
+    <punkt id="794" miejscowosc="Iwanie Złote" 
+      ns="0" we="0" km="158" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu Iwanie Złote: murowana cerkiew, przychodnia zdrowia, sklep, przystanek autobusowy.</opispunktu> 
+    </punkt>
+    <punkt id="793" miejscowosc="Uścieczko" 
+      ns="0" we="0" km="150" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Bardzo wysoka ażurowa konstrukcja. Z mostu wspaniała panorama w dół i w górę rzeki.</opispunktu> 
+    </punkt>
+    <punkt id="792" miejscowosc="Uścieczko" 
+      ns="0" we="0" km="148" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Uścieczko nad Dżurynem. Duża wieś, dawniej miasteczko. Miejsce biwakowe niedaleko ujścia Dżurynu, na łące. Do sklepu w centrum wsi niedaleko. Po drugiej stronie szosy cerkiew. Zrujnowany kościół stoi nieco dalej, w dół Dniestru, przy szosie. Obowiązkowa piesza wycieczka 6 km wzdłuż Dżurynu do Czerwonogrodu - miejscowości nie istniejącej dziś nawet na mapach. Piękny spacer wśród porośniętych lasem wzgórz doliny Dżurynu. (Ewentualnie można podjechać do wsi Nyrkiw lub Nagórzany). Czerwonogród to niezwykłe miejsce: na środku wielkiej kolistej kotliny, wyciętej w płaskowyżu pętlą Dżurynu, stoi samotna sucha wyspa. Na jej wierzchołku znajdują się: kościól Dominikanów - w ruinie oraz ruiny pałacu Lubomirskich - pozostały dwie wieże, zbudowane na wzór stojących tu dawniej obronnych wież zamkowych. Pomiędzy wieżami stała, nie zachowana do dziś, klasycystyczna część frontowa pałacu. Przy kościele krzyż z tablicą pamięci około 60-u osób, Polaków, zamordowanych tu pod koniec wojny. Na miejscu wsi Czerwonogród, na grzbiecie wyspy poniżej kościoła,  znajduje się obecnie letni obóz dziecięcy (dawniej pionierski) "Romaszka". Dżuryn, zatoczywszy pętlę wokól Czerwonogrodu spada z kotliny 16-o metrowym, dwukaskadowym wodospadem, najwyższym na Podolu. Niemal nad samym wodospadem brzegi rzeczki połączone są mostkiem - wiaduktem, zbudowanym z tutejszego czerwonego kamienia. Czerwonego tak, jak ziemia w całej okolicy.</opispunktu> 
+    </punkt>
+    <punkt id="791" miejscowosc="Michalcze" 
+      ns="0" we="0" km="144" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu, tuż nad brzegiem, stojące tyłem do rzeki zabudowania Turbazy w Michalczach. Podobno jest czynna. Kawałek dalej ruiny mostu - w rzece tkwią zrujnowane podpory. Trzymać się głównego nurtu.</opispunktu> 
+    </punkt>
+    <punkt id="790" miejscowosc="" 
+      ns="0" we="0" km="142" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Gazociąg "Sojuz" w poprzek rzeki.</opispunktu> 
+    </punkt>
+    <punkt id="789" miejscowosc="Latacz" 
+      ns="0" we="0" km="140" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wieś Latacz położona jest na wysokim lewym brzegu. Kawałek dalej, po lewej, nad wierzchołkami drzew - trudno dostępna grota "Sokole gniazdo". Miejsce na biwak na prawym brzegu. Wyspy. Wspaniały, prosty, długi leśny odcinek rzeki ciągnie się aż po Uścieczko.</opispunktu> 
+    </punkt>
+    <punkt id="788" miejscowosc="" 
+      ns="0" we="0" km="137" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Za zakrętem w lewo, z prawej ujście płynącego od Czernelicy niewielkiego potoczku. Idąc wzdłóż niego, pięknym jarem, mamy do Czernelicy 3 km.</opispunktu> 
+    </punkt>
+    <punkt id="787" miejscowosc="Chmielowa" 
+      ns="0" we="0" km="133" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wieś Chmielowa położona jest na obu brzegach rzeki, mostu brak. Komunikację zapewniają czółna - jeśli akurat nie ma go na naszym brzegu - trzeba głośno krzyczeć, na pewno ktoś przypłynie. Na brzegu prawym stoi pomnik pamięci mieszkańców wsi, którzy zginęli na frontach Otiecziestwiennoj Wojny, w szeregach Armii Czerwonej. Podobne pomniki stoją w każdej większej miejscowości, na każdym jest lista kilkudziesięciu czy nawet więcej nazwisk. Sklep jest zaraz za pomnikiem. Na lewym brzegu, na wzgórzach - rezerwat Chmielowa Ścianka - miejsca po przedwojennych winnicach. Z Chmielowej można wybrać się szosą (we wsi można znaleźć transport) do odległej o 9 km Czernelicy (kościół Dominikanów, ruiny twierdzy oraz obecnie misja Redemptorystów).</opispunktu> 
+    </punkt>
+    <punkt id="786" miejscowosc="Beremiany" 
+      ns="0" we="0" km="128" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej piękny beremiański kanion - ujście rzeki Strypy. Dobre miejsce na biwak. Wieś Beremiany, miejsce urodzenia Kornela Ujejskiego leży około 1 km od brzegu rzeki. Stąd najbliżej jest do Jazłowca (ruiny zamku oraz dom zakonny sióstr Niepokalanek), można wybrać się też do Potoku Złotego (zamek) i Buczacza (ratusz, ruiny zamku). Za zakrętem w prawo, na lewym brzegu wysokie wzgórze - Czerwona Góra, ciekawa roślinność naskalna. Do Chmielowej mocny i szybki nurt.</opispunktu> 
+    </punkt>
+    <punkt id="785" miejscowosc="Kopaczyńce" 
+      ns="0" we="0" km="119" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Dobre miejsce biwakowe dla dużej grupy, na prawym brzegu, za zakrętem w prawo, nieco poniżej ujścia Złotego Potoku po lewej. Do wsi Kopaczyńce około 2 km.</opispunktu> 
+    </punkt>
+    <punkt id="784" miejscowosc="Korniów" 
+      ns="0" we="0" km="112" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe na prawym brzegu, za wsią Korniów.</opispunktu> 
+    </punkt>
+    <punkt id="783" miejscowosc="Rakowiec" 
+      ns="0" we="0" km="105" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu, nad wsią Rakowiec ruiny zamku. Zachowała się baszta - widoczna z daleka i narożny fragment murów. Ze zboczy ponad zamkiem wspaniały widok na rzekę. Lądować przed pierwszymi zabudowaniami wsi.</opispunktu> 
+    </punkt>
+    <punkt id="782" miejscowosc="Łuka" 
+      ns="0" we="0" km="103" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie Kołomyja - Buczacz, łączący wsie Łukę i Nezwiskę. Kilometr wcześniej, na prawym brzegu, wysoko nad wodą wieś Podwerbce - ulubione miejsce lotniarzy.</opispunktu> 
+    </punkt>
+    <punkt id="781" miejscowosc="Monaster" 
+      ns="0" we="0" km="97" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu, naprzeciw wsi Monaster, wodospad "Dziewicze Łzy". Strumień wody, mieniąc się w słońcu tęczą, spływa sponad ukrytej wśród drzew skały. Pod strugami płytkie groty. Poniżej, przy brzegu rzeki  i w wodzie leżą wielkie głazy.</opispunktu> 
+    </punkt>
+    <punkt id="780" miejscowosc="" 
+      ns="0" we="0" km="94" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Początek 16-o kilometrowej pętli. Stąd na wprost do końca owej pętli jest 1 km ale ze względu na stromość brzegów skrócić trasy niepodobna.</opispunktu> 
+    </punkt>
+    <punkt id="779" miejscowosc="Dolina" 
+      ns="0" we="0" km="77" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe na prawym brzegu, przy końcu wsi, przed skalistym brzegowym wzgórzem. We wsi sklep.</opispunktu> 
+    </punkt>
+    <punkt id="778" miejscowosc="Kośmierzyn" 
+      ns="0" we="0" km="73" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Bardzo wygodne i pięknie położone na prawym brzegu, na tarasie nad rzeką miejsce biwakowe. Wieś Kośmierzyn leży za wzgórzem, na lewym brzegu.</opispunktu> 
+    </punkt>
+    <punkt id="777" miejscowosc="Ścianka" 
+      ns="0" we="0" km="71" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Za wsią Ścianka, po lewej duża grota, z wyraźnymi śladami zamieszkania. Prawdopodobnie była tu ok. 1000 lat temu chrześcijańska świątynia, założona w miejscu wcześniejszej, pogańskiej. Na prawym brzegu, wysoko w górze   położona jest wieś Delawa - liczna kolonia pięćdziesiętników (zielonoświątkowców).</opispunktu> 
+    </punkt>
+    <punkt id="776" miejscowosc="Stigła" 
+      ns="0" we="0" km="68" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Największy w trakcie naszego spływu  szypot. Za nim, po prawej, na wysokości położonej na lewym brzegu wsi Stigła trudno dostępna grota.</opispunktu> 
+    </punkt>
+    <punkt id="775" miejscowosc="Koropiec" 
+      ns="0" we="0" km="65" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Koropiec, po lewej stronie zakola Dniestru w lewo. W mieście Koropiec neorenesansowy pałac hrabiego Stanisława Badeniego, marszałka sejmu Galicji w pierwszych latach XX wieku. Jedna z niewielu zachowanych na Zachodniej Ukrainie w całości rezydencji. Wokół pozostałości parku. Niestety całość mocno zaniedbana. Do wysokości Koropca ciągną się od wsi Budzyń wysokie skaliste brzegi w kolorze fioletowo-bordowym.</opispunktu> 
+    </punkt>
+    <punkt id="774" miejscowosc="" 
+      ns="0" we="0" km="62" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wyspy, główny nurt omija je z lewej. Pomiędzy wyspami możliwe płycizny. Piękny widok na jar rzeki, stopniowo niknący za kolejnymi wzgórzami.</opispunktu> 
+    </punkt>
+    <punkt id="773" miejscowosc="Odaje" 
+      ns="0" we="0" km="57" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na prawym brzegu wieś Odaje, na lewym Horyhlady. Biwak za Odajami, przed potężnym brzegowym wzgórzem - pejzaż rzadkiej urody. Na wzgórzu kapliczka pamięci bojców z UPA.</opispunktu> 
+    </punkt>
+    <punkt id="772" miejscowosc="" 
+      ns="0" we="0" km="45" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Gazociąg Sojuz przeprowadzony w poprzek rzeki. Początek długiego, ciągnącego się do wsi Latacz odcinka fantastycznych zakrętów.</opispunktu> 
+    </punkt>
+    <punkt id="771" miejscowosc="Niżniów" 
+      ns="0" we="0" km="43" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Wygodne miejsce na prawym brzegu, za ujściem rzeczki Tłumacz. Płaska łąka położona na tarasie nad rzeką, pomiędzy wodą a stromym, zalesionym brzegowym wzgórzem zbliżającym się do rzeki. Wzgórze pocięte głębokimi jarami. Z wierzchowiny piękna panorama - pagórki, pola, lasy, gdzieś w dole wijący się Dniestr. Do najbliższych zabudowań  500 m, do centrum miasta 3 km.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="84" typ="rzeka" nazwa="Dniestr od Halicza do Niżniowa." 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="0"> 
+  <opis>Szeroka dolina, szerokość rzeki 50-80 m. Łozy, wierzby i topole. Na brzegach wzgórza, stopniowo przybliżają się do rzeki. Archipelagi wysp na wysokości Jezupola - przed mostem kolejowym i przy ujściu Bystrzycy. Między wyspami kamieniste przemiały. Za Uściem Zielonym piękne, wysokie, zalesione strome brzegi.</opis>
+    <punkt id="770" miejscowosc="Niżniów" 
+      ns="0" we="0" km="42" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Resztki filarów po moście kolejowym i most drogowy na trasie ze Stanisławowa do Monasterzysk. Płynąć lewą stroną, za mostem nurt mocno przyspiesza, uwaga na płycizny.</opispunktu> 
+    </punkt>
+    <punkt id="769" miejscowosc="Złota Lipa" 
+      ns="0" we="0" km="37" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pięknie położone w niedużym zagajniku miejsce biwakowe, na lewym brzegu, tuż przed ujściem Złotej Lipy.</opispunktu> 
+    </punkt>
+    <punkt id="768" miejscowosc="Bukówna" 
+      ns="0" we="0" km="29" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Dobre miejsce biwakowe na prawym brzegu. Dalej stromy, porośnięty lasem wysoki brzeg na długim, łagodnym zakręcie w lewo.</opispunktu> 
+    </punkt>
+    <punkt id="767" miejscowosc="Uście Zielone" 
+      ns="0" we="0" km="25" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Miasteczko Uście Zielone leży nad rzeką Horożanką, lewym dopływem Dniestru, odsunięte od niego o ok. 2 km. Czynny kościół św. Rozali, cerkiew z ciekawym ikonostasem, dobrze zachowany kirkut. Trzy sklepy, ośrodek zdrowia. Na prawym brzegu Dniestru wysoka skarpa, ciekawe boczne wąwoziki. Dobre miejsce do kąpieli.</opispunktu> 
+    </punkt>
+    <punkt id="766" miejscowosc="Dołhe" 
+      ns="0" we="0" km="23" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe za położoną na prawym brzegu wsią Dołhe, na zakręcie rzeki.</opispunktu> 
+    </punkt>
+    <punkt id="765" miejscowosc="Mariampol" 
+      ns="0" we="0" km="16" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po lewej, na wzgórzu pięknie położone miasteczko Mariampol - resztki ruiny pałacu Jabłonowskich, klasztor Kapucynów zamieniony na więzienie. W cerkwi znajduje się kopia łaskami słynącego obrazu Matki Boskiej z Dzieciątkiem, zwana Zwycięską lub Hetmańską. Oryginał we Wrocławiu. Na błoniach za miastem piękne miejsce biwakowe.</opispunktu> 
+    </punkt>
+    <punkt id="764" miejscowosc="Jezupol" 
+      ns="0" we="0" km="12" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej ujście Bystrzycy, ukryte wśród wysp. Uwaga na kamieniste płycizny.</opispunktu> 
+    </punkt>
+    <punkt id="763" miejscowosc="Jezupol" 
+      ns="0" we="0" km="11" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Wygodne miejsce biwakowe na prawym brzegu, na zakręcie w lewo, przy niedużym zagajniku, za ujściem małego potoczku. Stąd do Jezupola 2 km. W miasteczku obejrzećmożna barokowy kościół Dominikanów. Można też wybrać się do Stanisławowa - 20 km, koleją lub autobusem.</opispunktu> 
+    </punkt>
+    <punkt id="762" miejscowosc="Jezupol" 
+      ns="0" we="0" km="9" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy - uwaga na kamieniste płycizny, płynąć z lewej.</opispunktu> 
+    </punkt>
+    <punkt id="761" miejscowosc="" 
+      ns="0" we="0" km="7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wyspy - trzymać się nurtu, z prawej kamieniste płycizny.</opispunktu> 
+    </punkt>
+    <punkt id="760" miejscowosc="Halicz" 
+      ns="0" we="0" km="2" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej ujście Hniłej Lipy (hniły - po ukraińsku powolny, leniwy).</opispunktu> 
+    </punkt>
+    <punkt id="759" miejscowosc="Halicz" 
+      ns="0" we="0" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Halicz - stolica rejonu (powiatu), 7 tys. mieszkańców. Jedno z najstarszych miast Rusi, dawna stolica Księstwa Halickiego. Stare miasto na prawym brzegu Dniestru: cerkiew Bożego Narodzenia i konny posąg księcia Daniela Halickiego na rynku, synagoga, na wzgórzu ruiny zamku Kazimierza Wielkiego. Na wysokim brzegu Dniestru cmentarz karaimski (zierat). Niedaleko, w miejscowości Kryłos renesansowa cerkiew Uśpienia Przeczystej Bogurodzicy, Kaplica św. Wasyla, fundamenty romańskiego Soboru Uspienskiego i muzeum Ziemi Halickiej. Zaś we wsi Szewczenkowe (dawniej Św. Stanisław), nad ujściem Łomnicy do Dniestru stoi jedyny zachowany zabytek średniowiecznej architektury halickiej - cerkiew św. Panteleimona z XII w. Łódki najlepiej wodować na lewym brzegu, za stadionem, na szerokiej kamienistej plaży, poniżej starego mostu.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

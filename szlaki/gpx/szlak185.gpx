@@ -1,0 +1,55 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.21624498" lon="17.06063134">
+<name>9.30</name>
+<desc>Betonowy most na lokalnej drodze asfaltowej. Dobry dojazd i wygodny dostęp do wody z trawiastego brzegu. W pobliżu sporo miejsca na samochody. Przy moście ustawiono tablicę informacyjną z opisem rzeki oraz mapą. Poniżej odcinek w odkrytym terenie, pośród łąk z pojedynczymi drzewami, nieco trzcin, ale szeroko na 3-6 m. Po pewnym czasie rzeka wpływa w obszary zalesione</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.20519780" lon="17.05881960">
+<name>7.70</name>
+<desc>Drewniane pale po starym moście, rzeka robi się szersza</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.19408176" lon="17.05264193">
+<name>6.00</name>
+<desc>Betonowy most na lokalnej drodze, w pobliżu domostw. Pod mostem rzędy drewnianych pali. Dalej rzeka staje się bardziej bystra</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.18153074" lon="17.03862468">
+<name>3.70</name>
+<desc>Charakterystyczne skarpy po obydwu stronach rzeki, najprawdopodobniej stanowiące kiedyś nasyp drogi i wał zapory wodnej. Na przedwojennych mapach, w miejscu tym znajduje się jezioro zaporowe i miejscowość Eisenhammer, którego nazwa wskazuje na obecność młyna. W korycie stare drewniane pale, dalej szeroko i w lesie</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.17906000" lon="17.03850000">
+<name>3.30</name>
+<desc>Wyraźny dopływ bezimiennej rzeczki z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.17690250" lon="17.03339306">
+<name>2.70</name>
+<desc>Dopływ z prawej, od strony pobliskiego jeziorka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.17594374" lon="17.03322896">
+<name>2.50</name>
+<desc>Spory dopływ z lewej rzeczki Ślizień</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.17077100" lon="17.02251900">
+<name>1.00</name>
+<desc>Bród przez rzekę w miejscu po starym moście, oznakowany biało czerwonymi taśmami. Na brzegach skarpy przyczółków, a w wodzie drewniane pale</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.16869846" lon="17.01523237">
+<name>0.00</name>
+<desc>Ujście do Wieprzy pośród rozległych łąk i pojedynczych drzew. Pokrzywna w tym miejscu wydaje się być szersza i nieść więcej wody niż Wieprza</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

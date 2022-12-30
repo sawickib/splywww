@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="144" nazwa="Czarna (dopływ Gwdy)" wersja="1">
+<opis>Prawy dopływ Gwdy o długości około 32 km. Źródła rzeki znajdują się na zachód od wsi Brokęcino, skąd płynie w kierunku południowym. Następnie na wschód, koło wsi Rydzynka odbija na północny wschód i płynie w kierunku miasta Okonek. Przepływa przez środek Okonka i za nim zaczyna płynąć dalej na wschód. Uchodzi do Gwdy ok. 0,5 km poniżej wsi Lędyczek (wg Wikipedii). Pomiędzy Okonkiem a Zamłyniem rzeka udrożniona, pogłębiona i wyczyszczona ze śmieci, których nie brakuje zazwyczaj poniżej ośrodków miejskich. Od Zamłynia niemalże do ujścia do Gwdy rzeka jest mocno zawalona drewnem, przez co posiada piękny zwałkowy charakter. Konfiguracja przeszkód wymaga współpracy zespołowej a niektóre z nich są dość wymagające. Na szczęście dla rzeki nie dobrali się jeszcze do niej na tym odcinku pseudo czyściciele i na drzewach nie widać śladów cięcia. Miejmy nadzieję, że rzeka w tym pierwotnym stanie przetrwa jak najdłużej. Ze względu na uciążliwość odcinek ten polecam wyłącznie wprawnym kajakarzom zwałkowym. Ale w przypadku rezygnacji z dalszego płynięcia nie ma większego problemu, bowiem wzdłuż całego odcinka zwałkowego, w bliskiej odległości przebiega asfaltowa szosa łącząca Okonek z Lędyczkiem i w każdym miejscu można do niej dostać się wraz z kajakiem</opis> 
+    <punkt id="4941" miejscowosc="Okonek" 
+      ns="53.53552025" we="16.85315299" km="10.6" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Trawiasty plac w centrum miasta, poniżej mostu na głównej drodze nr 11. Wygodne miejsce rozpoczęcia spływu z dobrym dojazdem i miejscem na samochody</opispunktu> 
+    </punkt>
+    <punkt id="4942" miejscowosc="Okonek" 
+      ns="53.53562373" we="16.85403113" km="10.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="4943" miejscowosc="Okonek" 
+      ns="53.53547991" we="16.85437284" km="10.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Bardzo niski most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="4944" miejscowosc="Okonek" 
+      ns="53.53620078" we="16.85634338" km="10.2" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski most betonowy. Poniżej rzeka uregulowana, pogłębiona i wyczyszczona z gałęzi oraz śmieci, które leżą na brzegach i brzydko wyglądają</opispunktu> 
+    </punkt>
+    <punkt id="4945" miejscowosc="Okonek" 
+      ns="53.53916519" we="16.86458741" km="9.5" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowy most a pod nim próg - pochylnia o różnicy poziomów około 1,5 m. Przepływ przez kwadratowe okno</opispunktu> 
+    </punkt>
+    <punkt id="4946" miejscowosc="Zamłynie" 
+      ns="53.53685858" we="16.88587144" km="6.9" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek 0,5 m</opispunktu> 
+    </punkt>
+    <punkt id="4947" miejscowosc="Zamłynie" 
+      ns="53.53663128" we="16.88747751" km="6.7" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Nowy most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4948" miejscowosc="Zamłynie" 
+      ns="53.53641409" we="16.88932783" km="6.6" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz w lewo z potrójnym kamienistym progiem o różnicy poziomów około 3 m, nad nim stalowa kładka</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Zalecana przenoska po trawie lewym brzegiem 10 m. Poniżej krótki bystry odcinek z kamieniami a następnie kilku kilometrowy całkowicie dziki piękny odcinek zwałkowy. Nagromadzenie powalonych drzew w korycie oraz ich konfiguracja, wymusza konieczność współpracy w grupie podczas pokonywaniu przeszkód. Piękny klasyczny odcinek zwałkowy, polecam koneserom gatunku</opispunktu> 
+    </punkt>
+    <punkt id="4949" miejscowosc="Zamłynie" 
+      ns="53.53542726" we="16.9025333" km="5.3" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Ruiny kamiennego młyna z prożkiem kamiennym 0,5 m, nad nim betonowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="4950" miejscowosc="Lędyczek" 
+      ns="53.53644643" we="16.91792791" km="3.6" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Skośny prożek utworzony z rzędu drewnianych pali</opispunktu> 
+    </punkt>
+    <punkt id="4951" miejscowosc="Lędyczek" 
+      ns="53.53430144" we="16.94267154" km="0.7" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka przez którą poprowadzony jest szlak turystyczny</opispunktu> 
+    </punkt>
+    <punkt id="4952" miejscowosc="Lędyczek" 
+      ns="53.53335031" we="16.94674758" km="0.3" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze nr 22</opispunktu> 
+    </punkt>
+    <punkt id="4953" miejscowosc="Lędyczek" 
+      ns="53.53211576" we="16.94725982" km="0" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Czarnej do Gwdy. Najwygodniej jest zakończyć spływ przy moście w Lędyczku, gdzie jest sporo miejsca na samochody. Do mostu pod prąd Gwdą jest około 0,5 km</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

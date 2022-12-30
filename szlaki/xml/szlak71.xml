@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="71" nazwa="Górznianka" wersja="1">
+<opis>Bardzo ładna i czysta mała rzeczka. Dostępna głównie wiosną lub po dużych opadach.</opis> 
+  <odcinek id="286" typ="jezioro" nazwa="Jezioro Górznieńskie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL3" 
+      kolejnosc="0"> 
+  <opis>Położone w pięknej dolinie Jezioro Górznieńskie. Wiosną przy wypływie jeziora do Górznianki mnóstwo przepięknie kwitnacych grzybieni białych.</opis>
+    <punkt id="2617" miejscowosc="Górzno" 
+      ns="53.19578" we="19.655526" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Start z Górzna z plaży nad  Jeziorem Górznieńskim.53</opispunktu> 
+    </punkt>
+    <punkt id="2618" miejscowosc="Górzno" 
+      ns="53.208037" we="19.653333" km="1.45" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Jezioro Górznieńskie wpływa tu do rzeczki Górznianki.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="287" typ="rzeka" nazwa="Od J. Górznieńskiego do Leśniczówki Ruda" 
+      uciazliwosc="U4" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Po przepłynięciu jeziora Górznianka z każdym metrem niesamowicie się oczyszcza by po kilkuset metrach osiągnąć czystość górskiego potoku. Rzeczka na tym ocinku bardzo wąska z powodu porastających wokół trzicn. Nie mniej można śmiało płynąć dwójką. </opis>
+    <punkt id="2619" miejscowosc="" 
+      ns="53.208894" we="19.6511954" km="1.64" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mały trójstopniowy jaz około 0,5m wysokości.</opispunktu> 
+    </punkt>
+    <punkt id="2620" miejscowosc="Fijałki" 
+      ns="53.213475" we="19.653946" km="2.13" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2621" miejscowosc="Ruda - Leśniczówka" 
+      ns="53.225186" we="19.653486" km="4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Kamienny most. Po prawej na Górce leśniczówka.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="288" typ="rzeka" nazwa="Od Borka do ujścia Górznianki do Brynicy." 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="*" czystosc="KL3" 
+      kolejnosc="2"> 
+  <opis>Na tym odcinku możzna napotkać kilka zwałek. Rzeczka zdecydowanie szersza.</opis>
+    <punkt id="2622" miejscowosc="Borek" 
+      ns="53.235414" we="19.646182" km="5.65" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2623" miejscowosc="" 
+      ns="53.24079" we="19.642799" km="6.34" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Górznianki do Brynicy.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

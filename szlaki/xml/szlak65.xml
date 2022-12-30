@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="65" nazwa="Dunajec (Czchów-Łukanowice)" wersja="1">
+<opis>Jednodniowa wycieczka rzeką Dunajec z miejscowości Czchów do Łukanowic k/Tarnowa. Start kilkadziesiąt metrów poniżej zapory w Czchowie z bardzo dobrym zejściem do rzeki. Po drodze liczne atrakcje krajobrazowe oraz zamek w Chchowie, ruiny zamku w Melsztynie. Piękne nabrzeża z występującymi osadami jaskółek. Rzeka miejscami bardzo spokojna, miejscami przyspieszająca i kręta. Koniec trasy przy moście drogi E40 w miejscowości Łukanowice-Zgłobice na trasie tarnów - Kraków.</opis> 
+    <punkt id="2245" miejscowosc="Czchów" 
+      ns="49.81206862" we="20.68202019" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Dunajca z jeziora Czchowskiego.</opispunktu> 
+    </punkt>
+    <punkt id="2246" miejscowosc="Czchów" 
+      ns="49.82358759" we="20.6837368" km="1" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Prom w miejscowości Czchów. Należy uważaać na linę promu - schylić głowy.</opispunktu> 
+    </punkt>
+    <punkt id="2247" miejscowosc="Czchów" 
+      ns="49.83538062" we="20.69403648" km="2" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu, na pięknym wzniesieniu zamek w Czchowie.</opispunktu> 
+    </punkt>
+    <punkt id="2248" miejscowosc="Melsztyn" 
+      ns="49.86631673" we="20.77960968" km="14" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzgu, na wzniesieniu ruiny zamku w Melsztynie.</opispunktu> 
+    </punkt>
+    <punkt id="2249" miejscowosc="Zakliczyn" 
+      ns="49.86509958" we="20.81291199" km="15" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2250" miejscowosc="Szczepanowice" 
+      ns="49.95376028" we="20.87453842" km="26" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg wodny za linią wysokiego napięcia.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Konieczne dopłynięcie do prawego brzegu i przejście.</opispunktu> 
+    </punkt>
+    <punkt id="2251" miejscowosc="Łukanowice" 
+      ns="49.97153911" we="20.88243484" km="28" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w miejscowości Łukanowice - Zgłobice na trasie E40. Koniec trasy.</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="112" nazwa="Dobra" wersja="1">
+<opis>Prawy dopływ Widawy o długości około 30 km. Obszar źródliskowy rzeki znajduje się w okolicy miejscowości Bartków, w lasach porastających wał morenowy Wzgórz Trzebnickich i Twardogórskich, będący wododziałem zlewni Widawy i Baryczy. Do Widawy uchodzi w obrębie Wrocławia, pomiędzy Zakrzowem a Kłokoczycami. Mała nizinna rzeczka częściowo uregulowana i piętrzona stopniami wodnymi, częściowo dzika, meandrująca, przegrodzona powalonymi drzewami. Z czystością wody podobno bywa różnie (czasem nazywana jest "smródką"), płynie bowiem przez tereny rolnicze, liczne wioski, melioruje okoliczne tereny, zasila stawy hodowlane itp. W marcu 2012 była przeźroczysta, bezbarwna i bezwonna.</opis> 
+  <odcinek id="463" typ="rzeka" nazwa="Dobroszów - Dąbrowica" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Odcinek przez łąki i pola. Początkowo wykoszony, potem porośnięty trzcinami.</opis>
+    <punkt id="3879" miejscowosc="Dobroszów Oleśnicki" 
+      ns="51.21928914" we="17.22774523" km="14.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze. Wygodne miejsce wodowania.</opispunktu> 
+    </punkt>
+    <punkt id="3880" miejscowosc="Dąbrowica" 
+      ns="51.21745387" we="17.21792829" km="13.7" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mały prożek</opispunktu> 
+    </punkt>
+    <punkt id="3881" miejscowosc="Dąbrowica" 
+      ns="51.21699187" we="17.21739954" km="13.6" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce wodowania.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="464" typ="rzeka" nazwa="Dąbrowica - Szczodre" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Rzeka wpływa na obszary leśne, w korycie pojawiają się przewrócone drzewa. Sporo infrastruktury związanej ze stawami hodowlanymi.</opis>
+    <punkt id="3882" miejscowosc="Dąbrowica" 
+      ns="51.21135777" we="17.21292325" km="12.9" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="3883" miejscowosc="Szczodre" 
+      ns="51.2067254" we="17.21060122" km="12.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy zawieszony nisko nad wodą (około 40 cm prześwitu), przepłynięcie wymaga schowania się w kajaku. Wygodne miejsce wodowania.</opispunktu> 
+    </punkt>
+    <punkt id="3884" miejscowosc="Szczodre" 
+      ns="51.20465146" we="17.20708871" km="11.8" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz około 2 m piętrzący wodę dla okolicznych stawów hodowlanych.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek tuż nad jazem.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Krótka przenoska przez mostek z lewego na prawy brzeg.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Znajdujemy się na ogrodzonym terenie administrowanym przez PZW. Teren patrolowany jest przez starego, wyleniałego, głośno szczekającego (ale nic poza tym) burka, z którym można bez problemów "dogadać się". Ze względu na wiek i niską sprawność burka sytuacja niebawem może ulec zmianie i może zostać on zastąpiony np. młodym i szybkim dobermanem...</opispunktu> 
+    </punkt>
+    <punkt id="3885" miejscowosc="Szczodre" 
+      ns="51.20296354" we="17.2003954" km="11.3" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Ładny choć nieco podupadający ceglany most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="465" typ="rzeka" nazwa="Szczodre" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Odcinek łąkowo - szuwarowo - wiejski. "Swojskie klimaty" od strony rzeki.</opis>
+    <punkt id="3886" miejscowosc="Szczodre" 
+      ns="51.20311805" we="17.20006548" km="11.2" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mały prożek 0,3m.</opispunktu> 
+    </punkt>
+    <punkt id="3887" miejscowosc="Szczodre" 
+      ns="51.19920119" we="17.18978575" km="10.2" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="466" typ="rzeka" nazwa="Szczodre - Mirków" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Rzeka wpływa do parku (lasu), trochę kręci, miejscami przyspiesza. W korycie drzewa i krzaki. Pojawiają się ślady działalności bobrów co może świadczyć m. in. o czystości wody.</opis>
+    <punkt id="3888" miejscowosc="Szczodre" 
+      ns="51.19739328" we="17.18494634" km="9.9" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Dwu przęsłowy jaz o wysokości około 1m.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Wygodna przenoska lewym brzegiem około 20m, choć wodowanie na nieco stromym brzegu.</opispunktu> 
+    </punkt>
+    <punkt id="3889" miejscowosc="Szczodre" 
+      ns="51.19565525" we="17.17819677" km="9.3" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg o wysokości około 1m. Zaraz za nim sporo drzew leżących w rzece (bobry).</opispunktu> 
+    </punkt>
+    <punkt id="3890" miejscowosc="Szczodre" 
+      ns="51.19590626" we="17.1761765" km="9.1" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na lokalnej drodze.</opispunktu> 
+    </punkt>
+    <punkt id="3891" miejscowosc="Szczodre" 
+      ns="51.19528709" we="17.17281916" km="8.8" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg o wysokości około 0,7m.</opispunktu> 
+    </punkt>
+    <punkt id="3892" miejscowosc="Szczodre" 
+      ns="51.19481847" we="17.17134572" km="8.7" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Spory NN dopływ z prawej.</opispunktu> 
+    </punkt>
+    <punkt id="3893" miejscowosc="Domaszczyn" 
+      ns="51.19196169" we="17.1685325" km="8.3" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze, pod nim mały prożek. Tuż przed mostem stalowa rura nad wodą.</opispunktu> 
+    </punkt>
+    <punkt id="3894" miejscowosc="Domaszczyn" 
+      ns="51.18925677" we="17.16226514" km="7.7" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze.</opispunktu> 
+    </punkt>
+    <punkt id="3895" miejscowosc="Domaszczyn" 
+      ns="51.18633477" we="17.15747306" km="7.2" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg o wysokości około 0,8m, nad nim niska żelbetowa kładka.</opispunktu> 
+    </punkt>
+    <punkt id="3896" miejscowosc="Domaszczyn" 
+      ns="51.18603358" we="17.15792209" km="7.1" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3897" miejscowosc="Mirków" 
+      ns="51.17846901" we="17.15436113" km="5.7" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Tuż pod powierzchnią wody wielkie głazy narzutowe.</opispunktu> 
+    </punkt>
+    <punkt id="3898" miejscowosc="Mirków" 
+      ns="51.17728151" we="17.15156734" km="5.5" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony wpływa rzeczka Topór.</opispunktu> 
+    </punkt>
+    <punkt id="3899" miejscowosc="Mirków" 
+      ns="51.17659011" we="17.1374904" km="4.4" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg o wysokości około 0,6m z trzema betonowymi słupkami w środkowej części. Płynąć skrajnie z lewej lub skrajnie z prawej strony.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="467" typ="rzeka" nazwa="Wrocław" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="KL2" 
+      kolejnosc="4"> 
+  <opis>Dobra wpływa do Wrocławia. Początkowo płynie wzdłuż ruchliwej drogi, potem odnosi się wrażenie, że przecina wysypisko śmieci. Po obydwu stronach rzeki zalega to czemu nie udało się stoczyć do wody... Myte są tu samochody a od strony dawnego "Polar-u" do rzeki wchodzą "tajemnicze" rury i rurki...</opis>
+    <punkt id="3900" miejscowosc="Mirków" 
+      ns="51.17523034" we="17.13635305" km="4.2" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na autostradowej obwodnicy Wrocławia.</opispunktu> 
+    </punkt>
+    <punkt id="3901" miejscowosc="Wrocław Zakrzów" 
+      ns="51.16849747" we="17.13005177" km="3.4" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania.</opispunktu> 
+    </punkt>
+    <punkt id="3902" miejscowosc="Wrocław Zakrzów" 
+      ns="51.16813859" we="17.12897856" km="3.3" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg o wysokości około 0,8m, za nim drugi, dużo niższy. Płynąć z lewej strony. Wygodne miejsce wodowania.</opispunktu> 
+    </punkt>
+    <punkt id="3903" miejscowosc="Wrocław Zakrzów" 
+      ns="51.16694489" we="17.12613601" km="3" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg o wysokości około 0,5m z trzema betonowymi słupami w środkowej części. Płynąć skrajnie z lewej lub skrajnie z prawej strony. Wygodne miejsce wodowania.</opispunktu> 
+    </punkt>
+    <punkt id="3904" miejscowosc="Wrocław Zakrzów" 
+      ns="51.16362625" we="17.11836309" km="2.4" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy, pod nim małe bystrze.</opispunktu> 
+    </punkt>
+    <punkt id="3905" miejscowosc="Wrocław Zakrzów" 
+      ns="51.16164426" we="17.11512288" km="2" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Zakrzowem a Pawłowicami.</opispunktu> 
+    </punkt>
+    <punkt id="3906" miejscowosc="Wrocław Zakrzów" 
+      ns="51.15962986" we="17.11211081" km="1.8" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg o wysokości około 1m.</opispunktu> 
+    </punkt>
+    <punkt id="3907" miejscowosc="Wrocław Zakrzów" 
+      ns="51.15672437" we="17.10786854" km="1.3" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mały prożek.</opispunktu> 
+    </punkt>
+    <punkt id="3908" miejscowosc="Wrocław Kłokoczyce" 
+      ns="51.15499099" we="17.10475626" km="1" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Zakrzowem a Kłokoczycami.</opispunktu> 
+    </punkt>
+    <punkt id="3909" miejscowosc="Wrocław Kłokoczyce" 
+      ns="51.14927796" we="17.09380187" km="0" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Dobrej do Widawy.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

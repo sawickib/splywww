@@ -1,0 +1,75 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.41159268" lon="17.83857367">
+<name>19.50</name>
+<desc>Przegrodzony zastawkami jaz piętrzący wodę dla małej hydroelektrowni, nad nim niski drewniany most do pobliskich zabudowań. Przed mostem po lewej spora łąka, z której wygodnie można się zwodować tuż za jazem i za wypływem wody z turbiny. Teren wygląda na prywatny [leży na nim duża hałda piasku] ale właściciel się nie objawił. Płynąc od strony jeziora Kamienickiego i Świętego należy zrobić w tym miejscu przenoskę, lewym brzegiem po trawie około 20 m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.41387281" lon="17.82793699">
+<name>18.80</name>
+<desc>Pionowy próg o wysokości 1,5m, nad nim kładka. Spływać przez obniżenie pomiędzy środkową pionową szyną a lewym filarem. Pod progiem leży kilka obłych kamieni ale nie czynią one krzywdy kajakowi przy większej wodzie. Niżej odcinek zwałkowy, teren otwarty, po wpłynięciu do lasu robi się szerzej i płycej</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.40515927" lon="17.76509868">
+<name>13.60</name>
+<desc>Szeroki most drogowy, pod nim kamienne bystrze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.40335494" lon="17.75622823">
+<name>12.80</name>
+<desc>Niski mostek betonowy - kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.40378961" lon="17.75181525">
+<name>12.50</name>
+<desc>Niski most kratownicowy, tuż za nim bystrze. Dalej zwałki, tamy bobrowe i kamienie w nurcie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.40503318" lon="17.74149254">
+<name>11.70</name>
+<desc>Betonowa rama dwu przęsłowa po dawnej budowli hydrotechnicznej. Niżej odcinek nieco szerszej rzeki, płynącej przez las</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.39424406" lon="17.70034155">
+<name>8.00</name>
+<desc>Mały wąski prożek o wysokości 0,5m przy betonowej pozostałości po czymś</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.39279714" lon="17.69886137">
+<name>7.80</name>
+<desc>Most drogowy, pod nim bystrze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.39172095" lon="17.69270649">
+<name>7.20</name>
+<desc>Ładny, sklepiony, kamienny most drogi nr 212, na zakręcie rzeki w prawo. Konstrukcja mostu wymusza przewężenie rzeki, w związku z czym tworzy się tu bystrze. Poniżej najciekawszy i najbardziej wymagający odcinek rzeki z wartkim nurtem, licznymi zwałkami i głazami w korycie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.39156001" lon="17.68439557">
+<name>6.50</name>
+<desc>Pozostałości po zerwanym wysokim kamiennym moście kolejowym. Pod mostem zwężenie rzeki i nieco bardziej wymagające bystrze, pomiędzy głazami pochodzącymi z ruin mostu</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.39020609" lon="17.67933700">
+<name>6.10</name>
+<desc>Kolejne przewężenie i mały prożek 0,5m. Niżej odcinek zwałkowy z niektórymi drzewami wymagającymi współpracy zespołowej</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.37837424" lon="17.62351880">
+<name>0.30</name>
+<desc>Niski most drogowy, zaraz za nim jaz MEW Kozin. Przenoska lewą stroną przez szosę, mało wygodnie, przez barierki. Droga może niezbyt ruchliwa, ale jak już coś jedzie, to dość szybko, w dodatku wypada zza zakrętu. Dobre miejce na zakończenie etapu i podjęcie kajaków z wody, jednak niezbyt wygodne ze względu na brak pobocza i mało przestrzeni wzdłuż drogi</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.37699524" lon="17.61985847">
+<name>0.00</name>
+<desc>Ujście Bukowiny do Łupawy</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

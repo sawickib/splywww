@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="39" nazwa="Kiewna (Litwa)" wersja="3">
+<opis>Kiewna (Kiaune) to niewielka, bardzo czysta rzeczka licząca zaledwie dwadzieścia kilka kilometrów, wpadająca do Żejmiany (Zeimenys) 4 kilometry od jej wypływu z Pojezierza Święciańskiego. Płynięcie Kiewną warto zacząć od malowniczego, bardzo czystego jeziora Ejsiaty (Aisetas), które również zostało objęte niniejszym opisem. Szlak Kiewny jest godną polecenia opcją poprzdzającą spływ Żejmianą, a następnie Wilią do Wilna - taka kombinacja szlaków nie wymaga żadnych przewózek po drodze. Przed wpłynięciem na Żejmianę można jeszcze zwiedzić Pojezierze Święciańskie.</opis> 
+  <odcinek id="165" typ="rzeka" nazwa="Kiewna - dolny odcinek" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="10"> 
+  <opis>Bardzo ładny odcinek rzeki, płynący głównie przez las.</opis>
+    <punkt id="1149" miejscowosc="" 
+      ns="55.236859" we="25.973144" km="39.3" etykieta="uz" 
+      kolejnosc="30"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Kiewny do Żejmiany. Stąd można spłynąć Żejmianą, a potem Wilią w dół i po około 4 dniach umiarkowanego płynięcia dotzreć do Wilna. Lub można też popłynąć kilka kilometrów w górę Żejmiany i zwiedzić Pojezierze Święciańskie.</opispunktu> 
+    </punkt>
+    <punkt id="1148" miejscowosc="" 
+      ns="55.2375" we="25.96727" km="38.8" etykieta="p50" 
+      kolejnosc="29"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po lewej stronie łąka otoczona lasem, którą można wykorzystać na biwak z dala od cywilizacji. Niezbyt dobre zejście do wody - trochę błota.</opispunktu> 
+    </punkt>
+    <punkt id="1147" miejscowosc="Kukle (Kukliai)" 
+      ns="55.24434" we="25.97146" km="37.8" etykieta="p49" 
+      kolejnosc="28"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na lewym brzegu. Łączka przy sosnowym lesie pół kilometra za wsią Kukle. Stąd do centrum dużej wsi Kołtyniany jest niecałe 2km, więc jest to dobry punkt wypadowy po zakupy, choć być może i w Kuklach jest jakiś nieduży sklepik.</opispunktu> 
+    </punkt>
+    <punkt id="1146" miejscowosc="Kukle (Kukliai)" 
+      ns="55.24892" we="25.96604" km="37" etykieta="p48" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="164" typ="jezioro" nazwa="Jezioro Saktatis" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="9"> 
+  <opis>(Sekluotis) Jezioro, które wygląda raczej jak rozlewisko. Częściowo, nawet na środku, porośnięte szuwarami, co utrudnia nieco orientację w terenie. Dużo ptactwa wodnego. </opis>
+    <punkt id="1145" miejscowosc="Kukle (Kukliai)" 
+      ns="55.250357" we="25.966248" km="36.8" etykieta="p48w" 
+      kolejnosc="26"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">wypływ Kiewny z jeziora Saktotis.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="163" typ="rzeka" nazwa="Kiewna między jeziorami Gilutis i Saktatis" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="8"> 
+  <opis>Krótki odcinek rzeki, będący raczej przesmykiem między jeziorami. Brzegi mocno zabagnione, porośnięte szuwarami.</opis>
+    <punkt id="1144" miejscowosc="" 
+      ns="55.251117" we="25.956527" km="36.1" etykieta="us" 
+      kolejnosc="25"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki do jeziora Saktatis.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="162" typ="jezioro" nazwa="Jezioro Gilutis" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="7"> 
+  <opis>(Gilutas) Niezbyt atrakcyjne jezioro. Dobrych miejsc biwakowych nie stwierdzono.</opis>
+    <punkt id="1143" miejscowosc="" 
+      ns="55.25018" we="25.9468" km="35.3" etykieta="p47" 
+      kolejnosc="24"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Kiewny z jeziora Gilutas. </opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="161" typ="kanał" nazwa="Kiewna - odcinek skanalizowany" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="6"> 
+  <opis>Ostatnie 1300m Kiewny powyżej jeziora Gilutas jest skanalizowane. Obecnie ujście do jeziora Gilutas jest od pólnocno-zachodniej strony, lecz na mapie 1932r na tym odcinku rzeka nie jest skanalizowna i uchodzi do jeziora od strony wschodniej (bardzo blisko wypływu z jeziora).</opis>
+    <punkt id="1142" miejscowosc="Pogiłucie (Pagilute)" 
+      ns="55.25242" we="25.93664" km="34.7" etykieta="p46" 
+      kolejnosc="23"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki do jeziora Gilutis.</opispunktu> 
+    </punkt>
+    <punkt id="1141" miejscowosc="Pogiłucie (Pagilute)" 
+      ns="55.25455" we="25.9401" km="34.3" etykieta="p45" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drewniany z betonowymi filarami</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="160" typ="rzeka" nazwa="Kiewna - środkowy odcinek" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="5"> 
+  <opis>Rzeka płynie częściowo prze pola, częściowo przez lasy mieszane. Sympatycznie.</opis>
+    <punkt id="1140" miejscowosc="Kurynie (Kuriniai)" 
+      ns="55.268398" we="25.938072" km="32.4" etykieta="mt" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na trasie Łabonary-Kołtyniany.</opispunktu> 
+    </punkt>
+    <punkt id="1139" miejscowosc="" 
+      ns="55.26994" we="25.93072" km="31.7" etykieta="p44" 
+      kolejnosc="20"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na prawym brzegu. Wejście po skarpie.</opispunktu> 
+    </punkt>
+    <punkt id="1138" miejscowosc="Zwirbliszki (Zvirbliske)" 
+      ns="55.27589" we="25.9222" km="30.5" etykieta="p43" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Nieduży most betonowy.</opispunktu> 
+    </punkt>
+    <punkt id="1137" miejscowosc="" 
+      ns="55.27623" we="25.91004" km="29" etykieta="p42" 
+      kolejnosc="18"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na prawym brzegu na półtorametrowej skarpie w brzozowym lesie. Miejsce na kilka namiotów.</opispunktu> 
+    </punkt>
+    <punkt id="1136" miejscowosc="" 
+      ns="55.27837" we="25.90218" km="28" etykieta="p41" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek.</opispunktu> 
+    </punkt>
+    <punkt id="1135" miejscowosc="" 
+      ns="55.28708" we="25.9029" km="26.5" etykieta="p40" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="1134" miejscowosc="" 
+      ns="55.30555" we="25.88689" km="22.8" etykieta="p38" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek.</opispunktu> 
+    </punkt>
+    <punkt id="1133" miejscowosc="Pokiewna (Pakiaunys)" 
+      ns="55.31022" we="25.8915" km="22.1" etykieta="p37" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="159" typ="jezioro" nazwa="jezioro Kiewna" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="4"> 
+  <opis>(Kiaune) Największe jezioro na szlaku Kiewny.</opis>
+    <punkt id="1132" miejscowosc="" 
+      ns="55.312489" we="25.888114" km="21.7" etykieta="wkk" 
+      kolejnosc="13"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ rzeki Kiewny z jeziora Kiewna. Dobrze widoczny.</opispunktu> 
+    </punkt>
+    <punkt id="1131" miejscowosc="" 
+      ns="55.31314" we="25.8763" km="21.2" etykieta="p36" 
+      kolejnosc="12"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na północnym brzegu - najlepsze (choć nie idealne) miejsce do biwakowania na jeziorze Kiewna. Niezbyt równa łąka na otwartym terenie. Jest też drugie miejsce do biwakowania dokładnie po przeciwnej stronie jeziora, tyle że zmieści się tam zaledwie kilka namiotów.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="158" typ="rzeka" nazwa="Kiewna - górny odcinek" 
+      uciazliwosc="U3" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="3"> 
+  <opis>Od wypływu z jeziora Ejsiaty do jeziora Kiewna. Ten odcinek Kiewny uznawany jest czasem za oddzielną rzekę zwaną Ejsiatą (Aiseta). Wąskie koryto, w początkowym odcinku płynącym pod mostami i między domostwami mogą występować niewielkie płycizny. Potem rzeka płynie pośród pól, częsciowo wyprostowana. Trochę trzeba się przedzierać przez trzciny, co spowalnia płynięcie.</opis>
+    <punkt id="1130" miejscowosc="" 
+      ns="55.305818" we="25.86085" km="19.7" etykieta="ukk" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujscie rzeki Kiewny do jeziora Kiewna.</opispunktu> 
+    </punkt>
+    <punkt id="1129" miejscowosc="" 
+      ns="55.30506" we="25.85757" km="19.4" etykieta="p34" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy i zaraz za nim kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="1128" miejscowosc="" 
+      ns="55.3212" we="25.82704" km="15.7" etykieta="p33" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy  wypływie Kiewny z jeziora Ejsiaty.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="157" typ="jezioro" nazwa="Jezioro Ejsiaty - cz. wschodnia" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis>Część jeziora Ejsiaty na wschód od wypływu na jezioro Gaulonis. Charakter podobny do wschodniej części jeziora Ejsiaty, lecz im bardzej na wschód, tym mniej dziko - więcej domków na brzegach.</opis>
+    <punkt id="1127" miejscowosc="" 
+      ns="55.32593" we="25.82663" km="15.3" etykieta="p32" 
+      kolejnosc="8"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Kiewny z jeziora Aisetas - lekko zarośnięty trzcinami.</opispunktu> 
+    </punkt>
+    <punkt id="1126" miejscowosc="Sołdaciszki (Saldutiskis)" 
+      ns="55.33415" we="25.81061" km="13.9" etykieta="p31" 
+      kolejnosc="7"> 
+    <opispunktu typ="sklep" kolejnosc="-1">W Sołdaciszkach są sklepy spożywcze i nie tylko.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">To w zasadzie jest kąpielisko, a nie biwak, ale zabiwakować ostatecznie można. Są stoły, ubikacja, przebieralnia, molo. Przychodzi tu sporo miejscowych się kąpać.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Dobre miejsce do zatrzymania się, aby zwiedzić leżące 2km stąd na północ miasteczko Sołdaciszki. W Sołdaciszkach są ruiny dworu rodu Jałowieckich, a po drodze znad jeziora jest cmentarz, gdzie są pochowani członkowie tego rodu.</opispunktu> 
+    </punkt>
+    <punkt id="1125" miejscowosc="" 
+      ns="55.30759" we="25.73292" km="7.2" etykieta="p28" 
+      kolejnosc="6"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na północnym brzegu jeziora. Dalej na wschód co kilkaset metrów są kolejne miejsca do biwakowania (więcej jest ich chyba na północnym brzegu). Jednak im dalej na wschód, tym gorzej, bo jest tam mniej lasów, a więcej domków letniskowych.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="156" typ="jezioro" nazwa="Jezioro Galuonis" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Jest to północna zatoka jeziora Ejsiaty odchodząca w połowie jego długości. Kilka wysp. Jest to boczna nieobowiązkowa część szlaku, którą można zwiedzić w kilka godzin. W niniejszym opisie punkty nie są objęte kilometrażem szlaku.</opis>
+    <punkt id="1124" miejscowosc="" 
+      ns="55.33603" we="25.7297" km="" etykieta="p24" 
+      kolejnosc="5"> 
+    <opispunktu typ="biwak" kolejnosc="-1">[5km od jeziora Ejsiaty] "Oficjalny" biwak na północnym krańcu jeziora. Wiata, stoły, ubikacja, przebieralnia, ładny widok na jezioro i dobre miejsca do kąpieli. Pewną wada tego miejsca jest to, że kręci sie tam trochę ludzi - przychodzą się kąpać.</opispunktu> 
+    </punkt>
+    <punkt id="1123" miejscowosc="" 
+      ns="55.32681" we="25.73851" km="" etykieta="p26" 
+      kolejnosc="4"> 
+    <opispunktu typ="biwak" kolejnosc="-1">[4.5km od jeziora Ejsiaty] Biwak na wschodnim brzegu jeziora, bardzo przytulne i kameralne miejsce, drewniane schodki na skarpę.</opispunktu> 
+    </punkt>
+    <punkt id="1122" miejscowosc="" 
+      ns="55.32464" we="25.73723" km="" etykieta="p25" 
+      kolejnosc="3"> 
+    <opispunktu typ="biwak" kolejnosc="-1">[4km od jeziora Ejsiaty] Biwak na wschodnim brzegu jeziora, w sosnowym lesie, duzo miejsca, ładny widok na jezioro, stół.</opispunktu> 
+    </punkt>
+    <punkt id="1121" miejscowosc="" 
+      ns="55.31475" we="25.72364" km="" etykieta="p27" 
+      kolejnosc="2"> 
+    <opispunktu typ="biwak" kolejnosc="-1">[2.2km od jeziora Ejsiaty] Nieduży biwak na cyplu po wschodniej stronie przesmyku. Pewnie dużo komarów, bo zaszuwarzona okolica.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="155" typ="jezioro" nazwa="Jezioro Ejsiaty - cz. zachodnia" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>(Aisetas) Malownicze, długie i wąskie jezioro o przejrzystości wody sięgającej kilku metrów otoczone sosnowymi lasami Łabonarskiego Parku Krajobrazowego, mało zabudowań na brzegach. Bardzo ładnie i dziko.</opis>
+    <punkt id="1120" miejscowosc="" 
+      ns="55.301363" we="25.729469" km="6.6" etykieta="cyp" 
+      kolejnosc="1"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak przy cyplu po lewej stronie szlaku. Miejsce wygląda sympatycznie, ale bywa zajęte przez wędkarzy. Stąd płynąc na północny zachód można zwiedzić poboczne jezioro Galuonis, zanim się wpłynie na wschondnią część jeziora Ejsiaty, które doprowadzi nas do Kiewny.</opispunktu> 
+    </punkt>
+    <punkt id="1119" miejscowosc="Varliukas" 
+      ns="55.28501" we="25.65432" km="0" etykieta="start" 
+      kolejnosc="0"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Dogodne miejsce rozpoczęcia spływu z możliwością wjazdu samochodu, a zarazem biwak z małym pomostem na południowym brzegu w odległości 400m od zachodniego krańca jeziora. Jadąc samochodem drogą szutrową wzdłuż południowego brzegu jeziora należy skręcić w leśną drogę na wysokości przystanku autobusowego i bezpośrednio wjedziemy na to miejsce. Jakby przypadkiem to miejsce było zajęte, to można też rozpocząć spływ 300m dalej na wschód, tylko tam juz samochodem sie nie zjedzie nad samo jezioro, bo brzeg jest za stromy i trzeba kajaki znieść/zsunąć kilkadziesiąt metrów nad samą wodę.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="10" nazwa="Rospuda" wersja="8">
+<opis>Spływ Rospudą jest doskonałym pomysłem na aktywne spędzenie przedłużonego weekendu w bliskim kontakcie z przyrodą, w pięknej i jeszcze bardzo mało zagospodarowanej okolicy. Rzeka i otaczające ją krajobrazy są malownicze, bardzo urozmaicone i nie zniszczone przez ludzi. &lt;br&gt; Opis na podstawie danych strony &lt;a href="http://www.fuw.edu.pl/aw2p2/"&gt; AW2P2 &lt;/a&gt;. 
+Od kilku lat, w wakacje poziom wody w rzece jest bardzo niski: średnio mamy po 50% pływania i holowania ( aż do 49 km). Hydrologicznie Rospuda to górny bieg Netty. </opis> 
+  <odcinek id="55" typ="jezioro" nazwa="Jezioro Necko" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Końcowy odcinek spływu, około 3km, prowadzi znów przez jeziora - J. Rospuda Augustowska i J. Necko. Trawers tego ostatniego nie jest zbyt przyjemny z uwagi na spory ruch na wodzie w okolicy Augustowa - żaglówki, motorówki i skutery wodne.</opis>
+    <punkt id="483" miejscowosc="Augustów" 
+      ns="53.8507" we="22.97637" km="" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1">Wypożyczalnia kajaków pana Jana Wojtuszko; ul. Nadrzeczna 62A, 16-300 Augustów, tel. (87) 6447540.</opispunktu> 
+    </punkt>
+    <punkt id="482" miejscowosc="Augustów" 
+      ns="53.85712" we="22.97143" km="65" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Plaża w Augustowie, dogodne miejsce do zakończenia spływu.</opispunktu> 
+    </punkt>
+    <punkt id="965" miejscowosc="" 
+      ns="0" we="0" km="63.1" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Na lewym brzegu półwysep "Goła Zośka" ze znamym kempingiem z wygodami.</opispunktu> 
+    </punkt>
+    <punkt id="481" miejscowosc="" 
+      ns="53.88357" we="22.9693" km="62.1" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście do północny kraniec J. Rospuda Augustowska.</opispunktu> 
+    </punkt>
+    <punkt id="2842" miejscowosc="Chodorki" 
+      ns="53.970292" we="22.833442" km="43.3" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Bar tuż za mostem</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="54" typ="rzeka" nazwa="dolna Rospuda" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>W dolnym biegu Rospuda meandruje przez bagniste łąki otoczone liściastymi lasami Puszczy Augustowskiej. Wysokie trzciny porastające brzegi ograniczają widoczność i sprawiają wrażenie, że płynie się bardzo długim i krętym korytarzem. Trudno tu o miejsca biwakowe.</opis>
+    <punkt id="480" miejscowosc="" 
+      ns="53.89535" we="22.95392" km="60.3" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście do Rospudy połączonych rzek Szczeberki i Blizny.</opispunktu> 
+    </punkt>
+    <punkt id="964" miejscowosc="" 
+      ns="0" we="0" km="56.5" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Drugi dobry biwak (też prawy brzeg)</opispunktu> 
+    </punkt>
+    <punkt id="963" miejscowosc="" 
+      ns="0" we="0" km="55" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pierwszy dobry biwak (prawy brzeg)</opispunktu> 
+    </punkt>
+    <punkt id="962" miejscowosc="" 
+      ns="0" we="0" km="53" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek drogowy (ważny orientacyjnie)</opispunktu> 
+    </punkt>
+    <punkt id="479" miejscowosc="Święte Miejsce" 
+      ns="53.948181" we="22.873512" km="49.2" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek w pobliżu Uroczyska Święte Miejsce.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="53" typ="mieszany" nazwa="środkowa Rospuda" 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>W miarę posuwania się na południe teren staje się bardziej zalesiony - świerk zastępuje sosna. Brzegi w wielu miejscach są wysokie i strome, nurt nadal szybki, a liczne zakola i powalone drzewa urozmaicają ale i często bardzo utrudniają spływ. Stopniowo pojawia się więcej drzew liściastych, a rzekę otacza głęboka, mroczna zieleń.</opis>
+    <punkt id="474" miejscowosc="Dowspuda" 
+      ns="53.98452" we="22.80602" km="41" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Kiepskie miejsce na biwak przy samym moście.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na lokalnej drodze.</opispunktu> 
+    </punkt>
+    <punkt id="477" miejscowosc="Dowspuda" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ruiny pałacu Ludwika Michała Paca (tego od znanego powiedzenia Pac wart pałaca). Park i zabezpieczone przed dalszym niszczeniem ruiny pałacu znajdują się w odległości kilkuset metrów od prawego brzegu rzeki. Z całej budowli pozostała tylko wieża zwana Bocianią i odbudowany fragment portyku, część pozostałych zabudowań okołopałacowych wykorzystują obecnie szkoły rolnicze. O historii pałacu i jego właściciela informuje tablica w parku.</opispunktu> 
+    </punkt>
+    <punkt id="476" miejscowosc="Dowspuda." 
+      ns="53.9846" we="22.80602" km="40.5" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak w pobliżu pałacu LM Paca.</opispunktu> 
+    </punkt>
+    <punkt id="967" miejscowosc="Raczki" 
+      ns="0" we="0" km="39" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Rynek o 100m, kilka sklepów</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="966" miejscowosc="" 
+      ns="0" we="0" km="38" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy </opispunktu> 
+    </punkt>
+    <punkt id="472" miejscowosc="Małe Raczki" 
+      ns="54.00478" we="22.76182" km="35.5" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Nurt przegradza tu tartak.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Wbrew temu co napisano w przewodniku kajak można przenieść ok. 50 m lewym brzegiem a nie 100 m prawym.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe po lewej stronie</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">W młynie bar</opispunktu> 
+    </punkt>
+    <punkt id="471" miejscowosc="" 
+      ns="54.01018" we="22.74808" km="34.2" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Płd. kraniec J. Bolesty.</opispunktu> 
+    </punkt>
+    <punkt id="961" miejscowosc="" 
+      ns="0" we="0" km="29.5" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Nad j. Bolesty ok. 1km poniżej ujścia Rospudy do płn.
+krańca jeziora, dwa dobre biwaki na prawym brzegu przy ujsciu rz. Czerwonka do jeziora.</opispunktu> 
+    </punkt>
+    <punkt id="470" miejscowosc="" 
+      ns="54.04892" we="22.69688" km="28.4" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Płn. kraniec J. Bolesty.</opispunktu> 
+    </punkt>
+    <punkt id="469" miejscowosc="" 
+      ns="54.05572" we="22.69585" km="27" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z J. Okrągłego</opispunktu> 
+    </punkt>
+    <punkt id="468" miejscowosc="" 
+      ns="54.05985" we="22.69635" km="26.8" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie Rospudy z J. Okrągłym.</opispunktu> 
+    </punkt>
+    <punkt id="467" miejscowosc="" 
+      ns="54.06535" we="22.66733" km="23" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z J. Sumowo.</opispunktu> 
+    </punkt>
+    <punkt id="466" miejscowosc="Bakałarzewo" 
+      ns="54.09178" we="22.64567" km="20.3" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie Rospudy z J. Sumowo.</opispunktu> 
+    </punkt>
+    <punkt id="465" miejscowosc="Bakałarzewo" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Ryneczek handlowy znajduje się około 500m od mostu - naprzeciw siebie stały tam duży i niemal pusty sklep spółdzielczy (państwowy?) i mały prywatny, w którym półki uginały się od towarów.</opispunktu> 
+    </punkt>
+    <punkt id="464" miejscowosc="Bakałarzewo" 
+      ns="0" we="0" km="20" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska ma około 50m.</opispunktu> 
+    </punkt>
+    <punkt id="463" miejscowosc="Bakałarzewo" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">W pewnym momencie poziom wody podnosi się wyraźnie a nurt zanika - zbliżamy się do niewielkiej zapory przy młynie wodnym w Bakałarzewie.</opispunktu> 
+    </punkt>
+    <punkt id="462" miejscowosc="Bakałarzewo" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="52" typ="mieszany" nazwa="górna Rospuda" 
+      uciazliwosc="U4" trudnosc="ZWC" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>W swym górnym biegu Rospuda przepływa przez wąskie jeziora leżące pomiędzy wysokimi trawiastymi wzgórzami. Pojawiające się na wzgórzach świerki i porozrzucane na brzegach jezior głazy nadają krajobrazowi nieco górski wygląd. Na odcinkach pomiędzy jeziorami dno rzeki jest kamieniste, nurt szybki i występują liczne przełomy.</opis>
+    <punkt id="461" miejscowosc="" 
+      ns="54.1127" we="22.63525" km="18" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ Rospudy z J. Głębokiego.</opispunktu> 
+    </punkt>
+    <punkt id="459" miejscowosc="" 
+      ns="54.12195" we="22.6347" km="16.7" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Rospuda wypływa z J. Garbaś.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek-kładka</opispunktu> 
+    </punkt>
+    <punkt id="458" miejscowosc="" 
+      ns="54.12892" we="22.62247" km="15.7" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Bardzo komfortowa łączka biwakowa na prawym brzegu J. Garbaś, na przeciwko miejsca, w którym wpada Rospuda.</opispunktu> 
+    </punkt>
+    <punkt id="457" miejscowosc="" 
+      ns="54.13055" we="22.6324" km="15.5" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Rospudy do J. Garbaś.</opispunktu> 
+    </punkt>
+    <punkt id="456" miejscowosc="" 
+      ns="54.15045" we="22.6283" km="12.7" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze Szafranki - Garbaś.</opispunktu> 
+    </punkt>
+    <punkt id="455" miejscowosc="" 
+      ns="54.16112" we="22.62323" km="11.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Rospudy do J. Długiego.</opispunktu> 
+    </punkt>
+    <punkt id="454" miejscowosc="Filipów" 
+      ns="54.17965" we="22.62958" km="8.9" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze do Suwałk</opispunktu> 
+    </punkt>
+    <punkt id="452" miejscowosc="Filipów" 
+      ns="54.18305" we="22.6271" km="8.6" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Rospudy z j. Kamiennego.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Na południowym końcu jeziora Kamiennego kolejny mostek z tunelem, za nim miejscowość Filipów.</opispunktu> 
+    </punkt>
+    <punkt id="450" miejscowosc="" 
+      ns="54.2038" we="22.61655" km="5.8" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Kamienny mostek pomiędzy J. Rospuda i J. Kamiennym.</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Jezioro Rospuda kończy się wąskim i niskim tunelem, za nim krótki przesmyk wyprowadza na niewielkie jezioro Kamienne.</opispunktu> 
+    </punkt>
+    <punkt id="449" miejscowosc="" 
+      ns="54.22278" we="22.53972" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Jest tu nieźle urządzone obozowisko na kilka
+namiotów - własność gospodarza z pobliskiej wioski Supienie.</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Przesmyk pomiędzy jeziorem Czarnym i jeziorem Rospuda Filipowska. Prowadzi tędy asfaltowa droga, w odległości kilkunastu metrów od niej znajduje się dogodny dostęp do wody.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

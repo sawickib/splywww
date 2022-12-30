@@ -1,0 +1,282 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.86392500" lon="16.86965600">
+<name>48.54</name>
+<desc>Most drogowy, wygodne miejsce wodowania kajaków.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.86892400" lon="16.86947200">
+<name>47.97</name>
+<desc>Otwarta zastawka</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.88129800" lon="16.88129200">
+<name>46.04</name>
+<desc>20 metrowe, kamienne bystrze.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.88135900" lon="16.88832600">
+<name>45.50</name>
+<desc>Most drogowy, wygodne miejsce wodowania kajaków.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.88586300" lon="16.92416000">
+<name>42.73</name>
+<desc>Próg kamienny 0,5m.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.88569100" lon="16.92820100">
+<name>42.45</name>
+<desc>Próg 0,6m.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.88475000" lon="16.93299700">
+<name>42.09</name>
+<desc>Most drogowy, wygodne miejsce wodowania kajaków.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.88329000" lon="16.97166500">
+<name>39.30</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.88527890" lon="16.97977954">
+<name>38.74</name>
+<desc>Z prawej ujście Małej Ślęzy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.88621155" lon="16.98095124">
+<name>38.54</name>
+<desc>Próg 1m.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.88894500" lon="16.99002500">
+<name>37.78</name>
+<desc>Most drogowy, wygodne miejsce wodowania kajaków.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.89540495" lon="17.00047565">
+<name>36.65</name>
+<desc>Próg 0,6m.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.90450200" lon="16.99735200">
+<name>35.52</name>
+<desc>Most drogowy, wygodne miejsce wodowania kajaków.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.91381500" lon="16.99165300">
+<name>34.34</name>
+<desc>Most drogowy, wygodne miejsce wodowania kajaków.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.92394100" lon="16.98502800">
+<name>33.05</name>
+<desc>Próg 0,6m.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.94780200" lon="17.00624800">
+<name>29.37</name>
+<desc>Próg 0,5m.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.95468200" lon="17.01229700">
+<name>28.39</name>
+<desc>Zator z drzew i śmieci, piętrzący wodę na wysokość w sumie około 1m</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.96415000" lon="17.00478900">
+<name>27.19</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.97611000" lon="17.00585700">
+<name>25.74</name>
+<desc>Mostek, kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.98628072" lon="17.01789237">
+<name>24.23</name>
+<desc>Most drogowy, wygodne miejsce wodowania kajaków.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.99933000" lon="17.01170100">
+<name>22.71</name>
+<desc>Z prawej dopływa rzeka Żórawka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.00238100" lon="17.00996300">
+<name>22.35</name>
+<desc>Most drogowy, wygodne miejsce wodowania kajaków.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.01402600" lon="16.99855700">
+<name>20.78</name>
+<desc>Most drogowy, wygodne miejsce wodowania kajaków.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.02417600" lon="16.99108800">
+<name>19.27</name>
+<desc>Przenoska lewą stroną 20m.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.03724100" lon="16.98531200">
+<name>17.57</name>
+<desc>Most drogowy, wygodne miejsce wodowania kajaków. Poniżej mostu, po lewej aktywny wodowskaz, którego wskazania można obserwować w internecie. W grudniu 2016 wodowskaz wskazywał poziom 184 - jest to bardzo dobra woda (wszystkie progi poniżej [z wjątkiem elektrowni na ul. Mącznej] można spływać bez problemów.
+W pobliżu przystanek komunikacji miejskiej oraz zatoczka na 3 samochody przy ul. Rzecznej.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.04059459" lon="16.98311462">
+<name>17.00</name>
+<desc>Trójprzęsłowy jaz o wysokości około 1m. Spływać można z lewej i z prawej strony "na mokro" - pod progiem wystarczająco głęboko. Wąskim, środkowym przęsłem można skoczyć "na sucho" ale również i "na twardo", bowiem podstawa progu to płytko zanużona betonowa płyta.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.04340244" lon="16.98604659">
+<name>16.70</name>
+<desc>Most Autostrady A4</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.05534410" lon="16.99292917">
+<name>15.20</name>
+<desc>Dwustopniowy prożek, pozostałości po zastawce</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.05935197" lon="16.99024697">
+<name>14.75</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.05959569" lon="16.99002955">
+<name>14.70</name>
+<desc>Most Partynicki na al. Karkonoskiej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.06113217" lon="16.98967957">
+<name>14.50</name>
+<desc>Dwustopniowy prożek w Parku Klecińskim</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.06504200" lon="16.98618700">
+<name>14.03</name>
+<desc>Most Kleciński na ul. Wałbrzyskiej. W pobliżu pętla tramwajowa.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.07703497" lon="16.98212246">
+<name>12.60</name>
+<desc>Most łączący ul. Racławicką z Aleją Piastów</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.08083100" lon="16.97864000">
+<name>12.14</name>
+<desc>Dwuprzęsłowy jaz około 1m pod Kładką Oporowską, z niewielkim odwojem</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.08366000" lon="16.97068400">
+<name>11.48</name>
+<desc>Most Oporowski pomiędzy ul. Solskiego i Grabiszyńską. W pobliżu pętla tramwajowa i parking</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.09493500" lon="16.96986900">
+<name>10.09</name>
+<desc>Most Muchoborski pomiędzy ul. Ostrowskiego i Krzemieniecką</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.09536865" lon="16.96953764">
+<name>10.00</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.09906880" lon="16.96106681">
+<name>9.20</name>
+<desc>Pozostałości po jazie</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.10844400" lon="16.95211600">
+<name>7.91</name>
+<desc>Most Strzegomski</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.10919874" lon="16.95028701">
+<name>7.70</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.11111400" lon="16.94365700">
+<name>7.22</name>
+<desc>Jaz dwuprzęsłowy 0,8 m. Pod jazem płytko</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.11142536" lon="16.94291367">
+<name>7.10</name>
+<desc>Z lewej dopływa Potok Kasina</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.12192200" lon="16.93897200">
+<name>5.62</name>
+<desc>Most Żernicki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.12235461" lon="16.93911881">
+<name>5.50</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.12840340" lon="16.93962247">
+<name>4.80</name>
+<desc>Kładka dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.13274831" lon="16.94458238">
+<name>4.20</name>
+<desc>Most na nieczynnej bocznicy kolejowej. Ulubione miejsce spotkań miejscowych smakoszy dystylatów, piwa, chipsów itp. Okolice mostu to jeden wielki śmietnik.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.13363051" lon="16.94502257">
+<name>4.10</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.13728700" lon="16.94516300">
+<name>3.71</name>
+<desc>Most tramwajowy. W pobliżu pętla tramwajowa i autobusowa</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.13797670" lon="16.94503941">
+<name>3.60</name>
+<desc>Most Pilczycki na drodze nr 94. Zaraz za nim kładka dla pieszych prowadząca na widoczny po lewej stadion</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.14250400" lon="16.94848100">
+<name>3.10</name>
+<desc>Trudności z dobiciem do brzegu w bezpiecznej odległości od jazu. W przypadku gdy jaz jest opuszczony woda w tym miejscu bardzo przyspiesza i miejsce to staje się niebezpieczne</desc>
+<cmt>niebezpieczeństwo</cmt>
+</wpt>
+<wpt lat="51.14244000" lon="16.95594600">
+<name>2.51</name>
+<desc>Przed mostem kamienne bystrze</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.14250951" lon="16.95654321">
+<name>2.40</name>
+<desc>Most tramwajowy. Poniżej odcinek leśny z kilkoma drzewami w korycie rzeki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.15224396" lon="16.95226128">
+<name>0.90</name>
+<desc>Most Autostradowej Obwodnicy Wrocławia (AOW)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.15926300" lon="16.95056800">
+<name>0.00</name>
+<desc>Ujście Ślęzy do Odry. Tuż za ujściem po lewej znajduje się dogodny dojazd dla samochodów od ul. Rędzińskiej (asfalt dochodzi do samej wody). Równie dogodnie można dojechać do Odry po drugiej stronie, od strony Osobowic i Rędzina.
+W pobliżu ujścia, na końcu ul. Rędzińskiej znajduje się petla autobusowa komunikacji miejskiej, a przy samej rzece sporo miejsca na samochody</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

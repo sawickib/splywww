@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="163" nazwa="Parsęta" wersja="1">
+<opis>Parsęta obszar źródliskowy ma na łąkach w pobliżu wsi Parsęcko, kilka kilometrów na zachód od Szczecinka. Początkowo posiada charakter rowu meliorującego wody z terenów zabagnionych, następnie wpływa na obszary leśne i na wysokości Nowego Chwalimia, przyjmując wcześniej kilka dopływów, zaczyna intensywnie meandrować. Generalnie płynie w kierunku północno-zachodnim przez Białogard i Karlino, następnie wpływa w obszar Pobrzeża Koszalińskiego i dość prostym, dolnym odcinkiem osiąga Kołobrzeg, gdzie uchodzi do Bałtyku. Górny odcinek Parsęty do okolic miejscowości Osówko jest dość wymagający. Rzeka miejscami jest mocno zarośnięta łozami, a na niektórych odcinkach zawalona drewnem do stopnia, wymuszającego współpracę zespołową przy pokonywaniu przeszkód. Przy typowych średnio rocznych stanach wody nurt Parsęty nie jest specjalnie wartki, zdarzają się jednak miejsca gdzie rzeka przyspiesza. W niektórych opracowaniach, głównie ze względu na rodzaj rybostanu, wyższym odcinkom rzeki przypisuje się charakter górski</opis> 
+  <odcinek id="508" typ="rzeka" nazwa="Storkowo ? Żarnowo " 
+      uciazliwosc="U4" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Odcinek zwałkowy. Niektóre przeszkody wymagają pracy zespołowej. Nurt spokojny, rzeka szeroka i wystarczająco głęboka przy wskazaniach wodowskazów: Storkowo I - 58, Storkowo II - 60, Tychówko - 173. Przy tych warunkach wodnych odcinek Storkowo - Żarnowo zajął 4h 45min spokojnego spływu z zachowaniem czystości przejazdu [bez obnoszenia przeszkód]. Odcinek polecany wyłącznie koneserom gatunku</opis>
+    <punkt id="5339" miejscowosc="Storkowo" 
+      ns="53.78034179" we="16.49849642" km="145.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Nowym Chwalimiem a Storkowem, zaraz poniżej tworzy się rozlewisko przed jazem</opispunktu> 
+    </punkt>
+    <punkt id="5340" miejscowosc="Storkowo" 
+      ns="53.78001786" we="16.49737955" km="145.4" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg piętrzący wody na potrzeby, niegdyś młyna, dzisiaj małej elektrowni wodnej przy Stacji Geoekologicznej UAM Poznań [Storkowo 32]. Nad cztero przęsłowym progiem niska kładka, zaraz za nią pochylnia i około 1,5m pionu. Pod progiem płytko i kamieniście bo większość wody skierowana jest na turbinę. Przenoska po trawie pomiędzy jazem a młynówką płynącą pod budynek elektrowni. Jest to bardzo wygodne miejsce rozpoczynania spływu po uzgodnieniu z obsługą Stacji, a na ogrodzonym terenie znajduje się sporo miejsca na samochody. Poniżej rzeka ma 4-5 m szerokości, płynie cały czas w lesie, a najbliższa możliwość odebrania ludzi z rzeki znajduje się na moście na 137,8km</opispunktu> 
+    </punkt>
+    <punkt id="5341" miejscowosc="Storkowo" 
+      ns="53.7793336" we="16.49552068" km="145.3" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wodowskaz Storkowo I, możliwy do odczytania wyłącznie w terenie</opispunktu> 
+    </punkt>
+    <punkt id="5342" miejscowosc="Storkowo" 
+      ns="53.77894115" we="16.494234" km="145.2" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Wodowskaz Storkowo II (możliwy do odczytania wyłącznie w terenie), zaraz za nim kładka przez rzekę. Poniżej odcinek zwałkowy, miejscami o sporej uciążliwości, rzeka intensywnie kręci i meandruje, na obu brzegach mnóstwo wysięków i źródeł, niektóre bardzo wydajne</opispunktu> 
+    </punkt>
+    <punkt id="5343" miejscowosc="Stary Chwalim" 
+      ns="53.7838553" we="16.44156843" km="138" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z lewej rzeczki Chwalimki</opispunktu> 
+    </punkt>
+    <punkt id="5344" miejscowosc="Stary Chwalim" 
+      ns="53.78449349" we="16.44012565" km="137.8" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 171 pomiędzy Barwicami i Bobolicami. Możliwy dostęp do wody, chociaż niezbyt wygodny ze względu na wąską drogę i brak pobocza</opispunktu> 
+    </punkt>
+    <punkt id="5345" miejscowosc="Stary Chwalim" 
+      ns="53.78712007" we="16.4295717" km="136.3" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Łukowy ceglany most kolejowy. Kilkaset metrów za mostem koryto rozdwaja się, by zaraz połączyć się z powrotem. Płynąc prawą odnogą można zyskać kilka minut</opispunktu> 
+    </punkt>
+    <punkt id="5346" miejscowosc="Żarnowo" 
+      ns="53.79056864" we="16.41706372" km="135.1" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony dopływa rzeczka Pilśnica</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="509" typ="rzeka" nazwa="Żarnowo ? Krosino " 
+      uciazliwosc="U4" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Odcinek równie zwałkowy jak wcześniejszy. Sporo przeszkód wymagających pracy zespołowej. Tu robi się nieco węziej, głębiej, a nurt nieznacznie przyspiesza. Po dodaniu wód Perznicy robi się zauważalnie głębiej i szerzej. Przy wskazaniach wodowskazów: Storkowo I - 58, Storkowo II - 60, Tychówko - 173, odcinek z Żarnowa do Krosina zajął 6h spokojnego spływu z zachowaniem czystości przejazdu [bez obnoszenia przeszkód]. Podobnie jak powyżej, odcinek polecany wyłącznie koneserom gatunku i wyłącznie na K1
+</opis>
+    <punkt id="5347" miejscowosc="Żarnowo" 
+      ns="53.79520509" we="16.40879848" km="134" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Most drogowy, a pod nim dwu przęsłowa zastawka piętrząca wodę na potrzeby zakładu hodowli pstrągów [Eko-Farm]. Stopień wodny posiada przepławkę dla ryb. Wyjście z wody na lewą stronę po trawie, przez most i drogę, wodowanie po prawej stronie poniżej przepławki - około 80m. Wygodne miejsce rozpoczynania i kończenia etapu, w pobliżu sporo miejsca na samochody. Na progu, na górnej wodzie znajduje się wodowskaz wskazujący w dniu spływu poziom 111. Poniżej progu brakuje nieco wody przez około 200m, aż do powrotu ze stawów</opispunktu> 
+    </punkt>
+    <punkt id="5348" miejscowosc="Żarnowo" 
+      ns="53.7955996" we="16.40589652" km="133.8" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Powrót wody ze stawów hodowlanych, przy wyższych stanach wypływ z lewej strony jest dość energiczny i przecinając jego nurt należy zachować czujność</opispunktu> 
+    </punkt>
+    <punkt id="5349" miejscowosc="Żarnowo" 
+      ns="53.79743591" we="16.39849847" km="133.1" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na lokalnej drodze, za nim po lewej stronie możliwość dzikiego biwakowania. Najbliższe dogodne miejsce odebrania ludzi z rzeki znajduje się w Krosinie na 118,2km. Poniżej odcinek zwałkowy miejscami o sporej uciążliwości</opispunktu> 
+    </punkt>
+    <punkt id="5350" miejscowosc="Gąski" 
+      ns="53.80602203" we="16.37644054" km="130" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z lewej strony Gęsiej Rzeki</opispunktu> 
+    </punkt>
+    <punkt id="5351" miejscowosc="Zwartowo" 
+      ns="53.82321954" we="16.34756555" km="124.2" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z prawej strony rzeki Perznicy, nieco wcześniej w korycie wbite pale drewniane po jakiejś  konstrukcji (moście, kładce). Poniżej Parsęta rozszerza się, ilość zwałek nieznacznie maleje i stają się one mniej uciążliwe</opispunktu> 
+    </punkt>
+    <punkt id="5352" miejscowosc="Krosino" 
+      ns="53.83483149" we="16.30757513" km="118.2" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe z pomostem pokrytym naniesionym przez rzekę błotem, ławkami i wiatą. Bardzo wygodne miejsce początku i końca etapu, z dobrym, choć nieoznakowanym i niejednoznacznym dojazdem nad rzekę, leśną drogą. W Krosinie na końcu ulicy Rzecznej należy skręcić w prawo w wąską drogę pomiędzy prywatnymi domami i zjechać w dół do rzeki. W deszczowe dni stromy fragment drogi może być śliski</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="510" typ="rzeka" nazwa="Krosino - Stare Dębno " 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis>Odcinek bogaty w gęste łozy zarastające prawie całe koryto. Pojawiają się też zwałki ale nie są one już tak liczne jak na wyższych odcinkach. Przy wskazaniach wodowskazów: Storkowo I - 58, Storkowo II - 60, Tychówko - 173, odcinek z Krosina do Starego Dębna zajął 4,5h spokojnego spływu z zachowaniem czystości przejazdu [bez obnoszenia przeszkód]</opis>
+    <punkt id="5353" miejscowosc="Krosino" 
+      ns="53.83610059" we="16.30469342" km="118" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, dalej odcinek zwałkowy ale przede wszystkim uciążliwy ze względu na liczne łozy zwieszające się do lustra wody</opispunktu> 
+    </punkt>
+    <punkt id="5354" miejscowosc="Doble" 
+      ns="53.8555882" we="16.24597085" km="110" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Młyn z ciekawym wyposażeniem, możliwym do zaobserwowania przez uszkodzone okna. Niezbyt wygodne strome wyjście na nieco bystrej wodzie, na lewo. Przenoska 60m po trawie. Spory prąd ściąga w prawo pod budynek młyna, jednak lewym, suchym przęsłem obok przepławki można przerzucić kajaki przez zastawkę, omijając niewygodną przenoskę</opispunktu> 
+    </punkt>
+    <punkt id="5355" miejscowosc="Doble" 
+      ns="53.85484214" we="16.24197347" km="109.7" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy, zaraz za nim po prawej stronie prywatna łąka, na której gospodarz podobno pozwala biwakować, dalej zwałki i łozy</opispunktu> 
+    </punkt>
+    <punkt id="5356" miejscowosc="Stare Dębno" 
+      ns="53.87145247" we="16.19012994" km="101" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na zakręcie rzeki w lewo, na nieco wyższym brzegu resztki infrastruktury biwakowej i pomostu. Możliwość dzikiego biwakowania na śródleśnej polanie</opispunktu> 
+    </punkt>
+    <punkt id="5357" miejscowosc="Stare Dębno" 
+      ns="53.87282453" we="16.17632631" km="99.8" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most na ruchliwej drodze nr 167 z Połczyna do Tychowa. Niezbyt wygodne [stroma skarpa, brak pobocza] ale jedyne możliwe w okolicy miejsce rozpoczynania i kończenia etapu</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="511" typ="rzeka" nazwa="Białogard - Rościno" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="3"> 
+  <opis>Do elektrowni w Rościnie obwałowany kanał, miejscami porośnięty trzcinami, nurt słaby. Niżej bardziej dziko, ładnie i zdecydowanie szybciej. Przy wskazaniach wodowskazów: Białogard - 142, Bardy - 297 jest to wysoki stan, a wszystkie progi są przelane i woda niesie. W tych warunkach z Białogardu do Kołobrzegu krótkim K1 z kilkoma przystankami przepłynięto w 9h</opis>
+    <punkt id="5358" miejscowosc="Białogard" 
+      ns="54.00656898" we="15.96701741" km="60.8" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Wygodne miejsce wodowania z dojazdem do samej rzeki od strony ul. Szpitalnej. Trawiasta łąka, ławki i pomost w wodzie, być może wolno tu także biwakować. W pobliżu sporo miejsca na samochody nad samą rzeką, a jak ktoś woli cywilizację to kilkaset metrów obok, przy ul. Wileńskiej znajduje się parking pod Urzędem Gminy. Niżej odcinek uregulowany, obwałowany i zatrzciniony do samej elektrowni Rościno</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="512" typ="rzeka" nazwa="Rościno - Kołobrzeg" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="4"> 
+  <opis>Do samego Kołobrzegu rzeka ładna, miejscami z kilkoma drzewami, płynie przez obszary zalesione jak i odsłonięte, dość dziko. Po drodze spływa się progami, z których próg w Pyszce [31,2km] zaleca się obnieść przy niższych stanach wody</opis>
+    <punkt id="5359" miejscowosc="Rościno" 
+      ns="53.99723057" we="15.90279926" km="55" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz hydroelektrowni zbudowanej w 1936 roku, o konstrukcji mającej na celu zamaskowanie urządzeń przed zwiadem lotniczym. Przenoska z lewej strony około 50m, wodowanie z pochylni na małym dopływie. Na dolnej wodzie, przy wypływie wody z turbin znajduje się wodowskaz, który w dniu spływu wskazywał poziom 1595, co gwarantuje bardzo dobre warunki wodne i przelanie wszystkich progów poniżej, aż do Kołobrzegu. Niżej odcinek wśród drzew z kilkoma pojedynczymi łatwymi zwałkami</opispunktu> 
+    </punkt>
+    <punkt id="5360" miejscowosc="Kamosowo" 
+      ns="53.98704538" we="15.88287324" km="53" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z lewej strony rzeki Topiel</opispunktu> 
+    </punkt>
+    <punkt id="5361" miejscowosc="Garnki" 
+      ns="53.99487407" we="15.86489282" km="51.2" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy</opispunktu> 
+    </punkt>
+    <punkt id="5362" miejscowosc="Garnki" 
+      ns="54.00440326" we="15.85955837" km="49.9" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Drugi identyczny mostek betonowy</opispunktu> 
+    </punkt>
+    <punkt id="5363" miejscowosc="Garnki" 
+      ns="54.00872335" we="15.85826699" km="49.4" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Trzeci identyczny mostek betonowy</opispunktu> 
+    </punkt>
+    <punkt id="5364" miejscowosc="Garnki" 
+      ns="54.01011768" we="15.8574524" km="49.2" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Pokrzywnicy z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="5365" miejscowosc="Karlino" 
+      ns="54.02739512" we="15.87283876" km="47" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Szeroki most ruchliwej drogi nr 6</opispunktu> 
+    </punkt>
+    <punkt id="5366" miejscowosc="Karlino" 
+      ns="54.02875095" we="15.87471934" km="46.8" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony pierwsze ujście Radwi [zasadnicze] do Parsęty</opispunktu> 
+    </punkt>
+    <punkt id="5367" miejscowosc="Karlino" 
+      ns="54.031278" we="15.87356557" km="46.5" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Most przy ulicy Szczecińskiej, przed nim z prawej strony drugie ujście Radwi, a w zasadzie kanału młyńskiego. W pobliżu ruiny zamku. Pod mostem bystrze, przy wyższych stanach wody niezauważalne, przy niższych zaleca się spływać lewą stroną</opispunktu> 
+    </punkt>
+    <punkt id="5368" miejscowosc="Karlino" 
+      ns="54.037588" we="15.86978627" km="45.5" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony trzecie ujście Radwi - kanału młyńskiego do Parsęty. Wody Radwi sprawiają, że Parsęta staje się dwa razy szersza</opispunktu> 
+    </punkt>
+    <punkt id="5369" miejscowosc="Karlino" 
+      ns="54.04284483" we="15.86896726" km="44.9" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Próg [bystrze] przy wyższych stanach wody przelany i niewidoczny. Wygodny dostęp do wody z trawiastej łąki przy osiedlu mieszkaniowym. Poniżej pojedyncze drzewa w wodzie</opispunktu> 
+    </punkt>
+    <punkt id="5370" miejscowosc="Lubiechowo" 
+      ns="54.05872881" we="15.86542512" km="42.9" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Łukowy most betonowy po kolei wąskotorowej</opispunktu> 
+    </punkt>
+    <punkt id="5371" miejscowosc="Wrzosowo" 
+      ns="54.10139831" we="15.80850438" km="34.9" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z niezbyt wygonym dostępem do wody</opispunktu> 
+    </punkt>
+    <punkt id="5372" miejscowosc="Pyszka" 
+      ns="54.1174125" we="15.76671672" km="31.2" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Oznakowany próg, za którym często tworzy się odwój. Przy wyższych stanach wody próg jest przelany i niewidoczny, przy niższych zaleca się obnieść to miejsce prawym brzegiem, kilkadziesiąt metrów, wygodnie po trawie. Rozległa łąka, dobre miejsce na przerwę w spływie. W oddali widoczny park rozrywki</opispunktu> 
+    </punkt>
+    <punkt id="5373" miejscowosc="Pyszka" 
+      ns="54.11760041" we="15.76415494" km="31" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Pysznicy z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="5374" miejscowosc="Miechęcino" 
+      ns="54.11218056" we="15.74862745" km="29.4" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe po prawej stronie</opispunktu> 
+    </punkt>
+    <punkt id="5375" miejscowosc="Bardy" 
+      ns="54.09159671" we="15.71387328" km="25.3" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z wodowskazem [za mostem, po prawej stronie], którego wskazania można obserwować w internecie. 50 m przed mostem po P wygodne wyjście z wody. Poniżej odcinek leśny</opispunktu> 
+    </punkt>
+    <punkt id="5376" miejscowosc="Lubkowice" 
+      ns="54.07495583" we="15.66753122" km="20.4" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Gościnki z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="5377" miejscowosc="Ząbrowo" 
+      ns="54.09069249" we="15.64160909" km="17" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Za mostem po prawej stronie wygodne wodowanie z możliwym dojazdem do rzeki gruntową drogą. W pobliżu zatoczka i polana dogodna na biwak. Pod lasem parking z murowanym miejscem na ognisko</opispunktu> 
+    </punkt>
+    <punkt id="5378" miejscowosc="Kopydłówko" 
+      ns="54.11540028" we="15.60725299" km="12.5" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kratownicowy przy wodociągach kołobrzeskich</opispunktu> 
+    </punkt>
+    <punkt id="5379" miejscowosc="Rościęcino" 
+      ns="54.13408704" we="15.58167477" km="8.6" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Budowa mostu ekspresówki S6</opispunktu> 
+    </punkt>
+    <punkt id="5380" miejscowosc="Kołobrzeg" 
+      ns="54.16341155" we="15.57389364" km="3.8" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="most" kolejnosc="-1">Budowa [remont] mostu na obwodnicy miasta</opispunktu> 
+    </punkt>
+    <punkt id="5381" miejscowosc="Kołobrzeg" 
+      ns="54.17280927" we="15.5750676" km="2.5" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="most" kolejnosc="-1">Most przy ulicy Młyńskiej - Kamiennej. Pod mostem bystrze, za mostem po lewej stronie pomost przystani kajakowej i wypożyczalni sprzętu. Chcąc wpłynąć w Kanał Drzewny należy przed mostem skręcić w lewo i trafić w lewy przepust [prawy jest dość niski], lub zaraz za mostem ostro w lewo</opispunktu> 
+    </punkt>
+    <punkt id="5382" miejscowosc="Kołobrzeg" 
+      ns="54.17625819" we="15.56952413" km="2" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy ulicy Łopuskiego</opispunktu> 
+    </punkt>
+    <punkt id="5383" miejscowosc="Kołobrzeg" 
+      ns="54.17964591" we="15.56346795" km="1.5" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy ulicy Solnej, zaraz za nim most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="5384" miejscowosc="Kołobrzeg" 
+      ns="54.18076885" we="15.55913444" km="1.1" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Portowy, ostatni przed portem. Dalej wpływa się do portu, po którym pływać można jedynie po uzyskaniu zezwolenia w kapitanacie. Wygodne wyjście z wody znajduje się przy betonowych konstrukcjach i stalowej rurze tuż przed mostem po prawej stronie. W pobliże dojechać można samochodem od ulicy Reja [boczna Portowej]. Wcześniejsze wyjście z wody jest mocno utrudnione ze względu na pionowe obmurowania schodzące do wody na całej długości lewego i prawego nabrzeża</opispunktu> 
+    </punkt>
+    <punkt id="5385" miejscowosc="Kołobrzeg " 
+      ns="54.18710813" we="15.55267299" km="0" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Parsęty do Bałtyku</opispunktu> 
+    </punkt>
+    <punkt id="5386" miejscowosc="Stare Dębno" 
+      ns="53.87652294" we="16.14362844" km="95.9" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście rzeki Dębnicy</opispunktu> 
+    </punkt>
+    <punkt id="5387" miejscowosc="Dębczyno" 
+      ns="53.9826081" we="16.00653814" km="66.8" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście rzeki Mogilicy</opispunktu> 
+    </punkt>
+    <punkt id="5388" miejscowosc="Białogard " 
+      ns="54.00625989" we="15.96806482" km="60.9" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście rzeki Liśnicy</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

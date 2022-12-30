@@ -1,0 +1,70 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="0.00000000" lon="0.00000000">
+<name>0.00</name>
+<desc>W miasteczku Osiek znajdziemy wiele sklepów i innych atrakcji</desc>
+<cmt>bar</cmt>
+</wpt>
+<wpt lat="53.71642000" lon="18.46260000">
+<name>3.00</name>
+<desc>Ośrodek wczasowy nad jeziorem Kałębie. Pomost, plaża, kąpielisko, kawiarnia.</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="53.71787000" lon="18.45011000">
+<name>3.70</name>
+<desc>Wypływ Kałębnicy z jeziora Kałębie.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.71593000" lon="18.44696000">
+<name>4.00</name>
+<desc>Malutki, 20 cm jazik</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.71590000" lon="18.44690000">
+<name>4.10</name>
+<desc>Mostek stalowo-drewniany na leśniej drodze.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.71636000" lon="18.43016000">
+<name>5.00</name>
+<desc>Mostek stalowo-drewniany.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.71643000" lon="18.42863000">
+<name>5.50</name>
+<desc>Zarastające ujście Kałębnicy do jeziora Słonego.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Można całkiem przyjemnie zabiwakować na wyspie na jeziorze Słonym</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.72812000" lon="18.42366000">
+<name>6.80</name>
+<desc>Wypływ Kałębnicy z jeziora Słonego.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.72839000" lon="18.42226000">
+<name>7.10</name>
+<desc>Kajaki trzeba przeciagnać po trawie 5 metrów po płaskim, lewym brzegu.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="53.73100000" lon="18.42122000">
+<name>7.30</name>
+<desc>Betonowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.74326000" lon="18.41769000">
+<name>8.70</name>
+<desc>Ujście rzeki Kałębnicy do Wdy.</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

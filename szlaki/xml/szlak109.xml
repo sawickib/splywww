@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="109" nazwa="Niemen [Nemunas] (Litwa)" wersja="2">
+<opis>Niemen od Merecza do Niemonajci.
+Niemen płynie przez wiele krajów, warto znać jego nazwy w innych językach: Biał. Nioman ; Ros. Nieman ; Niem. Memel.
+Od granicy białoruskiej powyżej uzdrowiska Druskieniki szlak Niemna liczy 475km. Na Litwie jest już imponująco szeroki - 200m i więcej. Nurt jest dość żwawy. Od czasu do czasu w korycie występują głazy narzutowe powodując interesujące, niegroźne bystrza. Niegdyś były to groźne dla żeglugi przeszkody - tzw. rapy i było ich więcej (szlak był wielokrotnie udrożniany).
+Brzegi Niemna pokrywają głównie lasy sosnowe, ale trafiają się też lasy mieszane. Na wyższych brzegach widać niekiedy grupy rozproszonych zabudowań wiejskich otoczone łąkami i polami, zwykle z miejscami dobicia i cumowania łodzi rybackich.
+Przy niższym stanie wody są podobno widoczne piękne, piaszczyste plażowe brzegi zachęcające do kąpieli. Woda wydaje się jednak brudna. Również podobno występują w nurcie mielizny.
+Mapy: Sowieckie topograficzne 50-tki i setki w zasadzie wystarczają, ale polecam litewskie mapy topo w skali 1:50 tys., do nabycia w polskiej internetowej księgarni turystycznej. Ponadto przydatna jest litewska mapa turystyczna Dzukija I - z legendą wielojęzyczną, również po polsku! (w skali 1: 50 tys., do nabycia w niektórych księgarniach turystycznych w Polsce).</opis> 
+  <odcinek id="454" typ="rzeka" nazwa="Niemen od ujścia Angi do Niemonajci" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="1"> 
+  <opis>Nadal spokojna, szeroka rzeka, na brzegach na przemian lasy sosnowe i polany i łąki wiejskich przysiołków. Podobno przy niższym stanie wody są plaże i mielizny. W lewobrzeżnych Niemonajciach, gdzie są miejsca biwakowe na końcu odcinka, nie ma co liczyć na żadne zakupy. Sklepy są na przeciwko, w małomiasteczkowej części osady. Najbliższa większa miejscowość to miasto Alytus [Olita] - leży niżej nad Niemnem na północ od Niemonajci, w odległośco ok. 15km (zarówno szosą jak i wodą). Tu też oczywiście można zakończyć spływ, ale chyba mniej ciekawie.</opis>
+    <punkt id="3798" miejscowosc="" 
+      ns="54.304457" we="24.029237" km="379" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Z biwaku widać kościół i miejską część zabudowań Niemonajci na prawym brzegu Niemna.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wewnątrz meandra leży jeziorko z czystą wodą z plażami kąpielowymi - 300m od biwaku.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Duża łąka na lewym brzegu, na początku dużego meandra  w lewo, na północ. Dobicie dobre, choć kamieniste, z głazami. Pośrodku łąki rośnie rozłożyste drzewo liściaste. Dojazd do biwaku jest skomplikowany, leśnymi, okrężnymi drogami z północno wchodniej części zabudowań Niemonajci. Część dróg jest zablokowana słupkami (z niejasnego powodu).</opispunktu> 
+    </punkt>
+    <punkt id="3797" miejscowosc="" 
+      ns="54.304466" we="24.020046" km="379.5" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na przeciwko Hotelu pod prawym brzegiem wyłania się z nurtu Niemna głaz narzutowy "Klebono uola" [Głaz Plebana].</opispunktu> 
+    </punkt>
+    <punkt id="3796" miejscowosc="Nemunaitis [Niemonajcie]" 
+      ns="54.305608" we="24.019453" km="379.5" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu Niemna jest miejska część zabudowań Niemonajci, niewidoczna tutaj z rzeki. Pomiędzy obydwoma częściami miejscowości brak jest mostu, czy nawet promu.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na dolnym, wschodnim końcu lewobrzeżnych, wiejskich zabudowań Niemonajci, widoczny jest Hotel "Nemunas Park Residence". Pod Hotelem jest nienajgorsze dobicie i możliwość biwakowania na zapuszczonej łące, a przy hotelu jest parking. W roku 2011 hotel był zamknięty.</opispunktu> 
+    </punkt>
+    <punkt id="3795" miejscowosc="Balkasodis" 
+      ns="54.254393" we="23.985829" km="383.5" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu jest wysoka, długa pionowa skarpa z norkami brzegówek. Zabudowania wsi (na lewym brzegu) nie są widoczne z rzeki.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="453" typ="rzeka" nazwa="Niemen od Merecza do ujścia Angi" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL3" 
+      kolejnosc="0"> 
+  <opis>Poniżej miasteczka Merecz, Niemen, szeroki, płynie spokojnie, choć dość szybko wąską doliną o stromych brzegach porośniętych lasem - na ogół sosnowym. Nieliczne wioski leżą na polanach na wyższych terasach rzeki. 
+Nadal płyniemy przez Dzukijski Park Narodowy. Po drodze spotyka się miejsca dobicia i polanki biwakowe użytkowane przez wędkarzy, ale prawny status takich miejsc jest nieznany.
+Nie ma zbyt wiele miejsc biwakowych, a wyznaczone miejsca są dwa - poniżej Merecza i koło ujścia Angi, na granicy Parku. Sklepy i bary są w Mereczu.</opis>
+    <punkt id="3794" miejscowosc="" 
+      ns="54.215983" we="23.964471" km="393.5" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe - obozowisko Parku [?] jest na prawym brzegu, dokładnie na przeciwko ujścia Angi. Nad wodą jest niewielka łączka z miejscem na ognisko, a z niej są długie drewniane schody na polanę na wyższej terasie w lesie, gdzie jest drewniana wiata.</opispunktu> 
+    </punkt>
+    <punkt id="3793" miejscowosc="" 
+      ns="54.214969" we="23.960092" km="393.5" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej ujścia Angi wypływamy z Dżukijskiego Parku Narodowego.</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeczki Anga na lewym brzegu (słabo widoczne).</opispunktu> 
+    </punkt>
+    <punkt id="3792" miejscowosc="" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe na prawym brzegu, mniej więcej na przeciwko ujścia Margote - niezłe dobicie, na brzegu niewielka łączka, w lesie wyżej jest być może obozowisko.</opispunktu> 
+    </punkt>
+    <punkt id="3791" miejscowosc="Krikštonys [Kryksztany]" 
+      ns="54.201182" we="23.954062" km="395.5" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście strugi Margote na lewym brzegu (niewidoczne), płynącej przez wieś Kryksztany.</opispunktu> 
+    </punkt>
+    <punkt id="3790" miejscowosc="" 
+      ns="54.185728" we="23.95226" km="396.5" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Duża wyspa (ok. 600m długości) - z krzakami, przy lewym brzegu.</opispunktu> 
+    </punkt>
+    <punkt id="3789" miejscowosc="Voverys" 
+      ns="54.172631" we="23.979273" km="400.5" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsca biwakowe: poniżej widocznych zabudowań wsi na lewym brzegu, są dwie ładne łąki nadbrzeżne z dobrymi dobiciami. Na prawym brzegu widoczne są zabudowania wsi Mežionys.</opispunktu> 
+    </punkt>
+    <punkt id="3788" miejscowosc="Druskininkai" 
+      ns="54.182533" we="24.022611" km="403.5" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście strugi Netiesa - jest na prawym brzegu obok przystani.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Nie mylić z uzdrowiskiem Druskienniki koło granicy Białoruskiej. Miejsce biwakowe - przed wsią na prawym niewysokim brzegu jest podłużna łąka z nienajlepszymi dobiciami. 
+Następne miejsce biwakowe jest około 100 m niżej, przy niewielkiej przystani łodzi rybackich wsi. Widać stąd zabudowania wsi.</opispunktu> 
+    </punkt>
+    <punkt id="3787" miejscowosc="" 
+      ns="54.177555" we="24.037186" km="406.5" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na prawym brzegu na przeciwko, jest kiepskie dobicie do wąskiej łąki u podnóża zalesionego wzgórza. Na wyższym brzegu (w odległości 30 m ścieżką) jest polanka w lesie z wiatą - też użytkowana przez wędkarzy.</opispunktu> 
+    </punkt>
+    <punkt id="3786" miejscowosc="" 
+      ns="54.17598" we="24.039283" km="406.5" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Plaża na lewym brzegu, możliwość biwakowania, ale niezbyt dobre miejsce, ciasno, w krzakach. Miejsce używane jest przez wędkarzy.</opispunktu> 
+    </punkt>
+    <punkt id="3785" miejscowosc="Netiesos [Nieciosy]" 
+      ns="54.184141" we="24.079934" km="409" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście strugi Apsinge na prawym brzegu. W głębi lądu jest wieś Nieciosy, niewidoczna z rzeki.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe - było opisywane w pobliżu Niecios. Obecnie na wyższym brzegu jest dacza, a nad samą wodą  jest niewielki taras, nieco zarośnięty krzakami - nie widać śladów biwakowania. Dobicie jest muliste.</opispunktu> 
+    </punkt>
+    <punkt id="3784" miejscowosc="Maksimonys [Maksymańce]" 
+      ns="54.161484" we="24.142301" km="415.5" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce dobicia - pod widocznymi zabudowaniami wsi na prawym wysokim brzegu jest niska łąka - być może  możliwość biwakowania.</opispunktu> 
+    </punkt>
+    <punkt id="3783" miejscowosc="" 
+      ns="54.161281" we="24.162876" km="417" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oznaczone obozowisko - Nemuno Stovyklaviete Parku [?] - widać na przeciw ujścia strugi Strauja, na lewym brzegu Niemna. Do Merecza lądem stąd jest ok. 2km.</opispunktu> 
+    </punkt>
+    <punkt id="3782" miejscowosc="" 
+      ns="54.163805" we="24.16511" km="417" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście strugi Strauja w prawej odnodze Niemna, w trzcinach poniżej wielkiej wyspy.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na prawym brzegu poniżej ujścia Strauji jest możliwość biwaku na skraju lasku, ale nie widać tu śladów biwakowania, a miejsce nie jest oznakowane.</opispunktu> 
+    </punkt>
+    <punkt id="3781" miejscowosc="" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Tuż poniżej mostu w Mereczu jest możliwość dobicia do prawego nabrzeża - tzw. Przystań Rzeczna w Mereczu. Płaska, niska łąka z dojazdem z szosy i parkingiem.</opispunktu> 
+    </punkt>
+    <punkt id="3780" miejscowosc="Merkine [Merecz]" 
+      ns="54.157318" we="24.180153" km="417.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie odnóg Niemna i zarazem połączenie szlaku Mereczanki i Niemna.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi nr 133. Na prawym brzegu widać miasto Merecz.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="108" nazwa="Mereczanka [Merkys] (Litwa)" wersja="2">
+<opis>Mereczanka od Olkienik [Lt Valkininkai] do ujścia do Niemna. 
+Źródła ma na Białorusi i spławna jest prawie od litewskiej granicy w Tabariškes  [Taboryszki]. Cały szlak liczy więc ok. 188 km. 
+Od ujścia Solczy rzeka jest szeroka na 8-15m (w niższym biegu do 50m), głęboka na 1-2m i na ogół płynie dość szybko.  Ma wiele dopływów, z których  znaczenie kajakowe mają: Verseka, Varene, Šalčia, Ula i Gruda.
+Na terenie Litwy Mereczanka płynie przez tereny leśne regionu Dżukija. W rejonie ujścia rzeki Uła rzeka wpływa na teren Dżukijskiego Parku Narodowego, gdzie wolno biwakować tylko na wyznaczonych miejscach. Właściwie na całej długości zdarzają się zwalone drzewa w nurcie, są też odcinki ciekawych bystrz z głazami narzutowymi, które mogą być utrudnieniem przy niskim stanie wody.
+Mapy: Sowieckie topograficzne 50-tki i setki w zasadzie wystarczają, ale polecam litewskie mapy topo w skali 1:50 tys., do nabycia w polskiej internetowej księgarni turystycznej. Ponadto przydatne są litewskie mapy turystyczne Dzukija I i II - z legendą wielojęzyczną, również po polsku! (w skali 1: 50 tys., do nabycia w niektórych księgarniach turystycznych w Polsce).</opis> 
+  <odcinek id="452" typ="rzeka" nazwa="Skroblus - Niemen" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="5"> 
+  <opis>Spokojna rzeka płynie szeroką doliną, nad rzeką jest mniej lasów, a więcej dacz. Lasy sosnowe widać na wyższych brzegach doliny. Na końcu, w Mereczu możemy liczyć na sklepy i bary.</opis>
+    <punkt id="3779" miejscowosc="Merkine [Merecz]" 
+      ns="54.157318" we="24.180153" km="" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Tuż poniżej mostu jest możliwość dobicia do prawego nabrzeża - tzw. Przystań Rzeczna w Mereczu. Płaska, niska łąka z dojazdem z szosy i parkingiem.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi nr 133</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Prawa odnoga Niemna uchodzi do głównej odnogi - połączenie szlaku Mereczanki i Niemna.</opispunktu> 
+    </punkt>
+    <punkt id="3778" miejscowosc="Merkine [Merecz]" 
+      ns="54.156639" we="24.184944" km="0" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Mereczanki do prawej odnogi Niemna [Lt Nemunas], oddzielonej od głównego nurtu Niemna przez dużą wyspę (300m długości).</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu prawej odnogi Niemna, widoczne  jest grodzisko - Góra Zamkowa [Merkine Piliakalnis] - miejsce lokacji średniowiecznego zamku litewskiego Merkine, później nazywanego Zamkiem Królowej Bony.</opispunktu> 
+    </punkt>
+    <punkt id="3777" miejscowosc="" 
+      ns="54.144033" we="24.213644" km="3.2" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie A4 Druskienniki-Wilno - 150m poniżej pola namiotowego.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole namiotowe Parku na prawym brzegu - Merkio Stovyklaviete prie Tilto [Obozowisko Mereczanki koło Mostu] - z dojazdem z szosy.</opispunktu> 
+    </punkt>
+    <punkt id="3776" miejscowosc="" 
+      ns="54.144746" we="24.235344" km="5.6" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wielki meander Mereczanki [Merkio Pasaga = Podkowa] - znany z opisów i fotografii. Prawy brzeg to wysoka skarpa  [punkt widokowy].</opispunktu> 
+    </punkt>
+    <punkt id="3775" miejscowosc="" 
+      ns="54.132935" we="24.240986" km="6.6" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oznaczony ośrodek wypoczynkowy na lewym brzegu - Merkio Slenis [Dolina Mereczanki]. Dobre dobicie, możliwość noclegu.</opispunktu> 
+    </punkt>
+    <punkt id="3774" miejscowosc="Trasninkas - Kasčiunai" 
+      ns="54.1099" we="24.267333" km="11.1" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Poniżej kładki na lewym brzegu jest ładne, oznaczone obozowisko z niezłym dobiciem - z nr telefonu.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka wisząca dla pieszych, metalowa, zdezelowana.
+Na lewym brzegu jest Trasninkas, na prawym Kasčiunai.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="451" typ="rzeka" nazwa="Ujście Uły - ujście Skroblus" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="4"> 
+  <opis>Druga część przełomu Mereczanki (bystrza, głazy narzutowe), ale już na terenie lasów mieszanych Dżukijskiego Parku Narodowego. Biwakować należy tylko na wyznaczonych miejscach. Pod koniec odcinka, w Puvociai, podobno jest sklep.</opis>
+    <punkt id="3773" miejscowosc="" 
+      ns="54.107734" we="24.27689" km="11.6" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Koniec przełomowego odcinka Mereczanki - nurt całkiem uspokaja się.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole namiotowe Parku. Z Mereczanki go nie widać - zapewne leży nad Skroblusem powyżej mostu.</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeczki Skroblus z lewego brzegu. Nad ujściem jest most drogowy nad Skroblusem.</opispunktu> 
+    </punkt>
+    <punkt id="3772" miejscowosc="Puvočiai [Puchacze]" 
+      ns="54.120283" we="24.306067" km="15.6" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka wisząca dla pieszych - 50m poniżej ujścia Grudy i pola namiotowego.</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Gruda z lewego brzegu, tuż poniżej pola namiotowego. [szlak kajakowy z bystrzami i wodospadami w dolnym biegu]</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu oznaczone pole namiotowe Parku: Puvočiai Stovyklaviete. Jest dobre piaszczyste dobicie, plaża, schodki na łagodnym stoku do miejsca biwakowego.</opispunktu> 
+    </punkt>
+    <punkt id="3771" miejscowosc="" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka wisząca dla pieszych - ok. 500m poniżej obozowiska Mardasavas.</opispunktu> 
+    </punkt>
+    <punkt id="3770" miejscowosc="Mardasavas [Mordasowo]" 
+      ns="54.158672" we="24.324876" km="20.6" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oznaczone obozowisko Mardasavas na lewym brzegu (firmowe).</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Od Mardasavas do Puvočiai (8km) mamy najpiękniejszy odcinek przełomu Mereczanki - szybki nurt, liczne bystrza, wielkie głazy narzutowe pod i nad wodą.</opispunktu> 
+    </punkt>
+    <punkt id="3769" miejscowosc="" 
+      ns="0" we="0" km="21.8" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na prawym brzegu jest piaszczysta plaża i możliwość biwaku, ale raczej nielegalna. Ponadto miejsce jest piknikowe.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole namiotowe Parku w lesie na lewym brzegu, 300m poniżej ujścia Uły. Nazywa się ono Merkio - Ulos santakos Stovyklaviete [Obozowisko u zbiegu Uły i Mereczanki]. Jest wiata, miejsca na ognisko, sławojka. Dobicie jest kiepskie, a z rzeki wiodą na polanę obozową strome schody.</opispunktu> 
+    </punkt>
+    <punkt id="3768" miejscowosc="" 
+      ns="54.163803" we="24.336881" km="22.1" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu ujścia jest niewielka polanka biwakowa.
+Jednak jest tu zakaz biwakowania (Park).</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Uła  [Lt Ula] na lewym brzegu, z piękną piaszczystą deltą. [szlak kajakowy]</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="450" typ="rzeka" nazwa="Sołoworce - Purple" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="4"> 
+  <opis>Pierwsza część przełomu Mereczanki -  ładne, niegroźne bystrza, liczne głazy narzutowe w nurcie. Tylko przy niższym stanie wody może być trudniej. Płyniemy przez lasy, ale na brzegu są liczne polany, na ogół zajęte przez liczne zorganizowane obozowiska. Po drodze, w Przełajach, są sklepy.</opis>
+    <punkt id="3767" miejscowosc="Purplai [Purple]" 
+      ns="54.172401" we="24.335076" km="23.1" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu oznaczone obozowisko Rim Vid z dobrym dobiciem - miejsce przygotowane "na wysoki połysk". Na prawym, wysokim brzegu widać rozproszone gospodarstwa wsi.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wpływamy na teren Dżukijskiego Parku Narodowego (Dzukijos Nacionalinis Parkas) - ale nie musimy mieć biletów - te obowiązują tylko na szlaku Uły.
+Powinno się biwakować na wyznaczonych polach namiotowych. Pola Parku są bezpłatne.
+</opispunktu> 
+    </punkt>
+    <punkt id="3766" miejscowosc="" 
+      ns="54.188976" we="24.373589" km="25.8" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka wisząca dla pieszych w Miluniszkach</opispunktu> 
+    </punkt>
+    <punkt id="3765" miejscowosc="Milioniškes [Miluniszki]" 
+      ns="54.190089" we="24.38433" km="26.6" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na prawym brzegu pojawiają się liczne oznaczone obozowiska - firmowe i agroturystyczne. Żeby zabiwakować, trzeba zatelefonować. Obozowiska te ciągną się wzdłuż  brzegu przez około 1km.</opispunktu> 
+    </punkt>
+    <punkt id="3764" miejscowosc="" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe na prawym brzegu 300m poniżej kładki w Przełajach. Na brzegu jest rozległa nadbrzeżna łąka z grupą dużych narzutniaków widocznych z rzeki.</opispunktu> 
+    </punkt>
+    <punkt id="3763" miejscowosc="" 
+      ns="54.211066" we="24.420613" km="31.6" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu obok kładki jest ośrodek z domkami - być może można tam zanocować.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep jest w Przełajach na prawym brzegu 300m od kładki, we wsi koło kościoła i pomnika Księcia Witolda [Lt Vytautas Didysis]</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka wisząca dla pieszych w Przełajach, metalowa. Miejsca dobicia są 50m poniżej na obydwu brzegach - do pomostów.</opispunktu> 
+    </punkt>
+    <punkt id="3762" miejscowosc="Perloja [Przełaje]" 
+      ns="54.216255" we="24.421186" km="32.1" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole namiotowe Perloja Stovyklaviete - status nieznany. Pole leży na prawym, wysokim brzegu, z nad rzeki wiodą do niego schodki.</opispunktu> 
+    </punkt>
+    <punkt id="3761" miejscowosc="" 
+      ns="54.229081" we="24.463738" km="37.6" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oznaczone obozowisko Mokama Stovyklaviete na prawym brzegu.</opispunktu> 
+    </punkt>
+    <punkt id="3760" miejscowosc="Salovarte [Sołoworce]" 
+      ns="54.231783" we="24.498405" km="38.6" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej kładki w Sołoworcach nurt Mereczanki przyśpiesza, w rzece pojawiają się głazy i kamieniste bystrza - bardzo malownicze, nietrudne. Bystrza ciągną się aż do ujścia rzeki Gruda - 23 km. Przy niskim stanie wody może być trudniej.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka wisząca drewniana - pomiędzy wsiami Salovarte (prawy brzeg) i Moliadugnis [Małe Dubno - lewy brzeg,  niewidoczna].</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oznaczone obozowisko Ceponija na prawym brzegu, poniżej kładki.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="449" typ="rzeka" nazwa="Orany - Sołoworce" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="3"> 
+  <opis>Poniżej dużej wsi Orany (ze sklepami), rzeka płynie spokojnie meandrując przez lasy i łąki.</opis>
+    <punkt id="3759" miejscowosc="" 
+      ns="0" we="0" km="41.6" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Następne miejsce biwakowe jest na lewym brzegu w lesie, około 500m poniżej. Dobicie lepsze.</opispunktu> 
+    </punkt>
+    <punkt id="3758" miejscowosc="" 
+      ns="54.234377" we="24.521214" km="42.1" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu jest niewielka łąka, a 50m w głębi lasu, na wyższej terasie jest polanka i wiata. Dobicie jest nienajlepsze, do niewielkiej, ale stromej skarpy.</opispunktu> 
+    </punkt>
+    <punkt id="3757" miejscowosc="" 
+      ns="54.239775" we="24.539697" km="43.6" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu jest oznaczone dobicie do obozowiska firmy Juostandis. Samo obozowisko jest ok. 250m w głębi lasku [niezbyt dogodnie].</opispunktu> 
+    </punkt>
+    <punkt id="3756" miejscowosc="" 
+      ns="0" we="0" km="44.9" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oznaczone obozowisko w Oranach tuż poniżej mostku na prawym brzegu (2011r. - w remoncie).</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Mniejszy most (kładka betonowa) - 200m poniżej głównego mostu, nadal w Oranach.</opispunktu> 
+    </punkt>
+    <punkt id="3755" miejscowosc="" 
+      ns="54.245515" we="24.553205" km="45.1" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklepy są na prawym brzegu 300m od mostu, we wsi Senoji Varena [Stare Orany].
+Miasto Varena [Orany] z marketami jest 4km szosą na południe.</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Rzeka Varena - ujście z prawego brzegu, dobrze widoczne,  tuż przed mostem. [szlak kajakowy]</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most szosy 127 w Oranach. Pod mostem na prawym brzegu jest dobre dobicie, wykorzystywane przez spływy zorganizowane.</opispunktu> 
+    </punkt>
+    <punkt id="3754" miejscowosc="Senoji Varena [Stare Orany]" 
+      ns="54.247091" we="24.569245" km="47.1" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na przeciw ujścia miało być miejsce biwakowe. Obecnie są dacze.</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Struga Beržupis - ujście z lewego brzegu, słabo widoczne.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="448" typ="rzeka" nazwa="Smolnik - Orany" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Krótki (4km) odcinek przełomowy rzeki - szybszy nurt, głazy narzutowe w nurcie, trochę zwalonych drzew.</opis>
+    <punkt id="3753" miejscowosc="" 
+      ns="54.260945" we="24.576296" km="49.6" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej przyczółka koniec odcinka przełomowego rzeki</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Murowany przyczółek nieistniejącego mostu kolejowego - widoczny na prawym brzegu.</opispunktu> 
+    </punkt>
+    <punkt id="3752" miejscowosc="" 
+      ns="54.264024" we="24.58461" km="50.6" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym, wysokim brzegu w lesie widać oznaczone obozowisko firmy Upiu Labirintas [Labirynt Rzeki]. Warunki (ceny) biwakowania nieznane.</opispunktu> 
+    </punkt>
+    <punkt id="3751" miejscowosc="Smalninkai [Smolniki]" 
+      ns="54.277608" we="24.588646" km="51.6" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Skarpa prawego brzegu jest umocniona łukami z głazów. Na górze widać przjeżdżające auta szosą A4.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej umocnonej skarpy mamy ok. 4 km odcinka przełomowego - są bystrza, podwodne głazy, trochę drzewiastych przeszkód.  Bardzo interesująco, nietrudno.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="447" typ="rzeka" nazwa="Olkieniki - Smolniki" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Poniżej miasteczka Olkieniki Mereczanka płynie spokojnie przez lasy. W nurcie zdarzają się pojedyncze drzewa, niekiedy przegradzające całe koryto. Są ładne miejsca biwakowe, niektóre przygotowane -  z miejscem na ognisko, ławami. Są też pola namiotowe firm kajakowych i agroturystyczne. Sklepy są na początku w Olkienikach i po drodze w Pomereczu.</opis>
+    <punkt id="3750" miejscowosc="Smalninkai [Smolniki]" 
+      ns="54.286611" we="24.611108" km="54.6" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka wisząca.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Dobicie z pomostem na lewym brzegu - około 500m poniżej kładki. Jest tu prymitywna bania, ława. Z brzegu widać w oddali pola i zabudowania przysiółka Smolniki.</opispunktu> 
+    </punkt>
+    <punkt id="3749" miejscowosc="" 
+      ns="54.290769" we="24.629528" km="56.6" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe - z elementami obozowiska - na prawym brzegu, na piaszczysto - trawiastej, wysokiej skarpie.</opispunktu> 
+    </punkt>
+    <punkt id="3748" miejscowosc="Maskauka [Moskówka]" 
+      ns="54.306656" we="24.632204" km="59.9" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W Moskówce na prawym brzegu jest kilka miejsc dobicia, ale jest to teren prywatny. Jedna z tablic głosi, że jest to:  "Teren psa bez uwięzi" (oczywiście po litewsku!).</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu widać dacze. Poniżej zaczyna się oznaczony rezerwat geologiczny - geologinis draustinis. Powinny być ciekawe odsłonięcia w skarpach Mereczanki, ale skarpy zarosły i obecnie nic nie widać.</opispunktu> 
+    </punkt>
+    <punkt id="3747" miejscowosc="Moliai [Maluki]" 
+      ns="54.30605" we="24.659017" km="63.8" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe bardzo ładne - na prawym, wyższym brzegu pod lasem - około 300m poniżej zabudowań wsi Moliai, znajdujących się na lewym brzegu.</opispunktu> 
+    </punkt>
+    <punkt id="3746" miejscowosc="Barteliai [Bartele]" 
+      ns="54.311088" we="24.668606" km="65.1" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych, wisząca.</opispunktu> 
+    </punkt>
+    <punkt id="3745" miejscowosc="Biekšios [Bieksze]" 
+      ns="54.309978" we="24.697544" km="68.7" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe - jest 300m poniżej mostu kolejowego w Pomereczu, na łąkach prawego brzegu (nienajlepsze), w pobliżu zabudowań wsi.</opispunktu> 
+    </punkt>
+    <punkt id="3744" miejscowosc="Pamerkiai [Pomerecz]" 
+      ns="54.309501" we="24.70342" km="69.1" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy na trasie Wilno - Grodno.</opispunktu> 
+    </punkt>
+    <punkt id="3743" miejscowosc="Pamerkiai [Pomerecz]" 
+      ns="54.310382" we="24.71692" km="70.1" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka wisząca - duża, na metalowych masztach. Główna  część zabudowań Pomerecza jest na prawym brzegu, ale głównie są to dacze.
+</opispunktu> 
+    </punkt>
+    <punkt id="3742" miejscowosc="" 
+      ns="54.311567" we="24.77175" km="76.1" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ rzeki Verseka z lewego brzegu, dobrze widoczny [szlak kajakowy - trudny].</opispunktu> 
+    </punkt>
+    <punkt id="3741" miejscowosc="Kukiszki" 
+      ns="54.317158" we="24.774253" km="77.1" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oznaczone obozowiska firm kajakowych i agroturystycznych pojawiają się na obydwu brzegach. Aby zabiwakować, należy zatelefonować. Niektóre mogą mieć wysoki standard i równie wysokie ceny.</opispunktu> 
+    </punkt>
+    <punkt id="3740" miejscowosc="Kukiškes [Kukiszki]" 
+      ns="54.323944" we="24.787567" km="80.1" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek drewniany (okresowy?).</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na prawym brzegu 50m poniżej mostku - pole biwakowe na polanie z wiatą, bez wygód sanitarnych. Miejsce oznaczone jest jako Kukiškiu Pieva [Kukiszecka Łąka].</opispunktu> 
+    </punkt>
+    <punkt id="3739" miejscowosc="" 
+      ns="54.332348" we="24.789016" km="80.6" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Struga Spengla - z prawego brzegu, dopływ słabo widoczny.</opispunktu> 
+    </punkt>
+    <punkt id="3738" miejscowosc="Olkieniki" 
+      ns="54.345393" we="24.832224" km="86.6" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Šalčia [Solcza] dopływ z lewego brzegu [szlak kajakowy]</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe - obozowisko piknikowe - z daleka widoczne na lewym brzegu, na płaskim pagórku z sosnami, około 150m poniżej ujścia Solczy. Bardzo ładne, ale oznaczone jest jako "Privati Valda"; dokładny status nieznany. Następne miejsca biwakowe są nieco niżej na prawym brzegu, też piknikowe.</opispunktu> 
+    </punkt>
+    <punkt id="3737" miejscowosc="Valkininkai [Olkieniki]" 
+      ns="54.346187" we="24.825668" km="87.2" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Z biwaku do sklepu w Užuperkasis (południowa część Olkienik) jest 1.5km ładną drogą przez lasek.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Dobre miejsce biwakowe na lewym brzegu. Niezłe piaszczyste dobicie, duża polana z nadbrzeżnymi drzewami, bez dojazdu. Spokojne miejsce poniżej zabudowań Olkienik.
+</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

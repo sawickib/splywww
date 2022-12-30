@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="83" nazwa="Sapina" wersja="2">
+<opis>Wg Wikipedii: rzeka w województwie warmińsko-mazurskim, w zlewni rzeki Węgorapy. Sapina ma długość 36,5 km, szerokość do 20 m, głębokość do 1 m. Rzeka ma swój początek w okolicach wsi Spytkowo i łączy następujące jeziora: Jezioro Kruklin, Jezioro Gołdopiwo, Jezioro Wilkus (z jego odnogą Jeziorem Brzoś), Jezioro Pozezdrze, Jezioro Stręgiel i wpada do Jez Święcajty. 
+Na rzece wybudowana została w 1910 Śluza Przerwanki (obok wsi Przerwanki). Jej zadaniem było spiętrzanie wody na Jez. Gołdopiwo, tak aby powstał rezerwuar wodny na potrzeby Kanału Mazurskiego. Śluza ma długość ma 25 m długości i 4 m szerokości. Śluza spiętrza wodę na wysokość 1 m.
+Ciekawa i urozmaicona rzeka. Przepływa przez łąki i pola ale także przez lasy. Łączy ze sobą kilka jezior. Prowadzi czystą wodę, pełną ryb i wodnego życia. Doskonale nadaje się na jednodniowy spływ. Długość szlaku to około 30km, a dzięki dostępności na różnych odcinkach możliwa jest dowolna modyfikacja spływu. Szlak jest wolny od przeszkód, posiada jedną ewentualną przenoskę na śluzie Prerwanki.</opis> 
+  <odcinek id="342" typ="mieszany" nazwa="Sapina" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Cały opisany odcinek rzeki jest urozmaicony pod względem zarówno krajobrazowym jak i pod względem"czym płyniemy". Są lasy, pola i łąki, jest płasko i pagórkowato, jest rzeka i są mniejsze lub większe jeziora, jest śluza... Jest czysta woda zachęcająca do kąpieli z bogatym życiem podwodnym, niestety są też narzędzia kłusownicze, które miejscami trochę przeszkadzają w wiosłowaniu... Po naszym spływie jednak jest ich już w Sapinie o kilka sztuk mniej...</opis>
+    <punkt id="2854" miejscowosc="Ogonki" 
+      ns="54.177551" we="21.812493" km="0" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1">Wypożyczalnia sprzętu wodnego</opispunktu> 
+    <opispunktu typ="stanica" kolejnosc="-1">Stanica wodna</opispunktu> 
+    </punkt>
+    <punkt id="2853" miejscowosc="Ogonki" 
+      ns="54.183409" we="21.806839" km="0.82" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Święcajty</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="2852" miejscowosc="Stręgiel" 
+      ns="54.180056" we="21.841031" km="3.23" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Stręgiel</opispunktu> 
+    </punkt>
+    <punkt id="2851" miejscowosc="Stręgielek" 
+      ns="54.169043" we="21.856756" km="5.19" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek drewniany w lesie, przyjemne miejsce na odpoczynek i dziki biwak</opispunktu> 
+    </punkt>
+    <punkt id="2850" miejscowosc="Pozezdrze" 
+      ns="54.15096" we="21.877125" km="8.51" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="2849" miejscowosc="Pozezdrze" 
+      ns="54.149642" we="21.881382" km="8.86" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Pozezdrze</opispunktu> 
+    </punkt>
+    <punkt id="2848" miejscowosc="Pozezdrze" 
+      ns="54.139835" we="21.899176" km="10.53" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Pozezdrze</opispunktu> 
+    </punkt>
+    <punkt id="2847" miejscowosc="Przytuły" 
+      ns="54.153639" we="21.903711" km="12.47" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Brząs</opispunktu> 
+    </punkt>
+    <punkt id="2846" miejscowosc="Przytuły" 
+      ns="54.154295" we="21.91668" km="13.32" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Przepływ na jezioro Brząs</opispunktu> 
+    </punkt>
+    <punkt id="2845" miejscowosc="Wilkus" 
+      ns="54.139851" we="21.92316" km="15.66" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Wilkus</opispunktu> 
+    </punkt>
+    <punkt id="2844" miejscowosc="Przerwanki" 
+      ns="54.131081" we="21.93207" km="17.29" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Spiętrzenie na końcu jeziora Gołdopiwo śluzą Przerwanki. Wygodne miejsce wodowania. 
+Wg informacji otrzymanych w dniu 07.03.2011 r. od: Adamus; "Śluza w Przerwankach jest czynna w sezonie można się swobodnie śluzować (Śluzowy mieszka w domku jakieś 150 metrów od śluzy).</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem 100m</opispunktu> 
+    </punkt>
+    <punkt id="2843" miejscowosc="Kruklanki" 
+      ns="54.101586" we="21.927194" km="21" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe nad jeziorem Gołdopiwo. Wygodne miejsce wodowania.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

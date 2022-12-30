@@ -1,0 +1,125 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.57893100" lon="22.29344200">
+<name>0.00</name>
+<desc>Wieś gminna bardzo dobrze zaopatrzona.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="52.59244200" lon="22.29838600">
+<name>1.80</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.59539900" lon="22.31026400">
+<name>2.60</name>
+<desc>Przepust na końcu wsi</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>dwa niskie mostki - wjazdy na pola.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.59664300" lon="22.31473500">
+<name>3.00</name>
+<desc>Doły - Most drogowy (2 betonowe rury obniżające się z nurtem). </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.60573100" lon="22.32545100">
+<name>4.30</name>
+<desc>Rzeka rozdwajaja :) się w lewo więcej wody</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.60356000" lon="22.33236000">
+<name>3.80</name>
+<desc>Most Drogowy na trasie Sterdyń - Białobrzegi, ok. 2km za wsią Chądzyń. Miejsce alternatywnego rozpoczęcia spływu.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.60573100" lon="22.32545100">
+<name>4.30</name>
+<desc></desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.60573100" lon="22.32545100">
+<name>4.30</name>
+<desc></desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.61061500" lon="22.31086400">
+<name>5.40</name>
+<desc>Niski mostek polny.  Za nim wpływamy do puszczy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.61797500" lon="22.28808200">
+<name>7.20</name>
+<desc>jaz, a właściwie przepust.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.62285400" lon="22.27323000">
+<name>8.30</name>
+<desc>Niski mostek na polnej drodze.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.63216000" lon="22.26309200">
+<name>9.60</name>
+<desc>Niski metalowy mostek na polnej drodze.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.63782100" lon="22.25680200">
+<name>10.20</name>
+<desc>Koniec Kanłu. Dalej płyniemy już meandrującą rzeką.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.64275000" lon="22.24220500">
+<name>11.60</name>
+<desc>Most drogowy - w lewo Ceranów 2km. w prawo Nur 6km.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.66178400" lon="22.21153500">
+<name>15.40</name>
+<desc>Mostek na pola.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.66787600" lon="22.20577900">
+<name>16.30</name>
+<desc>Most drogowy - Wólka Rytelska. Możliwość zakończenia spływu.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>16.30</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.67589000" lon="22.19548100">
+<name>17.50</name>
+<desc>Linia wysokiego napięcia.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.68702300" lon="22.18894400">
+<name>18.90</name>
+<desc>Ostry zakręt w lewo - rzeka zmienia kierunek płynięcia na zachodni. Rozpoczynają się zarośnięte rozlewiska.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.69131000" lon="22.17223700">
+<name>20.40</name>
+<desc>Most drogowy - Rytele Rybaki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.69078400" lon="22.16570700">
+<name>20.90</name>
+<desc>Ujście do Buga</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.70321000" lon="22.15953500">
+<name>22.50</name>
+<desc>Gąsiorowo - koniec spływu.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+
+</gpx>

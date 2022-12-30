@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="169" nazwa="Ukleja" wersja="1">
+<opis>Lewy dopływ Regi, płynący w całości wzdłuż zachodniej granicy powiatu łobeskiego. Obszar źródliskowy rzeki znajduje się w północnej części Ińskiego Parku Krajobrazowego, natomiast do Regi uchodzi na wysokości jeziora Lisowskiego, pomiędzy Reskiem a Płotami. Niewielka rzeka prowadząca czystą wodę, urozmaicona krajobrazowo, dla kajaków dostępna od jeziora Woświn. Zasadniczo płynie w dość głębokiej, początkowo szerokiej, stopniowe zwężającej się, zalesionej dolinie. Jedynie miejscami i na krótko wypływa na obszary bezleśne. Pomimo, że przepływa przez spore jeziora, jej przeciętny spadek wynosi 1,2 promila. W miejscach przebijania się przez utwory polodowcowe przyspiesza, a w korycie pojawiają się głazy i żwirowe przemiały. Na trasie spływu zalega też sporo przewróconych drzew, a dodając do tego obowiązkowe przenoski przy jazach elektrowni wodnych, należy przyznać, że miejscami rzeka jest stosunkowo trudna i uciążliwa.
+Na Uklei nie ma wodowskazów, wskazania których można śledzić w internecie. Jedyny czytelny wodowskaz znajduje się na dolnej wodzie jazu pierwszej hydroelektrowni w Troszczynie. Poziom 50.50 oznacza bardzo dobrą wodę, na pewno od Zwierzynka, a być może i wyżej. Przepławki i większość zwałek pokonuje się w tych warunkach górą, a odcinek ze Zwierzynka do Troszczyna zajmuje około 6h. Dla porównania, w tym samym czasie najbliższy wodowskaz na Redze w Resku wskazywał poziom 386.
+Dla odmiany, przy wskazaniach wodowskazu w Troszczynie poziomu 50.10, jako tako płynie się od Mieszewa. Powyżej mostu w Mieszewie wody jest już zbyt mało na komfortowe pływanie, nawet krótkim kajakiem. W tych warunkach odcinek ze Zwierzynka do Rogowa zajął około 5,5h, a z Troszczyna do Taczał 4,5h niespiesznego spływu. W tym samym czasie wodowskaz Resko na Redze wskazywał poziom 300.</opis> 
+    <punkt id="5527" miejscowosc="Zwierzynek" 
+      ns="53.58362631" we="15.39765098" km="33.7" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce rozpoczynania etapu powyżej mostu, na trawiastym brzegu. Zaraz za mostem kamienny prożek, a poniżej sporo kamieni również w nurcie</opispunktu> 
+    </punkt>
+    <punkt id="5528" miejscowosc="Zwierzynek" 
+      ns="53.58642074" we="15.39275914" km="33.2" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most - przepust dwu rurowy na drodze do pobliskiego gospodarstwa. Za mostem przepławka dla ryb o skomplikowanym przebiegu, z kamieni i drewnianych palików. Poniżej odcinek zwałkowy, miejscami płytko ale bez kamieni</opispunktu> 
+    </punkt>
+    <punkt id="5529" miejscowosc="Mieszewo" 
+      ns="53.59291355" we="15.38854064" km="32" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most nieczynnej lini kolejowej, pod nim bobrowa tama piętrząca wodę na około 1 m</opispunktu> 
+    </punkt>
+    <punkt id="5530" miejscowosc="Mieszewo" 
+      ns="53.59724191" we="15.3880354" km="31.3" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most z rurowym przepustem stanowiącym element przepławki dla ryb. W przypadku niskiej wody szersze kajaki nie mieszczą się w poszczególnych oknach przepławki i należy ustawiać je w sporym przechyle. Przy wysokim stanie bez problemu przepływa się nad przepławką</opispunktu> 
+    </punkt>
+    <punkt id="5531" miejscowosc="Mieszewo" 
+      ns="53.59947503" we="15.38880349" km="30.8" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska drewniana kładka. Poniżej odcinek zwałkowy</opispunktu> 
+    </punkt>
+    <punkt id="5532" miejscowosc="Mieszewo " 
+      ns="53.60151955" we="15.38770383" km="30.4" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze, przed nim po lewej stronie zniszczony i nieczytelny wodowskaz. Tuż za mostem niewielkie bystrze. Poniżej odcinek zwałkowy</opispunktu> 
+    </punkt>
+    <punkt id="5533" miejscowosc="Mieszewo " 
+      ns="53.60879603" we="15.37587201" km="28.5" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Siatka kłusownicza postawiona w poprzek rzeki</opispunktu> 
+    </punkt>
+    <punkt id="5534" miejscowosc="Mieszewo " 
+      ns="53.61075016" we="15.37436788" km="27.9" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Spora tama bobrowa</opispunktu> 
+    </punkt>
+    <punkt id="5535" miejscowosc="Rogowo " 
+      ns="53.61644952" we="15.36417666" km="25.8" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Zarośnięty trzcinami wypływ na jezioro Okrzeja</opispunktu> 
+    </punkt>
+    <punkt id="5536" miejscowosc="Rogowo " 
+      ns="53.61996539" we="15.36944578" km="25.1" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Okrzeja, po lewej stronie wygodne miejsce na postój. Kraniec jeziora jest zarośnięty trzcinami, a sam wypływ niewidoczny z daleka i nieoczywisty. Na końcu jeziora należy trzymać się lewego brzegu i płynąć wzdłuż niego przez trzcinowiska, aż do osiągnięcia szerokiego i wolnego od trzcin wypływu. Dalej fragment rzeki szerokiej i głębszej ale z czasem zwęża się i nieco przyspiesza. Poniżej pojedyncze zwałki, a przed zaporą również głazy w korycie. Pomiędzy jeziorem a zaporą dno jest mocno zamulone</opispunktu> 
+    </punkt>
+    <punkt id="5537" miejscowosc="Rogowo" 
+      ns="53.63428593" we="15.36273233" km="22.7" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz nieczynnego młyna z przepławką dla ryb. Przenoska prawym brzegiem po trawie 80 m. Wygodne miejsce na zakończenie etapu, lekko wznoszącą się trawiastą drogą po chwili marszu osiąga się drogę asfaltową</opispunktu> 
+    </punkt>
+    <punkt id="5538" miejscowosc="Rogowo" 
+      ns="53.63493193" we="15.36141677" km="22.6" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="5539" miejscowosc="Sienno Dolne " 
+      ns="53.65373159" we="15.34472258" km="19.8" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Dobrzenicy z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="5540" miejscowosc="Sienno Dolne " 
+      ns="53.6592653" we="15.34615937" km="19.1" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy</opispunktu> 
+    </punkt>
+    <punkt id="5541" miejscowosc="Troszczyno" 
+      ns="53.67714734" we="15.31074368" km="14.2" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz hydroelektrowni. Przenoska prawym brzegiem po trawie. Teren jest ogrodzony ale gospodarze z pobliskiego domu nie wykazali zainteresowania widokiem kajaków. Na filarze jazu, na dolnej wodzie znajduje się jedyny czytelny wodowskaz na całej Uklei. Poziom 50.10 oznacza wystarczająco dobre pływanie od Mieszewa w dół. Powyżej, w Zwierzynku drze się po kamieniach i osiada na przemiałach. Wskazania 50.50 oznacza bardzo dobrą wodę, większość przeszkód pokonuje się w pojedynkę a przepławki przepływa górą</opispunktu> 
+    </punkt>
+    <punkt id="5542" miejscowosc="Troszczyno" 
+      ns="53.67764665" we="15.31124925" km="14.1" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 147. Wygodny start do etapu, chociaż droga w okolicy mostu jest wąska, bez pobocza i na szerokim łuku</opispunktu> 
+    </punkt>
+    <punkt id="5543" miejscowosc="Troszczyno" 
+      ns="53.68424097" we="15.3068367" km="13.2" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Rozlewisko i jaz hydroelektrowni. Przenoska lewym brzegiem przez pomost i prywatny ogródek. Wodowanie z wysokiej i stromej skarpy. Poniżej odcinek zwałkowy z kamieniami w nurcie</opispunktu> 
+    </punkt>
+    <punkt id="5544" miejscowosc="Mołdawin " 
+      ns="53.69826307" we="15.31500768" km="10.7" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Gostominki z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="5545" miejscowosc="Miłogoszcz" 
+      ns="53.71595108" we="15.29996845" km="7.5" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Budynek nieczynnej hydroelektrowni. Obiekt jest remontowany, woda spuszczona, zastawka otwarta, a koryto powyżej pogłębiane. Przenoska prawym brzegiem przez błoto pozostałe po spuszczonej wodzie. Pomimo widocznego z daleka sporego prześwitu na otwartej zastawce, odradzam przepływanie pod budynkiem. Po drugiej stronie znajduje się prożek z dużymi kamieniami w nurcie</opispunktu> 
+    </punkt>
+    <punkt id="5546" miejscowosc="Miłogoszcz" 
+      ns="53.71686673" we="15.2991694" km="7.4" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, za nim po lewej stronie zniszczony i słabo czytelny wodowskaz. Poniżej odcinek zwałkowy</opispunktu> 
+    </punkt>
+    <punkt id="5547" miejscowosc="Taczały " 
+      ns="53.73367936" we="15.27371074" km="4.1" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Użytek ekologiczny Uroczysko Taczały, odcinek zwałkowy, z lewej strony ujście Łosośnicy. Poniżej rzeka wypływa na nieco bardziej otwarty teren, zwęża się i przyspiesza płynąc trzcinowo trawiastym korytem</opispunktu> 
+    </punkt>
+    <punkt id="5548" miejscowosc="Taczały" 
+      ns="53.74305282" we="15.26513242" km="2.1" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. W praktyce, ostatnie wygodne miejsce na zakończenie etapu. W pobliżu dużo miejsca na samochody</opispunktu> 
+    </punkt>
+    <punkt id="5549" miejscowosc="Taczały" 
+      ns="53.74348069" we="15.26417612" km="2" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście Sąpolnej</opispunktu> 
+    </punkt>
+    <punkt id="5550" miejscowosc="Taczały " 
+      ns="53.74380634" we="15.2642482" km="1.9" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5551" miejscowosc="Taczały " 
+      ns="53.7534422" we="15.2710367" km="0" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Uklei do Regi, które stanowi rozległą zatokę zaporowego jeziora Lisowskiego</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

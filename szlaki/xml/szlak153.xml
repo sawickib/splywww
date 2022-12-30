@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="153" nazwa="Drwęca Warmińska (dopływ Pasłęki)" wersja="1">
+<opis>Prawy dopływ Pasłęki biorący początek na Wzniesieniach Górowskich. Malowniczo wije się pośród łąk i lasów porastających szeroką dolinę, przebijając się przez pagórki utworów polodowcowych. Uchodzi do Pasłęki w okolicy 70 km jej biegu. Z wyjątkiem miasta Orneta, na całym biegu trudno o dostęp do cywilizacji, spływ tą rzeką polecany jest osobom lubiącym ciszę, spokój i dzikość przyrody.
+Dolny odcinek rzeki z racji tego, że dotyka do rezerwatu utworzonego w dolinie Pasłęki, objęty jest również pewnymi ograniczeniami i na spływ wymagane jest pozwolenie Regionalnego Dyrektora Ochrony Środowiska w Olsztynie. Dla dobra całego środowiska kajakarzy polecam przed spływem uzyskanie takiej zgody z RDOŚ, tym bardziej, że wszystkie formalności można załatwić poprzez internet, bez konieczności przyjazdu do Olsztyna. Odcinek z Kaszun do Ornety zajął około 6h (dwie jedynki) a do ujścia do Pasłęki dalsze 2h. Wodowskaz Krosno wskazywał wówczas poziom 186 co gwarantuje bardzo dobrą wodę, conajmniej od Kaszun.</opis> 
+    <punkt id="5012" miejscowosc="Kaszuny" 
+      ns="54.14822238" we="20.33375365" km="37.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na gruntowej drodze publicznej. Obok pobliskiej kapliczki nieco miejsca na zaparkowanie samochodu. Wygodne miejsce wodowania. Poniżej odcinek odkrytego terenu z kilkoma drzewami w korycie. Woda płynie spokojnie, mocno meandrując pośród wysokich traw</opispunktu> 
+    </punkt>
+    <punkt id="5013" miejscowosc="Mingajny" 
+      ns="54.15311904" we="20.28942728" km="31.9" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Nieliczne formy cywilizacji - na prawym brzegu dom na wysokiej skarpie</opispunktu> 
+    </punkt>
+    <punkt id="5014" miejscowosc="Mingajny" 
+      ns="54.15167958" we="20.28510573" km="31.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze, zaraz za nim pozostałości zastawki w postaci betonowych przyczółków. Rzeka od pewnego czasu płynie przez tereny leśne w dalszym ciągu intensywnie meadrując. W korycie coraz częściej spotyka się powalone drzewa</opispunktu> 
+    </punkt>
+    <punkt id="5015" miejscowosc="Mingajny" 
+      ns="54.15066163" we="20.27370772" km="29.8" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze, zaraz za nim rzeka charakterystycznym zakolem omija gospodarstwo położone nisko w dolinie, tuż przy rzece</opispunktu> 
+    </punkt>
+    <punkt id="5016" miejscowosc="Mingajny" 
+      ns="54.1419734" we="20.23235927" km="23.7" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki, sklepiony, dwu przęsłowy most na ruchliwej drodze nr 513. Wygodne wodowanie ze schodkami na skarpie z drogi do wody, jednak wąska jezdnia na wysokiej skarpie praktycznie uniemożliwia bezpieczne zrzucenie (pobranie) sprzętu w bezpośrednim sąsiedztwie mostu. Poniżej odcinek leśny z nielicznymi zwałkami</opispunktu> 
+    </punkt>
+    <punkt id="5017" miejscowosc="Bludyny" 
+      ns="54.13317246" we="20.19783046" km="18.7" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5018" miejscowosc="Krosno" 
+      ns="54.13075559" we="20.17279164" km="15.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most - kładka przy bardzo ładnym architektonicznie i monumentalnie wyglądającym Sanktuarium Nawiedzenia Najświętszej Marii Panny. Zaraz za mostem nad wodą rura przerzucona pomiędzy brzegami a pomiędzy nimi wodowskaz, wskazania którego można obserwować w serwisie pogodowym IMGW.</opispunktu> 
+    </punkt>
+    <punkt id="5019" miejscowosc="Krosno" 
+      ns="54.13062053" we="20.16933251" km="15.5" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pod nim niewielkie bystrze</opispunktu> 
+    </punkt>
+    <punkt id="5020" miejscowosc="Orneta" 
+      ns="54.12413315" we="20.1490351" km="13" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="5021" miejscowosc="Orneta" 
+      ns="54.12375857" we="20.14704845" km="12.9" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niewielki prożek w pobliżu gospodarstwa</opispunktu> 
+    </punkt>
+    <punkt id="5022" miejscowosc="Orneta" 
+      ns="54.11847719" we="20.13494774" km="11" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka i schodki w lewo na wysoką skarpę. Wygodne wyjście i dostęp do wody w pobliżu centrum Ornety, przy ul. Mickiewicza</opispunktu> 
+    </punkt>
+    <punkt id="5023" miejscowosc="Orneta" 
+      ns="54.11671315" we="20.1286809" km="10.2" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most przy ul. Mostowej, przed nim stary wodowskaz wskazujący w dniu spływu poziom 246. Dostęp do wody jest tu niewygodny i niepolecany ze względu na konieczność przenoski kilkaset metrów niżej</opispunktu> 
+    </punkt>
+    <punkt id="5024" miejscowosc="Orneta" 
+      ns="54.11401545" we="20.12580201" km="9.9" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, pod nim jaz małej elektrowni wodnej. Niewygodna i długa przenoska prawą stroną przez ruchliwą drogę. Niewygodne wodowanie z wysokiej skarpy obłożonej kamieniami. Poniżej jazu na lewym brzegu znajduje się budynek mieszkalny, w którym siedzibę ma firma organizująca spływy kajakowe, być może udostępnia ona przejście przez swoją posesję, wtedy dostęp do wody jest znacznie wygodniejszy a przenoska krótsza</opispunktu> 
+    </punkt>
+    <punkt id="5025" miejscowosc="Orneta" 
+      ns="54.11017998" we="20.11612207" km="9" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drewniany</opispunktu> 
+    </punkt>
+    <punkt id="5026" miejscowosc="Orneta" 
+      ns="54.10997155" we="20.11540565" km="8.9" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz małej elektrowni wodnej. Krótka wygodna przenoska prawym brzegiem po trawie. Poniżej tego miejsca spływ oficjalnie możliwy jest wyłącznie za zgodą Regionalnego Dyrektora Ochrony Środowiska w Olsztynie, który zgodę taką wydaje w formie decyzji administracyjnej. Najniższy odcinek Drwęcy meadruje bowiem już w szerokiej dolinie Pasłęki, która to na znacznej większości swego biegu objęta jest ochroną rezerwatową. W zależności od terminu spływu nie ma większych przeszkód na wydanie przez RDOŚ takiej zgody, a wszystkie formalności załatwia się przez internet</opispunktu> 
+    </punkt>
+    <punkt id="5027" miejscowosc="Drwęczno" 
+      ns="54.10446044" we="20.08971622" km="5.8" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="5028" miejscowosc="Drwęczno" 
+      ns="54.10012734" we="20.06513208" km="3" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany rozpadający się mostek pośród pól i łąk</opispunktu> 
+    </punkt>
+    <punkt id="5029" miejscowosc="Drwęczno" 
+      ns="54.0970788" we="20.04386149" km="0" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Drwęcy Warmińskiej do Pasłęki</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="6" nazwa="Drawa" wersja="13">
+<opis>Drawa to jeden z najciekawszych szlaków kajakowych w Polsce. Przez ponad 180 km rzeka jest bardzo urozmaicona, płynie przez duże i małe jeziora, leniwie wije się między polami, a czasami przyspiesza do odcinków o charakterze górskim. Z atrakcji nie można pominąć Drawieńskiego 
+Parku Narodowego, czy największego w Europie poligonu wojskowego. Szlak nosi imię Papieża Jana Pawła II, który w młodości spływał go kilkukrotnie.  </opis> 
+  <odcinek id="46" typ="rzeka" nazwa="Drawa od Starego Osieczna do Krzyża" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="11"> 
+  <opis>Rzeka płynie wolniej i jest juz na tyle szeroka, że pojedyńcze drzewo nie stanowi przeszkody. Płynie się przyjemnie i szybko.</opis>
+    <punkt id="4630" miejscowosc="Dębina" 
+      ns="52.94597824" we="15.97006341" km="13.8" etykieta="" 
+      kolejnosc="108"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Leśnictwo Dębina, oznakowana agroturystyka po lewej</opispunktu> 
+    </punkt>
+    <punkt id="4629" miejscowosc="Hutnik" 
+      ns="52.95349153" we="15.96476563" km="15.1" etykieta="" 
+      kolejnosc="107"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oznakowane pole biwakowe po prawej</opispunktu> 
+    </punkt>
+    <punkt id="393" miejscowosc="Łęczyn" 
+      ns="52.97168529" we="15.94607492" km="19.2" etykieta="" 
+      kolejnosc="106"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście Mierzęckiej Strugi do Drawy</opispunktu> 
+    </punkt>
+    <punkt id="392" miejscowosc="Czarnolesie" 
+      ns="52.9898715" we="15.9527278" km="23" etykieta="" 
+      kolejnosc="105"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Łąka na prawym brzegu, nadaje się do biwakowania, ale niestety możliwy dojazd samochodem.
+Uwaga! biegające zdziczałe 2 konie, 2 krowy i owca. My też nie chcieliśmy w to uwierzyć, ale po wieczornym spotkaniu na noc wykonaliśmy wokół namiotów barykady ze ściętych drzewek</opispunktu> 
+    </punkt>
+    <punkt id="5634" miejscowosc="Międzybór" 
+      ns="53.15036231" we="15.86842669" km="52.2" etykieta="" 
+      kolejnosc="91"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony do Drawy uchodzi rzeka Słopica</opispunktu> 
+    </punkt>
+    <punkt id="5633" miejscowosc="Barnimie" 
+      ns="53.15524066" we="15.80757681" km="59.8" etykieta="" 
+      kolejnosc="89"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak "Barnimie" na terenie starej bindugi (wszystkie biwaki w DPN są zlokalizowane w miejscach starych bindug ) ok. 4 km za mostem w Barnimiu położony na prawym, wysokim, zarośniętym brzegu. W sezonie należy odradzać wyprawy podczas weekendów: wulgarne, pijane towarzystwo "bawiące" się do wczesnych godzin porannych (!). Mimo opłaty, nadzoru pracowników DPN nie należy oczekiwać</opispunktu> 
+    </punkt>
+    <punkt id="5632" miejscowosc="Barnimie" 
+      ns="53.1684216" we="15.7933793" km="61.9" etykieta="" 
+      kolejnosc="88"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Betonowe ruiny budowli hydrotechnicznej</opispunktu> 
+    </punkt>
+    <punkt id="5631" miejscowosc="Mielenko Drawskie" 
+      ns="53.49572606" we="15.80996979" km="129.3" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3485" miejscowosc="Drawsko Pomorskie" 
+      ns="53.52565981" we="15.80319064" km="137.3" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="biwak" kolejnosc="-1">JĘDRKOWA PRZYSTAŃ. Znajduje się za ostatnim mostem w Drawsku na wysokości szkoły zawodowej, na końcu miasta na lewym brzegu rzeki. Teren ogrodzony balustradą z żerdzi, posiada dwa niezależne wyjścia z wody po łagodnym brzegu i podzielony jest na dwie części - pole namiotowe i część przeznaczoną na ogniska. Na części przeznaczonej pod pole
+namiotowe znajduje się miejsce ogniskowe z ławami i stołami na 40 osób, natomiast część przeznaczona na ogniska wyposażona jest w palenisko z ławami i stołami dla 100 osób.Ponadto pole wyposażone jest w sanitariat przenośny typu TOy-TOY oraz pojemniki do sortowania odpadów. Położone jest przy ul.Staszica w odległości 100 m od drogi asfaltowej.  Po drugiej stronie rzeki w odległości ok 300 m znajduje się sklep Lewiatan, kawałek dalej bar. Pole namiotowe o powierzchni 20 ar zapewnia dużą swobodę biwakowania. </opispunktu> 
+    </punkt>
+    <punkt id="5630" miejscowosc="Drawsko Pomorskie" 
+      ns="53.52705308" we="15.81081781" km="138" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek - kładka</opispunktu> 
+    </punkt>
+    <punkt id="5629" miejscowosc="Drawsko Pomorskie" 
+      ns="0" we="0" km="138.5" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="5628" miejscowosc="Drawsko Pomorskie" 
+      ns="53.53012091" we="15.81319957" km="138.6" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="5627" miejscowosc="Drawsko Pomorskie" 
+      ns="53.53031991" we="15.81438418" km="138.7" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="5626" miejscowosc="Rzepowo" 
+      ns="53.58972816" we="16.08164195" km="172.2" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście rzeczki Miedznik</opispunktu> 
+    </punkt>
+    <punkt id="3192" miejscowosc="Piaseczno" 
+      ns="53.58961301" we="16.13210141" km="176.6" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak nad j. Drawsko. Dobre dojście do wody, miejsce na ognisko, ale trochę nierówna łąka. Ogólnie duże i fajne, a dodatkowo nie znalazł się właściciel.</opispunktu> 
+    </punkt>
+    <punkt id="394" miejscowosc="Przedborowo" 
+      ns="52.92526063" we="15.97526927" km="10.5" etykieta="" 
+      kolejnosc="109"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Dwa pola namiotowe. Oba na prawym brzegu. Pierwsze utrzymywane przez strażaków (ładniej położone, ze stołami), pobierają niewielkie opłaty, ale drewno trzeba sobie samemu zorganizować (przyciągnąć z okolicznego lasu). Po drodze (po drewno) warto zabaczyć ruiny bunkrów Wału Pomorskiego. Kościół z 1715 roku w stanie tragicznym, sprzedany prywatnemu właścielowi (Villi Drawa). Nie ma sklepu (choć przewodniki mówią o 2), dopiero w Drawinach.</opispunktu> 
+    </punkt>
+    <punkt id="4631" miejscowosc="Łokacz Wielki" 
+      ns="52.88642537" we="15.97777947" km="4.5" etykieta="" 
+      kolejnosc="110"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony do Drawy wpada rzeka Człopica (Człapia)</opispunktu> 
+    </punkt>
+    <punkt id="4632" miejscowosc="Łokacz Wielki" 
+      ns="52.88593284" we="15.97801511" km="4.5" etykieta="" 
+      kolejnosc="111"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Dwa biwaki po prawej i lewej stronie rzeki. Przy biwaku po lewej znajduje się bar i wypożyczalnia kajaków</opispunktu> 
+    </punkt>
+    <punkt id="396" miejscowosc="Łokacz Wielki" 
+      ns="52.88547094" we="15.9775458" km="4.4" etykieta="" 
+      kolejnosc="112"> 
+    <opispunktu typ="most" kolejnosc="-1">Kratownicowy, wąski most drogowy. 
+Pod mostem znajduje się wodowskaz DRAWINY objęty odczytem automatycznym, przez co można obserwować stany wód Drawy w internetowym serwisie pogodowym IMGW-PIB. Poziom 69 na wodowskazie gwarantuje doskonałe warunki wodne.
+Do stacji PKP w Krzyżu drogą około 2,5 km</opispunktu> 
+    </punkt>
+    <punkt id="4633" miejscowosc="Łokacz Wielki" 
+      ns="52.88512093" we="15.97712736" km="4.3" etykieta="" 
+      kolejnosc="113"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy, pod nim bystrze.</opispunktu> 
+    </punkt>
+    <punkt id="4634" miejscowosc="Bielice Nowe" 
+      ns="52.87191305" we="15.98216077" km="2.6" etykieta="" 
+      kolejnosc="114"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z wygodnym dostępem do wody. Za mostem po prawej stronie znajduje się głęboka zatoka, do której można dojechać samochodem.
+Do stacji PKP w Krzyżu około 3 km</opispunktu> 
+    </punkt>
+    <punkt id="4635" miejscowosc="Bielice Nowe" 
+      ns="52.86752714" we="15.98498204" km="1.7" etykieta="" 
+      kolejnosc="115"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3193" miejscowosc="Bielice Nowe" 
+      ns="52.85812708" we="15.9895447" km="0" etykieta="" 
+      kolejnosc="116"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Drawy do Noteci.
+Spływ można zakończyć przy śluzie Krzyż (15 min w lewo, w górę Noteci), gdzie można dojechać samochodem</opispunktu> 
+    </punkt>
+    <punkt id="5635" miejscowosc="Żołędowo" 
+      ns="53.40843167" we="15.89683637" km="106.5" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z lewej rzeczki Studzienicy</opispunktu> 
+    </punkt>
+    <punkt id="5636" miejscowosc="Żołędowo" 
+      ns="53.40523012" we="15.83747698" km="99.8" etykieta="" 
+      kolejnosc="63"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Kraniec jeziora</opispunktu> 
+    </punkt>
+    <punkt id="5637" miejscowosc="Borowo" 
+      ns="53.4023573" we="15.81324172" km="97.9" etykieta="" 
+      kolejnosc="64"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na poligonie</opispunktu> 
+    </punkt>
+    <punkt id="5638" miejscowosc="Borowo" 
+      ns="53.37244958" we="15.77340559" km="92.6" etykieta="" 
+      kolejnosc="66"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na poligonie</opispunktu> 
+    </punkt>
+    <punkt id="5639" miejscowosc="Borowo" 
+      ns="53.37143391" we="15.77356497" km="92.5" etykieta="" 
+      kolejnosc="67"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na poligonie</opispunktu> 
+    </punkt>
+    <punkt id="5640" miejscowosc="Borowo" 
+      ns="53.36522318" we="15.77226544" km="91.8" etykieta="" 
+      kolejnosc="68"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Początek jeziora</opispunktu> 
+    </punkt>
+    <punkt id="5641" miejscowosc="Borowo" 
+      ns="53.35191361" we="15.77466797" km="90.3" etykieta="" 
+      kolejnosc="69"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na poligonie</opispunktu> 
+    </punkt>
+    <punkt id="5642" miejscowosc="Borowo" 
+      ns="53.35030941" we="15.77433934" km="90.1" etykieta="" 
+      kolejnosc="70"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na poligonie</opispunktu> 
+    </punkt>
+    <punkt id="5643" miejscowosc="Borowo" 
+      ns="53.34651323" we="15.77334184" km="89.7" etykieta="" 
+      kolejnosc="72"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Początek jeziora</opispunktu> 
+    </punkt>
+    <punkt id="5644" miejscowosc="Prostynia" 
+      ns="53.30400106" we="15.77714898" km="83.9" etykieta="" 
+      kolejnosc="76"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="5645" miejscowosc="Mąkowarsko" 
+      ns="53.28111738" we="15.77143603" km="80.8" etykieta="" 
+      kolejnosc="77"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście rzeczki Drawicy płynącej z jeziora Mąkowarsko - zacisznego, zalesionego, stanowiącego doskonałą jednodniową odskocznię dla przeludnionej Drawy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="45" typ="rzeka" nazwa="Drawa od Drawna do Starego Osieczna" 
+      uciazliwosc="U4" trudnosc="ZWC" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="10"> 
+  <opis>Odcinek Drawy przebiegający w Drawieńskim Parku Narodowym. Obowiązują opłaty za przepłynięcie, oraz korzystanie z przygotowanych biwaków(punkt opłat w Drawnie po prawej koło mostu). Niewątpliwie jeden z najładniejszych szlaków kajakowych, jednak w sezonie dosyć zatłoczony. Szybki nurt i poprzewracane drzewa powodują, że początkujący powinni się liczyć z możliwością wywrotki.
+Ceny na 2004: 3,5zl - za rozbicie namiotu/dobe ;  5zl - za pobyt w parku od osoby na dobę (50% znizki mlodziez szkolna i studenci) ; 20zl - oplata za palenie ognia i korzystanie drewna na biwakowiskach. 
+Wszystkie pola biwakowe na terenie DPN wyposażone są w: drewniane
+stoły, najczęsciej zadaszone ( ładne ), miejsca do palenia ognisk,
+przygotowane drewno, drewniane stare latryny i nowe "toi-toi" w
+dobrym stanie, zwłaszcza, że w poniedziałki są gruntownie czyszczone
+i zaopatrywane w wodę do mycia rąk, mydło, ręczniki i papier
+toaletowy. Zaopatrzeniem turystów od kilkunastu lat zajmuje się "Pan
+samochodzik" (Wartburg), dostarcza pyszne gorące pierogi, ciasta,
+wodę, chleb - można zamówić - dostarcza na wybrane miejsce. Brak
+natomiast miejsc do mycia naczyń i wody pitnej ( na Brdzie problem
+rozwiązany za pomocą studni i polowych zlewozmywaków).
+</opis>
+    <punkt id="389" miejscowosc="Stare Osieczno" 
+      ns="53.00704881" we="15.95396938" km="25.2" etykieta="" 
+      kolejnosc="103"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na lewym brzegu, komercyjny, zorganizowany. Koło biwaku i szosy jest bar, a nawet restauracja. Bar i restauracja w lipcu 2007 nie były czynne (w tygodniu).</opispunktu> 
+    </punkt>
+    <punkt id="388" miejscowosc="Mostniki" 
+      ns="53.01931041" we="15.95513038" km="27.3" etykieta="" 
+      kolejnosc="102"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Płocicznej do Drawy. Kilkadziesiąt metrów w górę Płocicznej znajduje się wodowskaz przy prawym brzegu rzeki. Poziom 18 na wodowskazie gwarantuje bardzo dobre warunki wodne.</opispunktu> 
+    </punkt>
+    <punkt id="387" miejscowosc="Mostniki" 
+      ns="53.03068606" we="15.94322622" km="30.6" etykieta="" 
+      kolejnosc="101"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oficjalny biwak "Kamienna". Zorganizowany i trochę mniej popularny biwak DPN. Lewy brzeg - ładnie.</opispunktu> 
+    </punkt>
+    <punkt id="386" miejscowosc="Głusko" 
+      ns="53.03279309" we="15.94534306" km="31.3" etykieta="" 
+      kolejnosc="100"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy pomiędzy Starym Osiecznem a Głuskiem</opispunktu> 
+    </punkt>
+    <punkt id="384" miejscowosc="Głusko" 
+      ns="53.04068457" we="15.93917738" km="32.5" etykieta="" 
+      kolejnosc="99"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora o wysokości 5m i elektrownia wodna Kamienna. Przenoska po prawej stronie elektrowni. Dosyć wygodna, około 100m po slipie</opispunktu> 
+    </punkt>
+    <punkt id="383" miejscowosc="Głusko" 
+      ns="53.04617169" we="15.93373858" km="33.2" etykieta="" 
+      kolejnosc="98"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek tzw "most niskowodny", a pod nim małe bystrze.</opispunktu> 
+    </punkt>
+    <punkt id="382" miejscowosc="Moczele" 
+      ns="53.07096911" we="15.92717709" km="36.5" etykieta="" 
+      kolejnosc="97"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oficjalny biwak DPN "Pstrąg". Zorganizowany, na prawym wysokim brzegu</opispunktu> 
+    </punkt>
+    <punkt id="381" miejscowosc="Moczele" 
+      ns="53.08276415" we="15.91289523" km="39.6" etykieta="" 
+      kolejnosc="96"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="380" miejscowosc="Sitnica" 
+      ns="53.10242118" we="15.9190425" km="42.5" etykieta="" 
+      kolejnosc="95"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oficjalny biwak DPN "Sitnica". Duży i zorganizowany, na lewym brzegu</opispunktu> 
+    </punkt>
+    <punkt id="4628" miejscowosc="Sitnica" 
+      ns="53.10789702" we="15.90454977" km="43.8" etykieta="" 
+      kolejnosc="94"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Z prawej w korycie wielki głaz narzutowy, tzw "Wydrzy Głaz"</opispunktu> 
+    </punkt>
+    <punkt id="379" miejscowosc="Bogdanka" 
+      ns="53.14490133" we="15.87440759" km="50.5" etykieta="" 
+      kolejnosc="93"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Bardzo duży, oficjalny biwak DPN "Bogdanka". W sezonie bardzo mocno obciążony. Dobry punkt gastronomiczny. Z lewej strony do Drawy wpada rzeka Korytnica</opispunktu> 
+    </punkt>
+    <punkt id="378" miejscowosc="Bogdanka" 
+      ns="53.14720921" we="15.87381304" km="50.8" etykieta="" 
+      kolejnosc="92"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="377" miejscowosc="Konotop" 
+      ns="53.14189672" we="15.84781713" km="56.3" etykieta="" 
+      kolejnosc="90"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka koło miejscowości Konotop. W pobliżu wiata, pomost i ławki</opispunktu> 
+    </punkt>
+    <punkt id="374" miejscowosc="Barnimie" 
+      ns="53.17643624" we="15.80059855" km="63.4" etykieta="" 
+      kolejnosc="87"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most, a za nim krótkie bystrze (zimą 2019 most jest w przebudowie). Na lewym brzegu 200m, od rzeki jest sklep. Biwakowanie w Barnimiu przy moście jest zabronione, możliwy jedynie przystanek.</opispunktu> 
+    </punkt>
+    <punkt id="373" miejscowosc="Podegrodzie" 
+      ns="53.1901681" we="15.772773" km="66" etykieta="" 
+      kolejnosc="86"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="371" miejscowosc="Drawnik" 
+      ns="53.20302697" we="15.76227696" km="68" etykieta="" 
+      kolejnosc="85"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy. Pod mostem bystrze. Przed mostem na lewym brzegu znajduje się stanica DPN</opispunktu> 
+    </punkt>
+    <punkt id="370" miejscowosc="Drawnik" 
+      ns="53.20581638" we="15.75710679" km="68.5" etykieta="" 
+      kolejnosc="84"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowy most kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="369" miejscowosc="Drawnik" 
+      ns="53.20901884" we="15.75030355" km="69.1" etykieta="" 
+      kolejnosc="83"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Dobrze widoczny wypływ Drawy z j. Adamowo.</opispunktu> 
+    </punkt>
+    <punkt id="368" miejscowosc="Sicienko" 
+      ns="53.2057625" we="15.7283556" km="" etykieta="" 
+      kolejnosc="82"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oficjalny i zorganizowany biwak na samym zachodnim końcu jeziora Adamowo. Bardzo przyjemny tym bardziej, że nie ma dojazdu dla samochodów</opispunktu> 
+    </punkt>
+    <punkt id="391" miejscowosc="Stare Osieczno" 
+      ns="53.00599659" we="15.95348824" km="25.1" etykieta="" 
+      kolejnosc="104"> 
+    <opispunktu typ="most" kolejnosc="-1">Drogowy most stalowy o konstrukcji skrzynkowej na ruchliwej drodze nr 22. Najbliższe większe miejscowości przy tej drodze to Dobiegniew i Człopa.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="44" typ="rzeka" nazwa="Drawa od Prostyni do Drawna" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="9"> 
+  <opis>Drawa płynie meadrując łagodnie przez podmokłe tereny.</opis>
+    <punkt id="362" miejscowosc="Drawno" 
+      ns="53.21739687" we="15.7637462" km="70.4" etykieta="" 
+      kolejnosc="81"> 
+    <opispunktu typ="sklep" kolejnosc="-1">W Drawnie jest kilka sklepów.</opispunktu> 
+    <opispunktu typ="stanica" kolejnosc="-1">Stanica PTTK w Drawnie, duży kemping, bar, wypożyczalnia sprzętu.</opispunktu> 
+    <opispunktu typ="lekarz" kolejnosc="-1">W Drawnie jest ośrodek zdrowia i apteka.</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">W sezonie znajdziesz tu kilka otwartych do późnych godzin barów i barków.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W Drawnie przed mostem na prawym brzegu punkt sprzedaży pozwoleń na przepłynięcie Drawieńskiego Parku Narodowego.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Duży most betonowy na przesmyku między jeziorami.</opispunktu> 
+    </punkt>
+    <punkt id="361" miejscowosc="Drawno" 
+      ns="53.22584698" we="15.76522046" km="71.3" etykieta="" 
+      kolejnosc="80"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Drawy do j. Grażyna</opispunktu> 
+    </punkt>
+    <punkt id="360" miejscowosc="Kawczyn" 
+      ns="53.23336277" we="15.77032739" km="72.4" etykieta="" 
+      kolejnosc="79"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na polnej drodze.</opispunktu> 
+    </punkt>
+    <punkt id="359" miejscowosc="Rościn" 
+      ns="53.27015568" we="15.77348014" km="79" etykieta="" 
+      kolejnosc="78"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="358" miejscowosc="Prostynia" 
+      ns="53.30427676" we="15.7774774" km="84" etykieta="" 
+      kolejnosc="75"> 
+    <opispunktu typ="most" kolejnosc="-1">Mosty kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="357" miejscowosc="Prostynia" 
+      ns="53.30929112" we="15.77580478" km="84.6" etykieta="" 
+      kolejnosc="74"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Starej Drawy.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="43" typ="rzeka" nazwa="Drawa od j. Lubie do Prostyni" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="8"> 
+  <opis>Odcinek ten to poligon wojskowy. Do drugiego mostu jest to otwarty odcinek, a dalej zamknięty. Pływanie po odcinku otwartym jest zasadniczo dozwolone, zresztą jest to być może najładniejszy fragment Drawy (czysta woda, cisza, rzeka dosyć szybko płynie przez las, sporo miejsc biwakowych). Dalej rozciąga się odcinek zamnięty, który jest jednym z największych europejskich poligonów i manewry odbywają się tam praktycznie codziennie. Wpływanie na odcinek zamknięty wiąże się zawsze z ryzykiem. Nie należy oczekiwać, że ktoś nie pozwoli Nam wpłynąć w pole ostrego strzelania. Wpływając, nie tyle ryzykuje się mandatem, co raczej swoją głową. Dlatego przed wpłynięciem zdecydowowanie polecam skonsultowanie tej decyzji z aktualnymi działaniami bojowymi na poligonie (rozkład ostrych strzelań znają wszystkie okoliczne służby).</opis>
+    <punkt id="355" miejscowosc="Prostynia" 
+      ns="53.31346013" we="15.77291237" km="85" etykieta="" 
+      kolejnosc="73"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy kończący poligon. W Prostyni jest wiejski sklep.</opispunktu> 
+    </punkt>
+    <punkt id="353" miejscowosc="Borowo" 
+      ns="53.34952928" we="15.77411374" km="90" etykieta="" 
+      kolejnosc="71"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska 150 metrów po lewym brzegu przy elektrowni.</opispunktu> 
+    </punkt>
+    <punkt id="352" miejscowosc="Borowo" 
+      ns="53.37839913" we="15.77272152" km="93.3" etykieta="" 
+      kolejnosc="65"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Po prawej rozpoczyna się koryto Starej Drawy, zagrodzone zastawkami.</opispunktu> 
+    </punkt>
+    <punkt id="351" miejscowosc="Żołędowo" 
+      ns="53.4040207" we="15.8435458" km="100" etykieta="" 
+      kolejnosc="62"> 
+    <opispunktu typ="most" kolejnosc="-1">Duży most drogowy na trasie Kalisz Pomorski - Drawsko Pomorskie. Początek odcinka zamkniętego poligonu.</opispunktu> 
+    </punkt>
+    <punkt id="350" miejscowosc="Żołędowo" 
+      ns="53.4033608" we="15.850836" km="100.3" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Zorganizowany biwak na prawym brzegu jeziora Małe Dębno. Dobre dojście do wody, brak udogodnień, leśna polana, dojazd dla samochodów</opispunktu> 
+    </punkt>
+    <punkt id="349" miejscowosc="Żołędowo" 
+      ns="53.40129774" we="15.85790813" km="101.3" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Przesmyk pomiędzy jeziorami Wielkie Dębno i Małe Dębno.</opispunktu> 
+    </punkt>
+    <punkt id="348" miejscowosc="Żołędowo" 
+      ns="53.40284051" we="15.87039547" km="102.2" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Drawy do j. Wielkie Dębno.</opispunktu> 
+    </punkt>
+    <punkt id="346" miejscowosc="Żołędowo" 
+      ns="53.4114665" we="15.8929574" km="105.9" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drewniany, lekko się zawalający. Przed mostem po lewej polanka, na której można, od biedy, zabiwakować.</opispunktu> 
+    </punkt>
+    <punkt id="345" miejscowosc="Żołędowo" 
+      ns="53.4217715" we="15.9165984" km="" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oficjalny biwak na prawym brzegu. Polana na skarpie. Trudne wyjście z wody i wyciągnięcie kajaków.</opispunktu> 
+    </punkt>
+    <punkt id="344" miejscowosc="Żołędowo" 
+      ns="53.4198618" we="15.9188622" km="" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na lewym brzegu, oficjalny, bardzo dobre dojście do wody, ładna polana w lesie, pomost.</opispunktu> 
+    </punkt>
+    <punkt id="342" miejscowosc="Karwice" 
+      ns="53.4365666" we="15.9266621" km="" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak koło mostu</opispunktu> 
+    </punkt>
+    <punkt id="343" miejscowosc="Karwice" 
+      ns="53.43657426" we="15.92652282" km="114.4" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy, czyli początek poligonu, a dokładnie jego części otwartej.</opispunktu> 
+    </punkt>
+    <punkt id="341" miejscowosc="Karwice" 
+      ns="53.4379989" we="15.9310609" km="" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na prawym brzegu. Oficjalny i zacieniony.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="42" typ="jezioro" nazwa="Jezioro Lubie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="7"> 
+  <opis>Duże, a przedewszystkim bardzo długie jezioro (ponad 10km płynięcia). Na prawym brzegu: las, poligon i biwaki, a na lewym pola, wsie i sklepy.</opis>
+    <punkt id="340" miejscowosc="Karwice" 
+      ns="53.43861905" we="15.93198176" km="114.9" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Ostateczny wypływ Drawy z j. Lubie.</opispunktu> 
+    </punkt>
+    <punkt id="339" miejscowosc="Karwice" 
+      ns="53.44388346" we="15.9335261" km="115.5" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Przesnyk między trzcinami na małe jeziorko przy wyjściu z Lubia.</opispunktu> 
+    </punkt>
+    <punkt id="338" miejscowosc="Karwice" 
+      ns="53.45543137" we="15.89649816" km="118" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Cypel na prawym brzegu za Karwicami. Zakaz biwakowamia, regularne kontrone służby leśnej - gdyby nie to, miejsce byłoby super. Wg informacji od mariolazosia@interia.pl (pseudonim - marianna) w dniu 04.03.2011 r.; faktycznie ostro kontrolowane, ale tuż za nim jest piękna zatoka na której jest duże dobrze zorganizowane pole namiotowe "Murzynka". Wszystkie wymienione obiekty mają walory położenia w lesie.
+
+
+</opispunktu> 
+    </punkt>
+    <punkt id="337" miejscowosc="Karwice" 
+      ns="53.45543137" we="15.89649816" km="119.8" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na cyplu naprzeciwko Karwic, duży i ładny, ale z dojazdem dla samochodów. Pozostałości dwóch domów. W sezonie pełny i głośny. Wg informacji od mariolazosia@interia.pl (pseudonim - marianna) w dniu 04.03.2011 r.; biwak na przeciw Karwic nie jest przeludniony, obiekt podzielony na kilka odrębnych biwakowisk, dobrze wyposażony, na złą pogodę jedyna w okolicy duża wiata z kominkiem w środku!
+
+</opispunktu> 
+    </punkt>
+    <punkt id="336" miejscowosc="Karwice" 
+      ns="53.46986364" we="15.85885369" km="122" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na j. Lubie naprzeciwko wyspy Rybaki, w zatoczce, zorganizowany, zacieniony.</opispunktu> 
+    </punkt>
+    <punkt id="335" miejscowosc="Mielenko Drawskie" 
+      ns="53.47974913" we="15.82429077" km="124" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Drawy do j. Lubie. Czasami strasznie zamulone.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="41" typ="rzeka" nazwa="Drawa od Drawska Pomorskiego do j. Lubie" 
+      uciazliwosc="U5" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="6"> 
+  <opis>Szczególnie uciążliwy kawałek, zaczyna się od nieprzyjemnej przenoski, a później słynna "Wietnamka", czyli krzaki, które płożą się wpoprzek całej rzeki. Dodatkowo czystość wody i brzegów poniżej Drawska pozostawia wiele do życzenia.  Dłuży się te kilka kilometrów.</opis>
+    <punkt id="333" miejscowosc="Mielenko Drawskie" 
+      ns="53.49797519" we="15.81216948" km="129.7" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na prawym brzegu. Zorganizowany, płatny. Ławki, śmietnik, wc, opłata na miejscu. Kiepskie dojście do wody.
+Wg informacji Właściciela biwaku z dnia dnia 23.08.2010 "Pole namiotowe JĘDRKOWE ZAKOLE (http:/jedrkowe-zakole.strefa.pl) - poprawiono dojścia do wody, wykonano jedno dodatkowe na początku pola, i jedno na końcu z przeznaczeniem do odbioru kajaków/wodowania celem zakończenia i rozpoczynania spływów (5 niezależnych dojść do wody). W tym roku położono asfalt - dogodny dojazd (tylko 300m drogi gruntowej). Wigwam na 30 osób ze stołami i paleniskiem wewnątrz oraz wiata z murowaną kuchnią - zawsze przygotowane drewno dla spóźnionych i zmoczonych turystów, część pola ogrodzona siatką dla grup z małymi dziećmi, ostatni sklep przy Drawie do granicy poligonu (Mielenko - 15min marszu) bez konieczności zbaczania ze szlaku na drugi brzeg J.Lubie, 4 niezależne paleniska - duża swoboda biwakowania. Most betonowy w Mielenku, 200 m poniżej biwaku.</opispunktu> 
+    </punkt>
+    <punkt id="332" miejscowosc="Mielenko Drawskie" 
+      ns="53.50108427" we="15.81873772" km="131" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na prawym brzegu. Oficjalny leśnictwa. Wysoka skarpa, nierówna polana, bez udogodnień. 
+Wg informacji otrzymanych w dniu 23.08.2010 r. od Jędrka: "To pole namiotowe nie istnieje - nie pamiętam go od jakichś 15 lat - nic po nim nie zostało"</opispunktu> 
+    </punkt>
+    <punkt id="331" miejscowosc="Mielenko Drawskie" 
+      ns="53.50409021" we="15.81514169" km="132.2" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniano-stalowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="330" miejscowosc="Koleśno" 
+      ns="53.51134249" we="15.78950482" km="134.9" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka</opispunktu> 
+    </punkt>
+    <punkt id="328" miejscowosc="Koleśno" 
+      ns="53.51537518" we="15.79018433" km="135.5" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia i spiętrzenie wody. Bardzo niewygodna przenoska conajmniej 30 metrów, warto spróbować kanałem po prawej.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="40" typ="rzeka" nazwa="Drawa od j. Krosino do Drawska Pomorskiego" 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="5"> 
+  <opis>Chyba najmniej ciekawy odcinek Drawy. Rzeka płynie głównie przez pola, meandrując łagodnie. Woda niezbyt czysta.</opis>
+    <punkt id="327" miejscowosc="Drawsko Pomorskie" 
+      ns="53.51891415" we="15.7916551" km="136" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="324" miejscowosc="Drawsko Pomorskie" 
+      ns="53.52510561" we="15.80195666" km="137.2" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Na prawym brzegu, szkoła, która w wakacje prowadzi schronisko młodzieżowe.</opispunktu> 
+    </punkt>
+    <punkt id="323" miejscowosc="Drawsko Pomorskie" 
+      ns="53.5305439" we="15.81609473" km="138.8" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="most" kolejnosc="-1">Pierwszy z całej serii mostów. W Drawsku jest dużo sklepów. Żeby zrobić zakupy najlepiej zatrzymać się przy betonowym nabrzeżu w samym centrum. Warty polecenia bar w Drawsku już za centrum, na prawym brzegu, widoczny z rzeki. Chociaż porównywałem z innymi.</opispunktu> 
+    </punkt>
+    <punkt id="322" miejscowosc="Drawsko Pomorskie" 
+      ns="53.53246869" we="15.82143416" km="139.4" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na lewym brzegu. Z dużym krzyżem, wiata, stoły. Do okoła zabudowania.</opispunktu> 
+    </punkt>
+    <punkt id="321" miejscowosc="Drawsko Pomorskie" 
+      ns="53.53915583" we="15.8271725" km="140.5" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka betonowa z kołami.</opispunktu> 
+    </punkt>
+    <punkt id="320" miejscowosc="Drawsko Pomorskie" 
+      ns="53.54119189" we="15.83121492" km="140.9" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Dzikie miejsce biwakowe na lewym brzegu, kiepskie dojście do wody, ale sama łąka sympatyczna.</opispunktu> 
+    </punkt>
+    <punkt id="319" miejscowosc="Dalewo" 
+      ns="53.53853345" we="15.85280926" km="143.5" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="317" miejscowosc="Dalewo" 
+      ns="53.53673741" we="15.87472654" km="145.2" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Awaryjne miejsce na biwak na prawym brzegu. Wielkie drzewo zwalone do wody i być może przenoska.</opispunktu> 
+    </punkt>
+    <punkt id="315" miejscowosc="Dalewo" 
+      ns="53.53959422" we="15.88215741" km="146" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na drodze między wsiami Dalewo i Suliszewo. Za mostem, na lewym brzegu, ładne, dzikie miejsce biwakowe.</opispunktu> 
+    </punkt>
+    <punkt id="314" miejscowosc="Darskowo" 
+      ns="53.54782208" we="15.91752237" km="150.9" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Zorganizowany biwak "Czubajka" na prawym brzegu. Wysoka skarpa i pomost. Wg informacji od mariolazosia@interia.pl (pseudonim - marianna) w dniu 04.03.2011 r.; obiekt z dojazdem, dobrze zorganizowany, sławojki, stoły, ławki, długi pomost, można przycumować na raz nawet dużym spływem.
+</opispunktu> 
+    </punkt>
+    <punkt id="313" miejscowosc="Darskowo" 
+      ns="53.54873104" we="15.92139253" km="151.2" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Kokna (Koczynka) do Drawy.</opispunktu> 
+    </punkt>
+    <punkt id="312" miejscowosc="Rzęśnica" 
+      ns="53.53250655" we="15.94477951" km="154.5" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Zorganizowane pole biwakowe, namioty wojskowe, stoły, wiaty, sławojka, pomost. Minusy: kiepskie dojście do wody i brak lasu. 
+Wg informacji otrzymanych od mariolazosia@interia.pl ( pseudonim - marianna) w dniu 04.03.2011 r.; biwak w Rzęśnicy (lewy brzeg) nie ma tam żadnych namiotów wojskowych i nie było (pływam regularnie).
+
+</opispunktu> 
+    </punkt>
+    <punkt id="311" miejscowosc="Rzęśnica" 
+      ns="53.53156458" we="15.94562846" km="154.6" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="310" miejscowosc="Rzęśnica" 
+      ns="53.53175321" we="15.96144312" km="156.3" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe.</opispunktu> 
+    </punkt>
+    <punkt id="309" miejscowosc="Złocieniec" 
+      ns="53.53249798" we="15.98542922" km="158.8" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na polnej drodze.</opispunktu> 
+    </punkt>
+    <punkt id="308" miejscowosc="Złocieniec" 
+      ns="53.53448213" we="15.99390022" km="159.6" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki, kamienny most kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="302" miejscowosc="Złocieniec" 
+      ns="53.53536805" we="16.00491242" km="160.5" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Most betonowy, drogowy. Pod mostem metrowe spiętrzenie wody. Przy odpowiednim stanie wody pływalne: WW2-3. Uwaga na rury pod mostem. Przenoska 70m po asfalcie na lewym brzegu. Kiepskie wyjście z wody, jak i miejsce na wodowanie. W około wielu chłopców z wózkami, którzy chętnie pomogą za drobną opłatą. W Złocieńcu jest dużo dobrze zaopatrzonych sklepów, a także kilka barów, ale nic rewelacyjnego. Lecznica i kilka aptek</opispunktu> 
+    </punkt>
+    <punkt id="301" miejscowosc="Złocieniec" 
+      ns="53.53592032" we="16.00729858" km="160.7" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek dla pieszych.</opispunktu> 
+    </punkt>
+    <punkt id="300" miejscowosc="Złocieniec" 
+      ns="53.5382242" we="16.01219063" km="161.2" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Hotel Stannica Wodna. Obok duża łąka, na której można biwakować, a w stannicy wykupić ciepły prysznic za 5zł. Na skraju miasta, uważać na kradzieże.</opispunktu> 
+    </punkt>
+    <punkt id="299" miejscowosc="Złocieniec" 
+      ns="53.53994563" we="16.0133521" km="161.4" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Pierwszy most w Złocieńcu, a właściwie na jego przedmieściach. Nie ma koło niego biwaku.</opispunktu> 
+    </punkt>
+    <punkt id="298" miejscowosc="Budowo" 
+      ns="53.5430515" we="16.04629244" km="164.2" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="296" miejscowosc="Krosino" 
+      ns="53.54531479" we="16.05938893" km="166.3" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rozgałęzienie Drawy na dwie odnogi, prosto można popłynąć na j. Wilczkowo a w prawo skrót przez trzcinowisko.</opispunktu> 
+    </punkt>
+    <punkt id="295" miejscowosc="Krosino" 
+      ns="53.54686645" we="16.06083549" km="166.5" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowo-drewniany most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="39" typ="jezioro" nazwa="Jezioro Krosino" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="4"> 
+  <opis>Ładna podłóżne jezioro o zalesionych brzegach. Na skarpie, dwie duże wieże niewiadomego przeznaczenia.</opis>
+    <punkt id="294" miejscowosc="Krosino" 
+      ns="53.55259903" we="16.06102344" km="167.2" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Drawy z j. Krosino. Nieoznaczone, po lewej stronie od przystani i ośrodka.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="38" typ="rzeka" nazwa="Drawa od j. Rzepowskiego do j. Krosino" 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Drawa zaczyna płynąć szybciej, pierwsze drzewa, bystrza, przenoska.</opis>
+    <punkt id="293" miejscowosc="Głęboczek" 
+      ns="53.57225831" we="16.07512509" km="169.6" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Drawy do j. Krosino</opispunktu> 
+    </punkt>
+    <punkt id="292" miejscowosc="Głęboczek" 
+      ns="53.57427095" we="16.07571669" km="169.9" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w Głęboczku</opispunktu> 
+    </punkt>
+    <punkt id="290" miejscowosc="Głęboczek" 
+      ns="53.57552433" we="16.07450937" km="170.1" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Ruiny spiętrzenia wody, o wysokości ok. 2m, do młyna. Woda spływa rozbijająć się po kamieniach, trudność około WW3-4, bez kasku i pozostałego sprzetu asekuracyjnego nie podchodzić. Przenoska 30m po lewym brzegu. Wygodne wyjście z wody i bardzo wygodne zejście</opispunktu> 
+    </punkt>
+    <punkt id="287" miejscowosc="Rzepowo" 
+      ns="53.59024188" we="16.09642944" km="173.4" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy, a pod mostem kamieniste bystrze. Przed mostem, na lewym brzegu jest duże i zorganizowane pole biwakowe. Wiaty, stoliczki i inne udogodnienia. W pobliżu dwa całkiem dobrze zaopatrzone sklepy wiejskie.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="37" typ="jezioro" nazwa="Jezioro Rzepowskie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Zwykłe, małe jeziorko.</opis>
+    <punkt id="285" miejscowosc="Rzepowo" 
+      ns="53.59021089" we="16.10179807" km="174.1" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Drawy z j. Rzepowskiego, oznaczone dużym znakiem. Duża łąka po lewej, koło ujścia Drawy z j. Rzepowskiego.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="36" typ="rzeka" nazwa="Drawa pomiędzy jeziorami Drawsko i Rzepowskie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Krótki odcinek, ale bardzo sympatyczny, wolno płynąca woda w ładnym otoczeniu</opis>
+    <punkt id="284" miejscowosc="Rzepowo" 
+      ns="53.58754129" we="16.11779936" km="175.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Drawy do j. Rzepowskiego</opispunktu> 
+    </punkt>
+    <punkt id="283" miejscowosc="Szymałów" 
+      ns="53.59266881" we="16.12685854" km="176.1" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Drawy z j. Drawsko (zatoka Rzepowska), dobrze oznaczony dużym, białym kwadratem, widocznym z kilku kilometrów</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="35" typ="jezioro" nazwa="Jezioro Drawsko" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Największe jezioro na szlaku Drawy, skomplikowana linia brzegowa, mnóstwo zatoczek, zatok i półwyspów. Na środku duża wyspa Bielawa.</opis>
+    <punkt id="281" miejscowosc="Stare Drawsko" 
+      ns="53.60131112" we="16.19482928" km="180.7" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="sklep" kolejnosc="-1">W Starym Drawsku są conajmniej dwa, całkiem dobrze zaopatrzone sklepy. W sezonie czynne 7-23.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W pobliżu ruin zamku jest wygodne miejsce do wodowania, z dojazdem do samej wody.</opispunktu> 
+    </punkt>
+    <punkt id="279" miejscowosc="Czaplinek" 
+      ns="53.56057187" we="16.2259319" km="184.6" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="stanica" kolejnosc="-1">W Czaplinku jest kilka miejsc gdzie można wypożyczyć kajaki, zabiwakować, a potem rozpocząć spływ.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Czaplinek to spore miasteczko, a sklepów w nim mnóstwo.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

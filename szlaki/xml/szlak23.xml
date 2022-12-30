@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="23" nazwa="Liwiec" wersja="2">
+<opis>Typowa nizinna rzeka Mazowsza położona jedynie 70 km od Warszawy. Bardzo łatwa i nieuciazliwa. Dostarcza malowniczych i urozmaiconych widoków. Idealna dla początkujących. Należy nią pływać raczej wiosną lub jesienią (latem może być mało wody). Informację o poziomie wody można uzyskać w wypozyczalniki kajaków w Kamieńczyku http://www.kamyk-kajaki.pl/</opis> 
+  <odcinek id="87" typ="rzeka" nazwa="Liwiec od Liwa do Kalinowca." 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="-1"> 
+  <opis>Typowa rzeka nizinna.Gdy jest dość wody płynie całym korytem, tylko czasami pojawiają sie płycizny. Brak przeszkód w nurcie. Konieczne 3 przenoski. Długość docinka 28,1 km.</opis>
+    <punkt id="840" miejscowosc="Kalinowiec" 
+      ns="52.47606" we="21.83827" km="26.5" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Zapora z elektrownią wodną w Kalinowcu. Przenoska po lewej.</opispunktu> 
+    </punkt>
+    <punkt id="839" miejscowosc="Kalinowiec" 
+      ns="52.47568" we="21.84775" km="" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Początek jeziorka zaporowego w Kalinowcu.</opispunktu> 
+    </punkt>
+    <punkt id="838" miejscowosc="Paplin" 
+      ns="52.47384" we="21.85427" km="" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka samochodowa metalowa.</opispunktu> 
+    </punkt>
+    <punkt id="837" miejscowosc="Paplin" 
+      ns="52.4716" we="21.86772" km="24.1" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy Paplin - Górki Borze</opispunktu> 
+    </punkt>
+    <punkt id="836" miejscowosc="Paplin" 
+      ns="52.46762" we="21.88394" km="" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po lewej ładne miejsce biwakowe. Po prawej zabudowania wsi Paplin.</opispunktu> 
+    </punkt>
+    <punkt id="835" miejscowosc="" 
+      ns="52.46469" we="21.88449" km="22.2" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Tu powinno być (z mapy) rozwidlenie Liwca. Z wody go nie widzieliśmy.</opispunktu> 
+    </punkt>
+    <punkt id="834" miejscowosc="Borzychy" 
+      ns="52.46108" we="21.91081" km="19.8" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy - dojazd na pola. Z prawej wieś Borzychy.</opispunktu> 
+    </punkt>
+    <punkt id="833" miejscowosc="Borzychy" 
+      ns="52.46058" we="21.91293" km="" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ruiny mostku. W nurcie czysto.</opispunktu> 
+    </punkt>
+    <punkt id="832" miejscowosc="Borzychy" 
+      ns="52.45904" we="21.91495" km="" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po prawej wygodne zejście do wody - mozliwość biwaku (niestety bliskodo drogi i wsi Borzychy).</opispunktu> 
+    </punkt>
+    <punkt id="831" miejscowosc="Borzychy" 
+      ns="52.45785" we="21.91861" km="" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej ładna dacza z zejściem do wody po schodkach.</opispunktu> 
+    </punkt>
+    <punkt id="830" miejscowosc="Stara Wieś" 
+      ns="52.44369" we="21.94289" km="" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Linia wysokiego napięcia.</opispunktu> 
+    </punkt>
+    <punkt id="829" miejscowosc="Stara Wieś" 
+      ns="52.44475" we="21.94514" km="14.5" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Linia wysokiego napięcia.</opispunktu> 
+    </punkt>
+    <punkt id="828" miejscowosc="Stara Wieś" 
+      ns="52.44567" we="21.94768" km="" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Linia wysokiego napięcia.</opispunktu> 
+    </punkt>
+    <punkt id="827" miejscowosc="Szemrowizna" 
+      ns="52.41598" we="21.99194" km="7.8" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz z podwójnym progiem. Pierwszy wysokości ok.1m, drugi 4m za nim ok.70cm.Tworzące się za nimi odwoje mogą być bardzo niebezpieczne.Przenoska możliwa po obu stronach.</opispunktu> 
+    </punkt>
+    <punkt id="826" miejscowosc="Węgrów" 
+      ns="52.40042" we="22.00506" km="5.5" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Linia wysokiego napięcia</opispunktu> 
+    </punkt>
+    <punkt id="824" miejscowosc="Węgrów" 
+      ns="52.39869" we="22.00489" km="5.1" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Drogowy. Pod nim zastawka.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Niewygodna rzenoska prawą stroną przez dość ruchliwą drogę na wysokim nasypie.</opispunktu> 
+    </punkt>
+    <punkt id="823" miejscowosc="Liw" 
+      ns="52.384811" we="21.996012" km="" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Linia wysokiego napięcia</opispunktu> 
+    </punkt>
+    <punkt id="822" miejscowosc="Liw" 
+      ns="52.38101" we="21.99149" km="2.3" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy Liw-Węgrów. Za nim na prawym brzegu zajazd "Na Liwskich Mostach".</opispunktu> 
+    </punkt>
+    <punkt id="821" miejscowosc="Liw" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Na lewym brzegu 0.5 km do sklepu, przystanku PKS.</opispunktu> 
+    </punkt>
+    <punkt id="820" miejscowosc="Liw" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu zamek Liw, a w nim Muzeum Zbrojownia.</opispunktu> 
+    </punkt>
+    <punkt id="819" miejscowosc="Liw" 
+      ns="52.372692" we="21.970466" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu pod zamkiem Liw duża wygodna polana, na której można biwakować.Co prawda jest tuż przy miejscowości, więc może być problem z bezpieczeństwem.Bardzo wygodne miejsce rozpoczęcia spływu.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="88" typ="rzeka" nazwa="Liwiec od Kalinowca do Łochowa." 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="-1"> 
+  <opis>Typowa rzeka nizinna.Gdy jest dość wody płynie całym korytem, tylko czasami pojawiają sie płycizny. po obu stronach pojawiają się laski, a w nurcie zwalone pojedyncze drzewa wymagajace wybrania drogi płyniacia, poza tym brak przeszkód w nurcie. Pojawiaja się wysokie, malownicze skarpy nadbrzeżne.Długość odcinka 17,5 km.</opis>
+    <punkt id="853" miejscowosc="Łochów" 
+      ns="52.51015" we="21.67921" km="45.6" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy Łochów-Mińsk Mazowiecki. Do Łochowa 2.3km.Możliwość zakończenia spływu wygodniej ląduje się na piaszczystejłasze przed mostem po lewej stronie, lecz lepszy dojazd jest na łączkępo prawej stronie.</opispunktu> 
+    </punkt>
+    <punkt id="852" miejscowosc="Łochów" 
+      ns="52.50865" we="21.68457" km="" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Linia wysokiego napięcia, a za nią linia średniego napięcia.</opispunktu> 
+    </punkt>
+    <punkt id="851" miejscowosc="" 
+      ns="52.51202" we="21.69457" km="" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Duża wyspa</opispunktu> 
+    </punkt>
+    <punkt id="850" miejscowosc="" 
+      ns="52.49771" we="21.72098" km="" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Duża wyspa. Duże prawdopodobieństwo możliwości biwakowania.</opispunktu> 
+    </punkt>
+    <punkt id="849" miejscowosc="Starowola" 
+      ns="52.49471" we="21.72138" km="" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po lewej domy letniskowe we wsi Starowola.</opispunktu> 
+    </punkt>
+    <punkt id="848" miejscowosc="Zagaje" 
+      ns="52.49091" we="21.7257" km="38.8" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po lewej miejsce biwakowe z laskiem sosnowym.</opispunktu> 
+    </punkt>
+    <punkt id="847" miejscowosc="Sekłak" 
+      ns="52.48611" we="21.74335" km="" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po lewej zabudowania wsi Sekłak.</opispunktu> 
+    </punkt>
+    <punkt id="846" miejscowosc="Sekłak" 
+      ns="52.48705" we="21.759" km="" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Linia średniego napięcia.</opispunktu> 
+    </punkt>
+    <punkt id="845" miejscowosc="Sekłak" 
+      ns="52.48825" we="21.76707" km="" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Linia średniego napięcia.</opispunktu> 
+    </punkt>
+    <punkt id="844" miejscowosc="" 
+      ns="52.48498" we="21.77588" km="33.8" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka</opispunktu> 
+    </punkt>
+    <punkt id="843" miejscowosc="Bednarze" 
+      ns="52.47784" we="21.78427" km="" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Linia średniego napięcia.</opispunktu> 
+    </punkt>
+    <punkt id="842" miejscowosc="Bednarze" 
+      ns="52.47661" we="21.78999" km="31.9" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Linia wysokiego napięcia. 10m dalej kładka.</opispunktu> 
+    </punkt>
+    <punkt id="841" miejscowosc="" 
+      ns="52.47833" we="21.82336" km="28.1" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Mostek. 10 m za nim po prawej dogodne miejsce biwakowe.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

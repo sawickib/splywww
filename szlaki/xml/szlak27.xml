@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="27" nazwa="Zbrzyca" wersja="11">
+<opis>Zbrzyca to lewobrzeżny dopływ Brdy - chociaż na większości stron organizatorów spływów określa się jako prawy dopływ Brdy. Widać patrzą pod prąd.
+Rzeka wypływa z jeziora Zbełk w gminie Dziemiany. Posiada kilka dopływów, z których 3 są krótkimi szlakami kajakowymi: Młosina, Kulawa, Kłoniecznica. Zbrzyca spławna jest od j. Dywańskiego. Rzeczka jest mała, ale płynie żwawo przez 11 jezior i piękne lasy Zaborskiego Parku Krajobrazowego. Ze szlakiem Brdy łączy się na j. Witoczno.</opis> 
+  <odcinek id="106" typ="rzeka" nazwa="Zbrzyca poniżej J. Śluza" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="4"> 
+  <opis>Rzeka jest już szeroka, ok. 20m. Płynie w lesie, a nurt można określić jako słaby, ale jednak zauważalny. Odcinek malowniczy i łatwy.</opis>
+    <punkt id="3686" miejscowosc="J. Witoczno" 
+      ns="53.87568906" we="17.51379739" km="" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Połączenie szlaku Zbrzycy za szlakiem Brdy</opispunktu> 
+    </punkt>
+    <punkt id="3687" miejscowosc="J. Witoczno" 
+      ns="53.873927" we="17.505571" km="" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Stanica Wodna PTTK znajduje się na zachodnim brzegu jeziora, ok. 1 km na  południe od ujścia Zbrzycy</opispunktu> 
+    </punkt>
+    <punkt id="919" miejscowosc="Zbrzyca" 
+      ns="53.88024258" we="17.51405679" km="0" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Zbrzycy do j. Witoczno na szlaku Brdy. Na prawym brzegu cypla, przy ujściu rzeki możliwe biwakowanie po uzgodnieniu z właścicielem (pierwszy dom, 300 metrów po lewej) [inf. z roku 2006]</opispunktu> 
+    </punkt>
+    <punkt id="918" miejscowosc="Zbrzyca" 
+      ns="53.88261077" we="17.50953612" km="0.5" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="917" miejscowosc="Śluza" 
+      ns="53.90954667" we="17.50482986" km="4.5" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="105" typ="jezioro" nazwa="Jeziora dolnej Zbrzycy" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Do przepłynięcia mamy jeziora: Laska, Księże, Długie, Parszczenica i Śluza. Na większości z nich znajdziemy miejsca biwakowe</opis>
+    <punkt id="916" miejscowosc="Śluza" 
+      ns="53.9133132" we="17.4996597" km="5.1" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Szeroki wypływ Zbrzycy z j. Śluza</opispunktu> 
+    </punkt>
+    <punkt id="915" miejscowosc="Parszczenica " 
+      ns="53.92229368" we="17.47322091" km="7.1" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Nieduże, bardzo ładne, zalesione miejsce biwakowe na prawym cypelku na początku j. Śluza</opispunktu> 
+    </punkt>
+    <punkt id="914" miejscowosc="Parszczenica " 
+      ns="53.92257373" we="17.46932544" km="7.4" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Krótką cieśniną wpływamy na j. Śluza</opispunktu> 
+    </punkt>
+    <punkt id="913" miejscowosc="Modziel" 
+      ns="53.92630408" we="17.46409188" km="7.9" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na wprost ujścia na j. Parszczenica jest wyspa połączona z lewej strony z lądem malowniczą kładką. Na wyspie tej było ładne miejsce biwakowe z dobiciem od południa. Na ogrodzonej wyspie bywa jednak pastwisko kóz</opispunktu> 
+    </punkt>
+    <punkt id="912" miejscowosc="Modziel" 
+      ns="53.92875428" we="17.4633932" km="8.3" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Most stalowo-drewniany (wygląda jak składany). 50 metrów poniżej mostu, po lewej, duże, ładne miejsce biwakowe [inf. z roku 2006]. Wąską cieśniną wpływamy na j. Parszczenica</opispunktu> 
+    </punkt>
+    <punkt id="910" miejscowosc="Modziel" 
+      ns="53.93087127" we="17.46393914" km="8.5" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływamy na j. Długie, które stanowi jakby zachodnią zatokę j. Księże</opispunktu> 
+    </punkt>
+    <punkt id="5591" miejscowosc="Modziel" 
+      ns="53.93173888" we="17.46433432" km="8.6" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście rzeczki Damplicy</opispunktu> 
+    </punkt>
+    <punkt id="3698" miejscowosc="Mogiel" 
+      ns="53.93318369" we="17.4860691" km="10" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na końcu plosa j. Księże, na lewym brzegu na cyplu piękna nieduża łąka nadająca się do biwakowania, cicho, dobre dojście do wody [inf. z roku 2006]</opispunktu> 
+    </punkt>
+    <punkt id="5590" miejscowosc="Laska Leśnictwo" 
+      ns="53.93424334" we="17.49614305" km="10.6" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na prawym brzegu cieśniny, do jeziora Księże uchodzi rzeka Kłoniecznica</opispunktu> 
+    </punkt>
+    <punkt id="909" miejscowosc="Laska Leśnictwo" 
+      ns="53.93295334" we="17.49700782" km="10.8" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Szeroką cieśniną wpływamy na j. Księże i przepływamy ploso prosto na zachód</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="104" typ="rzeka" nazwa="Zbrzyca od ujścia Młosiny do J. Laska" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis>Na tym odcinku nie ma już problemów z zbyt małym poziomem wody, ale są dwie przenoski. Rzeka meandruje przez wypełnioną pastwiskami i łąkami dolinę. Młosiną w weekendy wpływają na Zbrzycę duże grupy przypadkowych kajakowiczów</opis>
+    <punkt id="908" miejscowosc="Laska" 
+      ns="53.93260874" we="17.51649748" km="12" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Szerokie ujście Zbrzycy do j. Laska</opispunktu> 
+    </punkt>
+    <punkt id="907" miejscowosc="Laska" 
+      ns="53.93227354" we="17.52547164" km="12.7" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Spory most drogowy w Lasce, koło mostu jest punkt pobierania wody. Przed mostem po prawej stronie stanica, z budynkiem stojącym w wodzie, poza tym wiaty, ławki i tablice informacyjne. Sklep znajduje się kilkaset metrów w lewo przez most, na charakterystycznym  skrzyżowaniu dróg</opispunktu> 
+    </punkt>
+    <punkt id="906" miejscowosc="Laska" 
+      ns="53.930608" we="17.5287992" km="13" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście rzeki Kulawy do Zbrzycy</opispunktu> 
+    </punkt>
+    <punkt id="905" miejscowosc="Widno" 
+      ns="53.93235206" we="17.54383465" km="14.7" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy i znak [szlak Brdy 15km]. Na prawym brzegu tuż przed mostem, przy leśniczówce jest oficjalne pole namiotowe Lasów Państwowych z dużą okrągłą wiatą. Poniżej mostu na lewym brzegu jest autokemping gminny</opispunktu> 
+    </punkt>
+    <punkt id="3694" miejscowosc="Widno" 
+      ns="53.93332708" we="17.54495321" km="14.9" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole namiotowe na prawym brzegu z ławami i miejscem na ognisko, przed leśniczówką Widno</opispunktu> 
+    </punkt>
+    <punkt id="904" miejscowosc="Widno" 
+      ns="53.93655008" we="17.55044476" km="15.7" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Zbrzycy z j. Milachowo, szeroko, ale płytko, w trzcinach</opispunktu> 
+    </punkt>
+    <punkt id="903" miejscowosc="Widno" 
+      ns="53.9336257" we="17.55271668" km="16.2" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Ujście Zbrzycy do j. Milachowo; trzymać się lewej odnogi rzeki</opispunktu> 
+    </punkt>
+    <punkt id="902" miejscowosc="Rolbik" 
+      ns="53.9270763" we="17.57886012" km="19.3" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowo-drewniany most drogowy, niski. Mała gastronomia tuż przy moście. Możliwość biwakowania w sąsiedztwie baru (po uzgodnieniu z właścicielem)</opispunktu> 
+    </punkt>
+    <punkt id="901" miejscowosc="Rolbik" 
+      ns="53.92807815" we="17.58076314" km="19.5" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana, niska kładka</opispunktu> 
+    </punkt>
+    <punkt id="900" miejscowosc="Milachowo Młyn" 
+      ns="53.93485238" we="17.59858423" km="21.4" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na publicznej drodze. Za nim jaz spiętrzający wodę dla tartaku. Wygodne wyjście z wody ze slipem, króka przenoska przez drogę i wodowanie z pomostu poniżej jazu</opispunktu> 
+    </punkt>
+    <punkt id="5589" miejscowosc="Milachowo Młyn" 
+      ns="53.93736663" we="17.60090174" km="21.8" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu pole namiotowe bez wygód, wg plakatu płatne 5 zł</opispunktu> 
+    </punkt>
+    <punkt id="899" miejscowosc="Kaszuba" 
+      ns="53.94401055" we="17.62114327" km="23.8" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka. Na prawym brzegu wiata i mała łąka nadająca się do biwakowania</opispunktu> 
+    </punkt>
+    <punkt id="898" miejscowosc="Kaszuba" 
+      ns="53.94433066" we="17.6306175" km="24.6" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek i tabliczka [Brda 25km]</opispunktu> 
+    </punkt>
+    <punkt id="897" miejscowosc="Kaszuba" 
+      ns="53.9447238" we="17.63224153" km="24.7" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek na polnej drodze. Za mostkiem, po lewej awaryjne miejsce biwakowe. Kawałek płaskiego terenu w rzadkim lasku. Nie specjalnie dobre dojście do wody i teren lekko podmokły.
+Za to sprawdzone, że gospodarz jest miły :) [inf. z roku 2006]</opispunktu> 
+    </punkt>
+    <punkt id="895" miejscowosc="Kaszuba" 
+      ns="53.944976" we="17.65034282" km="26.1" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z wygodnym dostępem do rzeki. Drewniany, zabytkowy młyn  (obecnie MEW). 2 metrowy jaz spiętrza do niego wodę. Wygodna przenoska ok. 50m, po lewym brzegu, wokół zabudowań młyna. W pobliżu wiaty, ławki i tereny rekreacyjne. Wyjście z wody ułatwia pomost i slip. Kładka 200m poniżej młyna, jeszcze we wsi
+</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="103" typ="rzeka" nazwa="Zbrzyca od J. Parzyn do ujścia Młosiny" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Zbrzyca jest jeszcze małą rzeką i mogą być problemy ze spływalnością przy niskim poziomie wody - zdarzają się kamieniste płycizny. Na trasie mamy dwie przenoski. Etap piękny, bo szybko płynąca woda niesie kajaki przez las</opis>
+    <punkt id="894" miejscowosc="Kaszuba" 
+      ns="53.9469588" we="17.6580709" km="26.7" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeczki Młosiny do Zbrzycy, z lewej strony.
+[Szlak kajakowy z Leśna]. Płynąc pod prąd Młosiną [łatwo] można po ok. 1,5 km dotrzeć do kładki i biwaku przy Leśniczówce Leśno. Zaraz za połączeniem po lewej stronie znajduje się drewniany pomost ułatwiający dostanie się na wysoką skarpę. Ze skarpy rozpościera się ładny widok na okolice połączenia Młosiny i Zbrzycy</opispunktu> 
+    </punkt>
+    <punkt id="893" miejscowosc="Kaszuba" 
+      ns="53.94956268" we="17.65881527" km="27.1" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Wielka rura dość wysoko nad wodą, a 50m niżej stalowy niski mostek</opispunktu> 
+    </punkt>
+    <punkt id="892" miejscowosc="Parzyn Młyn " 
+      ns="53.95526586" we="17.6511626" km="28.1" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka - stalowa konstrukcja z dwoma przepustami i z drewnianymi progami około 30cm wysokości. Trzeba wybrać łatwiejszy przepust. Wąsko, nisko, ale łatwo. Kładka drewniana nad jazem</opispunktu> 
+    </punkt>
+    <punkt id="891" miejscowosc="Parzyn Młyn" 
+      ns="53.95914728" we="17.65076965" km="29" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zniszczony jaz - zwężenie, łatwe bystrze</opispunktu> 
+    </punkt>
+    <punkt id="890" miejscowosc="Parzyn Młyn" 
+      ns="53.9622618" we="17.65069203" km="29.3" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowy mostek, nisko nad powierzchnią wody</opispunktu> 
+    </punkt>
+    <punkt id="888" miejscowosc="Parzyn Młyn" 
+      ns="53.96331326" we="17.64720907" km="29.8" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">2 metrowy jaz, który spiętrza wodę przy malowniczych ruinach młyna. Średnio wygodna 50m przenoska ścieżką po lewym brzegu. Poniżej drewniany mostek</opispunktu> 
+    </punkt>
+    <punkt id="887" miejscowosc="Parzyn" 
+      ns="53.97380368" we="17.64109647" km="31.3" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy, a pod nim małe bystrze</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="102" typ="jezioro" nazwa="Jeziora górnej Zbrzycy" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Połączone krótkimi odcinkami rzeki jeziora Dywańskie, Somińskie, Kruszyńskie,
+Parzyn, to 10 km bardzo miłego płynięcia. Nad jeziorami nie ma kłopotu ze znalezieniem biwaku. Na odcinakch rzecznych zdarzają się kamieniste płycizny lub groble</opis>
+    <punkt id="886" miejscowosc="Parzyn" 
+      ns="53.97758581" we="17.641657" km="31.7" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Zbrzycy z j. Parzyn. Przy wypływie, na lewym brzegu łąka z dobrym dojściem do wody, ale daleko do lasu i bez cienia</opispunktu> 
+    </punkt>
+    <punkt id="885" miejscowosc="Windorp" 
+      ns="53.98316158" we="17.64150956" km="32.4" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Ujście rzeki do j. Parzyn</opispunktu> 
+    </punkt>
+    <punkt id="884" miejscowosc="Windorp" 
+      ns="53.99024399" we="17.63837926" km="33.5" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany niski mostek, uwaga na wystające gwoździe. Poniżej mostu bystry nurt, liczne kamieniste płycizny</opispunktu> 
+    </punkt>
+    <punkt id="883" miejscowosc="Windorp" 
+      ns="53.99267215" we="17.6383239" km="33.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Zbrzycy z j. Kruszyńskiego. Na prawym brzegu wypływu widoczne jest z dość daleka niewielkie daczowisko z prywatnym pomostem [Wstęp wzbroniony - Teren prywatny]</opispunktu> 
+    </punkt>
+    <punkt id="882" miejscowosc="Peplin" 
+      ns="54.00302401" we="17.61082866" km="36" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Ujście rzeki do j. Kruszyńskiego. Na prawym brzegu jeziora ok. 800 m od ujścia Zbrzycy jest głęboko wcinająca się wąska zatoka - rynna (na 1,5km) z miejscami biwakowymi</opispunktu> 
+    </punkt>
+    <punkt id="881" miejscowosc="Peplin" 
+      ns="54.00609054" we="17.61397411" km="36.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany most na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="880" miejscowosc="Peplin" 
+      ns="54.00639582" we="17.61709837" km="36.7" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ rzeki z jeziora Somińskiego, w trzcinach, trudny do znalezienia</opispunktu> 
+    </punkt>
+    <punkt id="3693" miejscowosc="Sominy" 
+      ns="54.03524035" we="17.639854" km="40.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="biwak" kolejnosc="-1">W Sominach nad j. Somińskim, przy kościele obok boiska jest alternatywne miejsce wygodnego wodowania oraz możliwość biwakowania - jest to teren gminy [inf. z roku 2006]</opispunktu> 
+    </punkt>
+    <punkt id="879" miejscowosc="Sominy" 
+      ns="54.03425428" we="17.65243819" km="41" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Drogowy most betonowy nad wąskim i płytkim kanałem pomiędzy jeziorami Dywańskim i Somińskim. Długości ok. 30m, przepływ bez trudności</opispunktu> 
+    </punkt>
+    <punkt id="878" miejscowosc="Sominy" 
+      ns="54.03771946" we="17.65202834" km="41.4" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Ośrodek wypoczynkowy i galeria rzeźby "Uroczysko". Domki kempingowe i pokoje w barakach, brak możliwości rozbicia namiotu. Ładna plaża i pomost nad j. Dywańskim</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

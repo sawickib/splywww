@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="72" nazwa="Szlak Konwaliowy" wersja="4">
+<opis>Bardzo malowniczy i urozmaicony szlak kajakowy w Przemęckim Parku Krajobrazowym na granicy powiatów leszczyńskiego i wolsztyńskiego (Wielkopolska). Przebiega przez kilkanaście połączonych kanałami jezior. Wiedzie przez tereny zarówno łatwo jak i trudno dostępne, z bogatą infrastrukturą turystyczną jak i całkowicie bezludne. Znajdziemy na nim tereny całkowicie odsłonięte a także gęsto zalesione, obszar chronionego krajobrazu i rezerwat przyrody.
+Niewątpliwą zaletą Szlaku Konwaliowego jest to, że można nim zatoczyć pętlę i powrócić (po 2,7 km przenosce) do miejsca startu.
+Ja przepłynąłem go w 1 dzień - 1 maja 2009 r., gdy chce się jednak dokładnie zapoznać z walorami przyrodniczymi okolic, wskazanym jest poświęcić na spływ 2-3 dni.
+Opis sporządziłem na podstawie własnej trasy. Dobra dostępność do szlaku w różnych jego punktach umożliwia dowolne dopasowanie przebiegu trasy do własnych potrzeb.
+Szlak jest oznakowany i póki co (stan na maj 2009) stopień dewastacji oznakowania jest znikomy !</opis> 
+  <odcinek id="370" typ="mieszany" nazwa="Wieleń - Papiernia" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="3"> 
+  <opis>Jezioro - kanał - jezioro - kanał - jezioro - kanał.... ale stosunkowo ładnie. Przy kanałach spora ilość wędkarzy pomstujących na kajakarzy.</opis>
+    <punkt id="3118" miejscowosc="Miastko" 
+      ns="51.929746" we="16.254301" km="6.68" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce do wodowania. Częste zawody wędkarskie, możliwość przymusowej przenoski</opispunktu> 
+    </punkt>
+    <punkt id="3117" miejscowosc="Miastko" 
+      ns="51.930991" we="16.240229" km="5.58" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wpływ do kanału</opispunktu> 
+    </punkt>
+    <punkt id="3116" miejscowosc="Brenno, jez. Miałkie" 
+      ns="51.935271" we="16.228649" km="4.64" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ na jez. Miałkie</opispunktu> 
+    </punkt>
+    <punkt id="3115" miejscowosc="Brenno, jez. Białe" 
+      ns="51.932415" we="16.217361" km="3.8" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ na jez. Białe</opispunktu> 
+    </punkt>
+    <punkt id="3114" miejscowosc="Brenno, jez. Breńskie" 
+      ns="51.929974" we="16.214653" km="3.5" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wpływ do kanału</opispunktu> 
+    </punkt>
+    <punkt id="3113" miejscowosc="Brenno, jez. Breńskie" 
+      ns="51.931888" we="16.207881" km="2.92" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ na jez. Breńskie</opispunktu> 
+    </punkt>
+    <punkt id="3112" miejscowosc="Brenno, jez. Trzytoniowe" 
+      ns="51.936855" we="16.205139" km="2.26" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wpływ do kanału</opispunktu> 
+    </punkt>
+    <punkt id="3123" miejscowosc="Wieleń, jez. Wieleńskie" 
+      ns="0" we="0" km="35.24" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Plaża miejska, wygodne miejsce do wodowania</opispunktu> 
+    </punkt>
+    <punkt id="3122" miejscowosc="Papiernia" 
+      ns="51.917647" we="16.287752" km="9.71" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wpływ do kanału</opispunktu> 
+    </punkt>
+    <punkt id="3121" miejscowosc="Zaborówiec" 
+      ns="51.921653" we="16.272668" km="8.48" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ na jez. Brzeźnie</opispunktu> 
+    </punkt>
+    <punkt id="3120" miejscowosc="Miastko" 
+      ns="51.923229" we="16.263388" km="7.71" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wpływ do kanału</opispunktu> 
+    </punkt>
+    <punkt id="3119" miejscowosc="Miastko, jez. Lincjusz" 
+      ns="51.927774" we="16.255429" km="6.94" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ na jez. Lincjusz</opispunktu> 
+    </punkt>
+    <punkt id="3111" miejscowosc="Wieleń, jez. Wieleńskie" 
+      ns="51.954543" we="16.189012" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Plaża miejska, wygodne miejsce do wodowania</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="293" typ="jezioro" nazwa="Błotnica - Wieleń" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Kilkukilometrowy odcinek ładnych jezior o malowniczych brzegach, z Wyspą Konwaliową na której znajduje się rezerwat przyrody.</opis>
+    <punkt id="2652" miejscowosc="Osłonin, jez. Osłonińskie" 
+      ns="51.949411" we="16.210128" km="33.64" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Most, wygodne miejsce wodowania
+</opispunktu> 
+    </punkt>
+    <punkt id="2651" miejscowosc="Olejnica" 
+      ns="51.961283" we="16.249107" km="29.62" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="sklep" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce do wodowania
+</opispunktu> 
+    </punkt>
+    <punkt id="2650" miejscowosc="Wyspa Konwaliowa" 
+      ns="51.982137" we="16.252969" km="25.15" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rezerwat przyrody "Wyspa Konwaliowa"</opispunktu> 
+    </punkt>
+    <punkt id="2649" miejscowosc="Błotnica, jez. Błotnickie" 
+      ns="51.994922" we="16.288135" km="23.67" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jez. Błotnickie</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="292" typ="mieszany" nazwa="Boszkowo - Błotnica" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Urozmaicony odcinek szlaku. Prowadzi przez 3 jeziora połączone kanałami. Jest to jednak najmniej ciekawy odcinek. Ze względu, iż swój początek bierze w Boszkowie - znanej miejscowości turystycznej, woda jest mętna i zaśmiecona. 
+Wg informacji uzyskanych od Zientasa w dniu 24.08.2010 r.: "Często od połowy czerwca zaczynają zarastać kanały między 19.17 km a 20.26 oraz 20.55 a 23.15 km. Wszystko zależy od budżetu Gmin / RZGW na dany rok, stopnia nacisków społecznych itp."</opis>
+    <punkt id="2648" miejscowosc="Błotnica" 
+      ns="51.991509" we="16.293035" km="23.15" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="sklep" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce do wodowania</opispunktu> 
+    </punkt>
+    <punkt id="2647" miejscowosc="Boszkowo" 
+      ns="51.985234" we="16.326741" km="20.55" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ do kanału Błotnickiego</opispunktu> 
+    </punkt>
+    <punkt id="2646" miejscowosc="Boszkowo, jez. Boszkowskie" 
+      ns="51.986062" we="16.330716" km="20.26" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jez. Boszkowskie</opispunktu> 
+    </punkt>
+    <punkt id="2645" miejscowosc="Boszkowo" 
+      ns="51.985359" we="16.336248" km="19.87" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce do wodowania</opispunktu> 
+    </punkt>
+    <punkt id="2644" miejscowosc="Boszkowo" 
+      ns="51.981936" we="16.344912" km="19.17" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ do kanału</opispunktu> 
+    </punkt>
+    <punkt id="2643" miejscowosc="Boszkowo, jez. Małe" 
+      ns="51.980015" we="16.34647" km="18.93" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jez. Małe</opispunktu> 
+    </punkt>
+    <punkt id="2642" miejscowosc="Boszkowo" 
+      ns="51.978326" we="16.344937" km="18.71" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce do wodowania</opispunktu> 
+    </punkt>
+    <punkt id="2641" miejscowosc="Boszkowo" 
+      ns="51.976524" we="16.343531" km="18.49" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ do kanału</opispunktu> 
+    </punkt>
+    <punkt id="2640" miejscowosc="Boszkowo, jez. Wielkie" 
+      ns="51.967119" we="16.343653" km="17.42" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jez. Wielkie</opispunktu> 
+    </punkt>
+    <punkt id="2639" miejscowosc="Boszkowo" 
+      ns="51.957891" we="16.335299" km="15.83" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Małe spiętrzenie wody, około 50 cm - możliwe do spłynięcia</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska 5m prawym brzegiem</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="291" typ="jezioro" nazwa="Dominickie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Jedyne na szlaku jezioro z przyjrzystą wodą. W czasie silnego wiatru płynięcie kajakiem może być nieco uciążliwe</opis>
+    <punkt id="2638" miejscowosc="Boszkowo" 
+      ns="51.957663" we="16.334854" km="15.8" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ do kanału, wygodne miejsce do wodowania.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep spożywczy w pobliżu plaży.</opispunktu> 
+    </punkt>
+    <punkt id="2637" miejscowosc="Dominice, jez. Dominickie" 
+      ns="51.942106" we="16.298577" km="12.76" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Plaża miejska, wygodne miejsce do wodowania
+</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep spożywczy w pobliżu plaży.</opispunktu> 
+    </punkt>
+    <punkt id="2636" miejscowosc="Papiernia" 
+      ns="51.919929" we="16.289879" km="10" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Od tego miejsca do Dominic (2,7 km) należy przenieść lub przewieźć kajaki leśną, piaszczystą drogą.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Leśnictwo, mostek.</opispunktu> 
+    </punkt>
+  </odcinek>
+    <punkt id="2636" miejscowosc="Papiernia" 
+      ns="51.919929" we="16.289879" km="10" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Od tego miejsca do Dominic (2,7 km) należy przenieść lub przewieźć kajaki leśną, piaszczystą drogą.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Leśnictwo, mostek.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

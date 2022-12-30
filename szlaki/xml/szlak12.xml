@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="12" nazwa="Warta" wersja="8">
+<opis>Warta jest trzecią co do wielkości rzeką Polski. Jej długość wynosi 808 km. Opisany górny odcinek jest chyba najładniejszym przełomem dużej rzeki nizinnej. Szlak jest nieuciążliwy, nie ma niebezpieczeństw, po drodze dużo dobrych miejsc do biwakowania. Licznie wystepują tu zimorodki, a w rzece widać spore ryby. Warto wysiąść z kajaka przy moście w Bobrownikach i zwiedzić na lewym brzegu rezerwat geologiczny z jaskiniami z ciekawą szatą naciekową. Kajaki na tym odcinku widuje się rzadko, więc można liczyć na spokojny urlop.</opis> 
+  <odcinek id="61" typ="rzeka" nazwa="Warta od Krzeczowa do Rychłocic" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL3" 
+      kolejnosc="4"> 
+  <opis>Odcinek malowniczy, rzeka wyraznie prostsza i bez mielizn się nie obejdzie. Rzeka płynie w kierunku północnym, brzegi w wielu miejscach dostępne do biwakowania.</opis>
+    <punkt id="552" miejscowosc="Rychłocice" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="65"> 
+    <opispunktu typ="bar" kolejnosc="-1">Bar jak to bar</opispunktu> 
+    </punkt>
+    <punkt id="551" miejscowosc="Rychłocice" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="64"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Kilka sklepów</opispunktu> 
+    </punkt>
+    <punkt id="550" miejscowosc="Rychłocice" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="63"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole namiotowe</opispunktu> 
+    </punkt>
+    <punkt id="549" miejscowosc="Rychłocice" 
+      ns="51.3894" we="18.8133" km="559.2" etykieta="" 
+      kolejnosc="62"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, przed mostem rozmyty jaz</opispunktu> 
+    </punkt>
+    <punkt id="548" miejscowosc="Konopnica" 
+      ns="0" we="0" km="564" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="545" miejscowosc="Osjaków" 
+      ns="0" we="0" km="574" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Za mostem pole namiotowe z prawej</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Jakiś bar na prawym brzegu.</opispunktu> 
+    </punkt>
+    <punkt id="544" miejscowosc="Kajdas" 
+      ns="0" we="0" km="578.7" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Szyna spiętrzająca rozerwana - uwaga!!!</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">L mlyn Kajdas  tel.043-8418900  Gosp. Agroturystyczne, przemiłe psy - nie bać się; szyna spiętrzająca; możliwość przenoski przy niskiej wodzie</opispunktu> 
+    </punkt>
+    <punkt id="543" miejscowosc="Łykowe" 
+      ns="0" we="0" km="586.7" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="stanica" kolejnosc="-1">L Ośrodek wyp.KALINA tel 043-8423683 prawie niewidoczny z rzeki</opispunktu> 
+    </punkt>
+    <punkt id="542" miejscowosc="Łykowe" 
+      ns="0" we="0" km="587.2" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Młyn Łykowe, Niwa</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Obok młynu Łykowe zniszczony próg trzeba płynąć
+środkiem dalej mielizny trzymać się prawej strony.</opispunktu> 
+    </punkt>
+    <punkt id="541" miejscowosc="Krzeczów" 
+      ns="0" we="0" km="588" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="stanica" kolejnosc="-1">L Hotel RITMO,camping,restauracja tel.043-8421523</opispunktu> 
+    </punkt>
+    <punkt id="540" miejscowosc="Krzeczów" 
+      ns="51.1869" we="18.7578" km="589" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, z prawej miejsce wodowania</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="60" typ="rzeka" nazwa="Warta od Działoszyna do Krzeczowa" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL3" 
+      kolejnosc="3"> 
+  <opis>Najładniejszy odcinek Warty; rzeka plynie przelomem przez utwory jurajskie i zmienia swój bieg z zachodniego na północny. Odcinek bardzo malowniczy, na brzegach można zobaczyć stare wapienniki (piece do wypalania wapna) i wapienne wzgórza. Załęczański Park Krajobrazowy.</opis>
+    <punkt id="539" miejscowosc="Toporów" 
+      ns="0" we="0" km="593.2" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rozlewisko za mostem, szyna spietrzająca, przenoska po prawej</opispunktu> 
+    </punkt>
+    <punkt id="538" miejscowosc="Toporów" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="most" kolejnosc="-1">Po prostu most pomiędzy Toporowem, a Kamionem</opispunktu> 
+    </punkt>
+    <punkt id="537" miejscowosc="Laszew Rządowy" 
+      ns="0" we="0" km="599.2" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście jakiejś rzeczki z lewej</opispunktu> 
+    </punkt>
+    <punkt id="536" miejscowosc="Gród Nadwarciański" 
+      ns="0" we="0" km="603.7" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Spływalny próg wodny, prom, hotel, kawiarnia. Przed progiem po lewej ładny drewniany młyn.</opispunktu> 
+    </punkt>
+    <punkt id="535" miejscowosc="Kępowizna" 
+      ns="0" we="0" km="604.2" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak, dalej od brzegu ośrodek wyp.</opispunktu> 
+    </punkt>
+    <punkt id="534" miejscowosc="" 
+      ns="0" we="0" km="606.2" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Ośrodek wypoczynkowy</opispunktu> 
+    </punkt>
+    <punkt id="532" miejscowosc="Załęcze Wielkie" 
+      ns="0" we="0" km="607.2" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Kilka sklepów</opispunktu> 
+    </punkt>
+    <punkt id="1335" miejscowosc="" 
+      ns="0" we="0" km="609.2" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="biwak" kolejnosc="-1">2 km przed Załęczem po lewej ładne miejsce
+biwakowe z sławojką i stolikiem</opispunktu> 
+    </punkt>
+    <punkt id="531" miejscowosc="" 
+      ns="0" we="0" km="616.2" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="most" kolejnosc="-1">Do okoła liczne wyspy i zakola</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Ok. 50 m za mostem na lewym brzegu duża polana - dobre miejsce biwakowe.</opispunktu> 
+    </punkt>
+    <punkt id="530" miejscowosc="Bobrowniki-Kapitula" 
+      ns="0" we="0" km="617.2" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep widoczny z rzeki; stoliki, ławki</opispunktu> 
+    </punkt>
+    <punkt id="529" miejscowosc="Lisowice" 
+      ns="0" we="0" km="621.2" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy i dobre miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="528" miejscowosc="Działoszyn" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Z prawej kolektor ściekowy zachęcający do szybszego plynięcia z uwagi na zapachy</opispunktu> 
+    </punkt>
+    <punkt id="527" miejscowosc="Działoszyn" 
+      ns="0" we="0" km="624.2" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="59" typ="rzeka" nazwa="Warta od Ważnych Młynów do Działoszyna" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="2"> 
+  <opis>Odcinek dość malowniczy, rzeka szeroka z licznymi wyspami i mieliznami, na brzegach dużo miejsc nadających się do biwakowania. Dobre miejsce do startu z ośrodka wyp. gdzie można zostawić auto. Skończyć można na przenosce w Działoszynie.</opis>
+    <punkt id="526" miejscowosc="Działoszyn" 
+      ns="0" we="0" km="624.4" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Spiętrzenie przed młynem</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska 10 metrów, po prawej</opispunktu> 
+    </punkt>
+    <punkt id="524" miejscowosc="" 
+      ns="0" we="0" km="625.2" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">próg wodny, płynąć w prawo</opispunktu> 
+    </punkt>
+    <punkt id="523" miejscowosc="Zalesiaki" 
+      ns="0" we="0" km="626.7" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Pomost, restauracja Malibu, hotel, jazda konna, kort tenisowy</opispunktu> 
+    </punkt>
+    <punkt id="522" miejscowosc="" 
+      ns="0" we="0" km="629.4" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="521" miejscowosc="Lelity" 
+      ns="0" we="0" km="630.2" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Młyn Lelity, płynąć prawą odnogą</opispunktu> 
+    </punkt>
+    <punkt id="520" miejscowosc="Płaczki" 
+      ns="0" we="0" km="634.2" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">L Wieś Płaczki</opispunktu> 
+    </punkt>
+    <punkt id="518" miejscowosc="Wąsosz" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="bar" kolejnosc="-1">Drink bar</opispunktu> 
+    </punkt>
+    <punkt id="517" miejscowosc="Wąsosz" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Wiejskie sklepy</opispunktu> 
+    </punkt>
+    <punkt id="516" miejscowosc="Wąsosz" 
+      ns="0" we="0" km="637.1" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy betonowy</opispunktu> 
+    </punkt>
+    <punkt id="519" miejscowosc="Wąsosz" 
+      ns="51.06268004" we="19.00468254" km="638" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe na lewym brzegu z drewnianą wiatą. Po drugie stronie drogi miejsce parkingowe dla kilku samochodów. Wygodne miejsce wodowania z dojazdem do wody i pomostem.</opispunktu> 
+    </punkt>
+    <punkt id="515" miejscowosc="Kule" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklepy przy piaszczystym lewym brzegu</opispunktu> 
+    </punkt>
+    <punkt id="514" miejscowosc="Kule" 
+      ns="51.04752335" we="19.0352095" km="641.2" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="ujście" kolejnosc="-1">L Ujście Liswarty</opispunktu> 
+    </punkt>
+    <punkt id="513" miejscowosc="Orczuchy" 
+      ns="51.05433548" we="19.08818154" km="648.2" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Liczne zakola i wyspy. Przed ujściem Liswarty, Warta tworzy swego rodzaju przełom. Przecina bowiem wychodnie skał wapiennych, które w tym miejscu pokazują się na powierzchni terenu. Rzeka poszerza się, wypłyca i tworzy kamienne bystrza.</opispunktu> 
+    </punkt>
+    <punkt id="512" miejscowosc="Ważne Młyny" 
+      ns="0" we="0" km="653.2" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="biwak" kolejnosc="-1">P Ładne miejsce biwakowe</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="484" typ="rzeka" nazwa="Klekowiec - Ważne Młyny" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Warta wpływa na obszary zadrzewione. Przy okazji zyskuje swój pierwotny charakter, robi się dzika, miejscami przyspiesza, meandruje i podmywa brzegi. W wodzie pojawiają się przeszkody w postaci powalonych drzew, nie utrudniają one jednak płynięcia, za to niewątpliwie rzece dodają uroku.</opis>
+    <punkt id="4127" miejscowosc="Bobry" 
+      ns="51.025417" we="19.403898" km="682.4" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 0,8 m pod kładką spławny ale fartuch wskazany</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska lewym brzegiem 50 m</opispunktu> 
+    </punkt>
+    <punkt id="4128" miejscowosc="Bobry" 
+      ns="51.02611692" we="19.40237624" km="682.2" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy. Pod mostem kamienne bystrze</opispunktu> 
+    </punkt>
+    <punkt id="4129" miejscowosc="Szczepocice" 
+      ns="51.02452355" we="19.35230529" km="678.3" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4130" miejscowosc="Szczepocice" 
+      ns="51.02800996" we="19.32721798" km="676.4" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most ruchliwej drogi Katowice - Warszawa</opispunktu> 
+    </punkt>
+    <punkt id="4131" miejscowosc="Łęg" 
+      ns="51.02765193" we="19.31279419" km="675.1" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz elektrowni wodnej</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem po piasku i kamieniach 80m</opispunktu> 
+    </punkt>
+    <punkt id="4132" miejscowosc="Łęg" 
+      ns="51.029031" we="19.30050253" km="674.1" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="4133" miejscowosc="Jankowice" 
+      ns="51.04393073" we="19.22862007" km="663.3" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Po prawej przesmyk wprowadzający na zalew z plażą i kąpieliskiem. Wygodne miejsce wodowania.</opispunktu> 
+    <opispunktu typ="stanica" kolejnosc="-1">Stanica WOPR w lewo za przesmykiem</opispunktu> 
+    </punkt>
+    <punkt id="4134" miejscowosc="Jankowice" 
+      ns="51.04326715" we="19.22410882" km="663" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz elektrowni wodnej</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewym brzegiem 80m</opispunktu> 
+    </punkt>
+    <punkt id="507" miejscowosc="Ważne Młyny" 
+      ns="51.04416513" we="19.15400587" km="654.2" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="508" miejscowosc="Ważne Młyny" 
+      ns="51.04398624" we="19.14768432" km="653.6" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg z wielkich głazów i podkładów kolejowych</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska ok. 40-50m wzdłuż ogrodzenia ośrodka po mocno
+zarośniętym i obrywającym się brzegu. Przenoska brzegiem lewym jest dłuższa ale za to bardziej komfortowa</opispunktu> 
+    <opispunktu typ="stanica" kolejnosc="-1">Ośrodek wypoczynkowy (pan Jakubczak)</opispunktu> 
+    </punkt>
+    <punkt id="511" miejscowosc="Ważne Młyny" 
+      ns="51.04367447" we="19.14662798" km="653.5" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="483" typ="rzeka" nazwa="Karczewice - Klekowiec" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Warta na tym odcinku w przeważającej większości jest uregulowana. Często jest wyprostowana, ma wzmocnione brzegi i przegrodzona jest budowlami hydrotechnicznymi. Tylko na nielicznych fragmentach meandruje i podmywa brzegi. W zdecydowanej większości prowadzi swe wody przez tereny odkryte - łąki i pola, a tylko miejscami na tym odcinku jej brzegi porastają drzewa.</opis>
+    <punkt id="4110" miejscowosc="Karczewice" 
+      ns="50.88782974" we="19.43462874" km="701.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Możliwość rozpoczynania spływu, chociaż rzeka prowadzi małą ilość wody. Prawdopodobnie większość wody skierowana jest na młynówkę, przez którą most przechodzi kilkaset metrów dalej drogą na wschód</opispunktu> 
+    </punkt>
+    <punkt id="4111" miejscowosc="Błonie" 
+      ns="50.89159868" we="19.44411907" km="700.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie młynówki z Wartą</opispunktu> 
+    </punkt>
+    <punkt id="4112" miejscowosc="" 
+      ns="50.90846728" we="19.44950623" km="698.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">W prawo odchodzi kanał Wiercica, 100m dalej jest przegrodzony zastawką, z której spływa niewystarczająca - do płynięcia - ilość wody</opispunktu> 
+    </punkt>
+    <punkt id="4113" miejscowosc="Śliwaków" 
+      ns="50.92360119" we="19.44361096" km="696.6" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz elektrowni wodnej</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewym brzegiem po trawie 60m</opispunktu> 
+    </punkt>
+    <punkt id="4114" miejscowosc="Śliwaków" 
+      ns="50.93098944" we="19.44025121" km="695.7" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Prosto stare koryto, zapora z gruzu i larsenów przed zniszczonym jazem. Cała woda płynie w lewo młynówką</opispunktu> 
+    </punkt>
+    <punkt id="4115" miejscowosc="Zawada" 
+      ns="50.93405154" we="19.43373316" km="695.1" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">3 przęsłowa betonowa kładka nieznacznie piętrząca wodę</opispunktu> 
+    </punkt>
+    <punkt id="4116" miejscowosc="Zawada" 
+      ns="50.93719068" we="19.43157334" km="694.7" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4117" miejscowosc="Zawada" 
+      ns="50.93895862" we="19.43214634" km="694.5" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz elektrowni wodnej</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewym brzegiem 50m po trawie</opispunktu> 
+    </punkt>
+    <punkt id="4118" miejscowosc="Zawada" 
+      ns="50.94527903" we="19.43461943" km="693.6" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek wys 1m, wskazane fartuchy</opispunktu> 
+    </punkt>
+    <punkt id="4119" miejscowosc="" 
+      ns="50.94798444" we="19.43653391" km="693.2" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie starego koryta z młynówką</opispunktu> 
+    </punkt>
+    <punkt id="4120" miejscowosc="Ruda" 
+      ns="50.96125658" we="19.44597322" km="691.4" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze. Dobre dojście do wody. Tablica z opisem szlaku Warty</opispunktu> 
+    </punkt>
+    <punkt id="4121" miejscowosc="Pławno" 
+      ns="50.97089" we="19.451515" km="690.1" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie z kanałem Wiercicy</opispunktu> 
+    </punkt>
+    <punkt id="4122" miejscowosc="Górki" 
+      ns="50.97700354" we="19.44866399" km="689.4" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce wodowania, odpoczynku, biwaku. W pobliżu ławki i boisko do siatkówki</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep 500 m od mostu</opispunktu> 
+    </punkt>
+    <punkt id="4123" miejscowosc="Gowarzów" 
+      ns="50.996739" we="19.444207" km="687.1" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W nurcie rzeki pale - pozostałości po starym moście</opispunktu> 
+    </punkt>
+    <punkt id="4124" miejscowosc="Klekowiec" 
+      ns="51.00920943" we="19.43783248" km="685.6" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W nurcie rzeki rząd słabo widocznych pali - prożek delikatnie piętrzący wodę</opispunktu> 
+    </punkt>
+    <punkt id="4125" miejscowosc="Klekowiec" 
+      ns="51.01332762" we="19.4352172" km="685.1" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg betonowy 1,3 m z odwojem, wskazany fartuch</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska lewym brzegiem 30 m</opispunktu> 
+    </punkt>
+    <punkt id="4126" miejscowosc="Klekowiec" 
+      ns="51.01907647" we="19.4275039" km="684.3" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="62" typ="rzeka" nazwa="Warta od Rychłocic do Sieradza" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="5"> 
+  <opis>Ładny odcinek prostej rzeki, regulowanej od Burzenina do Sieradza. W Strońsku najwyższy punkt nad Wartą w sieradzkiem z kościołem św. Urszuli z XIII wieku. Od ujścia Widawki rzeka głębsza i bez żadnych przeszkód do samego Sieradza. Park krajobrazowy.</opis>
+    <punkt id="566" miejscowosc="Sieradz" 
+      ns="51.6028" we="18.7689" km="526.2" etykieta="" 
+      kolejnosc="80"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie Sieradz -- Łódź</opispunktu> 
+    </punkt>
+    <punkt id="565" miejscowosc="Woźniki" 
+      ns="0" we="0" km="528.3" etykieta="" 
+      kolejnosc="79"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wieś Wozniki po prawej</opispunktu> 
+    </punkt>
+    <punkt id="567" miejscowosc="Sieradz" 
+      ns="0" we="0" km="525" etykieta="" 
+      kolejnosc="78"> 
+    <opispunktu typ="bar" kolejnosc="-1">Przy ujściu Żegliny, bar i miejsc wodowania w OSiR na lewym brzegu</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeczki Żegliny do Warty z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="564" miejscowosc="Strońsko" 
+      ns="0" we="0" km="537" etykieta="" 
+      kolejnosc="77"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rzeka zaczyna być uregulowana, wsie oddalone od brzegów</opispunktu> 
+    </punkt>
+    <punkt id="563" miejscowosc="Pstrokonie" 
+      ns="0" we="0" km="539" etykieta="" 
+      kolejnosc="76"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep, wodować na prawym brzegu w miejscu po dawnym promie</opispunktu> 
+    </punkt>
+    <punkt id="562" miejscowosc="" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="75"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Dużo miejs biwakowych przy ujściu Widawki</opispunktu> 
+    </punkt>
+    <punkt id="561" miejscowosc="" 
+      ns="0" we="0" km="541.2" etykieta="" 
+      kolejnosc="74"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Widawki z prawej strony Warty</opispunktu> 
+    </punkt>
+    <punkt id="560" miejscowosc="" 
+      ns="0" we="0" km="541.7" etykieta="" 
+      kolejnosc="73"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Szyna piętrząca przerwana w środku, możliwa przenoska lewym brzegiemdla składaków</opispunktu> 
+    </punkt>
+    <punkt id="559" miejscowosc="Ligota" 
+      ns="0" we="0" km="543.3" etykieta="" 
+      kolejnosc="72"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wieś Ligota po lewej</opispunktu> 
+    </punkt>
+    <punkt id="558" miejscowosc="" 
+      ns="0" we="0" km="546" etykieta="" 
+      kolejnosc="71"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Teren biwakowy na prawym brzegu, ładne kąpielisko</opispunktu> 
+    </punkt>
+    <punkt id="557" miejscowosc="Strumiany" 
+      ns="0" we="0" km="" etykieta="" 
+      kolejnosc="70"> 
+    <opispunktu typ="sklep" kolejnosc="-1">400m poniżej mostu bar i sklepy</opispunktu> 
+    </punkt>
+    <punkt id="556" miejscowosc="Strumiany" 
+      ns="0" we="0" km="548.2" etykieta="" 
+      kolejnosc="69"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Strumianami a Burzeninem</opispunktu> 
+    </punkt>
+    <punkt id="555" miejscowosc="Majeczewice" 
+      ns="0" we="0" km="553.4" etykieta="" 
+      kolejnosc="68"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wieś Majeczewice po lewej</opispunktu> 
+    </punkt>
+    <punkt id="554" miejscowosc="Jarocice" 
+      ns="0" we="0" km="555" etykieta="" 
+      kolejnosc="67"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wieś Jarocice po lewej</opispunktu> 
+    </punkt>
+    <punkt id="553" miejscowosc="Mała Wieś" 
+      ns="0" we="0" km="557" etykieta="" 
+      kolejnosc="66"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Oleśnicy z lewej</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

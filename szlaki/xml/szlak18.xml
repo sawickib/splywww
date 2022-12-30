@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="18" nazwa="Wkra" wersja="3">
+<opis>Wkra jest typową polską nizinną rzeką średniej wielkości. Łatwa i malownicza - bez problemu nadaje się nawet dla zupełnie początkujących kajarzy. Co prawda patrząc na mapę widać, że rzeka płynie głównie polami i łąkami, a dookoła wsie - jednak z kajaka się tego nie czuje. Rzekę otaczają drzewa i pagórki, a wsie spotyka się z odpowiednią do zakupów częstotliwością.
+(Tomasz Toczyski) Na odcinku od miejscowości Joniec ma przeciętnie 20m szerokości. Płytka, dno piaszczyste, woda czysta. Jak na rzekę nizinną to prąd całkiem, całkiem - Nie mierzyłem, ale będzie pewnie ze 2km/h. Wkra płynie przez pola oraz lasy sosnowe i mieszane. Po drodze jest trochę wsi, ale nie psują one znacząco urokliwości krajobrazu. Na trasie nie ma wyznaczonych pól namiotowych. W poniższym opisie zaznaczyłem co prawda kilka "biwaków", jednakże nie jest pewne, czy właściciele owych pól wyraziliby zgodę na biwakowanie.</opis> 
+  <odcinek id="423" typ="rzeka" nazwa="Wkra od Jońca do ujścia" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="7"> 
+  <opis>Typowa, leniwa, mazowiecka rzeka. </opis>
+    <punkt id="3516" miejscowosc="Cieksyn" 
+      ns="52.56596319" we="20.64564376" km="20.7" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Te współrzędne wyznaczają miejsce z dużą ilością wystających z wody kamieni.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Za tym miejscem na długości ok. 600m jest wiele dogodnych miejsc do biwakowania na lewym brzegu. Zadrzewienia olchowe, a dalej sosnowe. Urocza okolica.</opispunktu> 
+    </punkt>
+    <punkt id="3515" miejscowosc="Dobra Wola" 
+      ns="52.57159173" we="20.62660408" km="22.2" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście niewielkiej strugi o nazwie Naruszewka.</opispunktu> 
+    </punkt>
+    <punkt id="3514" miejscowosc="Kolonia Cieksyn" 
+      ns="52.57668009" we="20.62962591" km="22.9" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3513" miejscowosc="Popielżyn Dolny" 
+      ns="52.59511106" we="20.6216379" km="25.6" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście rzeki Sona. Sona przy ujściu ma około 9m szerokości. Wygląda na spływalną dla niedużego kajaka, ale uciążliwą.</opispunktu> 
+    </punkt>
+    <punkt id="3512" miejscowosc="Popielżyn Zawady" 
+      ns="52.59548797" we="20.60719453" km="26.9" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwy biwak. Przy biwaku niewielkie bystrze.</opispunktu> 
+    </punkt>
+    <punkt id="3511" miejscowosc="Popielżyn Górny" 
+      ns="52.59775299" we="20.60264651" km="27.3" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka na wysokości 1m nad wodą.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Przy kładce na lewym brzegu zapewne możnaby zabiwakować.</opispunktu> 
+    </punkt>
+    <punkt id="3510" miejscowosc="Joniec" 
+      ns="52.6025049" we="20.58131697" km="28.9" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Na lewym brzegu bardzo dogodne miejsce na rozpoczęcie spływu. Polanka przy sosnowym lesie, zjazd dla samochodów, dobre zejście do wody.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce nadaje się na biwak.</opispunktu> 
+    </punkt>
+    <punkt id="3521" miejscowosc="Zaborze" 
+      ns="52.5351631" we="20.69372144" km="14.4" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przepiękne miejsce. Wysoki lewy brzeg. Piękne, łagone skarpy.</opispunktu> 
+    </punkt>
+    <punkt id="3520" miejscowosc="Błędowo" 
+      ns="52.54777898" we="20.68300656" km="16.4" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Sztuczny próg - wysokość około 15cm. Kajakom nie powinno się nic złego stać. </opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Zaraz za progiem na lewym brzegu piękna polana na biwak. Niedogodnością tego miejsca są zabudowania na drugim (prawym) brzegu rzeki.</opispunktu> 
+    </punkt>
+    <punkt id="3519" miejscowosc="Borkowo" 
+      ns="52.56024884" we="20.6677674" km="18.6" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">150m za mostem, w miejscu po dawnym moście jest sztuczny próg o wysokości około 30cm. Mało wytrzymałe kajaki mogą lekko ucierpieć.</opispunktu> 
+    </punkt>
+    <punkt id="3518" miejscowosc="Cieksyn" 
+      ns="52.56202373" we="20.66549332" km="18.8" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Kilkadziesiąt metrów przed mostem dopływ rzeczki Nasielna - niespływalnej.</opispunktu> 
+    </punkt>
+    <punkt id="3517" miejscowosc="Cieksyn" 
+      ns="52.56395935" we="20.65457652" km="19.8" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Niewielkie bystrze</opispunktu> 
+    </punkt>
+    <punkt id="3530" miejscowosc="Płaciszewo" 
+      ns="52.74927963" we="20.37709618" km="61.8" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="3529" miejscowosc="Dziektarzewo" 
+      ns="52.76820505" we="20.33334983" km="70" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="3528" miejscowosc="Glinojeck" 
+      ns="52.81797713" we="20.27913084" km="85.7" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3527" miejscowosc="Pomiechówek" 
+      ns="52.44497468" we="20.74566931" km="0" etykieta="" 
+      kolejnosc="66"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Wkry do Narwii. Spływ wygodnie jest zakończyć przy moście w Modlinie, tj. po przepłynięciu jeszcze 4km w dół Narwii. Zaraz za tym mostem, po prawej stronie rzeki (Narwii) jest letni ośrodek wypoczynkowy. Po uzgodnienu z dozorcą można wjechać na teren samochodem, żeby zabrać kajaki.</opispunktu> 
+    </punkt>
+    <punkt id="3526" miejscowosc="Pomiechówek" 
+      ns="52.47304282" we="20.73791193" km="3.6" etykieta="" 
+      kolejnosc="65"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w Pomiechówku, a 100m za nim kolejowy.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Najbliższe sklepy są na lewym brzegu, około 200m od mostu.</opispunktu> 
+    </punkt>
+    <punkt id="3525" miejscowosc="Kosewko" 
+      ns="52.49460244" we="20.69873926" km="7.8" etykieta="" 
+      kolejnosc="64"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych. Pod kładką bardzo przyjemne bystrze. Ach, jak przyjemnie kołysać się wśród fal! :-)</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Koniec rezerwatu Kosewko. </opispunktu> 
+    </punkt>
+    <punkt id="3524" miejscowosc="Szczypiorno" 
+      ns="52.49508092" we="20.68282734" km="9" etykieta="" 
+      kolejnosc="63"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Początek rezerwatu Kosewko. W rezerwacie bardzo ładny, bujny las mieszany po obu stronach rzeki.</opispunktu> 
+    </punkt>
+    <punkt id="3523" miejscowosc="Goławice" 
+      ns="52.50484795" we="20.6792751" km="10.6" etykieta="" 
+      kolejnosc="62"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Bardzo dobry biwak na lewym brzegu. Tu właśnie nocowaliśmy. Dobre zejście do wody. Obszerna łąka pod lasem. Miejsce to nie wygląda na bezpańskie, ale na szczęście właściciel się nam nie objawił. Z biwaku nie widać żadnych zabudowań.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">400m do wsi Goławice - jest tam sklep.</opispunktu> 
+    </punkt>
+    <punkt id="3522" miejscowosc="Śniadówek" 
+      ns="52.51908482" we="20.68171692" km="12.1" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy - konstrukcja pylonowa.</opispunktu> 
+    </punkt>
+    <punkt id="3535" miejscowosc="Sobieski" 
+      ns="52.63574665" we="20.5495703" km="36" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3534" miejscowosc="Idzikowice" 
+      ns="52.65530359" we="20.51206166" km="39.9" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze z Płońska do Nowego Miasta</opispunktu> 
+    </punkt>
+    <punkt id="3533" miejscowosc="Sochocin" 
+      ns="52.68533326" we="20.46917003" km="46.4" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3532" miejscowosc="Kępa" 
+      ns="52.72843715" we="20.42940451" km="54.9" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3531" miejscowosc="Małużyn" 
+      ns="52.74565911" we="20.41842511" km="57.4" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="75" typ="rzeka" nazwa="Wkra od Radzanowa do Strzegowa" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Piękna polska nizinna rzeka. Na brzegach łąki, krowy, wierzby i malownicze wsie. Łatwy odcinek, co nie oznacza, że nudny.</opis>
+    <punkt id="701" miejscowosc="Strzegowo" 
+      ns="52.89015" we="20.28192" km="100.1" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">most drogowy w Strzegowie na trasie Warszawa - Gdańsk</opispunktu> 
+    </punkt>
+    <punkt id="698" miejscowosc="Rydzyn Włościański" 
+      ns="52.90325601" we="20.23945918" km="104.4" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="most" kolejnosc="-1">most drogowy</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">200 metrów poniżej mostu na lewym brzegu zorganizowane miejsce biwakowe wypożyczalni (duża wiata, miejsce na ognisko)</opispunktu> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1"> kajaków: (0-23) 613 09 63, 0 604 859 123</opispunktu> 
+    </punkt>
+    <punkt id="697" miejscowosc="Staroguby" 
+      ns="52.92004" we="20.20403" km="109.1" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="696" miejscowosc="Trzciniec" 
+      ns="52.93213" we="20.17581" km="111.7" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Malownicza łąka na prawym brzegu, super dojście do wody, można biwakować po uzgodnieniu z gospodarzem (300m we wsi po prawej, drugie gospodarstwo, możliwość kupienia mleka "prosto od krowy")</opispunktu> 
+    </punkt>
+    <punkt id="695" miejscowosc="Józefowo" 
+      ns="52.92897291" we="20.15127576" km="113.3" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="most" kolejnosc="-1">most betonowy do wsi Józefowo</opispunktu> 
+    </punkt>
+    <punkt id="692" miejscowosc="Radzanów" 
+      ns="52.94185389" we="20.0989337" km="117.1" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">most drogowy</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">sklepy spożywcze i przemysłowe</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">bar piwny koło mostu</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="74" typ="rzeka" nazwa="Wkra od Poniatowa do Radzanowa" 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Bardzo uregulowany odcinek. Wiele jazów i progów zwalniających wodę (mogą być bardzo niebezpieczne zależnie od poziomu wody ). A wszystko to po to, żeby nawodnić ogromne połacie pól rozciągające się na obydwu brzegach. Trudno znaleźć miejsce na biwak.</opis>
+    <punkt id="691" miejscowosc="Ratowo" 
+      ns="52.95028725" we="20.07975236" km="120.1" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="jaz" kolejnosc="-1">podniesiony trójkomorowy jaz</opispunktu> 
+    </punkt>
+    <punkt id="690" miejscowosc="Ratowo" 
+      ns="52.95137278" we="20.07657583" km="120.6" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="ujście" kolejnosc="-1">ujście rzeki Mławki, z lewej, niesie dużo wody - koryto Wkry dwukrotnie się poszerza</opispunktu> 
+    </punkt>
+    <punkt id="689" miejscowosc="Zgliczyn" 
+      ns="52.9516182" we="20.06528138" km="121.4" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="most" kolejnosc="-1">most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="688" miejscowosc="Siciarz" 
+      ns="52.93298" we="20.01145" km="126.1" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">drewniano - stalowy mostek na drodze polnej</opispunktu> 
+    </punkt>
+    <punkt id="687" miejscowosc="Siciarz" 
+      ns="52.93194328" we="19.99946164" km="126.4" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="jaz" kolejnosc="-1">podniesiony jaz</opispunktu> 
+    </punkt>
+    <punkt id="686" miejscowosc="Sokołowy Kąt" 
+      ns="52.92913" we="19.96943" km="133.1" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="biwak" kolejnosc="-1">stosunkowo dobra łąka na biwak na lewym brzegu, pod laskiem, dobre doście do wody</opispunktu> 
+    </punkt>
+    <punkt id="685" miejscowosc="Sokołowy Kąt" 
+      ns="52.92640919" we="19.95876137" km="135.1" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">drewniana kładka</opispunktu> 
+    </punkt>
+    <punkt id="684" miejscowosc="Stanisławowo" 
+      ns="52.93112179" we="19.93244405" km="136.6" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">próg 30cm w poprzek całej rzeki</opispunktu> 
+    </punkt>
+    <punkt id="683" miejscowosc="Myślin" 
+      ns="52.94064272" we="19.91624711" km="137.6" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">próg 30cm w poprzek całej rzeki</opispunktu> 
+    </punkt>
+    <punkt id="682" miejscowosc="Myślin" 
+      ns="52.94328" we="19.91708" km="138.1" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">most drewniano - stalowy na drodze polnej</opispunktu> 
+    </punkt>
+    <punkt id="681" miejscowosc="Bieżuń" 
+      ns="52.95323" we="19.90468" km="139.1" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="jaz" kolejnosc="-1">50cm jaz</opispunktu> 
+    </punkt>
+    <punkt id="680" miejscowosc="Bieżuń" 
+      ns="52.9589" we="19.89509" km="140.1" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">stalowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="678" miejscowosc="Bieżuń" 
+      ns="52.96261" we="19.89281" km="140.8" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">drugi most</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">sklepy, nawet nocne i apteka</opispunktu> 
+    </punkt>
+    <punkt id="676" miejscowosc="Bieżuń" 
+      ns="52.96515" we="19.88759" km="141.1" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="jaz" kolejnosc="-1">50cm próg w poprzek rzeki pod mostem</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">pierwszy most w Bieżuniu</opispunktu> 
+    </punkt>
+    <punkt id="674" miejscowosc="Strzeszewo" 
+      ns="52.9857" we="19.88843" km="144.1" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">most na drodze polnej</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">metrowy jaz</opispunktu> 
+    </punkt>
+    <punkt id="673" miejscowosc="Strzeszewo" 
+      ns="52.99118" we="19.8857" km="145.1" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="672" miejscowosc="Młudzyn" 
+      ns="53.00537" we="19.89457" km="146.1" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">30cm próg w poprzek rzeki</opispunktu> 
+    </punkt>
+    <punkt id="669" miejscowosc="Młudzyn" 
+      ns="53.01424" we="19.90007" km="147.1" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">łatwa przenoska po lewej ok.10m</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">metrowy jaz pod mostem</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">most na drodze polnej nad jazem</opispunktu> 
+    </punkt>
+    <punkt id="668" miejscowosc="Poniatowo" 
+      ns="53.03584" we="19.878" km="151.1" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="jaz" kolejnosc="-1">mały jaz, ok 30cm podpiętrzenie</opispunktu> 
+    </punkt>
+    <punkt id="667" miejscowosc="Poniatowo" 
+      ns="53.04201741" we="19.86832199" km="152.4" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">drugi most w Poniatowie, pod mostem łatwo spływalne bystrze</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="73" typ="rzeka" nazwa="Wkra od Rogali do Poniatowa" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Malowniczy odcinek. Rzeka nie jest uregulowana i wije się w dolinie. Na obu brzegach pola i łąki, a czasami zbliżamy się do jakiegoś lasu.</opis>
+    <punkt id="666" miejscowosc="Poniatowo" 
+      ns="53.04656399" we="19.8583692" km="153.1" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">pierwszy most w Poniatowie</opispunktu> 
+    </punkt>
+    <punkt id="665" miejscowosc="Żuromin" 
+      ns="53.05794" we="19.87134" km="155.1" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="biwak" kolejnosc="-1">ładna łąka na biwak na lewym brzegu, dobre dojście do wody</opispunktu> 
+    </punkt>
+    <punkt id="660" miejscowosc="Brudnice" 
+      ns="53.07171" we="19.86571" km="158.1" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">most na zaporze</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">spietrzenie do zabytkowej, ale działającej elektrowni</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">przenoska po prawej 50m</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">możliwość noclegu i wyżywienia w zabytkowym drewnianym dworze (agroturystyka) ok.100m przed przenoską, pomost, tel:(0-23) 657 27 79</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">sklep we wsi, drogą w lewo ok.200m</opispunktu> 
+    </punkt>
+    <punkt id="659" miejscowosc="Bądzyń" 
+      ns="53.09218" we="19.84322" km="161.1" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="658" miejscowosc="Dziwy" 
+      ns="53.10258" we="19.82205" km="164.1" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="biwak" kolejnosc="-1">fajne miejsce na biwak na prawym brzegu, duża łąka, pomościk, w sąsiedztwie las, miejsce na ognisko, ławeczki, ponoć państwowe</opispunktu> 
+    </punkt>
+    <punkt id="657" miejscowosc="Dziwy" 
+      ns="53.10946662" we="19.81869052" km="165.1" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">betonowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="655" miejscowosc="Lubowidz" 
+      ns="53.12715773" we="19.834152" km="169.8" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">przenoska po prawym brzegu ok.30m, nie bardzo wygodna</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">spiętrznie do małej elektrowni</opispunktu> 
+    </punkt>
+    <punkt id="654" miejscowosc="Lubowidz" 
+      ns="53.12464716" we="19.83823972" km="170.1" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="653" miejscowosc="Lubowidz" 
+      ns="53.12971" we="19.85597" km="173.1" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="biwak" kolejnosc="-1">sympatyczne miejsce na biwak na lewym brzegu, pod laskiem, dobre zejscie do wody</opispunktu> 
+    </punkt>
+    <punkt id="652" miejscowosc="Toruniak" 
+      ns="53.14261" we="19.87859" km="173.6" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="biwak" kolejnosc="-1">dogodne miejsce na biwak na lewym brzegu, miłe zakole</opispunktu> 
+    </punkt>
+    <punkt id="651" miejscowosc="Ruda" 
+      ns="53.15345418" we="19.85685095" km="176.1" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">most drewniany</opispunktu> 
+    </punkt>
+    <punkt id="650" miejscowosc="Zieluń" 
+      ns="53.17428114" we="19.8546706" km="179.1" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="649" miejscowosc="Przerodki" 
+      ns="53.18701" we="19.86346" km="181.1" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">most drewiany</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="72" typ="rzeka" nazwa="Wkra od Działdowa do Rogali" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Rzeka całkowicie regulowana, sprowadza się to długich prostych odcinków, po obu stronach pola. Niespecjalnie ciekawie.</opis>
+    <punkt id="648" miejscowosc="Rogala" 
+      ns="53.19758" we="19.866" km="183.1" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="biwak" kolejnosc="-1">dogodne miejsca na biwak na lewym brzegu, drugie 100m dalej na prawym brzegu początek odcinka nieuregulowanego</opispunktu> 
+    </punkt>
+    <punkt id="647" miejscowosc="Nowy Dwór" 
+      ns="53.21982774" we="19.90662701" km="186.1" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">most betonowy</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

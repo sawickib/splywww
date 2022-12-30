@@ -1,0 +1,95 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.90310000" lon="23.40940000">
+<name>0.00</name>
+<desc>Pierwszy most w Rygolu. Czarna Hańcza tuż przed nim gwałtownie skręca w prawo. Na Szlamicę płyniemy wprost pod mostem.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>0.20</name>
+<desc>Przy lewym brzegu pomościk i wygodne wyjście na ląd zaś kawałek dalej od brzegu, na suchej łączce pole biwakowe i sezonowy sklep. Całość wraz z wypożyczalnią z następnego punktu należy do p. Stanisława Michałowskiego.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>0.60</name>
+<desc>Wypożyczalnia i przewóz kajaków. Od strony rzeki mały pomost.</desc>
+<cmt>wypożyczalnia</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>1.70</name>
+<desc>Spiętrzenie wody dla Małej Elektrowni Wodnej (czyli MEW). Trochę niewygodne lądowanie gdyż brzeg przed jazem jest stromo wyłożony "kocimi łbami". Lepiej wysiąść po prawej. Budynek elektrowni stoi na lewym brzegu. Za nim jest łączka nadająca się, oczywiście za zgodą właścicieli, na miejsce biwakowe, bardzo dobre  ze względów taktycznych. Stąd do sklepu, położonego na wschodnim krańcu wsi, jest niecały kilometr. W głębi na prawym brzegu bardzo ładny domek strażnika wodnego, który prawdopodobnie jest włścicielem łączki.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>2.30</name>
+<desc>Bardzo wysoki betonowy most. W lewo niedaleko do sklepu i leśniczówki w której można uzyskać zgodę na biwakowanie nad jeziorem Głębokim. W pobliżu malutkie jeziorko Sinkewelen.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>3.80</name>
+<desc>Puszczańskich jezior czar... Ujście sztucznego odcinka Szlamicy do jeziora Głębokiego. Właściwa Szlamica wypływa dopiero z tego jeziora.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>4.10</name>
+<desc>Leśny biwak na lewym brzegu jeziora, niedaleko ujścia.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>5.90</name>
+<desc>Drewniany most na drodze do Kudrynek. Wracamy do niego po obejrzeniu jeziora Szlamy i stąd zaczynamy przewózkę (lub przenoskę) do śluzy Kudrynki.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Z Mułów przenoska lub przewózka piękną leśną drogą ok. 3 km do śluzy Kudrynki na Kanale Augustowskim. Organizacja przewózki (dla leniwych): pan Stanisław Michałowski, Rygol 11 tel. 087-641-75-05. (Piszę to jako właściciel kanadyjki z nosidłem - w skład podróży w tradycyjnym dla kanadyjki kanadyjskim terenie przenoski tej długości są chlebem powszednim - tak mówią wszyscy ci, którzy tam byli...) </desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>6.30</name>
+<desc>Ujście Szlamicy do jeziora Szlamy. Od wypływu z jeziora Głębokiego rzeka jest znacznie szersza niż wcześniej. Oba jeziora były kiedyś jednym. Przed nami na jeziorze wyspa.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>7.00</name>
+<desc>Pn.-wsch. koniec wyspy na jeziorze Szlamy. Uwaga, bo przed nami na wodzie granica. Podobno była kiedyś oznaczona bojkami, ale "pokradli bo sznur był dobry na wnyki". Odległość do granicy z końca wyspy: 1 km.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.87970000" lon="23.50390000">
+<name>8.10</name>
+<desc>Śluza Kudrynki. W pełni sprawna choć nie używana. Za zgodą śluzowego można biwakować. Jest też pole biwakowe na bindudze, kawałek za domkiem śluzowego. Sprzęt najlepiej zwodować przy upuście. Przed śluzą staw.</desc>
+<cmt>śluza</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>10.60</name>
+<desc>Rozwidlenie przed śluzą Tartak. Do komory w prawo, pod upust w lewo.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>11.10</name>
+<desc>Śluza Tartak. Czynna ale przenoska nie jest uciążliwa - na prawo od komory, w najwęższym miejscu. Przed i za komorą nieduże stawy.</desc>
+<cmt>śluza</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>14.60</name>
+<desc>Rozwidlenie przed śluzą Sosnówek. Do komory w prawo, pod upust w lewo. Nad lewym kanałem, kawałek dalej niewielki mostek.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>14.90</name>
+<desc>Czarna Hańcza w prawo pod prąd, na wprost przekop Kanału Augustowskiego.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>15.10</name>
+<desc>Śluza Sosnówek - pierwsza śluza na tradycyjnym szlaku Czarną Hańczą i Kanałem Augustowskim.</desc>
+<cmt>śluza</cmt>
+</wpt>
+
+</gpx>

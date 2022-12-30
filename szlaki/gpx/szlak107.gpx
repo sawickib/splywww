@@ -1,0 +1,41 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.59712276" lon="17.03428960">
+<name>11.70</name>
+<desc>Stalowy - kratownicowy mostek na leśnej drodze, wygodne miejsce z dobrym dostępem do wody. Zaraz za mostkiem płytko pod wodą betonowa cembrowina. Etap około 2 kilometrowy - mocno zwałkowy. Po wypłynięciu z lasu dolina i koryto rzeki rozszerza się a drzew w wodzie ubywa</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.58688231" lon="17.00907959">
+<name>8.70</name>
+<desc>Most na drodze pomiędzy Buszkowem a Krzemieniewem (droga nr 22 - Czarne)
+</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.56174801" lon="17.00087853">
+<name>5.30</name>
+<desc>Most wojskowy na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.55443075" lon="16.98879175">
+<name>4.00</name>
+<desc>Po lewej stronie ujście rzeki Chrząstowy. Przy granicy województw (pomorskie - wielkopolskie), odcinek mieszany - leśno łąkowy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.54561460" lon="16.95525742">
+<name>0.50</name>
+<desc>Most drewniany.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.54162119" lon="16.95260233">
+<name>0.00</name>
+<desc>Ujście Szczyrej do Gwdy.</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

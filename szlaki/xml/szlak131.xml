@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="131" nazwa="Sopot" wersja="1">
+<opis>Prawy dopływ Tanwi. Płynie przez Roztocze Środkowe i Równinę Biłgorajską. Wypływa w obrębie wierzchowiny Roztocza dwoma strumieniami: lewym - z małego jeziora w Ciotuszy Nowej i prawym - w pobliżu Husin, z małych jezior zasilanych obfitymi źrodłami, które są pomnikami przyrody. Przez południową, dwustopniową strefę krawędziową Roztocza przebija się wąską dolinką. W rejonie miejscowości Nowiny zbocza doliny są asymetryczne, lewe, urwiste zbudowane z utworów kredy, prawe, połogie - z piasków wydmowych. Między Nowinami a Hamernią następuje zwężenie doliny, a poniżej drogi drugie, gdzie na odcinku przełomowym rzeka nabiera rozpędu tworząc szereg niewielkich wodospadów na naturalnych i sztucznych progach. Ten fragment rzeki objęty jest rezerwatem "Czartowe Pole" i wyłączony dla turystyki kajakowej.</opis> 
+    <punkt id="4702" miejscowosc="Nowiny" 
+      ns="50.45035198" we="23.14085436" km="20.1" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy, zaraz za nim mały prożek utworzony przez dwie betonowe płyty stanowiące bród ? przejazd przez rzekę i drewniana kładka dla pieszych. Mimo intensywnych deszczy rzeka prowadzi krystalicznie czystą wodę. Dno jest piaszczyste. Przed mostem spory dopływ z prawej strony wyraźnie poprawia warunki wodne</opispunktu> 
+    </punkt>
+    <punkt id="4703" miejscowosc="Nowiny" 
+      ns="50.44985137" we="23.13173607" km="19.3" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most z kołem młyńskim po prawej stronie</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pod mostem trójstopniowy próg z 5 przęsłami, za progiem płytko </opispunktu> 
+    </punkt>
+    <punkt id="4704" miejscowosc="Nowiny" 
+      ns="50.44782748" we="23.12881288" km="18.5" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Drugie koło młyńskie po lewej stronie na niewielkim kamiennym spiętrzeniu. Koła służą nabieraniu wody z rzeki i przenoszeniu jej kilka metrów wyżej</opispunktu> 
+    </punkt>
+    <punkt id="4705" miejscowosc="Nowiny" 
+      ns="50.4423555" we="23.11942535" km="17" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Tama bobrowa o wysokości 1,5 m</opispunktu> 
+    </punkt>
+    <punkt id="4706" miejscowosc="Hamernia" 
+      ns="50.44074392" we="23.11266205" km="16.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Za mostem rozpoczyna się odcinek rezerwatu ?Czartowe Pole? wyłączony dla turystyki kajakowej. Na odcinku tym znajduje się kilka skalnych progów i niezliczona ilość powalonych drzew</opispunktu> 
+    </punkt>
+    <punkt id="4707" miejscowosc="Hamernia" 
+      ns="50.43530737" we="23.0567473" km="11.1" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Ruiny drewnianego mostu. Wcześniej koniec rezerwatu "Czartowe Pole". Dolina znacznie się rozszerza a ilość drzew w korycie maleje</opispunktu> 
+    </punkt>
+    <punkt id="4708" miejscowosc="Fryszarka" 
+      ns="50.42332498" we="23.02450738" km="7.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na leśnej drodze. Poniżej praktycznie rzeka jest wyczyszczona z powalonych drzew</opispunktu> 
+    </punkt>
+    <punkt id="4709" miejscowosc="Osuchy" 
+      ns="50.40088103" we="22.96370168" km="0.6" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy betonowy, pod nim niewielki prześwit. Wygodne miejsce zakończenia spływu</opispunktu> 
+    </punkt>
+    <punkt id="4710" miejscowosc="Osuchy" 
+      ns="50.39871752" we="22.95673097" km="0" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Sopotu do Tanwi</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

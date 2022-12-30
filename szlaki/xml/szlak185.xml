@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="185" nazwa="Pokrzywna" wersja="1">
+<opis>Malowniczy, prawy dopływ górnej Wieprzy, płynący w S części Puszczy Słupskiej. Obszar źródliskowy rzeki znajduje się w okolicy miejscowości Witanowo, płynąc na N zasila jezioro Graniczne, dalej w kierunku NW okrąża miejscowość Trzebielino, a następnie w Glewniku zmienia kierunek na SW i uchodzi do Wieprzy poniżej Bąkowa. Ładna rzeczka o piaszczysto-żwirowym dnie, czystej wodzie, chociaż o torfowej, brunatnej barwie. Przepływa w większości przez tereny zalesione, odsunięte od cywilizacji, jest więc tu cicho i spokojnie. Miejscami przyspiesza na żwirowych przemiałach, a w kilku punktach zachęca do drobnej gimnastyki ze względu na obecność przewróconych drzew. Rzeka wykorzystywana jest do spływów komercyjnych, a zatem większość zwałek jest przecięta. Na odcinku od Glewnika do Wieprzy, późną jesienią 2019 nie było ani jednej przeszkody zmuszającej do wysiłku. Wodowskaz Korzybie na Wieprzy wskazywał w tym czasie poziom 64, jeżeli więc ma to swoje odzwierciedlenie w stosunkach wodnych Pokrzywnej, to warunki na niej, przy tych wskazaniach były bardzo dobre. Odcinek z Glewnika do ujścia do Wieprzy, kilku K1 zajął około 1,5 h</opis> 
+    <punkt id="5861" miejscowosc="Glewnik" 
+      ns="54.21624498" we="17.06063134" km="9.3" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na lokalnej drodze asfaltowej. Dobry dojazd i wygodny dostęp do wody z trawiastego brzegu. W pobliżu sporo miejsca na samochody. Przy moście ustawiono tablicę informacyjną z opisem rzeki oraz mapą. Poniżej odcinek w odkrytym terenie, pośród łąk z pojedynczymi drzewami, nieco trzcin, ale szeroko na 3-6 m. Po pewnym czasie rzeka wpływa w obszary zalesione</opispunktu> 
+    </punkt>
+    <punkt id="5862" miejscowosc="Bąkowo" 
+      ns="54.2051978" we="17.0588196" km="7.7" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Drewniane pale po starym moście, rzeka robi się szersza</opispunktu> 
+    </punkt>
+    <punkt id="5863" miejscowosc="Bąkowo" 
+      ns="54.19408176" we="17.05264193" km="6" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na lokalnej drodze, w pobliżu domostw. Pod mostem rzędy drewnianych pali. Dalej rzeka staje się bardziej bystra</opispunktu> 
+    </punkt>
+    <punkt id="5864" miejscowosc="Bąkowo" 
+      ns="54.18153074" we="17.03862468" km="3.7" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Charakterystyczne skarpy po obydwu stronach rzeki, najprawdopodobniej stanowiące kiedyś nasyp drogi i wał zapory wodnej. Na przedwojennych mapach, w miejscu tym znajduje się jezioro zaporowe i miejscowość Eisenhammer, którego nazwa wskazuje na obecność młyna. W korycie stare drewniane pale, dalej szeroko i w lesie</opispunktu> 
+    </punkt>
+    <punkt id="5865" miejscowosc="Osówka" 
+      ns="54.17906" we="17.0385" km="3.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wyraźny dopływ bezimiennej rzeczki z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="5866" miejscowosc="Osówka" 
+      ns="54.1769025" we="17.03339306" km="2.7" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z prawej, od strony pobliskiego jeziorka</opispunktu> 
+    </punkt>
+    <punkt id="5867" miejscowosc="Osówka " 
+      ns="54.17594374" we="17.03322896" km="2.5" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Spory dopływ z lewej rzeczki Ślizień</opispunktu> 
+    </punkt>
+    <punkt id="5868" miejscowosc="Osówka" 
+      ns="54.170771" we="17.022519" km="1" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Bród przez rzekę w miejscu po starym moście, oznakowany biało czerwonymi taśmami. Na brzegach skarpy przyczółków, a w wodzie drewniane pale</opispunktu> 
+    </punkt>
+    <punkt id="5869" miejscowosc="Osówka " 
+      ns="54.16869846" we="17.01523237" km="0" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście do Wieprzy pośród rozległych łąk i pojedynczych drzew. Pokrzywna w tym miejscu wydaje się być szersza i nieść więcej wody niż Wieprza</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

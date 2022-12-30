@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="104" nazwa="Nysa Kłodzka" wersja="4">
+<opis>Lewobrzeżny dopływ Odry. Źródła Nysy znajdują się w Masywie Śnieżnika, następnie płynie przez Kotlinę Kłodzką, przebija się przez Góry Bardzkie tworząc malowniczy przełom i wypływa na Przedgórze Sudeckie gdzie uregulowana jest m.in. poprzez zbiorniki zaporowe. Poniżej Nysy wpływa na Nizinę Śląską a przed Brzegiem uchodzi do Odry. W zależności od poziomu wody, dla kajaków dostępna jest w znacznej swej części. Najwięcej spływów organizowanych jest samym przełomem bardzkim, jednak odcinki zarówno powyżej jak i poniżej przełomu, również są godne polecenia.
+Spływ odcinkiem Nysa - ujście do Odry odbywał się w czasie upustu wody ze zbiornika w Nysie. Wodowskaz w Nysie wskazywał wówczas poziom 233. Po wybudowaniu nowych stopni wodnych w Kopicach, Głębocku i Lewinie Brzeskim spływ tym odcinkiem odbywa się po bardzo spokojnej wodzie. Poziomy wodowskazów w Nysie - 148, w Kopicach - 92 i w Skorogoszczy - 13 gwarantują przyjemne bujanie się na słabym nurcie.
+Odcinek Kłodzko - Topola opisano na podstawie spływu z maja 2012 przy niskim stanie wody. Wodowskaz w Kłodzku wskazywał wówczas poziom 91 a w Bardzie - 76. Przy takim stanie wody brakuje jej za jazami a na przemiałach szura się kilem po dnie</opis> 
+  <odcinek id="476" typ="rzeka" nazwa="Przyłęk-Suszka" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Bardzo atrakcyjny odcinek rzeki, znaczny prąd, sporo żwirowych przemiałów, drzewa w nurcie, wysepki, miejscami krajobraz księżycowy. Poniżej jeziora w Pilcach Nysa traci swą dotychczasową przeźroczystość</opis>
+    <punkt id="4044" miejscowosc="Topola" 
+      ns="50.50337522" we="16.92729707" km="96.2" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy tzw. garbaty, z wygodnym dostępem do wody. Popularne miejsce kończenia etapu
+</opispunktu> 
+    </punkt>
+    <punkt id="4043" miejscowosc="Topola" 
+      ns="50.50835668" we="16.92142976" km="96.9" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pola namiotowe - kempingi; po lewej Bartniki, po prawej Topola</opispunktu> 
+    </punkt>
+    <punkt id="4042" miejscowosc="Byczeń" 
+      ns="50.51593725" we="16.89581269" km="99.4" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W tym miejscu, do powodzi w 1997 r. funkcjonował most kolejowy na lini z Kamieńca Ząbkowickiego do Złotego Stoku</opispunktu> 
+    </punkt>
+    <punkt id="4041" miejscowosc="Byczeń" 
+      ns="50.51385445" we="16.88760551" km="100.1" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony uchodzi rzeka Budzówka</opispunktu> 
+    </punkt>
+    <punkt id="4040" miejscowosc="Kamieniec Ząbkowicki" 
+      ns="50.5129498" we="16.87015751" km="101.5" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4039" miejscowosc="Janowiec" 
+      ns="50.50809871" we="16.76993766" km="110.7" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz przy małej elektrowni wodnej. Przenoska przez fragment pochyły jazu i kamienie, około 30m. Poniżej bardzo atrakcyjny odcinek rzeki, znaczny prąd, sporo żwirowych przemiałów, drzewa w nurcie, wysepki, miejscami krajobraz księżycowy</opispunktu> 
+    </punkt>
+    <punkt id="4038" miejscowosc="Janowiec" 
+      ns="50.50665102" we="16.76523422" km="111" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oznakowane miejsce biwakowe po prawej stronie Nysy, z dobrym dojazdem. W pobliżu niewielka sztolnia z wejściem na poziomie rzeki</opispunktu> 
+    </punkt>
+    <punkt id="4037" miejscowosc="Bardo" 
+      ns="50.50433927" we="16.73670079" km="113.2" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Przystań kajakowa w Bardzie. Wygodne miejsce wodowania z dojazdem w pobliże wody. Parking, bar na przystani, sklepy w mieście</opispunktu> 
+    </punkt>
+    <punkt id="4036" miejscowosc="Młynów" 
+      ns="50.47943583" we="16.66334582" km="125" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący wodę dla ŚP elektrowni wodnej. Przenoska bezpośrednio przez jaz, w prawo - 20m. W bezpośrednie sąsiedztwo jazu dochodzi droga, jest to częste miejsce rozpoczynania spływów przełomem bardzkim</opispunktu> 
+    </punkt>
+    <punkt id="4035" miejscowosc="Młynów" 
+      ns="50.47055855" we="16.65788162" km="126.2" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia wodna. Przenoska lewym brzegiem, około 60m przez suche (maj 2012) koryto ulgi, na kanał za elektrownią</opispunktu> 
+    </punkt>
+    <punkt id="4034" miejscowosc="Młynów" 
+      ns="50.47040693" we="16.65530803" km="126.3" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony wpada rzeka Ścinawka</opispunktu> 
+    </punkt>
+    <punkt id="4033" miejscowosc="Młynów" 
+      ns="50.46835886" we="16.65800992" km="126.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski mostek</opispunktu> 
+    </punkt>
+    <punkt id="4032" miejscowosc="Kłodzko" 
+      ns="50.46046933" we="16.65787769" km="127.7" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący wodę na potrzeby elektrowni w Młynowie. Prosto przegrodzony kanał do elektrowni, w lewo woda skierowana przez próg. Przenoska lewym brzegiem. W maju 2012 było bardzo mało wody, do tego stopnia, że za jazem koryto było suche - cała woda skierowana była na elektrownię</opispunktu> 
+    </punkt>
+    <punkt id="4031" miejscowosc="Kłodzko" 
+      ns="50.45745662" we="16.65686626" km="128" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most obwodnicy Kłodzka</opispunktu> 
+    </punkt>
+    <punkt id="4030" miejscowosc="Kłodzko" 
+      ns="50.45446193" we="16.65480879" km="128.4" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4029" miejscowosc="Kłodzko " 
+      ns="50.44377961" we="16.65916849" km="129.6" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wygodne miejsce na rozpoczęcie spływu. Dobry dojazd nad samą rzekę, dużo miejsca na pozostawienie samochodów</opispunktu> 
+    </punkt>
+    <punkt id="4028" miejscowosc="Suszka" 
+      ns="50.52676227" we="16.83248073" km="105.1" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Fotogeniczna, wysoka, podmyta skarpa </opispunktu> 
+    </punkt>
+    <punkt id="4027" miejscowosc="Pilce" 
+      ns="50.52571963" we="16.82083632" km="105.9" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W tym miejscu, do powodzi w 1997 r. funkcjonował most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4026" miejscowosc="Pilce" 
+      ns="50.52225602" we="16.81614578" km="106.6" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora</opispunktu> 
+    </punkt>
+    <punkt id="4025" miejscowosc="Przyłęk" 
+      ns="50.51078962" we="16.78332907" km="109.7" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4045" miejscowosc="Nysa" 
+      ns="50.48302778" we="17.34813889" km="61.5" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz o wysokości około 1,5m. Poniżej, wygodne miejsce rozpoczynania spływów dolnym odcinkiem rzeki. Tuż przy jazie jest duży plac parkingowy na potrzeby pobliskiego kościoła. Dobry dojazd, ale zejście do wody nieco strome, a brzeg wzmocniony kamieniami</opispunktu> 
+    </punkt>
+    <punkt id="4046" miejscowosc="Piątkowice" 
+      ns="50.51306505" we="17.46033232" km="50.2" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4047" miejscowosc="Piątkowice" 
+      ns="50.51994997" we="17.46754902" km="48.9" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia wodna. Przed nią niewielkie rozlewisko. Wcześniej, najwygodniej było przenieść kajak lewym brzegiem, aktualnie, najbardziej dogodną jest przenoska przez wyspę, pomiędzy jazem a elektrownią, początkowo po kamieniach i żwirze, a następnie trawiastą ścieżką. Długość przenoski około 170m. Wyjście z wody łatwe, prawie poziome, na kamienie na grobli lub trawę na wyspie. Zejście do wody strome, około 3 m. Ze względu na trwające prace (płot, grobla, koparka) sytuacja może się wkrótce zmienić</opispunktu> 
+    </punkt>
+    <punkt id="4048" miejscowosc="Malerzowice" 
+      ns="50.58553853" we="17.4747593" km="40.6" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na ruchliwej drodze z Nysy do Opola</opispunktu> 
+    </punkt>
+    <punkt id="4049" miejscowosc="Więcmierzyce" 
+      ns="50.61873909" we="17.46860654" km="36.3" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia wodna, przed nią niewielkie rozlewisko. Przenoska lewą stroną przez trawiasty wał. W przypadku gdy cała woda skierowana jest na elektrownię możliwa jest krótsza przenoska przez jaz z lewej strony, po suchej pochylni z wmurowanymi w dno kamieniami</opispunktu> 
+    </punkt>
+    <punkt id="4050" miejscowosc="Kopice" 
+      ns="50.6458364" we="17.47887268" km="32" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, pod nim kamienne bystrze</opispunktu> 
+    </punkt>
+    <punkt id="4051" miejscowosc="Głębocko" 
+      ns="50.68989282" we="17.49802571" km="26.7" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z kamiennym bystrzem, aktualnie niewidocznym wskutek spiętrzenia wody poniżej</opispunktu> 
+    </punkt>
+    <punkt id="4052" miejscowosc="Michałów" 
+      ns="50.72728169" we="17.51392294" km="22" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="most" kolejnosc="-1">Most autostrady A4</opispunktu> 
+    </punkt>
+    <punkt id="4053" miejscowosc="Michałów" 
+      ns="50.72949898" we="17.51678407" km="21.8" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący wodę na potrzeby wrocławskich wodociągów. Gdy brakuje wody w rzece Oławie zasilającej tereny wodonośne przed Wrocławiem, woda z Nysy Kłodzkiej przepompowywana jest pompownią Michałów do kanału przerzutowego Nysa - Oława. Jest to ciekawa budowla hydrotechniczna wykorzystująca naturalne koryto niewielkich cieków wodnych. Od jazu, woda z Nysy Kłodzkiej płynie kanałem do pompowni w Michałowie, następnie tłoczona jest na pobliskie wzgórze skąd grawitacyjnie korytem Pępickiego i Psarskiego Potoku spływa w kierunku rzeki Oławy, a nią na tereny wodonośne Wrocławia. Przenoska lewym brzegiem po betonowej drodze. Za jazem schodki z wodowskazem sprowadzające do lustra wody. Przy niższych stanach wody, poniżej jazu tworzy się bystrze na progu z głazów. Nie chcąc spływać tego miejsca, wygodnie jest przenieść obie przeszkody za jednym razem, na odległość około 310m</opispunktu> 
+    </punkt>
+    <punkt id="4054" miejscowosc="Lewin Brzeski" 
+      ns="50.73864294" we="17.59405495" km="15.8" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niegdyś, w tym miejscu istniało sztuczne zwężenie koryta rzeki wielkimi głazami, co tworzyło spore bystrze. Po spiętrzeniu rzeki jazem poniżej, miejsce to jest zalane wodą</opispunktu> 
+    </punkt>
+    <punkt id="4055" miejscowosc="Lewin Brzeski" 
+      ns="50.74683857" we="17.61142538" km="13.7" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Nowo wybudowany 3 przęsłowy jaz. Przenoska lewą stroną, z łatwym wyjściem z wody na trawiasty brzeg. Transport kajaka po betonie i asfalcie na odległość około 270m. Zejście do wody z niedużej skarpy, na brzegu, przy wodzie umocnienia z kamieni. W niedalekiej odległości od jazu znajduje się sklep spożywczy</opispunktu> 
+    </punkt>
+    <punkt id="4056" miejscowosc="Lewin Brzeski" 
+      ns="50.74612087" we="17.61725062" km="13.3" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w Lewinie. Wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="4057" miejscowosc="Lewin Brzeski" 
+      ns="50.74313663" we="17.62999395" km="12.3" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście Ścinawy Niemodlińskiej</opispunktu> 
+    </punkt>
+    <punkt id="4058" miejscowosc="Lewin Brzeski" 
+      ns="50.74697569" we="17.63859784" km="11.6" etykieta="" 
+      kolejnosc="62"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4059" miejscowosc="Skorogoszcz" 
+      ns="50.76205795" we="17.67511901" km="7.5" etykieta="" 
+      kolejnosc="64"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce dostępu do wody</opispunktu> 
+    </punkt>
+    <punkt id="4060" miejscowosc="Zawadno" 
+      ns="50.81922829" we="17.65835533" km="0" etykieta="" 
+      kolejnosc="65"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Nysy Kłodzkiej do Odry. Wygodnym miejsce zakończenia spływu jest miejscowość Kopanie po lewej stronie, około 4 km w dół Odrą. Znajduje się tam podjazd do promu, można więc podjechać w pobliże wody</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="475" typ="rzeka" nazwa="Młynów-Bardo" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Przełomowy odcinek rzeki, liczne żwirowe przemiały, głazy w nurcie, na brzegach skalne ściany, rzeka miejscami płynie żwawo</opis>
+    <punkt id="4024" miejscowosc="Bardo" 
+      ns="50.50466902" we="16.73685664" km="113.25" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4023" miejscowosc="Bardo" 
+      ns="50.50488446" we="16.73684605" km="113.3" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4022" miejscowosc="Bardo" 
+      ns="50.50538595" we="16.73693489" km="113.35" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Stary sklepiony most kamienny</opispunktu> 
+    </punkt>
+    <punkt id="4021" miejscowosc="Opolnica" 
+      ns="50.50296762" we="16.71974959" km="115.6" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący wodę na potrzeby elektrowni. Przenoska prawym brzegiem. Oznakowane wyjście z wody, schodki drewniane tuż przed jazem</opispunktu> 
+    </punkt>
+    <punkt id="4020" miejscowosc="Morzyszów" 
+      ns="50.49544684" we="16.68575803" km="119.4" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4019" miejscowosc="Podtynie" 
+      ns="50.48333375" we="16.67618727" km="121.8" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4018" miejscowosc="Młynów" 
+      ns="50.47993222" we="16.66508161" km="124.8" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+    <punkt id="6767" miejscowosc="Kubice" 
+      ns="50.48561243" we="17.43468763" km="54.3" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony wpada rzeczka Lepietnica</opispunktu> 
+    </punkt>
+    <punkt id="6766" miejscowosc="Wyszków Śląski" 
+      ns="50.48095085" we="17.4048506" km="56.9" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony Nysę zasila Kamienica</opispunktu> 
+    </punkt>
+    <punkt id="6765" miejscowosc="Nysa" 
+      ns="50.48568304" we="17.38806651" km="58.4" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="most" kolejnosc="-1">Most obwodnicy Nysy</opispunktu> 
+    </punkt>
+    <punkt id="6764" miejscowosc="Nysa" 
+      ns="50.48553775" we="17.38535583" km="58.5" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony uchodzi potok Pluta</opispunktu> 
+    </punkt>
+    <punkt id="6763" miejscowosc="Nysa" 
+      ns="50.48150621" we="17.34415022" km="61.7" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="6762" miejscowosc="Nysa" 
+      ns="50.48136668" we="17.34006378" km="62" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="6761" miejscowosc="Nysa" 
+      ns="50.48047451" we="17.33598484" km="62.3" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w ul. J. Bema</opispunktu> 
+    </punkt>
+    <punkt id="6760" miejscowosc="Nysa" 
+      ns="50.47950216" we="17.33402077" km="62.5" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz elektrowni wodnej</opispunktu> 
+    </punkt>
+    <punkt id="6759" miejscowosc="Nysa" 
+      ns="50.47635783" we="17.32659877" km="63.2" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w ul. Mostowej</opispunktu> 
+    </punkt>
+    <punkt id="6758" miejscowosc="Nysa" 
+      ns="50.47186784" we="17.31990083" km="63.9" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz z kładką dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="6757" miejscowosc="Nysa" 
+      ns="50.46297002" we="17.30602592" km="65.4" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora j. Nyskiego</opispunktu> 
+    </punkt>
+    <punkt id="6756" miejscowosc="Nysa" 
+      ns="50.44894096" we="17.29602679" km="67" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Białej Głuchołaskiej do zbiornika Nyskiego, w szerokiej zatoce. Po lewej (orograficznie dla Białej Głuchołaskiej) stronie, na krzakach zawieszone są odblaskowe trójkąty samochodowe, a po środku zatoki znajduje się mała kępa drzew, dzięki którym można odnaleźć nieoczywisty wypływ rzeki, od strony jeziora</opispunktu> 
+    </punkt>
+    <punkt id="6768" miejscowosc="Więcmierzyce" 
+      ns="50.60000554" we="17.46666451" km="38.5" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony uchodzi potok Cielnica</opispunktu> 
+    </punkt>
+    <punkt id="6769" miejscowosc="Krasna Góra" 
+      ns="50.62703013" we="17.47797906" km="35" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony uchodzi rzeka Łokietnica</opispunktu> 
+    </punkt>
+    <punkt id="6770" miejscowosc="Kopice" 
+      ns="50.64310719" we="17.48274158" km="32.7" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony wpada rzeczka Rybina</opispunktu> 
+    </punkt>
+    <punkt id="6771" miejscowosc="Kopice" 
+      ns="50.64486516" we="17.47767232" km="32.3" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście Skoroszyckiego Potoku</opispunktu> 
+    </punkt>
+    <punkt id="6772" miejscowosc="Kopice" 
+      ns="50.64504574" we="17.47787194" km="32.2" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Dwu przęsłowy jaz powłokowy przy MEW Kopice, oddany do użytku w grudniu 2021. Przenoska prawą stroną około 160m. Lądowanie na połogiej skarpie piaszczysto-żwirowej i transport kajaków gruntową drogą, poza kamienne umocnienia brzegu. Na końcu zjazd w dół stromą, trawiastą rynną około 6-7 m. Przydatna linka do opuszczania kajaka</opispunktu> 
+    </punkt>
+    <punkt id="6773" miejscowosc="Głębocko" 
+      ns="50.68169317" we="17.49619751" km="27.7" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony uchodzi Stara Struga</opispunktu> 
+    </punkt>
+    <punkt id="6774" miejscowosc="Głębocko" 
+      ns="50.69170167" we="17.49867509" km="26.5" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz powłokowy dla MEW Głębocko, oddany do użytku we wrześniu 2020. Ze względu na długą przepławkę dla ryb wybudowaną wzdłuż lewego brzegu, najwygodniej jest przenieść kajak prawą stroną. Wyjście z wody na stromy brzeg (ok. 1,5m) przez stanowisko wędkarskie. Transport kajaka na odległość około 80m po piasku, ziemi i trawie. Na końcu stromy, około 8m zjazd do wody po piaszczystej skarpie</opispunktu> 
+    </punkt>
+    <punkt id="6775" miejscowosc="Osiek Grodkowski" 
+      ns="50.70401812" we="17.50145804" km="25" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony uchodzi Grodkowska Struga</opispunktu> 
+    </punkt>
+    <punkt id="6776" miejscowosc="Michałów" 
+      ns="50.72967225" we="17.51862039" km="21.6" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Kamienny próg - bystrze poniżej jazu, pod linią energetyczną. Przy wysokich stanach próg jest przelany i niewidoczny, przy niskich możliwy do spłynięcia po wcześniejszym rozpoznaniu przeszkody</opispunktu> 
+    </punkt>
+    <punkt id="6777" miejscowosc="Lewin Brzeski" 
+      ns="50.74831328" we="17.60831772" km="13.9" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony uchodzi Ptakowicki Potok</opispunktu> 
+    </punkt>
+    <punkt id="6778" miejscowosc="Skorogoszcz" 
+      ns="50.75129004" we="17.65685002" km="9.9" etykieta="" 
+      kolejnosc="63"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony uchodzi potok Jasień</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

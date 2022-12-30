@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="78" nazwa="Brda" wersja="8">
+<opis>Rzeka wypływa na wysokości ok. 181 m n.p.m. z Jeziora Smołowego, wśród moren czołowych Pojezierza Bytowskiego na północny wschód od Miastka. Przepływa przez szereg jezior, m.in. Kamień, Orle, Siadło, Świeszyńskie, Głębokie, Szczytno Wielkie, Końskie, Charzykowskie, Karsińskie, Witoczno, Łąckie, Dybrzyk, Kosobudno. Szerokość koryta rzeki jest zmienna, niektóre odcinki Doliny Brdy mają charakter wąskich i głębokich rynien o stromych zboczach, w niektórych rzeka meandruje. Na odcinku od Woziwody do miejscowości Piła-Młyn Brda jest częścią rezerwatu Dolina Rzeki Brdy, utworzonego w celu ochrony całego ekosystemu obejmującego krajobraz, roślinność oraz ostoje dzikich zwierząt. Dolny odcinek Brdy położony jest w obrębie granic administracyjnych Bydgoszczy na odcinku 25 km, ze średnim spadkiem 0,42 procent. Spadek Doliny Brdy jest na ogół wyrównany w całym biegu i wynosi średnio 0,63 promila. Średni przepływ wzrasta wzdłuż jej biegu od 1,25 m?/s w miejscowości Nowa Brda do 19,9 m?/s w środkowym biegu (Tuchola), a w dolnym biegu (Smukała) wynosi 27,8 m?/s. Brda charakteryzuje się najniższymi w skali Polski wahaniami przepływów (wg Wikipedii).
+Jedna z najbardziej popularnych rzek kajakowych w Polsce. Dobrze zagospodarowana i oznakowana. W sezonie letnim oraz w dni wolne od pracy mocno eksploatowana</opis> 
+  <odcinek id="360" typ="zalew" nazwa="Jezioro Koronowskie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="8"> 
+  <opis>Cofka zbiornika zaporowego, a niżej wody jeziora. Liczne zwężenia i szersze plosa.  Bardzo urozmaicona linia brzegowa oraz wszechobecne lasy stanowią o atrakcyjności zbiornika</opis>
+    <punkt id="3725" miejscowosc="Zamrzenica" 
+      ns="53.446195" we="17.890352" km="64.3" etykieta="" 
+      kolejnosc="73"> 
+    <opispunktu typ="most" kolejnosc="-1">Most nieczynnej linii kolejowej</opispunktu> 
+    </punkt>
+    <punkt id="2993" miejscowosc="Zamrzenica" 
+      ns="53.456897" we="17.895385" km="65.5" etykieta="" 
+      kolejnosc="72"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Ładne miejsce biwakowe na lewym brzegu j. Koronowskiego. Wcześniej jednak należy uzyskać zgodę na biwakowanie w Nadleśnictwie Zamrzenica</opispunktu> 
+    </punkt>
+    <punkt id="2992" miejscowosc="Gostycyn Nogawica" 
+      ns="53.47816223" we="17.88907964" km="68.1" etykieta="" 
+      kolejnosc="71"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Stanica Wodna PTTK, domki, sanitariaty, prysznice, pole namiotowe. Wygodne miejsce wodowania kajaków. Słabo zaopatrzony sklepik w Stanicy. Bufet w Stanicy. Tuż poniżej Stanicy, z prawej strony uchodzi rzeka Kamionka, dopływ w formie cofki j. Koronowskiego. Od ujścia Kamionki zaczyna się szersza część j. Koronowskiego - ploso zamrzenickie. Na nim i dalej nad całym jeziorem są liczne ośrodki wypoczynkowe, kempingi i pola namiotowe</opispunktu> 
+    </punkt>
+    <punkt id="2991" miejscowosc="Gostycyn Nogawica" 
+      ns="53.482976" we="17.895206" km="68.9" etykieta="" 
+      kolejnosc="70"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Nieoznakowane choć legalne pole biwakowe miejscowego nadleśnictwa, po lewej stronie na łuku cofki j. Koronowskiego. Wyjście schodkami ostro pod górę. Wiaty, ławki, dobry dojazd z pobliskiej szosy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="323" typ="rzeka" nazwa="Brda zasadnicza" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="7"> 
+  <opis>Odcinek pięknej rzeki, miejscami bystrej, miejscami wolniej płynącej. Liczne drzewa w korycie, podmycia brzegów, meandry. Odcinek przebiega prawie cały czas w lesie, miejscami nurt jest mocno zawalony starymi kłodami i drzewami. Sporo dobrych miejsc do biwakowania, ale od Woziwody płyniemy przez rezerwat Dolina Rzeki Brdy - powinno się biwakować tylko na wyznaczonych miejscach, których jest dużo</opis>
+    <punkt id="2990" miejscowosc="Piła Młyn" 
+      ns="53.51306167" we="17.88516281" km="74.4" etykieta="" 
+      kolejnosc="69"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce wodowania kajaków</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej mostu koniec przełomu Brdy, początek cofki sztucznego zbiornika - j. Koronowskiego</opispunktu> 
+    </punkt>
+    <punkt id="5333" miejscowosc="Piła Młyn" 
+      ns="53.51356088" we="17.88520864" km="74.5" etykieta="" 
+      kolejnosc="68"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony dopływ betonowego koryta młynówki Szumionka</opispunktu> 
+    </punkt>
+    <punkt id="3722" miejscowosc="Świt" 
+      ns="53.54257122" we="17.88518533" km="79.7" etykieta="" 
+      kolejnosc="67"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na leśnej drodze. Pole namiotowe Świt na lewym brzegu, poniżej mostu. Dobicie jest dobre, miejsce biwakowe jest na rozległej polanie - niewysokiej terasie, są podstawowe udogodnienia sanitarne. W pobliskiej leśniczówce również jest możliwość noclegów. Niewielki bar na terenie pola namiotowego. Ujście strugi Ruda-Stążka - na lewym brzegu (tuż przed przyczółkiem mostu). Fragment rzeki poniżej Świtu - do Piły Młyna - to bardzo atrakcyjny odcinek przełomowy, tzw. Piekło</opispunktu> 
+    </punkt>
+    <punkt id="3721" miejscowosc="Piszczek" 
+      ns="53.5527903" we="17.8807967" km="81.2" etykieta="" 
+      kolejnosc="66"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole biwakowe Piszczek - na prawym brzegu</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Struga Kicz - dopływ z prawego brzegu</opispunktu> 
+    </punkt>
+    <punkt id="2989" miejscowosc="Rudzki Most (Tuchola)" 
+      ns="53.56369273" we="17.89979443" km="83.7" etykieta="" 
+      kolejnosc="65"> 
+    <opispunktu typ="bar" kolejnosc="-1">Bar 200m od mostu w stronę Tucholi</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole namiotowe i kemping Tartak 200m poniżej mostu na lewym brzegu. Zadaszenia, prysznice, czyste toalety, z grillem, z możliwością nocowania pod dachem</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze 240. Wygodne miejsce wodowania kajaków</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep 200m od mostu w stronę Tucholi</opispunktu> 
+    </punkt>
+    <punkt id="2988" miejscowosc="Rudzki Most (Tuchola)" 
+      ns="53.57409347" we="17.90501179" km="85.2" etykieta="" 
+      kolejnosc="64"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="2987" miejscowosc="Płaskosz (Tuchola)" 
+      ns="53.60158691" we="17.92174367" km="90.8" etykieta="" 
+      kolejnosc="63"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="5332" miejscowosc="Płaskosz (Tuchola)" 
+      ns="53.60287647" we="17.9194532" km="91.1" etykieta="" 
+      kolejnosc="62"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z prawej strugi Hozjanna</opispunktu> 
+    </punkt>
+    <punkt id="3720" miejscowosc="Wymysłowo" 
+      ns="53.605667" we="17.920617" km="91.4" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na Farmie Paradiso jest mini-zoo i muzeum indiańskie poświęcone pamięci polskiego Indianina Stanisława Supłatowicza (Sat-Okh), który tutaj działał na rzecz przyjaźni polsko-indiańskiej</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole namiotowe na ładnej polanie na prawym brzegu, bez wygód, o szumnej nazwie "Stanica Wymysłowo"</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Bar - restauracja w Farmie Paradiso, 150m od pola namiotowego</opispunktu> 
+    </punkt>
+    <punkt id="2986" miejscowosc="Gołąbek" 
+      ns="53.614102" we="17.949255" km="94.9" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep przy Nadleśnictwie Tuchola w Gołąbku - 500m</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole namiotowe Gołąbek II - nadleśnictwa Tuchola w Gołąbku. Do miejsca biwakowego prowadzą wysokie schody z nad rzeki. Warto zwiedzić pobliską ścieżkę dydaktyczną nad rzeką Stążką (w pobliżu nadleśnictwa - 500m)</opispunktu> 
+    </punkt>
+    <punkt id="3719" miejscowosc="Kiełpiński Most" 
+      ns="53.63970764" we="17.94564689" km="99.9" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Bielska Struga - dopływ z lewego brzegu. Płynie ona z WKB</opispunktu> 
+    </punkt>
+    <punkt id="2985" miejscowosc="Zielonka" 
+      ns="53.65269198" we="17.93432193" km="102.8" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ kanału z lewego brzegu z MEW Zielonka, zasilanej wodami Kanału Nawadniającego - części WKB</opispunktu> 
+    </punkt>
+    <punkt id="3718" miejscowosc="Woziwoda" 
+      ns="53.6686619" we="17.90798679" km="106" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rozpoczyna się przełomowy odcinek rzeki, który ciągnie się przez ok. 30km, do mostu we wsi Piła-Młyn. Szybki nurt, bystrza, drzewa i kłody w poprzek całego nurtu</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w Woziwodzie 100m poniżej pola namiotowego, wygodne miejsce wodowania kajaków</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej mostu w Woziwodzie wpływamy do Rezerwatu Dolina Rzeki Brdy. Biwakować wolno tylko w wyznaczonych miejscach</opispunktu> 
+    </punkt>
+    <punkt id="3736" miejscowosc="Woziwoda" 
+      ns="53.66888468" we="17.90597977" km="106.1" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole namiotowe Woziwoda przed widocznym z dala mostem, na lewym brzegu. Pełne zaplecze sanitarne, Zielona Szkoła itd., bywa tłok - obok biegnie szosa nr 237. Na polu namiotowym znajduje się bar</opispunktu> 
+    </punkt>
+    <punkt id="3717" miejscowosc="Nadolna Karczma" 
+      ns="53.688062" we="17.851138" km="112.4" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Czerska Struga - dopływ z lewego brzegu. To nad nią jest słynny Akwedukt Fojutowo na WKB</opispunktu> 
+    </punkt>
+    <punkt id="5331" miejscowosc="Nadolna Karczma" 
+      ns="53.6904173" we="17.8387641" km="113.5" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Raciąskiej Strugi z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="2984" miejscowosc="Nadolna Karczma" 
+      ns="53.69171" we="17.835078" km="113.8" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep na prawym brzegu - 100m</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Bar na lewym brzegu tuż za mostem</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="2983" miejscowosc="Brda" 
+      ns="53.700773" we="17.827441" km="115.4" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="bar" kolejnosc="-1">Bar w pensjonacie "Zielony Wiatr" (gospodarz pola namiotowego Brda)</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole namiotowe Brda z dobrym zapleczem sanitarnym, prysznice z ciepłą wodą</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Z biwaku w Brdzie jest ok. 8km ładnego spaceru do  akweduktu Fojutowo na WKB [Akwedukt: 53.721389 17.902972]</opispunktu> 
+    </punkt>
+    <punkt id="2982" miejscowosc="Żukowo" 
+      ns="53.71851182" we="17.81560886" km="118.3" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="most" kolejnosc="-1">Piękny drewniany, wysoki most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="2981" miejscowosc="Rytel" 
+      ns="53.746842" we="17.785048" km="125.6" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole namiotowe nadleśnictwa pomiędzy Brdą a WKB. Wygodne miejsce wodowania kajaków. Poniżej biwaku Brda wpływa w granice Tucholskiego Parku Krajobrazowego. Rzeka płynie łagodnymi zakolami, nurt jest dość szybki, a w korycie spotykamy liczne zwalone drzewa i stare pnie</opispunktu> 
+    </punkt>
+    <punkt id="2752" miejscowosc="Rytel" 
+      ns="53.75094456" we="17.77262412" km="126.8" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków. W pobliżu znajduje się sklep, bar i pizzeria</opispunktu> 
+    </punkt>
+    <punkt id="5330" miejscowosc="Rytel" 
+      ns="53.75744534" we="17.7608056" km="129.1" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy - arkadowy, wysoki, malowniczy. Nasyp kolejowy przechodzi mostami kolejno nad Brdą, leśną drogą i Wielkim Kanałem Brdy. Poniżej mostu rzeka płynie kilka kilometrów przez zabudowania dużej wsi letniskowej Rytel</opispunktu> 
+    </punkt>
+    <punkt id="3715" miejscowosc="Konigort" 
+      ns="53.759381" we="17.75473" km="129.5" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe (małe, spokojne) poniżej zadrzewionej wyspy, na prawym brzegu. Dobre miejsce do zwiedzenia WKB</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="322" typ="zalew" nazwa="Męcikał - Mylof" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="6"> 
+  <opis>Trochę nudnawy, wydłużony sztuczny zbiornik o [oryginalnej] nazwie Zapora</opis>
+    <punkt id="2750" miejscowosc="Mylof" 
+      ns="53.774479" we="17.714535" km="134.2" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora i elektrownia Mylof we wsi Zapora - dobicie na prawym brzegu przed stopniem wodnym. Możliwość wypożyczenia w leśniczówce wózków do przewiezienia sprzętu. Przenoska prawym brzegiem 200m, niewygodne wodowanie. Przenoska lewym brzegiem 550m koło budynków Zakładu Hodowli Pstrąga, wygodne wodowanie. Sklep z rybami w Zakładzie Hodowli Pstrąga na lewym brzegu poniżej zapory. Możliwość biwakowania - pole namiotowe Mylof na prawym brzegu w miejscu dobicia do przenoski. Na lewym brzegu stopnia wodnego Mylof znajduje się zastawka - początek Wielkiego Kanału Brdy (WKB)</opispunktu> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Poniżej zapory należy płynąć przy prawym brzegu rzeki. Z lewego brzegu tryskają ze sporym impetem wodospady z rurowych i  betonowych przepustów uchodzących ze stawów rybnych. Przez jakiś czas towarzyszyć będzie piana i osobliwy zapach</opispunktu> 
+    </punkt>
+    <punkt id="2749" miejscowosc="Męcikał" 
+      ns="53.819369" we="17.66505" km="140.9" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków. W pobliżu sklepy i bar</opispunktu> 
+    </punkt>
+    <punkt id="2748" miejscowosc="Męcikał" 
+      ns="53.823285" we="17.652652" km="142" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej mostu zaczyna się cofka zbiornika Zapora</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="321" typ="mieszany" nazwa="Charzykowskie - Męcikał" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="5"> 
+  <opis>Zdecydowana większość trasy na tym odcinku prowadzi przez jeziora. Zdecydowanie najwięcej ludzi na szlaku Brdy spotyka się właśnie tutaj. Szczególnie polecam odbić w lewo z jeziora Małołąckiego na Płęsno oraz pobliskie Gardliczno. Cicho, bezludnie, sporo pięknych miejsc do biwakowania, krystalicznie czysta woda, lasy pełne runa</opis>
+    <punkt id="3711" miejscowosc="Czernica" 
+      ns="53.835935" we="17.653507" km="143" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole namiotowe z podstawowymi wygodami, na lewym brzegu pod koniec j. Kosobudno. Dalej szeroki, lejkowaty wypływ Brdy z j. Kosobudno</opispunktu> 
+    </punkt>
+    <punkt id="3710" miejscowosc="Czernica" 
+      ns="53.837851" we="17.63793" km="144.2" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Ośrodki wypoczynkowe w Czernicy na cyplu na lewym brzegu j. Dybrzk, możliwość biwaku na polu namiotowym. Prawy [południowy] brzeg jeziora Dybrzk i następnego jeziora Kosobudno zajmują tereny Parku Narodowego Bory Tucholskie [nie wolno biwakować]</opispunktu> 
+    </punkt>
+    <punkt id="3709" miejscowosc="Drzewicz" 
+      ns="53.852578" we="17.575406" km="148.7" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi nr 236 nad cieśniną, którą przepływamy na j. Dybrzk</opispunktu> 
+    </punkt>
+    <punkt id="3708" miejscowosc="Drzewicz" 
+      ns="53.861329" we="17.563659" km="150.2" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ na j. Łąckie. Nad jeziorem ośrodki wypoczynkowe oraz kemping</opispunktu> 
+    </punkt>
+    <punkt id="2980" miejscowosc="J. Płęsno" 
+      ns="53.88566" we="17.542106" km="" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="biwak" kolejnosc="-1">W północnej części jeziora Płęsno piękne i zaciszne miejsce na biwak. Warto stąd odwiedzić oddalone o około 1 km jezioro Gardliczno</opispunktu> 
+    </punkt>
+    <punkt id="2979" miejscowosc="J. Płęsno" 
+      ns="53.870743" we="17.552635" km="" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Wycieczka boczna na j. Płęsno. Mostek pomiędzy jeziorami Małołąckim a Płęsno. Warto wpłynąć na piękne i czyste jezioro Płęsno</opispunktu> 
+    </punkt>
+    <punkt id="3707" miejscowosc="Płęsno" 
+      ns="53.867406" we="17.55393" km="151.7" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Rzeka wpływa do j. Małołąckiego, niewielkiego o urozmaiconej linii brzegowej. Na północ ciągnie się zatoka wiodąca do cieśniny na malownicze j. Płęsno [rozgałęzienie szlaków kajakowych jest oznakowane]. Możliwość biwaku w agroturystyce na prawym brzegu przy ujściu Brdy do j. Małołąckiego</opispunktu> 
+    </punkt>
+    <punkt id="3706" miejscowosc="Płęsno" 
+      ns="53.870035" we="17.547379" km="152.1" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość biwaku w agroturystyce na prawym brzegu rzeki</opispunktu> 
+    </punkt>
+    <punkt id="2746" miejscowosc="Kamionka" 
+      ns="53.87594" we="17.52208" km="154.3" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków</opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ rzeki z jeziora Witoczno. Szeroka rzeka płynie spokojnie zalesionym wąwozem</opispunktu> 
+    </punkt>
+    <punkt id="3705" miejscowosc="Swornegacie" 
+      ns="53.87568906" we="17.51379739" km="154.6" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Od północy do j. Witoczno wpada Zbrzyca. Stanica Wodna PTTK na zachodnim brzegu 300m od ujścia Brdy do jeziora</opispunktu> 
+    </punkt>
+    <punkt id="3703" miejscowosc="Swornegacie" 
+      ns="53.870404" we="17.506123" km="155.7" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Brdy do j. Witoczno</opispunktu> 
+    </punkt>
+    <punkt id="2745" miejscowosc="Swornegacie" 
+      ns="53.85966" we="17.497722" km="157.3" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy wypływie Brdy z j. Karsińskiego, wygodne miejsce wodowania kajaków. Kilka barów i sklepów w pobliżu</opispunktu> 
+    </punkt>
+    <punkt id="3830" miejscowosc="Kokoszka" 
+      ns="53.84610146" we="17.50069309" km="158.7" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na cyplu na zachodnim brzegu jeziora ujście rzeki Chocina</opispunktu> 
+    </punkt>
+    <punkt id="3702" miejscowosc="Kokoszka" 
+      ns="53.838811" we="17.502342" km="159.7" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Szeroką cieśniną wpływamy na j. Karsińskie</opispunktu> 
+    </punkt>
+    <punkt id="3701" miejscowosc="Małe Swornegacie" 
+      ns="53.818327" we="17.491432" km="162.3" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Brda wpływa do j. Długiego</opispunktu> 
+    </punkt>
+    <punkt id="2744" miejscowosc="Małe Swornegacie" 
+      ns="53.816354" we="17.494196" km="162.6" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków</opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Brda wypływa z j. Charzykowskiego pod mostem. 300m odcinek rzeki do j. Długiego</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Bar tuż przy wodzie</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="320" typ="rzeka" nazwa="Szczytno - Charzykowskie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="4"> 
+  <opis>Odcinek rzeki leniwie płynącej pomiędzy łąkami i lasami. Kilka drzew w korycie ale bez większych przeszkód</opis>
+    <punkt id="3699" miejscowosc="Ciecholewy" 
+      ns="53.804199" we="17.447149" km="167.1" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy osadami leśnymi Babilon (droga nr 212) i Chociński Młyn (droga nr 236)</opispunktu> 
+    </punkt>
+    <punkt id="2743" miejscowosc="Ciecholewy" 
+      ns="53.814172" we="17.410206" km="170.9" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze nr 212, wygodne miejsce wodowania kajaków</opispunktu> 
+    </punkt>
+    <punkt id="2742" miejscowosc="Sąpolno" 
+      ns="53.805177" we="17.351783" km="175.9" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość biwakowania przed mostem po prawej stronie, po uzgodnieniu z prywatnym właścicielem terenu</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Bar w Sąpolnie, 200m od wody (z widokiem na kajaki)</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Kilka sklepów w Sąpolnie</opispunktu> 
+    </punkt>
+    <punkt id="5329" miejscowosc="Sąpolno" 
+      ns="53.80421286" we="17.34712312" km="176.4" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony do Brdy uchodzi rzeka Lipczynka</opispunktu> 
+    </punkt>
+    <punkt id="2741" miejscowosc="Płaszczyca" 
+      ns="53.781582" we="17.33134" km="181.1" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków. Możliwość biwakowania</opispunktu> 
+    </punkt>
+    <punkt id="2740" miejscowosc="Lisewo" 
+      ns="53.777356" we="17.252837" km="187.3" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków</opispunktu> 
+    </punkt>
+    <punkt id="3700" miejscowosc="Małe Swornegacie" 
+      ns="53.806952" we="17.481581" km="164.5" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Brdy do j. Charzykowskiego</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="319" typ="jezioro" nazwa="Jezioro Szczytno" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="3"> 
+  <opis>Fragment spływu prowadzący przez jeziora, w przypadku wiatru należy spodziewać się bocznej fali</opis>
+    <punkt id="2739" miejscowosc="Szczytno" 
+      ns="53.772188" we="17.219286" km="190.1" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków</opispunktu> 
+    </punkt>
+    <punkt id="2738" miejscowosc="Kaczy Dołek" 
+      ns="53.750155" we="17.197212" km="192.9" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Bardzo przyjemny biwak - polecam.</opispunktu> 
+    </punkt>
+    <punkt id="3539" miejscowosc="Pakotulsko" 
+      ns="53.79424125" we="17.1929183" km="198" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Plaża w Pakotulsku. Możliwość biwakowania, dojazdu samochodem (choć nieco karkołomnie). W pobliżu bijące źródełko z czystą wodą. Sklep w Pakotulsku (czynny całą dobę !) około 500 m od plaży</opispunktu> 
+    </punkt>
+    <punkt id="2737" miejscowosc="Dolinka" 
+      ns="53.791798" we="17.205536" km="199.2" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania. Prywatne pole biwakowe i możliwość wynajęcia pokoi wraz z prysznicem. Sklep w Pakotulsku (czynny całą dobę !) około 800 m od mostu</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="425" typ="rzeka" nazwa="Garbaty Most - Dolinka" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis>Garbaty Most - około 2 godziny płynięcia do Dolinki plus 20 minut do plaży w Pakotulsku. Teren otwarty i szerokie koryto rzeki</opis>
+    <punkt id="3538" miejscowosc="Rudniki" 
+      ns="53.82472728" we="17.20330032" km="204.3" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście rzeki Ruda</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="424" typ="rzeka" nazwa="Przytoń - Garbaty Most" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Rzeka o głębokości do 0,5 m. Spory spadek i szybki nurt - drzewa zagradzają drogę a prąd przeszkadza w sterowaniu. Bardzo ładny odcinek Brdy - zbocza z 300 letnimi bukami
+osiągają wysokość ponad 20 metrów. Czas spłynięcia do Garbatego Mostu - 1,5 godziny</opis>
+    <punkt id="3537" miejscowosc="Rudniki" 
+      ns="53.82990999" we="17.2058434" km="205.1" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Garbaty Most. Most drogowy na trasie Przechlewo - Koczała. Dwa pola biwakowe - przed mostem i za mostem</opispunktu> 
+    </punkt>
+    <punkt id="3536" miejscowosc="Rudniki" 
+      ns="53.84036791" we="17.19178324" km="207.8" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie Lipczynek - Sporysz. Pole biwakowe przed mostem. Rezerwat Przytoń (Folbryk, a na niektórych mapach Folbrycht)</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="507" typ="rzeka" nazwa="Stara Brda - Nowa Brda" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Górny odcinek ze Starej Brdy (Łosiowisko) do Nowej Brdy zajmuje średnio około 3-4h, w zależności od tempa spływu. Jest to bardzo atrakcyjny odcinek poniżej Starej Brdy Pilskiej. Rzeka meandruje w starym borze pośród ponurych omszałych drzew. Trochę drewna w korycie ale w większości przecięte i wysprzątane (widać ślady obróbki drewna). Poniżej Żółny już nie tak uroczo ale ciągle ładnie i dziko. Odcinek zagospodarowany (wiaty, ławki, tablice) i oznakowany (kilometraż). Wodowskaz pod mostem w Nowej Brdzie wskazywał w czasie spływu poziom 508 co zapewnia dobre warunki wodne na tym odcinku, chociaż miejscami szoruje się na przemiałach</opis>
+    <punkt id="5317" miejscowosc="Stara Brda" 
+      ns="53.96038518" we="17.20119422" km="231.1" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kratownicowy w lesie przy ośrodku Łosiowisko (możliwe noclegi pod dachem)</opispunktu> 
+    </punkt>
+    <punkt id="5318" miejscowosc="Stara Brda Pilska" 
+      ns="53.94649098" we="17.21147101" km="229.2" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski most i jaz. Przenoska przez drogę obok pstrągarni, stromy start z wyżłobionej w ziemi rynny, po lewej stronie rzeki</opispunktu> 
+    </punkt>
+    <punkt id="5319" miejscowosc="Stara Brda Pilska" 
+      ns="53.9449608" we="17.21344602" km="228.8" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka, zaraz za nią biwak po lewej przy leśniczówce - wiata, pomost. Poniżej bardzo ładny odcinek dzikiej rzeki w starym borze, omszałe drzewa, rzeka miejscami wypłyca się i trzeba szukać wody, nieliczne zwałki</opispunktu> 
+    </punkt>
+    <punkt id="5320" miejscowosc="Pustowo" 
+      ns="53.93248349" we="17.20617465" km="227.1" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy z charakterystycznym stalowym pomostem pod spodem</opispunktu> 
+    </punkt>
+    <punkt id="5321" miejscowosc="Pustowo" 
+      ns="53.92459107" we="17.2095221" km="225.6" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Zerwany most drewniany, dalej miejscami szeroko ale za to płytko </opispunktu> 
+    </punkt>
+    <punkt id="5322" miejscowosc="Żółna" 
+      ns="53.92352098" we="17.22473484" km="223.9" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Kamienne ruiny w nurcie po jakiejś budowli </opispunktu> 
+    </punkt>
+    <punkt id="5323" miejscowosc="Żółna" 
+      ns="53.9157597" we="17.23182033" km="222.6" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Kratownicowy mostek w lesie </opispunktu> 
+    </punkt>
+    <punkt id="5324" miejscowosc="Żółna" 
+      ns="53.90741559" we="17.24513367" km="221" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek drewniany na skraju wsi </opispunktu> 
+    </punkt>
+    <punkt id="5325" miejscowosc="Żółna" 
+      ns="53.90496366" we="17.24260587" km="220.5" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5326" miejscowosc="Żółna" 
+      ns="53.9039422" we="17.23279495" km="219.4" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, przed nim po prawej pole biwakowe - wiata, dużo miejsca na samochody, pomost, tablice informacyjne </opispunktu> 
+    </punkt>
+    <punkt id="5327" miejscowosc="Żółna" 
+      ns="53.89556314" we="17.22920842" km="218.2" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek kratownicowy w lesie </opispunktu> 
+    </punkt>
+    <punkt id="5328" miejscowosc="Nowa Brda" 
+      ns="53.87850571" we="17.20565732" km="215.1" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most. Wygodne miejsce wodowania z dobrynm dojazdem drogą gruntową. Przy moście pomnik spływów Karola Wojtyły. Poniżej mostu przy prawym brzegu znajduje się wodowskaz nie funkcjonujący w systemie monitoringu, bez możliwości odczytu zdalnego</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="444" typ="zalew" nazwa="Jeziora i Kanał Lateralny" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="9"> 
+  <opis>Jeziora połączone węższymi odcinkami częściowo sztucznych kanałów. Na końcu dość uciążliwa przenoska w Samociążku do koryta Brdy</opis>
+    <punkt id="3727" miejscowosc="Samociążek" 
+      ns="53.275195" we="17.954118" km="37.3" etykieta="" 
+      kolejnosc="77"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia Koronowo w Samociążku - przenoska z Kanału Samociąskiego do starego koryta Brdy 200m</opispunktu> 
+    </punkt>
+    <punkt id="3726" miejscowosc="Brama Kręgielna = Przekop" 
+      ns="53.352642" we="17.982011" km="48" etykieta="" 
+      kolejnosc="76"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przepływ na system wodny Kanału Lateralnego</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="445" typ="mieszany" nazwa="Brda od Samociążka do Bydgoszczy" 
+      uciazliwosc="U3" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="10"> 
+  <opis>Rzeka spokojnie płynąca i dwa zbiorniki zaporowe hydroelektrowni z dużymi przenoskami. Przed centrum Bydgoszczy możliwa jeszcze jedna przenoska przy Śluzie Miejskiej</opis>
+    <punkt id="3731" miejscowosc="Bydgoszcz" 
+      ns="53.128104" we="17.995477" km="12.6" etykieta="" 
+      kolejnosc="82"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Rozgałęzienie szlaku: w lewo główne koryto Brdy, w prawo  Młynówka. Możliwa przenoska</opispunktu> 
+    </punkt>
+    <punkt id="3730" miejscowosc="Bydgoszcz" 
+      ns="53.137095" we="17.973968" km="14.4" etykieta="" 
+      kolejnosc="81"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Kanał Bydgoski - ujście z prawego brzegu [szlak żeglowny]</opispunktu> 
+    </punkt>
+    <punkt id="3729" miejscowosc="Opławiec - Bydgoszcz" 
+      ns="53.192012" we="17.966814" km="22.2" etykieta="" 
+      kolejnosc="80"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia Smukała w Opławcu [część Bydgoszczy], przenoska z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="3728" miejscowosc="Bożenkowo" 
+      ns="53.228003" we="17.956237" km="30.7" etykieta="" 
+      kolejnosc="79"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia wodna Tryszczyn - przenoska 80m</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="446" typ="mieszany" nazwa="Brda od Bydgoszczy do Wisły" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL3" 
+      kolejnosc="11"> 
+  <opis>Rzeka w centrum Bydgoszczy, niżej akwen Toru Regatowego i możliwa ostatnia przenoska przez nową śluzę Czersko Polskie</opis>
+    <punkt id="5338" miejscowosc="Bożenkowo" 
+      ns="53.229" we="17.95785272" km="30.8" etykieta="" 
+      kolejnosc="78"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z lewej strony rzeki Kotomierzyca [Kotomierzanka]</opispunktu> 
+    </punkt>
+    <punkt id="5337" miejscowosc="Sokole-Kuźnica" 
+      ns="53.42722717" we="17.93001125" km="60.4" etykieta="" 
+      kolejnosc="75"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie ze szlakiem Krówka (dopływ z prawej strony)</opispunktu> 
+    </punkt>
+    <punkt id="5336" miejscowosc="Zamrzenica" 
+      ns="53.43450765" we="17.90051641" km="63" etykieta="" 
+      kolejnosc="74"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie ze szlakiem Sępolna (prawy dopływ) na dużym rozlewisku powstałym z połączenia jezior: Koronowskiego, Strzemna i Turzynka</opispunktu> 
+    </punkt>
+    <punkt id="2754" miejscowosc="Bydgoszcz" 
+      ns="53.131731" we="18.139554" km="0" etykieta="" 
+      kolejnosc="85"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Kanału Brdy biegnącego przez śluzę Czersko Polskie do Wisły</opispunktu> 
+    </punkt>
+    <punkt id="3733" miejscowosc="Bydgoszcz" 
+      ns="53.119505" we="18.12612" km="2.1" etykieta="" 
+      kolejnosc="84"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Z prawego brzegu Toru Regatowego wypływa kanał wiodący do Śluzy Czersko Polskie na aktualnym biegu szlaku Brdy</opispunktu> 
+    </punkt>
+    <punkt id="3732" miejscowosc="Bydgoszcz" 
+      ns="53.112058" we="18.11541" km="3.3" etykieta="" 
+      kolejnosc="83"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Brda wpływa na akwen Toru Regatowego</opispunktu> 
+    </punkt>
+    <punkt id="5335" miejscowosc="Rudniki" 
+      ns="53.84287058" we="17.19302649" km="208.2" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Modra</opispunktu> 
+    </punkt>
+    <punkt id="5334" miejscowosc="Nowa Brda" 
+      ns="53.87697875" we="17.20346365" km="214.8" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

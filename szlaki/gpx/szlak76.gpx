@@ -1,0 +1,70 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.97015600" lon="17.56317600">
+<name>21.89</name>
+<desc>Most drogowy na S krańcu wsi. Wygodne miejsce wodowania kajaków.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.95238100" lon="17.46775800">
+<name>14.70</name>
+<desc>Most drogowy na N od wsi. Wygodne miejsce wodowania kajaków.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.95271800" lon="17.44823200">
+<name>13.33</name>
+<desc>Most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.95421300" lon="17.39810500">
+<name>9.22</name>
+<desc>Próg około 0,5 m, do spłynięcia na całej szerokości.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.95506100" lon="17.39676200">
+<name>9.08</name>
+<desc>Most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.95682900" lon="17.39254800">
+<name>8.80</name>
+<desc>Most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.96311400" lon="17.37766500">
+<name>7.74</name>
+<desc>Prożek o wysokości ok. 0,7 m, do spłynięcia lewą stroną.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.96879700" lon="17.37238600">
+<name>7.00</name>
+<desc>Most drogowy. Wygodne miejsce wodowania.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.97605400" lon="17.36402200">
+<name>5.87</name>
+<desc>Most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.98339000" lon="17.35787900">
+<name>4.80</name>
+<desc>Jaz piętrzący wodę, odcinający cofkę z Odry w przypadku podwyższonego stanu wody. Najczęściej jest otwarty.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.00036700" lon="17.32770300">
+<name>1.96</name>
+<desc>Most drogowy. Wygodne miejsce wodowania kajaków.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.00725900" lon="17.30396000">
+<name>0.00</name>
+<desc>Ujście Smortawy do Odry.</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

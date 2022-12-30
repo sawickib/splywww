@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="62" nazwa="Buczynka vel Czarna Struga" wersja="2">
+<opis>Lewy dopływ Buga. Mała bardzo urozmaicona rzeczka, łatwa, ale dość uciążliwa, szczególnie na odcinku od Wólki Rytelskiej do ujścia. Prawie cały szlak wiedzie przez Nadbużański Park Krajobrazowy. Przy dużej wodzie np. po długotrwałych deszczach spławna od Sterdyni ( jeśli za zaporą w Sterdyni woda przykrywa "tzw łamacze lodu" to można płynąć) przy niższej wodzie można zacząć płynięcie od mostku przed leśniczówką Holendernia leżącą ok. 2km za Chądzyniem. </opis> 
+  <odcinek id="234" typ="rzeka" nazwa="Buczynka (odcinek dolny)" 
+      uciazliwosc="U4" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="3"> 
+  <opis>Od mostu w Wólce Rytelskiej rzeka ponownie zmienia charakter. Pojawiają się zwalone drzewa blokujące całą rzekę i uciążliwość bardzo wzrasta. Po ok. 2km "zwałki" ponownie rzeka meandruje nizinnie, a następnie rozszerza się tworząc rozlewisko początkowo mocno zarośniete później przechodzące w szeroką rzekę i uchodzi do Buga. Zakończyć spływ można 2 km dalej w miejscowości Gąsiorowo leżącej na prawym brzegu Buga.</opis>
+    <punkt id="2195" miejscowosc="Gąsiorowo" 
+      ns="52.70321" we="22.159535" km="22.5" etykieta="19" 
+      kolejnosc="22"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Gąsiorowo - koniec spływu.</opispunktu> 
+    </punkt>
+    <punkt id="2194" miejscowosc="" 
+      ns="52.690784" we="22.165707" km="20.9" etykieta="18" 
+      kolejnosc="21"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście do Buga</opispunktu> 
+    </punkt>
+    <punkt id="2193" miejscowosc="Rytele Rybaki" 
+      ns="52.69131" we="22.172237" km="20.4" etykieta="17" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy - Rytele Rybaki</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenosić lewą.</opispunktu> 
+    </punkt>
+    <punkt id="2192" miejscowosc="" 
+      ns="52.687023" we="22.188944" km="18.9" etykieta="16" 
+      kolejnosc="19"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ostry zakręt w lewo - rzeka zmienia kierunek płynięcia na zachodni. Rozpoczynają się zarośnięte rozlewiska.</opispunktu> 
+    </punkt>
+    <punkt id="2191" miejscowosc="" 
+      ns="52.67589" we="22.195481" km="17.5" etykieta="15" 
+      kolejnosc="18"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Linia wysokiego napięcia.</opispunktu> 
+    </punkt>
+    <punkt id="2190" miejscowosc="Wólka Rytelska" 
+      ns="0" we="0" km="16.3" etykieta="14a" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="233" typ="rzeka" nazwa="Czarna Struga" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis>Rzeka "zmienia" tu nazwę na Czarna Struga. Większość odcinka stanowi zdziczały kanał. Pierwszy kilometr płyniemy na poziomie łąk. Rzeka 3,5 - 4m szerokości i ok. 1,5m głębokości. Następnie wpływamy do puszczy, gdzie przez ok 2km rzeka rozlewa się szeroko (15-20m) po bagnistym terenie. Przedzieramy się przez roślinność wodną mocno zarastającą całą szerokość rzeki. Można tu spotkać mnóstwo ptactwa wodnego oraz łosie (widziałem dwa). Mijamy żeremia bobrowe i tamę o ok. 1m wysokości zbudowaną przez te pracowite zwierzątka. Rzeka zwęrza się. Wypływamy lewostronnie z puszczy. Mijamy kilka kładek i usytuowanych tuż przy rzece myśliwskich ambon. Na 10km ponownie wpływamy w las. Tu kończy się kanał i zaczyna meandrująca rzeka. </opis>
+    <punkt id="2189" miejscowosc="Wólka Rytelska" 
+      ns="52.667876" we="22.205779" km="16.3" etykieta="14" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy - Wólka Rytelska. Możliwość zakończenia spływu.</opispunktu> 
+    </punkt>
+    <punkt id="2188" miejscowosc="" 
+      ns="52.661784" we="22.211535" km="15.4" etykieta="13" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na pola.</opispunktu> 
+    </punkt>
+    <punkt id="2187" miejscowosc="" 
+      ns="52.64275" we="22.242205" km="11.6" etykieta="12" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy - w lewo Ceranów 2km. w prawo Nur 6km.</opispunktu> 
+    </punkt>
+    <punkt id="2186" miejscowosc="" 
+      ns="52.637821" we="22.256802" km="10.2" etykieta="11" 
+      kolejnosc="13"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Koniec Kanłu. Dalej płyniemy już meandrującą rzeką.</opispunktu> 
+    </punkt>
+    <punkt id="2185" miejscowosc="" 
+      ns="52.63216" we="22.263092" km="9.6" etykieta="10" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski metalowy mostek na polnej drodze.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2184" miejscowosc="" 
+      ns="52.622854" we="22.27323" km="8.3" etykieta="9" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski mostek na polnej drodze.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2183" miejscowosc="" 
+      ns="52.617975" we="22.288082" km="7.2" etykieta="8" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">jaz, a właściwie przepust.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Dopływ z lewej. Po lewej kończy się las, a zaczynają łąki.</opispunktu> 
+    </punkt>
+    <punkt id="2182" miejscowosc="" 
+      ns="52.610615" we="22.310864" km="5.4" etykieta="7" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski mostek polny.  Za nim wpływamy do puszczy.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2181" miejscowosc="leśniczówka Holendernia" 
+      ns="52.605731" we="22.325451" km="4.3" etykieta="5c" 
+      kolejnosc="8"> 
+    <opispunktu typ="uwaga" kolejnosc="-1"></opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="232" typ="kanał" nazwa="Start -Leśniczówka Holendernia" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="pozaKL" 
+      kolejnosc="1"> 
+  <opis>500 metrowy odcinek kanału umożliwiający alternatywny start z mostu przed leśniczówką Holendernia</opis>
+    <punkt id="2180" miejscowosc="leśniczówka Holendernia" 
+      ns="52.605731" we="22.325451" km="4.3" etykieta="5b" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2179" miejscowosc="leśniczówka Holendernia" 
+      ns="52.60356" we="22.33236" km="3.8" etykieta="6" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Drogowy na trasie Sterdyń - Białobrzegi, ok. 2km za wsią Chądzyń. Miejsce alternatywnego rozpoczęcia spływu.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="231" typ="rzeka" nazwa="Buczynka (Sterdyń - leśniczówka Holendernia)" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL3" 
+      kolejnosc="0"> 
+  <opis>Uregulowany odcinek rzeki z niskimi kładkami i dwoma mostkami na pola (na wysokości wsi Dzięcioły). Za mostem we wsi Doły prosty uregulowany kanał  (trzy jazy), plynie się na poziomie łąk, więc widoki na okolicę są przepiękne. Kanał na tyłach leśniczówki Holendernia wpada pod kątem prostym do innego, a nurt rozdziela się na dwie części. W prawo płynie mała części wody w kierunku mostku, z którego można startować przy niższym stanie wody, natoniast większość wody płynie w lewo w kierunku Buga.</opis>
+    <punkt id="2178" miejscowosc="leśniczówka Holendernia" 
+      ns="52.605731" we="22.325451" km="4.3" etykieta="5a" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rzeka rozdwajaja :) się w lewo więcej wody</opispunktu> 
+    </punkt>
+    <punkt id="2177" miejscowosc="Doły" 
+      ns="52.596643" we="22.314735" km="3" etykieta="4" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Doły - Most drogowy (2 betonowe rury obniżające się z nurtem). </opispunktu> 
+    </punkt>
+    <punkt id="2176" miejscowosc="Dzięcioły" 
+      ns="0" we="0" km="" etykieta="3.5" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">dwa niskie mostki - wjazdy na pola.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2175" miejscowosc="Dzięcioły Dalsze" 
+      ns="52.595399" we="22.310264" km="2.6" etykieta="3" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przepust na końcu wsi</opispunktu> 
+    </punkt>
+    <punkt id="2174" miejscowosc="Dzięcioły" 
+      ns="52.592442" we="22.298386" km="1.8" etykieta="2" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="2173" miejscowosc="Sterdyń" 
+      ns="52.578931" we="22.293442" km="0" etykieta="1" 
+      kolejnosc="0"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Wieś gminna bardzo dobrze zaopatrzona.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zapora</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

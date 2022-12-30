@@ -1,0 +1,195 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.51628800" lon="16.70666300">
+<name>39.50</name>
+<desc>Wodowanie na N krańcu jeziorka, stawu</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.51592100" lon="16.70766000">
+<name>38.93</name>
+<desc>Ujście z jeziorka, stawu - S kraniec</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.51300300" lon="16.71133300">
+<name>38.59</name>
+<desc></desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="52.50115100" lon="16.71616800">
+<name>37.04</name>
+<desc>Mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.48845100" lon="16.72698100">
+<name>35.36</name>
+<desc>Mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.48724500" lon="16.73002300">
+<name>35.11</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.47407200" lon="16.75478000">
+<name>32.63</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.47099800" lon="16.76164900">
+<name>32.00</name>
+<desc>Mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.47099400" lon="16.76223100">
+<name>31.96</name>
+<desc>Jezioro Kiekrz</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.47279500" lon="16.78995100">
+<name>30.02</name>
+<desc>Ujście z jeziora Kiekrz</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.47476000" lon="16.79035400">
+<name>29.78</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.47509700" lon="16.79112400">
+<name>29.72</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.48165100" lon="16.79621000">
+<name>28.69</name>
+<desc>Zastawka</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.48505800" lon="16.79645800">
+<name>28.26</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.48570500" lon="16.79167100">
+<name>27.80</name>
+<desc>Jezioro Małe Kierskie</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.49147800" lon="16.78592100">
+<name>27.04</name>
+<desc>Ujście z jaziora Małego Kierskiego</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.49937700" lon="16.78702400">
+<name>26.09</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.52208000" lon="16.78569000">
+<name>22.97</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.53648000" lon="16.78411700">
+<name>21.28</name>
+<desc>Mostek leśny</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.54494200" lon="16.78563300">
+<name>20.27</name>
+<desc>Ujście potoku</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.54739800" lon="16.78828300">
+<name>19.87</name>
+<desc>Ujście z jeziora Leśnego</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.55616200" lon="16.78847700">
+<name>18.89</name>
+<desc>Mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.55701000" lon="16.78843900">
+<name>18.81</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.58613000" lon="16.77233100">
+<name>15.15</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.59177000" lon="16.76356100">
+<name>14.12</name>
+<desc>Młyn</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.60053200" lon="16.75239100">
+<name>12.80</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.60174100" lon="16.75199400">
+<name>12.67</name>
+<desc>Próg</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.60486100" lon="16.74839100">
+<name>12.38</name>
+<desc>Zastawka</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.61724600" lon="16.73588600">
+<name>10.59</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.61935300" lon="16.73027700">
+<name>10.06</name>
+<desc>Ujście kanału po lewej</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.62590700" lon="16.72045800">
+<name>9.07</name>
+<desc>Ujście kanału po lewej</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.63326300" lon="16.71521900">
+<name>8.10</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.64640300" lon="16.70454400">
+<name>6.12</name>
+<desc>Mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.65321300" lon="16.69967300">
+<name>5.02</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.67019400" lon="16.67609600">
+<name>0.81</name>
+<desc>Próg</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.66973600" lon="16.66939000">
+<name>0.66</name>
+<desc>Ruks Młyn - most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.67210300" lon="16.66492700">
+<name>0.00</name>
+<desc>Ujście Samicy do Warty</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,45 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.14620108" lon="23.46556149">
+<name>8.90</name>
+<desc>Drewniany mostek na szutrowej drodze. Wygodne miejsce na rozpoczęcie etapu, z dobrym dostępem do wody. W pobliżu mostu wiaty, ławki, tablice z informacjami turystycznymi i dużo miejsca na samochody. Poniżej rzeka wpływa na otwarty teren, dolina jest szeroka, a brzegi porastają trzciny. Do mostu dopływa już spora rzeczka, można więc próbować zaczynać znacznie wyżej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.16542008" lon="23.45198378">
+<name>6.30</name>
+<desc>Drewniana kładka dla pieszych. Przed kładką bród przez rzekę z możliwym dojazdem od strony wsi, polną drogą</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.17179546" lon="23.44658518">
+<name>5.40</name>
+<desc>Betonowy most na publicznej, szutrowej drodze do Supraśla. Możliwy dostęp do wody chociaż brzegi zarośnięte. Dalej dolina się zwęża, a rzeka meandruje. Krótko przed następnym mostem, w Cieliczance kilka powalonych drzew. Pokonanie niektórych, przy zastanych warunkach wodnych wymagało współpracy zespołowej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.18128413" lon="23.41784866">
+<name>1.70</name>
+<desc>Most na szutrowej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.18155148" lon="23.41766259">
+<name>1.60</name>
+<desc>Niski betonowy prożek, przy wyższych stanach zapewne niezauważalny</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.18854594" lon="23.41238811">
+<name>0.70</name>
+<desc>4 przęsłowa kratownica otwartej zastawki, nie piętrząca wody</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.19400808" lon="23.40809237">
+<name>0.00</name>
+<desc>Ujście Płoski do Supraśli. Wygodne miejsce zakończenia etapu znajduje się 300 m niżej, na Supraśli, po prawej stronie, w pobliżu domu rekolekcyjnego księży werbistów. Można tu dojechać szutrową drogą od strony osady Krzemienne. Po drugiej stronie rzeki położona jest wieś Cieliczanka, przy której również można zakończyć spływ, lub popłynąć w dół, do miasta Supraśl</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

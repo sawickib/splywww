@@ -1,0 +1,45 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.56144258" lon="18.22461201">
+<name>9.10</name>
+<desc>MEW Bobryszka z malowniczo położonym jeziorem zaporowym. Wygodne miejsce wodowania, z dojazdem z Mszana gruntową drogą. Na prośbę, uprzejmy właściciel mieszkający w pobliskim Mszanie nie robi problemów i upuszcza nieco wody z zapory. Czyni to jednak w momencie przyjazdu kajaków na start, nie należy więc zbytnio się spieszyć, żeby nie wyprzedzić fali wezbraniowej. Poniżej odcinek zwałkowy z kamiennymi bystrzami, na których miejscami brakuje wody. Niektóre zwałki wymagają współpracy zespołowej. Okolica niezwykle malownicza i dzika, zalesiona głęboka dolina z poprzecznymi rozcięciami erozyjnymi</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.58592081" lon="18.23726748">
+<name>4.50</name>
+<desc>Niska drewniana kładka przy zabudowaniach, malowniczo położonych na stromej skarpie. Przez kładkę przepychać się niezwykle ostrożnie z uwagi na wystające gwoździe</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.58664170" lon="18.23728527">
+<name>4.40</name>
+<desc>Betonowe przyczółki i filar po zastawce lub kładce, początek rozlewiska przed zaporą młyna</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.58849965" lon="18.23938249">
+<name>4.20</name>
+<desc>Wysoka zapora młyna piętrząca wodę na około 5m, a nad nią most na lokalnej drodze. Wygodny dostęp do wody, chociaż wyjście nieco uciążliwe ze względu na stromy brzeg. Przenoska lewą stroną przez drogę i stromą skarpę. Wodowanie z wielkich głazów kamiennego nabrzeża lub nieco dalej, pośród drzew z trawiastej skarpy. Poniżej jazu, na dolnej wodzie znajduje się wodowskaz. Wskazania poziomu 862 zapewniają dobrą wodę, na krótkim odcinku do jeziora Wierzchy. Wodowskaz posadowiony na górnej wodzie nie odzwierciedla w praktyce ilości wody powyżej jazu, nie należy więc przesadnie sugerować się jego wskazaniami. Poniżej, do jeziora Wierzchy odcinek z pojedynczymi zwałkami i bardzo spokojnym nurcie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.59378639" lon="18.24488256">
+<name>3.10</name>
+<desc>Wypływ na jezioro Wierzchy. Najbliższe wygodne lądowanie znajuje się vis a vis wypływu, płynąć na NNW w kierunku widocznego w trzcinach zniszczonego pomostu i szpaleru drzew, wzdłuż których prowadzi droga z kocich łbów pomiędzy Wierzchami a Jakubowem. Można też za wypływem na jezioro skręcić w prawo, do drogi Tleń - Lniano</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.59690728" lon="18.25655547">
+<name>2.30</name>
+<desc>Skarpa i most na drodze Tleń - Lniano (tzw. Żydzia Góra)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.60004903" lon="18.28989036">
+<name>0.00</name>
+<desc>Połączenie wód Ryszki i Wdy na jeziorze Żurskim</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

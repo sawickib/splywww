@@ -1,0 +1,125 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.06728801" lon="17.16277978">
+<name>125.70</name>
+<desc>Z prawej strony dopływa Struga Kramarzyńska</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.08346094" lon="17.13246246">
+<name>122.80</name>
+<desc>Ujście rzeki Doszenicy z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.15088192" lon="17.02677757">
+<name>106.60</name>
+<desc>Ujście rzeki Bożanki do Wieprzy, z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.16869846" lon="17.01523237">
+<name>103.00</name>
+<desc>Ujście Pokrzywny z prawej strony, pośród rozległych łąk i pojedynczych drzew. Pokrzywna wydaje się być szersza od Wieprzy i niosąca więcej wody. Od tego miejsca rzeka ma 10-12 m szerokości i jest nieco głębsza. Po opuszczeniu łąk wpływa do lasu, a na zakolach pojawiają się piaszczyste podmyte skarpy. Dno robi się twarde i kamieniste, przez co rzeka wypłyca się i poszerza, a nurt przyspiesza</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.15595977" lon="16.97522722">
+<name>99.00</name>
+<desc>Pole biwakowe MNICH po prawej stronie na wysokiej skarpie, oznakowane biało-czerwonym sierżantem przymocowanym do drzewa. Pośród drzew stoi wiata, którą widać z rzeki. Jest tu też miejsce na ognisko. Wygodne miejsce do kończenia i rozpoczynania etapów. Sporo miejsca na samochody oraz dobry dojazd od strony Broczyny i Bożanki</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.15468038" lon="16.97625309">
+<name>98.80</name>
+<desc>Betonowy most drogowy, przed nim pale drewniane, niżej kilka zwałek w tym 2 [listopad 2019] wymagające gimnastyki i współpracy zespołowej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.15448258" lon="16.95185067">
+<name>95.90</name>
+<desc>Z lewej ujście Broczynki, tuż za nim 3 rzędy pali po starym moście</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.17651223" lon="16.90732977">
+<name>88.20</name>
+<desc>Z lewej strony ujście Studnicy, pośród łąk i pojedynczych drzew, poprzedzone tablicą informacyjną. Przy samym ujściu małe tabliczki z nazwami rzek, wskazujące ten sam kierunek</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.18208540" lon="16.90074266">
+<name>87.00</name>
+<desc>Duży, betonowy, sklepiony most drogowy z dobrze zachowanymi herbami szlachty pruskiej, widocznymi od wewnętrznej strony. Przy moście tabiczka szlaku Wieprzy wskazująca jego 83 kilometr. Wygodny dojazd i dostęp do wody, chociaż skarpy dość wysokie i strome</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.20962508" lon="16.89690731">
+<name>83.00</name>
+<desc>Z lewej strony ujście rzeczki Modła</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.31054977" lon="16.86670275">
+<name>66.50</name>
+<desc>Z prawej strony wpada rzeka Bystrzenica</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.33554102" lon="16.74500285">
+<name>55.70</name>
+<desc>Z prawej strony ujście rzeczki Ściegnica</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.33947626" lon="16.72779609">
+<name>54.40</name>
+<desc>Po lewej stronie uchodzi rzeczka Reknica</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.36531551" lon="16.68801029">
+<name>49.70</name>
+<desc>Z lewej strony wpada rzeka Moszczenica</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.39888570" lon="16.72658617">
+<name>44.00</name>
+<desc>Z prawej rzeczka Wrześniczka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.41391659" lon="16.73734340">
+<name>41.90</name>
+<desc>Z lewej rzeczka Tokara</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.44899900" lon="16.74526977">
+<name>36.90</name>
+<desc>Z prawej rzeka Moszczeniczka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.44714998" lon="16.66944659">
+<name>29.90</name>
+<desc>Z lewej rzeczka Jasienica</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.44211180" lon="16.63873655">
+<name>25.40</name>
+<desc>Z lewej rzeczka Leśna</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.44022466" lon="16.59121519">
+<name>20.90</name>
+<desc>Z lewej rzeczka Jarosławianka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.44188059" lon="16.47636987">
+<name>10.25</name>
+<desc>Z prawej rzeczka Stobnica</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.43356729" lon="16.38964100">
+<name>1.10</name>
+<desc>Ujście Grabowej do Wieprzy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.44030070" lon="16.37752304">
+<name>0.00</name>
+<desc>Ujście Wieprzy do Bałtyku</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

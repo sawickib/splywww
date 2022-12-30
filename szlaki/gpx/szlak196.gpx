@@ -1,0 +1,86 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.35847779" lon="16.57342632">
+<name>7.90</name>
+<desc>Most na drodze z Rudna do Starego Wołowa, w ciągu grobli rozdzielającej stawy hodowlane, Górny i Dolny. Przy moście plac na kilka samochodów</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.36295484" lon="16.56905354">
+<name>7.30</name>
+<desc>Jaz utrzymujący poziom wody w stawach, w pobliżu budynek wykorzystywany przez zarządcę gospodarstwa rybackiego. Poniżej koryto uregulowane, drobnymi fragmentami sprawiające wrażenie naturalnego i zdziczałego. Permanentny brak wody lub jej stagnujący niedobór, nawet w okresach intensywnych opadów utrzymuje się niemalże przez cały rok. Spłynąć poniżej można wyłącznie w czasie spustu wody ze stawów. Granica rezerwatu Uroczysko Wrzosy, tak więc spływ wyłącznie z zezwoleniami RDOś. Poniżej ładny, dziki odcinek zwałkowy przez około 2km. Woda czysta i głęboka, a dno piaszczyste. Wokół gęsty las objęty ochroną rezerwatową. W czasie spustu wody nurt słaby, ale wyraźny. Zwałek jest sporo, a niektóre wymagają sporej gimnastyki i współpracy zespołowej</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.36464599" lon="16.56774477">
+<name>7.10</name>
+<desc>Z prawej strony ślepy dopływ północny, od strony stawów. Ze względu na charakterystyczny, fotogeniczny szpaler starych drzew po obydwu stronach cieku można wnosić, że jest to fragment dawnego, naturalnego koryta Juszki, chociaż XIX wieczne mapy pokazują go już jako ślepy odpływ ze stawów. Poniżej pojedyncze tamy bobrowe oraz zwałki, niektóre dość wymagające</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.36585905" lon="16.55962017">
+<name>6.50</name>
+<desc>Punkt, który na starych mapach opisany jest jako Teufels Brucke, jednak dzisiaj miejsce po moście jest mocno zatarte i nie rzuca się w oczy. Fragmentami, lustro wody znajduje się powyżej poziomu lasu, co niestety ma swoje konsekwencje nieco niżej</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.36711076" lon="16.55294164">
+<name>6.00</name>
+<desc>Pierwsze miejsce, w którym duża ilość wody wypływa z koryta w prawo, do lasu przez przerwany wał. Odtąd jest coraz gorzej, zaczynają się trzcinowiska, miejscami gęste, bez możlwości wiosłowania. Po obydwu stronach podmokłe lasy.
+Gdyby naprawić wyrwę w grobli oraz wszystkie następne, cała masa wody płynęła by dalej korytem. Jest to jednak teren rezerwatu przyrody, nie ma pewności więc, czy dodatkowe nawadnianie podmokłych lasów i łąk, nie jest działaniem celowym. Dalej zaczynają się trzcinowiska, raz rzadsze, raz gęstsze. Delikatny nurt jest zauważalny, a wody jest wystarczająco żeby unosić się na niej. Niestety ze względu na trzciny, a potem również pokrzywy i kolczaste pnącza wiosłowanie jest niemożliwe, lub znacząco utrudnione</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.37413112" lon="16.53674199">
+<name>4.60</name>
+<desc>Z lewej strony dopływa woda z lasu przez ceglaną konstrukcję, na chwilę poprawiając nieco warunki wodne</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.37432392" lon="16.53640008">
+<name>4.50</name>
+<desc>Z lewej strony uchodzi Kanał Dębnicki ze stojącą wodą, w całości pokrytą rzęsą. Cały czas gęste trzcinowiska, dodatkowo wzbogacone w pokrzywy i kłujące krzewy. Teren się otwiera, a las na pewien czas oddala od rzeki</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.37449819" lon="16.53626183">
+<name>4.40</name>
+<desc>Zniszczony drewniany mostek z ceglanymi przyczółkami. W pobliżu wysoka ambona myśliwska umożliwiająca ocenę swojego, beznadziejnego położenia. Wody na tyle, że dałoby się płynąć, ale trzcinowiska to utrudniają lub całkowicie uniemożliwiają. Na starych mapach miejsce to wymownie nazywa się Aquaduct Brucke. Dzisiaj jest to miejsce zarośnięte i zaniedbane, bez widocznych śladów dawnej świetności i jakichkolwiek konstrukcji hydrotechnicznych. Koniec rezerwatu przyrody</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.38168748" lon="16.52875432">
+<name>3.40</name>
+<desc>Na skraju lasu ładne miejsce na odpoczynek. Stolik, ławki i miejsce na ognisko</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.38272487" lon="16.52848525">
+<name>3.30</name>
+<desc>Most na leśnej drodze pomiędzy Wodnicą a Wrzosami. Możliwość awaryjnego dotarcia samochodem utwardzoną, leśną drogą. Miejsce to dzisiaj nazywa się Spaloną Leśniczówką, a kiedyś stało tu leśnictwo Teichhof. Przed mostem, po lewej stronie widać pozostałości budowli niegdyś piętrzących wodę. Poniżej miejscami płynie się swobodnie, ale głównie przedziera przez trzciny i zarośla. Juszka przestaje całkowicie nosić znamiona leśnej rzeczki i staje się coraz głębiej wciętym, rowem melioracyjnym</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.39188831" lon="16.51811219">
+<name>1.70</name>
+<desc>Zniszczony, drewniany mostek, nisko zawieszony nad wodą, zaraz za nim piaszczysty bród. Od tego miejsca woda jakby zanika i nie daje się dalej swobodnie płynąć, nie mówiąc o wiosłowaniu w gęstej roślinności</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.39221689" lon="16.51842922">
+<name>1.60</name>
+<desc>Most kolejowy na linii z Wrocławia do Głogowa</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.39253714" lon="16.51880608">
+<name>1.50</name>
+<desc>Mostek na leśnej drodze. Poniżej niedobór wody i trzciny uniemożliwiają swobodny spływ. Głęboko wcięte koryto, w zasadzie jest sztucznie przekopanym i pogłębionym rowem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.40243978" lon="16.52117643">
+<name>0.40</name>
+<desc>Most na leśnej drodze, od tego miejsca można swobodnie płynąć, ale poziom wody uzależniony jest od ilości wody w Jezierzycy, a w efekcie od kondycji tamy bobrowej poniżej połączenia obydwu rzek. Poniżej, do pokonania jest jeszcze kilka łatwych zwałek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.40551181" lon="16.52261247">
+<name>0.00</name>
+<desc>Ujście Juszki do Jezierzycy. Akcję można zakończyć na moście w Orzeszkowie, 600m w dół Jezierzycą</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

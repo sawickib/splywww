@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="64" nazwa="Nurzec" wersja="2">
+<opis>Nieduża rzeczka spływalna przez cały rok. Prawy dopływ Buga. Łatwa i nieuciążliwa. Dostępna dla wszystkich sprzętów.</opis> 
+  <odcinek id="238" typ="rzeka" nazwa="Ciechanowiec - ujście do Buga" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Meandrująca nieduża rzeczka z jednym progiem.</opis>
+    <punkt id="2223" miejscowosc="" 
+      ns="52.609841" we="22.408433" km="15.1" etykieta="7" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście do Buga. Dalej należy spłynać Bugiem do wsi Murawskie Nadbużne (ok.5km), gdzie można wygodnie skończyć spływ.</opispunktu> 
+    </punkt>
+    <punkt id="2222" miejscowosc="Wojtkowice-Dady" 
+      ns="52.61743" we="22.431491" km="12.8" etykieta="6" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu wieś Wojtkowice-Dady.</opispunktu> 
+    </punkt>
+    <punkt id="2221" miejscowosc="" 
+      ns="52.622361" we="22.445405" km="11.2" etykieta="5" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na lewym brzegu ujscie rz. Pełchówki.</opispunktu> 
+    </punkt>
+    <punkt id="2220" miejscowosc="Zaszków" 
+      ns="52.640222" we="22.449295" km="8.3" etykieta="4" 
+      kolejnosc="3"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rzeka skręca w lewo pod kątem prostym. Na prawym brzegu zabudowania wsi Zaszków.</opispunktu> 
+    </punkt>
+    <punkt id="2219" miejscowosc="Tworkowice" 
+      ns="52.645371" we="22.472375" km="6.1" etykieta="3" 
+      kolejnosc="2"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przy niższym stanie wody próg trzeba obnieść prawą stroną</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">przed mostem 0.5m próg (zapora kierująca wodę do już nieczynnego młyna). Przy wyższym stanie wody spływalny.</opispunktu> 
+    </punkt>
+    <punkt id="2218" miejscowosc="Kozarze" 
+      ns="52.670226" we="22.476427" km="2.2" etykieta="2" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu zabudowania wsi Kozarze.</opispunktu> 
+    </punkt>
+    <punkt id="2217" miejscowosc="Ciechanowiec" 
+      ns="52.679992" we="22.49305" km="0" etykieta="1" 
+      kolejnosc="0"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Ciehanowiec dość duże miasto podlaskie. Kajaki wodujemy za zaporą.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W ciechanowcu znajduje się Muzeum Rolnictwa z przepieknym skansenem. Koniecznie trzeba znaleść czas na zwiedzenie.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

@@ -1,0 +1,585 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.46677294" lon="19.65855531">
+<name>325.00</name>
+<desc>Żródło, most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.47818561" lon="19.82671969">
+<name>312.00</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.48586382" lon="19.86237414">
+<name>307.00</name>
+<desc>Parking, ośrodek zdrowia, miejsce wodowania.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="50.48859910" lon="19.86453616">
+<name>306.00</name>
+<desc>Uniejówka	</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.50863252" lon="19.84666098">
+<name>304.00</name>
+<desc>przy młynie	</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>288.00</name>
+<desc>próg wodny, kamienny	</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.62681008" lon="19.82085771">
+<name>288.00</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>287.00</name>
+<desc>Próg wodny, betonowy</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.63791401" lon="19.79989244">
+<name>285.00</name>
+<desc>jaz oraz młyn wodny</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.65078848" lon="19.80110703">
+<name>283.00</name>
+<desc>Krztynia	</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.68357475" lon="19.77249861">
+<name>277.00</name>
+<desc>Dwa mosty	</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.69636685" lon="19.73812550">
+<name>274.00</name>
+<desc>CMK - most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.72947547" lon="19.69922704">
+<name>268.00</name>
+<desc></desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.73842521" lon="19.68809890">
+<name>266.00</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.76713499" lon="19.68870987">
+<name>263.00</name>
+<desc>Wysoki jaz</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.77143187" lon="19.68363197">
+<name>262.00</name>
+<desc>Białka Lelowska	</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.77241276" lon="19.68069710">
+<name>262.00</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.77671239" lon="19.67683937">
+<name>261.00</name>
+<desc>Kolejowy, linia Częstochowa-Kielce</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.84591062" lon="19.74037750">
+<name>249.00</name>
+<desc></desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.87038206" lon="19.74135662">
+<name>246.00</name>
+<desc>przy stawach rybnych	</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.89296119" lon="19.77671702">
+<name>242.00</name>
+<desc>za stawami rybnymi</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.90372625" lon="19.79038048">
+<name>240.00</name>
+<desc></desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="50.90987034" lon="19.79901230">
+<name>237.00</name>
+<desc></desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="50.90641508" lon="19.81438455">
+<name>236.00</name>
+<desc>Zwlacza</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.91666034" lon="19.83592671">
+<name>233.00</name>
+<desc>Kurzelówka	</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.92554523" lon="19.83794919">
+<name>231.00</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.92750595" lon="19.84098852">
+<name>230.50</name>
+<desc>Brzozówka	</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.94144222" lon="19.84230135">
+<name>228.00</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.94860367" lon="19.83724014">
+<name>226.00</name>
+<desc>Czarna Włoszczowska</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.97128525" lon="19.83769909">
+<name>221.00</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.98832607" lon="19.83570428">
+<name>220.00</name>
+<desc></desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.01332770" lon="19.85972616">
+<name>215.00</name>
+<desc>Biestrzykówka	</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Doskonałe miejsce, dawna gajówka. Również plaża.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.05947207" lon="19.87545343">
+<name>207.00</name>
+<desc>Gospodarstwo agroturystyczne</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.08852718" lon="19.87238218">
+<name>202.00</name>
+<desc></desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.09340856" lon="19.87970692">
+<name>201.00</name>
+<desc>Próg Kamienny można przepłynąć prawą stroną, bystrze </desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.11449473" lon="19.90219253">
+<name>197.00</name>
+<desc></desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.15583750" lon="19.90423402">
+<name>190.00</name>
+<desc>Ojrzanka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.20319951" lon="19.91173053">
+<name>183.00</name>
+<desc></desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="51.22607480" lon="19.90518766">
+<name>181.00</name>
+<desc>Kamping "U Kalickiego"</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.24612743" lon="19.89461791">
+<name>177.00</name>
+<desc>Stobienka		</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.25219891" lon="19.89253405">
+<name>176.00</name>
+<desc>Bar na skarpie (sezonowy) - punkt widokowy z panoramą Pilicy</desc>
+<cmt>bar</cmt>
+</wpt>
+<wpt lat="51.25915399" lon="19.91185917">
+<name>172.00</name>
+<desc>Kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.27072142" lon="19.91372840">
+<name>169.00</name>
+<desc></desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.28291109" lon="19.90951484">
+<name>167.00</name>
+<desc>Kamping</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.29709668" lon="19.90747363">
+<name>165.00</name>
+<desc>Kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.30910803" lon="19.91369809">
+<name>163.00</name>
+<desc>Czarna Malenicka		</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.32688596" lon="19.90606539">
+<name>161.00</name>
+<desc>Biwak oraz domki letniskowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.35500440" lon="19.88274089">
+<name>157.00</name>
+<desc>Betonowe nabrzeże, początek jeziora Sulejowskiego</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.36184601" lon="19.87955412">
+<name>156.00</name>
+<desc>Radońka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.38099132" lon="19.85832871">
+<name>153.00</name>
+<desc>Ujście Luciąży</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.41181106" lon="19.89636771">
+<name>148.00</name>
+<desc>Biwak na cyplu</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.41909466" lon="19.92074148">
+<name>146.00</name>
+<desc>Bełchatowska Wioska Żeglarska</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.44118848" lon="19.91677611">
+<name>143.00</name>
+<desc></desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.45226194" lon="19.97187101">
+<name>140.00</name>
+<desc></desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>139.00</name>
+<desc></desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>139.00</name>
+<desc>Początek nabrzeża z betonu</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.47188489" lon="19.97281220">
+<name>139.00</name>
+<desc>Maruś przewozi kajaki przez zaporę </desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.47393427" lon="20.00606429">
+<name>136.80</name>
+<desc>Zapora, elektrownia	</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.47830103" lon="20.00525294">
+<name>136.00</name>
+<desc>Próg</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.51228513" lon="20.02274926">
+<name>131.00</name>
+<desc>Ujęcie wody pitnej przy rezerwacie "Niebieskie Źródła"</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.51460914" lon="20.02724345">
+<name>130.00</name>
+<desc>Skansen Rzeki Pilicy</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="51.52162319" lon="20.03744778">
+<name>129.00</name>
+<desc>OSiR "Przystań"</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.52832538" lon="20.03991983">
+<name>128.50</name>
+<desc>trasa 713</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.53196371" lon="20.04670012">
+<name>128.00</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.53435532" lon="20.05475439">
+<name>127.00</name>
+<desc>Ujście Wolbórki</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.53753995" lon="20.13407020">
+<name>119.00</name>
+<desc></desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.53475166" lon="20.14647544">
+<name>117.00</name>
+<desc>Gać</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.52413320" lon="20.19496785">
+<name>113.00</name>
+<desc></desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.51951027" lon="20.20667421">
+<name>112.00</name>
+<desc>Słomianka	</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.52062966" lon="20.22298512">
+<name>111.00</name>
+<desc></desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.52803273" lon="20.24709058">
+<name>109.00</name>
+<desc>Biwak i kemping Centrum Młodzieży Chrześcijańskiej</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.52433325" lon="20.25827628">
+<name>108.00</name>
+<desc>Strumień</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.55284195" lon="20.30081582">
+<name>103.00</name>
+<desc></desc>
+<cmt>bar</cmt>
+</wpt>
+<wpt lat="51.56043270" lon="20.31048205">
+<name>102.00</name>
+<desc>Fryszerka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.57435300" lon="20.33479767">
+<name>100.00</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.58254271" lon="20.35182217">
+<name>98.00</name>
+<desc></desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.57631461" lon="20.36771831">
+<name>96.00</name>
+<desc>Domki letniskowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.58597973" lon="20.39744984">
+<name>94.00</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.61627302" lon="20.45310885">
+<name>89.00</name>
+<desc>Przeprawa promowa</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.61599650" lon="20.45570245">
+<name>88.00</name>
+<desc>Rokitna</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.61154177" lon="20.51853330">
+<name>83.00</name>
+<desc></desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.60901851" lon="20.54630912">
+<name>81.00</name>
+<desc>Rzeczyca</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.60949544" lon="20.57281903">
+<name>79.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.60741071" lon="20.58461987">
+<name>78.00</name>
+<desc>Ujście Drzewiczki</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.61052193" lon="20.63874656">
+<name>73.30</name>
+<desc>Most na drodze do wsi leśnej Waliska</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.61620197" lon="20.65264551">
+<name>73.00</name>
+<desc>Ujście Łubianki (tworzy Stawy Gostomskie)</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.61853330" lon="20.67539356">
+<name>69.00</name>
+<desc>Rezerwat pryrody, wysoka skarpa</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.62832438" lon="20.69548695">
+<name>67.00</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.62225713" lon="20.71269297">
+<name>66.00</name>
+<desc>Duży biwak</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.62321961" lon="20.77135392">
+<name>61.00</name>
+<desc>Biwak na pastwisku, jest też plaża</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.65356753" lon="20.82272285">
+<name>56.00</name>
+<desc>Ujście Mohielanki</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.65564697" lon="20.82641642">
+<name>55.00</name>
+<desc>Biwak oraz plaża	</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.65711254" lon="20.84763881">
+<name>54.00</name>
+<desc>Ujście Rykolany (inaczej Borówki lub Czarnej Wody)</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.66161144" lon="20.86482018">
+<name>52.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.66489137" lon="20.88515701">
+<name>51.20</name>
+<desc>Ujście Pieczykowskiej Wody (Stara Pilica)</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.66569287" lon="20.88795315">
+<name>51.00</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.66524574" lon="20.91696847">
+<name>48.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.66413820" lon="20.94224929">
+<name>46.00</name>
+<desc>Pierzchnia (starorzecze PIlicy)</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.65759322" lon="20.95099321">
+<name>45.50</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.65495603" lon="20.96654277">
+<name>45.00</name>
+<desc></desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>43.00</name>
+<desc>Emaus (dawniej Turno) ośrodek konferencyjno szkoleniowy Diecezji Radomskiej</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>42.00</name>
+<desc>Olszynka - ośrodek Policyjny</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.69010505" lon="21.00283839">
+<name>37.00</name>
+<desc>Zniszczony most ( można przejść)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.69292102" lon="21.02807150">
+<name>35.00</name>
+<desc></desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="51.70841880" lon="21.05699245">
+<name>33.00</name>
+<desc></desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.73012641" lon="21.11607069">
+<name>26.00</name>
+<desc>Adwentura.pl</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.74432151" lon="21.13578489">
+<name>23.00</name>
+<desc>Domki letniskowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.77766819" lon="21.17871270">
+<name>17.00</name>
+<desc>Hotel **** Sielanka, stadnina</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.77456494" lon="21.19686772">
+<name>15.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.79774394" lon="21.23619549">
+<name>11.00</name>
+<desc>Biwak u podnóża skarpy</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.80701803" lon="21.26175593">
+<name>9.00</name>
+<desc></desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.82949273" lon="21.27664906">
+<name>6.00</name>
+<desc>Biwak oraz plaża</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>1.20</name>
+<desc>Kanał Trzebieński</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.86210646" lon="21.28043986">
+<name>0.00</name>
+<desc>Ujście Pilicy do Wisły w 457 kilometrze biegu</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

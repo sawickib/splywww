@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="142" nazwa="Brzeźnicka Węgorza" wersja="1">
+<opis>Bardzo atrakcyjny i urozmaicony lewy dopływ Regi. Rzeka oferuje kilka rodzajów kajakowania, począwszy od pływania rzecznego całkowicie nizinnego, poprzez jeziorne, zwałkowe, po górskie WW. Z pewnością każdy znajdzie tu coś dla siebie. Całość najbardziej atrakcyjnego odcinka dostępna jest podczas większych poziomów wody w dorzeczu Regi. Niestety na Brzeźnickiej Węgorzy nie ma wodowskazów, które można śledzić w internecie. Najbliższy wodowskaz znajduje się na Redze w Resku, w dniu spływu wskazywał on poziom 370. Odcinek z Woliczna do Regi zajął przy tych warunkach dwom K1 około 6,5 h.</opis> 
+    <punkt id="4914" miejscowosc="Woliczno" 
+      ns="53.49185903" we="15.72189886" km="21.2" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niezbyt wygodne ale w zasadzie jedyne słuszne miejsce startu znajdujące się w sąsiedztwie ruchliwej drogi nr 20 pomiędzy Drawskiem Pomorskim a Węgorzynem. Jadąc od strony Drawska należy skręcić w prawo w gruntową drogę prowadzącą w kierunku stawów hodowlanych. Po kilku metrach drogę przegradza szlaban i tu należy zrzucić kajaki poniżej jazu, na kanał opływający staw z lewej strony. Samochody można pozostawić na leśnym parkingu zlokalizowanym po lewej stronie drogi nr 20, kilkaset metrów dalej w stronę Węgorzyna. Początkowy odcinek rzeki jest spokojny z kilkoma łozami i gałęziami nisko nad wodą</opispunktu> 
+    </punkt>
+    <punkt id="4915" miejscowosc="Woliczno" 
+      ns="53.49935769" we="15.71030558" km="19.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po przechwyceniu młynówki odprowadzającej wodę ze stawów rozpoczyna się bystry odcinek górskiej wody w wąskim i głębokim wąwozie. W nurcie znajduje się też kilka drzew, które w połączeniu z rwącym nurtem mogą nastręczyć trudności</opispunktu> 
+    </punkt>
+    <punkt id="4916" miejscowosc="Woliczno" 
+      ns="53.50485816" we="15.70039173" km="18.8" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Duża tama bobrowa, przed którą woda uspokaja się i rozlewa szeroko zalewając las</opispunktu> 
+    </punkt>
+    <punkt id="4917" miejscowosc="Woliczno" 
+      ns="53.50607076" we="15.6986496" km="18.6" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Ruiny po czymś (młyn, most) tworzące prożek kamienny z bystrzem zakręcającym w lewo i wyrzucającym na przewrócone drzewa</opispunktu> 
+    </punkt>
+    <punkt id="4918" miejscowosc="Brzeźnica" 
+      ns="53.52065871" we="15.69377568" km="16.6" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Podwójny przepust rurowy, w zależności od poziomu wody bardzo niski. Płynąć lewym przepustem</opispunktu> 
+    </punkt>
+    <punkt id="4919" miejscowosc="Brzeźnica" 
+      ns="53.52097595" we="15.69127017" km="16.4" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most - przepust pod nasypem kolejowym, sklepiony, długi i ciemny ale bez niespodzianek. Przed przepustem oraz tuż za nim znajdują się niewielkie bystrza</opispunktu> 
+    </punkt>
+    <punkt id="4920" miejscowosc="Brzeźnica" 
+      ns="53.52756387" we="15.69266679" km="15.7" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ostatnie powalone drzewo przed jeziorem Brzeźno należy pokonywać z prawej strony. Po lewej stronie w spróchniałym pniu znajduje się gniazdo os nie tolerujących kajakarzy na swoim terenie</opispunktu> 
+    </punkt>
+    <punkt id="4921" miejscowosc="Brzeźnica" 
+      ns="53.52875927" we="15.69297662" km="15.6" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Jezioro Brzeźno. Wypływ płytki i zamulony ale wyraźny i oczywisty z widocznym nurtem. W kierunku wypływu z jeziora należy płynąć trzymając się prawego brzegu</opispunktu> 
+    </punkt>
+    <punkt id="4922" miejscowosc="Brzeźniak" 
+      ns="53.5324778" we="15.69421518" km="15.1" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Brzeźno, po lewej zatoczka wędkarska i trochę trawy umożliwiającej zrobienie krótkiej przerwy. Wypływ z jeziora jest słabo widoczny z daleka ale nie jest zarośnięty</opispunktu> 
+    </punkt>
+    <punkt id="4923" miejscowosc="Brzeźniak" 
+      ns="53.53627044" we="15.69219232" km="14.5" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="4924" miejscowosc="Brzeźniak" 
+      ns="53.54121253" we="15.68938572" km="13.9" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Żabice, trzymać się lewego brzegu</opispunktu> 
+    </punkt>
+    <punkt id="4925" miejscowosc="Brzeźniak" 
+      ns="53.54488629" we="15.68754426" km="13.4" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Żabice</opispunktu> 
+    </punkt>
+    <punkt id="4926" miejscowosc="Węgorsko" 
+      ns="53.55007064" we="15.67645315" km="12.2" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Wąski i bystry przepust przy młynie, zaraz za nim zwalone drzewo, na które wyrzuca bystrze. Należy rozważyć możliwość przenoski</opispunktu> 
+    </punkt>
+    <punkt id="4927" miejscowosc="Węgorsko" 
+      ns="53.55622293" we="15.65958562" km="10.9" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Przepust rurowy, który można opłynąć z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="4928" miejscowosc="Rogówko" 
+      ns="53.57216817" we="15.6421195" km="8.7" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Duży most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="4929" miejscowosc="Lesięcinek" 
+      ns="53.59304117" we="15.607305" km="4.7" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Wąski podwójny próg z odwojem w środku, wcześniej w lewo nowa przepławka dla ryb</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Zalecana przenoska lewym brzegiem przed przepławką</opispunktu> 
+    </punkt>
+    <punkt id="4930" miejscowosc="Lesięcinek" 
+      ns="53.59654947" we="15.60165103" km="4.1" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze 151 Łobez - Węgorzyno</opispunktu> 
+    </punkt>
+    <punkt id="4931" miejscowosc="Lesięcinek" 
+      ns="53.59676473" we="15.60136152" km="4" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Stary nieczynny most z kamiennym bystrzem i dwoma rzędami pali wzdłuż linii płynięcia. Poniżej rzeka wypływa z lasu i zmierza ku szerokiej dolinie Regi, robi się płasko i pojawiają się trzcinowiska</opispunktu> 
+    </punkt>
+    <punkt id="4932" miejscowosc="Lesięcinek" 
+      ns="53.60357724" we="15.60443112" km="3" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drewniany</opispunktu> 
+    </punkt>
+    <punkt id="4933" miejscowosc="Unimie" 
+      ns="53.61505622" we="15.58952646" km="1.2" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy na lini Łobez - Runowo Pomorskie, zaraz za nim drugi, nieczynny</opispunktu> 
+    </punkt>
+    <punkt id="4934" miejscowosc="Unimie" 
+      ns="53.62435212" we="15.58397322" km="0" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Brzeźnickiej Węgorzy do Regi. Spływ wygodnie jest zakończyć przy moście w miejscowości Unimie, kilka minut w dół Regą</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

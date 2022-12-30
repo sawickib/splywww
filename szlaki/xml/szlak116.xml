@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="116" nazwa="Piława" wersja="1">
+<opis>Rzeka na pograniczu województw zachodniopomorskiego i wielkopolskiego. W górnym biegu przepływa przez kilka malowniczych jezior a następnie kieruje się na południe płynąc głównie przez obszary zalesione. Wzdłuż rzeki prowadzi odcinek umocnień Wału Pomorskeigo.</opis> 
+    <punkt id="4200" miejscowosc="Sikory" 
+      ns="53.6172727" we="16.26435939" km="85.8" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Wygodne miejsce rozpoczęcia spływu</opispunktu> 
+    </punkt>
+    <punkt id="4201" miejscowosc="Rakowo" 
+      ns="53.61724164" we="16.36895623" km="78.6" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Komorze</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pod mostem wąski przepust rurowy</opispunktu> 
+    </punkt>
+    <punkt id="4202" miejscowosc="Rakowo" 
+      ns="53.61668448" we="16.36866908" km="78.5" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Rakowo</opispunktu> 
+    </punkt>
+    <punkt id="4203" miejscowosc="Rakowo" 
+      ns="53.61101141" we="16.37933822" km="77.5" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Rakowo</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwy biwak</opispunktu> 
+    </punkt>
+    <punkt id="4204" miejscowosc="Łubowo" 
+      ns="53.61202634" we="16.39421679" km="76.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie fragmentu rzeki płynącej z jezior Lubicko Małe i Wielkie. Spływ wygodnie jest rozpocząć również w miejscowości Łubowo, skąd do tego miejsca jest około 3 km.</opispunktu> 
+    </punkt>
+    <punkt id="4205" miejscowosc="Strzeszyn" 
+      ns="53.6133184" we="16.395741" km="76.2" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Brody</opispunktu> 
+    </punkt>
+    <punkt id="4206" miejscowosc="Strzeszyn" 
+      ns="53.6143658" we="16.42221369" km="74.4" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Brody</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="4207" miejscowosc="Strzeszyn" 
+      ns="53.61482467" we="16.4231686" km="74.3" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Strzeszyn</opispunktu> 
+    </punkt>
+    <punkt id="4208" miejscowosc="Strzeszyn" 
+      ns="53.61415251" we="16.42923572" km="73.8" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Strzeszyn</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    </punkt>
+    <punkt id="4209" miejscowosc="Strzeszyn" 
+      ns="53.61188579" we="16.43252651" km="73.5" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro będące izolowanym fragmentem jeziora Kocie</opispunktu> 
+    </punkt>
+    <punkt id="4210" miejscowosc="Międzylesie" 
+      ns="53.6107248" we="16.44017644" km="73" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Przesmyk na jezioro Kocie</opispunktu> 
+    </punkt>
+    <punkt id="4211" miejscowosc="Międzylesie" 
+      ns="53.615394" we="16.44697194" km="72.3" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Kocie</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most - kamienny przepust pod drogą</opispunktu> 
+    </punkt>
+    <punkt id="4212" miejscowosc="Międzylesie" 
+      ns="53.6171497" we="16.44763281" km="72.1" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z jeziora Łąkie</opispunktu> 
+    </punkt>
+    <punkt id="4213" miejscowosc="Międzylesie" 
+      ns="53.61706439" we="16.44823815" km="72" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy i most drogowy</opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Pile</opispunktu> 
+    </punkt>
+    <punkt id="4214" miejscowosc="Liszkowo" 
+      ns="53.59870037" we="16.45064408" km="69.8" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Pile</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość biwakowania na lewym brzegu</opispunktu> 
+    </punkt>
+    <punkt id="4215" miejscowosc="Liszkowo" 
+      ns="53.58837997" we="16.45277564" km="68.6" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4216" miejscowosc="Liszkowo" 
+      ns="53.58603478" we="16.45313506" km="68.3" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep w odległości 1 km</opispunktu> 
+    </punkt>
+    <punkt id="4217" miejscowosc="Liszkowo" 
+      ns="53.58140789" we="16.46694728" km="67.1" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Długie (Dołgie)</opispunktu> 
+    </punkt>
+    <punkt id="4218" miejscowosc="Borne-Sulinowo" 
+      ns="53.56008653" we="16.5001181" km="63.7" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Długie (Dołgie)</opispunktu> 
+    </punkt>
+    <punkt id="4219" miejscowosc="Borne-Sulinowo" 
+      ns="53.54236152" we="16.50235268" km="61.2" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący wodę na około 3m</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W pobliżu warto zwiedzić wysadzony bunkier</opispunktu> 
+    </punkt>
+    <punkt id="4220" miejscowosc="Borne-Sulinowo" 
+      ns="53.53969331" we="16.50086222" km="60.9" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Bród przez rzekę</opispunktu> 
+    </punkt>
+    <punkt id="4221" miejscowosc="Starowice" 
+      ns="53.52984667" we="16.49044852" km="59.5" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość biwakowania</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W pobliżu mostu bunkier</opispunktu> 
+    </punkt>
+    <punkt id="4222" miejscowosc="Starowice" 
+      ns="53.52680723" we="16.48511683" km="59" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pozostałości jazu</opispunktu> 
+    </punkt>
+    <punkt id="4223" miejscowosc="Starowice" 
+      ns="53.52314375" we="16.48203542" km="58.5" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Stary drewniany most czołgowy</opispunktu> 
+    </punkt>
+    <punkt id="4224" miejscowosc="Nadarzyce" 
+      ns="53.50481531" we="16.48128988" km="55.9" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="4225" miejscowosc="Nadarzyce" 
+      ns="53.48432856" we="16.49299491" km="52.8" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość biwakowania</opispunktu> 
+    </punkt>
+    <punkt id="4226" miejscowosc="Nadarzyce" 
+      ns="53.47907635" we="16.49125061" km="52.1" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mała elektrownia wodna</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość biwakowania</opispunktu> 
+    </punkt>
+    <punkt id="4227" miejscowosc="Nadarzyce" 
+      ns="53.4708406" we="16.49308079" km="51" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4228" miejscowosc="Nadarzyce" 
+      ns="53.46830418" we="16.49361649" km="50.6" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz przy starym młynie</opispunktu> 
+    </punkt>
+    <punkt id="4229" miejscowosc="Nadarzyce" 
+      ns="53.46601869" we="16.49629675" km="50.2" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4230" miejscowosc="Nadarzyce" 
+      ns="53.45882078" we="16.49986558" km="49.2" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4231" miejscowosc="Zdbice" 
+      ns="53.38669468" we="16.52469781" km="37" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość biwakowania</opispunktu> 
+    </punkt>
+    <punkt id="4232" miejscowosc="Szwecja" 
+      ns="53.35191499" we="16.57012068" km="30.1" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4233" miejscowosc="Szwecja" 
+      ns="53.34557967" we="16.57045206" km="29.1" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4234" miejscowosc="Szwecja" 
+      ns="53.34370258" we="16.57037117" km="28.9" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4235" miejscowosc="Głowaczewo" 
+      ns="53.31824673" we="16.60213452" km="23.8" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz przy pstrągarni</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawą stroną około 20m</opispunktu> 
+    </punkt>
+    <punkt id="4236" miejscowosc="Głowaczewo" 
+      ns="53.31600104" we="16.61123029" km="22.7" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4237" miejscowosc="Czechyń" 
+      ns="53.30252359" we="16.64414752" km="18.5" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="4238" miejscowosc="Zabrodzie" 
+      ns="53.28458136" we="16.68724519" km="13.4" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="4239" miejscowosc="Zabrodzie" 
+      ns="53.2810911" we="16.69683339" km="12.6" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz przy pstrągarni</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawą stroną około 100m</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="4240" miejscowosc="Zabrodzie" 
+      ns="53.26901859" we="16.70951003" km="10.6" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście rzeki Dobrzycy</opispunktu> 
+    </punkt>
+    <punkt id="4241" miejscowosc="Zabrodzie" 
+      ns="53.2691597" we="16.71438509" km="10.1" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="4242" miejscowosc="Zabrodzie" 
+      ns="53.26707068" we="16.7338218" km="7.5" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4243" miejscowosc="Krępsko" 
+      ns="53.25722492" we="16.74839718" km="5.8" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość biwakowania</opispunktu> 
+    </punkt>
+    <punkt id="4244" miejscowosc="Dobrzyca" 
+      ns="53.2283926" we="16.77526113" km="0.8" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="4245" miejscowosc="Dobrzyca" 
+      ns="53.22493658" we="16.78392617" km="0" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Piławy do Gwdy</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

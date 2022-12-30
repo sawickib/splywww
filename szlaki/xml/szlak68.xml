@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="68" nazwa="Oleśnica (dopływ Widawy)" wersja="3">
+<opis>Oleśnica (czasem zwana Oleśniczką lub Oleśniczanką a przed wojną Klingelbach lub Oelsbach) - rzeka o dł. ok. 45 km w dorzeczu Odry, w województwie dolnośląskim. Prawy dopływ Widawy. Przepływa przez powiaty oleśnicki i wrocławski. Źródła znajdują się na Wzgórzach Sycowskich koło Twardogóry. Przepływa przez miasto Oleśnicę. Największy dopływ tej rzeki to Potok Boguszycki.
+Stosunkowo mało "uczęszczana" rzeczka płynąca nieopodal Wrocławia, doskonała na 1-dniowy spływik. Niestety latem niesie mało wody, polecam więc spływy wiosenne.
+Odcinek od Rakowa do ujścia do Widawy płynąłem w kwietniu 2009, natomiast górny odcinek z Małego Brzezia do Rakowa w marcu 2011, po 3 dniach intensywnych opadów deszczu. Górny odcinek zajął mi około 5 godzin.
+</opis> 
+  <odcinek id="265" typ="kanał" nazwa="Ujście do Widawy" 
+      uciazliwosc="U3" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="KL2" 
+      kolejnosc="12"> 
+  <opis>Ostatni kilkusetmetrowy odcinek tuż przed ujściem do Widawy jest nieprawdopodobnie zarośnięty trzciną. Całkowity brak możliwości wiosłowania. Trudność sprawia również przeciąganie się przez trzciny i odpychanie wiosłem od dna.
+Gdy jednak uda nam się na chwilę wydostać z trzcinowiska zobaczymy niezliczone ilości ptactwa wodnego, które ma w tym miejscu swój obszar lęgowy. Miejsce to jest znane wśród ornitologów, którzy często "czają się" tu z lornetkami i aparatami fotograficznymi.</opis>
+    <punkt id="3509" miejscowosc="Brzezia Łąka (Zamłynie)" 
+      ns="0" we="17.24988861" km="" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg przy młynie</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2486" miejscowosc="Krzyków" 
+      ns="51.108729" we="17.235636" km="0" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Oleśnicy do Widawy.
+Niestety są to tereny mocno podmokłe i brakuje w okolicy miejsca dogodnego do zakończenia spływu. Do najwygodniejszego miejsca - mostu, jest około 5 km w dół Widawą.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="264" typ="kanał" nazwa="Kanał" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="KL2" 
+      kolejnosc="11"> 
+  <opis>Skanalizowany odcinek szlaku</opis>
+    <punkt id="2485" miejscowosc="Brzezia Łąka" 
+      ns="51.109299" we="17.241196" km="0.41" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="przenoska" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Nisko nad wodą zawieszony mostek na drodze gruntowej z Brzeziej Łąki do Nadolic</opispunktu> 
+    </punkt>
+    <punkt id="2484" miejscowosc="Brzezia Łąka" 
+      ns="51.109503" we="17.254498" km="1.45" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="przenoska" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Nisko nad wodą zawieszony mostek na drodze gruntowej</opispunktu> 
+    </punkt>
+    <punkt id="2483" miejscowosc="Brzezia Łąka" 
+      ns="51.110244" we="17.257839" km="1.7" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="przenoska" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Nisko nad wodą zawieszony mostek na drodze gruntowej</opispunktu> 
+    </punkt>
+    <punkt id="2482" miejscowosc="Brzezia Łąka" 
+      ns="51.11099" we="17.263571" km="2.11" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="przenoska" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Nisko nad wodą zawieszony mostek na drodze gruntowej</opispunktu> 
+    </punkt>
+    <punkt id="2481" miejscowosc="Brzezia Łąka" 
+      ns="51.118075" we="17.273617" km="3.27" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mały jaz (do obowiązkowego spłynięcia)</opispunktu> 
+    </punkt>
+    <punkt id="2480" miejscowosc="Brzezia Łąka" 
+      ns="51.118524" we="17.273352" km="3.32" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Rozwidlenie szlaku. Prosto płynie zasadnicza Oleśnica, jest jednak płytka i zarośnięta. W lewo odbija sztuczny kanał, do którego skierowanych jest większość wód rzeki.
+Wg informacji jakie dostarczył Sorpet (broks@poczta.onet.pl) w dniu 22.06.2011 r., płytki i zarośnięty odcinek prosto został udrożniony: "Rzeka nie płynie już kanałem,
+ale poszerzonym i skanalizowanym dawnym własnym korytem. Jest oczyszczona i wykoszona i bez najmniejszych problemów dopływa się do Widawy. Na tym odcinku jest tylko jedna przenoska przy młynie w miejscowości Zamłynie (Brzezia Łąka)".
+</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="263" typ="rzeka" nazwa="Kątna - Brzezia Łąka" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="10"> 
+  <opis>Najładniejszy odcinek szlaku. Rzeka sprawia wrażenie dzikiej, meandruje i podmywa brzegi, tworzy przegłębienia. Niestety miejscowa ludność pozbywa się tu swoich śmieci.</opis>
+    <punkt id="2479" miejscowosc="Brzezia Łąka" 
+      ns="51.118712" we="17.273912" km="3.37" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="most" kolejnosc="-1">Most nad rzeką</opispunktu> 
+    </punkt>
+    <punkt id="2478" miejscowosc="Kątna" 
+      ns="51.130522" we="17.276993" km="4.99" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze pomiędzy Katną a Brzezią Łąką. Wygodne miejsce do rozpoczynania lub kończenia spływu.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="262" typ="rzeka" nazwa="Bielawa - Kątna" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="KL2" 
+      kolejnosc="9"> 
+  <opis>Odcinek wzdłuż łąk i pól uprawnych</opis>
+    <punkt id="2477" miejscowosc="Kątna" 
+      ns="51.133869" we="17.278449" km="5.46" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem - 20m</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2476" miejscowosc="Oleśniczka" 
+      ns="51.149789" we="17.271896" km="7.32" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze pomiędzy Oleśniczką a Piecowicami</opispunktu> 
+    </punkt>
+    <punkt id="2475" miejscowosc="Bielawa" 
+      ns="51.165057" we="17.260888" km="9.31" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Bielawą a Rakowem. Wygodne miejsce rozpoczynania spływu</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="261" typ="rzeka" nazwa="Nieciszów - Bielawa" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="8"> 
+  <opis>Odcinek leśny. Kilka drzew leżących w poprzek nurtu. Dwa spiętrzenia wody.</opis>
+    <punkt id="2474" miejscowosc="Raków" 
+      ns="51.177591" we="17.277126" km="11.21" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Rakowem a Borową. Wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="3245" miejscowosc="Raków" 
+      ns="51.17666779" we="17.28042511" km="11.5" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska 10m lewym brzegiem przez krzaki.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 1 m. Rozgałęzienie rzeki, odpływ w lewo kanału zasilającego stawy w Rakowie. Płynąć w prawo.</opispunktu> 
+    </punkt>
+    <punkt id="3244" miejscowosc="Nieciszów" 
+      ns="51.18278891" we="17.30137944" km="13.5" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska prawym brzegiem 10 m.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 1,2m - płynąć środkiem</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="392" typ="rzeka" nazwa="Oleśnica - Nieciszów" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="KL1" 
+      kolejnosc="7"> 
+  <opis>Odcinek przez pola i łąki. Kilka niskich mostków i spiętrzeń wody.</opis>
+    <punkt id="3243" miejscowosc="Nieciszów" 
+      ns="51.18753433" we="17.30379892" km="14.2" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">3 mosty obok siebie, w tym 1 kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3242" miejscowosc="Borowa" 
+      ns="51.19440225" we="17.30602331" km="15" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska lewym brzegiem 20m przez gęste trzciny</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Rozgałęzienie rzeki betonową konstrukcją. W prawo kanał zasilający stawy w Borowej.
+Jaz 0,3m. Płynąć w lewo trzymając się prawej strony (po lewej stronie w przepuście betonowa płyta). Nad jazem na wysokości 1m betonowo stalowa kładka.</opispunktu> 
+    </punkt>
+    <punkt id="3241" miejscowosc="Smardzów" 
+      ns="51.19832436" we="17.31521695" km="15.8" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Ceglany, sklepiony most</opispunktu> 
+    </punkt>
+    <punkt id="3240" miejscowosc="Smardzów" 
+      ns="51.19930478" we="17.32365244" km="16.4" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek a za nim 3 niskie kładki</opispunktu> 
+    </punkt>
+    <punkt id="3239" miejscowosc="Smardzów" 
+      ns="51.19963318" we="17.33122272" km="17" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Ceglany, sklepiony mostek</opispunktu> 
+    </punkt>
+    <punkt id="3238" miejscowosc="Smardzów" 
+      ns="51.20409743" we="17.33691554" km="17.6" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska prawym brzegiem przez trzciny 10m</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Rozgałęzienie rzeki. Prosto do Smardzowa. W lewo jaz 2m z małym odwojem</opispunktu> 
+    </punkt>
+    <punkt id="3237" miejscowosc="Oleśnica" 
+      ns="51.208016" we="17.35735718" km="19.1" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski mostek</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="391" typ="rzeka" nazwa="Oleśnica" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="KL1" 
+      kolejnosc="6"> 
+  <opis>Odcinek rzeki częściowo uregulowany i wybagrowany. Prowadzi przez miasto Oleśnicę. Parki i tereny spacerowe. Na jednym z podwórek widoczne od strony wody, zdemontowane swego czasu we Wrocławiu charakterystyczne zegary uliczne ;-)</opis>
+    <punkt id="3236" miejscowosc="Oleśnica" 
+      ns="51.20819462" we="17.35808954" km="19.2" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3235" miejscowosc="Oleśnica" 
+      ns="51.208306" we="17.35913256" km="19.3" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski mostek</opispunktu> 
+    </punkt>
+    <punkt id="3234" miejscowosc="Oleśnica" 
+      ns="51.20863273" we="17.36611527" km="19.8" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3233" miejscowosc="Olesnica" 
+      ns="51.21268586" we="17.37266997" km="20.6" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3232" miejscowosc="Oleśnica" 
+      ns="51.21477347" we="17.37564618" km="20.9" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3231" miejscowosc="Oleśnica" 
+      ns="51.21877876" we="17.3855639" km="21.7" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska lewym brzegiem 20m</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 1m w parku przy stawach. Płynąć prawą stroną</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="390" typ="rzeka" nazwa="Spalice" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="5"> 
+  <opis>Odcinek rzeki prowadzący przez uzytek ekologiczny "Ols Spalicki". Miejsce lęgowe ptactwa, widoczna działalność bobrów. Odcinek miejscami gęsto zarośnięty trzcinami.</opis>
+    <punkt id="3230" miejscowosc="Spalice" 
+      ns="51.21978844" we="17.40573803" km="23.2" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3229" miejscowosc="Spalice" 
+      ns="51.22661425" we="17.41684713" km="24.3" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Użytek ekologiczny "Ols Spalicki"</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="389" typ="rzeka" nazwa="Sokołowice - Spalice" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="4"> 
+  <opis>Odcinek rzeki prowadzący przez las.</opis>
+    <punkt id="3228" miejscowosc="Spalice" 
+      ns="51.22968089" we="17.42598028" km="25.1" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewym brzegiem 50m</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na drodze gruntowej</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Dwustopniowy jaz 4m. Nad jazem metalowa krata, po pierwszym stopniu płytko - betonowa pochylnia. 50m dalej drugi jazik 0,3m pod mostem</opispunktu> 
+    </punkt>
+    <punkt id="3227" miejscowosc="Spalice" 
+      ns="51.23050359" we="17.42652309" km="25.2" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most obwodnicy miasta Oleśnicy</opispunktu> 
+    </punkt>
+    <punkt id="3226" miejscowosc="Sokołowice" 
+      ns="51.23150894" we="17.42793484" km="25.4" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Betonowy słup jako kładka na wysokości lustra wody</opispunktu> 
+    </punkt>
+    <punkt id="3225" miejscowosc="Sokołowice" 
+      ns="51.23416324" we="17.43587299" km="26" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem, niewygodna - plac budowy</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zaraz za jazem metalowa niska kładka</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka, za nią przewrócony dąb, a za nim ogrodzony siatką betonowy mostek, równo z powierzchnią wody</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 0,5m, wartki nurt przed jazem</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="388" typ="rzeka" nazwa="Sokołowice" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="KL1" 
+      kolejnosc="3"> 
+  <opis>Oleśnica płynie w sąsiedztwie sporej wsi Sokołowice. Liczne kładki i mostki.</opis>
+    <punkt id="3224" miejscowosc="Sokołowice" 
+      ns="51.23699145" we="17.44055653" km="26.5" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek przy stawach</opispunktu> 
+    </punkt>
+    <punkt id="3223" miejscowosc="Sokołowice" 
+      ns="51.24210997" we="17.44666991" km="27.2" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3222" miejscowosc="Sokołowice" 
+      ns="51.24649582" we="17.44982091" km="27.8" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska przed drogę, prawą stroną 40m</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce wodowania</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 3m przy nieczynnym młynie, z przepustem rurowym po prawej. Poniżej kamienie i płytko</opispunktu> 
+    </punkt>
+    <punkt id="3221" miejscowosc="Sokołowice" 
+      ns="51.25050859" we="17.45759234" km="28.5" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    </punkt>
+    <punkt id="3220" miejscowosc="Sokołowice" 
+      ns="51.25241768" we="17.45893645" km="28.7" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek i kładki nad samą wodą</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="387" typ="rzeka" nazwa="Kolonia Brzezie - Sokołowice" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis>Odcinek leśny, ładny, z zatopionym lasem.</opis>
+    <punkt id="3219" miejscowosc="Sokołowice" 
+      ns="51.25543426" we="17.46179254" km="29.1" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">W lewo przez jaz odpływa kanał zasilający stawy</opispunktu> 
+    </punkt>
+    <punkt id="3218" miejscowosc="Kolonia Brzezie" 
+      ns="51.2633936" we="17.46579166" km="30" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z prawej strony, na skraju lasu</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="386" typ="rzeka" nazwa="Kolonia Brzezie" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="-" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Odcinek przez wieś, w sąsiedztwie stawów hodowlanych. Uregulowany i spiętrzony jazami.</opis>
+    <punkt id="3217" miejscowosc="Kolonia Brzezie" 
+      ns="51.26547782" we="17.47070697" km="30.5" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski mostek do pobliskiego gospodarstwa</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewym brzegiem</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 1,5m, nisko nad nim kładka. 2 bliźniacze przepusty</opispunktu> 
+    </punkt>
+    <punkt id="3216" miejscowosc="Kolonia Brzezie" 
+      ns="51.26691685" we="17.47300354" km="30.7" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 0,6m. Pod nim nieco płytko</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewym brzegiem przez drogę</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Niski most drogowy. Wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="385" typ="rzeka" nazwa="Małe Brzezie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Odcinek leśny ze śladami działalności bobrów, miejscami gęsto zarośnięty trzcinami.</opis>
+    <punkt id="3215" miejscowosc="Małe Brzezie" 
+      ns="51.27126629" we="17.47824727" km="31.3" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze gruntowej obok starego młyna. Wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

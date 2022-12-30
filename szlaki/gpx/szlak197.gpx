@@ -1,0 +1,146 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.99405623" lon="17.18007082">
+<name>13.30</name>
+<desc>Mostek na polnej, błotnistej drodze do Grodziszowa i Sulęcina. Wygodne miejsce rozpoczynania eksploracji Zielonej, chociaż okolica nie zachęca, a w pobliżu jest mało miejsca na pozostawienie samochodu. Poniżej fragment wąskiej, zarośniętej gęsto trzcinami rzeczki (rowu), z krótkimi odcinkami umożliwiającymi swobodne wiosłowanie. Leży tu też kilka małych drzewek, przez które trzeba przeskoczyć. Wg większości dzisiejszych map (np. Hydroportal), miejsce to znajduje się na właściwej rzece Zielona, mimo że po 600m dopływa się do znacznie szerszej rzeki (kanału), a ta nazwana jest Dopływem spod Stanowic. Na innych mapach (np. Geoportal), Zielona to właśnie Dopływ spod Stanowic, a na jeszcze innych, Zielona wraz z Dopływem spod Stanowic widnieje pod nazwą Szalona... Tak więc "bez pał litra nie razbieriosz"...
+Podobny chaos panuje na mapach przedwojennych. Na mapie z 1940, początkowy odcinek rzeki do połączenia, nazywa się Kune Gr., natomiast szeroki kanał od Jankowic (dzisiejszy Dopływ spod Stanowic), to Grunbach, czyli Zielona. Na mapie z 1932 jest podobnie, tylko że Grunbach to Schellune. Na starszych mapach, całość rzeki to Schalune (1921) oraz Schellune Bach (1850)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.99807199" lon="17.17397049">
+<name>12.75</name>
+<desc>Przepust rurowy na polnej drodze, łączącej pola uprawne. Za przepustem krótki fragment bardziej bystrej wody</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.99817745" lon="17.17394296">
+<name>12.70</name>
+<desc>Połączenie Zielonej z ciekiem, oficjalnie nazywanym Dopływem spod Stanowic. W rzeczywistości, mała i wąska Zielona uchodzi prostopadle do znacznie większej i szerszej rzeki. Dalej, do samego Wrocławia jest szeroko, wody nie brakuje (przy zastanych warunkach), a cała rzeka jest wybagrowana. Do tego miejsca można dopłynąć spod samych Jankowic, jednak początek jest zarośnięty trzcinami i w 2020 nie był bagrowany. Regularne czyszczenie i regulacja rzeki zaczyna się od okolic pobliskiego mostu kolejowego, w dół rzeki</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.99830872" lon="17.17343998">
+<name>12.60</name>
+<desc>Mostek betonowy na polnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.00071214" lon="17.17104326">
+<name>12.30</name>
+<desc>Ujście Marszowickiego Potoku z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.00186216" lon="17.16831181">
+<name>12.10</name>
+<desc>Znaczący, bezimienny dopływ z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.00561748" lon="17.16045735">
+<name>11.40</name>
+<desc>Most drogowy do Groblic, aktualnie remontowany. Pod mostem tymczasowa, bardzo niska kładka wykonana na potrzeby remontu. Za mostem wartko, a strome skarpy sprawiają, że nie jest to wygodne miejsce rozpoczynania spływu</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.00720907" lon="17.15701173">
+<name>11.00</name>
+<desc>Kładka dla pieszych. Poniżej odcinek wdłuż ruchliwej linii kolejowej i krótki malowniczy fragment w szpalerze starych, wysokich drzew, rosnących po obydwu stronach rzeki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.01422688" lon="17.14920578">
+<name>10.00</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.01629887" lon="17.14947808">
+<name>9.80</name>
+<desc>Betonowy most na lokalnej drodze. Poniżej, płynie się wzdłuż popularnych szklarni siechnickich</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.02386663" lon="17.14669435">
+<name>8.90</name>
+<desc>Most drogowy przy ul. Prawocińskiej. Strome skarpy utrudniają wodowanie i lądowanie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.02649993" lon="17.14355137">
+<name>8.50</name>
+<desc>Most drogowy przy ul. Czeremchowej. Tu również skarpy są strome, utrudniające wygodny dostęp do wody</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.03083441" lon="17.13650610">
+<name>7.80</name>
+<desc>Ujście potoku Kuna z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.03207717" lon="17.13586172">
+<name>7.70</name>
+<desc>Most przy ul. Św. Krzyża</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.03641632" lon="17.13338369">
+<name>7.10</name>
+<desc>Główny most drogowy z filarem. Za mostem rura przeprowadzona nad rzeką</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.03786665" lon="17.13180356">
+<name>6.90</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.03815059" lon="17.12988307">
+<name>6.70</name>
+<desc>Mostek betonowy na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.03846710" lon="17.12907150">
+<name>6.60</name>
+<desc>Łukowy most w wysokiej skarpie Wschodniej Obwodnicy Wrocławia, z obszernym rurowym przepustem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.04499595" lon="17.11922769">
+<name>5.60</name>
+<desc>Most przy ul. Dębowej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.04801484" lon="17.11650590">
+<name>5.20</name>
+<desc>Most betonowy na ruchliwej drodze nr 94. Za mostem rzeka na chwilę robi się węższa i bardziej bystra</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.04988228" lon="17.11669035">
+<name>5.00</name>
+<desc>Most wzdłuż ul. Starowiejskiej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.05576928" lon="17.11052696">
+<name>4.20</name>
+<desc>Most drogowy wzdłuż ul. Starowiejskiej, pod nim 3 przęsłowa otwarta zastawka. Rzeka wpływa na południowe obrzeże terenów wodonośnych Wrocławia</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.07500776" lon="17.09721890">
+<name>1.40</name>
+<desc>Wysoka kładka dla pieszych, tzw. Most Kilometrowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.07639981" lon="17.09775189">
+<name>1.20</name>
+<desc>Most drogowy wzdłuż ul. Starodworskiej, poprzedzony betonowym, niskim, nieużytkowanym, starym mostkiem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.07805251" lon="17.09660027">
+<name>1.00</name>
+<desc>Otwarta zastawka z wodowskazem na górnej wodzie. Poziom 17.00 gwarantuje dobre warunki wodne i możliwość swobodnego spływu K1. Za mostem płytka pochylnia, która wyhamowuje kajak nawet przy wyższej wodzie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.07998852" lon="17.09372256">
+<name>0.70</name>
+<desc>Most Świątnicki. Poniżej, do ujścia odcinek bardziej dziki, porośnięty lasem, z kilkoma drzewami leżącymi w korycie. Tuż przed mostem z lewej strony uchodzi Krzywy Potok, na niektórych mapach oznakowany, jako Katarzynka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.08486208" lon="17.09110985">
+<name>0.00</name>
+<desc>Połączenie wód Zielonej i Górnej Oławy, na zatrzcinionych rozlewiskach. Wpływamy na tereny rekreacyjne Parku Wschodniego</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="132" nazwa="Tanew" wersja="1">
+<opis>Wypływa na południowym Roztoczu, z bagien między wsiami Huta Stara i Złomy Ruskie, w okolicy wsi Wola Wielka, a jedno ze źródeł znajduje się we wsi Łukawica w powiecie lubaczowskim województwa podkarpackiego. Dla ochrony obszaru źródliskowego utworzono Rezerwat przyrody Źródła Tanwi. Płynie na północny wschód i przepływa przez Narol. Następnie opuszcza Roztocze,  przecina południową część leśnego kompleksu Puszczy Solskiej i meandruje południowym jej skrajem w kierunku zachodnim. Następnie płynie przez południowy skraj Lasów Janowskich i wpada do Sanu w miasteczku Ulanów. Ujście znajduje się na wysokości 154 m n.p.m. Dolina Tanwi oddziela Równinę Biłgorajską (na północy) od Płaskowyżu Tarnogrodzkiego (na południu). Nazwa rzeki o nietypowym dla języków słowiańskich rdzeniu tan- prawdopodobnie pochodzi jeszcze z czasów, gdy na tych terenach mieszkali Goci (wg Wikipedii).
+W sezonie letnim Tanew dla kajaków dostępna jest od Narola. Na wysokości miejscowości Rebizanty w korycie rzeki znajdują się liczne skalne progi, zwane szumami. Z punktu widzenia kajakarza jest to najbardziej atrakcyjny odcinek rzeki, niezwykle malowniczy i stosunkowo trudny, o trudnościach dochodzących do ZWC - WW I. Aktualnie, miejsce to objęte jest ochroną rezerwatową "Nad Tanwią", a kilka lat temu wprowadzony został całkowity zakaz organizacji spływów na tym odcinku. Poniżej rezerwatu w korycie znajduje sporo powalonych drzew, aż do mostu w Borowych Młynach. Niżej rzeka jest już poprzecinana i ?przystosowana? do spływów komercyjnych.</opis> 
+    <punkt id="4711" miejscowosc="Huta Szumy" 
+      ns="50.39253526" we="23.20656415" km="104" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. W pobliżu duży parking, wiaty, ławki, WC, wygodne miejsce zakończenia/rozpoczynania spływów</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W pewnej odległości poniżej mostu rozpoczyna się rezerwat ?Nad Tanwią?, przez który aktualnie nie można przepływać kajakiem </opispunktu> 
+    </punkt>
+    <punkt id="4712" miejscowosc="Borowe Młyny" 
+      ns="50.36696689" we="23.0789321" km="89.8" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze. W pobliżu ławeczki i WC</opispunktu> 
+    </punkt>
+    <punkt id="4713" miejscowosc="Borowiec" 
+      ns="50.36035598" we="23.04552722" km="86.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarty jaz ? dwu przęsłowa zastawka ze sporym odwojem (w zależności od ilości wody), przepływanie po wcześniejszej ocenie trudności </opispunktu> 
+    </punkt>
+    <punkt id="4714" miejscowosc="Borowiec" 
+      ns="50.34782375" we="23.03021088" km="84.3" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Drugi jaz ze sporym odwojem (w zależności od ilości wody), spływać lewym przęsłem po wcześniejszej ocenie trudności </opispunktu> 
+    </punkt>
+    <punkt id="4715" miejscowosc="Borowiec" 
+      ns="50.3495955" we="23.014435" km="83" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, pod nim niewielkie bystrze. Wygodny dostęp do wody z dobrym dojazdem, najlepiej przed mostem po lewej stronie</opispunktu> 
+    </punkt>
+    <punkt id="4716" miejscowosc="Osuchy" 
+      ns="50.39871752" we="22.95673097" km="73.2" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście rzeki Sopot</opispunktu> 
+    </punkt>
+    <punkt id="4717" miejscowosc="Pukały" 
+      ns="50.41541606" we="22.92485671" km="69.3" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście rzeki Szum</opispunktu> 
+    </punkt>
+    <punkt id="4718" miejscowosc="Łazory" 
+      ns="50.46567717" we="22.55344489" km="26.7" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście rzeki Łady</opispunktu> 
+    </punkt>
+    <punkt id="4719" miejscowosc="Ulanów" 
+      ns="50.49283388" we="22.25649557" km="0" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Tanwi do Sanu</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

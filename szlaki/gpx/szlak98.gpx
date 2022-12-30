@@ -1,0 +1,350 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.27172373" lon="17.65219726">
+<name>98.00</name>
+<desc>Zapora zbiornika Stradomia Wierzchnia</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.27056733" lon="17.65104711">
+<name>97.90</name>
+<desc>Mostek na lokalnej drodze. Kilka metrów powyżej wygodne miejsce wodowania kajaków.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.27017005" lon="17.65112561">
+<name>97.80</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.26600801" lon="17.65057522">
+<name>97.30</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.26258954" lon="17.65045172">
+<name>96.95</name>
+<desc>Z prawej wpada spory dopływ, znacznie poprawiający warunki wodne Widawy.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.26220594" lon="17.65052376">
+<name>96.90</name>
+<desc>Niski betonowy mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.25549173" lon="17.65580468">
+<name>96.00</name>
+<desc>Rozmyty jaz</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.25505650" lon="17.65622455">
+<name>95.90</name>
+<desc>Most betonowy na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.25154956" lon="17.66214388">
+<name>95.40</name>
+<desc>Spory dopływ z prawej. Poniżej liczne niskie kładki.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.25024700" lon="17.66791095">
+<name>94.90</name>
+<desc>Most n lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24747290" lon="17.68249206">
+<name>93.90</name>
+<desc>Most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24579511" lon="17.69619354">
+<name>92.80</name>
+<desc>Niska kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24369618" lon="17.69889806">
+<name>92.50</name>
+<desc>Niski most betonowy na gruntowej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24168506" lon="17.70173747">
+<name>92.30</name>
+<desc>Niska kładka przy brzozowym gaju</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.23600844" lon="17.70443016">
+<name>91.45</name>
+<desc>Niska kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.23567366" lon="17.70465228">
+<name>91.40</name>
+<desc>Jaz w prawo o wysokości około 0,8m. Próg piętrzony blachą o ostrych krawędziach. Ewentualna przenoska 20 m lewym brzegiem po trawie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.23448313" lon="17.70502506">
+<name>91.30</name>
+<desc>Betonowy mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.23366537" lon="17.70563390">
+<name>91.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.22821053" lon="17.70866630">
+<name>90.50</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.22582554" lon="17.70964604">
+<name>90.20</name>
+<desc>Mostek na polnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.21713379" lon="17.71253367">
+<name>89.20</name>
+<desc>Most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.20227104" lon="17.71421325">
+<name>87.40</name>
+<desc>Rozmyty jaz w prawo</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.19902512" lon="17.71127314">
+<name>87.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.19846993" lon="17.70997305">
+<name>86.90</name>
+<desc>Rozmyty jaz w prawo, nieco chlapiący</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.17979844" lon="17.70276478">
+<name>84.50</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.17468061" lon="17.69968560">
+<name>83.80</name>
+<desc>Ujście z lewej Czarnej Widawy połączonej z młynówkami. Początek sporych rozlewisk.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.15212803" lon="17.70170587">
+<name>81.30</name>
+<desc>Most i nasyp nieczynnej lini kolejowej znacznie piętrzący wodę</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.15127131" lon="17.70215941">
+<name>81.20</name>
+<desc>Most na ruchliwej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.13072110" lon="17.73678506">
+<name>77.70</name>
+<desc>Bardzo niski most i nasyp gruntowej drogi, mocno piętrzący wodę. Przenoska przez drogę - 10m</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.12102237" lon="17.75370653">
+<name>76.00</name>
+<desc>Most drogowy przed zalewem Michalice. Wygodne miejce dostępu do wody.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.10587540" lon="17.40678957">
+<name>44.50</name>
+<desc>Most drogowy, wygodne miejsce wodowania. W pobliżu mostu wodowskaz. Popularny punkt rozpoczynania etapu odcinkiem leśnym do Chrząstawy. Początkowo pośród trzcin, po wpłynięciu w obszar zadrzewiony pojawiają się zwałki, a pokonanie niektórych wymaga współpracy zespołowej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.10676626" lon="17.37930512">
+<name>42.20</name>
+<desc>Most drogowy na trasie Oleśnica - Jelcz-Laskowice</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.11619485" lon="17.33235299">
+<name>38.00</name>
+<desc>Most w Leśnym Młynie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.11720530" lon="17.32919962">
+<name>37.80</name>
+<desc>Ujście rzeki Smolnej</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.11544367" lon="17.31808765">
+<name>36.80</name>
+<desc>Z prawej ujście rzeki Świerznej, zasłonięte przez zwalone drzewo.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.10193032" lon="17.27836567">
+<name>33.30</name>
+<desc>Most na drodze gruntowej, koniec odcinka leśnego. Popularne miejsce kończenia i rozpoczynania etapu z dobrym dojazdem od strony Chrząstawy i znacznie gorszym od strony Brzeziej Łąki. W pobliżu miejsce na kilka samochodów</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.10058639" lon="17.25810337">
+<name>31.80</name>
+<desc>Zastawka cztero przęsłowa. W zależności od ilości wody może być całkowicie opuszczona bez konieczności skakania lub obnoszenia</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.10041359" lon="17.25693045">
+<name>31.70</name>
+<desc>Z lewej ujście rzeki Granicznej</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.10314056" lon="17.24194603">
+<name>30.50</name>
+<desc>Most na drodze gruntowej. Po lewej stronie staw oraz ruiny starego młyna</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.10872900" lon="17.23563600">
+<name>29.70</name>
+<desc>Po prawej stronie ujście kanału ulgi rzeki Oleśnicy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.11488561" lon="17.20840842">
+<name>27.30</name>
+<desc>Po prawej stronie ujście rzeki Oleśnicy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.12028219" lon="17.19559427">
+<name>26.00</name>
+<desc>Cztero przęsłowa zastawka o wysokości progu około 0,5m. Zaraz za nią kamienie, za prawym przepustem</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.12523481" lon="17.17516233">
+<name>24.40</name>
+<desc>Most drogowy przy tzw. Sielskiej Zagrodzie. Miejsce tłumnie odwiedzane przez Wrocławian, szczególnie przy ładnej pogodzie. Znajduje się tu restauracja i wokół sporo terenów rekreacyjnych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.12556357" lon="17.15896914">
+<name>23.20</name>
+<desc>Drewniany, rozpadający się mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.12445183" lon="17.15069216">
+<name>22.40</name>
+<desc>Most drogowy, wygodne miejsce wodowania kajaków. W pobliżu sporo miejsca na samochody. Poniżej mostu betonowe przyczółki po zastawce</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>20.60</name>
+<desc>Przerzucona nad rzeką wisząca kładka pomiędzy drzewami</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.14018154" lon="17.09995629">
+<name>17.70</name>
+<desc>Betonowe przyczółki po zastawce, kamienie w nurcie</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.14318145" lon="17.09881829">
+<name>17.40</name>
+<desc>Most drogowy na ul. Krzywoustego, ruchliwej trasie wylotowej z Wrocławia</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.14554253" lon="17.09675651">
+<name>17.00</name>
+<desc>Most kolejowy, pod nim kamienne bystrze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.14927796" lon="17.09380187">
+<name>16.60</name>
+<desc>Po prawej stronie ujście rzeki Dobrej, bardzo często gęsto zarośnięte</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.15270942" lon="17.08812929">
+<name>16.00</name>
+<desc>Kamienny prożek 0,8m. Niegdyś nad prożkiem była kładka dla pieszych, obecnie rozebrana</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.16270838" lon="17.07862379">
+<name>14.60</name>
+<desc>Most na lokalnej asfaltowej drodze. Dobre miejsce wodowania i lądowania. Przy moście duży plac na samochody</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.16396068" lon="17.07756577">
+<name>14.50</name>
+<desc>Prożek kamienny - 0,3m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.16549718" lon="17.06871510">
+<name>13.80</name>
+<desc>Przyczółki tymczasowego mostu na poligonie wojskowym</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.16497875" lon="17.06537933">
+<name>13.50</name>
+<desc>Przyczółki drugiego tymczasowego mostu na poligonie wojskowym</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.16727179" lon="17.05851692">
+<name>13.00</name>
+<desc>Most drogi ekspresowej S8</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.16945876" lon="17.05351842">
+<name>12.50</name>
+<desc>Prożek - 0,4m z kamieniami przy burtach - płynąć środkiem</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.17096157" lon="17.04755386">
+<name>12.10</name>
+<desc>Most drogowy, za mostem wodowskaz</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.17361626" lon="17.03821997">
+<name>11.30</name>
+<desc>Most drogi ekspresowej S5</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.17532670" lon="17.03246577">
+<name>10.80</name>
+<desc>Prożek kamienny - 0,3m. Niegdyś kierował wodę w prawo, na nieczynny dzisiaj Kanał Psarski</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.17910290" lon="17.02394472">
+<name>10.00</name>
+<desc>Most drogowy na drodze nr 5</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.18001869" lon="17.01777409">
+<name>9.50</name>
+<desc>Most na lokalnej drodze. Przy niskim stanie wody tworzy się tutaj małe bystrze. Za mostem po lewej widoczne resztki pałacu Glitterów. Poniżej zaczyna się cofka zastawki w Szymanowie z niemal stojącą wodą. Na przewróconych drzewach tworzą się zatory z wszelakiego dobra niesionego przez rzekę</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.19223833" lon="17.01286813">
+<name>7.90</name>
+<desc>Most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.19793063" lon="16.99881694">
+<name>6.70</name>
+<desc>Zastawka - 3 przęsła. Próg piętrzy wodę na wysokość około 2,5 m. Krótka przenoska prawą stroną po trawie. Mało wygodne wyjście na stromy brzeg, wodowanie z kamiennego uregulowanego brzegu. Na górnej wodzie znajduje się wodowskaz wskazujący w dniu spływu poziom 232, co gwarantuje dobre warunki na reprezentowanym odcinku. Poniżej kilka ładnych podmytych skarp w zakolach rzeki</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.20558163" lon="16.96479871">
+<name>4.00</name>
+<desc>Most na ruchliwej drodze z Wrocławia do Obornik Śląskich</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.20525642" lon="16.96353926">
+<name>3.90</name>
+<desc>Most kolejowy. Ostatnie wygodne miejsce odbioru kajaków z dojazdem do wody, przed wypłynięciem na Odrę. Pod mostem niewielkie bystrze, a na filarze wodowskaz. Poniżej malowniczy odcinek leśny z kilkoma łatwymi zwałkami</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.19674910" lon="16.92308916">
+<name>0.50</name>
+<desc>Drewniane pale po starym moście</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.19903177" lon="16.91881864">
+<name>0.00</name>
+<desc>Ujście Widawy do Odry. W miarę wygodnym miejscem zakończenia spływu jest betonowa platforma za oczyszczalnią ścieków w Janówku, kilkaset metrów w dół Odrą, po lewej stronie. Można tu dojechać samochodem do samej wody. Innym miejscem jest ul. Rędzińska, w pobliżu ujścia Ślęzy do Odry (5 km w górę Odrą). Jest to miejsce po dawnym promie, zarówno po lewej jak i prawej stronie do samej rzeki dochodzi wygodna asfaltowa droga</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

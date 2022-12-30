@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="187" nazwa="Studnica" wersja="1">
+<opis>Bardzo atrakcyjny lewy dopływ górnej Wieprzy. Na obszar źródliskowy składa się kilka strumieni zasilających małe jeziorka na SSE od Miastka. Spławna dla kajaków jest od jeziora Studzieniczno, jednak zazwyczaj dostępna dopiero od Miastka, skąd startuje najwięcej spływów. Nie zawsze ma wystarczającą ilość wody, dlatego też nie jest rzeką, nad którą można jechać w ciemno. Nie ma na niej wodowskazów pozwalających na zdalne śledzenie wielkości przepływu. Jedyne takie urządzenie umiejscowione jest na budowli hydrotechnicznej w dolnym fragmencie rzeki, dlatego też niezbyt przydatne dla oceny poziomu wody, jako całości szlaku. Generalnie, jak na rzekę nizinną jest dość wymagająca, miejscami trudna i uciążliwa. Na odcinku z Miastka do Kawczyna należy pokonać kilka zniszczonych progów, na których wartki nurt wynosi na duże głazy o ostrych krawędziach. Przy niższej wodzie obróbka skrawaniem dna kajaka jest nieunikniona. Poza tym, niektóre fragmenty są stosunkowo szybkie, a rzeka na nich nabiera górskiego charakteru. Odcinek ten, latem 2019 kilku K1 zajął nieco powyżej 4h. Odcinek dolny, z Kawczyna do hydroelektrowni Ciecholub, dla odmiany nie posiada progów, natomiast zdecydowanie więcej drzew do przeskoczenia, a niektóre na bystrej wodzie. Odcinek ten zajął takiej samej grupie i w tym samym czasie, około 4,5h.</opis> 
+    <punkt id="5893" miejscowosc="Miastko" 
+      ns="54.00769762" we="16.97909922" km="36.8" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych przy placu obok Biedronki, przy ul. Fabrycznej. Wygodne miejsce rozpoczynania spływu z trawiastego brzegu, w pobliżu kładki sporo miejsca na samochody. Początkowy odcinek nieco płytki i z kamieniami</opispunktu> 
+    </punkt>
+    <punkt id="5894" miejscowosc="Miastko" 
+      ns="54.00893854" we="16.97569565" km="36.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zniszczony próg betonowy tworzący bystrze. Spływać ostrożnie ze względu na ostre fragmenty konstrukcji. Niżej dość wartki nurt z kamieniami w korycie</opispunktu> 
+    </punkt>
+    <punkt id="5895" miejscowosc="Miastko" 
+      ns="54.00995725" we="16.97256955" km="36.2" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska drewniana kładka tuż nad lustrem wody. Podczas przechodzenia górą należy uważać na wystające gwoździe po szczeblach</opispunktu> 
+    </punkt>
+    <punkt id="5896" miejscowosc="Miastko" 
+      ns="54.01235315" we="16.97249938" km="35.9" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Stalowa rura wysoko nad wodą oraz betonowa kładka. Zaraz za nimi potrójny prożek z pochylniami pomiędzy. Na ostatnim szerokim progu trzymać się prawej strony, ze względu na duże głazy leżące tuż pod progiem, na które znosi nurt</opispunktu> 
+    </punkt>
+    <punkt id="5897" miejscowosc="Miastko" 
+      ns="54.01174968" we="16.96735231" km="35.5" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Przed wysokim budynkiem skręcić w prawo pod betonową konstrukcję mostka - kładki</opispunktu> 
+    </punkt>
+    <punkt id="5898" miejscowosc="Miastko" 
+      ns="54.01335192" we="16.96602515" km="35.3" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Kamienny prożek bystrze w miejscu dawnego mostu kolejowego. Spływać ostrożnie ze względu na ostre kamienie na sporym nurcie. Zaraz po lewej oczyszczalnia z dyskretnym odprowadzeniem ścieków. Poniżej odcinek śródleśny, zwałkowy, miejscami bystry</opispunktu> 
+    </punkt>
+    <punkt id="5899" miejscowosc="Łodzierz" 
+      ns="54.02748339" we="16.9520778" km="32.4" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek na stalowych szynach. Pod mostem koryto rzeki zwęża się, więc nurt przyspiesza, tworząc bystrze. Możliwość awaryjnego dojazdu samochodem w pobliże. Przy mostku tabliczka Kawczyn 12 km</opispunktu> 
+    </punkt>
+    <punkt id="5900" miejscowosc="Łodzierz" 
+      ns="54.02926852" we="16.94788758" km="31.9" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej dopływa rzeczka Węgorzynka</opispunktu> 
+    </punkt>
+    <punkt id="5901" miejscowosc="Studnica" 
+      ns="54.05102741" we="16.92118837" km="26.2" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Drugi drewniany mostek z możliwością awaryjnego dojazdu. Przy mostku tabliczka Kawczyn 8 km</opispunktu> 
+    </punkt>
+    <punkt id="5902" miejscowosc="Studnica" 
+      ns="54.05417039" we="16.9170764" km="25.6" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony uchodzi Pierska Struga, która odprowadza wodę z pobliskiej pstrągarni. Niestety, na pewien czas znacząco brudzi i zasmradza Studnicę</opispunktu> 
+    </punkt>
+    <punkt id="5903" miejscowosc="Kawcze" 
+      ns="54.06462485" we="16.91568136" km="23.4" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Charakterystyczna linia energetyczna wysoko nad rzeką. Poniżej odcinek bardziej bystry, wyciszany 3 niewielkimi prożkami</opispunktu> 
+    </punkt>
+    <punkt id="5904" miejscowosc="Kawcze" 
+      ns="54.07193843" we="16.90389495" km="21" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ostry zakręt w lewo z kamiennym bystrzem, nurt wyrzuca na powalone drzewo. Niżej rzeka wypływa na łąki i znacząco zwalnia</opispunktu> 
+    </punkt>
+    <punkt id="5905" miejscowosc="Kawczyn" 
+      ns="54.07581405" we="16.88958131" km="19.6" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg piętrzący wodę na potrzeby hydroelektrowni, zlokalizowanej kilkaset metrów niżej. Całkowicie opuszczona zastawka nie dająca możliwości przepłynięcia prosto, na kanał młyński [konieczna przenoska], zabierający większą ilość wody z rzeki. Dalej odcinek prostego i uregulowanego kanału młyńskiego do elektrowni. Natomiast w lewo, na starorzecze istnieje możliwość spłynięcia krótkimi kajakami, przepławką dla ryb. Jednak, poniżej odcinek bardzo płytki bez możliwości wiosłowania, aż do najblliższego mostu</opispunktu> 
+    </punkt>
+    <punkt id="5906" miejscowosc="Kawczyn" 
+      ns="54.07753224" we="16.88751586" km="19.3" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze, na starorzeczu. Koniec odcinka bardzo płytkiego, dalej wody na tyle, że daje się wiosłować</opispunktu> 
+    </punkt>
+    <punkt id="5907" miejscowosc="Kawczyn" 
+      ns="54.07770352" we="16.88838857" km="19.25" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na lokalnej drodze, na kanale młyńskim</opispunktu> 
+    </punkt>
+    <punkt id="5908" miejscowosc="Kawczyn" 
+      ns="54.07786742" we="16.88712006" km="19.2" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po lewej agroturystyka, pole biwakowe, pokoje do wynajęcia i wypożyczalnia kajaków. Poniżej odcinek starorzecza z wystarczającą ilością wody aby móc swobodnie płynąć. Spowodowane jest to obecnością tamy bobrowej, piętrzącej wodę w korycie</opispunktu> 
+    </punkt>
+    <punkt id="5909" miejscowosc="Kawczyn" 
+      ns="54.07963008" we="16.88474149" km="18.8" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Spora bobrowa tama pierząca wodę na starorzeczu. Poniżej tamy kamienie i kompletny brak wody na swobodny spływ, aż do hydroelektrowni. Dlatego, chyba lepiej dla sprzętu i nerwów, jeśli popłynie się młynówką i dopłynie nią do hydroelektrowni, mimo tego, że przed nią jest mało wygodne wyjście z wody</opispunktu> 
+    </punkt>
+    <punkt id="5910" miejscowosc="Kawczyn" 
+      ns="54.08123231" we="16.88590636" km="18.5" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Bezobsługowa mała elektrownia wodna. Przenoska z kanału młyńskiego lewym brzegiem, po trawie. Wodowanie poniżej stromej skarpy. W pobliżu budynku, po prawej dobre miejsce na dziki biwak z wygodnym dojazdem gruntową drogą. Płynąc starorzeczem natomiast, widok budynku hydroelektrowni oznacza koniec brodzenia, dalej wody już nie brakuje. Poniżej odcinek bez przeszkód i ze spokojnym nurtem</opispunktu> 
+    </punkt>
+    <punkt id="5911" miejscowosc="Kawczyn" 
+      ns="54.08555547" we="16.88600818" km="17.8" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska drewniana kładka ze szczebelkami uzbrojonymi w wystające gwoździe. Tuż za nią rozlewisko przed hydroelektrownią</opispunktu> 
+    </punkt>
+    <punkt id="5912" miejscowosc="Kawczyn" 
+      ns="54.08606179" we="16.88628522" km="17.7" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mała elektrownia wodna. Konieczna przenoska lewym brzegiem po trawie, przez drewniany mostek. Wodowanie ze stromego brzegu. Na dolnej wodzie, na budynku elektrowni zaznaczono, opatrzone datami, poziomy wody, znacząco przemawiające do wyobraźni... Dalej odcinek zwałkowy, kilka z nich wymaga współpracy zespołowej</opispunktu> 
+    </punkt>
+    <punkt id="5913" miejscowosc="Kawczyn" 
+      ns="54.09032799" we="16.8822883" km="16.7" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony uchodzi rzeczka Świerzynka</opispunktu> 
+    </punkt>
+    <punkt id="5914" miejscowosc="Przytocko" 
+      ns="54.1207965" we="16.86802626" km="11.2" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony dopływa rzeczka Białka</opispunktu> 
+    </punkt>
+    <punkt id="5915" miejscowosc="Przytocko" 
+      ns="54.12335559" we="16.86779051" km="10.7" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rzędy drewnianych stempli po starym moście</opispunktu> 
+    </punkt>
+    <punkt id="5916" miejscowosc="Przytocko" 
+      ns="54.12371076" we="16.8662691" km="10.6" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z tabliczką szlaku kajakowego 10 km. Pod mostem małe bystrze. Poniżej odcinek zwałkowy i miejscami bystry. Niektóre zwałki wymagają współpracy zespołowej, a inne zachowania zimnej krwi, ponieważ pokonanie przeszkód odbywa się na sporym nurcie</opispunktu> 
+    </punkt>
+    <punkt id="5917" miejscowosc="Ciecholub" 
+      ns="54.16453665" we="16.90431051" km="2.4" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony dopływ rzeczki Dzika. Koniec odcinka zwałkowego</opispunktu> 
+    </punkt>
+    <punkt id="5918" miejscowosc="Ciecholub" 
+      ns="54.16515387" we="16.90458424" km="2.3" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia wodna Ciecholub. Bardzo wygodne miejsce do rozpoczynania i kończenia etapu. Na górnej i dolnej wodzie pomosty z drabinkami i slipem. Tablice z opisem i mapą szlaku. Dobry dojazd samochodem nad samą wodę. Na górnej wodzie stoi mało czytelny, ale jedyny na Studnicy, wodowskaz. Obok wodowskazu posadowiono tabliczkę z kotą 5665, co prawdopodobnie oznacza rekordową wodę w tym miejscu. Wskazania poziomu 5020 dały względnie dobre warunki do spływu, jednak umiejscowienie wodowskazu na górnej wodzie, w cofce urządzenia piętrzącego, w bardzo małym stopniu odzwierciedla faktyczny stan wody w rzece. Nie należy więc przesadnie sugerować się jego wskazaniami</opispunktu> 
+    </punkt>
+    <punkt id="5919" miejscowosc="Ciecholub" 
+      ns="54.1658429" we="16.90211962" km="2.1" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="5920" miejscowosc="Biesowiczki" 
+      ns="54.17651223" we="16.90732977" km="0" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Studnicy do Wieprzy</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

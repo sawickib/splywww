@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="191" nazwa="Supraśl" wersja="1">
+<opis>Główna rzeka Puszczy Knyszyńskiej, do której uchodzą wszystkie pozostałe. Prowadzi czystą wodę i ma wyraźny nurt. Koryto meandruje w szerokiej dolinie, a jedynie miejscami zbliża się do stromych i wysokich burt doliny. Brzegi w większości porastają trzciny, a roślinność podwodna w szczycie sezonu wegetacyjnego jest bujna i zróżnicowana. Pomimo, iż Supraśl rozcina bezkresne lasy puszczańskie, szerokość doliny sprawia, że cały czas płynie się otwartym terenem, a drzewa w bezpośrednim pobliżu rzeki występują sporadycznie. Przy wskazaniach wodowskazów: Nowosiółki - 130, Supraśl - 103 oraz Fasty - 122, odcinek Słuczanka - Zasady zajął 5,3h, Cieliczanka - Supraśl 2,1h, natomiast Zasady - Supraśl (kanałem młyńskim) - Pólko 3,5h. Wskazania te gwarantują bardzo dobre warunki wodne pomiędzy Słuczanką (76,9km), a Pólkiem (34,2km)</opis> 
+    <punkt id="6049" miejscowosc="Supraśl" 
+      ns="53.20280835" we="23.382727" km="" etykieta="3,3" 
+      kolejnosc="20"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Kanał młyński rzeki Supraśl, długości około 3,3 km. Przed progiem należy popłynąć w lewo</opispunktu> 
+    </punkt>
+    <punkt id="6048" miejscowosc="Supraśl" 
+      ns="53.20278065" we="23.38242395" km="45.3" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz z możliwością dojazdu od strony miasta. Próg o wysokości 1,2m z małym odwojem. Pod progiem jest głęboko na tyle, że spłynięcie nim nie sprawia problemów przy odpowiednich warunkach wodnych i po rozpoznaniu przeszkody. Za progiem kamienie w nurcie. Dalej odcinek spokojnej wody z licznymi meandrami, aż do zalewu w Supraślu. Przed jazem można odbić w lewo, młynówką, wtedy w mieście jest się odrobinę szyciej (bliżej o 1,1km), jednak przed zalewem znajduje się próg, dość trudny i niebezpieczny ze wzgledu na wąski i turbulentny przepływ, zakręt 90 stopni przed samym progiem i odwój. Przy zastanych warunkach wodnych próg ten oceniliśmy jako niebezpieczny i konieczny do obniesienia</opispunktu> 
+    </punkt>
+    <punkt id="6047" miejscowosc="Krzemienne" 
+      ns="53.19483017" we="23.4036206" km="48" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu wygodny dostęp do wody z możliwością dojadu samochodem gruntową drogą. Osamotniony dom rekolekcyjny księży werbistów, w pobliżu którego jest sporo miejsca na zorganizowanie dzikiego biwaku. Na lewym brzegu stadnina koni i zabudowania Cieliczanki</opispunktu> 
+    </punkt>
+    <punkt id="6046" miejscowosc="Cieliczanka" 
+      ns="53.19400808" we="23.40809237" km="48.3" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Płoska z lewej strony, przesłonięte gęstymi trzcinami. Dalej szeroka rzeka z czystą wodą, sporo ładnych miejsc na odpoczynek, jednak brzegi dość strome i podmyte. Rzeka płynie daleko od lasu, w szerokiej dolinie, ale nurt ma cały czas wyraźny</opispunktu> 
+    </punkt>
+    <punkt id="6045" miejscowosc="Zasady" 
+      ns="53.20260544" we="23.45207185" km="53.1" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Możliwość podjęcia kajaków na lewym brzegu, z dojazdem do samej rzeki, w pobliżu charakterystycznego pomostu. Dojazd gruntową, ale publiczną drogą, pomiędzy gęstą zabudową małej wioski, Zasady. Poniżej odcinek spokojnej rzeki z wysokimi stromymi skarpami po lewej stronie. Duża, szeroka i czysta rzeka z bujną roślinnością podwodną</opispunktu> 
+    </punkt>
+    <punkt id="6044" miejscowosc="Zasady" 
+      ns="53.20286506" we="23.45315374" km="53.2" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony uchodzi rzeka Sokołda. Obie rzeki mają w tym miejscu podobną szerokość i prowadzą podobną ilość wody</opispunktu> 
+    </punkt>
+    <punkt id="6043" miejscowosc="Borki" 
+      ns="53.18981349" we="23.49338105" km="57.9" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wiata i piaszczysta pochylnia ułatwiająca dostęp do wody</opispunktu> 
+    </punkt>
+    <punkt id="6042" miejscowosc="Borki" 
+      ns="53.18726121" we="23.50963621" km="60.2" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowo stalowa konstrukcja z wysoką kładką, piętrząca wodę na około 0,3m i zbierająca płynącą roślinność. Poniżej, po prawej stronie malownicza wieś Borki</opispunktu> 
+    </punkt>
+    <punkt id="6041" miejscowosc="Nowosiółki" 
+      ns="53.18417974" we="23.51764648" km="61" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Koryto rzeki zbliża się do lewej burty doliny, a tym samym do sosnowego lasu. Znajduje się tu wygodne miejsce na dziki biwak w pobliżu charakterystycznej, przewróconej wiaty</opispunktu> 
+    </punkt>
+    <punkt id="6040" miejscowosc="Nowosiółki" 
+      ns="53.18117839" we="23.5205134" km="61.5" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Słoja z prawej strony. Poniżej, po prawej stronie stoi oznakowanie pola biwakowego (Kondycja 55,5km), z wody nie widać jednak niczego, co mogło by na obecność takiego pola wskazywać</opispunktu> 
+    </punkt>
+    <punkt id="6039" miejscowosc="Nowosiółki" 
+      ns="53.17536117" we="23.52622756" km="62.7" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym, wysokim brzegu stoi budynek z charakterystycznym tarasem wysuniętym prawie nad koryto rzeki. Tuż przed budynkiem posadowiono wodowskaz Nowosiółki, którego wskazania można obserwować w internecie. Wartość 133 gwarantuje bardzo dobre warunki wodne na reprezentowanym odcinku</opispunktu> 
+    </punkt>
+    <punkt id="6038" miejscowosc="Nowosiółki" 
+      ns="53.17335327" we="23.53019823" km="63.2" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy z oznakowaniem szlaku 23,2km</opispunktu> 
+    </punkt>
+    <punkt id="6037" miejscowosc="Podzałuki" 
+      ns="53.16692462" we="23.54068728" km="65" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na prawym brzegu dogodne miejsce na dziki biwak w pobliżu samotnego, rozłorzystego drzewa</opispunktu> 
+    </punkt>
+    <punkt id="6036" miejscowosc="Załuki" 
+      ns="53.16088961" we="23.54352117" km="66.3" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Grube drzewo leżące w poprzek rzeki, zbierające wszystko co nią płynie, przez co tworzy się tu spory zarastający zator. Przy prawym brzegu znajduje się niewidoczne z daleka okienko, którym można pokonać przeszkodę nie wysiadając z kajaka</opispunktu> 
+    </punkt>
+    <punkt id="6035" miejscowosc="Załuki" 
+      ns="53.15823552" we="23.55239945" km="67.2" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski mostek drogowy, za nim po prawej malowniczo położona wieś Podzałuki. W kilku miejscach istnieje dogodna możliwość wyjścia na suchy brzeg</opispunktu> 
+    </punkt>
+    <punkt id="6034" miejscowosc="Radunin" 
+      ns="53.15442914" we="23.5612577" km="68.3" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z oznakowaniem 19,2km szlaku kajakowego. Wygodne lądowanie i wodowanie. Poniżej zaczyna się odcinek bardziej urozmaicony i malowniczy ze względu na bliskość drewnianych domostw w poszczególnych miejscowościach</opispunktu> 
+    </punkt>
+    <punkt id="6033" miejscowosc="Waliły" 
+      ns="53.1460073" we="23.6002732" km="72.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Stalowa konstrukcja zastawki, nie piętrząca wody, za to z tworzącym się zatorem z roślinności</opispunktu> 
+    </punkt>
+    <punkt id="6032" miejscowosc="Waliły" 
+      ns="53.14468322" we="23.60299568" km="72.5" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowy prożek delikatnie piętrzący wodę</opispunktu> 
+    </punkt>
+    <punkt id="6031" miejscowosc="Królowe Stojło" 
+      ns="53.13610632" we="23.62826143" km="74.8" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Stalowa kratownica zastawki. Konstrukcja nie piętrzy wody, jednak tworzy się tu zator ze spływającej roślinności. Poniżej kilka zwałek, łatwych do pokonania</opispunktu> 
+    </punkt>
+    <punkt id="6030" miejscowosc="Słuczanka" 
+      ns="53.13069832" we="23.64748001" km="76.8" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowa konstrukcja mostu prawdopodobnie kolei wąskotorowej</opispunktu> 
+    </punkt>
+    <punkt id="6029" miejscowosc="Słuczanka" 
+      ns="53.13004955" we="23.64818427" km="76.9" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most, opatrzony tabliczką: MOST IMIENIA SOŃKI I JOACHIMA, na publicznej drodze z kocich łbów. Jest to wygodne miejsce wodowania, jednak wody do tego miejsca dopływa już sporo, można więc próbować startować znacznie wyżej. Poniżej odcinek otwartego terenu, pośród łąk i pastwisk. Koryto porośnięte trzcinami</opispunktu> 
+    </punkt>
+    <punkt id="6050" miejscowosc="Supraśl" 
+      ns="53.20461291" we="23.35640909" km="" etykieta="1,1" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Kanał młyński rzeki Supraśl (1,1km), niska stalowa żółta kładka</opispunktu> 
+    </punkt>
+    <punkt id="6051" miejscowosc="Supraśl" 
+      ns="53.20758583" we="23.34654689" km="" etykieta="0,3" 
+      kolejnosc="22"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Kanał młyński rzeki Supraśl (0,3km). Most, a pod nim jaz. Wygodne miejsce kończenia etapu z dojazdem i parkingiem przy samym jazie. Należy dobić do lewego brzegu odpowiednio wcześniej, ponieważ tuż przed konstrukcją mostu i jazu nurt ściąga w lewo do otwartej i niczym nie zabezpieczonej komory, bez możliwości wypłynięcia po drugiej stronie. Biorąc pod uwagę, że kilka metrów dalej znajduje się próg o wysokości 1,5 m ze sporym odwojem, na ostrym zakręcie nurtu w lewo, pod niską kładką, miejsce to oceniamy jako potencjalnie niebezpieczne. Przenoska 30m, lewym brzegiem przed drogę na rozlewisko zalewu</opispunktu> 
+    </punkt>
+    <punkt id="6052" miejscowosc="Supraśl" 
+      ns="53.21006799" we="23.34441125" km="40.9" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zalew w Supraślu. Niski jaz piętrzący wodę w zalewie, do łatwego przepłynięcia. Poniżej, fragment  ładnego odcinka pod monumentalną budowlą monastyru, posadowionego na wysokiej skarpie</opispunktu> 
+    </punkt>
+    <punkt id="6053" miejscowosc="Supraśl" 
+      ns="53.21405144" we="23.33812953" km="40.1" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wodowskaz Supraśl, wskazania którego można obserwować zdalnie w internecie. Poziom 105 gwarantuje bardzo dobre warunki wodne na reprezentowanycm odcinku</opispunktu> 
+    </punkt>
+    <punkt id="6054" miejscowosc="Supraśl" 
+      ns="53.21499863" we="23.3378246" km="40" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most na drodze nr 676 do Krynek. Poniżej malowniczy odcinek szerokiej doliny i szerokiej rzeki z wysokimi skarpami na lewym brzegu i zabudową letniskową</opispunktu> 
+    </punkt>
+    <punkt id="6055" miejscowosc="Pólko" 
+      ns="53.21961381" we="23.29708349" km="34.2" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Ładne miejsce na biwak z dojazdem gruntową drogą od strony Supraśla. Pod lasem wiaty, miejsce na ognisko, piaszczyste wejście do wody</opispunktu> 
+    </punkt>
+    <punkt id="6056" miejscowosc="Złotoria" 
+      ns="53.17750112" we="22.93736712" km="0" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Supraśli do Narwi</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

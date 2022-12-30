@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="89" nazwa="Kaczawa" wersja="2">
+<opis>Kaczawa (niem. Katzbach), lewy dopływ Odry. Swoje źródła ma w Górach Kaczawskich (Góry Ołowiane, pn. stok góry Turzec), powyżej miejscowości Kaczorów. Odwadnia znaczną część Gór i Pogórza Kaczawskiego. Wody Kaczawy niosą sporą (jak na polskie warunki) ilość złota, które następnie sedymentuje w osadach dennych gdy rzeka traci swoją energię na przedpolu gór. Najbardziej znaną miejscowością, słynącą niegdyś z wydobycia tego kruszcu w dolinie Kaczawy jest Złotoryja i jej sławne piaski złotonośne. W górnym biegu rzeka posiada charakter górsko-wyżynnego potoku, poniżej Legnicy nabiera bardziej nizinnego charakteru.
+W zależności od ilości wody nadaje się do spływów przez cały rok, odcinek górny zalecany jest do spływania po opadach lub na wiosnę. Wskazania wodowskazu Piątnica poziomu 120 oznacza minimum wody na odcinku od Legnicy w dół. Na progach jest mało wody i haczy się o kamienie, poza tym jest bardzo płytko na licznych żwirowych przemiałach</opis> 
+  <odcinek id="361" typ="rzeka" nazwa="Legnica - Odra" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="0"> 
+  <opis>Odcinek nizinny, z kilkoma progami i jazem. Brzegi zakrzaczone, z często zwieszającymi się do wody gałęziami. Odcinek ten płynąłem w czasie wezbranej wody, było więc wartko a kolor wody przypominał kawę z mlekiem.</opis>
+    <punkt id="3004" miejscowosc="Legnica" 
+      ns="51.21193721" we="16.1718888" km="25.4" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Sklepiony kamienny most na drodze nr 94 (ul. Kartuska). Wygodne miejsce wodowania na prawym brzegu, poniżej mostu, z możliwością dojazdu do samej rzeki. Brzegi wyłożone kamieniami. Przed mostem po prawej stronie rzeki znajduje się plac, gdzie można pozostawić samochody. Na odcinku miejskim rzeka jest uregulowana i obwałowana</opispunktu> 
+    </punkt>
+    <punkt id="3005" miejscowosc="Legnica" 
+      ns="51.21572571" we="16.17567847" km="24.8" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg złożony z 4 stopni, 0,6m z małym odwojem, 0,6m bez odwoju oraz 2 małe prożki z ostrych kamieni. Przy wyższej wodzie bezpieczniej będzie obnieść to miejsce 40m z prawej lub lewej strony, po trawie</opispunktu> 
+    </punkt>
+    <punkt id="3006" miejscowosc="Legnica" 
+      ns="51.22016281" we="16.17850969" km="24.2" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Kratownicowy most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3007" miejscowosc="Piątnica" 
+      ns="51.22261405" we="16.17920706" km="24" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg pochylnia, za nim 2 rzędy ostrych kamieni</opispunktu> 
+    </punkt>
+    <punkt id="3008" miejscowosc="Piątnica" 
+      ns="51.22757128" we="16.19903312" km="22.3" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most drogowy oraz wodowskaz Piątnica, którego wskazania można obserwować w internecie</opispunktu> 
+    </punkt>
+    <punkt id="3009" miejscowosc="Pątnów" 
+      ns="51.23453996" we="16.21198231" km="20.8" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki sklepiony most drogowy, wygodne miejsce wodowania kajaków</opispunktu> 
+    </punkt>
+    <punkt id="3010" miejscowosc="Kunice" 
+      ns="51.24360429" we="16.24293422" km="17.9" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej stronie ujście rzeki Wierzbiak</opispunktu> 
+    </punkt>
+    <punkt id="3011" miejscowosc="Szczytniki" 
+      ns="51.25076485" we="16.25963306" km="16.1" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg pochylnia z odwojem, 5 m niżej rząd ostrych kamieni. Można tu dojechać autem na prawy brzeg gruntową drogą, od strony okolic mostu pomiędzy Bieniowicami a Szczytnikami Małymi. Poniżej progu po prawej wygodne miejsce na przerwę</opispunktu> 
+    </punkt>
+    <punkt id="3012" miejscowosc="Szczytniki" 
+      ns="51.25212075" we="16.26390861" km="15.8" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków. Rzeka wypływa z cienia na bardziej otwartą przestrzeń. W korycie pojawiają się zwalone drzewa</opispunktu> 
+    </punkt>
+    <punkt id="3013" miejscowosc="Szczytniki" 
+      ns="51.252515" we="16.265718" km="15.5" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście rzeczki Niecka</opispunktu> 
+    </punkt>
+    <punkt id="3014" miejscowosc="Prochowice" 
+      ns="51.27378144" we="16.34936552" km="7.7" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most na ruchliwej drodze nr 36 Prochowice - Lubin. 200 m przed mostem po lewej stronie dochodzi do rzeki droga gruntowa z okolic mostu. W tym miejscu można wygodnie podjąć kajaki z wody</opispunktu> 
+    </punkt>
+    <punkt id="3015" miejscowosc="Prochowice" 
+      ns="51.27545494" we="16.35310146" km="7.3" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg zapora (3m pionu + pochylnia + 1 m pionu + niżej ostre kamienie). Chcąc wpłynąć do miasta, należy przenieść się na Młynówkę, która u wylotu zagrodzona jest kratą, w prawo w górę przed kratą. Spływ Młynówką jest uciążliwy ze względu na obmurowane brzegi, ogrodzone posesje i brak możliwości wyjścia z wody przed przeszkodami. Chcąc płynąć do ujścia lepiej przenieść się na rzekę, 50 m przed zaporą w lewo przecinką w trzcinach, do lewego brzegu, na wał którym biegnie droga gruntowa. Przenoska wałem około 100 m. Poniżej zapory płytko i 3 rzędy ostrych kamieni. Pod zaporę można dojechać samochodem od strony mostu na drodze nr 36</opispunktu> 
+    </punkt>
+    <punkt id="3016" miejscowosc="Prochowice" 
+      ns="51.27904705" we="16.36389372" km="6.4" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy sklepiony, pod nim bardzo płytko, dalej ostre kamienie i przemiały żwirowe, nieco więcej gęstej roślinności wodnej</opispunktu> 
+    </punkt>
+    <punkt id="3017" miejscowosc="Kwiatkowice" 
+      ns="51.29755474" we="16.42069748" km="0" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Kaczawy do Odry</opispunktu> 
+    </punkt>
+  </odcinek>
+    <punkt id="5279" miejscowosc="Prochowice" 
+      ns="51.27745605" we="16.3290678" km="9.2" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mały prożek z ostrych kamieni. Dalej woda zatrzymuje się już przed zaporą w Prochowicach</opispunktu> 
+    </punkt>
+    <punkt id="5278" miejscowosc="Szczytniki" 
+      ns="51.26838876" we="16.28440028" km="13.1" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Duża zwałka z nagromadzonymi śmieciami i amboną myśliwską po prawej stronie. Miejsce wyjątkowo uciążliwe do pokonania</opispunktu> 
+    </punkt>
+    <punkt id="5277" miejscowosc="Piątnica" 
+      ns="51.22294089" we="16.17952105" km="23.9" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Czarna Woda. Poniżej odcinek z niskimi gałęziami i pojedynczymi drzewami, bez przeszkód w nurcie</opispunktu> 
+    </punkt>
+    <punkt id="5276" miejscowosc="Legnica" 
+      ns="51.21466399" we="16.17587855" km="24.9" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Szeroki most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="5280" miejscowosc="Prochowice" 
+      ns="51.27751586" we="16.37703439" km="5.4" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Powrót wody z Młynówki wypływającej z dwóch prostokątnych przepustów. Niżej płynie się już dobrze i wody nie brakuje, miejscami nieco szybciej. Do ujścia spotkamy kilka mało wymagających zwałek</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

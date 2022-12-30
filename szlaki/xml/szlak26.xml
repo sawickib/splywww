@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="26" nazwa="Kulawa" wersja="2">
+<opis>Kulawa jest uroczym, malutkim dopływem Zbrzycy i jest pływany jako dodatkowa wycieczka z tego większej rzeki. Szlak jest bardzo zawalony drzewami, ale dopłynięcie do j. Głuchego rekompensuje wysiłek burłaczenia [wg opisu z roku 2006].
+W 2018 roku rzeka nie jest jakoś bardzo zawalona drzewami, trzeba jednak pamiętać, że na znacznym odcinku stanowi ona rezerwat przyrody, więc to co wpadnie do wody w wyniku procesów naturalnych, musi tam pozostać.</opis> 
+  <odcinek id="98" typ="mieszany" nazwa="Jezioro Duże i Małe Głuche" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Piękne jeziorko położone w prawdziwej leśnej głuszy, z dala od uczęszczanych szlaków.</opis>
+    <punkt id="874" miejscowosc="Wawrzonowo" 
+      ns="53.9608741" we="17.5369531" km="4.1" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Łąka z rozpadającym się pomostem, nadaje się do biwakowania na dziko, szkoda tylko, że nie ma cienia [wg opisu z 2006]. 
+Biwakując tu należy pamiętać, iż jesteśmy na terenie rezerwatu przyrody, który już w swej definicji ma szereg obostrzeń</opispunktu> 
+    </punkt>
+    <punkt id="873" miejscowosc="Kubianowo" 
+      ns="53.96452094" we="17.53900246" km="4.6" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Całkowicie zarośnięte trzcinami ujście rzeki Kulawa do j. Małe Głuche. Brak nurtu i narzucającego się kierunku przeciągania przez trzciny może sprawić drobny kłopot</opispunktu> 
+    </punkt>
+    <punkt id="5552" miejscowosc="Kubianowo" 
+      ns="53.97082438" we="17.54267054" km="5.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek drewniany na leśnej drodze przy wypływie rzeki z jeziora Głuche Duże. Wygodne miejsce startu, chociaż oficjalny dojazd samochodem w to miejsce wymaga zezwolenia służb leśnych. Początek rezerwatu Dolina Kulawy, w obrębie którego poruszanie się dozwolone jest wyłącznie po wyznaczonych szlakach, a rzeka nim nie jest. Woda krystalicznie czysta, za to sam wypływ nieco zatrzciniony. Poniżej odcinek leśny z kilkoma zwałkami. Rzeka o słabym nurcie, zmiennej szerokości i piaszczystym dnie</opispunktu> 
+    </punkt>
+    <punkt id="5553" miejscowosc="Wawrzonowo" 
+      ns="53.96117255" we="17.53289295" km="4" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Zatrzciniony przesmyk na drugą część jeziora</opispunktu> 
+    </punkt>
+    <punkt id="875" miejscowosc="Wawrzonowo" 
+      ns="53.95570674" we="17.53239008" km="3.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">50cm jaz zamykający jezioro Małe Głuche. Możliwe spłynięcie. Mostek nad jazem. Jaz można spłynąć, ale tylko w dół rzeki, jeśli płyniemy pod prąd obowiązkowa, ale krótka 10m przenoska [wg opisu z 2006].
+Mostek a pod nim jaz 2 przęsłowy piętrzący wody jeziora. Odpływ w lewo na młynówkę założony jest workami z piaskiem. Przed jazem na górnej wodzie po prawej stronie stoi wodowskaz, wskazania wartości 58 gwarantują wystarczającą ilość wody na płyniętym odcinku. Jaz można spłynąć ale warto uważać na głowę z powodu niskiego mostku. Zaraz próg około 1 m potem bystro po kamieniach przez trzciny. Poniżej nurt stopniowo zwalnia i rzeka kręci między drzewami</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="99" typ="rzeka" nazwa="Jezioro Głuche Małe do ujścia" 
+      uciazliwosc="U3" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Bardzo płytki strumyczek z dużą ilościa zwalonych drzew. Pod prąd długimi fragmentami trzeba burłaczyć, lepiej przy spływaniu w dół.</opis>
+    <punkt id="5555" miejscowosc="Laska" 
+      ns="53.93581985" we="17.5338371" km="0.7" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze z Laski do Parzyna i Widna. W osi mostu rząd pali, a wzdłuż przęseł nieco bystro</opispunktu> 
+    </punkt>
+    <punkt id="5554" miejscowosc="Wawrzonowo" 
+      ns="53.95053003" we="17.53301723" km="2.8" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po lewej stronie zabudowania i wiata turystyczna, tablice informacyjne. Koniec rezerwatu przyrody</opispunktu> 
+    </punkt>
+    <punkt id="5556" miejscowosc="Laska" 
+      ns="53.9332038" we="17.53291065" km="0.4" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na małe jezioro Szeczonek</opispunktu> 
+    </punkt>
+    <punkt id="877" miejscowosc="Laska" 
+      ns="53.930608" we="17.5287992" km="0" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Kulawy do Zbrzycy
+</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

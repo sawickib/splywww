@@ -1,0 +1,100 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.03012993" lon="15.41013556">
+<name>18.90</name>
+<desc>Most betonowy na drodze nr 280 prowadzącej do promu na Odrze w miejscowości Brody. W bezpośrednim sąsiedztwie mostu można znaleźć nieco miejsca na samochody, bez zastawiania wjazdu 2 dróg na pole i do lasu. Szerokość rzeki około 6m. Niżej, wyprostowany na długich odcinakch kanał, brzegi mocno zarośnięte trzcinami, natomiast koryto na tyle, że da się swobodnie płynąć. Woda przejrzysta, głębokość na środku 1-1,5m. Miejscami las po obu stronach rzeki, jednak głównie płynie się przez tereny otwarte</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.03190349" lon="15.39723745">
+<name>17.90</name>
+<desc>Most betonowy, niżej koryto rozszerza się do ok. 10m</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.02492003" lon="15.38930978">
+<name>16.90</name>
+<desc>Betonowy most drogowy na ul. Bocznej, zaraz za nim po lewej dobre miejsce na odpoczynek lub biwak, ale w pobliżu ruchliwa linia kolejowa</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.02477772" lon="15.38883121">
+<name>16.85</name>
+<desc>Betonowy most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.02456480" lon="15.38807723">
+<name>16.80</name>
+<desc>Niski ale szeroki most kolejowy na trasie Zielona Góra - Szczecin, nad nim, po skosie kratownicowy kolejowy most na bocznym torze manewrowym</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.02519838" lon="15.37596796">
+<name>15.90</name>
+<desc>Most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.02928933" lon="15.36169719">
+<name>14.60</name>
+<desc>Most betonowy. Przed i za mostem, po prawej wygodne wyjście z dojazdem do samej wody</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.03023526" lon="15.34662422">
+<name>13.40</name>
+<desc>Most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.02985965" lon="15.33425031">
+<name>12.50</name>
+<desc>Przystań po lewej. Tabliczka głosi że teren prywatny ale właściciel się nie objawił. Ławki, wiaty, pomost, dobre miejsce na odpoczynek z wygodnym dostępem do wody. W pobliżu, we wsi znajduje się chyba sklep spożywczy, ponieważ kręcą się ludzie z reklamówkami i piwem. Znajduje się tu również wodowskaz z informacją o stanie powodziowym z różnych lat - w dniu spływu wskazywał on poziom 138</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.02973852" lon="15.33310084">
+<name>12.40</name>
+<desc>Most drogowy zaraz za przystanią. Dalej trochę cienia, a po lewej stronie rzeka ociera się o skarpę wysoczyzny, z której wysiąkają liczne źródła z węglanowymi wytrąceniami</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.03799532" lon="15.31978690">
+<name>10.80</name>
+<desc>Charakterystyczny, ostry zakręt w lewo i dalej odcinek prostego kanału</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.03954287" lon="15.31356030">
+<name>10.40</name>
+<desc>Most z wysokim wodowskazem wskazującym w dniu spływu poziom 122</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.04239099" lon="15.30746295">
+<name>9.80</name>
+<desc>Drogowy most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.04253716" lon="15.29540523">
+<name>9.00</name>
+<desc>Mostek betonowy na otwartej przestrzeni</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.04447249" lon="15.27000883">
+<name>7.10</name>
+<desc>Mostek betonowy z charakterystyczną uszkodzoną barierką </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.05368787" lon="15.24682448">
+<name>5.10</name>
+<desc>Most betonowy </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.05798925" lon="15.22756700">
+<name>3.60</name>
+<desc>Most betonowy. Ostatni dostęp do wody przed ujściem do Odry</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.05436409" lon="15.18278245">
+<name>0.00</name>
+<desc>Ujście Zimnego Potoku do Odry. Najwygodniej jest zakończyć spływ w Gostchorzu na Odrze (około 10 min w dół Odrą), gdzie znajduje się przystań z dojazdem do samej wody, a nieco powyżej przystani, we wsi sklep z tym co trzeba. Jedynym mankamentem Gostchorza w stosunku do spływu Zimnym Potokiem jest fakt, że wieś znajduje się po prawej stronie Odry, co, w przypadku wahadła wiąże się z nieco dłuższym objazdem przez Krosno Odrzańskie, Cigacice lub przeprawę promową</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

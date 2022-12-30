@@ -1,0 +1,165 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.95212475" lon="16.18176799">
+<name>0.00</name>
+<desc>Most na drodze nr 305 Wschowa - Wolsztyn. Przed mostem w trzcinach wodowskaz Wieleń</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.95206600" lon="16.18465500">
+<name>0.20</name>
+<desc>Oznakowany wypływ na jezioro Trzytoniowe. Rozpoczyna się 13 kilometrowy odcinek jeziorowy</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.94941100" lon="16.21012800">
+<name>2.00</name>
+<desc>Most drewniany, wypływ na j. Osłonińskie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.94614239" lon="16.23688678">
+<name>3.80</name>
+<desc>Po lewej stronie duże żeremie bobrowe. Wpływ na j. Górskie</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.96128300" lon="16.24910700">
+<name>6.00</name>
+<desc>Most betonowy, za nim pomost z tablicą informacyjną szlaku. Przed mostem po prawej stronie duża przystań AWF Wrocław. Wypływ na j. Olejnickie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.98213700" lon="16.25296900">
+<name>9.00</name>
+<desc>Rezerwat przyrody Wyspa Konwaliowa</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.99722913" lon="16.29248633">
+<name>12.10</name>
+<desc>Oznakowany kraniec jeziora Przemęckiego</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.99828852" lon="16.29343870">
+<name>12.20</name>
+<desc>Most kolejowy, przed nim spora zwałka z drzew ściętych i zwalonych do wody podczas udrażniania przebiegu linii energetycznej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.00072587" lon="16.29468024">
+<name>12.60</name>
+<desc>Wypływ na j. Przemęckie Małe. W oddali widać wieże klasztoru cysterskiego</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="52.00611945" lon="16.29263490">
+<name>13.20</name>
+<desc>Koniec j. Przemęckiego Małego. Zaczyna się odcinek skanalizowany</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.00949967" lon="16.29026836">
+<name>13.60</name>
+<desc>Most drogowy, przed nim pomost. Wygodne miejsce na zwiedzenie pobliskiego obiektu cysterskiego</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.01352508" lon="16.28552892">
+<name>14.20</name>
+<desc>Dwu przęsłowa zastawka przed wpływem na Południowy Kanał Obry, zamknięta ale nie piętrząca wody. Przymusowa króka przenoska po trawie kilkanaście metrów, bezpośrednio do PKO. Wyjście z wody po kamieniach. Pod zastawką znajduje się wodowskaz Przemęt. Zaczyna się prosty i nużący długi odcinek kanału, na którym jedynym urozmaiceniem są wędkarze i mijane identyczne mostki betonowe. Jedynym pocieszeniem jest, że płyniemy z prądem</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.01178013" lon="16.28240267">
+<name>14.50</name>
+<desc>Pierwszy most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.01015691" lon="16.26835799">
+<name>15.50</name>
+<desc>Drugi identyczny most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.01360268" lon="16.24879975">
+<name>16.90</name>
+<desc>Trzeci identyczny most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.01720415" lon="16.23024445">
+<name>18.20</name>
+<desc>Czwarty identyczny most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.01943938" lon="16.21153713">
+<name>19.50</name>
+<desc>Piąty identyczny most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.01918898" lon="16.20725962">
+<name>19.80</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.01875770" lon="16.19965866">
+<name>20.30</name>
+<desc>Szósty identyczny most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.01771649" lon="16.17931421">
+<name>21.80</name>
+<desc>Most betonowy, pod nim 3 przęsłowa uniesiona zastawka, pod którą można przepłynąć. Przy zastawce wodowskaz Mochy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.01664895" lon="16.16191298">
+<name>23.00</name>
+<desc>Betonowy przepust w prawo, odprowadzający część wód w kierunku Północnego Kanału Obry</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.01556656" lon="16.16143246">
+<name>23.10</name>
+<desc>Remontowany most na drodze nr 305 Wschowa - Wolsztyn. Za nim tymczasowy przepust 8 rurowy pod tymczasowym mostem. Za przepustem drzewo w poprzek nurtu, tworzące dość wymagającą zwałkę, ze względu na sporą ilość nagromadzonych śmieci</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.01486303" lon="16.16060735">
+<name>23.20</name>
+<desc>Skręt w lewo w zarośnięty wąski kanał prowadzący w kierunku j. Mochyńskiego. Początek kanału znajduje się pomiędzy jedynymi dwoma dużymi drzewami. W zależności od pory roku, wpływ może być zamaskowany przez trzciny</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.01379381" lon="16.16176786">
+<name>23.40</name>
+<desc>Wypływ na płytki i zarośnięty nieco północny kraniec j. Mochyńskiego</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="52.00585456" lon="16.15764349">
+<name>24.30</name>
+<desc>Wypływ z południowego krańca j. Mochyńskiego, po lewej duże żeremie bobrowe. Początek stojącej wody kanału, jednak poprzez swoje urozmaicenie bardziej przypominającego rzekę</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.00045482" lon="16.15646808">
+<name>25.00</name>
+<desc>Niski mostek drewniany </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.99480877" lon="16.15166359">
+<name>25.80</name>
+<desc>Most - podwójny przepust rurowy na drodze z Moch do Świętna. Dalej woda stojąca, głęboko i muliście. W pobliżu mostu sporo miejsca na samochody przy tablicy z nazwą miejscowości. Dalej szeroko, kilka łatwych zwałek i spore trzcinowiska. Okolica dzika i zabagniona</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.98845200" lon="16.14814100">
+<name>26.50</name>
+<desc>Dopływamy do Kanału Kaszczorskiego. W prawo łącznik do Południowego Kanału Obry. Od tego miejsca płyniemy pod słaby prąd. Kanał tutaj przypomina rzekę i kręci wśród drzew</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.96813974" lon="16.15699649">
+<name>29.40</name>
+<desc>Niska kładka drewniana. Nurt staje się bardziej wyraźny</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.95849500" lon="16.16247400">
+<name>30.80</name>
+<desc>Most drogowy, przed nim pomost, tablica informacyjna, w pobliżu kościół, sklepy. Dalej odkryty teren, trzcinowiska, szeroko, głęboko, nurt nieco słabszy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.95229800" lon="16.18086000">
+<name>33.30</name>
+<desc>Jaz zastawka piętrząca wody całego kompleksu jezior. W zależności od poziomu wody opuszczona albo podniesiona, umożliwiając przepłynięcie. Po obu stronach zastawki betonowe przegrody. Przed i za zastawką drewniane pomosty ułatwiające ewentualną krótką przenoskę po trawie. Na pobliskim moście drogwym zamyka się Pętlę Cysterską</desc>
+<cmt>jaz</cmt>
+</wpt>
+
+</gpx>

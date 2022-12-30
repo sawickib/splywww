@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="165" nazwa="Bukowina" wersja="1">
+<opis>Prawy dopływ górnej Łupawy, biorąc pod uwagę kryterium wielkości średniorocznego przepływu [gdyby wziąć pod uwagę kryterium długości obu rzek było by odwrotnie i to Łupawa stanowiła by dopływ Bukowiny, gdyż od źródeł do miejsca połączenia obu rzek, jest od niej krótsza]. Obszar źródliskowy znajduje się w okolicach Sierakowic, w obrębie Kaszubskiego Parku Krajobrazowego. Płynie na północ zasilając kilka jezior w okolicy Kamienicy Królewskiej, a następnie skręca na zachód i płynie zalesioną doliną aż do ujścia do Łupawy w Kozinie. 
+Dzika rzeczka ze sporą ilością zwałek, tam bobrowych, kamieni, prożków i bystrzy. Wg Wikipedii [rzeka stanowi trudny szlak kajakowy, dostępny tylko dla doświadczonych kajakarzy. Spływy rozpoczyna się najczęściej od Skrzeszewa i prowadzi aż do ujścia do Łupawy. Rzeka posiada wartki nurt i ma charakter podgórski]. Na Bukowinie nie ma wodowskazów, najbliższy znajduje się na Łupawie w miejscowości Łupawa. W dniu spływu Bukowiną wskazywał on poziom 48, co wydaje się niezbędnym minimum gdyż często szoruje się po kamieniach i osiada na bystrych przemiałach. Rzeka w górnych odcinkach podatna jest na zakwity glonów, wiosną 2018 miała zielony kolor i delikatnie śmierdziała. Wpływając na obszary leśne stopniowo się oczyszcza. Odcinek ze Skrzeszewa do Kozina zajął około 5h czystego zwałkowo, niespiesznego przejazdu</opis> 
+    <punkt id="5403" miejscowosc="Skrzeszewo" 
+      ns="54.41159268" we="17.83857367" km="19.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Przegrodzony zastawkami jaz piętrzący wodę dla małej hydroelektrowni, nad nim niski drewniany most do pobliskich zabudowań. Przed mostem po lewej spora łąka, z której wygodnie można się zwodować tuż za jazem i za wypływem wody z turbiny. Teren wygląda na prywatny [leży na nim duża hałda piasku] ale właściciel się nie objawił. Płynąc od strony jeziora Kamienickiego i Świętego należy zrobić w tym miejscu przenoskę, lewym brzegiem po trawie około 20 m</opispunktu> 
+    </punkt>
+    <punkt id="5404" miejscowosc="Skrzeszewo" 
+      ns="54.41387281" we="17.82793699" km="18.8" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pionowy próg o wysokości 1,5m, nad nim kładka. Spływać przez obniżenie pomiędzy środkową pionową szyną a lewym filarem. Pod progiem leży kilka obłych kamieni ale nie czynią one krzywdy kajakowi przy większej wodzie. Niżej odcinek zwałkowy, teren otwarty, po wpłynięciu do lasu robi się szerzej i płycej</opispunktu> 
+    </punkt>
+    <punkt id="5405" miejscowosc="Siemirowice" 
+      ns="54.40515927" we="17.76509868" km="13.6" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Szeroki most drogowy, pod nim kamienne bystrze</opispunktu> 
+    </punkt>
+    <punkt id="5406" miejscowosc="Siemirowice" 
+      ns="54.40335494" we="17.75622823" km="12.8" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski mostek betonowy - kładka</opispunktu> 
+    </punkt>
+    <punkt id="5407" miejscowosc="Siemirowice" 
+      ns="54.40378961" we="17.75181525" km="12.5" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski most kratownicowy, tuż za nim bystrze. Dalej zwałki, tamy bobrowe i kamienie w nurcie</opispunktu> 
+    </punkt>
+    <punkt id="5408" miejscowosc="Siemirowice" 
+      ns="54.40503318" we="17.74149254" km="11.7" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Betonowa rama dwu przęsłowa po dawnej budowli hydrotechnicznej. Niżej odcinek nieco szerszej rzeki, płynącej przez las</opispunktu> 
+    </punkt>
+    <punkt id="5409" miejscowosc="Oskowo" 
+      ns="54.39424406" we="17.70034155" km="8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mały wąski prożek o wysokości 0,5m przy betonowej pozostałości po czymś</opispunktu> 
+    </punkt>
+    <punkt id="5410" miejscowosc="Oskowo" 
+      ns="54.39279714" we="17.69886137" km="7.8" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, pod nim bystrze</opispunktu> 
+    </punkt>
+    <punkt id="5411" miejscowosc="Oskowo" 
+      ns="54.39172095" we="17.69270649" km="7.2" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Ładny, sklepiony, kamienny most drogi nr 212, na zakręcie rzeki w prawo. Konstrukcja mostu wymusza przewężenie rzeki, w związku z czym tworzy się tu bystrze. Poniżej najciekawszy i najbardziej wymagający odcinek rzeki z wartkim nurtem, licznymi zwałkami i głazami w korycie</opispunktu> 
+    </punkt>
+    <punkt id="5412" miejscowosc="Oskowo" 
+      ns="54.39156001" we="17.68439557" km="6.5" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pozostałości po zerwanym wysokim kamiennym moście kolejowym. Pod mostem zwężenie rzeki i nieco bardziej wymagające bystrze, pomiędzy głazami pochodzącymi z ruin mostu</opispunktu> 
+    </punkt>
+    <punkt id="5413" miejscowosc="Oskowo" 
+      ns="54.39020609" we="17.679337" km="6.1" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Kolejne przewężenie i mały prożek 0,5m. Niżej odcinek zwałkowy z niektórymi drzewami wymagającymi współpracy zespołowej</opispunktu> 
+    </punkt>
+    <punkt id="5414" miejscowosc="Kozin" 
+      ns="54.37837424" we="17.6235188" km="0.3" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski most drogowy, zaraz za nim jaz MEW Kozin. Przenoska lewą stroną przez szosę, mało wygodnie, przez barierki. Droga może niezbyt ruchliwa, ale jak już coś jedzie, to dość szybko, w dodatku wypada zza zakrętu. Dobre miejce na zakończenie etapu i podjęcie kajaków z wody, jednak niezbyt wygodne ze względu na brak pobocza i mało przestrzeni wzdłuż drogi</opispunktu> 
+    </punkt>
+    <punkt id="5415" miejscowosc="Kozin" 
+      ns="54.37699524" we="17.61985847" km="0" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Bukowiny do Łupawy</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

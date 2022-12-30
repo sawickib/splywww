@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="139" nazwa="Stara Rega" wersja="2">
+<opis>Bardzo przyjemny, urozmaicony, bezludny, jednodniowy dopływ Regi. W górnym odcinku (Łabędzie) rzeka jest wąska na 2-3 m i miejscami bardzo mocno zarośnięta trzcinami. Nieco niżej przepływa przez malownicze i dzikie jezioro, a także przez obszary zalesione, gdzie znajdziemy nieliczne i niezbyt wymagające w pokonywaniu powalone drzewa. Na trasie są też dwie obowiązkowe przenoski na progach, utrzymanych w dobrej kondycji elektrowni wodnych, nie są one jednak uciążliwe. Poniżej obydwu elektrowni rzeka mocno przyspiesza przypominając odcinki górskie. Często trzeba tu szukać wody pod kil, ponieważ wartki nurt wyrzuca kajak na kamienne wypłycenia. Na najniższym odcinku Starej Regi, podobnie jak na najwyższym dominują gęste trzcinowiska a koryto rzeki zwęża się i pogłębia. Woda w rzece jest czysta o brunatno-czerwonym naturalnym zabarwieniu. Opis powstał na podstawie spływu z lipca 2017 przy podwyższonych stanach wody. Na Starej Redze nie ma wodowskazów, najbliższe znajdują się na Redze, a w dniu spływu wodowskaz Resko wskazywał poziom 370. Przy takim stanie wody, odcinek z miejscowości Łabędzie do ujścia do Regi dwa kajaki K-1 spłynęły w czasie 5h.
+Wczesną wiosną, zanim ruszą trzcinowiska istnieje możliwość spłynięcia od źródeł Starej Regi - końcówki jeziora Będargowo (wieś Nętno). Spływ najlepiej rozpocząć z plaży, w pobliżu której jest sporo miejsca na samochody. Pewną trudność sprawić może wypłynięcie z jeziora Gągnowo bowiem miejsce to jest mocno zarośnięte trzcinami i bez wyraźnego nurtu. Odcinek górny do miejscowości Łabędzie jest łatwy ale widokowo mało atrakcyjny, a w krajobrazie dominują łąki i trzciny.</opis> 
+    <punkt id="4847" miejscowosc="Lipce" 
+      ns="53.71412901" we="15.67245309" km="0" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Starej Regi do Regi. Wygodnie jest zakończyć spływ na Redze, przy moście w Prusinowie, dokąd jest jeszcze około 1,5 h w zależności od poziomu wody w Redze. Po drodze należy wykonać dodatkowo przenoskę przez jaz elektrowni w Prusinowie.</opispunktu> 
+    </punkt>
+    <punkt id="4846" miejscowosc="Słonowice" 
+      ns="53.71075752" we="15.67567723" km="0.5" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na potrzeby pobliskiej kopalni żwiru i piasku.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">W dniu spływu pod mostkiem nie było prześwitu, ze względu na ostre krawędzie betonowych płyt zaleca się wykonać tu krótką przenoskę przerzucając kajaki górą.</opispunktu> 
+    </punkt>
+    <punkt id="4845" miejscowosc="Słonowice" 
+      ns="53.70078359" we="15.68233519" km="2.2" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski betonowy prożek po czymś, w zasadzie jedynie pozostałości przyczółków. Poniżej rzeka płynie przez trzcinowiska do samego ujścia do Regi.</opispunktu> 
+    </punkt>
+    <punkt id="4844" miejscowosc="Słonowice" 
+      ns="53.69407486" we="15.68505943" km="3.1" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 151 Świdwin - Łobez, pod mostem kamienne bystrze.</opispunktu> 
+    </punkt>
+    <punkt id="4843" miejscowosc="Tarnowo" 
+      ns="53.67792645" we="15.73712562" km="8.5" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Młyn Nad Starą Regą. Jaz pod mostem drogowym.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska około 50m. Wyjście z wody tuż przed mostem na lewą stronę, przejście przez most i wodowanie z prawego brzegu poniżej progu. Poniżej odcinek bystrej wody płynącej przez las.</opispunktu> 
+    </punkt>
+    <punkt id="4842" miejscowosc="Pęczerzyński Młyn" 
+      ns="53.67899451" we="15.77845062" km="12.3" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewą stroną po trawie pomiędzy kanałami. Terenu strzegą pokojowo nastawione psy. Poniżej elektrowni zaczyna się odcinek bystrej wody płynącej przez las.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz małej elektrowni wodnej. W obrębie ładnego i zadbanego terenu elektrowni znajduje się gospodarstwo agroturystyczne: http://www.anna-stepien.e-agro.pl/</opispunktu> 
+    </punkt>
+    <punkt id="4841" miejscowosc="Więcław" 
+      ns="53.68147797" we="15.78520535" km="13" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Drugi most. Zaraz za nim, po prawej stronie znajduje się piaszczysta plaża, z której wygodnie można rozpocząć spływ.</opispunktu> 
+    </punkt>
+    <punkt id="4840" miejscowosc="Więcław" 
+      ns="53.68221888" we="15.78743981" km="13.2" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 162 pomiędzy Drawskiem Pomorskim a Świdwinem. Przed mostem nisko nad wodą przeprowadzone są w poprzek rzeki pastuchy elektryczne. Z mostu, po prawej stronie rzeki, we wsi widać ciekawą architekturę budowlaną.</opispunktu> 
+    </punkt>
+    <punkt id="4839" miejscowosc="Więcław" 
+      ns="53.67885571" we="15.80090841" km="14.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Miejsce wygodnego dostępu do wody z możliwością dojazdu samochodem od strony wsi Więcław. Jest to zorganizowane, bezpłatne pole biwakowe nadleśnictwa.</opispunktu> 
+    </punkt>
+    <punkt id="4838" miejscowosc="Więcław" 
+      ns="53.67245182" we="15.80272234" km="14.8" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Więcław z gęstego trzcinowiska.</opispunktu> 
+    </punkt>
+    <punkt id="4837" miejscowosc="Więcław" 
+      ns="53.6723702" we="15.80399251" km="14.9" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Miejsce, w którym należy zachować czujność i zimną krew. Rzeka zbliża się do jeziora Więcław, nurt stopniowo zanika a koryto jest coraz bardziej zarośnięte trzcinami. W miejscu, w którym nie daje się już swobodnie płynąć, a ledwo widoczny nurt wpływa pod pierwszy rozłożysty krzako-krzew, należy skręcić prostopadle w lewo w gęste trzciny i przeciągnąć się przez nie kilkadziesiąt metrów (co zajmuje zazwyczaj 15-30 minut, w zależności od szczęścia i wyboru prawidłowego kierunku). Jest to najkrótsza droga do wolnej tafli jeziora Więcław. W pobliżu tego miejsca stoi również samotna wysoka olcha, na której wierzchołek można bez problemu wejść bezpośrednio z kajaka i ocenić swoje położenie.</opispunktu> 
+    </punkt>
+    <punkt id="4836" miejscowosc="Łabędzie" 
+      ns="53.66294563" we="15.80439275" km="16.2" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska kładka dwu przęsłowa na łąkach, prawdopodobnie pozostałość starej zastawki.</opispunktu> 
+    </punkt>
+    <punkt id="4835" miejscowosc="Łabędzie" 
+      ns="53.65666493" we="15.81003269" km="17.3" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze asfaltowej pomiędzy miejscowościami Łabędzie i Karsibór. Wygodne miejsce wodowania, po trawie z nieco stromego brzegu. Kilkaset metrów od mostu, we wsi jest sporo miejsca na pozostawienie samochodów. Poniżej mostu odcinek spokojnej wody, nieco wąski i zarośnięty trzcinami.</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

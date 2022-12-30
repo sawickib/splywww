@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="182" nazwa="Rurzyca" wersja="1">
+<opis>Bardzo malowniczy prawy dopływ Gwdy. Od wszystkich innych rzek w okolicy różni się tym, że przepływa przez kilka jezior na stosunkowo krótkim odcinku. Z jednej strony dodaje to rzece uroku, z drugiej zaś łagodzi jej średni spadek, przez co na znacznej długości biegu Rurzycy płynie się po wodzie stojącej. Rzeka przepływa przez duże kompleksy leśne, których fragmenty objęte są ochroną rezerwatową (Diabli Skok, Dolina Rurzycy, Wielkopolska Dolina Rurzycy, Smolary). Praktycznie nie dotyka do cywilizacji, dzięki czemu jest tu bardzo cicho, a poza sezonem również bezludnie. Przy odrobinie szczęścia, przez kilka godzin spływu można spotkać jedynie zwierzęta i wsłuchiwać się w odgłosy przyrody. Jedynym kontaktem z cywilizacją jest droga krajowa nr 22 w górnym biegu oraz miejscowość Krępsko oraz droga krajowa nr 11 przy ujściu do Gwdy. Rzeka bardzo łatwa i nieuciążliwa na odcinku pływanym najczęściej, czyli z Trzebieszek do Krępska. Ze względu na to, że w sezonie letnim pływają tędy bardzo liczne spływy komercyjne, jest ona przystosowana do tej formy turystyki. Ponadto, odcinki pomiędzy jeziorami poniżej Trzebieszek są na tyle szerokie i głębokie, że swobodnie poruszają się tam znacznie większe od kajaków, łódki wędkarskie. Znacząco trudniejszym i bardziej uciążliwym jest odcinek najwyższy, przed jeziorem Krąpsko Małe, jednak ze względu na to, że jest to obszar rezerwatu przyrody pływanie tam jest zabronione. Cały szlak Rurzycy, a zwłaszcza dłuższe osie jezior układają się wzdłuż kierunku NNW - SSE, co może mieć znaczenie przy wiatrach wiejących południkowo. We wszystkich innych przypadkach utrudnienie to nie powinno mieć wpływu na komfort płynięcia, gdyż jeziora są wąskie i osłonięte lasami. Odcinek z rezerwatu Diabli Skok do ujścia do Gwdy, w październiku 2019 zajął kilku K1 około 7h</opis> 
+    <punkt id="5777" miejscowosc="Diabli Skok" 
+      ns="53.39462292" we="16.58076859" km="24.6" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rezerwat przyrody Diabli Skok obejmujący swoim zasięgiem m.in. obszar źródliskowy rzeki. Głęboki, zabagniony wąwóz o stromych zboczach i licznych wysiękach wody. Wyznaczono tu słabo oznakowaną ścieżkę turystyczną, a przy drodze ze Szwecji do Sypniewa zorganizowano mały leśny parking. Ze ścieżki poprowadzonej skrajem rezerwatu widać, że odcinek źródłowy jest trudno dostępny i bardzo uciążliwy ze względu na niedostatek wody oraz liczne drzewa leżące w korycie. Ze względu na to, że teren objęty jest ochroną rezerwatową, przebywanie poza wyznaczonymi do tego miejscami może odbywać się wyłącznie za wiedzą i zgodą terenowo właściwego RDOŚ</opispunktu> 
+    </punkt>
+    <punkt id="5778" miejscowosc="Diabli Skok" 
+      ns="53.39294769" we="16.58315643" km="24.3" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Bobrowa tama piętrząca wodę na wysokość ponad 1m</opispunktu> 
+    </punkt>
+    <punkt id="5779" miejscowosc="Diabli Skok" 
+      ns="53.39156476" we="16.58380019" km="24.1" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Zarośnięty trzcinami, słabo widoczny od strony jeziora wąski wypływ na zbiornik Krąpsko Małe, pierwsze z jezior na szlaku Rurzycy. Południowy kraniec rezerwatu Diabli Skok</opispunktu> 
+    </punkt>
+    <punkt id="5780" miejscowosc="Trzebieszki " 
+      ns="53.38871792" we="16.59302626" km="23.4" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Krąpsko Małe</opispunktu> 
+    </punkt>
+    <punkt id="5781" miejscowosc="Trzebieszki " 
+      ns="53.38810913" we="16.59493178" km="23.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka</opispunktu> 
+    </punkt>
+    <punkt id="5782" miejscowosc="Trzebieszki " 
+      ns="53.38295349" we="16.60141243" km="22.5" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Krąpsko Długie</opispunktu> 
+    </punkt>
+    <punkt id="5783" miejscowosc="Trzebieszki" 
+      ns="53.36511366" we="16.61472109" km="20" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Krąpsko Długie</opispunktu> 
+    </punkt>
+    <punkt id="5784" miejscowosc="Trzebieszki " 
+      ns="53.36277458" we="16.6185367" km="19.6" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Pomost i drewniana kładka. Tradycyjne miejsce rozpoczynania większości spływów Rurzycą. Poniżej krótki fragment wąskiej i bystrej rzeczki z kamieniami w nurcie, ze stromymi skarpami, przypominający sztuczny przekop</opispunktu> 
+    </punkt>
+    <punkt id="5785" miejscowosc="Trzebieszki " 
+      ns="53.36139553" we="16.6182442" km="19.5" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most ruchliwej drogi nr 22 pomiędzy Wałczem a Jastrowiem, pod mostem małe bystrze</opispunktu> 
+    </punkt>
+    <punkt id="5786" miejscowosc="Trzebieszki" 
+      ns="53.35687148" we="16.6174518" km="18.9" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Trzebieszki</opispunktu> 
+    </punkt>
+    <punkt id="5787" miejscowosc="Piaski" 
+      ns="53.34913289" we="16.62762638" km="17.8" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Trzebieszki</opispunktu> 
+    </punkt>
+    <punkt id="5788" miejscowosc="Piaski " 
+      ns="53.34747087" we="16.62854647" km="17.6" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Zielony stalowy mostek w sąsiedztwie domostw</opispunktu> 
+    </punkt>
+    <punkt id="5789" miejscowosc="Piaski" 
+      ns="53.34467126" we="16.62929322" km="17.2" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Krąpsko Łękawe, najczęściej zwanym Krąpskiem Górnym, a czasem też Piaskami lub po prostu Krąpskiem</opispunktu> 
+    </punkt>
+    <punkt id="5790" miejscowosc="Czechyń" 
+      ns="53.32757023" we="16.64495263" km="14.7" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Krąpsko Łękawe</opispunktu> 
+    </punkt>
+    <punkt id="5791" miejscowosc="Czechyń" 
+      ns="53.32749724" we="16.64570063" km="14.6" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na leśnej drodze. Dojazd pożarowy nr 33 oraz 10</opispunktu> 
+    </punkt>
+    <punkt id="5792" miejscowosc="Czechyń" 
+      ns="53.32558855" we="16.64887051" km="14.3" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Krąpsko Radlino, zwane najczęściej Krąpskiem Średnim</opispunktu> 
+    </punkt>
+    <punkt id="5793" miejscowosc="Wrzosy" 
+      ns="53.31869971" we="16.66757506" km="12.8" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Kamień Papieski na jeziorze Krąpsko Radlino. Pomnik upamiętniający pobyt w tym miejscu kardynała Karola Wojtyły, w lipcu 1978</opispunktu> 
+    </punkt>
+    <punkt id="5794" miejscowosc="Wrzosy" 
+      ns="53.31871354" we="16.67960295" km="11.9" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Krąpsko Radlino, oznakowane pole biwakowe na prawym brzegu</opispunktu> 
+    </punkt>
+    <punkt id="5795" miejscowosc="Wrzosy" 
+      ns="53.31734642" we="16.68185681" km="11.7" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most z niewielkim bystrzem i kamieniami. Za mostem po lewej stronie znajduje się drewniany pomost ułatwiający lądowanie. Wygodne miejsce kończenia i rozpoczynania etapu w przypadku podziału spływu Rurzycą na 2 dni</opispunktu> 
+    </punkt>
+    <punkt id="5796" miejscowosc="Wrzosy" 
+      ns="53.30699303" we="16.68932115" km="10.1" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Dębno, czasem zwane Krąpskiem Dolnym lub jeziorem Dąb</opispunktu> 
+    </punkt>
+    <punkt id="5797" miejscowosc="Wrzosy" 
+      ns="53.3009157" we="16.69701462" km="9.3" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Dębno, ostatniego na szlaku</opispunktu> 
+    </punkt>
+    <punkt id="5798" miejscowosc="Zabrodzie" 
+      ns="53.29792187" we="16.71535224" km="7.5" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na leśnej drodze pożarowej nr 14. Za mostkiem po prawej stronie wysoki pomost. Poniżej rzeka wypływa z lasu na zabagnioną odkrytą przestrzeń, przypominającą zarośnięte jezioro i staje się znacząco głębsza</opispunktu> 
+    </punkt>
+    <punkt id="5799" miejscowosc="Zabrodzie" 
+      ns="53.2837484" we="16.73919171" km="4.7" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most nieczynnej linii kolejowej</opispunktu> 
+    </punkt>
+    <punkt id="5800" miejscowosc="Zabrodzie" 
+      ns="53.28283185" we="16.74043845" km="4.6" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Betonowe przyczółki po starym moście drogowym albo urządzeniu hydrotechnicznym do piętrzenia wody</opispunktu> 
+    </punkt>
+    <punkt id="5801" miejscowosc="Zabrodzie" 
+      ns="53.28186281" we="16.74331158" km="4.4" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Długi sklepiony przepust pod wiaduktem czynnej kolei, za nim nieco bardziej bystro</opispunktu> 
+    </punkt>
+    <punkt id="5802" miejscowosc="Krępsko" 
+      ns="53.26431782" we="16.76947179" km="1" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora pstrągarni. Przenoska z lewej strony, około 30 m leśną ścieżką</opispunktu> 
+    </punkt>
+    <punkt id="5803" miejscowosc="Krępsko" 
+      ns="53.26285663" we="16.77404386" km="0.5" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="5804" miejscowosc="Krępsko" 
+      ns="53.26320536" we="16.7746827" km="0.4" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora przy dawnym młynie. Przenoska lewym brzegiem na odległość około 30 m, pomost ułatwiający wyjście z wody, poniżej jazu bystro i kamieniście</opispunktu> 
+    </punkt>
+    <punkt id="5805" miejscowosc="Krępsko" 
+      ns="53.26330842" we="16.77764774" km="0.2" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski betonowy most drogowy, pod nim małe bystrze. Ostatnia możliwość podjęcia kajaków przed wypływem na Gwdę, jednak niezbyt wygodna</opispunktu> 
+    </punkt>
+    <punkt id="5806" miejscowosc="Krępsko" 
+      ns="53.26199257" we="16.77935358" km="0" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Rurzycy do Gwdy. Spływ wygodnie jest zakończyć przy Barze Krępsko, płynąc w dół Gwdą około 400 m. Po lewej stronie znajduje się slip i pomost ułatwiający wyjście z wody. W pobliżu znajduje się ogromny parking na nieograniczoną liczbę samochodów, a podczas oczekiwania na transport, można tu bardzo dobrze zjeść</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

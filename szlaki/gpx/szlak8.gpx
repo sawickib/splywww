@@ -1,0 +1,228 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.29805985" lon="19.32949196">
+<name>61.00</name>
+<desc>Jaz piętrzący wodę na potrzeby terenów rekreacyjnych w ośrodku wypoczynkowym. Poniżej jazu możliwość startu z wygodnym dojazdem do wody "Młynówki". Samo zejście nieco uciążliwe ze względu na wybetonowany stromy brzeg.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.29821570" lon="19.32688325">
+<name>60.80</name>
+<desc>Połączenie "Młynówki" z Widawką</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.29970917" lon="19.32261934">
+<name>60.50</name>
+<desc>Prożek 0,5 m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.29939421" lon="19.30919857">
+<name>59.50</name>
+<desc>Betonowa kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.29892867" lon="19.29445283">
+<name>58.50</name>
+<desc>Z lewej dopływ cieku niosącego sporą ilość wody. Pochodzi ona z odwodnienia pobliskiej kopalni odkrywkowej.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.29881677" lon="19.29109667">
+<name>58.30</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.29970136" lon="19.28251174">
+<name>57.70</name>
+<desc>Dopływ z prawej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.29987867" lon="19.28210198">
+<name>57.60</name>
+<desc>Wysoki most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.29987627" lon="19.27510478">
+<name>57.10</name>
+<desc>Jaz o wysokości 2m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.29991527" lon="19.26776490">
+<name>56.60</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.29710273" lon="19.24585183">
+<name>55.00</name>
+<desc>3 przęsłowy jaz o wysokości 1m ze sporym odwojem.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.29708575" lon="19.24549597">
+<name>54.90</name>
+<desc>Dopływ z prawej strony.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.30500048" lon="19.17473667">
+<name>47.90</name>
+<desc>Most drogowy. Miejsce wodowania na prawym brzegu. Dojazd do m.Żar z drogi Bełchatów - Szczerców, 2 km za m.Kluki skręcamy w lewo w las żwirową drogą i dalej już asfaltem do mostu.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.30609314" lon="19.16467303">
+<name>47.10</name>
+<desc>Dopływ z lewej strony.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.30546097" lon="19.15917080">
+<name>46.60</name>
+<desc>Możliwy dziki biwak w lesie z wygodnym dostępem do wody.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.30837249" lon="19.15535922">
+<name>45.90</name>
+<desc>Jaz przy młynie w postaci kamiennego progu pod mostem kratownicowym.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.31833548" lon="19.13645519">
+<name>43.80</name>
+<desc>L Niewidoczny z rzeki ośrodek wypoczynkowy - obok betonowego słupa leżącego w poprzek rzeki. Bar, noclegi, ryby w stawie.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.32396625" lon="19.12903367">
+<name>42.50</name>
+<desc>Dopływ z prawej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.32674778" lon="19.11809173">
+<name>41.60</name>
+<desc>Jaz na potrzeby małej elektrowni wodnej.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.32826646" lon="19.11324517">
+<name>41.20</name>
+<desc>Most drogowy z wodowskazem.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.33093445" lon="19.10768337">
+<name>40.70</name>
+<desc>Most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.34182639" lon="19.08435419">
+<name>38.40</name>
+<desc>Most betonowy na drodze nr 8. Tuż przed mostem rząd pali drewnianych w poprzek rzeki.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.34686479" lon="19.07774251">
+<name>37.60</name>
+<desc>P Ujście rzeki Pilsi.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.34794363" lon="19.05860853">
+<name>35.30</name>
+<desc>Pale w rzece. Spływać ostrożnie.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.35581870" lon="19.02309409">
+<name>31.30</name>
+<desc>Jaz przy zniszczonym młynie. Można spływać w prawo pod betonową kładką. Poniżej niewielki odwój.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.35567518" lon="19.02030126">
+<name>31.00</name>
+<desc>L Dopływ rzeki Krasówka. Wpada z wielkim hukiem, gdyż niesie dużo wody z odkrywki Szczerców.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.36201200" lon="19.01891600">
+<name>29.50</name>
+<desc>Gospodarstwo agroturystyczne Teresa Łojanowska tel.606 989 693 lub 43 67230 18. Noclegi w pokojach, pole biwakowe tuż przy rzece.
+
+</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.37192035" lon="19.02066670">
+<name>28.00</name>
+<desc>Most drogowy, kościół, sklepy. Za mostem rzeka się zwęża i nurt staje się szybszy - troszkę krzakoterapi.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.39073972" lon="19.00562214">
+<name>23.30</name>
+<desc>Możliwość dzikego biwaku po prawej stronie.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.39370624" lon="19.00693067">
+<name>23.00</name>
+<desc>We wsi znajdują się 2 sklepy.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="51.41063600" lon="18.99104900">
+<name>19.00</name>
+<desc>Po prawej stronie Gospodarstwo Agroturystyczne tel.505398129 - nocleg w pokojach, w stodole, pod namiotem. Sklep do godz 19.00, bar 3 km.
+</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.41542457" lon="18.99244475">
+<name>18.60</name>
+<desc>W tym miejscu znajdował się most, figuruje on jeszcze na starszych mapach. Obecnie pozostały jedynie przyczółki.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.41731294" lon="18.99176871">
+<name>18.40</name>
+<desc>Dopływ z prawej strony rzeki Chrząstawki.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.42133780" lon="18.98914076">
+<name>17.40</name>
+<desc>Most kolejowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.43563337" lon="18.97458014">
+<name>15.20</name>
+<desc>Most drogowy. Wygodne miejsce wodowania.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.45056435" lon="18.97361884">
+<name>12.70</name>
+<desc>P Ujście Grabi.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.45615884" lon="18.95743880">
+<name>11.20</name>
+<desc>L Ujście rzeki Nieciecz.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.46323428" lon="18.94618867">
+<name>9.60</name>
+<desc>Stała przenoska.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.46512535" lon="18.94345948">
+<name>9.30</name>
+<desc>Most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.47833199" lon="18.92441167">
+<name>6.80</name>
+<desc>Mostek.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.49275435" lon="18.89887509">
+<name>3.30</name>
+<desc>Resztki młyna - płynąć P. Przy mostku możliwoć wyjścia i wybrania wariantu płynięcia. Rzeka płynie dwoma korytami, które łączą się po 800 m. Można też zakończyć spływ - droga od mostu w prawo 1400 m do wsi Rembieszow przy sklepie.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.50665662" lon="18.87550530">
+<name>0.60</name>
+<desc>Mostek.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.50982664" lon="18.86892928">
+<name>0.00</name>
+<desc>Ujście Widawki do Warty. Dogodne miejsce do zakończenia spływu i odbioru kajaków znajduje się w miejscowości Pstrokonie - 1,2 km w dół Wartą.</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

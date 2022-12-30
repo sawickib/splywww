@@ -1,0 +1,190 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.79466532" lon="20.26520093">
+<name>80.60</name>
+<desc>5 przęsłowy jaz o wys. 0,5 m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.82209820" lon="20.27757728">
+<name>74.60</name>
+<desc>Możliwość dzikiego biwakowania z dojazdem do rzeki</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.82881000" lon="20.28017000">
+<name>73.60</name>
+<desc>Betonowy most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.82963000" lon="20.28269000">
+<name>73.50</name>
+<desc>Łąka 100 metrów poniżej mostu, na której można zabiwakować. 
+Właściciel prawdopodobnie istnieje, ale się nie objawił.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.83334705" lon="20.28452436">
+<name>72.00</name>
+<desc>Mała drewniana kładka.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.84082692" lon="20.29047311">
+<name>71.00</name>
+<desc>Most drogowy koło Wołuczy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.85526303" lon="20.29094609">
+<name>67.80</name>
+<desc>Rozwidlenie rzeki, która na odcinku około 2 km płynie dwoma równoległymi korytami. Spławna jest zarówno lewa i prawa odnoga.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.85566788" lon="20.29146216">
+<name>67.60</name>
+<desc>Drewniany mostek na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.86312000" lon="20.28603000">
+<name>66.00</name>
+<desc>Sklep spożywczy 100m w lewo od rzeki. Otwarty: pn-pt 8:30-18:30, sb 9:00-15:00</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="51.86364000" lon="20.28682000">
+<name>66.00</name>
+<desc>Mały most, ale z kamieniami pod spodem. Przy niskiej wodzie nie można przepłynąć.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.86406016" lon="20.28883130">
+<name>66.00</name>
+<desc>Betonowy most drogowy. Przed mostem połączenie koryt w jedno.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.88110441" lon="20.28992730">
+<name>61.20</name>
+<desc>Możliwość dzikiego biwaku na suchej łące na prawym brzegu. W pobliżu wybitne strome wzniesienie, prawdopodobnie grodzisko.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.88260032" lon="20.28941669">
+<name>60.90</name>
+<desc>Kładka betonowa koło Starej Rawy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.90010599" lon="20.30074074">
+<name>57.00</name>
+<desc>Sklep, 200 metrów w prawą stronę od rzeki (sklep w słabej kondycji, wkrótce może zostać zamknięty)</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="51.92853432" lon="20.28582535">
+<name>51.30</name>
+<desc>Po prawej stronie 30 metrów przenoski.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.93023832" lon="20.28587008">
+<name>51.00</name>
+<desc>Betonowy most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.94563000" lon="20.26649000">
+<name>0.00</name>
+<desc>Bardzo dobre miejsce biwakowe tuż przed Kamionem. 2 metrowa skarpa na lewym brzegu.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.94522002" lon="20.26371005">
+<name>45.00</name>
+<desc>W Kamionie jest kilka sklepów.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="51.94723009" lon="20.26109231">
+<name>44.70</name>
+<desc>Całkiem spory most drogowy na uczęszczanej drodze.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.96211444" lon="20.24837389">
+<name>41.00</name>
+<desc>Betonowy most drogowy koło Samic.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.97409909" lon="20.23627282">
+<name>38.80</name>
+<desc>Ładne piaszczyste zakole rzeki, tzw. "Oberwanka"</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.97379957" lon="20.23286239">
+<name>38.40</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.98035421" lon="20.22962494">
+<name>37.10</name>
+<desc>Przenoska lewym brzegiem - kilka metrów.
+Wygodny dostęp do wody.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.98441000" lon="20.22140000">
+<name>0.00</name>
+<desc>Łąka na lewym brzegu tuż przed jazem. Od rzeki oddzielona
+pojedyńczą linią drzew przy białym domku, gdzie
+mieszka właściciel. Przedmieście Skierniewic.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.98467276" lon="20.22085014">
+<name>36.10</name>
+<desc>Betonowy most drogowy nad jazem.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.99257000" lon="20.22194000">
+<name>0.00</name>
+<desc>Zagospodarowane miejsce biwakowe: stoliki, itp. Obok stadnina koni.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.99804000" lon="20.22319000">
+<name>0.00</name>
+<desc>Pole biwakowe na terenie ośrodka wczasowego. Opłaty nieznane.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.00151904" lon="20.21319056">
+<name>32.50</name>
+<desc>Metrowe spiętrzenie rzeki. Ale po co ? 
+Niektórzy to spływają.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.00478774" lon="20.21005339">
+<name>31.90</name>
+<desc>Zalesione zakole rzeki. Możliwość dzikiego biwakowania. Po ogromnej ilości śmieci sądzić można, że miejsce to jest znane i często wykorzystywane.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.01132247" lon="20.20637053">
+<name>30.80</name>
+<desc>Betonowy most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.05796003" lon="20.19370730">
+<name>19.70</name>
+<desc>3 przesłowy jaz z niewielkim odwojem, 2 stopniowy. Piętrzący wodę na potrzeby pobliskiego zalewu.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.06738483" lon="20.18221007">
+<name>17.20</name>
+<desc>Most autostrady</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.07910996" lon="20.17305039">
+<name>14.80</name>
+<desc>Most betonowy na drodze Skierniewice-Sochaczew koło Bolimowa.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.08174002" lon="20.17178617">
+<name>14.50</name>
+<desc>Łąka naprzeciw domu sołtysa. Wygodne miejsce wodowania. Łąka z pewnością jest czyjąś własnością, jednak właściciel nie objawił się.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.14233739" lon="20.11230067">
+<name>0.00</name>
+<desc>Ujście Rawki do Bzury.</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

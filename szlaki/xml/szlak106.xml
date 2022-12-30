@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="106" nazwa="Chrząstowa" wersja="2">
+<opis>Nieduża rzeka na Pojezierzu Krajeńskim o długości około 45 km. Wypływa z akwenu jezior w okolicach Człuchowa kierując się na południowy-zachód. Uchodzi do rzeki Szczyra na północny wschód od Lędyczka. Ze względu na ilość wody dostępna tylko dla jedynek. Szczerze polecam miłośnikom dziczy.
+Odcinek z Uniechowa do ujścia do Szczyrej zajmuje około 4-5 h.</opis> 
+    <punkt id="3683" miejscowosc="Buszkowo" 
+      ns="53.55945313" we="17.03011909" km="4" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Tama elektrowni Buszkowo. Przenoska prawym brzegiem po trawie około 20 m</opispunktu> 
+    </punkt>
+    <punkt id="5242" miejscowosc="Buszkowo" 
+      ns="53.56002588" we="17.05905677" km="6.5" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek. Poniżej płyniemy wąskim odcinkiem z kilkoma zwałkami, który przed kolejną tamą przechodzi w szerokie rozlewisko najeżone sterczącymi z wody pniakami drzew</opispunktu> 
+    </punkt>
+    <punkt id="3682" miejscowosc="Nierybie" 
+      ns="53.56430381" we="17.07913098" km="8.4" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz elektrowni w Nierybiu, nad nim most lokalnej drogi z Cierzni do Rozworów. Przy budynku znajduje się stolik z ławkami, a mili gospodarze nie mają nic przeciwko krótkiemu odpoczynkowi. Przenoska lewą stroną około 30 m, wodowanie z wysokiego brzegu</opispunktu> 
+    </punkt>
+    <punkt id="3681" miejscowosc="Pędziszewo" 
+      ns="53.57349259" we="17.10143793" km="10.9" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na drodze do Pędziszewa, za charakterystycznym zakrętem o 90 stopni w lewo. Tuż za mostem po prawej ogrodzone pożarowe ujęcie wody dla Lasów Państwowych. Rzeka za mostem jest jeszcze wąska ale z czasem przechodzi w coraz szersze rozlewisko. Po obu stronach ładne widoki leśne</opispunktu> 
+    </punkt>
+    <punkt id="5241" miejscowosc="Pędziszewo" 
+      ns="53.57494254" we="17.11821787" km="12.2" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek przy dużej fermie (po prawej)</opispunktu> 
+    </punkt>
+    <punkt id="3680" miejscowosc="Pędziszewo" 
+      ns="53.57929391" we="17.14419964" km="14.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Kamieniste bystrze poniżej ukośnego prożka. Betonowe przyczółki po starym moście (chyba), po którym pozostała jedynie stalowa rura. Po lewej stronie wiata edukacyjna dla turystów wraz z ławami i stołami. W tym miejscu rzeka rozgałęzia się dwa razy by niedługo połączyć się z powrotem w jedno koryto. Poniżej rzeka nieco przyspiesza i pojawia się kilka drobnych zwałek. Niestety pogarsza się jej estetyka ponieważ w wodzie pojawiają się jakieś kłębki-kłaczki po czymś, co jest wyrzucane do rzeki poniżej progu. Niżej z lewej strony Czrząstową zasila ciek w kolorze mleka (listopad 2017)</opispunktu> 
+    </punkt>
+    <punkt id="3679" miejscowosc="Uniechów" 
+      ns="53.58960313" we="17.15574429" km="16.8" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze z Uniechowa do Debrzna. Zaczyna się leśny odcinek z większą ilością zwałek. Nurt jest wolny, koryto szerokie, brzegi bagniste. Rozlewiska zarośnięte trzciną, niską roślinnością wodną, łozami i krzakami, przez które miejscami trzeba się przeciągać</opispunktu> 
+    </punkt>
+    <punkt id="3678" miejscowosc="Barkowo" 
+      ns="53.59978991" we="17.18198801" km="19" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze z Barkowa do Debrzna. Kilka kilometrów płyniemy łąkami  - szlak niezwykle trudny i tylko na jedynki. Niedostępne brzegi, bagnisto - łąkowe. Przepływamy pod starym mostem i po 0,5 godziny dopływamy do mostu na drodze Uniechów - Debrzno</opispunktu> 
+    </punkt>
+    <punkt id="3684" miejscowosc="Buszkowo" 
+      ns="53.55840388" we="17.02614663" km="3.7" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze nr 22 pomiędzy Lędyczkiem a Człuchowem. Wygodne miejsce zakończenia spływu, chociaż nie polecane ze względu na to, iż poniżej mostu rozpoczyna się atrakcyjny odcinek. Rzeka wpływa w leśne ostępy, przyspiesza i malowniczo kręci. Na tym odcinku pojawia się też kilka zwalonych drzew i głazy narzutowe w korycie. Pierwszym miejscem gdzie można wygodnie zakończyć spływ jest most w Lędyczku, już na Gwdzie</opispunktu> 
+    </punkt>
+    <punkt id="5243" miejscowosc="Piotrowice" 
+      ns="53.5532687" we="17.0028814" km="1.4" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek kratownicowy na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5244" miejscowosc="Piotrowice" 
+      ns="53.55201513" we="17.0002895" km="1.1" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Stary sklepiony most ceglany, nadgryziony nieco zębem czasu</opispunktu> 
+    </punkt>
+    <punkt id="3685" miejscowosc="Lędyczek" 
+      ns="53.55443075" we="16.98879175" km="0" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Chrząstowy do rzeki Szczyra</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

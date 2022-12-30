@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="203" nazwa="Głęboka" wersja="1">
+<opis>Prawy dopływ Drawy, do której uchodzi w Prostyni, poprzez Starą Drawę. Płynąc z zachodu na wschód, na znaczącym odcinku stanowi południowe ograniczenie poligonu drawskiego. Przyjemna altrernatywa dla odcinka poligonowego zasadniczej Drawy. 
+Odcinek z Żółwina do Prostyni, w lipcu 2021, 2xK1 zajął nieco ponad 2 h</opis> 
+    <punkt id="6667" miejscowosc="Żółwino" 
+      ns="53.29660795" we="15.6911904" km="6.8" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek na leśnej, gruntowej drodze do Jaworza, w pobliżu granicy poligonu [dojazd pożarowy nr 28]. Szerokość rzeczki 3-4 m, miejscami płytka i zamulona, w korycie kilka leżących małych drzewek i gałęzi, przez które trzeba się poprzepychać, jednak bez poważniejszych przeszkód. Woda przeźroczysta ale dno zamulone, więc po przepłynięciu pierwszego kajaka staje się czarna i mętna</opispunktu> 
+    </punkt>
+    <punkt id="6668" miejscowosc="Żółwino" 
+      ns="53.2965273" we="15.69471354" km="6.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Zamulony wypływ na jezioro Pańskie, pośród trzcin. Płynie się powoli, grzęznąc w płytkim, miękkim mule. Jezioro Pańskie jest zielone i mętne, dno ma muliste i nie zachęca do kąpieli</opispunktu> 
+    </punkt>
+    <punkt id="6669" miejscowosc="Żółwino" 
+      ns="53.29606886" we="15.71144549" km="5.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Wschodni kraniec jeziora Pańskiego. Oznakowany leśny biwak, wiaty, tablice informacyjne, slip, dojazd do wody, mnóstwo miejsca na samochody. Stoi tu też tablica z oznakowaniem szlaku</opispunktu> 
+    </punkt>
+    <punkt id="6670" miejscowosc="Żółwino" 
+      ns="53.29714153" we="15.71102806" km="5.2" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Pańskiego, oznakowany rombem. Zaraz za wypływem drewniana, wędkarska kładka oraz rzędy pali w korycie rzeki. Szerokość 6-7 m, spływanie bez przeszkód</opispunktu> 
+    </punkt>
+    <punkt id="6671" miejscowosc="Jaworze" 
+      ns="53.29893535" we="15.71029462" km="5" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Zamaskowany kępą trzcin, wypływ na spore jezioro Trzebuń. W porównaniu z jeziorem Pańskim, tu woda jest czysta i klarowna, o charakterystycznym, szmaragdowym kolorze</opispunktu> 
+    </punkt>
+    <punkt id="6672" miejscowosc="Jaworze" 
+      ns="53.30874101" we="15.74807576" km="2" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Oznakowany rombem, wypływ z jeziora Trzebuń. Dalej 200 m trzcin, sitowia, grążeli i gęstej roślinności wodnej, aż do wyraźnego przewężenia i wpłynięcia rzeki do lasu. Przy odrobinie szczęścia, można odnaleźć dość wyraźną linię nieco rzadszej rośliności. Mijając romb z lewej strony należy kierować się dokładnie w kierunku wschodnim</opispunktu> 
+    </punkt>
+    <punkt id="6673" miejscowosc="Jaworze" 
+      ns="53.30858109" we="15.75106139" km="1.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">W miejscu wypływu rzeki z jeziora znajdują się, posadowione poprzecznie, charakterystyczne trzy drewniane pale. Dalej fragment ładnej rzeki, o krystalicznej, wystarczająco głębokiej wodzie, z bujną roślinnością podwodną. Po drodze kilka łatwych drzewek do przeskoczenia</opispunktu> 
+    </punkt>
+    <punkt id="6674" miejscowosc="Jaworze" 
+      ns="53.30913374" we="15.75781743" km="1.3" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Łukowy, betonowy mostek na drodze do Prostyni. Dojazd pożarowy nr 11. Za mostem spore głazy, stalowa rura na lini wody w poprzek nurtu oraz sekwencja kilku, nieco bardziej wymagających zwałek, do pokonania których wskazana jest współpraca zespołowa lub przenoska</opispunktu> 
+    </punkt>
+    <punkt id="6675" miejscowosc="Prostynia" 
+      ns="53.31087594" we="15.75961892" km="1" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Rzeka wypływa z lasu na otwartą przestrzeń zarośniętego jeziora i zaczyna meandrować</opispunktu> 
+    </punkt>
+    <punkt id="6676" miejscowosc="Prostynia" 
+      ns="53.30919777" we="15.76788604" km="0.2" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana, zniszczona, niska kładka. W pobliżu rzeki, na lewym brzegu znajduje się grodzisko</opispunktu> 
+    </punkt>
+    <punkt id="6677" miejscowosc="Prostynia" 
+      ns="53.30907708" we="15.76979857" km="0" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście do Strarej Drawy. W przeciwieństwie do ciepłej wody rzeki Głębokiej, woda w Starej Drawie jest o kilka stopni chłodniejsza. W dół, jeszcze kilka łatwych zwałek i pośród trzcin wpływa się do zasadniczej Drawy</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

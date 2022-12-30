@@ -1,0 +1,100 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.27121998" lon="16.86517751">
+<name>10.40</name>
+<desc>Most na drodze asfaltowej pomiędzy Pleceminem a Paruszką, pod mostem przepust rurowy. Wygodne miejsce rozpoczynania spływu, w pobliżu leśny parking, na którym można pozostawić samochody. Poniżej odcinek leśny, kręty, świerzo (listopad 2017) czyszczony i pogłębiony</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.26778357" lon="16.85877752">
+<name>9.50</name>
+<desc>Próg nr 1, pochylnia o różnicy poziomów około 1 m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.26731491" lon="16.85594650">
+<name>9.20</name>
+<desc>Próg nr 2, pochylnia o różnicy poziomów około 0,8 m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.26607443" lon="16.85455705">
+<name>8.80</name>
+<desc>Próg nr 3, pochylnia o różnicy poziomów około 0,7 m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.26550161" lon="16.84967958">
+<name>8.40</name>
+<desc>Próg nr 4 o różnicy poziomów około 0,8 m, przy nim po lewej ambona myśliwska</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.26433994" lon="16.84823813">
+<name>8.20</name>
+<desc>Wypływ na ciąg zarośniętych jeziorek użytku ekologicznego "Bagna Pszczółkowskiego". Najwygodniej jest przebić się na wprost wzdłuż lini drzew do lewego brzegu i skręcić w prawo płynąc wzdłuż lewego brzegu. Ten wariant jest najmniej uciążliwy. W lini drzew stoi prowizoryczna ambona myśliwska, z której można prześledzić najlepszą trasę spływu</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.26378301" lon="16.84445664">
+<name>7.90</name>
+<desc>Próg nr 5 piętrzący jeziorko, próg 0,6 m + pochylnia zakończona wielkimi głazami, spływać ostrożnie. Poniżej kolejne mocno zarośnięte roślinnością jeziorko</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.26442586" lon="16.83830398">
+<name>7.30</name>
+<desc>Próg nr 6 o wysokości około 1 m, pietrzący jeziorko, za nim krótka pochylnia</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.26727965" lon="16.83193456">
+<name>6.70</name>
+<desc>Próg nr 7 - pochylnia o różnicy poziomów około 1,5 m.  Poniżej kolejne jeziorko</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.26710531" lon="16.82558441">
+<name>6.20</name>
+<desc>Próg nr 8 o wysokości około 1m, za nim pochylnia. Na krawędzi progu wystają 2 metalowe prowadnice, które dzielą go na 3 segmenty. Przy większej wodzie szyny te są mało widoczne i można uszkodzić kajak</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.26537055" lon="16.81676931">
+<name>5.40</name>
+<desc>Próg nr 9 - pochylnia o różnicy poziomów około 3 m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.26194187" lon="16.81708913">
+<name>4.80</name>
+<desc>Prożek nr 10, 0,5 m + pochylnia, na progu bród na leśnej drodze i płytko</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.25823939" lon="16.81138107">
+<name>4.10</name>
+<desc>Próg nr 11 - pochylnia o różnicy poziomów około 3 m. Poniżej odcinek bardziej bystry, kręty i kamienisty, w wąskiej dolinie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.25307578" lon="16.80540669">
+<name>3.20</name>
+<desc>Próg nr 12 - podwójna pochylnia o różnicy około 4m, rozdzielona odcinkiem poziomym. Poniżej wąsko, wzdłuż obydwu brzegów drewniane paliki</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.25141085" lon="16.80006320">
+<name>2.60</name>
+<desc>Mostek na leśnej pożarowej drodze nr 31, przy skrzyżowniu z drogą nr 6. Zasadniczo jest to pierwsze miejsce od startu, do którego można dotrzeć samochodem nad samą rzekę (np. w sytuacji awaryjnej), należy jednak mieć na uwadze, że są to drogi leśne i jazda po nich nie spotka się z przychylnością służb leśnych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.24876780" lon="16.79134561">
+<name>1.60</name>
+<desc>Próg nr 14 - podwójna pochylnia o różnicy poziomów około 4 m. Poniżej pojedyncze zwałki i bardziej bystra woda</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.24883208" lon="16.78647724">
+<name>1.00</name>
+<desc>Most na ruchliwej drodze nr 11. Poniżej odcinek zwałkowy z kamieniami w korycie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.24385984" lon="16.78219350">
+<name>0.00</name>
+<desc>Ujście Pękawnicy do Gwdy. Wypływ przysłonięty jest trzcinami i słabo widoczny od strony Gwdy. Kilkanaście minut w dół Gwdą po lewej stronie znajduje się restauracja "Nad Rozlewiskiem" z dużym parkingiem, gdzie wygodnie jest zakończyć spływ (za zgodą właściciela terenu)</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,100 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.18056441" lon="17.39956520">
+<name>10.90</name>
+<desc>Most kratownicowy na lokalnej drodze. Wygodne miejsce wodowania i startu, choć szerokość rzeki w tym miejscu nie przekracza 3m.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.17818567" lon="17.39082287">
+<name>10.15</name>
+<desc>Most na ruchliwej drodze z Oleśnicy do Jelcza.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.17809395" lon="17.39059523">
+<name>10.10</name>
+<desc>Mały prożek z bystrzem a zaraz za nim stalowa rura nisko nad wodą - możliwość kolizji na sporej prędkości.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.17627733" lon="17.38844445">
+<name>9.90</name>
+<desc>Niski betonowy prożek</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.17458785" lon="17.38644705">
+<name>9.70</name>
+<desc>Niski betonowy prożek</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.17131428" lon="17.38256452">
+<name>9.20</name>
+<desc>Niski betonowy prożek</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.17016119" lon="17.37648038">
+<name>8.70</name>
+<desc>Niski betonowy prożek</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.16869309" lon="17.36633156">
+<name>8.00</name>
+<desc>Most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.16019490" lon="17.36160574">
+<name>6.80</name>
+<desc>Most na lokalnej drodze. Wygodny dostęp do wody.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.15936005" lon="17.36057750">
+<name>6.70</name>
+<desc>Prożek około 0,5 m, nad nim betonowa kładka</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.15171405" lon="17.35228097">
+<name>5.60</name>
+<desc>Mostek na polnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.15054910" lon="17.35169860">
+<name>5.50</name>
+<desc>Niski prożek, nad nim betonowa kładka</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.14441091" lon="17.35045170">
+<name>4.80</name>
+<desc>Mostek betonowy na polnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.13144888" lon="17.34719811">
+<name>3.30</name>
+<desc>Mostek betonowy na polnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.12986639" lon="17.34681947">
+<name>3.10</name>
+<desc>Niska betonowa kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.12686011" lon="17.33858012">
+<name>2.40</name>
+<desc>Betonowy mostek na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.11967292" lon="17.32400844">
+<name>0.70</name>
+<desc>Betonowy mostek na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.11544367" lon="17.31808765">
+<name>0.00</name>
+<desc>Ujście Świerznej do Widawy</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="188" nazwa="Ilanka" wersja="1">
+<opis>Prawy dopływ środkowej Odry, przepływający przez Puszczę Rzepińską w woj. lubuskim. Źródeł rzeki doszukiwać się należy w małych jeziorkach na południe od miasteczka Torzym. Następnie, kilkukrotnie zmieniając kierunek płynie wąską doliną przez bezkresne lasy, a miejscami rozlewa się tworząc zabagnione niecki zastoiskowe i olszowe łęgi. W górnym fragmencie rzeki bardzo dobrze mają się bobry, co widoczne jest w architekturze rzeki i co ma swoje bezpośrednie przełożenie na atrakcyjność, trudność i uciążliwość spływu. Odcinek ten objęty jest ochroną rezerwatową. Poniżej Rzepina rzeka robi się szersza i głębsza, a ze względu na to, że wykorzystywana jest przez spływy komercyjne jej trudność i uciążliwość maleje. Wyjątek stanowi ostatni, przyujściowy odcinek od Rybocic do Świecka, gdzie rzeka wpływa w łęgi odrzańskie. Ten fragment Ilanki, mimo regulacji mocno zarasta, co w połączeniu z koniecznością pokonania powalonych drzew czyni z niego odcinek dość wymagający. Swego czasu w wielu miejscach rzeka była wykorzystywana gospodarczo, a do dnia dzisiejszego zachowało się sporo artefaktów widocznych w terenie w postaci prożków i innych budowli hydrotechnicznych. Na przedwojennych mapach udało się zlokalizować kilkanaście z nich, głównie młynów: Vorder (Torzym I), Mittel Muhle (Torzym II), Hintermuhle (Rożnówka), Pinnower Muhle (Pniów), Mullerthal (Prześlice), Klauswalder Muhle (Rojek), Busch Muhle (Starościn), Reppen (Rzepin), Heide Muhle (Rzepinek), Neue Muhle (Grądnik), Walk Muhle (Kamienny Bród), Augusta Muhle (Nowy Młyn), Matschdorf (Maczków), Pulverbrug ? papiernia, Grosse Muhle (Rybocice).
+Przy wyższych, wiosennych stanach wody, odcinek Bobrówko - Starościn zajmuje około 5h,
+Rzepin - Maczków 4,5h, natomiast Maczków - ujście do Odry w Świecku 5,5h.
+Wodowskaz na zastawce Nowy Świat [22,9 km], wskazujący poziom 30 gwarantuje bardzo dobrą wodę na całym odcinku. Równie dobre warunki wodne na reprezentowanym odcinku zapewnia poziom 052 na wodowskazie Maczków [16,3 km]</opis> 
+    <punkt id="5921" miejscowosc="Bobrówko" 
+      ns="52.35398299" we="15.00334427" km="49.7" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w środku lasu. Wygodne miejsce wodowania, chociaż poziomu wody umożliwiającego swobodny spływ, w tym miejscu należy spodziewać się wyłącznie wczesną wiosną i to po śnieżnej zimie. Poniżej odcinek zwałkowy, bogaty w tamy bobrowe, dzięki którym nurt rzeki jest powolny. Poza tym kompletna dzicz i głusza</opispunktu> 
+    </punkt>
+    <punkt id="5922" miejscowosc="Rojek" 
+      ns="52.35706484" we="14.95547472" km="46" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Budynek nieczynnego młyna. Stopień wodny w postaci pochylni i prógu o wysokości około 1m. Spływać ostrożnie ponieważ prożek jest stosunkowo wąski</opispunktu> 
+    </punkt>
+    <punkt id="5923" miejscowosc="Rojek" 
+      ns="52.35716063" we="14.95372167" km="45.8" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most drogowy z możliwością dojazdu w pobliże wody. Trawiasta łąka umożliwiająca dziki biwak. Poniżej znacznie mniej drewna w wodzie. Rzeka dotąd powolna, piętrzona przez bobrowe tamy poniżej mostu przyspiesza, za to miejscami jest trochę płytko. Pod koniec odcinka wpływa w zabagnione niecki zastoiskowe, robi się szeroko, głębiej a nurt zwalnia</opispunktu> 
+    </punkt>
+    <punkt id="5924" miejscowosc="Starościn" 
+      ns="52.36311118" we="14.87343933" km="39.1" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek poprzedzony podwójnym prożkiem z kamieniami. Za mostkeim po lewej wygodne miejsce dostępu do wody z betonowych schodków. Dobre miejsce na zakończenie etapu</opispunktu> 
+    </punkt>
+    <punkt id="5925" miejscowosc="Rzepin" 
+      ns="52.33898659" we="14.83816119" km="31.5" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na obwodnicy miasta. Możliwe wodowanie pośród trzcin, chociaż skarpa drogi stroma, a teren  nieco podmokły</opispunktu> 
+    </punkt>
+    <punkt id="5926" miejscowosc="Rzepin" 
+      ns="52.33878715" we="14.83818628" km="31.4" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Tuż za mostem rzeka rozgałęzia się. Nie ma znaczenia którą odnogą się popłynie, bowiem obie łączą się po chwili. Prawa odnoga jest nieco krótsza</opispunktu> 
+    </punkt>
+    <punkt id="5927" miejscowosc="Rzepin" 
+      ns="52.33578477" we="14.83324848" km="30.7" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Ceglany most kolejowy. Poniżej mostu kilka łatwych zwałek</opispunktu> 
+    </punkt>
+    <punkt id="5928" miejscowosc="Rzepin" 
+      ns="52.33359021" we="14.83009486" km="30.3" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Z prawej strony dopływ niedoczyszczonych ścieków, szczególnie bogatych w wonne i pieniące detergenty. Niżej kilka łatwych zwałek</opispunktu> 
+    </punkt>
+    <punkt id="5929" miejscowosc="Rzepin" 
+      ns="52.33057532" we="14.83050497" km="29.8" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="5930" miejscowosc="Rzepin" 
+      ns="52.33016625" we="14.83027868" km="29.7" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most autostradowy A2, pod mostem bystrze</opispunktu> 
+    </punkt>
+    <punkt id="5931" miejscowosc="Rzepinek" 
+      ns="52.32732141" we="14.8310873" km="29.3" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowy mostek na leśnej drodze w pobliżu budowanych stawów hodowlanych. Stał tu niegdyś młyn Heide Muhle. Przyczółki mostu wzmocnione są wielkimi głazami, co zwęża koryto i sprawia, że pod mostem tworzy się próg ze znaczną energią i odwojem. Dodatkowym utrudnieniem jest zatopiony po środku głaz [lub coś innego, czego nie widać], w który uderza się z impetem podczas spływania progu. W miejscu tym często zdarzają się wywrotki, zwłaszcza mało doświadczonych kajakarzy, zalecana jest więc przenoska lewym brzegiem, do małej zatoczki ze źrodełkiem [40 m]. Dla chcących spłynąć progiem zaleca się zrobić to na znacznej prędkości, trzymając się lewej lub prawej strony aby ominąć zatopiony głaz. Poniżej ładny odcinek leśny ze zwałkami wyraźnie dostosowanymi do spływów komercyjnych</opispunktu> 
+    </punkt>
+    <punkt id="5932" miejscowosc="Liszki" 
+      ns="52.3121859" we="14.82113916" km="26.6" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niewielki prożek w prawo, w zasadzie bystrze, ale z zakrętem. Po środku pale, na które wyrzuca nurt. Miejsce to sprawia trudności mniej wprawnym. Kiedyś prawdopodobnie była tu zastawka pietrząca wodę i kierująca ją w lewo, na potrzeby pobliskiego młyna Neue Muhle</opispunktu> 
+    </punkt>
+    <punkt id="5933" miejscowosc="Kamienny Bród" 
+      ns="52.3095398" we="14.81588448" km="26" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Rzepi z lewej strony. Kiedyś działał tu młyn Neue Muhle, na późniejszych mapach pojawiający się pod nazwą Edelgarden</opispunktu> 
+    </punkt>
+    <punkt id="5934" miejscowosc="Kamienny Bród" 
+      ns="52.30788018" we="14.81334615" km="25.6" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek w prawo z kamieniami w nurcie. Spływać ostrożnie. Poniżej małe rozlewisko przy łące oznakowanej jako prywatna. Prożek piętrzył niegdyś wodę na potrzeby młyna Walk Muhle, dzisiaj zasilane są tu pobliskie stawy</opispunktu> 
+    </punkt>
+    <punkt id="5935" miejscowosc="Kamienny Bród" 
+      ns="52.30746426" we="14.81267741" km="25.5" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Dwie drewniane kładki w bliskim sąsiedztwie</opispunktu> 
+    </punkt>
+    <punkt id="5936" miejscowosc="Nowy Młyn" 
+      ns="52.30676642" we="14.81189827" km="25.4" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy omszały most na lokalnej drodze, wygodne miejsce rozpoczynania i kończenia etapów</opispunktu> 
+    </punkt>
+    <punkt id="5937" miejscowosc="Nowy Młyn" 
+      ns="52.30458183" we="14.81062933" km="25.1" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Hydroelektrownia w miejscu po dawnym młynie Augusta Muhle. Przyjaźnie nastawiony gospodarz oferuje wynajęcie pokoi i rozbicie namiotów. Wygodna przenoska 70 m po trawie. Wyjście z wody na niskie betonowe nabrzeże wyścielone gumową wykładziną lub tuż obok, na pomost z kratownicy. Wodowanie na końcu cypla pomiędzy młynówkami. Dalej odcinek leśny z malowniczymi omszałymi drzewami i zwałkami bardziej wymagającymi w porównaniu do odcinka wyższego</opispunktu> 
+    </punkt>
+    <punkt id="5938" miejscowosc="Nowy Świat" 
+      ns="52.29439113" we="14.81090361" km="24" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pochylnia - bystrze przy łące po lewej stronie. Pod lasem widoczne wiaty i ławki, być może powstaje tu pole biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="5939" miejscowosc="Nowy Świat" 
+      ns="52.29045965" we="14.80358669" km="22.9" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka z wodowskazem na lewym filarze. Wskazania poziomu 30 oznaczają bardzo dobre warunki wodne. Koniec lasu i zwałek, dalej zatrzcinione łąki</opispunktu> 
+    </punkt>
+    <punkt id="5940" miejscowosc="Trzęsigłowa" 
+      ns="52.28447308" we="14.7912418" km="21.7" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Betonowe przyczółki mostu pośród rozległych, zabagnionych i zatrzcinionych łąk</opispunktu> 
+    </punkt>
+    <punkt id="5941" miejscowosc="Maczków" 
+      ns="52.27412422" we="14.78187011" km="20.3" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Bezimienny dopływ z lewej strony na granicy otwartego terenu i lasu. Odcinek spokojnej wody w wąskiej dolince - wąwozie z bardzo malowniczymi zwałkami z grubych, starych, omszałych drzew. W takiej scenerii dopływa się do pierwszych zabudowań Maczkowa, gdzie rzekę całkowicie wyczyszczono z przeszkód. Wbrem panującej powszechnie opinii, odcinek z Nowego Młyna do Maczkowa jest równie, jesli nie bardziej widokowy od wyższego, z Rzepina do Nowego Młyna</opispunktu> 
+    </punkt>
+    <punkt id="5942" miejscowosc="Maczków" 
+      ns="52.2743079" we="14.74642558" km="16.5" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Gminny plac po prawej stronie. Wygodne miejsce kończenia etapu z dojazdem do samej wody</opispunktu> 
+    </punkt>
+    <punkt id="5943" miejscowosc="Maczków" 
+      ns="52.27467304" we="14.74573596" km="16.4" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Most drogi nr 134, pod nim próg piętrzący wodę na potrzeby hydroelektrowni. Wygodne wodowanie po lewej stronie w pobliżu zgromadzonych artefaktów z epoki, związanych z produkcją czystej energii odnawialnej</opispunktu> 
+    </punkt>
+    <punkt id="5944" miejscowosc="Maczków" 
+      ns="52.27499228" we="14.7443145" km="16.3" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na zakręcie rzeki w lewo nowy wodowskaz IMGW, możliwy do odczytania z prawego brzegu. Wskazania poziomu 052 gwarantują bardzo dobrą wodę na reprezentowanym odcinku. Poniżej odcinek leśny z żeremiami bobrowymi oraz zwałkami. Większość zwałek jest przecięta, jednak kilka wymaga gimnastyki i współpracy </opispunktu> 
+    </punkt>
+    <punkt id="5945" miejscowosc="Rybocice" 
+      ns="52.28023529" we="14.69964934" km="11.9" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Most ruchliwej drogi nr 29 Słubice - Krosno Odrzańskie</opispunktu> 
+    </punkt>
+    <punkt id="5946" miejscowosc="Rybocice" 
+      ns="52.28067599" we="14.69770515" km="11.8" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Sklepiony niski mostek na lokalnej drodze. Podwójny przepust, który przy wyższej wodzie może stanowić problem. Za mostem, po lewej stronie wygodne miejsce do lądowania i wodowania z dostępem do wody po kamiennych schodkach. Spory plac na samochody z dojazdem do samej wody. W pobliżu ruiny papierni Pulverkrug, o której mówi pamiątkowa tablica kamienna posadowiona na środku placu</opispunktu> 
+    </punkt>
+    <punkt id="5947" miejscowosc="Rybocice" 
+      ns="52.28038673" we="14.69592196" km="11.6" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niewielki prożek przy ruinach papierni</opispunktu> 
+    </punkt>
+    <punkt id="5948" miejscowosc="Rybocice" 
+      ns="52.27967043" we="14.69240753" km="10.9" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Ładny wysoki most na nieczynnej linii kolejowej, z widniejącą datą 1906</opispunktu> 
+    </punkt>
+    <punkt id="5949" miejscowosc="Rybocice" 
+      ns="52.27702291" we="14.67835696" km="9.1" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mostek ceglany, w nomenklaturze wędkarskiej powszechnie zwany ceglakiem. Niski, 3 przęsłowy przepust ze stalowym drutem umieszczonym w poprzek nurtu w każdym przęśle. Za mostkiem prożek o wysokości 80 cm, poniżej którego wbite w dno wzdłużne rzędy pali, umożłiwiają gromadzenie się spływających gałęzi i pni drzew. Przed podjęciem decyzji o spłynięciu progiem zachęcam do sprawdzenia, czy pod nim nie ma ewentualnej niespodzianki. Ponizej malowniczy odcinek bez większych przeszkód</opispunktu> 
+    </punkt>
+    <punkt id="5950" miejscowosc="Rybocice" 
+      ns="52.28255413" we="14.62975951" km="4.7" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, poniżej ruin dawnej budowli hydrotechnicznej. Koniec odcinka śródleśnego, dalej rzeka wypływa na łęgi odrzańskie. Wygodne miejsce zakończenia etapu z dojazdem w pobliże wody. Poniżej odcinek zarośnięty gęstą roślinnością pływającą i trzcinami, dość uciążliwy z pojedynczymi zwałkami</opispunktu> 
+    </punkt>
+    <punkt id="5951" miejscowosc="Rybocice" 
+      ns="52.28346084" we="14.61500606" km="3.4" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Ceglany sklepiony most na lokalnej drodze. Dalej odcinek mniej zarośnięty za to z większą ilością powalonych drzew, mocno uciążliwy, ale mimo obwałowania stosunkowo malowniczy. Pokonanie niektórych zwałek jest dość kłopotliwe ze względu na sporą głębokość rzeki na tym odcinku i brak możliwości odepchnięcia się wiosłem od dna. Poza tym tworzą się tu zatory ze spływającej roślinności</opispunktu> 
+    </punkt>
+    <punkt id="5952" miejscowosc="Świecko" 
+      ns="52.30143564" we="14.59108195" km="0.6" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Widoczna z daleka po lewej stronie stacja transformatorowa przy przepompowni, oznacza ostatni most na Ilance, w Świecku. Robi się więcej miejsca na rzece, znikają zwałki i roślinność. Ostatnie kilkaset metrów do Odry płynie się swobodnie, pomiędzy suchymi konarami powalonych drzew</opispunktu> 
+    </punkt>
+    <punkt id="5953" miejscowosc="Świecko" 
+      ns="52.30532478" we="14.58511839" km="0" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Ilanki do Odry. Wygodnie można wylądować na piaszczystej plaży przy pierwszej główce po prawej. Dochodzi tu gruntowa droga, którą można dojechać samochodem od strony wsi do samej rzeki</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

@@ -1,0 +1,58 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.97082438" lon="17.54267054">
+<name>5.50</name>
+<desc>Mostek drewniany na leśnej drodze przy wypływie rzeki z jeziora Głuche Duże. Wygodne miejsce startu, chociaż oficjalny dojazd samochodem w to miejsce wymaga zezwolenia służb leśnych. Początek rezerwatu Dolina Kulawy, w obrębie którego poruszanie się dozwolone jest wyłącznie po wyznaczonych szlakach, a rzeka nim nie jest. Woda krystalicznie czysta, za to sam wypływ nieco zatrzciniony. Poniżej odcinek leśny z kilkoma zwałkami. Rzeka o słabym nurcie, zmiennej szerokości i piaszczystym dnie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.96452094" lon="17.53900246">
+<name>4.60</name>
+<desc>Całkowicie zarośnięte trzcinami ujście rzeki Kulawa do j. Małe Głuche. Brak nurtu i narzucającego się kierunku przeciągania przez trzciny może sprawić drobny kłopot</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.96087410" lon="17.53695310">
+<name>4.10</name>
+<desc>Łąka z rozpadającym się pomostem, nadaje się do biwakowania na dziko, szkoda tylko, że nie ma cienia [wg opisu z 2006]. 
+Biwakując tu należy pamiętać, iż jesteśmy na terenie rezerwatu przyrody, który już w swej definicji ma szereg obostrzeń</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.96117255" lon="17.53289295">
+<name>4.00</name>
+<desc>Zatrzciniony przesmyk na drugą część jeziora</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.95570674" lon="17.53239008">
+<name>3.40</name>
+<desc>50cm jaz zamykający jezioro Małe Głuche. Możliwe spłynięcie. Mostek nad jazem. Jaz można spłynąć, ale tylko w dół rzeki, jeśli płyniemy pod prąd obowiązkowa, ale krótka 10m przenoska [wg opisu z 2006].
+Mostek a pod nim jaz 2 przęsłowy piętrzący wody jeziora. Odpływ w lewo na młynówkę założony jest workami z piaskiem. Przed jazem na górnej wodzie po prawej stronie stoi wodowskaz, wskazania wartości 58 gwarantują wystarczającą ilość wody na płyniętym odcinku. Jaz można spłynąć ale warto uważać na głowę z powodu niskiego mostku. Zaraz próg około 1 m potem bystro po kamieniach przez trzciny. Poniżej nurt stopniowo zwalnia i rzeka kręci między drzewami</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.95053003" lon="17.53301723">
+<name>2.80</name>
+<desc>Po lewej stronie zabudowania i wiata turystyczna, tablice informacyjne. Koniec rezerwatu przyrody</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.93581985" lon="17.53383710">
+<name>0.70</name>
+<desc>Most na drodze z Laski do Parzyna i Widna. W osi mostu rząd pali, a wzdłuż przęseł nieco bystro</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.93320380" lon="17.53291065">
+<name>0.40</name>
+<desc>Wypływ na małe jezioro Szeczonek</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.93060800" lon="17.52879920">
+<name>0.00</name>
+<desc>Ujście rzeki Kulawy do Zbrzycy
+</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

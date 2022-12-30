@@ -1,0 +1,130 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.81713072" lon="15.55671645">
+<name>51.80</name>
+<desc>Wygodne miejsce startu spływu ze śródleśnej polany. 3 przęsłowy jaz o konstrukcji betonowej ramy i wysokości około 1,5 m. Przy wyższych stanach wody możliwe jest spłynięcie jazu, poniżej jednak tworzy się wówczas niewielki odwój. Najwygodniej jest spływać środkowym przęsłem, wcześniej schylając się pod drewnianą kładką.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.82857703" lon="15.56111929">
+<name>49.40</name>
+<desc>Stalowe druty - pastuchy elektryczne poprowadzone nisko nad taflą wody</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.85042570" lon="15.55007201">
+<name>43.90</name>
+<desc>Drewniany mostek za leśniczówką na drodze leśnej pomiędzy miejscowościami Międzyrzecze i Iglice, wygodne miejsce dostępu do wody</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.85143155" lon="15.54839316">
+<name>43.70</name>
+<desc>Ujście z prawej strony rzeczki Podleśna. W odległości kilkuset metrów od tego miejsca znajduje się Dom Myśliwski SOKOŁÓWKA Koła Łowieckiego SOKÓŁ w Świdwinie.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.87104395" lon="15.53754076">
+<name>39.70</name>
+<desc>Z prawej strony ujście potoku Leźnica</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.88045144" lon="15.53179332">
+<name>37.40</name>
+<desc>Drewniany most na leśnej drodze, dojazd pożarowy nr 15</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.89194099" lon="15.53063646">
+<name>35.30</name>
+<desc>Z prawej strony wpada rzeka Czernica znacznie poprawiając stosunki wodne</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.89555606" lon="15.52764229">
+<name>34.60</name>
+<desc>Przebudowa mostu na leśnej drodze - dojazd pożarowy nr 16 w pobliżu skrzyżowania z dojazdem pożarowym nr 14 (występują różnice w oznakowaniu w terenie i na mapach)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.92705399" lon="15.48231568">
+<name>25.40</name>
+<desc>Ujście z prawej rzeki Rzecznica</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.92653879" lon="15.48021198">
+<name>25.30</name>
+<desc>Most nieczynej linii kolejowej, ścieżka rowerowa</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.92763434" lon="15.48004484">
+<name>25.10</name>
+<desc>Most drogi nr 6 Szczecin - Koszalin. Bardzo wygodne miejsce wodowania. Trawiasty brzeg w bezpośrednim sąsiedztwie dużego parkingu z nieograniczoną ilością miejsca na samochody. Na parkingu znajduje się również mały sklep spożywczy. Od tego miejsca rzeka, choć w dalszym ciągu miejscami zwałkowa, nie jest już tak mocno uciążliwa, a niektóre odcinki są uregulowane</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.93296016" lon="15.47899959">
+<name>24.40</name>
+<desc>Jaz małej elektrowni wodnej</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.95472023" lon="15.43976780">
+<name>19.40</name>
+<desc>Betonowy most drogowy pomiędzy Kiełpinem a Starninem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.95442247" lon="15.41974323">
+<name>17.40</name>
+<desc>Mostek betonowy - nieczynna zastawka </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.95529846" lon="15.41934027">
+<name>17.30</name>
+<desc>Jaz małej elektrowni wodnej</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.95655867" lon="15.41400564">
+<name>16.60</name>
+<desc>Przepust rurowy przy budowie drogi S6</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.95507087" lon="15.41011392">
+<name>16.20</name>
+<desc>Niski most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.95935065" lon="15.37183902">
+<name>11.80</name>
+<desc>Most drogowy pomiędzy miejscowościami Brojce i Strzykocin, zaraz za nim po lewej zabudowania nieczynnego młyna</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.96088470" lon="15.37095746">
+<name>11.60</name>
+<desc>Most nieczynnej linii kolejowej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.98560451" lon="15.36360273">
+<name>7.90</name>
+<desc>Jaz przy stawach hodowlanych</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.98715068" lon="15.36328938">
+<name>7.70</name>
+<desc>Most drogowy pomiędzy miejscowościami Mołstowo, Strzykocin i Dargosław</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.99312196" lon="15.31364296">
+<name>2.00</name>
+<desc>Most na drodze z Bielikowa do Żukowa, pod nim małe bystrze. Jest to ostatnie miejsce z możliwością podjęcia kajaków z wody przed wpłynięciem na Regę</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.99200855" lon="15.31202141">
+<name>1.80</name>
+<desc>Otwarta zastawka</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.98652299" lon="15.29395014">
+<name>0.00</name>
+<desc>Ujście Mołstowej (Mołstowy) do Regi. Najbliższe wygodne miejsce podjęcia kajaków z wody znajduje się przy prywatnej przystani w Kłodkowie, 45 min w dół Regi</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

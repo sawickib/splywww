@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="119" nazwa="Graniczna (dopływ Widawy)" wersja="1">
+<opis>Niewielka rzeczka we wschodniej części województwa dolnośląskiego, lewy dopływ Widawy. Obszar źródliskowy znajduje się pomiędzy Jelczem a Bierutowem, natomiast do Widawy uchodzi w w okolicach Chrząstawy. Ze względu na swe rozmiary, dla kajaków dostępna jest podczas wiosennych roztopów oraz po intensywnych opadach. Prowadzi czystą wodę, ma żwirowo piaszczyste dno i jest bardzo atrakcyjna pod wieloma względami. Płynie głównie przez lasy, gdzie nie jest uregulowana i ładnie wije się wśród starych drzew. Omija z daleka osady ludzkie przez co w wodzie praktycznie nie ma śmieci, za to pływają ryby. Jedyne przeszkody w wodzie to powalone drzewa, nie zmuszają one jednak do wychodzenia z kajaka. Z rzek nizinnych okolic Wrocławia, pod względem atrakcyjności Graniczną oceniam bardzo wysoko, jeśli nie najwyżej. Odcinek od miejscowości Łaźno do ujścia do Widawy zajmuje około 3,5 h. Na Granicznej nie ma wodowskazów, najbliższe znajdują się na Widawie. W dniu płynięcia Graniczną, wodowskaz Zbytowa wskazywał poziom 290, natomiast wodowskaz Krzyżanowice - 143. W tych warunkach ilość wody pod kilem jest wystarczająca do swobodnego pływania Graniczną. W ani jednym miejscu nie było szurania po dnie.</opis> 
+    <punkt id="4281" miejscowosc="Łaźno" 
+      ns="51.05264394" we="17.41081687" km="14.2" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek na lokalnej drodze, wygodne miejsce wodowania sprzętu</opispunktu> 
+    </punkt>
+    <punkt id="4282" miejscowosc="Dębina" 
+      ns="51.0593657" we="17.40505706" km="13.2" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski drewniany mostek na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4283" miejscowosc="Dębina" 
+      ns="51.06614225" we="17.40075343" km="12.3" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na drodze gruntowej</opispunktu> 
+    </punkt>
+    <punkt id="4284" miejscowosc="Dębina" 
+      ns="51.07021474" we="17.39316059" km="11.6" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka</opispunktu> 
+    </punkt>
+    <punkt id="4285" miejscowosc="Dębina" 
+      ns="51.07055994" we="17.39253165" km="11.5" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4286" miejscowosc="Dębina" 
+      ns="51.07211794" we="17.38835172" km="11.1" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Bobrza tama piętrząca wodę na około 0,8m</opispunktu> 
+    </punkt>
+    <punkt id="4287" miejscowosc="Brzezinki" 
+      ns="51.07673154" we="17.37840651" km="10.2" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek o wysokości około 0,8m</opispunktu> 
+    </punkt>
+    <punkt id="4288" miejscowosc="Brzezinki" 
+      ns="51.08050004" we="17.36725445" km="9.2" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze Oleśnica - Jelcz</opispunktu> 
+    </punkt>
+    <punkt id="4289" miejscowosc="Chrząstawa" 
+      ns="51.08049032" we="17.34124559" km="6.9" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka</opispunktu> 
+    </punkt>
+    <punkt id="4290" miejscowosc="Chrząstawa" 
+      ns="51.08100979" we="17.33020032" km="6" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na polnej drodze, pod nim małe bystrze</opispunktu> 
+    </punkt>
+    <punkt id="4291" miejscowosc="Chrząstawa" 
+      ns="51.08900019" we="17.28907164" km="2.8" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4292" miejscowosc="Chrząstawa" 
+      ns="51.10041359" we="17.25693045" km="0" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Granicznej do Widawy</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

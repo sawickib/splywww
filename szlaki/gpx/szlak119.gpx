@@ -1,0 +1,70 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.05264394" lon="17.41081687">
+<name>14.20</name>
+<desc>Drewniany mostek na lokalnej drodze, wygodne miejsce wodowania sprzętu</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.05936570" lon="17.40505706">
+<name>13.20</name>
+<desc>Niski drewniany mostek na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.06614225" lon="17.40075343">
+<name>12.30</name>
+<desc>Betonowy mostek na drodze gruntowej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.07021474" lon="17.39316059">
+<name>11.60</name>
+<desc>Otwarta zastawka</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.07055994" lon="17.39253165">
+<name>11.50</name>
+<desc>Most na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.07211794" lon="17.38835172">
+<name>11.10</name>
+<desc>Bobrza tama piętrząca wodę na około 0,8m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.07673154" lon="17.37840651">
+<name>10.20</name>
+<desc>Prożek o wysokości około 0,8m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.08050004" lon="17.36725445">
+<name>9.20</name>
+<desc>Most na drodze Oleśnica - Jelcz</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.08049032" lon="17.34124559">
+<name>6.90</name>
+<desc>Drewniana kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.08100979" lon="17.33020032">
+<name>6.00</name>
+<desc>Betonowy most na polnej drodze, pod nim małe bystrze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.08900019" lon="17.28907164">
+<name>2.80</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.10041359" lon="17.25693045">
+<name>0.00</name>
+<desc>Ujście Granicznej do Widawy</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="197" nazwa="Zielona" wersja="1">
+<opis>Lewy dopływ Oławy. Oficjalnie zwana Zieloną, chociaż spotyka się też nazwę Szalona, prawdopodobnie ze względu na to, że na przedwojennych mapach, w różnych okresach i na różnych odcinkach opisana jest zarówno, jako Grunbach, Schalune oraz Schellune. Dzisiaj to niezbyt atrakcyjny rów melioracyjny, uregulowany, ponoć regularnie koszony i bagrowany. W zasadzie jedyną zaletą rzeki jest to, że na odcinku kilkunastu kilometrów nie posiada ani jednej przeszkody wymagającej wysiadania z kajaka lub jakiegokolwiek wysiłku. Na pojedynczych, otwartych zastawkach oraz pod niektórymi mostami tworzą się bystrza. Poza tym nurt powolny, woda czysta, a dno piaszczyste. Teren bezleśny, otwarty, w kilku miejscach jedynie malownicze szpalery starych, wysokich drzew. Poniżej Radwanic, Zielona wpływa na tereny oznakowane, jako objęte ochroną ujęć wody dla Wrocławia. W przeciwieństwie jednak do płynącej równolegle rzeki Oławy, nigdzie nie ma informacji o zakazie spływania tym odcinkiem. Na Zielonej nie ma wodowskazów, których wartości można obserwować zdalnie. Najbliższy taki wodowskaz znajduje się na rzece Oława, w mieście Oława, natomiast na Zielonej ustawiono wodowskaz pod zastawką na Świątnikach [1,0km], ten jednak obserwować można wyłącznie w terenie. Przy stanie 17.00 w Świątnikach oraz 141 w Oławie można spłynąć swobodnie od Jankowic. Jest to wystarczający poziom wody, jedynie w kilku miejscach pod mostami haczy się o kamienie, a za zastawką świątnicką zawiesza się na płytkiej pochylni. W tych warunkach, odcinek z Jankowic do Parku Wschodniego zajął około 3h spokojnego spływu.</opis> 
+    <punkt id="6505" miejscowosc="Jankowice" 
+      ns="50.99405623" we="17.18007082" km="13.3" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na polnej, błotnistej drodze do Grodziszowa i Sulęcina. Wygodne miejsce rozpoczynania eksploracji Zielonej, chociaż okolica nie zachęca, a w pobliżu jest mało miejsca na pozostawienie samochodu. Poniżej fragment wąskiej, zarośniętej gęsto trzcinami rzeczki (rowu), z krótkimi odcinkami umożliwiającymi swobodne wiosłowanie. Leży tu też kilka małych drzewek, przez które trzeba przeskoczyć. Wg większości dzisiejszych map (np. Hydroportal), miejsce to znajduje się na właściwej rzece Zielona, mimo że po 600m dopływa się do znacznie szerszej rzeki (kanału), a ta nazwana jest Dopływem spod Stanowic. Na innych mapach (np. Geoportal), Zielona to właśnie Dopływ spod Stanowic, a na jeszcze innych, Zielona wraz z Dopływem spod Stanowic widnieje pod nazwą Szalona... Tak więc "bez pał litra nie razbieriosz"...
+Podobny chaos panuje na mapach przedwojennych. Na mapie z 1940, początkowy odcinek rzeki do połączenia, nazywa się Kune Gr., natomiast szeroki kanał od Jankowic (dzisiejszy Dopływ spod Stanowic), to Grunbach, czyli Zielona. Na mapie z 1932 jest podobnie, tylko że Grunbach to Schellune. Na starszych mapach, całość rzeki to Schalune (1921) oraz Schellune Bach (1850)</opispunktu> 
+    </punkt>
+    <punkt id="6506" miejscowosc="Grodziszów" 
+      ns="50.99807199" we="17.17397049" km="12.75" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Przepust rurowy na polnej drodze, łączącej pola uprawne. Za przepustem krótki fragment bardziej bystrej wody</opispunktu> 
+    </punkt>
+    <punkt id="6507" miejscowosc="Grodziszów" 
+      ns="50.99817745" we="17.17394296" km="12.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie Zielonej z ciekiem, oficjalnie nazywanym Dopływem spod Stanowic. W rzeczywistości, mała i wąska Zielona uchodzi prostopadle do znacznie większej i szerszej rzeki. Dalej, do samego Wrocławia jest szeroko, wody nie brakuje (przy zastanych warunkach), a cała rzeka jest wybagrowana. Do tego miejsca można dopłynąć spod samych Jankowic, jednak początek jest zarośnięty trzcinami i w 2020 nie był bagrowany. Regularne czyszczenie i regulacja rzeki zaczyna się od okolic pobliskiego mostu kolejowego, w dół rzeki</opispunktu> 
+    </punkt>
+    <punkt id="6508" miejscowosc="Grodziszów" 
+      ns="50.99830872" we="17.17343998" km="12.6" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="6509" miejscowosc="Grodziszów" 
+      ns="51.00071214" we="17.17104326" km="12.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Marszowickiego Potoku z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="6510" miejscowosc="Grodziszów" 
+      ns="51.00186216" we="17.16831181" km="12.1" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Znaczący, bezimienny dopływ z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="6511" miejscowosc="Zębice" 
+      ns="51.00561748" we="17.16045735" km="11.4" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy do Groblic, aktualnie remontowany. Pod mostem tymczasowa, bardzo niska kładka wykonana na potrzeby remontu. Za mostem wartko, a strome skarpy sprawiają, że nie jest to wygodne miejsce rozpoczynania spływu</opispunktu> 
+    </punkt>
+    <punkt id="6512" miejscowosc="Zębice" 
+      ns="51.00720907" we="17.15701173" km="11" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych. Poniżej odcinek wdłuż ruchliwej linii kolejowej i krótki malowniczy fragment w szpalerze starych, wysokich drzew, rosnących po obydwu stronach rzeki</opispunktu> 
+    </punkt>
+    <punkt id="6513" miejscowosc="Siechnice" 
+      ns="51.01422688" we="17.14920578" km="10" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="6514" miejscowosc="Siechnice" 
+      ns="51.01629887" we="17.14947808" km="9.8" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na lokalnej drodze. Poniżej, płynie się wzdłuż popularnych szklarni siechnickich</opispunktu> 
+    </punkt>
+    <punkt id="6515" miejscowosc="Siechnice" 
+      ns="51.02386663" we="17.14669435" km="8.9" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy ul. Prawocińskiej. Strome skarpy utrudniają wodowanie i lądowanie</opispunktu> 
+    </punkt>
+    <punkt id="6516" miejscowosc="Siechnice" 
+      ns="51.02649993" we="17.14355137" km="8.5" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy ul. Czeremchowej. Tu również skarpy są strome, utrudniające wygodny dostęp do wody</opispunktu> 
+    </punkt>
+    <punkt id="6517" miejscowosc="Święta Katarzyna" 
+      ns="51.03083441" we="17.1365061" km="7.8" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście potoku Kuna z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="6518" miejscowosc="Święta Katarzyna" 
+      ns="51.03207717" we="17.13586172" km="7.7" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most przy ul. Św. Krzyża</opispunktu> 
+    </punkt>
+    <punkt id="6519" miejscowosc="Święta Katarzyna" 
+      ns="51.03641632" we="17.13338369" km="7.1" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Główny most drogowy z filarem. Za mostem rura przeprowadzona nad rzeką</opispunktu> 
+    </punkt>
+    <punkt id="6520" miejscowosc="Święta Katarzyna" 
+      ns="51.03786665" we="17.13180356" km="6.9" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="6521" miejscowosc="Święta Katarzyna" 
+      ns="51.03815059" we="17.12988307" km="6.7" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="6522" miejscowosc="Święta Katarzyna" 
+      ns="51.0384671" we="17.1290715" km="6.6" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Łukowy most w wysokiej skarpie Wschodniej Obwodnicy Wrocławia, z obszernym rurowym przepustem</opispunktu> 
+    </punkt>
+    <punkt id="6523" miejscowosc="Radwanice" 
+      ns="51.04499595" we="17.11922769" km="5.6" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most przy ul. Dębowej</opispunktu> 
+    </punkt>
+    <punkt id="6524" miejscowosc="Radwanice" 
+      ns="51.04801484" we="17.1165059" km="5.2" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na ruchliwej drodze nr 94. Za mostem rzeka na chwilę robi się węższa i bardziej bystra</opispunktu> 
+    </punkt>
+    <punkt id="6525" miejscowosc="Radwanice" 
+      ns="51.04988228" we="17.11669035" km="5" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most wzdłuż ul. Starowiejskiej</opispunktu> 
+    </punkt>
+    <punkt id="6526" miejscowosc="Radwanice" 
+      ns="51.05576928" we="17.11052696" km="4.2" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Most drogowy wzdłuż ul. Starowiejskiej, pod nim 3 przęsłowa otwarta zastawka. Rzeka wpływa na południowe obrzeże terenów wodonośnych Wrocławia</opispunktu> 
+    </punkt>
+    <punkt id="6527" miejscowosc="Wrocław Księże Wielkie" 
+      ns="51.07500776" we="17.0972189" km="1.4" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoka kładka dla pieszych, tzw. Most Kilometrowy</opispunktu> 
+    </punkt>
+    <punkt id="6528" miejscowosc="Wrocław Księże Wielkie" 
+      ns="51.07639981" we="17.09775189" km="1.2" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy wzdłuż ul. Starodworskiej, poprzedzony betonowym, niskim, nieużytkowanym, starym mostkiem</opispunktu> 
+    </punkt>
+    <punkt id="6529" miejscowosc="Wrocław Świątniki" 
+      ns="51.07805251" we="17.09660027" km="1" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka z wodowskazem na górnej wodzie. Poziom 17.00 gwarantuje dobre warunki wodne i możliwość swobodnego spływu K1. Za mostem płytka pochylnia, która wyhamowuje kajak nawet przy wyższej wodzie</opispunktu> 
+    </punkt>
+    <punkt id="6530" miejscowosc="Wrocław Świątniki" 
+      ns="51.07998852" we="17.09372256" km="0.7" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Świątnicki. Poniżej, do ujścia odcinek bardziej dziki, porośnięty lasem, z kilkoma drzewami leżącymi w korycie. Tuż przed mostem z lewej strony uchodzi Krzywy Potok, na niektórych mapach oznakowany, jako Katarzynka</opispunktu> 
+    </punkt>
+    <punkt id="6531" miejscowosc="Wrocław Park Wschodni" 
+      ns="51.08486208" we="17.09110985" km="0" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie wód Zielonej i Górnej Oławy, na zatrzcinionych rozlewiskach. Wpływamy na tereny rekreacyjne Parku Wschodniego</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

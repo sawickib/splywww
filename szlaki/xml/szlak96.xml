@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="96" nazwa="Pilica" wersja="1">
+<opis>Pilica - największy lewobrzeżny dopływ Wisły, łączy województwo łódzkie i mazowieckie, pozwala w centralnej polsce odnaleźć spokój i swobodnie korzystać z dobrodziejstwa natury. Pilica jest jedną z najczystszych polskich rzek, wody które toczy w swoim nurcie są wyjątkowo przejrzyste, liczne plaże, wyspy, lasy, łąki zachęcają do biwakowania na łonie natury. Na brzegach Pilicy rozwinęła się i nadal dynamicznie rozwija infrastruktura dla zapewnienia turystom komfortowych warunków odpoczynku. Pomimo tego Pilica zachowała swój naturalny urok, dzikość przyrody i nie uległa komercjalizacji. 
+Pilica ma długość prawie 330 km, jednak spływ proponujemy rozpocząć w jej 3 kilometrze w miejscowości Pilica. W górnym biegu (powyżej Tomaszowa) Pilica, bywa czasem uciążliwa i zalecene jest zdobycie doświadczenia przed spływem lub zorganizowanie opieki doświadczonego przewodnika.
+Poniżej Tomaszowa szlak jest dostępny dla każdego nawet początkującego wodniaka. </opis> 
+  <odcinek id="394" typ="rzeka" nazwa="Pilica - Maluszyn" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Dość trudny jak na tę rzekę odcinek - bardzo malowniczy, zachowane naturalne środowisko, dziewicze tereny.</opis>
+    <punkt id="3246" miejscowosc="Pilica" 
+      ns="50.46677294" we="19.65855531" km="325" etykieta="1" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Żródło, most</opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Początek szlaku kajakowego</opispunktu> 
+    </punkt>
+    <punkt id="3247" miejscowosc="Wola Libertowska" 
+      ns="50.47818561" we="19.82671969" km="312" etykieta="2" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3248" miejscowosc="Żarnowiec" 
+      ns="50.48586382" we="19.86237414" km="307" etykieta="3" 
+      kolejnosc="2"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Parking, ośrodek zdrowia, miejsce wodowania.</opispunktu> 
+    </punkt>
+    <punkt id="3249" miejscowosc="Żarnowiec" 
+      ns="50.4885991" we="19.86453616" km="306" etykieta="4" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Uniejówka	</opispunktu> 
+    </punkt>
+    <punkt id="3250" miejscowosc="Łany Wielkie" 
+      ns="50.50863252" we="19.84666098" km="304" etykieta="5" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">przy młynie	</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3251" miejscowosc="Szczekociny" 
+      ns="0" we="0" km="288" etykieta="6" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">próg wodny, kamienny	</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3252" miejscowosc="Szczekociny" 
+      ns="50.62681008" we="19.82085771" km="288" etykieta="7" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Przy Pałacu, na lewym brzegu</opispunktu> 
+    </punkt>
+    <punkt id="3253" miejscowosc="Szczekociny" 
+      ns="0" we="0" km="287" etykieta="8" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Próg wodny, betonowy</opispunktu> 
+    </punkt>
+    <punkt id="3254" miejscowosc="Szczekociny" 
+      ns="50.63791401" we="19.79989244" km="285" etykieta="9" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">jaz oraz młyn wodny</opispunktu> 
+    </punkt>
+    <punkt id="3255" miejscowosc="Tęgobórz" 
+      ns="50.65078848" we="19.80110703" km="283" etykieta="10" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Krztynia	</opispunktu> 
+    </punkt>
+    <punkt id="3256" miejscowosc="Suchy Młyn" 
+      ns="50.68357475" we="19.77249861" km="277" etykieta="11" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Dwa mosty	</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">młyn wodny</opispunktu> 
+    </punkt>
+    <punkt id="3257" miejscowosc="Przyłęk" 
+      ns="50.69636685" we="19.7381255" km="274" etykieta="12" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">CMK - most kolejowy</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">po lewej stronie za mostem</opispunktu> 
+    </punkt>
+    <punkt id="3258" miejscowosc="Łysaków" 
+      ns="50.72947547" we="19.69922704" km="268" etykieta="13" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3259" miejscowosc="Wąsocz" 
+      ns="50.73842521" we="19.6880989" km="266" etykieta="14" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3260" miejscowosc="Koniecpol-Zatorze" 
+      ns="50.76713499" we="19.68870987" km="263" etykieta="15" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Wysoki jaz</opispunktu> 
+    </punkt>
+    <punkt id="3261" miejscowosc="Koniecpol" 
+      ns="50.77143187" we="19.68363197" km="262" etykieta="16" 
+      kolejnosc="15"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Białka Lelowska	</opispunktu> 
+    </punkt>
+    <punkt id="3262" miejscowosc="Koniecpol" 
+      ns="50.77241276" we="19.6806971" km="262" etykieta="17" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3263" miejscowosc="Koniecpol" 
+      ns="50.77671239" we="19.67683937" km="261" etykieta="18" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Kolejowy, linia Częstochowa-Kielce</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3264" miejscowosc="Kuźnica Grodziska" 
+      ns="50.84591062" we="19.7403775" km="249" etykieta="19" 
+      kolejnosc="18"> 
+    <opispunktu typ="jaz" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3265" miejscowosc="Modła" 
+      ns="50.87038206" we="19.74135662" km="246" etykieta="20" 
+      kolejnosc="19"> 
+    <opispunktu typ="jaz" kolejnosc="-1">przy stawach rybnych	</opispunktu> 
+    </punkt>
+    <punkt id="3266" miejscowosc="Pukarzów" 
+      ns="50.89296119" we="19.77671702" km="242" etykieta="21" 
+      kolejnosc="20"> 
+    <opispunktu typ="jaz" kolejnosc="-1">za stawami rybnymi</opispunktu> 
+    </punkt>
+    <punkt id="3267" miejscowosc="Mosty" 
+      ns="50.90372625" we="19.79038048" km="240" etykieta="22" 
+      kolejnosc="21"> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3268" miejscowosc="Maluszyn" 
+      ns="50.90987034" we="19.7990123" km="237" etykieta="23" 
+      kolejnosc="22"> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="395" typ="rzeka" nazwa="Maluszyn - Chałupy" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis></opis>
+    <punkt id="3269" miejscowosc="Małuszyn" 
+      ns="50.90641508" we="19.81438455" km="236" etykieta="24" 
+      kolejnosc="23"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Zwlacza</opispunktu> 
+    </punkt>
+    <punkt id="3270" miejscowosc="Dąbrowy" 
+      ns="50.91666034" we="19.83592671" km="233" etykieta="25" 
+      kolejnosc="24"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Kurzelówka	</opispunktu> 
+    </punkt>
+    <punkt id="3271" miejscowosc="Sudzinek" 
+      ns="50.92554523" we="19.83794919" km="231" etykieta="26" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3272" miejscowosc="Sudzinek" 
+      ns="50.92750595" we="19.84098852" km="230.5" etykieta="27" 
+      kolejnosc="26"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Brzozówka	</opispunktu> 
+    </punkt>
+    <punkt id="3273" miejscowosc="Sudzin" 
+      ns="50.94144222" we="19.84230135" km="228" etykieta="28" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3274" miejscowosc="Ciemiętniki" 
+      ns="50.94860367" we="19.83724014" km="226" etykieta="29" 
+      kolejnosc="28"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Czarna Włoszczowska</opispunktu> 
+    </punkt>
+    <punkt id="3275" miejscowosc="Bobrowniki" 
+      ns="50.97128525" we="19.83769909" km="221" etykieta="30" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3276" miejscowosc="Krzętów" 
+      ns="50.98832607" we="19.83570428" km="220" etykieta="31" 
+      kolejnosc="30"> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Nad Pilicą</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3277" miejscowosc="Rudka" 
+      ns="51.0133277" we="19.85972616" km="215" etykieta="32" 
+      kolejnosc="31"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Biestrzykówka	</opispunktu> 
+    </punkt>
+    <punkt id="3278" miejscowosc="Biały Brzeg" 
+      ns="0" we="0" km="" etykieta="33" 
+      kolejnosc="32"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Doskonałe miejsce, dawna gajówka. Również plaża.</opispunktu> 
+    </punkt>
+    <punkt id="3279" miejscowosc="Chałupy" 
+      ns="51.05947207" we="19.87545343" km="207" etykieta="34" 
+      kolejnosc="33"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Gospodarstwo agroturystyczne</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="396" typ="rzeka" nazwa="Chałupy - Łęg Raczyński" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis></opis>
+    <punkt id="3280" miejscowosc="Przedbórz" 
+      ns="51.08852718" we="19.87238218" km="202" etykieta="35" 
+      kolejnosc="34"> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">kamienny próg</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Restauracja Parkowa</opispunktu> 
+    </punkt>
+    <punkt id="3281" miejscowosc="Przedbórz" 
+      ns="51.09340856" we="19.87970692" km="201" etykieta="36" 
+      kolejnosc="35"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Próg Kamienny można przepłynąć prawą stroną, bystrze </opispunktu> 
+    </punkt>
+    <punkt id="3282" miejscowosc="Trupień" 
+      ns="51.11449473" we="19.90219253" km="197" etykieta="37" 
+      kolejnosc="36"> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3283" miejscowosc="Będzyn" 
+      ns="51.1558375" we="19.90423402" km="190" etykieta="38" 
+      kolejnosc="37"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ojrzanka</opispunktu> 
+    </punkt>
+    <punkt id="3284" miejscowosc="Łęg Ręczyński" 
+      ns="51.20319951" we="19.91173053" km="183" etykieta="39" 
+      kolejnosc="38"> 
+    <opispunktu typ="sklep" kolejnosc="-1"></opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="397" typ="rzeka" nazwa="Łęg Raczyński - Sulejów" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="3"> 
+  <opis></opis>
+    <punkt id="3285" miejscowosc="Placówka" 
+      ns="51.2260748" we="19.90518766" km="181" etykieta="40" 
+      kolejnosc="39"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Kamping "U Kalickiego"</opispunktu> 
+    </punkt>
+    <punkt id="3286" miejscowosc="Stobnica" 
+      ns="51.24612743" we="19.89461791" km="177" etykieta="41" 
+      kolejnosc="40"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Stobienka		</opispunktu> 
+    </punkt>
+    <punkt id="3287" miejscowosc="Trzy Morgi" 
+      ns="51.25219891" we="19.89253405" km="176" etykieta="42" 
+      kolejnosc="41"> 
+    <opispunktu typ="bar" kolejnosc="-1">Bar na skarpie (sezonowy) - punkt widokowy z panoramą Pilicy</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Plaża</opispunktu> 
+    </punkt>
+    <punkt id="3288" miejscowosc="Przewóz" 
+      ns="51.25915399" we="19.91185917" km="172" etykieta="43" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka</opispunktu> 
+    </punkt>
+    <punkt id="3289" miejscowosc="Winduga" 
+      ns="51.27072142" we="19.9137284" km="169" etykieta="44" 
+      kolejnosc="43"> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3290" miejscowosc="Biała" 
+      ns="51.28291109" we="19.90951484" km="167" etykieta="45" 
+      kolejnosc="44"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Kamping</opispunktu> 
+    </punkt>
+    <punkt id="3291" miejscowosc="Ostrów" 
+      ns="51.29709668" we="19.90747363" km="165" etykieta="46" 
+      kolejnosc="45"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka</opispunktu> 
+    </punkt>
+    <punkt id="3292" miejscowosc="Ostrów" 
+      ns="51.30910803" we="19.91369809" km="163" etykieta="47" 
+      kolejnosc="46"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Czarna Malenicka		</opispunktu> 
+    </punkt>
+    <punkt id="3293" miejscowosc="Kurnędz" 
+      ns="51.32688596" we="19.90606539" km="161" etykieta="48" 
+      kolejnosc="47"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak oraz domki letniskowe</opispunktu> 
+    </punkt>
+    <punkt id="3294" miejscowosc="Sulejów" 
+      ns="51.3550044" we="19.88274089" km="157" etykieta="49" 
+      kolejnosc="48"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Betonowe nabrzeże, początek jeziora Sulejowskiego</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Piotrków - Radom</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="398" typ="jezioro" nazwa="Sulejów - Smardzewice" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="4"> 
+  <opis></opis>
+    <punkt id="3295" miejscowosc="Sulejów" 
+      ns="51.36184601" we="19.87955412" km="156" etykieta="50" 
+      kolejnosc="49"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Radońka</opispunktu> 
+    </punkt>
+    <punkt id="3296" miejscowosc="Barkowice" 
+      ns="51.38099132" we="19.85832871" km="153" etykieta="51" 
+      kolejnosc="50"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Luciąży</opispunktu> 
+    </punkt>
+    <punkt id="3297" miejscowosc="Barkowice" 
+      ns="51.41181106" we="19.89636771" km="148" etykieta="52" 
+      kolejnosc="51"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na cyplu</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="stanica" kolejnosc="-1">Stanica wędkarska</opispunktu> 
+    </punkt>
+    <punkt id="3298" miejscowosc="Zarzęcin" 
+      ns="51.41909466" we="19.92074148" km="146" etykieta="53" 
+      kolejnosc="52"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Bełchatowska Wioska Żeglarska</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Bełchatowska Wioska Żeglarska</opispunktu> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1">Bełchatowska Wioska Żeglarska</opispunktu> 
+    </punkt>
+    <punkt id="3299" miejscowosc="Bronisławów" 
+      ns="51.44118848" we="19.91677611" km="143" etykieta="55" 
+      kolejnosc="53"> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="stanica" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Strefa ochrony ujęcia wody</opispunktu> 
+    </punkt>
+    <punkt id="3300" miejscowosc="Karolinów" 
+      ns="51.45226194" we="19.97187101" km="140" etykieta="56" 
+      kolejnosc="54"> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="stanica" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3301" miejscowosc="Swolszewice Małe Borki" 
+      ns="0" we="0" km="139" etykieta="57" 
+      kolejnosc="55"> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="stanica" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3302" miejscowosc="Stara Wieś" 
+      ns="0" we="0" km="139" etykieta="58" 
+      kolejnosc="56"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Początek nabrzeża z betonu</opispunktu> 
+    </punkt>
+    <punkt id="3303" miejscowosc="Swolszewice Małe" 
+      ns="51.47188489" we="19.9728122" km="139" etykieta="59" 
+      kolejnosc="57"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Maruś przewozi kajaki przez zaporę </opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">przez zaporę ;)</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3304" miejscowosc="Smardzewice" 
+      ns="51.47393427" we="20.00606429" km="136.8" etykieta="60" 
+      kolejnosc="58"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zapora, elektrownia	</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="399" typ="rzeka" nazwa="Smardzewice - Spała" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="5"> 
+  <opis>W Smardzewicach jest zapora, która blokuje wody Pilicy zatrzymując je i tworząc Jezioro Sulejowskie. Po drodze do Tomaszowa jast kilka niebezpiecznych miejsc. W okolicach  Tomaszowa Mazowieckiego obowiązkowe atrakcje to Niebieskie Źródła oraz skansen Pilicy.</opis>
+    <punkt id="3305" miejscowosc="Ogrody" 
+      ns="51.47830103" we="20.00525294" km="136" etykieta="61" 
+      kolejnosc="59"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Próg</opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1">wygodny parking</opispunktu> 
+    </punkt>
+    <punkt id="3306" miejscowosc="Tomaszów Mazowiecki" 
+      ns="51.51228513" we="20.02274926" km="131" etykieta="62" 
+      kolejnosc="60"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Ujęcie wody pitnej przy rezerwacie "Niebieskie Źródła"</opispunktu> 
+    </punkt>
+    <punkt id="3307" miejscowosc="Tomaszów Mazowiecki" 
+      ns="51.51460914" we="20.02724345" km="130" etykieta="63" 
+      kolejnosc="61"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Skansen Rzeki Pilicy</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="3308" miejscowosc="Tomaszów Mazowiecki" 
+      ns="51.52162319" we="20.03744778" km="129" etykieta="64" 
+      kolejnosc="62"> 
+    <opispunktu typ="biwak" kolejnosc="-1">OSiR "Przystań"</opispunktu> 
+    <opispunktu typ="stanica" kolejnosc="-1">OSiR "Przystań"</opispunktu> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1">OSiR "Przystań"</opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1">OSiR "Przystań"</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">OSiR "Przystań"</opispunktu> 
+    </punkt>
+    <punkt id="3309" miejscowosc="Tomaszów Mazowiecki" 
+      ns="51.52832538" we="20.03991983" km="128.5" etykieta="65" 
+      kolejnosc="63"> 
+    <opispunktu typ="most" kolejnosc="-1">trasa 713</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">bystrze - można przepłynąć lewą stroną</opispunktu> 
+    </punkt>
+    <punkt id="3310" miejscowosc="Spała" 
+      ns="51.53753995" we="20.1340702" km="119" etykieta="66" 
+      kolejnosc="66"> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3311" miejscowosc="Spała" 
+      ns="51.53475166" we="20.14647544" km="117" etykieta="67" 
+      kolejnosc="67"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Gać</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="400" typ="rzeka" nazwa="Spała - Wólka Kuligowska" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="6"> 
+  <opis>Spała to dobrze znany nie tylko w Polsce ośrodek lekkoatletyczny. Znajdują się tu liczne parki i restauracje, z łatwością można znaleźć nocleg i posiłek. Dalej Pilica płynie spokojnie przez równinę pokrytą polami i łąkami.</opis>
+    <punkt id="3312" miejscowosc="Teofilów" 
+      ns="51.5241332" we="20.19496785" km="113" etykieta="68" 
+      kolejnosc="68"> 
+    <opispunktu typ="wypływ" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Bar sezonowy</opispunktu> 
+    </punkt>
+    <punkt id="3313" miejscowosc="Inowłódz" 
+      ns="51.51951027" we="20.20667421" km="112" etykieta="69" 
+      kolejnosc="69"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Słomianka	</opispunktu> 
+    </punkt>
+    <punkt id="3314" miejscowosc="Inowłódz" 
+      ns="51.52062966" we="20.22298512" km="111" etykieta="70" 
+      kolejnosc="70"> 
+    <opispunktu typ="wypływ" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Bar sezonowy</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3315" miejscowosc="Zakościele" 
+      ns="51.52803273" we="20.24709058" km="109" etykieta="71" 
+      kolejnosc="71"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak i kemping Centrum Młodzieży Chrześcijańskiej</opispunktu> 
+    </punkt>
+    <punkt id="3316" miejscowosc="Fryszerka" 
+      ns="51.52433325" we="20.25827628" km="108" etykieta="72" 
+      kolejnosc="72"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Strumień</opispunktu> 
+    </punkt>
+    <punkt id="3317" miejscowosc="Kozłowiec" 
+      ns="51.55284195" we="20.30081582" km="103" etykieta="73" 
+      kolejnosc="73"> 
+    <opispunktu typ="bar" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3318" miejscowosc="Kozłowiec" 
+      ns="51.5604327" we="20.31048205" km="102" etykieta="74" 
+      kolejnosc="74"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Fryszerka</opispunktu> 
+    </punkt>
+    <punkt id="3319" miejscowosc="Mysiakowiec" 
+      ns="51.574353" we="20.33479767" km="100" etykieta="75" 
+      kolejnosc="75"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3320" miejscowosc="Grotowice" 
+      ns="51.58254271" we="20.35182217" km="98" etykieta="76" 
+      kolejnosc="76"> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3321" miejscowosc="Wólka Kuligowska" 
+      ns="51.57631461" we="20.36771831" km="96" etykieta="77" 
+      kolejnosc="77"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Domki letniskowe</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="401" typ="rzeka" nazwa="Wólka Kuligowska - Gostomia" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="7"> 
+  <opis>Ten odcinek zapewnia wiele atrakcji, między innymi Domaniewice z prężnie działającym gospodarstwem agroturystycznym i promem oraz Nowe Miasto. Na tym odcinku do Pilicy wpada również rzeka Drzewiczka, znana ze swojego toru do kajakarstwa górskiego.</opis>
+    <punkt id="3322" miejscowosc="Gapinin" 
+      ns="51.58597973" we="20.39744984" km="94" etykieta="78" 
+      kolejnosc="78"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3323" miejscowosc="Domaniewice" 
+      ns="51.61627302" we="20.45310885" km="89" etykieta="79" 
+      kolejnosc="79"> 
+    <opispunktu typ="most" kolejnosc="-1">Przeprawa promowa</opispunktu> 
+    </punkt>
+    <punkt id="3324" miejscowosc="Domaniewice" 
+      ns="51.6159965" we="20.45570245" km="88" etykieta="80" 
+      kolejnosc="80"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Rokitna</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Safari</opispunktu> 
+    </punkt>
+    <punkt id="3325" miejscowosc="Łęgonice" 
+      ns="51.61154177" we="20.5185333" km="83" etykieta="81" 
+      kolejnosc="81"> 
+    <opispunktu typ="wypływ" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3326" miejscowosc="Łęgonice" 
+      ns="51.60901851" we="20.54630912" km="81" etykieta="82" 
+      kolejnosc="82"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Rzeczyca</opispunktu> 
+    </punkt>
+    <punkt id="3327" miejscowosc="Nowe Miasto Nad Pilicą" 
+      ns="51.60949544" we="20.57281903" km="79" etykieta="83" 
+      kolejnosc="83"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3328" miejscowosc="Wólka Magierowa" 
+      ns="51.60741071" we="20.58461987" km="78" etykieta="85" 
+      kolejnosc="84"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Drzewiczki</opispunktu> 
+    </punkt>
+    <punkt id="3329" miejscowosc="Gostomia" 
+      ns="51.61052193" we="20.63874656" km="73.3" etykieta="86" 
+      kolejnosc="85"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze do wsi leśnej Waliska</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="402" typ="rzeka" nazwa="Gostomia - Przybyszew" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="8"> 
+  <opis>Gostomia to mała miejscowość na brzegu dwóch rzek Pilicy i Lubianki, znajdują się tu duże gospodarstwa rybne (130 ha) oraz ładny zabytkowy dworek, w którym można wynająć pokój. Kierując się w dół rzeki jest miejscowość Tomczyce gdzie warto zatrzymać się w sezonowym barze Słoneczko.</opis>
+    <punkt id="3330" miejscowosc="Gostomia" 
+      ns="51.61620197" we="20.65264551" km="73" etykieta="87" 
+      kolejnosc="86"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Łubianki (tworzy Stawy Gostomskie)</opispunktu> 
+    </punkt>
+    <punkt id="3331" miejscowosc="Ulaski Gostomskie" 
+      ns="51.6185333" we="20.67539356" km="69" etykieta="88" 
+      kolejnosc="87"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rezerwat pryrody, wysoka skarpa</opispunktu> 
+    </punkt>
+    <punkt id="3332" miejscowosc="Tomczyce" 
+      ns="51.62832438" we="20.69548695" km="67" etykieta="90" 
+      kolejnosc="88"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Słonko (sezonowy)</opispunktu> 
+    </punkt>
+    <punkt id="3333" miejscowosc="Ulaski Stamirowskie" 
+      ns="51.62225713" we="20.71269297" km="66" etykieta="91" 
+      kolejnosc="89"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Duży biwak</opispunktu> 
+    </punkt>
+    <punkt id="3334" miejscowosc="Górki" 
+      ns="51.62321961" we="20.77135392" km="61" etykieta="92" 
+      kolejnosc="90"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na pastwisku, jest też plaża</opispunktu> 
+    </punkt>
+    <punkt id="3335" miejscowosc="Osuchów" 
+      ns="51.65356753" we="20.82272285" km="56" etykieta="93" 
+      kolejnosc="91"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Mohielanki</opispunktu> 
+    </punkt>
+    <punkt id="3336" miejscowosc="Osuchów" 
+      ns="51.65564697" we="20.82641642" km="55" etykieta="94" 
+      kolejnosc="92"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak oraz plaża	</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3337" miejscowosc="Przybyszew" 
+      ns="51.65711254" we="20.84763881" km="54" etykieta="95" 
+      kolejnosc="93"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Rykolany (inaczej Borówki lub Czarnej Wody)</opispunktu> 
+    </punkt>
+    <punkt id="3338" miejscowosc="Przybyszew" 
+      ns="51.66161144" we="20.86482018" km="52" etykieta="96" 
+      kolejnosc="94"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="403" typ="rzeka" nazwa="Przybyszew - Białobrzegi" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="9"> 
+  <opis>Przybyszew to niewielka wieś ale jest tu bardzo ładny kościół, na okolicznych pastwiskach wypasane są krowy i konie, spokoju nie zakłóci żaden hałas. Po drodze do Białobrzeg można cieszyć się z jednej strony wysokim brzegiem, z drugiej zaś rozległą równiną z licznymi pastwiskami.</opis>
+    <punkt id="3339" miejscowosc="Pacew" 
+      ns="51.66489137" we="20.88515701" km="51.2" etykieta="97" 
+      kolejnosc="95"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Pieczykowskiej Wody (Stara Pilica)</opispunktu> 
+    </punkt>
+    <punkt id="3340" miejscowosc="Pacew" 
+      ns="51.66569287" we="20.88795315" km="51" etykieta="98" 
+      kolejnosc="96"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3341" miejscowosc="Góry" 
+      ns="51.66524574" we="20.91696847" km="48" etykieta="99" 
+      kolejnosc="97"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3342" miejscowosc="Falęcice" 
+      ns="51.6641382" we="20.94224929" km="46" etykieta="100" 
+      kolejnosc="98"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Pierzchnia (starorzecze PIlicy)</opispunktu> 
+    </punkt>
+    <punkt id="3343" miejscowosc="Białobrzegi" 
+      ns="51.65495603" we="20.96654277" km="45" etykieta="101" 
+      kolejnosc="100"> 
+    <opispunktu typ="wypływ" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1">Siedziba WOPR</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">trasa E7 - Zakopane - Gdańsk</opispunktu> 
+    </punkt>
+    <punkt id="3344" miejscowosc="Białobrzegi" 
+      ns="0" we="0" km="43" etykieta="102" 
+      kolejnosc="101"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Emaus (dawniej Turno) ośrodek konferencyjno szkoleniowy Diecezji Radomskiej</opispunktu> 
+    </punkt>
+    <punkt id="3345" miejscowosc="Białobrzegi" 
+      ns="0" we="0" km="42" etykieta="103" 
+      kolejnosc="102"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Olszynka - ośrodek Policyjny</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="404" typ="rzeka" nazwa="Białobrzegi - Budy Michałowskie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="10"> 
+  <opis>Białobrzegi to spore miasto, można tu znaleźć wszystko co potrzebne, dalej na szlaku napotykamy piękny rozpadający się most w Biejkowie, jest tu też miejsce do biwakowania.</opis>
+    <punkt id="3346" miejscowosc="Biejków" 
+      ns="51.69010505" we="21.00283839" km="37" etykieta="104" 
+      kolejnosc="103"> 
+    <opispunktu typ="most" kolejnosc="-1">Zniszczony most ( można przejść)</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3347" miejscowosc="Branków" 
+      ns="51.69292102" we="21.0280715" km="35" etykieta="105" 
+      kolejnosc="104"> 
+    <opispunktu typ="sklep" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3348" miejscowosc="Budy Michałowskie" 
+      ns="51.7084188" we="21.05699245" km="33" etykieta="106" 
+      kolejnosc="105"> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1">nadpilice.pl</opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="405" typ="rzeka" nazwa="Budy Michałowskie - Warka" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="11"> 
+  <opis>Jeden z najbardziej uczęszczanych fragmentów dolnego biegu Pilicy. Tutaj odbywa się bez liku jednodniowych spływów, rozrywkę wzbogacić mogą dwie knajpy - Biała Góra na prawym brzegu i bar Pod Kajakiem na lewym. Ponadto warto odwiedzic Farmę Sielanka gdzie odbywają się mistrzostwa świata w powożeniu (prawy brzeg) oraz Kamping Sielanka gdzie znajduje się sezonowy bar oraz muzeum karawaningu.</opis>
+    <punkt id="3349" miejscowosc="Biała Góra" 
+      ns="51.73012641" we="21.11607069" km="26" etykieta="107" 
+      kolejnosc="106"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Adwentura.pl</opispunktu> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1">nadpilice.pl,
+stero.pl, 
+adwentura.pl</opispunktu> 
+    </punkt>
+    <punkt id="3350" miejscowosc="Budy Grzegorzewskie" 
+      ns="51.74432151" we="21.13578489" km="23" etykieta="108" 
+      kolejnosc="107"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Domki letniskowe</opispunktu> 
+    </punkt>
+    <punkt id="3351" miejscowosc="Warka" 
+      ns="51.77766819" we="21.1787127" km="17" etykieta="109" 
+      kolejnosc="108"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Hotel **** Sielanka, stadnina</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Kemping Sielanka Nad Pilicą</opispunktu> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1">nadpilice.pl
+stero.pl
+adwentura.pl</opispunktu> 
+    <opispunktu typ="stanica" kolejnosc="-1">Klub Kajakowy Korek</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Prima</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="406" typ="rzeka" nazwa="Warka - Mniszew" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="12"> 
+  <opis>Odcinek kończący spływ PIlicą. Wart zaliczenia z powodu pięknej, ponad dwukilometrowej skarpy na lewym brzegu.
+Dodatkowe atrakcje to muzeum i park Kazimierza Pułaskiego, Wąwozy w Starej Warce i Pilicy, Skansen WWII w Mniszewie</opis>
+    <punkt id="3352" miejscowosc="Tomaszów Mazowiecki" 
+      ns="51.53196371" we="20.04670012" km="128" etykieta="" 
+      kolejnosc="64"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3353" miejscowosc="Tomaszów Mazowiecki" 
+      ns="51.53435532" we="20.05475439" km="127" etykieta="" 
+      kolejnosc="65"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Wolbórki</opispunktu> 
+    </punkt>
+    <punkt id="3354" miejscowosc="Warka" 
+      ns="51.77456494" we="21.19686772" km="15" etykieta="" 
+      kolejnosc="109"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3355" miejscowosc="Stara Warka" 
+      ns="51.79774394" we="21.23619549" km="11" etykieta="110" 
+      kolejnosc="110"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak u podnóża skarpy</opispunktu> 
+    </punkt>
+    <punkt id="3356" miejscowosc="Pilica" 
+      ns="51.80701803" we="21.26175593" km="9" etykieta="111" 
+      kolejnosc="111"> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3357" miejscowosc="Ostrołęka" 
+      ns="51.82949273" we="21.27664906" km="6" etykieta="112" 
+      kolejnosc="112"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak oraz plaża</opispunktu> 
+    </punkt>
+    <punkt id="3358" miejscowosc="Mniszew" 
+      ns="0" we="0" km="1.2" etykieta="113" 
+      kolejnosc="113"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Kanał Trzebieński</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="3359" miejscowosc="Mniszew" 
+      ns="51.86210646" we="21.28043986" km="0" etykieta="114" 
+      kolejnosc="114"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Pilicy do Wisły w 457 kilometrze biegu</opispunktu> 
+    </punkt>
+    <punkt id="3360" miejscowosc="Białobrzegi" 
+      ns="51.65759322" we="20.95099321" km="45.5" etykieta="" 
+      kolejnosc="99"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

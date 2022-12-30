@@ -1,0 +1,81 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.09206117" lon="23.19435556">
+<name>8.40</name>
+<desc>Północny kraniec jeziora Gremzdy</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.07049594" lon="23.22710814">
+<name>5.30</name>
+<desc>Wypływ z jeziora Gremzdy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.06829715" lon="23.23322545">
+<name>4.70</name>
+<desc>Wypływ na jezioro Głuche</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.06232656" lon="23.23611104">
+<name>3.90</name>
+<desc>Wypływ z jeziora Głuchego</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.05989426" lon="23.23041788">
+<name>3.30</name>
+<desc>Wypływ na jezioro Jurkowo</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.05457479" lon="23.22970479">
+<name>2.50</name>
+<desc>Wypływ z jeziora Jurkowo</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.05260140" lon="23.22937178">
+<name>2.30</name>
+<desc>Wpływ na jezioro Kociołek</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.05110424" lon="23.23059176">
+<name>-1.00</name>
+<desc>Przepływ na jezioro Płaskie</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.04512015" lon="23.22657818">
+<name>-1.00</name>
+<desc>Miejsce biwakowe na skraju Wigierskiego Parku Narodowego. Wygodny dojazd, sklep na miejscu (w razie potrzeb wykraczających poza ofertę sklepu, możliwość dowozu na zamówienie), pokoje, domki kempingowe, ciepła woda, sauna, kuchnia, boisko do siatkówki, ognisko, huśtawki dla dzieci, bardzo miły gospodarz Pan Krzysztof i... poza nim "żywego ducha".
+Kontakt: "BeJot" Milewscy, Pogorzelec 28, 16-506 Giby, tel 087 516-54-08, 504 418-429.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.05171210" lon="23.22889738">
+<name>2.20</name>
+<desc>Wypływ z jeziora Kociołek</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.05075671" lon="23.22566073">
+<name>1.90</name>
+<desc>Wypływ na jezioro Miałkie</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.04866468" lon="23.22002433">
+<name>1.50</name>
+<desc>Wypływ z jeziora Miałkiego</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.04720597" lon="23.21738875">
+<name>1.30</name>
+<desc>Most betonowy na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.04639418" lon="23.20133978">
+<name>0.00</name>
+<desc>Ujście Gremzdówki do Czarnej Hańczy</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

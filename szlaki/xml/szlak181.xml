@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="181" nazwa="Radew" wersja="1">
+<opis>Za początek Radwi przyjmuje się jej wypływ z jeziora Kwiecko na Pojezierzu Bytowskim, natomiast spływ wygodnie jest zacząć po przeciwnej stronie jeziora, gdzie można dojechać samochodem do samej wody. Na ilość wody w jeziorze Kwiecko wpływ ma kilka, uchodzących do niego małych strug, jednak najbardziej charakterystycznym źródłem wody jest elektrownia szczytowo-pompowa Żydowo, wykorzystująca różnicę poziomów pomiędzy Kwieckiem a położonym wyżej, jeziorem Kamienne. Poziom lustra wody w jeziorze Kwiecko może się znacząco wahać, a ślady na brzegach świadczą nawet o kilkumetrowych różnicach jego słupa. Należy liczyć się z tym, że poziomy wody Radwi nie tyle zależne będą od warunków atmosferycznych, co od aktualnego zapotrzebowania na energię elektryczną. Rzeka w większej części biegu przepływa przez obszary zadrzewione, dzięki czemu słynie ze swej malowniczości, trudności i uciążliwości, zwłaszcza w górnym odcinku. W chwili obecnej (listopad 2019) legendarna trudność i uciążliwość Radwi jest wyraźnie zredukowana, koryto rzeki jest mocno wyczyszczone z drzew, a bardziej wymagające zwałki są poprzecinane. Radew prowadzi czystą wodę, czego dowodem są dobrze zadomowione tu pstrągi, zwłaszcza w górnym odcinku. Ze względu na znaczny naturalny spadek, rzekę w kilku miejscach spiętrzono, a różnice poziomów wykorzystano na potrzeby hydroelektrowni i stawów hodowlanych, co skutkuje koniecznością przenoszenia kajaków. Jak twierdzą miejscowi wędkarze, od ujścia Chotli (33,3 km), Radew nigdy nie zamarza, można więc tym odcinkiem pływać nawet podczas silnych i długotrwałych mrozów. Na Radwi posadowionych jest kilka wodowskazów, z czego jedynie wodowskaz Białogórzyno można obserwować w internecie. Stan wody w górnym odcinku sprawdzić można jedynie w terenie. Poniżej zapory jeziora Kwiecko (84,9 km) znajdują się dwa mało czytelne wodowskazy, natomiast nowy i czytelny ustawiony został powyżej mostu w Cybulinie (79,2 km). Wskazania odpowiednio poziomu 780, 290 przy zaporze, oraz 161 w Cybulinie gwarantują wystarczającą ilość wody na górnym odcinku. Spływ odcinkiem górnym z jeziora Kwiecko do mostu w Cybulinie, w listopadzie 2019 zajął kilku K1 niecałe 3 h</opis> 
+    <punkt id="5758" miejscowosc="Żydowo" 
+      ns="54.02264215" we="16.70364439" km="87.1" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">SE brzeg jeziora Kwiecko. Dobry dojazd nad samą wodę, gruntową drogą. Wodowanie ze żwirowo piaszczystej, łagodnie opadającej plaży, wykorzystywanej głównie jako slip do wodowania łódek wędkarskich. W pobliżu, na rozległej łące sporo miejsca na samochody</opispunktu> 
+    </punkt>
+    <punkt id="5759" miejscowosc="Żydowo" 
+      ns="54.02980973" we="16.69053915" km="85.9" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Kraniec jeziora Kwiecko, początek zwężonej jego części. Na przedwojennych mapach w tym miejscu kończyło się jezioro, a zaczynała rzeka</opispunktu> 
+    </punkt>
+    <punkt id="5760" miejscowosc="Żydowo" 
+      ns="54.02762139" we="16.67981748" km="84.9" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Wał zapory z zakratowanym przepustem. Po wale prowadzi droga gruntowa, istnieje więc możliwość dojechania w to miejsce samochodem. Przenoska prawą stroną przez trawiasty wał i drogę z betonowych płyt, na odległość około 50m. Wygodne wodowanie poniżej betonowego wypływu. Na betonowym murku dwa trudne do interpretacji uszkodzone wodowskazy. Poziom 780 na pierwszym oraz 290 na drugim gwarantują przyzwoite warunki wodne poniżej, chociaż początkowy odcinek w głębokim  wąskim wąwozie jest kamienisty i miejscami płytki, przez co bardziej bystry. Przez swój regularny wygląd, odcinek ten przypomina sztuczny przekop. Kilka drzew w nurcie zmusza do niewielkiego wysiłku, jednak zwałki są poprzecinane</opispunktu> 
+    </punkt>
+    <punkt id="5761" miejscowosc="Górawino" 
+      ns="54.0258992" we="16.67322077" km="84.4" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z lasu na otwartą przestrzeń, przypominającą zarośnięte jezioro. Nurt zwalnia i rzeka wpływa w rozległe trzcinowiska. Płynie się swobodnie, czytelnym nurtem. Miejscami robi się wąsko, ale za to jest znacznie głębiej</opispunktu> 
+    </punkt>
+    <punkt id="5762" miejscowosc="Górawino" 
+      ns="54.03358572" we="16.64734891" km="82" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki, dobrze zachowany most nieczynnej kolei. Pod mostem niewielkie bystrze. Zaraz za mostem, po prawej stronie istnieje możliwość zrobienia przerwy w spływie, przy drewnianych ławkach. Poniżej rzeka płynie przez zabagnioną szeroką dolinę leśną</opispunktu> 
+    </punkt>
+    <punkt id="5763" miejscowosc="Cybulino" 
+      ns="54.03671976" we="16.63219713" km="80.8" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Drewniane ławki po prawej stronie, w lesie na skarpie, nieco oddalone od wody. Przy intensywnym wzroście roślinności mogą być słabo widoczne z wody</opispunktu> 
+    </punkt>
+    <punkt id="5764" miejscowosc="Cybulino" 
+      ns="54.04015305" we="16.61768636" km="79.2" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Most betonowy na lokalnej drodze. Przed mostem, po lewej stronie znajduje się nowy, dobrze widoczny z lądu wodowskaz. Wskazania poziomu 161 zapewniają przyzwoite warunki wodne na reprezentowanym odcinku. Pod mostem rozmyty próg kamienno betonowy po dawnym młynie. Spływać z prawej strony, bystrzem, uważając na wystający pręt stalowy na początku spadku. Poniżej odcinek leśny z przeciętymi zwałkami</opispunktu> 
+    </punkt>
+    <punkt id="5765" miejscowosc="Sarnowo" 
+      ns="54.04807447" we="16.60551882" km="77.4" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony wody Radwi zasila rzeczka Drężnianka</opispunktu> 
+    </punkt>
+    <punkt id="5766" miejscowosc="Sarnowo" 
+      ns="54.05155484" we="16.58363206" km="75.4" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 168. Trzy sklepione przęsła z widoczną datą 1903 r. Wygodne miejsce wodowania i lądowania, chociaż skarpa nieco stroma. Wygodny dojazd samochodem do samego mostu. Dalej długi odcinek bez możliwości podjęcia kajaków z wody</opispunktu> 
+    </punkt>
+    <punkt id="5767" miejscowosc="Gajewo" 
+      ns="54.07156424" we="16.47123663" km="61.4" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony uchodzi rzeczka Mszanka</opispunktu> 
+    </punkt>
+    <punkt id="5768" miejscowosc="Gajewo" 
+      ns="54.0719301" we="16.45324332" km="59.4" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Rzeczka Grzybnica uchodzi z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="5769" miejscowosc="Rosnowo" 
+      ns="54.07061288" we="16.29996671" km="47.7" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony, w głębokiej zatoce jeziora znajduje się ujście rzeczki Bielica</opispunktu> 
+    </punkt>
+    <punkt id="5770" miejscowosc="Bobrowo" 
+      ns="54.05527629" we="16.51396108" km="42.2" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Zgniłej Strugi z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="5771" miejscowosc="Kępiste" 
+      ns="54.06016084" we="16.49958045" km="41.2" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście rzeki Chociel</opispunktu> 
+    </punkt>
+    <punkt id="5772" miejscowosc="Wronie Gniazdo" 
+      ns="54.05652961" we="16.1341364" km="33.3" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Chotla z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="5773" miejscowosc="Dunowo" 
+      ns="54.11214611" we="16.07463921" km="23.6" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony wpada rzeczka Czarna</opispunktu> 
+    </punkt>
+    <punkt id="5774" miejscowosc="Żelimucha" 
+      ns="54.07302531" we="15.97573599" km="11.5" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeczki Zieleniec z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="5775" miejscowosc="Karlino" 
+      ns="54.037588" we="15.86978627" km="0" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Radwi do Parsęty trzema odnogami</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

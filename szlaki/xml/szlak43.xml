@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="43" nazwa="Żejmiana (Litwa)" wersja="2">
+<opis>(po litewsku Zejmenys). Prawy dopływ Wilii (Neris), wypływający z Pojezierza Święciańskiego jako rzeka niosąca już tyle wody, że dostępna jest nawet dla dużych i mało zwrotnych kajaków. Spływanie Żejmianą można połączyć z kajakową wędrówką po Pojezierzu Święciańskim, spływaniem szlakiem Kiewny (również opisanym w SpłyWWWie), Łokaji, Dubinki lub Wilii. Żejmiana płynie na terenach, które w Dwudziestoleciu Międzywojennym należały do Polski i cały czas są w dużej mierze etnicznie polskie - zwłaszcza w dolnym odcinku rzeki. Tak więc dogadanie się z miejscową ludnością po polsku nie powinno być trudne.
+Ruch kajakowy na Żejmianie jest niewielki - przynajmniej w porównaniu z tym, co się dzieje na polskich popularnych szlakach kajakowych. </opis> 
+  <odcinek id="171" typ="rzeka" nazwa="Żejmiana" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>W niniejszym opisie rzeka nie została podzielona na odcinki, ponieważ trudno na tym szlaku znaleźć konkretne miejsca, w których charakter rzeki zmieniałby się diametralnie. Nie znaczy to, że Żejmiana jest na całym swoim biegu taka sama. W górnym biegu płynie głównie pośród pół, natomiast w dolnym odcinku głównie w lesie, co podnosi jej walory estetyczne. Nurt początkowo dość łagodny, z biegiem rzeki istotnie przyspiesza, a najsilniejszy jest na ostatnich kilku kilometrach przed ujściem i tam jest nawet kilka niedużych bystrz. Rzeka jest na tyle szeroka, że zwalonych drzew przegradzających całe koryto praktycznie nie ma. Szlak ten można polecić także początkującym kajakarzom. Miejsc biwakowych jest pod dostatkiem - z reguły się za nie nie płaci, bo są to miejsca na terenie lasu państwowego, którego nikt nie pilnuje przed kajakarzami. Powoduje to jednak, że te miejsca biwakowe są często mocno zaśmiecone. </opis>
+    <punkt id="1334" miejscowosc="Santoka (Santaka)" 
+      ns="54.899823" we="25.641027" km="87.58" etykieta="zkoniec" 
+      kolejnosc="51"> 
+    <opispunktu typ="most" kolejnosc="-1">Wisząca kładka dla pieszch.</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Żejmiany do Wilii (Neris). Stąd, płynąc Wilią, jest 50km do centrum Wilna. Wilia na tym odcinku jest malowniczą rzeką o szerokości koryta około 60m, z szybkim nurtem (występnują nawet bystrza WW1 ).Tak więc spłynięcie do stolicy Litwy jest ciekawą kontynuacją szlaku Żejmiany. Jedynym mankamentem Wilii jest znacznie brudniejsza niż w Żejmianie woda, lecz miejscowi się w niej kąpią, choć mniej chętnie niż w Żejmianie.</opispunktu> 
+    </punkt>
+    <punkt id="1333" miejscowosc="" 
+      ns="54.91138" we="25.64036" km="85.89" etykieta="p108" 
+      kolejnosc="50"> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Bystrze z dużym kamieniem wystającym z wody - dobrze widocznym. Należy zachować ostrożność i opływać kamień z lewej strony (dodatkową atrakcją mogą być tam kładące się na rzekę gałęzie). To miejsce nie stanowi zagrożenia dla życia, ale jak się głupio napłynie, to wywrócić się można.</opispunktu> 
+    </punkt>
+    <punkt id="1332" miejscowosc="Drużyle (Druziliai)" 
+      ns="54.91404" we="25.64016" km="85.39" etykieta="p107" 
+      kolejnosc="49"> 
+    <opispunktu typ="most" kolejnosc="-1">Ostatni most drogowy na Żejmianie.</opispunktu> 
+    </punkt>
+    <punkt id="1331" miejscowosc="" 
+      ns="54.92931" we="25.64285" km="82.77" etykieta="p106" 
+      kolejnosc="48"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu niewielki biwak w lesie zaraz za zakrentem rzeki w lewo. Słabe zejście do wody.</opispunktu> 
+    </punkt>
+    <punkt id="1330" miejscowosc="" 
+      ns="54.93159" we="25.64675" km="82.2" etykieta="p105" 
+      kolejnosc="47"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na prawym brzegu biwak w lesie.</opispunktu> 
+    </punkt>
+    <punkt id="1329" miejscowosc="" 
+      ns="54.93888" we="25.65463" km="79.85" etykieta="p104" 
+      kolejnosc="46"> 
+    <opispunktu typ="most" kolejnosc="-1">Wisząca kładka.</opispunktu> 
+    </punkt>
+    <punkt id="1328" miejscowosc="" 
+      ns="0" we="0" km="" etykieta="biw" 
+      kolejnosc="45"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Dalej na długości kilku kilometrów są łąki i trochę dalej od brzegów lasy. Na tych łąkach dałoby się zabiwakować, tylko że prawdopodobnie są to właśności pywatne i przed rozbiciem namiotów wypadałoby poszukać właściciela i uzyskać zgodę na biwakowanie.</opispunktu> 
+    </punkt>
+    <punkt id="1327" miejscowosc="" 
+      ns="54.94686" we="25.66469" km="78.35" etykieta="p101" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Wisząca kładka . (Jeszcze trochę  wcześniej jest też wisząca kładka, ale pomiar zaginął)</opispunktu> 
+    </punkt>
+    <punkt id="1326" miejscowosc="Sapieżyszki (Sapiegiskes)" 
+      ns="54.95317" we="25.6844" km="76.71" etykieta="p99" 
+      kolejnosc="43"> 
+    <opispunktu typ="most" kolejnosc="-1">Wisząca kładka dla pieszych.</opispunktu> 
+    </punkt>
+    <punkt id="1325" miejscowosc="" 
+      ns="54.95616" we="25.69609" km="75.48" etykieta="p98" 
+      kolejnosc="42"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak w lesie na prawym brzegu.</opispunktu> 
+    </punkt>
+    <punkt id="1324" miejscowosc="Pdbrodzie (Pabrade)" 
+      ns="54.97286" we="25.75286" km="70.7" etykieta="p96" 
+      kolejnosc="41"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po prawej stronie można zabiwakoć. Niezbyt równa łączka otoczona krzakami. Mogą tu przychodzić miejscowi z pobliskiego daczowiska, aby sie pokompać. Stąd jest około kilometra do sklepów w Podbrodziu.</opispunktu> 
+    </punkt>
+    <punkt id="1323" miejscowosc="Podbrodzie (Pabrade)" 
+      ns="54.97853" we="25.76412" km="69.6" etykieta="p95" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych.</opispunktu> 
+    </punkt>
+    <punkt id="1322" miejscowosc="Podbrodzie (Pabrade)" 
+      ns="54.98424" we="25.77228" km="86.86" etykieta="p94" 
+      kolejnosc="39"> 
+    <opispunktu typ="ujście" kolejnosc="-1">z prawej strony wpada rzeka Dubinka (Dubinga). Jest ona dostępna dla kajaka.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">W Podbrodziu jest dużo sklepów. Dobrze zaopatrzony spożywczy samobsługowy jest przy moście kilkadziesiąt metrów po lewej stronie rzeki. Można tu w okolicy mostu się zatrzymać, choć nie jest to super miejsce. Jednak dalej płynąc prze z Podbrodzie z dobrymi miejscami na postój też nie jest najlepiej.</opispunktu> 
+    </punkt>
+    <punkt id="1321" miejscowosc="" 
+      ns="55.01163" we="25.80613" km="62.47" etykieta="p90" 
+      kolejnosc="38"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na prawym brzegu biwak przy leśnej drodze.</opispunktu> 
+    </punkt>
+    <punkt id="1320" miejscowosc="" 
+      ns="55.02563" we="25.84131" km="57.24" etykieta="p89" 
+      kolejnosc="37"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na lewym brzegu. Niezbyt dobre zejście do wody.</opispunktu> 
+    </punkt>
+    <punkt id="1319" miejscowosc="" 
+      ns="55.028525" we="25.847615" km="56.55" etykieta="umera" 
+      kolejnosc="36"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście rzeczki Mera.</opispunktu> 
+    </punkt>
+    <punkt id="1318" miejscowosc="" 
+      ns="55.03201" we="25.85446" km="55.48" etykieta="p87" 
+      kolejnosc="35"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu biwak na dwumetrowej skarpie, stół.</opispunktu> 
+    </punkt>
+    <punkt id="1317" miejscowosc="" 
+      ns="55.03213" we="25.86103" km="54.67" etykieta="p86" 
+      kolejnosc="34"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na prawym brzegu.</opispunktu> 
+    </punkt>
+    <punkt id="1316" miejscowosc="" 
+      ns="55.03071" we="25.8628" km="54.52" etykieta="p85" 
+      kolejnosc="33"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Za mostem po lewej stronie jest biwak. Miejsca na namioty bez ograniczeń, dość błotniste zejście do wody.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Stary, dostojny, rozpadający się drewniany most. Chodzić po nim się da, ale samochody już raczej po nim nie jeżdżą. Jesteśmy w sercu przedwojennego polskiego poligonu wojskowego o nazwie Pohulanka.</opispunktu> 
+    </punkt>
+    <punkt id="1315" miejscowosc="" 
+      ns="55.04704" we="25.86745" km="51.25" etykieta="p84" 
+      kolejnosc="32"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na prawym brzegu piaszczysta skarpa - wysoka, ale jest też łagodniejsze zejście. Wadą tego miejsca jest bezpośrednia bliskośc drogi leśnej dostępnej dla samochodów.</opispunktu> 
+    </punkt>
+    <punkt id="1314" miejscowosc="Moskerine" 
+      ns="55.05941" we="25.86328" km="48.12" etykieta="p83" 
+      kolejnosc="31"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pobór wody z Żejmiany na rozległe stawy hodowlane. (Przypuszczenie: Jak się wyjdzie na brzeg, to może być ciekawy rozległy widok na te stawy).</opispunktu> 
+    </punkt>
+    <punkt id="1313" miejscowosc="" 
+      ns="55.06065" we="25.86805" km="47.52" etykieta="p82" 
+      kolejnosc="30"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na skarpie na lewym brzegu - strome zejście do wody (po skarpie).</opispunktu> 
+    </punkt>
+    <punkt id="1312" miejscowosc="" 
+      ns="55.06165" we="25.86856" km="47.38" etykieta="p81" 
+      kolejnosc="29"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na lewym brzegu. Zejście do wody gorsze niż na poprzednim.</opispunktu> 
+    </punkt>
+    <punkt id="1311" miejscowosc="" 
+      ns="55.06329" we="25.87202" km="47.06" etykieta="p80" 
+      kolejnosc="28"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu biwak na niewielkiej, łagodnie schodzącej piaszczystej skarpie. Miejsc na namioty bez ograniczeń.</opispunktu> 
+    </punkt>
+    <punkt id="1310" miejscowosc="" 
+      ns="55.07373" we="25.89867" km="42.49" etykieta="p79" 
+      kolejnosc="27"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na skarpie na prawym brzegu. Ładny widok, ale biwak mało dostosowany do kajakarzy, bo trzeba wciągać kajaki na stromą skarpę. Jest poręcz.</opispunktu> 
+    </punkt>
+    <punkt id="1309" miejscowosc="" 
+      ns="55.08314" we="25.92233" km="38.9" etykieta="p78" 
+      kolejnosc="26"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na prawym, wysokim brzegu. Rzadki, dostojny sosnowy las. Miejsc pod namioty bez ograniczeń.</opispunktu> 
+    </punkt>
+    <punkt id="1308" miejscowosc="Jawonodary (Jaunadaris)" 
+      ns="55.082859" we="25.927287" km="39.44" etykieta="p77" 
+      kolejnosc="25"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Tu rzeka podpływa pod samą stację kolejową o nazwie Zeimena, do której z Wina jedzie się niecałe półtorej godziny. Stąd często Litwini zaczynają weekendowe spływanie swoimi dmuchanymi pływadłami.</opispunktu> 
+    </punkt>
+    <punkt id="1307" miejscowosc="" 
+      ns="55.09567" we="25.93998" km="35.73" etykieta="p76" 
+      kolejnosc="24"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na prawym brzegu. Równe miejsce tylko na kilka namiotów.</opispunktu> 
+    </punkt>
+    <punkt id="1306" miejscowosc="Rymki (Liuline)" 
+      ns="55.10126" we="25.94848" km="34.9" etykieta="p75" 
+      kolejnosc="23"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Tabliczka mówi, że 500m stąd na lewym brzegu jest jakiś sklep z piwem i czymś tam jeszcze.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Nowy, betonowy most drogowy. Za mostem po prawej stronie jest dobre miejsce do wyjścia na ląd - ładna trawka, stoliki.</opispunktu> 
+    </punkt>
+    <punkt id="1305" miejscowosc="" 
+      ns="55.10542" we="25.9456" km="34" etykieta="p74" 
+      kolejnosc="22"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na prawym brzegu. Trzy stoły, kibelek; mniej śmieci, bo jest kosz.</opispunktu> 
+    </punkt>
+    <punkt id="1304" miejscowosc="" 
+      ns="55.109754" we="25.946837" km="33.33" etykieta="ulok" 
+      kolejnosc="21"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście rzeki Łokaja (Lakaja). Łokaja jest dostępna dla kajaka i podobno ciekawa.</opispunktu> 
+    </punkt>
+    <punkt id="1303" miejscowosc="" 
+      ns="55.12282" we="25.96496" km="28.91" etykieta="p73" 
+      kolejnosc="20"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak "oficjalny" (tzn. z tabliczkami, pewnie zaznaczany na mapach), stoły.</opispunktu> 
+    </punkt>
+    <punkt id="1302" miejscowosc="" 
+      ns="55.12978" we="25.96618" km="26.75" etykieta="72" 
+      kolejnosc="19"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Bardzo dobry biwak na prawym brzegu na ostrym zakęcie rzeki w lewo. Rozległe miejsce na namioty na górce-polance, z której jest ładny widok na dolinę rzeki. Zejście do wody jest wygodne i piaszczyste. </opispunktu> 
+    </punkt>
+    <punkt id="1301" miejscowosc="Gernis (Garnys)" 
+      ns="55.13206" we="25.96955" km="26.26" etykieta="p71" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Wisząca kładka.</opispunktu> 
+    </punkt>
+    <punkt id="1300" miejscowosc="" 
+      ns="55.145" we="25.98246" km="24.39" etykieta="p70" 
+      kolejnosc="17"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwy biwak na prawym wysokim brzegu.</opispunktu> 
+    </punkt>
+    <punkt id="1299" miejscowosc="Płatumy (Platumai)" 
+      ns="55.15678" we="25.98437" km="22.87" etykieta="p69" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="1298" miejscowosc="Nowe Święciany (Svencioneliai)" 
+      ns="55.17202" we="25.98635" km="20.84" etykieta="p68" 
+      kolejnosc="15"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Jest to dobre miejsce na zrobienie wycieczki do rozlicznych sklepów w Nw.Święcianach. Jednak w bezpośrednim sąsiedztwie rzeki nie ma sklepu - trzeba się udać około 1km w kierunku centrum miasta, które leży na lewym brzegu rzeki.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy  pod Nw.Świecianami. Dogodne miejsce do wyjścia na brzeg jest przed mostem zarówno na prawym, jak i na lewym brzegu. Na prawym brzegu są stoliki, sławojka, ładna trawka i lubią tu przesiadywać miejscowi.</opispunktu> 
+    </punkt>
+    <punkt id="1297" miejscowosc="" 
+      ns="55.18151" we="25.98236" km="19.66" etykieta="p67" 
+      kolejnosc="14"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na prawym brzegu można zabiwakować. Jest stół. Nie jest to najlepsze miejsce, bo po śmieciach widać, że miejscowi przyjeżdzają tu na wódkę.</opispunktu> 
+    </punkt>
+    <punkt id="1296" miejscowosc="" 
+      ns="55.19382" we="25.98259" km="16.92" etykieta="p66" 
+      kolejnosc="13"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwy biwak na lewym brzegu w sosnowym lesie.</opispunktu> 
+    </punkt>
+    <punkt id="1295" miejscowosc="" 
+      ns="55.20445" we="25.97987" km="15.37" etykieta="p65" 
+      kolejnosc="12"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Dobry biwak po lewej stronie, na niewielkiej górce za ujściem rzeczki.</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście niewielkiej, rzeczki Szaminy (Sventele) - zaraz powyżej ujścia ta rzeczka wypływ z jeziora Bujwickiego (Telys)</opispunktu> 
+    </punkt>
+    <punkt id="1294" miejscowosc="Słobodziszki (Slabadiske)" 
+      ns="55.20283" we="25.96606" km="13.72" etykieta="p62" 
+      kolejnosc="11"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu - chyba najfajniejsze miejsce na biwak nad Żejmianą, połozone na górce, otoczone ze wszystkich stron sosnowym lasem. Dużo namiotów się zmieści.</opispunktu> 
+    </punkt>
+    <punkt id="1293" miejscowosc="" 
+      ns="55.21195" we="25.94921" km="10.41" etykieta="p61" 
+      kolejnosc="10"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak na lewym brzegu na dwumetrowej skarpie.</opispunktu> 
+    </punkt>
+    <punkt id="1292" miejscowosc="Łukno (Lukna)" 
+      ns="55.21668" we="25.94543" km="9.46" etykieta="p60" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeczki Łukna (Luknele). Nie jest ona dostępna dla kajaków.</opispunktu> 
+    </punkt>
+    <punkt id="1291" miejscowosc="" 
+      ns="55.21758" we="25.95182" km="8.82" etykieta="p59" 
+      kolejnosc="8"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po lewej stronie biwak śródleśny na wysokiej skarpie.</opispunktu> 
+    </punkt>
+    <punkt id="1290" miejscowosc="" 
+      ns="55.22456" we="25.95762" km="7.48" etykieta="58" 
+      kolejnosc="7"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Kameralne miejsce biwakowe na lewym brzegu. </opispunktu> 
+    </punkt>
+    <punkt id="1289" miejscowosc="(Naujoji Brasta)" 
+      ns="55.2277" we="25.96504" km="6.04" etykieta="p57" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych.</opispunktu> 
+    </punkt>
+    <punkt id="1288" miejscowosc="Szakaliszki (Sakaliske)" 
+      ns="55.236859" we="25.973144" km="4.25" etykieta="p56" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej stronie ujście rzeki Kiewny. Rzeka Kiewna jest atrakcyjnym szlakiem kajakowym. Jest godną polecenia opcją poprzedzającą spływ Żejmianą. Nurt w Żejmianie powyżej ujścia Kiewny nie jest zbyt silny i jest do pokonania dla przeciętnego kajakarza. Tak więc kajakową wędrówkę można zacząć od szlaku Kiewny, a następnie podpłynąć Żejmianą pod prąd te 4 km i zwiedzić pojezierze Święciańskie. Potem można zawrócić i spłynąć całą Żejmianę.</opispunktu> 
+    </punkt>
+    <punkt id="1287" miejscowosc="" 
+      ns="55.24117" we="25.980685" km="3.26" etykieta="mkz" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="1286" miejscowosc="Kołtyniany (Kaltanenai)" 
+      ns="55.24277" we="25.98146" km="3.03" etykieta="p52" 
+      kolejnosc="3"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Duży biwak na prawym brzegu, stoliki. Płatny.</opispunktu> 
+    </punkt>
+    <punkt id="1285" miejscowosc="Kołtyniany (Kaltanenai)" 
+      ns="55.24595" we="25.98338" km="2.6" etykieta="p53" 
+      kolejnosc="2"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Niewielki biwak na prawym brzegu, prawdopodobnie płatny, stół.</opispunktu> 
+    </punkt>
+    <punkt id="1284" miejscowosc="Kołtyniany (Kaltanenai)" 
+      ns="55.25276" we="25.9911" km="0.94" etykieta="p54" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Duży most drogowy.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Bardzo dobrze zaopatrzony sklep spożywczy 50m od mostu na lewym brzegu rzeki.</opispunktu> 
+    </punkt>
+    <punkt id="1283" miejscowosc="Kołtyniany (Kaltanenai)" 
+      ns="55.256328" we="26.001756" km="0" etykieta="wypz" 
+      kolejnosc="0"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">wypływ rzeki Żejmiany z jeziora jeziora Żejmiana. Tu rzeka ma już prawie 10m szerokości.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

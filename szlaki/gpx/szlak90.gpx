@@ -1,0 +1,160 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.38929664" lon="15.28802696">
+<name>46.00</name>
+<desc>Betonowy most na leśnej drodze, wygodne miejsce wodowania kajaków. Pod mostkiem próg 3 przęsłowy, prawdopodobnie piętrzący wodę dla młyna, którego ruiny znajdują się w odległości 50m po prawej stronie w lesie. W pobliżu sporo miejsca na dziki biwak</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.40882486" lon="15.29815940">
+<name>43.00</name>
+<desc>Ruiny wioski</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.41582041" lon="15.29343946">
+<name>41.90</name>
+<desc>Ruiny wioski</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.42695977" lon="15.27856010">
+<name>39.90</name>
+<desc>Z lewej strony rzekę zasila ciur, który czasami śmierdzi detergentami i mocno się pieni</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.44015952" lon="15.27061508">
+<name>37.90</name>
+<desc>Bardzo ładny sklepiony most ceglany na leśnej drodze. Miejsce to nazywane jest Czerwonym Mostem. Miejsce po nieistniejącej już wsi Nowoszów</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.45536222" lon="15.25016099">
+<name>34.90</name>
+<desc>Ruiny młyna, betonowy most na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.47225227" lon="15.23611021">
+<name>31.40</name>
+<desc>Z lewej strony ujście rzeki Ziębiny</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.48505079" lon="15.23245670">
+<name>29.40</name>
+<desc>Jaz wysokości 1m, zaraz za nim most na drodze gruntowej. Wygodne miejsce wodowania kajaków</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.48993961" lon="15.23160966">
+<name>28.50</name>
+<desc>Próg o wysokości około 2m, trzy przęsła, nad nimi stalowa kładka. Najwygodniej jest spływać środkowym przęsłem i zaraz odbić w lewo, ponieważ poniżej progu po prawej stronie wystaje betonowa płyta</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.51918529" lon="15.21824366">
+<name>24.10</name>
+<desc>Czerna Wielka łączy się z Czerną Małą, dalej płynąc jako Czerna</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.51936900" lon="15.21852151">
+<name>24.00</name>
+<desc>Most na lokalnej drodze, pod nim bystrze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.52252404" lon="15.22168513">
+<name>23.40</name>
+<desc>Most drogi nr 18</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.52431198" lon="15.22663150">
+<name>22.90</name>
+<desc>Rzędy pali drewnianych tworzących rodzaj prożka. Często zatrzymują się tu spływające drzewa, piętrząc wodę i utrudniając przejście</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.53056091" lon="15.23930236">
+<name>21.30</name>
+<desc>Próg o wysokości około 1,5m zbudowany z wielkich głazów. Najwygodniej jest go spływać bliżej prawej strony, tutaj fragment pionowy zrębu progu jest niższy </desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.53107763" lon="15.23983374">
+<name>21.20</name>
+<desc>Drogowy most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.56378116" lon="15.26781587">
+<name>14.00</name>
+<desc>Jaz elektrowni. Spływać w prawo od budynku przez 5 przęsłowy, 3 stopniowy próg z kładką. Najwygodniej skoczyć środkowym przęsłem, ponieważ najłatwiej wtedy trafić na nurcie w wąską ścieżkę wyrwę  w rzędzie ostro krawędzistych kamieni ułożonych w poprzek nurtu, poniżej ostatniego stopnia progu</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.56803102" lon="15.26808283">
+<name>13.40</name>
+<desc>Most na ruchliwej drodze z Żagania do Iłowej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.56944403" lon="15.26880499">
+<name>13.10</name>
+<desc>Drewniany mostek - kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.59770209" lon="15.27234466">
+<name>7.40</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.60320705" lon="15.28365416">
+<name>5.80</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.61125204" lon="15.28412692">
+<name>4.20</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.61364629" lon="15.28863324">
+<name>3.80</name>
+<desc>Prożek przy ruinach papierni</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.61397992" lon="15.28965800">
+<name>3.70</name>
+<desc>Most przy ruinach papierni</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.61598975" lon="15.29198508">
+<name>3.30</name>
+<desc>Wąski przesmyk w prawo na zalew przed przystanią klubu Szron-Czerna</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.62331367" lon="15.29256599">
+<name>2.30</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.62586520" lon="15.29401412">
+<name>2.00</name>
+<desc>Próg kamienny</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.62745580" lon="15.29428794">
+<name>1.80</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.62916218" lon="15.30094057">
+<name>1.20</name>
+<desc>Most na ul. Chrobrego</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.63246794" lon="15.30535930">
+<name>0.20</name>
+<desc>Most na drodze nr 12</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.63430408" lon="15.30579013">
+<name>0.00</name>
+<desc>Ujście Czernej do Bobru</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

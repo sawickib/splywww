@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="87" nazwa="Ina" wersja="2">
+<opis>Rzeka Ina jest prawym dopływem Odry, ma długość 129 km i przepływa przez Pojezierze Ińskie i Nizinę Szczecińską. Średni spadek rzeki to 0,4%, w górnym biegu ok. 1%, a dolnym ok. 0,2%. Rzeka dostępna jest dla spływów od miejscowości Recz (można do niej dojechać pociągiem), a sam szlak kajakowy ma ponad 100 km. Górny odcinek, od Recza do Stargardu polecany jest dla doświadczonych i zapalonych kajakarzy. Dla mniej doświadczonych polecany jest odcinek od Stargardu, aż do ujścia rzeki. Cała rzeka jest do przepłynięcia w 5-7 dni, odcinek ze Stargardu do ujscia 2-4. Osobiście polecam organizację spływu rzeką Iną i Krąpiel (bardzo malowniczy i piękny dopływ Iny przed Stargardem) na odcinku od Pęzina (Krąpiel), aż do ujscia Iny. Jest to wtedy odcinek ok. 75 km bardzo malowniczego spływu-idealna trasa na długi weekend 3-5 dni. Opis powstał na podstawie informacji zlokalizowanych na stronach internetowych Centrum Informacji Turystycznej Stargard, gminy Goleniów, własnych doświadczeń zebranych podczas spływu Iną oraz kilku wizji lokalnych. Życzę udanych spływów:)</opis> 
+  <odcinek id="355" typ="rzeka" nazwa="Inoujście" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="4"> 
+  <opis>Rzeka poniżej Goleniowa płynie uregulowanym korytem przez podmokłe łąki, nie meandruje, nurt jest spokojny (odcinek troszkę przypomina międzyodrze). Ina uchodzi do Odry na wysokości miejscowości Police. Jeśli nie skończyłeś spływu wcześniej, to można popłynąć na drugą stronę Odry i zakończyć go w Policach (należy uważać na duże pełnomorskie statki, które tamtędy pływają) lub popłynąć na południowy-wschód przez Jezioro Dąbie do stanicy w Lubczynie (ok 5km). Po drodze do Lubczyny na Jeziorze Dąbie można zauważyć wrak statku-betonowca - warte obejrzenia.</opis>
+    <punkt id="4686" miejscowosc="Inoujście" 
+      ns="53.56033676" we="14.74583943" km="9.1" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po prawej stronie znajduje się pomost, wiata oraz oznakowany parking. Miejsce nadaje się na dziki biwak</opispunktu> 
+    </punkt>
+    <punkt id="2956" miejscowosc="Goleniów" 
+      ns="53.56605697" we="14.78486371" km="12.3" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="most" kolejnosc="-1">Most lokalnej drogi</opispunktu> 
+    </punkt>
+    <punkt id="2955" miejscowosc="Goleniów" 
+      ns="53.56508802" we="14.79651421" km="13" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi krajowej nr 3</opispunktu> 
+    </punkt>
+    <punkt id="2954" miejscowosc="Goleniów" 
+      ns="53.56649705" we="14.81856204" km="14.8" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="most" kolejnosc="-1">Most ul. Przestrzennej</opispunktu> 
+    </punkt>
+    <punkt id="4685" miejscowosc="Goleniów" 
+      ns="53.56284098" we="14.82682168" km="15.8" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W Goleniowie znajduje się wiele ciekawych zabytków wartych zobaczenia</opispunktu> 
+    <opispunktu typ="lekarz" kolejnosc="-1">W Goleniowie znajduje się szpital</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Za mostem po lewej stronie znajduje się dobre miejsce na wyjście z kajaka, a przy samym brzegu znajduje się bar</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Za barem znajduje się sklep Netto, oprócz tego w Goleniowie znajduje się jeszcze wiele innych sklepów</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most ul. Szczecińska</opispunktu> 
+    </punkt>
+    <punkt id="2953" miejscowosc="Goleniów" 
+      ns="53.56274374" we="14.82692851" km="15.8" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście po prawej Goleniowskiej Strugi</opispunktu> 
+    </punkt>
+    <punkt id="2952" miejscowosc="Goleniów" 
+      ns="53.56019007" we="14.83181568" km="16.3" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="most" kolejnosc="-1">Most ul. Andersa</opispunktu> 
+    </punkt>
+    <punkt id="2951" miejscowosc="Goleniów" 
+      ns="53.55682269" we="14.83531811" km="16.8" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="most" kolejnosc="-1">Most ul. Kasprowicza</opispunktu> 
+    </punkt>
+    <punkt id="2950" miejscowosc="Goleniów" 
+      ns="53.55369893" we="14.83683823" km="17.2" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy - kratownicowy</opispunktu> 
+    </punkt>
+    <punkt id="4684" miejscowosc="Goleniów" 
+      ns="53.55056892" we="14.83941997" km="17.6" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Kamienne bystrze</opispunktu> 
+    </punkt>
+    <punkt id="4683" miejscowosc="Stargard Szczeciński" 
+      ns="53.3102067" we="15.06409583" km="64.1" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście kanału Rzeplińskiego po lewej</opispunktu> 
+    </punkt>
+    <punkt id="4687" miejscowosc="Inoujście" 
+      ns="53.55374737" we="14.70277022" km="5.4" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="most" kolejnosc="-1">Most lokalnej drogi - betonowe płyty na konstrukcji stalowej</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Za mostem wiata i pomost</opispunktu> 
+    </punkt>
+    <punkt id="2957" miejscowosc="Inoujście" 
+      ns="53.53628963" we="14.64598839" km="0.7" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">2 betonowe filary po moście</opispunktu> 
+    </punkt>
+    <punkt id="2958" miejscowosc="Inoujście" 
+      ns="53.53412486" we="14.63556382" km="0" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Iny do Odry. Możliwy dojazd samochodem od północy drogą z betonowych płyt. Wiata i tablica informacyjna</opispunktu> 
+    <opispunktu typ="stanica" kolejnosc="-1">Stanica znajduje się na wschodnim brzegu Jeziora Dąbie ok. 5 km na południowy-wschód od ujścia Iny do Odry</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="354" typ="rzeka" nazwa="Puszcza Goleniowska" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Najbardziej malowniczy odcinek, rzeka bardzo mocno meandruje, przepływa przez puszczę Goleniowską, nurt dość silny, lubi zaskakiwać i wpychać na różne przeszkody szczególnie na meandrach (niektóre meanrdy maja kąt zwrotu nawet 180 stopni). Odcinek (aż do ujścia rzeki) regularnie czyszczony i zagospodarowany pod kątem spływów kajakowych (rampy do wodowania, miejsca na posiłek, tablice informacyjne)</opis>
+    <punkt id="2949" miejscowosc="Zabród" 
+      ns="53.551801" we="14.838592" km="19" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Wiśniówki</opispunktu> 
+    </punkt>
+    <punkt id="4682" miejscowosc="Zabród" 
+      ns="53.5267708" we="14.84486405" km="21.6" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość założenia dzikiego biwaku na wysokim brzegu po prawej stronie</opispunktu> 
+    </punkt>
+    <punkt id="2947" miejscowosc="Łęsko" 
+      ns="53.49605" we="14.854159" km="25" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="biwak" kolejnosc="-1">100 metrów od brzegu, po lewej stronie znajduje się kwatera myśliwska w Łęsku. Można tam przenocować w bardzo dobrych warunkach lub za zgodą leśniczego na polanie obok kwatery rozbić obóz (są tam również wiaty, ławki i miejsce na ognisko). Przybycie należy konsultować z nadleśnictwem Kliniska ze względu na częste imprezy myśliwskie. Wyjście na brzeg bardzo trudne</opispunktu> 
+    </punkt>
+    <punkt id="2946" miejscowosc="Łęsko" 
+      ns="53.49175712" we="14.86622166" km="27.7" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="most" kolejnosc="-1">Most lokalnej drogi</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zaraz za mostem po lewej stronie znajduje się pochylnia do wodowania kajaków oraz wiata z ławeczkami, miejsce rozpoczęcia szlaku kajakowego "Meandry Iny"</opispunktu> 
+    </punkt>
+    <punkt id="2945" miejscowosc="Strumiany" 
+      ns="53.44016442" we="14.90230446" km="37.4" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi nr 142 Szczecin - Chociwel</opispunktu> 
+    </punkt>
+    <punkt id="2944" miejscowosc="Sowno" 
+      ns="53.43488701" we="14.90702202" km="38.2" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="most" kolejnosc="-1">Most lokalnej drogi, po lewej miejscowość Sowno,odległość ok. 500m, brak dobrego miejsca do wyjścia z kajaka. Za mostem schodki i tabliczka "Zakończenie spływu"</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="353" typ="rzeka" nazwa="Meandrowy zawrót głowy" 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="2"> 
+  <opis>Rzeka meandruje, brzegi są dość wysokie, nieuregulowane, czasami bardzo efektownie podmyte. Rzeka przepływa przez pola, łąki i niewielkie lasy, odcinki w pobliżu wiosek dość mocno zarośnięte wierzbami i czasami zaśmiecone. Na tym odcinku można napotkać sporą liczbę zwalonych drzew, większość przeszkód można jednak sprzepłynąć bez wychodzenia z kajaka.</opis>
+    <punkt id="2941" miejscowosc="Poczernin" 
+      ns="53.42172949" we="14.94862998" km="44.5" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Za Poczerninem znajduje się wiele ładnych łąk z dobrymi miejscami do wyjścia na brzeg, na których można rozbić dzikie obozowisko. W korycie rzeki pojawia się sporo powalonych drzew stosunkowo łatwych jednak do przepłynięcia</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">W Poczerninie znajduje się sklep spożywczy otwarty o różnych porach dnia</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Za mostem po lewej stronie znajduje się dobre miejsce do wyjścia na brzeg - piaszczysta plaża</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most lokalnej drogi do Poczernina, miejscowość po prawej stronie</opispunktu> 
+    </punkt>
+    <punkt id="2939" miejscowosc="Rogowo" 
+      ns="53.40409081" we="14.97529356" km="49.2" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na prawym brzegu znajduje się wiata ze stołem i ławkami (niestety nie wiem czy jest prywatna czy ogólnie dostępna - jak tam byłem to nikt mnie nie wyganiał) jest to ciekawe miejsce na biwak (250m od drogi Rogowo-Poczernin), alternatywnie na biwak polecam łąkę na lewym brzegu (30m za wiatą po lewej stronie znajduje się dogodne miejsce na wyjście z kajaka)</opispunktu> 
+    </punkt>
+    <punkt id="2938" miejscowosc="Rogowo" 
+      ns="53.39695684" we="14.98421336" km="50.2" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Mała drewniana kładka dla pieszych i rowerzystów, przed mostkiem wystaje kilka starych filarów z poprzedniego mostu</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">W Rogowie znajduje się sklep spożywczy</opispunktu> 
+    </punkt>
+    <punkt id="4681" miejscowosc="Rogowo" 
+      ns="53.39483735" we="14.9812185" km="50.8" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Ładne miejsce na dziki biwak na łące w zakolu rzeki</opispunktu> 
+    </punkt>
+    <punkt id="2937" miejscowosc="Lubowo" 
+      ns="53.38255764" we="15.0009571" km="53.2" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Ładny kratownicowy most kolejki wąskotorowej. Rzeka zaczyna meandrować</opispunktu> 
+    </punkt>
+    <punkt id="2936" miejscowosc="Lubowo" 
+      ns="53.38102446" we="15.00686476" km="53.7" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi Lubowo - Żarowo, Lubowo po prawej stronie</opispunktu> 
+    </punkt>
+    <punkt id="2935" miejscowosc="Klępino" 
+      ns="53.380039" we="15.00859" km="55" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Małki, prawa strona</opispunktu> 
+    </punkt>
+    <punkt id="2934" miejscowosc="Klępino" 
+      ns="53.36448421" we="15.03116424" km="56.7" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="sklep" kolejnosc="-1">W Klępinie znajduje się sklep otwarty w różnych godzinach</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most lokalnej drogi, Klępino po prawej, odległość ok. 200m</opispunktu> 
+    </punkt>
+    <punkt id="2932" miejscowosc="Stargard Szczeciński" 
+      ns="53.34927096" we="15.04136236" km="58.7" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Nieco niżej z lewej dopływ niedoczyszczonych ścieków z oczyszczalni ma niebagatelny wpływ na organoleptyczne właściwości wody (smród detergentów i piana). Do Lubowa odcinek z łozami po obu stronach rzeki</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Młynówki</opispunktu> 
+    </punkt>
+    <punkt id="2931" miejscowosc="Stargard Szczeciński" 
+      ns="53.34320836" we="15.04874622" km="59.6" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="most" kolejnosc="-1">Most ul. Młyńskiej, ostatni most w Stargardzie, po prawej stronie za mostem dobre miejsce na wodowanie kajaków </opispunktu> 
+    </punkt>
+    <punkt id="2930" miejscowosc="Stargard Szczeciński" 
+      ns="53.34138742" we="15.0500015" km="59.8" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pod mostem przy niskim stanie wody kamienne bystrze</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most ul. Bolesława Chrobrego </opispunktu> 
+    </punkt>
+    <punkt id="2929" miejscowosc="Stargard Szczeciński" 
+      ns="53.3385974" we="15.04972855" km="60.1" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W Stargardzie zlokalizowane jest wiele bardzo cennych zabytków szczególnie z epoki średniowiecza. Przepływając przez  miasto naprawdę warto się zatrzymać i je zobaczyć - robią wrażenie</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">W Stargardzie nie ma żadnego pola biwakowego, jest natomiast schronisko PTTK ( 200m od jazu) oraz kilka hoteli</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przy wysokim poziomie wody i otwartych grodziach bardzo szybki nurt</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz "Stargard"</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Wyjście po prawej stronie, przenoska ok 100m, trudne zejście do rzeki. W zależności od ilości wody, można przerzucić kajaki przez grodzie na suchy próg za zastawką</opispunktu> 
+    </punkt>
+    <punkt id="2928" miejscowosc="Stargard Szczeciński" 
+      ns="53.3374991" we="15.04935565" km="60.2" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Kanału Młyńskiego, lewa strona, można nim popłynąć w celu zwiedzenia części miasta nie wychodząc z kajaka, lecz nie należy nim płynąć z nadzieją przepłynięcia miasta i powrotu do głównego koryta Iny. Kanał na części swojej długości jest podziemny</opispunktu> 
+    </punkt>
+    <punkt id="2927" miejscowosc="Stargard Szczeciński" 
+      ns="53.33636633" we="15.04880273" km="60.3" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Most ulicy Kazimierza Wielkiego</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Przed mostem na lewym brzegu znajduje się przyjemna restauracja/kawiarnia z ładnym tarasem nad rzeką. Pod tarasem znajdują się stare betonowe schody, z których można skorzystać przy wychodzeniu z kajaka</opispunktu> 
+    </punkt>
+    <punkt id="4680" miejscowosc="Stargard Szczeciński" 
+      ns="53.33580306" we="15.04825299" km="60.4" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="bar" kolejnosc="-1">Zaraz za mostkiem po lewej stronie znajdują się schody do rzeki, można nimi wygodnie wyjść, 20 metrów obok znajduje się pub Venecja</opispunktu> 
+    </punkt>
+    <punkt id="2926" miejscowosc="Stargard Szczeciński" 
+      ns="53.33437446" we="15.04602243" km="60.7" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek Parkowy</opispunktu> 
+    </punkt>
+    <punkt id="2925" miejscowosc="Stargard Szczeciński" 
+      ns="53.33328327" we="15.0454006" km="60.8" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pomiędzy mostami często miejscowi wandale wrzucają koszyki z pobliskiego Lidla, przy niskim stanie wody można się na taką niespodziankę natknąć</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Duży LIDL zaraz przy moście</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Podwójny most ulicy Popiela - Wiejskiej i Obwodnicy Staromiejskiej. Duży ruch. Wygodne miejsce do wyjścia z wody za drugim mostem po prawej stronie.</opispunktu> 
+    </punkt>
+    <punkt id="2924" miejscowosc="Stargard Szczeciński" 
+      ns="53.32592664" we="15.04604757" km="61.7" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="352" typ="rzeka" nazwa="Łąki i bagna" 
+      uciazliwosc="U3" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Rzeka płynie uregulowanym i na długim odcinku obwałowanym korytem, otaczają ją głównie pola i łaki. Odcinek bardzo prosty i nieco nudnawy ale ze względu na małe zaludnienie okolicy dość czysty i spokojny. Na odcinkach niezarośniętych trzcinami ładnie widać zbocza doliny Iny. Ze względu na podmokły teren są duże problemy ze znalezieniem dobrego miejsca na rozbicie biwaku. </opis>
+    <punkt id="2921" miejscowosc="Stargard Szczeciński" 
+      ns="53.30930632" we="15.06495512" km="64.2" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi S10 - obwodnica Stargardu</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">100 m za mostem po lewej stronie na łące przed lasem można spróbować rozbić obóz, wyjście na brzeg średnio łatwe. Może być troszkę głośno ze względu na drogę S10 i linię kolejową</opispunktu> 
+    </punkt>
+    <punkt id="2920" miejscowosc="Witkowo" 
+      ns="53.29164174" we="15.08618781" km="67" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most lokalnej drogi, do Witkowa w lewo, odległość ok. 1,2km, wyjście z kajaka trudne, brzeg dość wysoki. Most w postaci betonowych płyt na stalowej konstrukcji</opispunktu> 
+    </punkt>
+    <punkt id="4679" miejscowosc="Krępcewo" 
+      ns="53.27884508" we="15.15422821" km="72.5" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ciekawe ruiny po lewej stronie. Na mapach miejsce to oznaczone jest jako "grodzisko"</opispunktu> 
+    </punkt>
+    <punkt id="2919" miejscowosc="Żukowo" 
+      ns="53.27331491" we="15.18869583" km="75.5" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz "Żukowo". Potrójna otwarta zastawka, spływanie bez problemów</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi Rzeplino - Żukowo, do Rzeplina w lewo, odległóść ok. 1,5 km, do Żukowa w prawo, odległość ok. 1,3km</opispunktu> 
+    </punkt>
+    <punkt id="2918" miejscowosc="Lipka" 
+      ns="53.26693865" we="15.24243697" km="80.2" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz "Lipka". Potrójna zastawka z kamieniami poniżej - spływalna</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska w przypadku zamknięcia zastawki. Trudno określić którą stroną będzie łatwiej</opispunktu> 
+    </punkt>
+    <punkt id="4678" miejscowosc="Lipka" 
+      ns="53.26308175" we="15.25997915" km="81.6" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość dzikiego biwakowania na łące nad rzeką po prawej stronie. Przestrzeń otwarta ale do najbliższych domostw bardzo daleko</opispunktu> 
+    </punkt>
+    <punkt id="2917" miejscowosc="Lipka" 
+      ns="53.25364" we="15.2786701" km="83.4" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Most (betonowe płyty na stalowej kratownicy) na drodze z Lipki na łąki, do Lipki w lewo, odległość ok 2km</opispunktu> 
+    </punkt>
+    <punkt id="2916" miejscowosc="Suchań" 
+      ns="53.25185813" we="15.30652461" km="85.5" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Kolejny próg wodny o wysokości 0,8 m z niewielkim odwojem</opispunktu> 
+    </punkt>
+    <punkt id="2915" miejscowosc="Suchań" 
+      ns="53.25469707" we="15.31408769" km="86.1" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg wysokości 0,8 m z niewielkim odwojem</opispunktu> 
+    </punkt>
+    <punkt id="2914" miejscowosc="Suchań" 
+      ns="53.25393208" we="15.32777508" km="87.3" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz "Suchań". Potrójna zastawka z kamieniami poniżej. W maju 2016 była otwarta - spływalna bez problemów</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska - przed jazem należy dobić do lewego brzegu i przenieść na drugą stronę jazu ok 10m</opispunktu> 
+    </punkt>
+    <punkt id="2913" miejscowosc="Suchań" 
+      ns="53.25375791" we="15.3331181" km="87.7" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi nr 160 Choszczno - Suchań, do Suchania w prawo, odległość ok. 3km, po prawej stronie za mostem znajdują się schodki ułatwiające wyjście z kajaka, brzegi dość wysokie</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pod mostem kamienie i stalowe pręty</opispunktu> 
+    </punkt>
+    <punkt id="2912" miejscowosc="Suchań" 
+      ns="53.253468" we="15.336721" km="89" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Reczycy (Ognicy), prawa strona</opispunktu> 
+    </punkt>
+    <punkt id="2911" miejscowosc="Sławęcin" 
+      ns="0" we="0" km="90" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Kanału Nosowo, prawa strona</opispunktu> 
+    </punkt>
+    <punkt id="2910" miejscowosc="Sławęcin" 
+      ns="53.25034921" we="15.38433811" km="91.6" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi ze Sławęcina, kierunek do wioski na lewo, odległość ok 2 km, brzegi podmokłe, wyjście z kajaka dość trudne
+</opispunktu> 
+    </punkt>
+    <punkt id="2909" miejscowosc="Stradzewo" 
+      ns="53.23650126" we="15.4510101" km="96.8" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most z bali</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pod mostem mały prożek</opispunktu> 
+    </punkt>
+    <punkt id="2908" miejscowosc="Stradzewo" 
+      ns="53.23644509" we="15.45142322" km="96.9" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Stobnicy z lewej strony. Rzeka wypływa z lasu na łąki, przestaje kręcić, robi się znacznie szersza i głębsza</opispunktu> 
+    </punkt>
+    <punkt id="2922" miejscowosc="Stargard Szczeciński" 
+      ns="53.31692791" we="15.05686519" km="63.2" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Małej Iny, lewa strona</opispunktu> 
+    </punkt>
+    <punkt id="2923" miejscowosc="Stargard Szczeciński" 
+      ns="53.31881738" we="15.05177647" km="62.7" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Krąpiel, prawa strona</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="351" typ="rzeka" nazwa="Recz" 
+      uciazliwosc="U4" trudnosc="ZWC" 
+      malowniczosc="***" czystosc="KL3" 
+      kolejnosc="0"> 
+  <opis>Rzeka jest dość wąska i płynie dość szybko, liczne zwalone drzewa. Bardzo urokliwy odcinek, rzeka płynie przez las w głębokiej dolinie. Odcinek polecany dla małych i doświadczonych grup kajakarzy.</opis>
+    <punkt id="2906" miejscowosc="Wapnica" 
+      ns="53.23592634" we="15.4776089" km="99" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po prawej stronie jazu znajduje się mała polana, na której można spróbować rozbić obozowisko (miejsce w środku lasu więc raczej nikt nie będzie niepokoić). Rozpoczyna się odcinek leśny z dużą ilością powalonych drzew</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz - zastawka "Wapnica", trudne wyjście z kajaka z obu stron rzeki, przy odrobinie szczęścia jaz może być na tyle otwarty, że będzie można go przepłynąć. W maju 2016 zastawka była podniesiona całkowicie</opispunktu> 
+    </punkt>
+    <punkt id="2905" miejscowosc="Recz" 
+      ns="53.259514" we="15.535623" km="103" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Reczanki, lewa strona</opispunktu> 
+    </punkt>
+    <punkt id="2904" miejscowosc="Recz" 
+      ns="53.2595932" we="15.53553788" km="105.6" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Przy progu wodnym po prawej stronie znajduje się mała polanka z miejscem na ognisko, można tam spróbować rozbić biwak, jednak jest to w pobliżu ruchliwej szosy (hałas drogowy permanentny)</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg wodny, a w zasadzie mała kaskada z wielkimi głazami poniżej</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym bądź lewym brzegiem po trawie na odległość zaledwie 20m</opispunktu> 
+    </punkt>
+    <punkt id="2903" miejscowosc="Recz" 
+      ns="53.26067068" we="15.5353183" km="105.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most ruchliwej drogi nr 10 Szczecin - Bydgoszcz. Półkolisty szeroki przepust pod drogą</opispunktu> 
+    </punkt>
+    <punkt id="4677" miejscowosc="Recz" 
+      ns="53.26128095" we="15.53575663" km="105.8" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niewielki prożek - kaskadka z przepławką dla ryb, można spłynąć środkiem, ewentualnie opuścić kajak na cumie</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Nad prożkiem jest kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="2902" miejscowosc="Recz" 
+      ns="53.26368687" we="15.54013857" km="106.2" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Wygodne miejsce na rozpoczęcie spływu. Dobry dojazd gruntową drogą. Możliwość dzikiego biwakowania na łące nad rzeką poniżej cmentarza (miejsce zaciszne i z dala od ludzi)</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

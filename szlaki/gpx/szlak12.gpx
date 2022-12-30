@@ -1,0 +1,416 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.88782974" lon="19.43462874">
+<name>701.50</name>
+<desc>Most drogowy. Możliwość rozpoczynania spływu, chociaż rzeka prowadzi małą ilość wody. Prawdopodobnie większość wody skierowana jest na młynówkę, przez którą most przechodzi kilkaset metrów dalej drogą na wschód</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.89159868" lon="19.44411907">
+<name>700.50</name>
+<desc>Połączenie młynówki z Wartą</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.90846728" lon="19.44950623">
+<name>698.40</name>
+<desc>W prawo odchodzi kanał Wiercica, 100m dalej jest przegrodzony zastawką, z której spływa niewystarczająca - do płynięcia - ilość wody</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="50.92360119" lon="19.44361096">
+<name>696.60</name>
+<desc>Jaz elektrowni wodnej</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.93098944" lon="19.44025121">
+<name>695.70</name>
+<desc>Prosto stare koryto, zapora z gruzu i larsenów przed zniszczonym jazem. Cała woda płynie w lewo młynówką</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.93405154" lon="19.43373316">
+<name>695.10</name>
+<desc>3 przęsłowa betonowa kładka nieznacznie piętrząca wodę</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.93719068" lon="19.43157334">
+<name>694.70</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.93895862" lon="19.43214634">
+<name>694.50</name>
+<desc>Jaz elektrowni wodnej</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.94527903" lon="19.43461943">
+<name>693.60</name>
+<desc>Prożek wys 1m, wskazane fartuchy</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.94798444" lon="19.43653391">
+<name>693.20</name>
+<desc>Połączenie starego koryta z młynówką</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.96125658" lon="19.44597322">
+<name>691.40</name>
+<desc>Most na lokalnej drodze. Dobre dojście do wody. Tablica z opisem szlaku Warty</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.97089000" lon="19.45151500">
+<name>690.10</name>
+<desc>Połączenie z kanałem Wiercicy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.97700354" lon="19.44866399">
+<name>689.40</name>
+<desc>Most drogowy. Wygodne miejsce wodowania, odpoczynku, biwaku. W pobliżu ławki i boisko do siatkówki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.99673900" lon="19.44420700">
+<name>687.10</name>
+<desc>W nurcie rzeki pale - pozostałości po starym moście</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.00920943" lon="19.43783248">
+<name>685.60</name>
+<desc>W nurcie rzeki rząd słabo widocznych pali - prożek delikatnie piętrzący wodę</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.01332762" lon="19.43521720">
+<name>685.10</name>
+<desc>Próg betonowy 1,3 m z odwojem, wskazany fartuch</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.01907647" lon="19.42750390">
+<name>684.30</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.02541700" lon="19.40389800">
+<name>682.40</name>
+<desc>Próg 0,8 m pod kładką spławny ale fartuch wskazany</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.02611692" lon="19.40237624">
+<name>682.20</name>
+<desc>Most kolejowy. Pod mostem kamienne bystrze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.02452355" lon="19.35230529">
+<name>678.30</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.02800996" lon="19.32721798">
+<name>676.40</name>
+<desc>Most ruchliwej drogi Katowice - Warszawa</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.02765193" lon="19.31279419">
+<name>675.10</name>
+<desc>Jaz elektrowni wodnej</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.02903100" lon="19.30050253">
+<name>674.10</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.04393073" lon="19.22862007">
+<name>663.30</name>
+<desc>Po prawej przesmyk wprowadzający na zalew z plażą i kąpieliskiem. Wygodne miejsce wodowania.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.04326715" lon="19.22410882">
+<name>663.00</name>
+<desc>Jaz elektrowni wodnej</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.04416513" lon="19.15400587">
+<name>654.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.04398624" lon="19.14768432">
+<name>653.60</name>
+<desc>Próg z wielkich głazów i podkładów kolejowych</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.04367447" lon="19.14662798">
+<name>653.50</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>653.20</name>
+<desc>P Ładne miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.05433548" lon="19.08818154">
+<name>648.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.04752335" lon="19.03520950">
+<name>641.20</name>
+<desc>L Ujście Liswarty</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Sklepy przy piaszczystym lewym brzegu</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="51.06268004" lon="19.00468254">
+<name>638.00</name>
+<desc>Miejsce biwakowe na lewym brzegu z drewnianą wiatą. Po drugie stronie drogi miejsce parkingowe dla kilku samochodów. Wygodne miejsce wodowania z dojazdem do wody i pomostem.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>637.10</name>
+<desc>Most drogowy betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Wiejskie sklepy</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Drink bar</desc>
+<cmt>bar</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>634.20</name>
+<desc>L Wieś Płaczki</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>630.20</name>
+<desc>Młyn Lelity, płynąć prawą odnogą</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>629.40</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>626.70</name>
+<desc>Pomost, restauracja Malibu, hotel, jazda konna, kort tenisowy</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>625.20</name>
+<desc>próg wodny, płynąć w prawo</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>624.40</name>
+<desc>Spiętrzenie przed młynem</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>624.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Z prawej kolektor ściekowy zachęcający do szybszego plynięcia z uwagi na zapachy</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>621.20</name>
+<desc>Most drogowy i dobre miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>617.20</name>
+<desc>Sklep widoczny z rzeki; stoliki, ławki</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>616.20</name>
+<desc>Do okoła liczne wyspy i zakola</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>609.20</name>
+<desc>2 km przed Załęczem po lewej ładne miejsce
+biwakowe z sławojką i stolikiem</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>607.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>606.20</name>
+<desc>Ośrodek wypoczynkowy</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>604.20</name>
+<desc>Biwak, dalej od brzegu ośrodek wyp.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>603.70</name>
+<desc>Spływalny próg wodny, prom, hotel, kawiarnia. Przed progiem po lewej ładny drewniany młyn.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>599.20</name>
+<desc>Ujście jakiejś rzeczki z lewej</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Po prostu most pomiędzy Toporowem, a Kamionem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>593.20</name>
+<desc>Rozlewisko za mostem, szyna spietrzająca, przenoska po prawej</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.18690000" lon="18.75780000">
+<name>589.00</name>
+<desc>Most drogowy, z prawej miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>588.00</name>
+<desc>L Hotel RITMO,camping,restauracja tel.043-8421523</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>587.20</name>
+<desc>Młyn Łykowe, Niwa</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>586.70</name>
+<desc>L Ośrodek wyp.KALINA tel 043-8423683 prawie niewidoczny z rzeki</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>578.70</name>
+<desc>Szyna spiętrzająca rozerwana - uwaga!!!</desc>
+<cmt>niebezpieczeństwo</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>574.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>564.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.38940000" lon="18.81330000">
+<name>559.20</name>
+<desc>Most drogowy, przed mostem rozmyty jaz</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Pole namiotowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Kilka sklepów</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Bar jak to bar</desc>
+<cmt>bar</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>557.00</name>
+<desc>Ujście rzeki Oleśnicy z lewej</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>555.00</name>
+<desc>Wieś Jarocice po lewej</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>553.40</name>
+<desc>Wieś Majeczewice po lewej</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>548.20</name>
+<desc>Most drogowy pomiędzy Strumianami a Burzeninem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>400m poniżej mostu bar i sklepy</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>546.00</name>
+<desc>Teren biwakowy na prawym brzegu, ładne kąpielisko</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>543.30</name>
+<desc>Wieś Ligota po lewej</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>541.70</name>
+<desc>Szyna piętrząca przerwana w środku, możliwa przenoska lewym brzegiemdla składaków</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>541.20</name>
+<desc>Ujście Widawki z prawej strony Warty</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Dużo miejs biwakowych przy ujściu Widawki</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>539.00</name>
+<desc>Sklep, wodować na prawym brzegu w miejscu po dawnym promie</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>537.00</name>
+<desc>Rzeka zaczyna być uregulowana, wsie oddalone od brzegów</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>525.00</name>
+<desc>Przy ujściu Żegliny, bar i miejsc wodowania w OSiR na lewym brzegu</desc>
+<cmt>bar</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>528.30</name>
+<desc>Wieś Wozniki po prawej</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.60280000" lon="18.76890000">
+<name>526.20</name>
+<desc>Most drogowy na trasie Sieradz -- Łódź</desc>
+<cmt>most</cmt>
+</wpt>
+
+</gpx>

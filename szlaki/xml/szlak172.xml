@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="172" nazwa="Słopica" wersja="1">
+<opis>Niewielki lewy dopływ Drawy, dostępny wyłącznie podczas podwyższonych stanów wody. Rzeka przez cały swój bieg płynie wśród drzew, dzięki czemu posiada charakter zwałkowej, miejscami dość wymagającej przeprawy. Odcinek z Niemieńska do ujścia do Drawy zajął około 3 godzin płynięcia w grupie 10 kajaków</opis> 
+    <punkt id="5592" miejscowosc="Niemieńsko" 
+      ns="53.18101502" we="15.85569678" km="5.4" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z prostokątnym przepustem. Wygodne miejsce startu. Poniżej odcinek między drzewami z drobnymi mało wymagającymi zwałkami i kilkoma tamami bobrowymi</opispunktu> 
+    </punkt>
+    <punkt id="5593" miejscowosc="Niemieńsko" 
+      ns="53.17436741" we="15.86657373" km="4.2" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy na drodze do zamku, w którym obecnie mieści się specjalny ośrodek szkolno-wychowawczy</opispunktu> 
+    </punkt>
+    <punkt id="5594" miejscowosc="Niemieńsko" 
+      ns="53.17371885" we="15.87144813" km="3.8" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zamek po lewej, nieco oddalony od rzeki ale dość dobrze widoczny</opispunktu> 
+    </punkt>
+    <punkt id="5595" miejscowosc="Międzybór" 
+      ns="53.16263749" we="15.87220005" km="2.2" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy. Poniżej odcinek z porządnymi zwałkami, oprócz stałych, starych drzew, w korycie rzeki pojawiły się nowe, pochodzące z mającej niedawno miejsce przycinki lasu (zima 2019). Pokonanie niektórych zwałek wymusza współpracę zespołową</opispunktu> 
+    </punkt>
+    <punkt id="5596" miejscowosc="Międzybór " 
+      ns="53.15706562" we="15.86611372" km="1.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most łukowy na drodze z Drawna do Głuska. Możliwość zakończenia spływu, chociaż wyjście z wody jest niewygodne a skarpa szosy dość stroma. Poniżej krótki ale intensywny odcinek zwałkowy. Konfiguracja i wysokość niektórych przeszkód może wymusić nawet konieczność ich obnoszenia</opispunktu> 
+    </punkt>
+    <punkt id="5597" miejscowosc="Międzybór" 
+      ns="53.15409143" we="15.86552318" km="0.7" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na leśnej drodze. Przed mostem widoczne ruiny po tzw. Kościanym Młynie. W pobliżu wodowskaz wskazujący w dniu spływu poziom 42 co wydaje się niezbędnym minimum, gdyż miejscami trze się kajakiem po kamieniach. Na ostatnim odcinku do ujścia do Drawy nie ma już większych przeszkód</opispunktu> 
+    </punkt>
+    <punkt id="5598" miejscowosc="Międzybór" 
+      ns="53.15036231" we="15.86842669" km="0" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Słopicy do Drawy. Spływ najwygodniej zakończyć przy moście na drodze do miejscowości Zatom (około 15 min w dół Drawą) lub nieco dalej, na polu biwakowym DPN Bogdanka</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

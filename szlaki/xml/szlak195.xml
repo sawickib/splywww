@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="195" nazwa="Odra" wersja="1">
+<opis>Chociaż Odra, wg tradycyjnego podziału dorzeczy uznawana jest za rzekę I rzędu, uchodzącą bezpośrednio do morza, faktycznie do niego nie wpływa. Próby ustalenia punktu zerowego w przypadku Odry nie są łatwe. W zależności od wieku publikacji, jak i rodzaju źródła literaturowego, miejce to sytuowane jest przy ujściu Regalicy do jeziora Dąbie, przy wypływie na Roztokę Odrzańską, będącą zatoką Zalewu Szczecińskiego, w widłach odnóg odcinka wschodniego i zachodniego, na wysokości miejscowości Widuchowa oraz jeszcze w kilku innych miejscach. W większości przypadków "koniec" Odry wiązany jest z końcem tzw. Odrzańskiej Drogi Wodnej. Wszystkie funkcjonujące w obiegu kilometraże Odry, zarówno XIX, jak i XX wieczne, wykonane na potrzeby żeglugi śródlądowej poprowadzone są w kierunku spadku rzeki, począwszy od ujścia rzeki Opawy. Tak też oznakowany jest kilometraż w terenie, poprzez tabliczki ustawione wzdłuż brzegów. Przy próbach przeliczania obowiązującego kilometraża Odrzańskiej Drogi Wodnej na sposób ogólnie przyjęty, czyli od ujścia w kierunku źródeł okazało się, że prawdopodobnie w wyniku regulacji rzeki zaczął on wahać się raz w górę, raz w dół. Poza tym wykryto sporo nieścisłości [np. zamienione miejscami punkty charakterystyczne], powstało też sporo nowych obiektów [mosty, progi wodne, porty]. W związku z tym, że znacząca liczba osób spływających Odrą ma zamiar dotrzeć do Bałtyku, na potrzeby niniejszego opracowania kilometraż poprowadzono przepłyniętą trasą, łącznie z rzeką Dziwną, uchodzącą do morza w Dziwnowie</opis> 
+    <punkt id="6201" miejscowosc="Kamieniec Wrocławski" 
+      ns="51.06317259" we="17.16185324" km="575.1" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">W prawo wpływ na powyrobiskowe rozlewisko, potocznie zwane jeziorem Bajkał. Liczne piaszczyste i trawiaste plaże oraz dobry dostęp do wody z dojazdem w jej pobliże sprawia, że w pogodne dni miejsce to jest masowo wykorzystywane przez wypoczywających. Znajdzie się tu też sporo dogodnych miejsc na dziki biwak</opispunktu> 
+    </punkt>
+    <punkt id="6202" miejscowosc="Kamieniec Wrocławski" 
+      ns="51.07938204" we="17.16294555" km="572.9" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Generała Augusta Emila Fieldorfa Nila, czyli wschodniej obwodnicy Wrocławia. Kilkaset matrów wcześniej właściwe koryto Odry łączy się z kanałem żeglugowym</opispunktu> 
+    </punkt>
+    <punkt id="6203" miejscowosc="Wrocław Opatowice" 
+      ns="51.09436201" we="17.13542718" km="570.1" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rozgałęzienie opatowickie przed Wrocławiem, w tym miejscu należy podjąć decyzję, którym wariantem przepływać przez miasto. Jeśli przez centrum, to w lewo [uwaga! w sezonie na terenie miasta pływa dużo białej floty], jeśli jak najszybciej, to prosto. Płynąc w lewo Starą Odrą i Kanałem Miejskim natrafimy na 3 śluzy lub 3 przenoski przez śluzy i jazy. Płynąc na Stare Miasto i Ostrów Tumski mamy do pokonania Śluzę Opatowicką oraz Śluzę Mieszczańską ale oficjalnie jednostkom napędzanym wiosłami można dopływać jedynie do Wyspy Piaskowej. Natomiast, płynąc prosto, najkrótszą trasą, po 600m należy podjąć decyzję czy płynąć Kanałem Powodziowym i przenosić jazy, czy płynąć równoleglym Kanałem Żeglugowym skrajnie z prawej strony, przez śluzy. Można też omijać przeszkody przenosząc się z Kanału Żeglugowego na Powodziowy. Możliwości przepłynięcia przez miasto jest więcej, a wszystkie warianty łączą się poniżej Elektrociepłowni Wrocław i Portu Miejskiego</opispunktu> 
+    </punkt>
+    <punkt id="6204" miejscowosc="Wrocław Bartoszowice" 
+      ns="51.10062572" we="17.12582238" km="569.1" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rozgałęzienie bartoszowickie. Druga możliwość odbicia w lewo do centrum, z obowiązkową przenoską przez Jaz Opatowicki. W prawo odchodzi Odpływowy Kanał Ulgi, potocznie zwany Kanałem Narcyza Bondyra, mający za zadanie kierowanie nadmiaru wody powodziowej na Odrze do doliny rzeki Widawy, z ominięciem centrum Wrocławia. Przy podwyższonych stanach można tędy próbować przedrzeć się do Widawy. Natomiast prosto prowadzą dwa równoległe sztuczne kanały, Powodziowy z lewej oraz Żeglugowy z prawej strony. Wybierając Kanał Powodziowy będziemy obnosić jazy, natomiast na żeglugowym będziemy się śluzować</opispunktu> 
+    </punkt>
+    <punkt id="6205" miejscowosc="Wrocław Bartoszowice" 
+      ns="51.1035128" we="17.12562017" km="569" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Śluza Bartoszowice</opispunktu> 
+    </punkt>
+    <punkt id="6206" miejscowosc="Wrocław Bartoszowice" 
+      ns="51.10273457" we="17.12391285" km="568.9" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz Bartoszowice z możliwością dojazdu samochodem. Obnosząc go omijamy dwie śluzy: Bartoszowice i Zacisze na Kanale Żeglugowym</opispunktu> 
+    </punkt>
+    <punkt id="6207" miejscowosc="Wrocław Sępolno" 
+      ns="51.11388325" we="17.10850538" km="567.2" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Mosty Chrobrego</opispunktu> 
+    </punkt>
+    <punkt id="6208" miejscowosc="Wrocław Zacisze" 
+      ns="51.12894924" we="17.08009231" km="564.5" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Śluza Zacisze. Czekając na śluzowanie można podejść po sąsiedzku, na ulicę Folwarczną [przy Kanale Powodziowym] i w siedzibie Wód Polskich Zarządu Zlewni Środkowej Odry,w godzinach pracy urzędu wyrazić swoją opinię na temat stanu utrzymania dróg wodnych oraz rzek i rzeczek, podlegających tej instytucji ;-)</opispunktu> 
+    </punkt>
+    <punkt id="6209" miejscowosc="Wrocław Zacisze" 
+      ns="51.12769177" we="17.07829748" km="564.4" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Mosty Jagiellońskie</opispunktu> 
+    </punkt>
+    <punkt id="6210" miejscowosc="Wrocław Śródmieście" 
+      ns="51.12911564" we="17.05664983" km="563" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Warszawski. W lewo wstecz połączenie ze Starą Odrą</opispunktu> 
+    </punkt>
+    <punkt id="6211" miejscowosc="Wrocław Śródmieście" 
+      ns="51.13052146" we="17.05425297" km="562.8" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy Warszawski</opispunktu> 
+    </punkt>
+    <punkt id="6212" miejscowosc="Wrocław Różanka" 
+      ns="51.13096913" we="17.03726658" km="561.3" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Trzebnicki</opispunktu> 
+    </punkt>
+    <punkt id="6213" miejscowosc="Wrocław Różanka" 
+      ns="51.13201127" we="17.03601618" km="561.2" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz Różanka. Z uwagi na częste upusty wody na jazie, a co za tym idzie silne prądy przed i poniżej jazu, najlepiej wpłynąć do Kanału Różanka przed Mostem Trzebnickim i przed Mostem Osobowickim przerzucić kajaki w lewo, przez trawiastą skarpę na Starą Odrę, poniżej jazu, lub przepłynąć przez Śluzę Różanka</opispunktu> 
+    </punkt>
+    <punkt id="6214" miejscowosc="Wrocław Różanka" 
+      ns="51.13139593" we="17.027887" km="560.6" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Osobowicki</opispunktu> 
+    </punkt>
+    <punkt id="6215" miejscowosc="Wrocław Różanka" 
+      ns="51.13252988" we="17.02616247" km="560.5" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Śluza Różanka</opispunktu> 
+    </punkt>
+    <punkt id="6216" miejscowosc="Wrocław Popowice" 
+      ns="51.13128479" we="17.00746674" km="559.2" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Połączenie wszystkich wariantów Odry umożliwiających przepłynięcie przez Wrocław</opispunktu> 
+    </punkt>
+    <punkt id="6217" miejscowosc="Wrocław Popowice" 
+      ns="51.131468" we="17.00227552" km="558.9" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy na linii w kierunku Poznania</opispunktu> 
+    </punkt>
+    <punkt id="6218" miejscowosc="Wrocław Popowice" 
+      ns="51.13353433" we="16.99264255" km="558.2" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Milenijny</opispunktu> 
+    </punkt>
+    <punkt id="6219" miejscowosc="Wrocław Osobowice" 
+      ns="51.13597693" we="16.99278299" km="557.9" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">W prawo wstecz tzw. zimowisko barek. Dobry dostęp do wody z możliwością wygodnego podjęcia kajaków, dużo miejsca na samochody. Dostęp od strony ul. Osobowickiej</opispunktu> 
+    </punkt>
+    <punkt id="6220" miejscowosc="Wrocław Osobowice" 
+      ns="51.14190542" we="16.98234284" km="556.9" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przyczółki dawnego promu łączącego osiedla Kozanów i Osobowice. Wygodny dojazd do wody po obydwu stronach rzeki</opispunktu> 
+    </punkt>
+    <punkt id="6221" miejscowosc="Wrocław Osobowice" 
+      ns="51.15001615" we="16.97880136" km="555.8" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Drugie dawne zimowisko barek po prawej stronie wstecz, często okupowane przez wędkarzy. Dostęp od strony drogi asfaltowej na końcu zatoki</opispunktu> 
+    </punkt>
+    <punkt id="6222" miejscowosc="Wrocław Rędzin" 
+      ns="51.15596635" we="16.96221248" km="554.2" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz Rędziński. Przenoska prawym lub lewym brzegiem, wodowanie niezbyt wygodne z powodu kamiennego nabrzeża i wartkiego nurtu. Po lewej stronie spory kompleks leśny i tereny spacerowe</opispunktu> 
+    </punkt>
+    <punkt id="6223" miejscowosc="Wrocław Rędzin" 
+      ns="51.15831876" we="16.96312058" km="554.1" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Dwie równoległe śluzy Rędzin I i II z górującym nad nimi efektownym Mostem Rędzińskim</opispunktu> 
+    </punkt>
+    <punkt id="6224" miejscowosc="Wrocław Rędzin" 
+      ns="51.15610828" we="16.95846943" km="553.9" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Rędziński</opispunktu> 
+    </punkt>
+    <punkt id="6225" miejscowosc="Wrocław Maślice" 
+      ns="51.159263" we="16.950568" km="553.3" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście rzeki Ślęzy</opispunktu> 
+    </punkt>
+    <punkt id="6226" miejscowosc="Wrocław Maślice" 
+      ns="51.15973567" we="16.94963109" km="553.2" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przyczólki dawnego promu łączącego osiedla Maślice i Rędzin. Wygodny dojazd do lustra wody drogami asfaltowymi po obydwu stronach rzeki</opispunktu> 
+    </punkt>
+    <punkt id="6227" miejscowosc="Wrocław Maślice" 
+      ns="51.16152185" we="16.94521502" km="552.8" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście zażelazionej rzeki Ługowiny, o intensywnie rudej barwie wody. 600m poniżej, po prawej stronie fragment dzikiej i nie wykarczowanej linii brzegowej, pozostawionej ze względu na obecność bobrów</opispunktu> 
+    </punkt>
+    <punkt id="6228" miejscowosc="Wrocław Maślice" 
+      ns="51.17410399" we="16.93181278" km="551" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu charakterystyczna góra po zrekultywowanym wysypisku śmieci [Wzgórze Maślickie +156 m npm]</opispunktu> 
+    </punkt>
+    <punkt id="6229" miejscowosc="Wrocław Lesica" 
+      ns="51.19203188" we="16.92117395" km="548.9" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej stronie ujście rzeczki Trzciana, niegdyś zwanej Smródką, bo odwadniającą nieczynne już dzisiaj, pola irygacyjne Wrocławia</opispunktu> 
+    </punkt>
+    <punkt id="6230" miejscowosc="Wrocław Pracze Odrzańskie" 
+      ns="51.194794" we="16.917843" km="548.5" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście rzeki Bystrzycy</opispunktu> 
+    </punkt>
+    <punkt id="6231" miejscowosc="Wrocław Lesica" 
+      ns="51.19903177" we="16.91881864" km="548.1" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście rzeki Widawy</opispunktu> 
+    </punkt>
+    <punkt id="6232" miejscowosc="Wrocław Janówek" 
+      ns="51.20289665" we="16.90955763" km="547.3" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej stronie znajduje się ujście kanału odprowadzającego wody z Wrocławskiej Oczyszczalni Ścieków. Tuż za nim duża platforma - nabrzeże portowe, stanowiące plac parkingowy, często okupowane przez wędkarzy. Jest to dogodne miejsce rozpoczynania i kończenia etapów zarówno na Odrze, jak i Bystrzycy, czy Widawie. Wygodny dojazd drogą z płyt betonowych oraz nieskończona ilość miejsc na samochody</opispunktu> 
+    </punkt>
+    <punkt id="6233" miejscowosc="Paniowice" 
+      ns="51.20890185" we="16.90588668" km="546.5" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po prawej stronie wąski wpływ do zacisznej długiej zatoki z dobrymi miejscami biwakowymi</opispunktu> 
+    </punkt>
+    <punkt id="6234" miejscowosc="Kotowice" 
+      ns="51.2180134" we="16.89826015" km="545.3" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście rzeczki Ława</opispunktu> 
+    </punkt>
+    <punkt id="6235" miejscowosc="Uraz" 
+      ns="51.24131005" we="16.85001508" km="540.8" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej stronie ruiny zamku w Urazie</opispunktu> 
+    </punkt>
+    <punkt id="6236" miejscowosc="Uraz" 
+      ns="51.24632324" we="16.84730109" km="540.2" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeczki Lubnówka z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="6237" miejscowosc="Uraz" 
+      ns="51.24968855" we="16.8448933" km="539.8" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Port w Urazie. Restauracja i możliwość noclegu</opispunktu> 
+    </punkt>
+    <punkt id="6238" miejscowosc="Prężyce" 
+      ns="51.24860288" we="16.83125305" km="538.7" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Po lewej stronie wpływ na Zalew Pężycki. Miejsce licznie wykorzystywane przez wędkarzy z możliwością dojazdu samochodem brukowaną drogą. Sporo miejsc na dziki biwak</opispunktu> 
+    </punkt>
+    <punkt id="6239" miejscowosc="Prężyce" 
+      ns="51.25042285" we="16.82417078" km="538.2" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu jeden z licznych [w sumie jest ich około 650] wysadzonych bunkrów [schronów bojowych Linii Środkowej Odry - Oderstellung], dobrze widoczny z wody. W dalszym biegu Odry, na jej lewym brzegu aż do Krosna Odrzańskiego, co jakiś czas widoczne będą pozostałości tych umocnień. Początek rozlewiska przed zaporą w Wałach</opispunktu> 
+    </punkt>
+    <punkt id="6240" miejscowosc="Wały" 
+      ns="51.25997203" we="16.76548256" km="533.4" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia Wały. Śluzowanie lub przenoska przez wyspę pomiędzy śluzą a jazem. Poniżej odcinek wartkiej rzeki, przy niskiej wodzie tworzą się szypoty</opispunktu> 
+    </punkt>
+    <punkt id="6241" miejscowosc="Brzeg Dolny" 
+      ns="51.25646162" we="16.74684131" km="532" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy na linii z Wrocławia do Głogowa i Zielonej Góry. Do stacji PKP Brzeg Dolny około 2,5 km. Tyle samo w drugą stronę, do stacji Księginice</opispunktu> 
+    </punkt>
+    <punkt id="6242" miejscowosc="Brzeg Dolny" 
+      ns="51.25653762" we="16.7219722" km="529.9" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przyczółki po dawnym promie kursującym z Głoski do Brzegu Dolnego. Wygodne miejsce dostępu do wody z dojazdem z obydwu stron</opispunktu> 
+    </punkt>
+    <punkt id="6243" miejscowosc="Brzeg Dolny" 
+      ns="51.25008396" we="16.7080312" km="528.7" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy bez możliwości wygodnego dostępu do wody</opispunktu> 
+    </punkt>
+    <punkt id="6244" miejscowosc="Słup" 
+      ns="51.24345" we="16.68739" km="526.8" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Jeden z licznych sztucznych przekopów Odry, zwiększający promień łuku szlaku żeglownego, umożliwiający przejście dłuższych zestawów barek. W takich miejscach zazwyczaj pozostawione są otwarte od dołu starorzecza, z możliwością wpłynięcia i znalezienia dobrego miejsca na dziki biwak</opispunktu> 
+    </punkt>
+    <punkt id="6245" miejscowosc="Grodzanów" 
+      ns="51.24701548" we="16.56042706" km="516.4" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej stronie slip z dojazdem gruntową drogą</opispunktu> 
+    </punkt>
+    <punkt id="6246" miejscowosc="Prawików Rzeczyca" 
+      ns="51.24329108" we="16.54756854" km="515.4" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Stopień wodny Malczyce. Po lewej stronie, za wałem wieś Rzeczyca. Śluzowanie albo długa i skomplikowana przenoska. Ostatni stopień wodny na szlaku Odry [2020 r.]. Od tego miejsca do Bałtyku rzeka płynie swobodnie, bez piętrzeń</opispunktu> 
+    </punkt>
+    <punkt id="6247" miejscowosc="Malczyce" 
+      ns="51.22603851" we="16.49457788" km="511" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej stronie port Maczyce. Wygodny dostęp do wody z dojazdem nad sam brzeg. W Malczycach sporo sklepów spożywczych. Ujście rzeki Średzka Woda</opispunktu> 
+    </punkt>
+    <punkt id="6248" miejscowosc="Lubiąż" 
+      ns="51.25579352" we="16.45999935" km="505.9" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z utrudnionym dostępem do wody</opispunktu> 
+    </punkt>
+    <punkt id="6249" miejscowosc="Lubiąż" 
+      ns="51.26622695" we="16.46449564" km="504.6" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przepływamy tuż obok jednego z największych w Europie i najcenniejszych, monumentalnych zespołów opactwa cystersów w Lubiążu. Ze względu na porastający brzegi gęsty starodrzew, w szczycie sezonu wegetacyjnego roślin, budowli nie widać z rzeki. Aby nie przegapić tego interesującego widoku, po wypłynięciu na odcinek prosty rzeki należy koniecznie spojrzeć wstecz</opispunktu> 
+    </punkt>
+    <punkt id="6250" miejscowosc="Lubiąż" 
+      ns="51.27414253" we="16.44377637" km="502.7" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wygodne miejsce dostępu do wody z dojazdem do samej rzeki</opispunktu> 
+    </punkt>
+    <punkt id="6251" miejscowosc="Lubiąż" 
+      ns="51.273371" we="16.44209" km="502.6" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej stronie ujście rzeki Cicha Woda</opispunktu> 
+    </punkt>
+    <punkt id="6252" miejscowosc="Kwiatkowice" 
+      ns="51.29755474" we="16.42069748" km="499.3" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej stronie ujście Kaczawy</opispunktu> 
+    </punkt>
+    <punkt id="6253" miejscowosc="Jurcz Przystań" 
+      ns="51.31487096" we="16.44174957" km="496.8" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wygodne miejsce dostępu do wody z dojazdem do rzeki gruntową drogą</opispunktu> 
+    </punkt>
+    <punkt id="6254" miejscowosc="Dłużyce" 
+      ns="51.38902812" we="16.46189637" km="486.8" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Charakterystyczna, betonowa budowla w wale Odry, po lewej stronie</opispunktu> 
+    </punkt>
+    <punkt id="6255" miejscowosc="Ścinawa" 
+      ns="51.40619712" we="16.44612682" km="484.5" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy w Ścinawie</opispunktu> 
+    </punkt>
+    <punkt id="6256" miejscowosc="Ścinawa" 
+      ns="51.40890025" we="16.44394757" km="484.2" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w Ścinawie</opispunktu> 
+    </punkt>
+    <punkt id="6257" miejscowosc="Ścinawa" 
+      ns="51.40993315" we="16.44235846" km="484" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Po lewej stronie zatoka portu w Ścinawie. Wygodny dostęp do wody z dobrym dojazdem. Przed bramą portową dużo miejsca na samochody. Pole biwakowe, wiaty i ławki</opispunktu> 
+    </punkt>
+    <punkt id="6258" miejscowosc="Ścinawa" 
+      ns="51.42812571" we="16.43826795" km="481.8" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście rzeki Zimnica</opispunktu> 
+    </punkt>
+    <punkt id="6259" miejscowosc="Ciechłowice" 
+      ns="51.4959233" we="16.45751867" km="474.8" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście Jezierzycy</opispunktu> 
+    </punkt>
+    <punkt id="6260" miejscowosc="Chobienia" 
+      ns="51.53960591" we="16.45136942" km="466.9" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Po lewej stronie, w zatoce mały port oraz stanica WOPR. We wsi sklep spożywczy. Malowniczo prezentująca się z daleka Chobienia, ze swym kościołem na wysokiej skarpie, od strony wody jest bliźniaczo podobna do miejscowości Lebus, znajdującej się po niemieckiej stronie Odry, na 225 km [wg niniejszego kilometraża]</opispunktu> 
+    </punkt>
+    <punkt id="6261" miejscowosc="Chobienia" 
+      ns="51.54530096" we="16.45135938" km="466.3" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przyczółki nieczynnego promu z dojazdem do wody po obydwu stronach rzeki</opispunktu> 
+    </punkt>
+    <punkt id="6262" miejscowosc="Radoszyce Ciechanów" 
+      ns="51.57589787" we="16.43128277" km="461.2" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przyczółki po dawnym promie, wygodny dojazd do samej wody z obydwu stron rzeki</opispunktu> 
+    </punkt>
+    <punkt id="6263" miejscowosc="Radoszyce" 
+      ns="51.57743949" we="16.42543055" km="460.7" etykieta="" 
+      kolejnosc="62"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 323 pomiędzy Górą a Lubinem</opispunktu> 
+    </punkt>
+    <punkt id="6264" miejscowosc="Leszkowice Bełcz" 
+      ns="51.61824112" we="16.33432741" km="450" etykieta="" 
+      kolejnosc="63"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przyczółki nieczynnego promu z możliwością dojazdu do wody po obydwu stronach rzeki</opispunktu> 
+    </punkt>
+    <punkt id="6265" miejscowosc="Wyszanów" 
+      ns="51.68615922" we="16.251986" km="437.9" etykieta="" 
+      kolejnosc="64"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Barycz z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="6266" miejscowosc="Głogów" 
+      ns="51.66429555" we="16.10877089" km="425.9" etykieta="" 
+      kolejnosc="65"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście rzeki Rudna</opispunktu> 
+    </punkt>
+    <punkt id="6267" miejscowosc="Głogów" 
+      ns="51.664995" we="16.099381" km="425.3" etykieta="" 
+      kolejnosc="66"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zatoka Neptuna, biorąca swoją nazwę od, dzisiaj zruinowanej, a kiedyś znanej i lubianej restauracji. Wygodny dostęp do wody z dojazdem nad samą rzekę od strony ul. Piotra Skargi. W pobliżu sporo miejsca na samochody</opispunktu> 
+    </punkt>
+    <punkt id="6268" miejscowosc="Głogów" 
+      ns="51.66758946" we="16.0919499" km="424.7" etykieta="" 
+      kolejnosc="67"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w Głogowie</opispunktu> 
+    </punkt>
+    <punkt id="6269" miejscowosc="Głogów" 
+      ns="51.66938712" we="16.08821427" km="424.3" etykieta="" 
+      kolejnosc="68"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="6270" miejscowosc="Głogów" 
+      ns="51.67311428" we="16.06315637" km="422.5" etykieta="" 
+      kolejnosc="69"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Po lewej stronie oznakowany wpływ do głogowskiego portu</opispunktu> 
+    </punkt>
+    <punkt id="6271" miejscowosc="Dobrzejowice" 
+      ns="51.71898469" we="15.87649457" km="405.5" etykieta="" 
+      kolejnosc="71"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Malowniczy przełom Odry w okolicy Dobrzejowic</opispunktu> 
+    </punkt>
+    <punkt id="6272" miejscowosc="Drogomil" 
+      ns="51.72126869" we="15.87038452" km="405" etykieta="" 
+      kolejnosc="72"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Charakterystyczne betonowe budowle w lewym nabrzeżu</opispunktu> 
+    </punkt>
+    <punkt id="6273" miejscowosc="Bytom Odrzański" 
+      ns="51.7322889" we="15.82755999" km="401" etykieta="" 
+      kolejnosc="73"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Przystań turystyczna Bytom Odrzański. Dojazd nad samą wodę z wygodnym miejscem na podjęcie kajaków. Malowniczo położone miasteczko na wysokiej skarpie tuż nad rzeką</opispunktu> 
+    </punkt>
+    <punkt id="6274" miejscowosc="Siedlisko" 
+      ns="51.76475" we="15.80380122" km="396.9" etykieta="" 
+      kolejnosc="75"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej stronie ruiny zamku z XVI w. W chłodniejszych porach roku, gdy na drzewach nie ma liści obiekt jest dobrze widoczny z wody</opispunktu> 
+    </punkt>
+    <punkt id="6275" miejscowosc="Kiełcz" 
+      ns="51.7582382" we="15.77849677" km="394.8" etykieta="" 
+      kolejnosc="76"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście Białej Wody, zamaskowane pośród drzew i krzaków</opispunktu> 
+    </punkt>
+    <punkt id="6276" miejscowosc="Przyborów" 
+      ns="51.77689" we="15.75294" km="391.8" etykieta="" 
+      kolejnosc="77"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po prawej stronie kompleks leśny i ładne miejsca na dzikie biwakowanie</opispunktu> 
+    </punkt>
+    <punkt id="6277" miejscowosc="Stara Wieś" 
+      ns="51.7871509" we="15.74762625" km="390.6" etykieta="" 
+      kolejnosc="78"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe na prywatnej posesji</opispunktu> 
+    </punkt>
+    <punkt id="6278" miejscowosc="Nowa Sól" 
+      ns="51.79991738" we="15.73761543" km="388.8" etykieta="" 
+      kolejnosc="79"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 315</opispunktu> 
+    </punkt>
+    <punkt id="6279" miejscowosc="Nowa Sól" 
+      ns="51.8036385" we="15.72545539" km="387.8" etykieta="" 
+      kolejnosc="80"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Marina w Nowej Soli oraz port za sklepioną kładką dla pieszych. Po wpłynięciu do basenu portowego, zaraz za kładką po lewej stronie znajduje się slip i budynek przystani klubu kajakowego, w którym istnieje możliwość wynajęcia pokoi. Po drugiej stronie kładki znajduje się tawerna</opispunktu> 
+    </punkt>
+    <punkt id="6280" miejscowosc="Nowa Sól" 
+      ns="51.82408337" we="15.74810163" km="385" etykieta="" 
+      kolejnosc="81"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście Czarnej Strugi</opispunktu> 
+    </punkt>
+    <punkt id="6281" miejscowosc="Stany" 
+      ns="51.83098416" we="15.75305958" km="384.2" etykieta="" 
+      kolejnosc="82"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej stronie ujście Krzyckiego Rowu, czasem zwanego Kanałem Kopalnica</opispunktu> 
+    </punkt>
+    <punkt id="6282" miejscowosc="Stany" 
+      ns="51.86146157" we="15.77511829" km="379.9" etykieta="" 
+      kolejnosc="83"> 
+    <opispunktu typ="most" kolejnosc="-1">Most nieczynnej linii kolejowej z Nowej Soli do Wolsztyna. Obecnie linia ta wraz z mostem służy jako ścieżka rowerowa</opispunktu> 
+    </punkt>
+    <punkt id="6283" miejscowosc="Bobrowniki" 
+      ns="51.8985088" we="15.76298766" km="374.4" etykieta="" 
+      kolejnosc="84"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Sztuczny przekop, mający za zadanie zwiększenie promienia łuku na zakręcie rzeki. W starorzeczu po lewej stronie ujście Śląskiej Ochli</opispunktu> 
+    </punkt>
+    <punkt id="6284" miejscowosc="Przewóz Milsko" 
+      ns="51.94951061" we="15.77463081" km="367.4" etykieta="" 
+      kolejnosc="85"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Czynny prom. Uwaga na napinającą się stalową linę</opispunktu> 
+    </punkt>
+    <punkt id="6285" miejscowosc="Milsko" 
+      ns="51.95129794" we="15.76624521" km="366.9" etykieta="" 
+      kolejnosc="86"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wysoka, stroma skarpa po lewej stronie, a na niej i pod nią pozostałości okopów oraz żelbetonowych schronów bojowych pozycji Oderstellung. Malownicze miejsce, zalesiona skarpa pocięta głębokimi wąwozami. Na szczycie skarpy duża winnica</opispunktu> 
+    </punkt>
+    <punkt id="6286" miejscowosc="Górzykowo" 
+      ns="52.03292734" we="15.63256441" km="348.2" etykieta="" 
+      kolejnosc="87"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony szerokie ujście rzeki Obrzycy</opispunktu> 
+    </punkt>
+    <punkt id="6287" miejscowosc="Cigacice" 
+      ns="52.03165321" we="15.62712142" km="347.8" etykieta="" 
+      kolejnosc="88"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi ekspresowej S3</opispunktu> 
+    </punkt>
+    <punkt id="6288" miejscowosc="Cigacice" 
+      ns="52.03022953" we="15.61418074" km="346.9" etykieta="" 
+      kolejnosc="89"> 
+    <opispunktu typ="most" kolejnosc="-1">Stary most drogowy pomiędzy Zieloną Górą a Sulechowem</opispunktu> 
+    </punkt>
+    <punkt id="6289" miejscowosc="Cigacice" 
+      ns="52.03221665" we="15.61011983" km="346.7" etykieta="" 
+      kolejnosc="90"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Port w Cigacicach. Wygodne miejsce dostępu do rzeki z dojazdem do samej wody. W pobliżu sklep i bar</opispunktu> 
+    </punkt>
+    <punkt id="6290" miejscowosc="Cigacice" 
+      ns="52.03170609" we="15.60987148" km="346.6" etykieta="" 
+      kolejnosc="91"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wygodne miejsce wodowania. W pobliżu dużo miejsca na samochody</opispunktu> 
+    </punkt>
+    <punkt id="6291" miejscowosc="Boryń" 
+      ns="52.0355245" we="15.56062393" km="343.1" etykieta="" 
+      kolejnosc="92"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Sulechówki po prawej stronie</opispunktu> 
+    </punkt>
+    <punkt id="6292" miejscowosc="Krępa" 
+      ns="52.03364454" we="15.55501317" km="342.7" etykieta="" 
+      kolejnosc="93"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Po lewej stronie Przystań Krępa. Odra w tym miejscu rozcina tzw. Zielonogórski Las Odrzański z kilkoma rezerwatami przyrody Pętla Odry, założonych w starorzeczach rzeki. Parking PZW w miejscu owianym sławą ze względu na połowy rekordowych okazów ryb</opispunktu> 
+    </punkt>
+    <punkt id="6293" miejscowosc="Wyszyna" 
+      ns="52.04038906" we="15.51708447" km="339.9" etykieta="" 
+      kolejnosc="94"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy na trasie pomiędzy Czerwieńskiem a Sulechowem</opispunktu> 
+    </punkt>
+    <punkt id="6294" miejscowosc="Pomorsko" 
+      ns="52.04543083" we="15.48731035" km="337.7" etykieta="" 
+      kolejnosc="95"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Charakterystyczne miejsce z tablicą informującą o granicy nadzorów wodnych Cigacice - Krosno Odrzańskie. Odtąd za utrzymanie rzeki i szlaku wodnego odpowiada inne Ciało</opispunktu> 
+    </punkt>
+    <punkt id="6295" miejscowosc="Pomorsko" 
+      ns="52.04179491" we="15.4725743" km="336.6" etykieta="" 
+      kolejnosc="96"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Czynny prom. Uwaga na napinającą się linę podczas przemieszczania promu</opispunktu> 
+    </punkt>
+    <punkt id="6296" miejscowosc="Brody" 
+      ns="52.05506963" we="15.42901202" km="332.7" etykieta="" 
+      kolejnosc="97"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Kolejny czynny prom</opispunktu> 
+    </punkt>
+    <punkt id="6297" miejscowosc="Dobrzęcin" 
+      ns="52.05657965" we="15.40190712" km="330.3" etykieta="" 
+      kolejnosc="98"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Malownicze ruiny bunkra Oderstellung na otwartym terenie</opispunktu> 
+    </punkt>
+    <punkt id="6298" miejscowosc="Bródki" 
+      ns="52.05210388" we="15.38021606" km="328.6" etykieta="" 
+      kolejnosc="99"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście rzeki Ołobok</opispunktu> 
+    </punkt>
+    <punkt id="6299" miejscowosc="Nietkowice" 
+      ns="52.04927046" we="15.36106961" km="327.3" etykieta="" 
+      kolejnosc="100"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy na linii Zielona Góra - Szczecin</opispunktu> 
+    </punkt>
+    <punkt id="6300" miejscowosc="Nietków" 
+      ns="52.04719227" we="15.34871027" km="326.4" etykieta="" 
+      kolejnosc="101"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Po lewej stronie przystań w Nietkowie. Pomosty i slip</opispunktu> 
+    </punkt>
+    <punkt id="6301" miejscowosc="Radnica" 
+      ns="52.072878" we="15.25286447" km="317.6" etykieta="" 
+      kolejnosc="102"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Gryżynki, dokładnie na oznakowanym 500 kilometrze Odrzańskiej Drogi Wodnej</opispunktu> 
+    </punkt>
+    <punkt id="6302" miejscowosc="Radnica" 
+      ns="52.07833295" we="15.21679807" km="314.9" etykieta="" 
+      kolejnosc="103"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej stronie wygodne miejsce dostępu do rzeki z dojazdem do wody</opispunktu> 
+    </punkt>
+    <punkt id="6303" miejscowosc="Gostchorze" 
+      ns="52.06354925" we="15.18481123" km="311.8" etykieta="" 
+      kolejnosc="104"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Malowniczy wysoki brzeg po prawej stronie</opispunktu> 
+    </punkt>
+    <punkt id="6304" miejscowosc="Gostchorze" 
+      ns="52.05436409" we="15.18278245" km="310.8" etykieta="" 
+      kolejnosc="105"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście Zimnego Potoku</opispunktu> 
+    </punkt>
+    <punkt id="6305" miejscowosc="Gostchorze" 
+      ns="52.05261098" we="15.17654677" km="310.3" etykieta="" 
+      kolejnosc="106"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu możliwość awaryjnego, dzikiego biwakowania w pobliżu wiaty stanicy wędkarskiej</opispunktu> 
+    </punkt>
+    <punkt id="6306" miejscowosc="Gostchorze" 
+      ns="52.0530471" we="15.1649134" km="309.5" etykieta="" 
+      kolejnosc="107"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Przystań Gostchorze. Możliwy dojazd samochodem do samej wody</opispunktu> 
+    </punkt>
+    <punkt id="6307" miejscowosc="Gostchorze" 
+      ns="52.05143052" we="15.15751245" km="308.9" etykieta="" 
+      kolejnosc="108"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Malowniczy wysoki brzeg po prawej stronie. Stroma skarpa i dobre miejsce widokowe ale przesłonięte nieco drzewami i krzakami</opispunktu> 
+    </punkt>
+    <punkt id="6308" miejscowosc="Krosno Odrzańskie" 
+      ns="52.04887368" we="15.10012719" km="304.8" etykieta="" 
+      kolejnosc="109"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Port w Krośnie Odrzańskim. Wygodny slip i spory parking przy samej rzece. Na lewym, niskim brzegu stare Krosno, na wysokim, malowniczym prawym brzegu, nowe</opispunktu> 
+    </punkt>
+    <punkt id="6309" miejscowosc="Krosno Odrzańskie" 
+      ns="52.04952242" we="15.09829424" km="304.7" etykieta="" 
+      kolejnosc="110"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="6310" miejscowosc="Krosno Odrzańskie" 
+      ns="52.05024143" we="15.09007197" km="304.1" etykieta="" 
+      kolejnosc="111"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Po lewej stronie zatoka starorzecza - starego Bobru</opispunktu> 
+    </punkt>
+    <punkt id="6311" miejscowosc="Krosno Odrzańskie" 
+      ns="52.05124178" we="15.07202454" km="302.9" etykieta="" 
+      kolejnosc="112"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Bóbr</opispunktu> 
+    </punkt>
+    <punkt id="6312" miejscowosc="Osiecznica" 
+      ns="52.06955818" we="15.02766865" km="299.1" etykieta="" 
+      kolejnosc="113"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony wpada rzeczka Biela</opispunktu> 
+    </punkt>
+    <punkt id="6313" miejscowosc="Połęcko" 
+      ns="52.05535582" we="14.95878239" km="293.6" etykieta="" 
+      kolejnosc="114"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Wysoka skarpa po prawej stronie rozcięta drogą wyłożoną płytami betonowymi. Możliwy awaryjny dojazd do samej rzeki od strony leśnego duktu. Miejsce na dziki biwak na wysokiej, suchej skarpie</opispunktu> 
+    </punkt>
+    <punkt id="6314" miejscowosc="Połęcko" 
+      ns="52.05168316" we="14.89262414" km="288.5" etykieta="" 
+      kolejnosc="115"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Prom. Często nie kursujący ze względu na niski poziom wody</opispunktu> 
+    </punkt>
+    <punkt id="6315" miejscowosc="Łomy" 
+      ns="52.07067" we="14.76588198" km="277.1" etykieta="" 
+      kolejnosc="116"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście rzeczki Łomianka</opispunktu> 
+    </punkt>
+    <punkt id="6316" miejscowosc="Ratzdorf" 
+      ns="52.06967783" we="14.75567157" km="276.4" etykieta="" 
+      kolejnosc="117"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście Nysy Łużyckiej. Od tego miejsca Odra stanowi granicę państwa, która przebiega środkiem rzeki. Należy zwrócić uwagę, iż mimo, że nie jest to granica zewnętrzna UE, jak wszędzie, tak i tu obowiązują pewne przepisy, nieprzestrzeganie których w najlepszym przypadku stanowić będzie wykroczenie</opispunktu> 
+    </punkt>
+    <punkt id="6317" miejscowosc="Ratzdorf" 
+      ns="52.07053109" we="14.75288592" km="276.2" etykieta="" 
+      kolejnosc="118"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu niemiecki wodowskaz Ratzdorf, wskazania którego [jak i innych] można obserwować w internecie. W pobliżu miejsce na zrobienie przerwy, z ławeczkami i stolikami. Niestety we wsi nie ma sklepu, a restauracja i kawiarnia, choć blisko rzeki często są zamknięte</opispunktu> 
+    </punkt>
+    <punkt id="6318" miejscowosc="Ratzdorf" 
+      ns="52.0763459" we="14.74748089" km="275.6" etykieta="" 
+      kolejnosc="119"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Po lewej stronie pomost przystani z opisem PARKING SPORT</opispunktu> 
+    </punkt>
+    <punkt id="6319" miejscowosc="Krzesin" 
+      ns="52.09244081" we="14.7291108" km="273.3" etykieta="" 
+      kolejnosc="120"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście Kanału Krzesińskiego, którym można dopłynąć do mostu w Krzesinie, gdzie wygodnie dojedzie się samochodem</opispunktu> 
+    </punkt>
+    <punkt id="6320" miejscowosc="Rąpice" 
+      ns="52.09345141" we="14.72732118" km="273.2" etykieta="" 
+      kolejnosc="121"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po polskiej stronie wodowskaz Biała Góra, wskazania którego można obserwować w internecie</opispunktu> 
+    </punkt>
+    <punkt id="6321" miejscowosc="Kłopot" 
+      ns="52.13719861" we="14.68130284" km="266.4" etykieta="" 
+      kolejnosc="122"> 
+    <opispunktu typ="most" kolejnosc="-1">Malownicza połowa żelbetonowego mostu, wysadzonego pod koniec wojny</opispunktu> 
+    </punkt>
+    <punkt id="6322" miejscowosc="Eisenhuttenstadt Furstenberg" 
+      ns="52.14767616" we="14.68110832" km="265.3" etykieta="" 
+      kolejnosc="123"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Odejście w lewo kanału łączącego Odrę i Sprewę - Oder Spree Kanal</opispunktu> 
+    </punkt>
+    <punkt id="6323" miejscowosc="Eisehuttenstadt" 
+      ns="52.16850511" we="14.70525769" km="262.4" etykieta="" 
+      kolejnosc="124"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Industrialny widok kominów nieczynnej huty, tuż nad samą rzeką</opispunktu> 
+    </punkt>
+    <punkt id="6324" miejscowosc="Urad" 
+      ns="52.23688216" we="14.71523151" km="253.7" etykieta="" 
+      kolejnosc="125"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Kanału Cofkowego z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="6325" miejscowosc="Urad" 
+      ns="52.24318353" we="14.70779288" km="252.8" etykieta="" 
+      kolejnosc="126"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Przystań w Uradzie. Sporo miejsca pod namioty ale podloże bardzo twarde i trudno wbić szpilki. Możliwy dojazd samochodem do samej rzeki, gdzie po obydwu stronach stoją betonowe przyczółki, dla nieczynnego dziś, promu. Na końcu wsi po lewej stronie znajduje się sklep, czynny jedynie w określonych godzinach, przed i po południu</opispunktu> 
+    </punkt>
+    <punkt id="6326" miejscowosc="Urad" 
+      ns="52.25242058" we="14.69989097" km="251.6" etykieta="" 
+      kolejnosc="127"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej stronie ujście rzeki Pliszki</opispunktu> 
+    </punkt>
+    <punkt id="6327" miejscowosc="Urad" 
+      ns="52.25400031" we="14.69785745" km="251.4" etykieta="" 
+      kolejnosc="128"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej stronie nabrzeże nieczynnego portu I, z wygodnym dojazdem</opispunktu> 
+    </punkt>
+    <punkt id="6328" miejscowosc="Urad" 
+      ns="52.25542831" we="14.69482936" km="251.1" etykieta="" 
+      kolejnosc="129"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej stronie nabrzeże nieczynnego portu II</opispunktu> 
+    </punkt>
+    <punkt id="6329" miejscowosc="Lossow" 
+      ns="52.28900235" we="14.57508394" km="241.7" etykieta="" 
+      kolejnosc="130"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po lewej stronie, widoczna z daleka urwista skarpa, przed którą znajduje się ujście Friedrich-Wilhelm Briskower Kanal</opispunktu> 
+    </punkt>
+    <punkt id="6330" miejscowosc="Świecko" 
+      ns="52.30532478" we="14.58511839" km="239.6" etykieta="" 
+      kolejnosc="131"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Ilanki z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="6331" miejscowosc="Świecko" 
+      ns="52.31559364" we="14.57808284" km="238.4" etykieta="" 
+      kolejnosc="132"> 
+    <opispunktu typ="most" kolejnosc="-1">Most autostrady A2</opispunktu> 
+    </punkt>
+    <punkt id="6332" miejscowosc="Świecko" 
+      ns="52.32109011" we="14.5761647" km="237.7" etykieta="" 
+      kolejnosc="133"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="6333" miejscowosc="Słubice Frankfurt" 
+      ns="52.34817872" we="14.55611531" km="234.1" etykieta="" 
+      kolejnosc="134"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy łączący śródmieścia Słubic i Frankfurtu. Przy niskiej wodzie, tuż za mostem po prawej stronie tworzy się piaszczysta plaża umożliwiająca wygodny postój. W pobliżu kilka sklepów i restauracji. Za Frankfurtem na lewym brzegu rozległe malownicze wzgórza przypominające krajobraz stepowy</opispunktu> 
+    </punkt>
+    <punkt id="6334" miejscowosc="Lebus" 
+      ns="52.42428486" we="14.54424592" km="225" etykieta="" 
+      kolejnosc="135"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Chociaż badacze historii nie są zgodni w tym względzie, Lebus [Lubusz] to niegdyś znacząca lokalnie miejscowość, od której zaczerpnęła swą nazwę Ziemia Lubuska i województwo lubuskie. Malowniczo położone na wysokiej skarpie, z widoczną z daleka wieżą kościoła, Lebus jest bardzo podobne do Chobieni, znajdującej się na 466 km Odry. Przyczólki nieczynnego promu umożliwiają dojazd do samej wody z lewej i prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="6335" miejscowosc="Górzyca" 
+      ns="52.49997261" we="14.63539446" km="213.8" etykieta="" 
+      kolejnosc="136"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Po prawej stronie przystań z pomostem i widoczną z daleka wieżą, która służyła niegdyś Wojskom Ochrony Pogranicza, a poźniej Straży Granicznej do obserwacji pasa granicznego</opispunktu> 
+    </punkt>
+    <punkt id="6336" miejscowosc="Kostrzyn" 
+      ns="52.56109417" we="14.62467128" km="205.7" etykieta="" 
+      kolejnosc="137"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Odejście w lewo, najczęściej suchego kanału ulgi - Vorflut Kanal</opispunktu> 
+    </punkt>
+    <punkt id="6337" miejscowosc="Kostrzyn" 
+      ns="52.56510481" we="14.6324079" km="205" etykieta="" 
+      kolejnosc="138"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na wyspie pomiędzy Odrą a Vorflut Kanal, możliwy jest zaciszny dziki biwak w suchym dębowym lasku, w pobliżu niemieckiego słupka granicznego nr 547</opispunktu> 
+    </punkt>
+    <punkt id="6338" miejscowosc="Kostrzyn" 
+      ns="52.5775058" we="14.63538277" km="203.4" etykieta="" 
+      kolejnosc="139"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Przystań Twierdza Kostrzyn po prawej stronie</opispunktu> 
+    </punkt>
+    <punkt id="6339" miejscowosc="Kostrzyn" 
+      ns="52.57891405" we="14.62875274" km="202.9" etykieta="" 
+      kolejnosc="140"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="6340" miejscowosc="Kostrzyn" 
+      ns="52.57963536" we="14.62699821" km="202.8" etykieta="" 
+      kolejnosc="141"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="6341" miejscowosc="Kostrzyn" 
+      ns="52.58492083" we="14.61450898" km="201.7" etykieta="" 
+      kolejnosc="142"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Vorflut Kanal z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="6342" miejscowosc="Kostrzyn" 
+      ns="52.5984016" we="14.60917303" km="200.2" etykieta="" 
+      kolejnosc="143"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony szerokie ujście Warty. Niżej teren otwarty, bezleśny ale z pojedynczymi drzewami i sporą ilością ładnych miejsc na dziki biwak. Wszystko w obrębie Parku Krajobrazowego Ujście Warty</opispunktu> 
+    </punkt>
+    <punkt id="6343" miejscowosc="Chlewice" 
+      ns="52.65114526" we="14.49152596" km="190.2" etykieta="" 
+      kolejnosc="144"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej stronie żwirownia - nabrzeże z taśmociągiem do ładowania urobku na barki</opispunktu> 
+    </punkt>
+    <punkt id="6344" miejscowosc="Chlewice" 
+      ns="52.65994078" we="14.47104198" km="188.5" etykieta="" 
+      kolejnosc="145"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście rzeki Myśla</opispunktu> 
+    </punkt>
+    <punkt id="6345" miejscowosc="Gross Neuendorf" 
+      ns="52.70171316" we="14.41133686" km="182" etykieta="" 
+      kolejnosc="146"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Na lewym brzegu widoczne z daleka nabrzeże starego portu i przystani. W wysokiej wieży załadunkowej oraz w zabytkowych wagonach kolejowych można komfortowo przenocować. W kompleksie znajduje się też m.in. kawiarnia i restauracja</opispunktu> 
+    </punkt>
+    <punkt id="6346" miejscowosc="Kłosów" 
+      ns="52.70860077" we="14.40895835" km="181.2" etykieta="" 
+      kolejnosc="147"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Kurzycy z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="6347" miejscowosc="Czelin" 
+      ns="52.73295633" we="14.37847528" km="177.8" etykieta="" 
+      kolejnosc="148"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Wieś blisko rzeki, na wysokiej skarpie. Niezbyt wygodne lądowanie z powodu kamienistego nabrzeża, za to z dojazdem do samej rzeki asfaltową drogą. Wcześniej piaszczysta plaża, jednak ogrodzona elektrycznym pastuchem  i okupowana przez pasące się bydło. Po jednej i drugiej stronie rzeki stoją betonowe słupy, pozostałość po funkcjonującym tu niegdyś, moście. Po drodze do sklepu spożywczego, który znajduje się w centrum Czelina, warto zwiedzić wystawę dotyczącą m.in. wykopalisk archeologicznych oraz historii związanej z posadowieniem tu pierwszego powojennego słupa granicznego na Odrze. Teren rekreacyjny zadbany i wyposażony w gabloty, tablice, stoły i ławki. Wszystko na wysokiej skarpie stromo opadającej do rzeki. Poniżej, na prawym brzegu rozpoczyna się malowniczy pas wzniesień Cedyńskiego Parku Krajobrazowego</opispunktu> 
+    </punkt>
+    <punkt id="6348" miejscowosc="Gozdowice" 
+      ns="52.76286462" we="14.31883275" km="172.4" etykieta="" 
+      kolejnosc="149"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przeprawa promowa przez Odrę</opispunktu> 
+    </punkt>
+    <punkt id="6349" miejscowosc="Siekierki" 
+      ns="52.80284182" we="14.23649435" km="165.2" etykieta="" 
+      kolejnosc="150"> 
+    <opispunktu typ="ujście" kolejnosc="-1">W prawo wstecz ujście rzeki Słubia</opispunktu> 
+    </punkt>
+    <punkt id="6350" miejscowosc="Siekierki" 
+      ns="52.81252228" we="14.22305236" km="163.7" etykieta="" 
+      kolejnosc="151"> 
+    <opispunktu typ="most" kolejnosc="-1">Most nieczynnej linii kolejowej, przystosowany dla pieszych i rowerów. Rzeka płynie odcinkiem przełomowym</opispunktu> 
+    </punkt>
+    <punkt id="6351" miejscowosc="Stary Kostrzynek" 
+      ns="52.83306499" we="14.12571466" km="156.5" etykieta="" 
+      kolejnosc="152"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Otwarte starorzecze Odry, w prawo wstecz. Na prawym brzegu sporo ładnych miejsc na dziki biwak, jednak najczęściej okupowanych przez wędkarzy. Odra przebija się przez pasmo wzniesień a dolina mocno zwęża. Na moment robi się bardzo malowniczo</opispunktu> 
+    </punkt>
+    <punkt id="6352" miejscowosc="Osinów Dolny" 
+      ns="52.84310106" we="14.1232787" km="155.3" etykieta="" 
+      kolejnosc="153"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="6353" miejscowosc="Osinów Dolny" 
+      ns="52.84521514" we="14.12462565" km="155.1" etykieta="" 
+      kolejnosc="154"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Zatoczka i oficjalne pole biwakowe po prawej stronie, tuż za mostem. Poniżej, przez kilkanaście kilometrów bardzo trudno o wygodne miejsca biwakowe, a tym bardziej ładne. Im dalej tym gorzej</opispunktu> 
+    </punkt>
+    <punkt id="6354" miejscowosc="Hohensaaten" 
+      ns="52.88076269" we="14.15730156" km="150.5" etykieta="" 
+      kolejnosc="155"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście kanału Wriezener Alte Oder, ze śluzą</opispunktu> 
+    </punkt>
+    <punkt id="6355" miejscowosc="Bielinek" 
+      ns="52.94008672" we="14.14501071" km="143.6" etykieta="" 
+      kolejnosc="157"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wioska nad samą rzeką. Wygodny dojazd do wody, ze slipem. Poniżej, na prawym brzegu piaszczyste skarpy i ładne miejsca na dzikie biwakowanie, pośród pojedynczo rosnących drzew. Tuż przy rzece duża żwirownia. Na lewym brzegu zaczyna się niemiecki Park Narodowy Dolnej Odry - Unteres Odertal</opispunktu> 
+    </punkt>
+    <punkt id="6356" miejscowosc="Bielinek" 
+      ns="52.96332995" we="14.15845769" km="140.2" etykieta="" 
+      kolejnosc="158"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Po prawej stronie wpływ do rozległej żwirowni Bielinek. Przy silnym wietrze wiejącym z kierunków wschodnich tworzy się tutaj wysoka boczna fala</opispunktu> 
+    </punkt>
+    <punkt id="6357" miejscowosc="Stutzkow" 
+      ns="52.98350349" we="14.19157691" km="137" etykieta="" 
+      kolejnosc="159"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wieża widokowa na obszarze Parku Narodowego Unteres Odertal</opispunktu> 
+    </punkt>
+    <punkt id="6358" miejscowosc="Raduń" 
+      ns="52.99623617" we="14.24337025" km="133.3" etykieta="" 
+      kolejnosc="160"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej stronie, widoczny z daleka, charakterystyczny folwark z czerwonej cegły. W dół rzeki wysoka, zalesiona skarpa</opispunktu> 
+    </punkt>
+    <punkt id="6359" miejscowosc="Krajnik Dolny" 
+      ns="53.03449485" we="14.31215029" km="127" etykieta="" 
+      kolejnosc="161"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Poniżej, po prawej stronie zalesiona skarpa z ładnymi miejscami na dziki biwak. Po lewej, cały czas ciągnie się obszar parku narodowego</opispunktu> 
+    </punkt>
+    <punkt id="6360" miejscowosc="Ognica" 
+      ns="53.0654614" we="14.35573485" km="122.4" etykieta="" 
+      kolejnosc="162"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeczki Rurzycy z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="6361" miejscowosc="Ognica" 
+      ns="53.07077681" we="14.35674601" km="121.7" etykieta="" 
+      kolejnosc="163"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po lewej stronie wieża widokowa do obserwacji ptaków bytujących na rozlewiskach PN Unteres Odertal. W pobliżu ławki, wiata i tablice informacyjne. W lewo zamknięta śluza prowadząca na jeden z licznych kanałów w kierunku miasta Schwedt. Niezbyt wygodne wyjście z wody na kanciaste kamienie i umocniony brzeg</opispunktu> 
+    </punkt>
+    <punkt id="6362" miejscowosc="Ognica" 
+      ns="53.08185851" we="14.36620485" km="120.4" etykieta="" 
+      kolejnosc="164"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Spora miejscowość blisko wody, po prawej stronie. Cały czas płyniemy wzdłuż malowniczego, zalesionego pasa wzniesień</opispunktu> 
+    </punkt>
+    <punkt id="6363" miejscowosc="Widuchowa" 
+      ns="53.12921458" we="14.38202161" km="115" etykieta="" 
+      kolejnosc="165"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Kolejna duża miejscowość po prawej stronie, tuż nad wodą</opispunktu> 
+    </punkt>
+    <punkt id="6364" miejscowosc="Widuchowa" 
+      ns="53.14218745" we="14.38765379" km="113.5" etykieta="" 
+      kolejnosc="166"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">W lewo, przez szeroką zastawkę odbija Odra Zachodnia, którą w dalszym biegu poprowadzona jest granica państwa. Płynąc prosto Odrą Wschodnią opuszczamy więc granicę i po obu stronach mamy obszar RP. Opuszczamy tym samym obszar Parku Narodowego Unteres Odertal i wpływamy do Parku Krajobrazowego Doliny Dolnej Odry, powszechnie zwany Międzyodrzem. Do Gryfina nie ma dobrych miejsc na biwaki, teren bardzo niski, podmokły, odsłonięty, zarośnięty trzcinami</opispunktu> 
+    </punkt>
+    <punkt id="6365" miejscowosc="Marwice" 
+      ns="53.17430156" we="14.40755771" km="109.7" etykieta="" 
+      kolejnosc="167"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Marwickiej Strugi</opispunktu> 
+    </punkt>
+    <punkt id="6366" miejscowosc="Dolna Odra" 
+      ns="53.19827164" we="14.41770852" km="106.9" etykieta="" 
+      kolejnosc="168"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">W lewo, jedna z wielu otwartych śluz prowadzących do labiryntu kanałów Międzyodrza</opispunktu> 
+    </punkt>
+    <punkt id="6367" miejscowosc="Dolna Odra" 
+      ns="53.21808022" we="14.43894944" km="104.3" etykieta="" 
+      kolejnosc="169"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">W prawo, poprzez kanał, efektowny widok na Elektrownię Dolna Odra</opispunktu> 
+    </punkt>
+    <punkt id="6368" miejscowosc="Dolna Odra" 
+      ns="53.23153511" we="14.45710683" km="102.4" etykieta="" 
+      kolejnosc="170"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">W lewo śluza na Międzyodrze</opispunktu> 
+    </punkt>
+    <punkt id="6369" miejscowosc="Gryfino" 
+      ns="53.24497921" we="14.47968429" km="100.2" etykieta="" 
+      kolejnosc="171"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Tywa, poszerzone Kanałem Dolna Odra</opispunktu> 
+    </punkt>
+    <punkt id="6370" miejscowosc="Gryfino" 
+      ns="53.24748784" we="14.4814407" km="100" etykieta="" 
+      kolejnosc="172"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na prawym brzegu plaża i przystań kajakowa w Gryfinie. Tuż za wałem kamping z domkami i pole namiotowe. Sklepy i restauracje znajdują się jedynie w centrum miasta</opispunktu> 
+    </punkt>
+    <punkt id="6371" miejscowosc="Gryfino" 
+      ns="53.25278633" we="14.48194101" km="99.4" etykieta="" 
+      kolejnosc="173"> 
+    <opispunktu typ="most" kolejnosc="-1">Zwodzony most drogowy pośród infastruktury portu w Gryfinie</opispunktu> 
+    </punkt>
+    <punkt id="6372" miejscowosc="Żabnica" 
+      ns="53.2876491" we="14.4917692" km="95.4" etykieta="" 
+      kolejnosc="174"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">W lewo otwarta śluza na Międzyodrze</opispunktu> 
+    </punkt>
+    <punkt id="6373" miejscowosc="Żabnica" 
+      ns="53.29409873" we="14.49699252" km="94.6" etykieta="" 
+      kolejnosc="175"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Kolejna otwarta śluza na Międzyodrze</opispunktu> 
+    </punkt>
+    <punkt id="6374" miejscowosc="Dębce" 
+      ns="53.30607988" we="14.5050106" km="93.2" etykieta="" 
+      kolejnosc="176"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Otwarta śluza w lewo</opispunktu> 
+    </punkt>
+    <punkt id="6375" miejscowosc="Łubnica" 
+      ns="53.31489865" we="14.51090877" km="92.1" etykieta="" 
+      kolejnosc="177"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Otwarta śluza w lewo</opispunktu> 
+    </punkt>
+    <punkt id="6376" miejscowosc="Łubnica" 
+      ns="53.32169159" we="14.52052812" km="91.1" etykieta="" 
+      kolejnosc="178"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej stronie slip, wiaty, ławki i stoliki</opispunktu> 
+    </punkt>
+    <punkt id="6377" miejscowosc="Radziszewo" 
+      ns="53.32893496" we="14.5264433" km="90.2" etykieta="" 
+      kolejnosc="179"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">W lewo otwarta śluza</opispunktu> 
+    </punkt>
+    <punkt id="6378" miejscowosc="Radziszewo" 
+      ns="53.32946462" we="14.53013602" km="90" etykieta="" 
+      kolejnosc="180"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">W prawo ślepe starorzecze</opispunktu> 
+    </punkt>
+    <punkt id="6379" miejscowosc="Radziszewo" 
+      ns="53.33373749" we="14.5310486" km="89.6" etykieta="" 
+      kolejnosc="181"> 
+    <opispunktu typ="most" kolejnosc="-1">Most autostrady A6</opispunktu> 
+    </punkt>
+    <punkt id="6380" miejscowosc="Radziszewo" 
+      ns="53.33800771" we="14.538051" km="88.9" etykieta="" 
+      kolejnosc="182"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony, wstecz uchodzi rzeczka Omulna w szerokiej zatoce starorzecza. W prawo wprzód można przepłynąć kontynuacją starorzecza, urozmaicając sobie spływ szeroką i nieco nudnawą Odrą, opływając wyspę Klucki Ostrów</opispunktu> 
+    </punkt>
+    <punkt id="6381" miejscowosc="Klucz" 
+      ns="53.35477399" we="14.55441525" km="86.7" etykieta="" 
+      kolejnosc="183"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Na różnych mapach różnie to wygląda, ale w tym miejscu lokalizowany jest koniec Odry Wschodniej. Dalej prosto płynie rzeka Regalica natomiast w lewo Skośnica, zwana Przekopem Klucz - Ustowo, jedna z możliwości popłynięcia w kierunku centrum Szczecina i dalej. Uwaga, na przepłynięcie Portu Szczecin należy uzyskać zgodę kapitanatu</opispunktu> 
+    </punkt>
+    <punkt id="6382" miejscowosc="Szczecin" 
+      ns="53.37030599" we="14.53159528" km="84.8" etykieta="" 
+      kolejnosc="184"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Połączenie przekopu Klucz - Ustowo z Odrą Zachodnią</opispunktu> 
+    </punkt>
+    <punkt id="6383" miejscowosc="Szczecin" 
+      ns="53.38276185" we="14.53605377" km="83" etykieta="" 
+      kolejnosc="185"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Pomorzan, drogowy i kolejowy. Tuż przed mostem, po prawej stronie wygodny dostęp do rzeki z dojazdem do samej wody, betonowy slip i dużo miejsca na samochody</opispunktu> 
+    </punkt>
+    <punkt id="6384" miejscowosc="Szczecin Dąbie" 
+      ns="53.40253942" we="14.65528965" km="81.9" etykieta="" 
+      kolejnosc="186"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Płoni do jeziora Małe Dąbie</opispunktu> 
+    </punkt>
+    <punkt id="6385" miejscowosc="Szczecin Dąbie" 
+      ns="53.40737587" we="14.66554573" km="81" etykieta="" 
+      kolejnosc="187"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Chełszcząca z prawej strony, do jeziora Dąbie</opispunktu> 
+    </punkt>
+    <punkt id="6386" miejscowosc="Szczecin" 
+      ns="53.41905046" we="14.55328421" km="78.7" etykieta="" 
+      kolejnosc="188"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Centrum Szczecina, bardzo ładnie prezentujące się od strony rzeki</opispunktu> 
+    </punkt>
+    <punkt id="6387" miejscowosc="Szczecin" 
+      ns="53.41986335" we="14.556009" km="78.5" etykieta="" 
+      kolejnosc="189"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="6388" miejscowosc="Szczecin" 
+      ns="53.42210168" we="14.56047453" km="78" etykieta="" 
+      kolejnosc="190"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Długi na drodze nr 10</opispunktu> 
+    </punkt>
+    <punkt id="6389" miejscowosc="Szczecin" 
+      ns="53.42572786" we="14.5658918" km="77.6" etykieta="" 
+      kolejnosc="191"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 115</opispunktu> 
+    </punkt>
+    <punkt id="6390" miejscowosc="Szczecin" 
+      ns="53.44491251" we="14.59544221" km="74.6" etykieta="" 
+      kolejnosc="192"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Przecięcie z torem wodnym Przekopu Mieleńskiego - uwaga na statki pełnomorskie. Prosto przesmyk na jezioro Dąbie</opispunktu> 
+    </punkt>
+    <punkt id="6391" miejscowosc="Inoujście" 
+      ns="53.52535605" we="14.65053918" km="65.4" etykieta="" 
+      kolejnosc="193"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przesmyk na jezioro Dąbie. Zaraz za nim w północnej części jeziora wystający ponad lustro wody wrak tzw. Betonowca</opispunktu> 
+    </punkt>
+    <punkt id="6392" miejscowosc="Inoujście" 
+      ns="53.53412486" we="14.63556382" km="64.3" etykieta="" 
+      kolejnosc="194"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście Iny</opispunktu> 
+    </punkt>
+    <punkt id="6393" miejscowosc="Police" 
+      ns="53.58969728" we="14.5838114" km="56.9" etykieta="" 
+      kolejnosc="195"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Widoczne z daleka wielkie białe hałdy fosfogipsu - dar Zakładów Azotowych w Policach</opispunktu> 
+    </punkt>
+    <punkt id="6394" miejscowosc="Police" 
+      ns="53.59948133" we="14.59751104" km="56.2" etykieta="" 
+      kolejnosc="196"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście rzeki Krępa</opispunktu> 
+    </punkt>
+    <punkt id="6395" miejscowosc="Police" 
+      ns="53.60414692" we="14.57391819" km="55" etykieta="" 
+      kolejnosc="197"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Gunicy z lewej strony. Wypływamy na Roztokę Odrzańską, a dalej na właściwy Zalew Szczeciński, otwarty wielki akwen wodny. Przed podjęciem decyzji o przepłynięciu Zalewu zachęcam do prześledzenia prognoz pogody, zwłaszcza kierunku i siły wiatru</opispunktu> 
+    </punkt>
+    <punkt id="6396" miejscowosc="Stepnica" 
+      ns="53.6520794" we="14.60711986" km="52.3" etykieta="" 
+      kolejnosc="198"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście Gowienicy do Zatoki Stepnickiej w obrębie Roztoki Odrzańskiej</opispunktu> 
+    </punkt>
+    <punkt id="6397" miejscowosc="Piaski Małe" 
+      ns="53.65558731" we="14.59172328" km="51.3" etykieta="" 
+      kolejnosc="199"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Ładne miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="6398" miejscowosc="Piaski Małe" 
+      ns="53.65641894" we="14.58734222" km="50.9" etykieta="" 
+      kolejnosc="200"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Ładne miejsce biwakowe z pomostem i wiatą</opispunktu> 
+    </punkt>
+    <punkt id="6399" miejscowosc="Czarnocin" 
+      ns="53.71519976" we="14.54671449" km="42.5" etykieta="" 
+      kolejnosc="201"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Dzika piaszczysta plaża</opispunktu> 
+    </punkt>
+    <punkt id="6400" miejscowosc="Czarnocin" 
+      ns="53.72022529" we="14.54866872" km="41.8" etykieta="" 
+      kolejnosc="202"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ładna plaża z widocznym z daleka, charakterystycznym hangarem</opispunktu> 
+    </punkt>
+    <punkt id="6401" miejscowosc="Wolin" 
+      ns="53.82846697" we="14.59945963" km="29.6" etykieta="" 
+      kolejnosc="203"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Widoczna z daleka piaszczysta plaża na wysokiej skarpie</opispunktu> 
+    </punkt>
+    <punkt id="6402" miejscowosc="Wolin" 
+      ns="53.84152644" we="14.61729625" km="27.1" etykieta="" 
+      kolejnosc="204"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Marina Wolin, w pobliżu duży plac na samochody</opispunktu> 
+    </punkt>
+    <punkt id="6403" miejscowosc="Wolin" 
+      ns="53.84350374" we="14.61986299" km="26.9" etykieta="" 
+      kolejnosc="205"> 
+    <opispunktu typ="most" kolejnosc="-1">Most lokalnej drogi do miasta</opispunktu> 
+    </punkt>
+    <punkt id="6404" miejscowosc="Wolin" 
+      ns="53.84634254" we="14.6218968" km="26.6" etykieta="" 
+      kolejnosc="206"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi nr 3</opispunktu> 
+    </punkt>
+    <punkt id="6405" miejscowosc="Wolin" 
+      ns="53.84734518" we="14.62258782" km="26.4" etykieta="" 
+      kolejnosc="207"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="6406" miejscowosc="Skarchowo" 
+      ns="53.92198015" we="14.75272721" km="19" etykieta="" 
+      kolejnosc="208"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Wołczenicy do zatoki Cichej na Dziwnie</opispunktu> 
+    </punkt>
+    <punkt id="6407" miejscowosc="Połchowo" 
+      ns="53.94178933" we="14.71882232" km="15.2" etykieta="" 
+      kolejnosc="209"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Charakterystyczna, widoczna z daleka kępa wysokich drzew, całkowicie wypalona odchodami kormoranów - grodzisko Wolinian</opispunktu> 
+    </punkt>
+    <punkt id="6408" miejscowosc="Sierosław" 
+      ns="53.94941706" we="14.68832224" km="13.5" etykieta="" 
+      kolejnosc="210"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Zatoka i slip z dojazdem nad samą wodę</opispunktu> 
+    </punkt>
+    <punkt id="6409" miejscowosc="Kamień Pomorski" 
+      ns="53.97467077" we="14.78324876" km="8.5" etykieta="" 
+      kolejnosc="211"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Świniec do Zalewu Kamieńskiego, w zatoce Karpinka</opispunktu> 
+    </punkt>
+    <punkt id="6410" miejscowosc="Dziwnów" 
+      ns="54.02470951" we="14.75515596" km="2.4" etykieta="" 
+      kolejnosc="212"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wygodne miejsce zakończenia spływu, z parkingiem, blisko wody. Sporo przestrzeni na samochody, ale w sezonie trudno o wolne miejsce</opispunktu> 
+    </punkt>
+    <punkt id="6411" miejscowosc="Dziwnów" 
+      ns="54.01998765" we="14.74278935" km="1.3" etykieta="" 
+      kolejnosc="213"> 
+    <opispunktu typ="most" kolejnosc="-1">Zwodzony most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="6412" miejscowosc="Dziwnów" 
+      ns="54.02416645" we="14.72557815" km="0" etykieta="" 
+      kolejnosc="214"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Dziwna do Bałtyku</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="193" nazwa="Płoska" wersja="1">
+<opis>Lewy dopływ Supraśli. Mała rzeczka, jednak stosunkowo głęboka jak na swoje rozmiary. Niesie bardzo czystą wodę. Płynie daleko od lasu w szerokiej dolinie, ale nurt ma wyraźny. Brzegi porośnięte głównie trzcinami, miejscami zarasta całe koryto, zdarzają się też trzcinowe zatory. Na krótkim odcinku przyjmuje charakter rzeki zwałkowej, a przewrócone drzewa zmuszają do sporej gimnastyki. Poza tym łatwo i nieuciążliwie. Na rzece nie ma wodowskazów, których aktualne odczyty można obserwować zdalnie, w internecie. Najbliższe znajdują się na Supraśli oraz na Sokołdzie. Wskazania wodowskazów: Nowosiółki 130, Sokołda 171 oraz Supraśl 103 gwarantują bardzo dobre warunki wodne w okolicy, w tym na Płosce. Przy tych warunkach, odcinek z Królowego Mostu do ujścia Płoski do Supraśli zajął nieco ponad 2h</opis> 
+    <punkt id="6185" miejscowosc="Królowy Most" 
+      ns="53.14620108" we="23.46556149" km="8.9" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek na szutrowej drodze. Wygodne miejsce na rozpoczęcie etapu, z dobrym dostępem do wody. W pobliżu mostu wiaty, ławki, tablice z informacjami turystycznymi i dużo miejsca na samochody. Poniżej rzeka wpływa na otwarty teren, dolina jest szeroka, a brzegi porastają trzciny. Do mostu dopływa już spora rzeczka, można więc próbować zaczynać znacznie wyżej</opispunktu> 
+    </punkt>
+    <punkt id="6186" miejscowosc="Kołodno" 
+      ns="53.16542008" we="23.45198378" km="6.3" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka dla pieszych. Przed kładką bród przez rzekę z możliwym dojazdem od strony wsi, polną drogą</opispunktu> 
+    </punkt>
+    <punkt id="6187" miejscowosc="Kołodno" 
+      ns="53.17179546" we="23.44658518" km="5.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na publicznej, szutrowej drodze do Supraśla. Możliwy dostęp do wody chociaż brzegi zarośnięte. Dalej dolina się zwęża, a rzeka meandruje. Krótko przed następnym mostem, w Cieliczance kilka powalonych drzew. Pokonanie niektórych, przy zastanych warunkach wodnych wymagało współpracy zespołowej</opispunktu> 
+    </punkt>
+    <punkt id="6188" miejscowosc="Cieliczanka" 
+      ns="53.18128413" we="23.41784866" km="1.7" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na szutrowej drodze</opispunktu> 
+    </punkt>
+    <punkt id="6189" miejscowosc="Cieliczanka" 
+      ns="53.18155148" we="23.41766259" km="1.6" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski betonowy prożek, przy wyższych stanach zapewne niezauważalny</opispunktu> 
+    </punkt>
+    <punkt id="6190" miejscowosc="Cieliczanka" 
+      ns="53.18854594" we="23.41238811" km="0.7" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">4 przęsłowa kratownica otwartej zastawki, nie piętrząca wody</opispunktu> 
+    </punkt>
+    <punkt id="6191" miejscowosc="Cieliczanka" 
+      ns="53.19400808" we="23.40809237" km="0" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Płoski do Supraśli. Wygodne miejsce zakończenia etapu znajduje się 300 m niżej, na Supraśli, po prawej stronie, w pobliżu domu rekolekcyjnego księży werbistów. Można tu dojechać szutrową drogą od strony osady Krzemienne. Po drugiej stronie rzeki położona jest wieś Cieliczanka, przy której również można zakończyć spływ, lub popłynąć w dół, do miasta Supraśl</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

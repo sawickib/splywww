@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="173" nazwa="Jezierzyca" wersja="1">
+<opis>Prawy dopływ Odry w NW części powiatu wołowskiego. Przepływa przez tereny otwarte, gdzie miejscami mocno zarasta trzcinami, a także przez kompleks leśny Parku Krajobrazowego Doliny Jezierzycy, gdzie zdecydowanie jest najbardziej atrakcyjna. Rzeka dostępna wyłącznie podczas podwyższonych stanów wody oraz ze względu na uciążliwość, w okresie przed wegetacją roślinności wodnej. Po względem zwałkowym nie jest specjalnie wymagająca, a na całej długości występuje jedynie kilka łatwych do pokonania naturalnych przeszkód. Dość liczne na początku obszaru zalesionego tamy bobrowe bardzo ułatwiają płynięcie, ze względu na piętrzenie wody [spływając z jednej tamy wpływa się w cofkę kolejnej]. Niestety po pewnym czasie tamy występują o wiele rzadziej i niedobory wody dają się we znaki</opis> 
+    <punkt id="5599" miejscowosc="Bożeń" 
+      ns="51.39242453" we="16.63106981" km="23.8" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 338 z Wołowa do Wińska. Wygodne miejsce startu, w pobliżu duży plac na samochody ale poniżej odcinek bardzo uciążliwy. Kilkaset metrów wygodnego płynięcia a dalej gęste trzcinowiska bez możliwości wiosłowania - jedyne rozwiązanie to przeciąganie się przez trzciny</opispunktu> 
+    </punkt>
+    <punkt id="5600" miejscowosc="Bożeń" 
+      ns="51.38843913" we="16.6207414" km="23" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka piętrząca wodę na 1,5m, pod progiem głęboko. Nad progiem niska betonowa kładka, zalecam więc przenoskę prawym brzegiem - 20m, zamiast spływania progiem. Zastawka odbiera w dwie strony znaczną ilość wody, tak więc poniżej w zasadniczym korycie rzeki jest płytko, miejscami wąsko i dość uciążliwie. Miejscami płynie się swobodnie ale na większości odcinka brakuje wody. Krótko mówiąc, odcinek mało ciekawy za to mocno uciążliwy</opispunktu> 
+    </punkt>
+    <punkt id="5601" miejscowosc="Kretowice" 
+      ns="51.3767382" we="16.60298841" km="20.9" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony Jezierzycę zasila rzeczka Gostusza, wyraźnie poprawiając warunki wodne</opispunktu> 
+    </punkt>
+    <punkt id="5602" miejscowosc="Kretowice" 
+      ns="51.3763693" we="16.60191566" km="20.8" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na publicznej, gruntowej drodze, za nim tama bobrowa i krótki odcinek trzciowisk, przy pastwiskach z wygrodzonym dojściem do wody dla bydła. Ze względu na uciążliwość i niskie walory estetyczne odcinka z Bożenia, zalecam rozpoczynanie spływu właśnie od mostu w Kretowicach</opispunktu> 
+    </punkt>
+    <punkt id="5603" miejscowosc="Kretowice" 
+      ns="51.3760929" we="16.59498216" km="20.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski mostek drewniany</opispunktu> 
+    </punkt>
+    <punkt id="5604" miejscowosc="Kretowice" 
+      ns="51.37758106" we="16.58616067" km="19.6" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Spory bezimienny dopływ czystej wody z lewej strony. Poniżej nieco trzcin i ładny prosty odcinek w szpalerze drzew. Coraz głębiej ze względu na sporą tamę bobrową</opispunktu> 
+    </punkt>
+    <punkt id="5605" miejscowosc="Moczydlnica" 
+      ns="51.384963" we="16.57592944" km="18.4" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Duża tama bobrowa, przed nią spore rozlewiska i do pokonania kilka powalonych drzew. Poniżej rzeka wpływa do lasu i całkowicie zmienia charakter, robi się malowniczo, pojawia się sporo zwierzyny nad wodą. Początkowo tamy bobrowe są częste i piętrzą wodę na tyle, że spływając z jednej wpływa się w cofkę następnej. W korycie pojedyncze zwałki a z brzegów zwieszają się kolczaste drzewo-krzaki</opispunktu> 
+    </punkt>
+    <punkt id="5606" miejscowosc="Moczydlnica" 
+      ns="51.38541348" we="16.5733763" km="18.2" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Spory dopływ z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="5607" miejscowosc="Moczydlnica" 
+      ns="51.38570252" we="16.57170203" km="18" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowy most na leśnej drodze, pod mostem tama bobrowa</opispunktu> 
+    </punkt>
+    <punkt id="5608" miejscowosc="Moczydlnica" 
+      ns="51.38661713" we="16.56397835" km="17.4" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5609" miejscowosc="Moczydlnica" 
+      ns="51.39109489" we="16.54335888" km="15.6" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany most z betonowymi przyczółkami na charakterystycznym e-S-ie rzeki. W pobliżu słychać posiągi na linii kolejowej pomiędzy Wołowem a Ścinawą. Poniżej mostu bobrowe tamy są niższe i rzadsze, nie piętrzą więc aż tak dobrze i zaczyna brakować wody pod kilem</opispunktu> 
+    </punkt>
+    <punkt id="5610" miejscowosc="Orzeszków" 
+      ns="51.39645666" we="16.52734541" km="14" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Spory bezimienny dopływ lewej</opispunktu> 
+    </punkt>
+    <punkt id="5611" miejscowosc="Orzeszków" 
+      ns="51.40222714" we="16.52303616" km="13.3" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowy most na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5612" miejscowosc="Orzeszków" 
+      ns="51.40551181" we="16.52261247" km="12.9" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z lewej rzeki Juszki</opispunktu> 
+    </punkt>
+    <punkt id="5613" miejscowosc="Orzeszków" 
+      ns="51.40930674" we="16.52208019" km="12.4" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z prawej kanału Rów Stawowy, niosącego głównie wody zabrane z Jezierzycy przy zastawce poniżej Bożenia</opispunktu> 
+    </punkt>
+    <punkt id="5614" miejscowosc="Orzeszków" 
+      ns="51.41028" we="16.52140951" km="12.3" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na drodze do Młotów, wygodne miejsce kończenia i rozpoczynania etapów, w pobliżu sporo miejsca na samochody. Koniec odcinka leśnego, za mostem kamienne bystrze z ostrych kamieni. Poniżej odcinek uregulowany, obwałowany, o stałym nurcie i głębokości, woda czysta, dno piaszczyste, miejscami nieco płytko</opispunktu> 
+    </punkt>
+    <punkt id="5615" miejscowosc="Młoty" 
+      ns="51.42579135" we="16.50963775" km="10.3" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek - kładka, pod nim dwa wodowskazy posadowione niezbyt stabilnie i słabo czytelne ale jedyne na całym szlaku. W dniu spływu dolnym odcinkiem wodowskaz krótszy skierowany w dół rzeki wskazywał poziom 15, natomiast wyższy skierowany w stronę lewego brzegu wskazywał poziom czerwone 10, odpowiadające czarnemu 00. Przy tych wskazaniach, na odcinku od Młotów do ujścia Jezierzycy do Odry wody nie brakuje. Poniżej mostu po lewej budynek i wylot kolektora jakby z oczyszczalni ścieków. Woda traci na przejrzystości, za to zyskuje charakterystyczny zapach i pływające gluty. Poniżej stopniowo robi się coraz głębiej</opispunktu> 
+    </punkt>
+    <punkt id="5616" miejscowosc="Młoty" 
+      ns="51.42745451" we="16.50584047" km="9.9" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5617" miejscowosc="Krzelów" 
+      ns="51.43152741" we="16.50030434" km="9.3" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowy most nieczynnej linii kolejowej. Poniżej odcinek zatrzciniony ale, w przeciwieństwie do odcinka poniżej Bożenia, dający możlwiość wiosłowania</opispunktu> 
+    </punkt>
+    <punkt id="5618" miejscowosc="Krzelów" 
+      ns="51.43568665" we="16.50408838" km="8.7" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze nr 36 pomiędzy Ścinawą a Wińskiem</opispunktu> 
+    </punkt>
+    <punkt id="5619" miejscowosc="Krzelów" 
+      ns="51.43767789" we="16.50469497" km="8.5" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na lokalnej drodze, charakterystycznie ugięty. Koniec odcinka zatrzcinionego, poniżej jedyna zwałka na dolnym odcinku</opispunktu> 
+    </punkt>
+    <punkt id="5620" miejscowosc="Krzelów" 
+      ns="51.44225144" we="16.50380252" km="8" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek stalowy na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5621" miejscowosc="Krzelów" 
+      ns="51.44391494" we="16.49790262" km="7.4" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Spora tama bobrowa</opispunktu> 
+    </punkt>
+    <punkt id="5622" miejscowosc="Buszkowice Małe" 
+      ns="51.46150986" we="16.47639575" km="4.6" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Sklepiony most drogowy z 1911 roku. Ostatnie cywilizowane miejsce do odbioru kajaków przed wpłynięciem na Odrę</opispunktu> 
+    </punkt>
+    <punkt id="5623" miejscowosc="Budków" 
+      ns="51.4814139" we="16.46047912" km="1.9" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Początek rozlewisk przyujściowych</opispunktu> 
+    </punkt>
+    <punkt id="5624" miejscowosc="Budków" 
+      ns="51.48488336" we="16.46017378" km="1.5" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Rozpadający sie mostek, ostatnie mniej cywilizowane miejsce z możliwością odbioru kajaków przed wpłynięciem na Odrę</opispunktu> 
+    </punkt>
+    <punkt id="5625" miejscowosc="Ciechłowice" 
+      ns="51.4959233" we="16.45751867" km="0" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Jezierzycy do Odry. W zależności od ilości wody w Odrze, a co za tym idzie od siły prądu można albo podpłynąć pod górę, około 500m na przeciwległy brzeg Odry, do miejscowości Ciechłowice, albo w dół 6 km do Laskowej, gdzie dojazd jest gruntową drogą, albo jeszcze niżej dodatkowo 2 km do Chobieni, gdzie czeka nas pełna cywilizacja z portem - przystanią, charakterystycznym widocznym z daleka kościołem, za którym po lewej w zatoce znajduje się zjazd - przyczółek nieczynnego promu z możliwością dojazdu w pobliże rzeki. W celu odbioru kajaków można też dojechać samochodem na prawą stronę Odry, od drogi nr 334</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

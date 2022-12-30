@@ -1,0 +1,60 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.09139500" lon="19.45201100">
+<name>6.28</name>
+<desc>Betonowy mostek.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.09058400" lon="19.43497700">
+<name>4.75</name>
+<desc>Most betonowy. Możliwość spłynięcia pod nim betonowymi rurami. Za mostkiem bystrze i płytko - mozliwość tarcia dnem kajaka o kamienie.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.09089700" lon="19.43237300">
+<name>4.52</name>
+<desc>Betonowa kładka.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.09055500" lon="19.43122000">
+<name>4.44</name>
+<desc>Ogromny nasyp kolejowy a pod nim długi około 100m  tunel. W tunelu dość płytko.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>4.38</name>
+<desc>Bezpieczny, spływalny próg wysokości około 1m.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.08670100" lon="19.42014700">
+<name>3.33</name>
+<desc>Po lewej wpływa mały strumyk. W widłach Linnowej i tego strumyka na górze znajduje się grodzisko wczesnośredniowieczne.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.08514700" lon="19.41546600">
+<name>2.88</name>
+<desc>Most na drodze Rypin - Brodnica. Pod mostem dwie betonowe rury, którymi da się spłynąć.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.09248000" lon="19.39133500">
+<name>0.78</name>
+<desc>Betonowy mostek.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.09425700" lon="19.38814400">
+<name>0.33</name>
+<desc>Betonowy mostek. </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.09296800" lon="19.38421000">
+<name>0.00</name>
+<desc>Ujście Linnowej do Rypienicy.</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

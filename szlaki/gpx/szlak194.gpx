@@ -1,0 +1,55 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.26467283" lon="23.58869503">
+<name>20.00</name>
+<desc>Betonowy most na drodze nr 676 Supraśl - Krynki. Wygodny dostęp do wody poniżej mostu z prawej strony, chociaż miejsce to lubi zarastać. Poniżej koryto wąskie, miejscami uciążliwie ze względu na piaszczyste mielizny, przewrócone drzewa, niskie drewniane kładki i wąskie prześwity pomiędzy trzcinami. W obrębie wsi rzeka bardzo kręta, a miejscami posiada szerokość kajaka. Dno piaszczyste, jednak po przepłynięciu kajaków, stagnujący przy brzegach muł całkowicie mąci krystalicznie czystą wodę. Po wypłynięciu poza zabudowania wsi znikają kładki, ale zdarzają się zatory z roślinności gromadzącej się na leżących w poprzek drzewach. Dalej również koryto miejscami bardzo wąskie i zarastające trzciną, utrudniające wiosłowanie. Rzeka wypływa na szeroką dolinę i robi się znacznie głębiej. Nurt miejscami niemal niezauważalny</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.25879323" lon="23.57210301">
+<name>17.70</name>
+<desc>Pojawienie się kolejnych niskich kładek i zwałek zwiastuje zbliżanie się do miejscowości Nowe Trzciano. Charakterystyczna jest zwłaszcza niska kładka zbudowana z płyt jasnych, stalowych kaloryferów, doskonale widoczna na zdjęciu satelitarnym i pierwotnie zinterpretowana, jako prożek piętrzący wodę</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.25368824" lon="23.56387675">
+<name>16.60</name>
+<desc>Drewniany, wysoki mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.24403108" lon="23.55954887">
+<name>15.10</name>
+<desc>Z lewej strony wpada rzeczka Starzynka, niosąca podobną ilość wody, co Słoja. Na chwilę robi się szerzej, jednak miejscami rzeka jest nadal mocno zarośnięta i wiosłowanie bywa utrudnione</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.22792348" lon="23.54508793">
+<name>11.30</name>
+<desc>Zniszczony, betonowy przepust z 4 rur, dawniej zapewne pełniący funkcję mostu. Ze względu na sterczące ostre fragmenty betonu zalecana jest tu krótka przenoska prawą stroną</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="53.21486299" lon="23.53002983">
+<name>8.40</name>
+<desc>Pojawienie się kolejnych niskich kładek oraz pojedynczych zwałek, zwiastuje zbliżanie się do zabudowań Lipowego Mostu</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.20953587" lon="23.53057317">
+<name>7.50</name>
+<desc>Most betonowy na publicznej, szutrowej drodze. Wygodny dostęp do wody poniżej mostu, po lewej stronie. Poniżej pojedyncze zatory z roślin oraz zwałki, niektóre dość wymagające</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.18174573" lon="23.52481621">
+<name>0.50</name>
+<desc>Most na szutrowej drodze. Wygodne miejsce zakończenia spływu. Poniższy, 500 metrowy odcinek do ujścia może być zarośnięty trzcinami i wiosłowanie może być utrudnione</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.18117839" lon="23.52051340">
+<name>0.00</name>
+<desc>Słoja uchodzi do Supraśli. Najbliższe, najbardziej dogodne miejsce zakończenia spływu znajduje się w Borkach, po prawej stronie, 3,5 km w dół Supraślą</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

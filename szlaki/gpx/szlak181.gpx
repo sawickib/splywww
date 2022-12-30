@@ -1,0 +1,100 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.02264215" lon="16.70364439">
+<name>87.10</name>
+<desc>SE brzeg jeziora Kwiecko. Dobry dojazd nad samą wodę, gruntową drogą. Wodowanie ze żwirowo piaszczystej, łagodnie opadającej plaży, wykorzystywanej głównie jako slip do wodowania łódek wędkarskich. W pobliżu, na rozległej łące sporo miejsca na samochody</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="54.02980973" lon="16.69053915">
+<name>85.90</name>
+<desc>Kraniec jeziora Kwiecko, początek zwężonej jego części. Na przedwojennych mapach w tym miejscu kończyło się jezioro, a zaczynała rzeka</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="54.02762139" lon="16.67981748">
+<name>84.90</name>
+<desc>Wał zapory z zakratowanym przepustem. Po wale prowadzi droga gruntowa, istnieje więc możliwość dojechania w to miejsce samochodem. Przenoska prawą stroną przez trawiasty wał i drogę z betonowych płyt, na odległość około 50m. Wygodne wodowanie poniżej betonowego wypływu. Na betonowym murku dwa trudne do interpretacji uszkodzone wodowskazy. Poziom 780 na pierwszym oraz 290 na drugim gwarantują przyzwoite warunki wodne poniżej, chociaż początkowy odcinek w głębokim  wąskim wąwozie jest kamienisty i miejscami płytki, przez co bardziej bystry. Przez swój regularny wygląd, odcinek ten przypomina sztuczny przekop. Kilka drzew w nurcie zmusza do niewielkiego wysiłku, jednak zwałki są poprzecinane</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.02589920" lon="16.67322077">
+<name>84.40</name>
+<desc>Wypływ z lasu na otwartą przestrzeń, przypominającą zarośnięte jezioro. Nurt zwalnia i rzeka wpływa w rozległe trzcinowiska. Płynie się swobodnie, czytelnym nurtem. Miejscami robi się wąsko, ale za to jest znacznie głębiej</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="54.03358572" lon="16.64734891">
+<name>82.00</name>
+<desc>Wysoki, dobrze zachowany most nieczynnej kolei. Pod mostem niewielkie bystrze. Zaraz za mostem, po prawej stronie istnieje możliwość zrobienia przerwy w spływie, przy drewnianych ławkach. Poniżej rzeka płynie przez zabagnioną szeroką dolinę leśną</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.03671976" lon="16.63219713">
+<name>80.80</name>
+<desc>Drewniane ławki po prawej stronie, w lesie na skarpie, nieco oddalone od wody. Przy intensywnym wzroście roślinności mogą być słabo widoczne z wody</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.04015305" lon="16.61768636">
+<name>79.20</name>
+<desc>Most betonowy na lokalnej drodze. Przed mostem, po lewej stronie znajduje się nowy, dobrze widoczny z lądu wodowskaz. Wskazania poziomu 161 zapewniają przyzwoite warunki wodne na reprezentowanym odcinku. Pod mostem rozmyty próg kamienno betonowy po dawnym młynie. Spływać z prawej strony, bystrzem, uważając na wystający pręt stalowy na początku spadku. Poniżej odcinek leśny z przeciętymi zwałkami</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.04807447" lon="16.60551882">
+<name>77.40</name>
+<desc>Z prawej strony wody Radwi zasila rzeczka Drężnianka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.05155484" lon="16.58363206">
+<name>75.40</name>
+<desc>Most na drodze nr 168. Trzy sklepione przęsła z widoczną datą 1903 r. Wygodne miejsce wodowania i lądowania, chociaż skarpa nieco stroma. Wygodny dojazd samochodem do samego mostu. Dalej długi odcinek bez możliwości podjęcia kajaków z wody</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.07156424" lon="16.47123663">
+<name>61.40</name>
+<desc>Z prawej strony uchodzi rzeczka Mszanka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.07193010" lon="16.45324332">
+<name>59.40</name>
+<desc>Rzeczka Grzybnica uchodzi z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.07061288" lon="16.29996671">
+<name>47.70</name>
+<desc>Z lewej strony, w głębokiej zatoce jeziora znajduje się ujście rzeczki Bielica</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.05527629" lon="16.51396108">
+<name>42.20</name>
+<desc>Ujście Zgniłej Strugi z prawej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.06016084" lon="16.49958045">
+<name>41.20</name>
+<desc>Z lewej strony ujście rzeki Chociel</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.05652961" lon="16.13413640">
+<name>33.30</name>
+<desc>Ujście rzeki Chotla z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.11214611" lon="16.07463921">
+<name>23.60</name>
+<desc>Z prawej strony wpada rzeczka Czarna</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.07302531" lon="15.97573599">
+<name>11.50</name>
+<desc>Ujście rzeczki Zieleniec z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.03758800" lon="15.86978627">
+<name>0.00</name>
+<desc>Ujście Radwi do Parsęty trzema odnogami</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

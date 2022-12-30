@@ -1,0 +1,566 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.87054100" lon="14.82339773">
+<name>198.40</name>
+<desc>Trójstyk granic Polski, Niemiec i Czech. Z prawej ujście niewielkiego potoku Lubota</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.87105540" lon="14.82259554">
+<name>198.30</name>
+<desc>Próg o wysokości około 1m. Poniżej progu wygodne miejsce wodowania. Dobry dojazd w pobliże rzeki: przed przejściem granicznym z Czechami w Kopaczowie, vis a vis stacji benzynowej należy skręcić w prawo w drogę z eurokostki, wysadzanej starymi drzewami. Doprowadza ona do samego trójstyku granic</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.87240983" lon="14.82091880">
+<name>198.10</name>
+<desc>Betonowa łukowata kładka bez barierek zagrodzona betonowymi płytami po stronie niemieckiej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.88370795" lon="14.81889290">
+<name>196.80</name>
+<desc>Most drogowy, przejście graniczne</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.88723185" lon="14.82136969">
+<name>196.40</name>
+<desc>Kładka, przejście graniczne</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.88995876" lon="14.82535291">
+<name>196.00</name>
+<desc>Ujście rzeki Mandau z lewej</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.89098847" lon="14.82717915">
+<name>195.80</name>
+<desc>Mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.89246791" lon="14.82902820">
+<name>195.60</name>
+<desc>Ładny kamienny wiadukt kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.89640601" lon="14.83672197">
+<name>194.80</name>
+<desc>Most drogowy, przejście graniczne. Wygodny dostęp do wody. Poniżej mostu znajduje się wodowskaz Sieniawka, którego odczyty można obserwować w internecie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.90129467" lon="14.84426065">
+<name>194.10</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.91295729" lon="14.85806671">
+<name>192.40</name>
+<desc>Niewielki prożek. Po prawej stronie, w odległości około 100m od rzeki bardzo ładny widok odkrywki kopalni węgla brunatnego</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.92149501" lon="14.87062137">
+<name>191.00</name>
+<desc>Nieczynny most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.93514697" lon="14.89044359">
+<name>188.70</name>
+<desc>Nieczynny, częściowo nadgryziony zębem czasu żelebetowy most. Aktualnie mostu już nie ma - został rozebrany</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.93525249" lon="14.89082731">
+<name>188.60</name>
+<desc>Wysoki jaz z automatycznym systemem oczyszczanie kraty. Przenoska prawym brzegiem jest bardziej wygodna niż lewym, chociaż wodowanie pośród kamieni z wysokiej skarpy. Po lewej stronie elektrownia</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.94430239" lon="14.89520437">
+<name>187.50</name>
+<desc>Z prawej ujście rzeki Miedzianki</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.94558464" lon="14.89512800">
+<name>187.30</name>
+<desc>Nieczynny most kratownicowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.94848410" lon="14.89377900">
+<name>187.00</name>
+<desc>Czynny most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.95418184" lon="14.89579830">
+<name>186.30</name>
+<desc>Początek odcinka przełomu Nysy. Po lewej pomost, miejsce startu komercyjnych spływów pontonowych</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.96021817" lon="14.90028973">
+<name>185.50</name>
+<desc>Czynny most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.96238906" lon="14.90097782">
+<name>184.90</name>
+<desc>Czynny most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.99729554" lon="14.92304466">
+<name>179.50</name>
+<desc>Kamienny próg (spływalny przy odpowiedniej wodzie) piętrzący wodę na potrzeby starego młyna. Koniec odcinka przełomowego. Ewentualna przenoska 50m lewą stroną. Dogodne wyjście z wody (podest i schodki), opuszczanie kajaków na cumach wdłuż przepławki dla ryb. W pobliżu jazu udostępniony do zwiedzania klasztor Cystersów</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.01606293" lon="14.93910169">
+<name>176.80</name>
+<desc>Kładka, przejście graniczne, stacja kolejowa</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.02375237" lon="14.94231930">
+<name>174.70</name>
+<desc>Pochyły jaz, możliwy do spłynięcia po wcześniejszym rozpoznaniu. Skrajnie z lewej strony jest bardziej połogi ale w miejscu tym tworzy się niewielki odwój. Ewentualna przenoska lewą stroną po trawie, 50 m, ścinając meander. Wyjście z wody przy grubym drzewie przed zakrętem</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.04044155" lon="14.94821524">
+<name>171.80</name>
+<desc>Pochyły jaz, możliwy do spłynięcia przy większej ilości wody. Ewentualna przenoska - opuszczenie kajaków na cumach, wzdłuż murku przy przepławce dla ryb</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.04245858" lon="14.94854796">
+<name>171.50</name>
+<desc>Powrót młynówki z lewej. W dali widoczne zabudowania elektrowni a tuż przy ujściu wysoki mostek - kładka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.04675834" lon="14.95600180">
+<name>170.40</name>
+<desc>Czynny most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.05000078" lon="14.96451464">
+<name>169.40</name>
+<desc>Z prawej ujście kanału ulgi dla rzeki Witki</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.05500340" lon="14.96449238">
+<name>168.80</name>
+<desc>Zabytkowy pałac na wodzie po prawej, w odległości 50 m od rzeki. Ładna aleja ze starymi drzewami dokoła pałacu, wdłuż fosy</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.05880274" lon="14.96473774">
+<name>168.20</name>
+<desc>Po prawej ujście rzeki Witki</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.06033209" lon="14.96573540">
+<name>168.00</name>
+<desc>Most drogowy przejście graniczne. W pobliżu mostu po polskiej stronie znajduje się nowo wybudowane Centrum Obsługi Ruchu Turystycznego</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.06159322" lon="14.96654458">
+<name>167.80</name>
+<desc>Mały prożek zaraz za mostem. Dla chcących obnieść to miejsce, zarówno przed jak i poniżej prożka znajdują się pomosty</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.06314389" lon="14.96734137">
+<name>167.70</name>
+<desc>Pozostałości po starym moście kolejowym</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.07015947" lon="14.96771926">
+<name>166.40</name>
+<desc>Z lewej strony wpada rzeka Pließnitz</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.09721785" lon="14.98184247">
+<name>161.70</name>
+<desc>Jaz spławny wąskim językiem tuż przy budynku. Ewentualna niewygodna przenoska lewym brzegiem 40m. W odległości około 500m w lewo znajduje się Berzdorfer See - jezioro po zalanej odkrywkowej kopalni węgla brunatnego</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.10479509" lon="14.98232808">
+<name>160.60</name>
+<desc>Próg z niewielkim odwojem. Kamienie i drzewa w nurcie. Ewentualna przenoska prawym brzegiem, 40m po trawie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.11623996" lon="14.98685829">
+<name>158.20</name>
+<desc>Szeroki pochyły jaz. Jeżeli jest taka możliwość to płynąć w lewo przez otwarte wrota</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.14292607" lon="14.99068499">
+<name>154.60</name>
+<desc>Bardzo fotogeniczny, wysoki, kamienny wiadukt kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.14350560" lon="14.99332852">
+<name>154.40</name>
+<desc>Pochyły jaz z drewnianymi przegrodami (końcówka pionowa) przy tzw. Górnym Młynie. Spłynięty 2 przegrodą od prawej. Przenoska prawą stroną 40m przez lasek. Po lewej restauracja Obermuhle</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.15026297" lon="15.00088077">
+<name>153.40</name>
+<desc>Most drogowy, przejście graniczne</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.15766546" lon="14.99407893">
+<name>152.40</name>
+<desc>Kładka dla pieszych w centrum miasta, poniżej jaz o wysokości około 3m przy elektrowni stosunkowo łatwy do spłynięcia, chociaż robiący spore wrażenie. Restauracje po lewej i po prawej stronie jazu. Niewygodna i długa przenoska. Podobno można przenieść się przez knajpę z lewej lub prawej strony rzeki, trzeba jednak zdobyć klucz od bramki a później poprzeciskać się pomiędzy stolikami.
+Wygodne wyjście z wody po lewej stronie - pływający pomost i schodki. Sporo sklepów. W Zgorzelcu nieco oddalone od jazu, w Goerlitz znacznie bliżej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.18076967" lon="15.00869234">
+<name>149.10</name>
+<desc>Most autostrady A4</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.19230285" lon="15.00832481">
+<name>147.60</name>
+<desc>Jaz ze zużytymi drewnianymi przegrodami. Przenoska prawym brzegiem 20m po trawie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.24412779" lon="15.03806689">
+<name>138.60</name>
+<desc>W lewo jaz i mała elektrownia. Przenosić w tym miejscu tylko przy wysokiej wodzie, ponieważ za jazem jest kilka progów z kanciastych kamieni i larsenów</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.24583276" lon="15.03918572">
+<name>138.30</name>
+<desc>Drewniany mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24599548" lon="15.03845632">
+<name>138.20</name>
+<desc>Zastawka w prawo i prosto, w lewo przepławka dla ryb. Najlepiej kajaki przenosić na lewo ścieżką nad przepławką dla ryb, za zastawkę i tam się wodować. Wodując się na dole przepławki wypływamy na rzekę pomiędzy wspomnianymi wcześniej progami z larsenów i kamieni. Najbliższy sklep znajduje się o w odległości około 500m. Należy przejść przez mostek, sforsować bramkę i na ulicy skręcić w lewo pod górę</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.25672142" lon="15.03075648">
+<name>135.50</name>
+<desc>Kładka, przejście graniczne</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.25804975" lon="15.03800401">
+<name>135.00</name>
+<desc>Ujście młynówki z prawej</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.27292633" lon="15.04189863">
+<name>133.00</name>
+<desc>Najbardzie wysunięty na wschód punkt Niemiec - Östlichster Punkt Deutschlands. Pamiątkowy kamień z tablicą</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.27904970" lon="15.03471033">
+<name>131.90</name>
+<desc>Przyczółki po moście</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.28541089" lon="15.03231738">
+<name>131.10</name>
+<desc>Wygodne miejsce na biwak po lewej stronie rzeki. Dobry oznakowany dojazd i dogodne zejście do wody. Miejsce startu niemieckich pontonowych spływów komercyjnych Neise Tours</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.28621351" lon="15.03230471">
+<name>131.00</name>
+<desc>Czynny most kolejowy, pod nim bystrze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.29177608" lon="15.03340574">
+<name>130.40</name>
+<desc>Prożek</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.29590223" lon="15.02982218">
+<name>129.70</name>
+<desc>Prożek</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.29841760" lon="15.02583455">
+<name>129.30</name>
+<desc>Zoll Station, miejsce rekreacyjne dla spływów komercyjnych, poprzedzone kolorowymi tablicami informacyjnymi (w języku niemieckim). Mały prom napędzany ręcznie, dyby kilkuosobowe (chyba pięcio), kramik z miejscowymi specjałami itp</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.30842836" lon="15.01235266">
+<name>127.30</name>
+<desc>Miejsce biwakowe z pomostem, drewniana wiata po lewej stronie</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.31035887" lon="15.00757571">
+<name>126.90</name>
+<desc>Jaz piętrzący wodę na potrzeby elektrowni. Oznakowana przenoska prawym brzegiem około 100m po trawie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.32182904" lon="14.99495266">
+<name>124.80</name>
+<desc>Prożek</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.32906266" lon="14.99041135">
+<name>123.70</name>
+<desc>Pochyły próg. Spływać z lewej strony. Na lewym brzegu miejsce biwakowe z dobrym dojazdem. Punkt końca spływów komercyjnych Neise Tours</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.35909091" lon="14.97429013">
+<name>119.70</name>
+<desc>Ruiny po moście</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.36863557" lon="14.97718620">
+<name>117.40</name>
+<desc>Jaz piętrzący wodę na potrzeby elektrowni. Tuż przed jazem kończy się województwo dolnośląskie a zaczyna lubuskie. Przenoska prawym brzegiem 30m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.38263231" lon="14.96856018">
+<name>114.90</name>
+<desc>Jaz piętrzący wodę na potrzeby elektrowni. Dobry dojazd od polskiej strony drogą asfaltową. Przenoska prawym brzegiem 100m gruntową drogą wzdłuż stawów hodowlanych. Sklep spożywczy w Sobolicach, w odległości około 500m od jazu</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.39842320" lon="14.96881332">
+<name>112.20</name>
+<desc>Pierwsza elektrownia po polskiej stronie rzeki. Przenoska lewym brzegiem około 50m. Na lewym brzegu znajduje się zadaszona wiata turystyczna z tablicami informacyjnymi i mapą ścieżki rowerowej Odra - Nysa</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.40790272" lon="14.96300299">
+<name>111.00</name>
+<desc>Ruiny mostu</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.41637397" lon="14.96704163">
+<name>109.60</name>
+<desc>Prożek</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.45575912" lon="14.95885499">
+<name>103.40</name>
+<desc>Jaz piętrzący wodę dla elektrowni Bukówka. Przenoska lewym brzegiem 200m po trawie. Boisko i zadaszona wiata turystyczna przy ścieżce rowerowej</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.47204278" lon="14.94686503">
+<name>101.30</name>
+<desc>Most drogowy, przejście graniczne</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.48231352" lon="14.89667133">
+<name>96.80</name>
+<desc>Prożek</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.49021702" lon="14.85775854">
+<name>93.40</name>
+<desc>Jaz piętrzący wodę dla elektrowni Przysieka. Przenoska 100m lewym brzegiem przez betonowy mostek</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.51725182" lon="14.79022999">
+<name>86.80</name>
+<desc>Głazy narzutowe w nurcie rzeki</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.51846712" lon="14.78379078">
+<name>86.30</name>
+<desc>Z prawej strony uchodzi rzeka Skroda</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.52169189" lon="14.75260625">
+<name>83.80</name>
+<desc>Neise hafen. Po lewej stronie pomost ułatwiający wyjście z wody</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.52606128" lon="14.73545078">
+<name>82.40</name>
+<desc>Most drogowy, przejście graniczne</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.53723293" lon="14.72758647">
+<name>80.90</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.54224904" lon="14.72856266">
+<name>80.30</name>
+<desc>Most drogowy, przejście graniczne. Zaraz za mostem, po polskiej stronie znajduje się wielki bazar oraz liczne sklepy, bary i restauracje</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.54511230" lon="14.72874837">
+<name>80.00</name>
+<desc>Zaciszne miejsce na pozostawienie kajaków bez opieki i zwiedzenie Parku Mużakowskiego UNESCO</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.54562017" lon="14.72904551">
+<name>79.90</name>
+<desc>Jaz przy elektrowni. Przenoska prawym brzegiem 30m po trawie. 200m wcześniej, po prawej stronie znajduje się zastawka, za którą być może da się również zwodować przy wyższym poziomie wody</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.54762591" lon="14.72935791">
+<name>79.70</name>
+<desc>Kładka spinająca obie strony Parku Mużakowskiego</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.54926167" lon="14.72955597">
+<name>79.50</name>
+<desc>Prożek</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.55450288" lon="14.72112773">
+<name>78.70</name>
+<desc>Druga, nowa kładka łącząca dwie części Parku Mużakowskiego</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.59042180" lon="14.73982485">
+<name>73.60</name>
+<desc>Jaz w lewo. Przenoska z lewej strony około 100m po trawie. Dużo miejsca na zorganizowanie biwaku</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.61437147" lon="14.76418112">
+<name>69.90</name>
+<desc>Rozwidlenie: prosto szeroko ale za jazem może nie być wody, dlatego lepiej płynąć w prawo wąskim kanałem do elektrowni</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.62015975" lon="14.76508571">
+<name>69.20</name>
+<desc>Most na potrzeby przebudowy stopnia wodnego</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.62171591" lon="14.76136863">
+<name>68.90</name>
+<desc>Elektrownia Siedlec. Przenoska w lewo wzdłuż przepławki dla ryb około 80m (aktualnie jest to plac budowy). Wg informacji uzyskanych od obsługi elektrowni, projekt przebudowy stopnia wodnego przewiduje stworzenie udogodnień dla kajakarzy</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.66681603" lon="14.75278446">
+<name>63.20</name>
+<desc>Most autostradowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.67346984" lon="14.74815810">
+<name>62.40</name>
+<desc>Prożek oraz pozostałości starego mostu</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.67648154" lon="14.74534277">
+<name>61.90</name>
+<desc>Przez rzeką przechodzi napięta stalowa lina, przypominająca most tyrolski. Nie mam pojęcia do czego jest dzisiaj wykorzystywana ale biorąc pod uwagę, że przekracza granicę państwa, na myśl przychodzą różne rzeczy...</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.70793332" lon="14.69178679">
+<name>56.20</name>
+<desc>Jaz piętrzący wodę na potrzeby elektrowni. Przenoska lewym brzegiem 100m po trawie. Jeżeli stan wody pozwala, 200m przed jazem w prawo odchodzi kanał omijający elektrownię (przepławka dla ryb) - można próbować tamtędy</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.72602358" lon="14.66821242">
+<name>53.50</name>
+<desc>Jaz w prawo. Przenoska prawym brzegiem około 50m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.73644459" lon="14.66212129">
+<name>53.20</name>
+<desc>Most kolejowy. Pod mostem prożek z pozoru nie wyglądający groźnie, na lewym przęśle jednak w dno wbite są niewidoczne 2 rzędy drewnianych pali stawiające kajak (w zależności od ilości wody) w poprzek nurtu. Pod mostem najlepiej jest przepłynąć pod lewym przęsłem ale skosem z lewej strony na prawą wtedy omija się owe pale</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.73977330" lon="14.65757047">
+<name>51.70</name>
+<desc>Urwana betonowa kładka</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.74373713" lon="14.65769456">
+<name>51.20</name>
+<desc>Filary betonowe po moście. W lewym przęśle w nurcie betonowa płyta</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.76041709" lon="14.65192557">
+<name>48.40</name>
+<desc>Z lewej strony ujście młynówki</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.76588121" lon="14.65248020">
+<name>47.80</name>
+<desc>Most drogowy, przejście graniczne</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.78267673" lon="14.65375225">
+<name>45.80</name>
+<desc>Przyczółki mostu</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.84228021" lon="14.59655479">
+<name>35.70</name>
+<desc>Jaz w prawo. Przenoska prawym brzegiem około 30m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.85652971" lon="14.61053924">
+<name>31.80</name>
+<desc>Połączenie z młynówką</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.86605224" lon="14.63974185">
+<name>29.30</name>
+<desc>Stary, częściowo wysadzony most wyglądający na kolejowy, dziś kładka dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.87994615" lon="14.65386797">
+<name>27.30</name>
+<desc>Jaz w prawo, w lewo kanał do elektrowni. Przenoska lewym brzegiem (wyspą) 30m po trawie. Za jazem płynąć skrajnie przy lewym brzegu ponieważ w nurcie sterczą drewniane kołki. Na wyspie sporo miejsca na biwak</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.90326010" lon="14.69446823">
+<name>22.60</name>
+<desc>Most drogowy, przejście graniczne</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.93986580" lon="14.71665004">
+<name>17.60</name>
+<desc>Kratownicowy most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.94743456" lon="14.71868416">
+<name>16.70</name>
+<desc>W zależności od ilości wody elektrownię w Gubinie można ominąć i spłynąć kanałem przez Guben, rozpoczynającym się małą przegrodą vis a vis dużego napisu ZIGARETTEN 24h. Kanał jest szeroki, miejscami płytki ale da się płynąć, nabrzeże przygotowane dla kajakarzy - pomosty i zejścia do wody (dobry punkt wypadowy do Gubenskiej starówki), Przenoska około 60m na kanał</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.95175212" lon="14.72130371">
+<name>16.20</name>
+<desc>Elektrownia w Gubinie, most drogowy, przejście graniczne. Przenoska lewym brzegiem około 400m. Wyjście z wody przy pomostach, wodowanie przy kamiennych schodach. Przenoska wygodna ale długa, dlatego polecam opcję z płynięciem kanałem</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.95366588" lon="14.72035471">
+<name>15.90</name>
+<desc>Kładka dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.95598275" lon="14.71805252">
+<name>15.60</name>
+<desc>Z prawej strony wpada rzeka Lubsza</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.95669416" lon="14.71211538">
+<name>15.30</name>
+<desc>Most drogowy na kanale. Pod mostem betonowe płyty po starym moście, to miejsce sugeruję pokonać opuszczając kajak na cumce</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.96053360" lon="14.71145199">
+<name>14.90</name>
+<desc>Filary starego mostu</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.96920234" lon="14.70712778">
+<name>13.90</name>
+<desc>Lina stalowa przerzucona przez rzekę. Ciekawe komu i do czego służyła w czasach słusznie minionych?</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.97366001" lon="14.70688685">
+<name>13.40</name>
+<desc>Czynny most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.01675914" lon="14.73167769">
+<name>7.10</name>
+<desc>Przyczółki starego mostu. Dobry dojazd nad samą rzekę</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.06967783" lon="14.75567157">
+<name>0.00</name>
+<desc>Ujście Nysy Łużyckiej do Odry. Spływ można zakończyć na mostku w Krzesinie (wygodny dojazd) spływając w dół Odrą, następnie w prawo na jezioro Krzesińskie i Kanałem Krzesińskim do mostku (w sumie około 6 km od ujścia Nysy)</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.09178470" lon="14.76440395">
+<name>0.00</name>
+<desc>Mostek w Krzesinie z dobrym dojazdem</desc>
+<cmt>most</cmt>
+</wpt>
+
+</gpx>

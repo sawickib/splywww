@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="125" nazwa="Paklica" wersja="2">
+<opis>Lewy dopływ Obry o długości około 40 km. Płynie przez pojezierze lubuskie na obszarze powiatu śiwebodzińskiego i międzyrzeckiego. Obszar źródłiskowy znajduje się powyżej miejscowości Lubrza, natomiast do Obry uchodzi w Międzyrzeczu. Krajobrazowo jest urozmaicona, płynie zarówno przez obszary zalesione, ale i opływa też łąki, pola, bagniska. W górnym biegu zasila kilka jezior a dodatkowo fragment tego odcinka stanowi część tzw. Międzyrzeckiego Rejonu Umocnionego, co objawia się specyficzną infrastrukturą hydrotechniczną. Od Lubrzy do Gościkowa rzeka dość mocno obciążona przez spływy komercyjne.</opis> 
+    <punkt id="4553" miejscowosc="Kuźnik" 
+      ns="52.42424363" we="15.62131732" km="5.1" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska przed elektrownią w lewo - około 30 m</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mała elektrownia wodna</opispunktu> 
+    </punkt>
+    <punkt id="4552" miejscowosc="Skoki" 
+      ns="52.41669811" we="15.61767686" km="6.4" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W tym miejscu Paklica dostaje sporą dawkę źle oczyszczonych ścieków, przez co mocno traci na barwie, mętności i zapachu. Poniżej nieco bardziej bystro i płycej, liczne kamienne przemiały </opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na końcu jeziora Bukowieckiego</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mała elektrownia wodna</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Niezbyt wygodna przenoska 100 m, lewą stroną przez ruchliwą drogę</opispunktu> 
+    </punkt>
+    <punkt id="4551" miejscowosc="Smolno Młyn" 
+      ns="52.37966762" we="15.6012678" km="10" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Początek rozlewisk jeziora Bukowieckiego</opispunktu> 
+    </punkt>
+    <punkt id="4550" miejscowosc="Smolno Młyn" 
+      ns="52.36437961" we="15.59421869" km="13.7" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem 50 m po trawie</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Most i mała elektrownia wodna</opispunktu> 
+    </punkt>
+    <punkt id="4549" miejscowosc="Szumiąca" 
+      ns="52.35476821" we="15.58607281" km="16" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4548" miejscowosc="Jordanowo" 
+      ns="52.3405317" we="15.55777369" km="18.7" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi ekspresowej S3</opispunktu> 
+    </punkt>
+    <punkt id="4547" miejscowosc="Jordanowo" 
+      ns="52.33730515" we="15.55095889" km="19.3" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rzeka nieco przyspiesza, na dnie liczne kamienie o ostrych krawędziach</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodny dostęp do wody</opispunktu> 
+    </punkt>
+    <punkt id="4546" miejscowosc="Gościkowo - Paradyż" 
+      ns="52.33610496" we="15.54579264" km="19.7" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, pod nim bardziej bystro i płycej, na dnie liczne kamienie o ostrych krawędziach</opispunktu> 
+    </punkt>
+    <punkt id="4736" miejscowosc="Gościkowo - Paradyż" 
+      ns="52.33617798" we="15.54309132" km="20" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka i pomost przy klasztorze</opispunktu> 
+    </punkt>
+    <punkt id="4545" miejscowosc="Nowy Dworek" 
+      ns="52.34124539" we="15.53231718" km="21" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na małe jezioro Radno. Zbiornik jest nieco płytki a dodatkowo zamieszkiwany przez łabędzia agresywnie nastawionego do kajakarzy</opispunktu> 
+    </punkt>
+    <punkt id="4544" miejscowosc="Nowy Dworek" 
+      ns="52.33959474" we="15.52221106" km="21.8" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość dzikiego biwakowania na łące pod lasem</opispunktu> 
+    </punkt>
+    <punkt id="4543" miejscowosc="Nowy Dworek" 
+      ns="52.33500943" we="15.51799051" km="22.5" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodny dostęp do wody</opispunktu> 
+    </punkt>
+    <punkt id="4542" miejscowosc="Staropole" 
+      ns="52.33256056" we="15.48140145" km="26.4" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Paklicko Wielkie</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Parking PZW. W pobliżu panzerwerk 706 i jaz 714 (elementy MRU)</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Nowy most o łukowatym przekroju</opispunktu> 
+    </punkt>
+    <punkt id="4541" miejscowosc="Staropole" 
+      ns="52.32740557" we="15.45094602" km="29.3" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Rzeka głębokim kanałem omija jaz 712 (element MRU), w pobliżu PZwerka 702 z grupy warownej Korner. Znajdują się tutaj również drewniane kładki i drobne podpiętrzenia wody zbudowane z worków z piaskiem</opispunktu> 
+    </punkt>
+    <punkt id="4735" miejscowosc="Staropole" 
+      ns="52.32266445" we="15.4429933" km="30" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście potoku odwadniającego pobliskie mokradła oraz stawy, przez miejscowych kajakarzy nazwany "Antosiem"</opispunktu> 
+    </punkt>
+    <punkt id="4540" miejscowosc="Lubrza" 
+      ns="52.31661388" we="15.44338869" km="30.8" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most autostrady A2</opispunktu> 
+    </punkt>
+    <punkt id="4539" miejscowosc="Lubrza" 
+      ns="52.31301484" we="15.44297818" km="31.2" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Lubrza Mała</opispunktu> 
+    </punkt>
+    <punkt id="4538" miejscowosc="Lubrza" 
+      ns="52.31025549" we="15.4386175" km="31.7" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz (element MRU) piętrzący wodę na kilka metrów, utrzymujący poziom w jeziorach powyżej</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy ul. 3 Maja. Dobry dostęp do wody, wygodne miejsce rozpoczynania spływu</opispunktu> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1">W pobliżu wypożyczalnia kajaków</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewym brzegiem po trawie 40-50m. Wygodne wyjście z wody i wodowanie - z pomostów</opispunktu> 
+    </punkt>
+    <punkt id="4734" miejscowosc="Lubrza" 
+      ns="52.30548349" we="15.43500022" km="32.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Goszcza</opispunktu> 
+    </punkt>
+    <punkt id="4733" miejscowosc="Lubrza" 
+      ns="52.29695213" we="15.43922374" km="33.4" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka przy wpływie na jezioro Goszcza</opispunktu> 
+    </punkt>
+    <punkt id="4732" miejscowosc="Nowa Wioska" 
+      ns="52.29608615" we="15.44406427" km="33.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Wąski przepust rurowy pod drogą na granicy Nowej Wioski i Lubrzy. Okolice tego miejsca szczególnie upodobali sobie wędkarze</opispunktu> 
+    </punkt>
+    <punkt id="4731" miejscowosc="Nowa Wioska" 
+      ns="52.2937667" we="15.44516238" km="34" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Lubie</opispunktu> 
+    </punkt>
+    <punkt id="4730" miejscowosc="Wągieł" 
+      ns="52.28686331" we="15.44272335" km="35" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Parking nad jeziorem Lubie, wygodne miejsce rozpoczynania spływu</opispunktu> 
+    </punkt>
+    <punkt id="4554" miejscowosc="Kuźnik" 
+      ns="52.42358809" we="15.6205033" km="5" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4555" miejscowosc="Międzyrzecz" 
+      ns="52.43382211" we="15.60444325" km="3" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4556" miejscowosc="Międzyrzecz" 
+      ns="52.43892756" we="15.5837115" km="1.2" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4557" miejscowosc="Międzyrzecz" 
+      ns="52.44123461" we="15.57606352" km="0.7" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="sklep" kolejnosc="-1">W pobliżu mostu kilka sklepów spożywczych</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Za mostem po lewej restauracja tuż nad rzeką</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4558" miejscowosc="Międzyrzecz" 
+      ns="52.44414612" we="15.57430637" km="0.25" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Niezbyt wygodna przenoska w centrum miasta przez ruchliwą ulicę, prawą stroną około 50 m</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mała elktrownia wodna</opispunktu> 
+    </punkt>
+    <punkt id="4559" miejscowosc="Międzyrzecz" 
+      ns="52.44446372" we="15.57342252" km="0.2" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek 0,5 m z małą ilością wody. Przed prożkiem w lewo odbija kanał zasilający fosę międzyrzeckiego zamku</opispunktu> 
+    </punkt>
+    <punkt id="4560" miejscowosc="Międzyrzecz" 
+      ns="52.44601317" we="15.57309947" km="0" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Paklicy do Obry</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

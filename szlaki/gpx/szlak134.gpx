@@ -1,0 +1,80 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.83422983" lon="16.87257979">
+<name>20.60</name>
+<desc>Wypływ rzeki Białej z jeziora Bielsko</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.83378941" lon="16.87267767">
+<name>20.51</name>
+<desc>Most na lokalnej drodze, w pobliżu sporo miejsca porośniętego trawą. Wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.83370780" lon="16.87271367">
+<name>20.50</name>
+<desc>Pochyły próg o wysokości 1,5 m utrzymujący poziom wody w jeziorze Bielsko. Pod progiem jest głęboko na tyle, że tworzy się tu niewielki odwój. Spływać po uprzednim rozpoznaniu trudności</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.83188570" lon="16.87449189">
+<name>20.30</name>
+<desc>Podwójny przepust betonowy pod nasypem kolejowym. Wąsko -  zalecane składanie wioseł do postaci pagaja</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.82951611" lon="16.88102692">
+<name>19.70</name>
+<desc>Po prawej stronie zaczyna się ciąg jezior - stawów. Liczba wędkarzy świadczyć może o obfitości tych wód w szeroko rozumiany rybostan. Rzeka stopniowo zanika, bowiem cała woda kierowana jest na stawy. Przesmyk w lewo na staw, dalej problemy z orientacją, gęste trzcinowiska i grobla w poprzek. Należy trzymać kurs generalnie równoległy do stromej skarpy po prawej stronie</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.82359637" lon="16.89761928">
+<name>18.30</name>
+<desc>Koniec rozlewisk i regularnych gęstych trzcinowisk, zaczyna się płynąca rzeka, miejscami jednak jeszcze trochę zarośnięta</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.81403467" lon="16.90774875">
+<name>16.20</name>
+<desc>Most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.78524400" lon="16.92331562">
+<name>12.20</name>
+<desc>Most drogowy z łukowatym prześwitem. Przed mostem po prawej na zakręcie rzeki zadaszona wiata. Za wioską łąki i pastwiska ustępują obszarom zalesionym. Na początku lasu drewniany niski mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.79469494" lon="16.96379698">
+<name>7.80</name>
+<desc>W osi rzeki na wprost widoczny wąski rurowy przepust w betonowej przegrodzie. Kilkadziesiąt metrów wcześniej należy spłynąć 3 stopniowy próg w prawo. Poniżej progu płytko i kamieniście, za progiem liczne żwirowe przemiały</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.78796994" lon="16.96965940">
+<name>6.60</name>
+<desc>Most betonowy na lokalnej drodze. W okolicy kilka drobnych, mało uciążliwych zwałek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.78062014" lon="17.00152751">
+<name>3.70</name>
+<desc>Most drogowy. Przed mostem po prawej wygodne miejsce wodowania. Pod mostem płytko i kamieniście</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.77884648" lon="17.00194693">
+<name>3.50</name>
+<desc>Drewniana kładka w centralnym punkcie Międzyborza. W pobliżu znajduje się sklep spożywczy, zadaszona wiata, ławeczki i miejsce na ognisko oraz tablica informacyjna ze szlakiem rzeki Białej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.77755571" lon="17.00318206">
+<name>3.30</name>
+<desc>Drewniana kładka, zaraz za nią uciążliwa do pokonania rura na granicy lustra wody</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.75840465" lon="17.02075559">
+<name>0.00</name>
+<desc>Ujście Białej do Czernicy. Spływ można zakończyć przy mostach w Dzikowie lub w Przyrzeczu, do których prowadzą gruntowe drogi publiczne</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

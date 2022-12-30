@@ -1,0 +1,375 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.78774439" lon="17.12421728">
+<name>56.25</name>
+<desc>Ujście Krynki z prawej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.81610613" lon="17.19359138">
+<name>49.60</name>
+<desc>Most na drodze w kierunku Oławy. Wygodny dostęp do wody, z możliwością zjazdu samochodem pomiędzy wał, a rzekę. W pobliżu sporo miejsca na samochody. Poniżej odcinek otwartego terenu, obwałowany, koryto wyprostowane i uregulowane z pojedynczymi drzewami i krzakami, dość monotonny. Jedynym urozmaiceniem na tym odcinku są betonowe progi</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.81697489" lon="17.19447957">
+<name>49.50</name>
+<desc>Powrót kanału młyńskiego z prawej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.81881758" lon="17.19805838">
+<name>49.10</name>
+<desc>Próg betonowy o wysokości około 1m. Na koronie dwie betonowe poprzeczne szykany, pomiędzy które należy trafić podczas spływania progiem. Przy wyższej wodzie poniżej tworzy się odwój, osobom mniej doświadczonym zalecam obniesienie progu, po trawie, lewą lub prawą stroną, na odległość około 30m, za betonowe obmurowanie, poniżej kamiennego prożka</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.81938525" lon="17.20457023">
+<name>48.70</name>
+<desc>Mostek betonowy na gruntowej drodze do Witowic</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.81936390" lon="17.20508223">
+<name>48.60</name>
+<desc>Próg betonowy o podobnej konstrukcji do poprzedniego, ale o połowę niższy (uwaga na poprzeczne betonowe szykany). Poniżej progu poprzeczny pas kamieni</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.82456952" lon="17.21515640">
+<name>47.60</name>
+<desc>Zastawka z wodowskazem na dolnej wodzie. W zimie była podniesiona i nie piętrzyła wody</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.82521284" lon="17.21602270">
+<name>47.50</name>
+<desc>Próg betonowy o wysokości około 0,8m, tym razem bez szykan, o równej i prostej koronie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.82745228" lon="17.22480435">
+<name>46.80</name>
+<desc>Niski betonowy prożek tworzący bystrze</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.83382094" lon="17.23572142">
+<name>45.70</name>
+<desc>Przed Kalinową zaczyna się krótki, ale bardzo atrakcyjny fragment rzeki. Bez żadnego piętrzenia Oława dzieli się na dwie odnogi. W lewo do lasu wpływa zasadnicze, szerokie starorzecze, natomiast w prawo odbija wartki wyprostowany kanał młyński. W zależności od ilości wody, można wpłynąć zarówno w jeden, jak i w drugi wariant. Młynówka jest bardziej wartka i wyprostowana, bez przeszkód (przy młynie wybudowany jest betonowy próg, jednak nie piętrzy on wody), natomiast o wiele bardziej atrakcyjne jest starorzecze. Płynie, kręcąc przez liściasty las z licznymi wielkimi starymi dębami. Część z nich leży już w wodzie, czyniąc ten odcinek zwałkowym. Przeszkody nie są trudne do pokonania i nie wymagają współpracy zespołowej. Można też zatoczyć pętlę bez wysiadania z kajaka, biorąc jednak pod uwagę, że początkowy odcinek młynówki jest dość wartki. Tak więc, jeśli szybko i do przodu, to w prawo, a jeśli wolniej i z doznaniami estetycznymi, to w lewo</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.83595766" lon="17.23650750">
+<name>45.50</name>
+<desc>Betonowo ceglane przyczółki po jakiejś budowli. Prawdopodobnie była tu zastawka, która piętrzyła i umożliwiała odpływ wody na młynówkę</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.83680656" lon="17.24268891">
+<name>45.00</name>
+<desc>Bród przez kanał młyński</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.83720116" lon="17.24330045">
+<name>44.90</name>
+<desc>Prożek przy młynie, bez piętrzenia wody</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.84066157" lon="17.24214199">
+<name>44.50</name>
+<desc>Powrót młynówki do starorzecza</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.84206897" lon="17.24151016">
+<name>44.40</name>
+<desc>Zaraz za połączeniem następuje kolejny rozdział wód, tym razem z piętrzeniem. W lewo, po stojącej wodzie dopływa się do ładnego, wysokiego budynku starego młyna (dzisiaj MEW), natomiast w prawo należy pokonać widoczny próg</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="50.84248362" lon="17.24270511">
+<name>44.30</name>
+<desc>Jaz, zastawka o wysokości około 1,5m + 5m pochylni. Przenoska lewym brzegiem. Poniżej znacznie węziej i płycej na żwirowych przemiałach. Koryto meandruje, a pokonanie niektórych przewróconych drzew wymaga współpracy</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.84531839" lon="17.24296354">
+<name>43.90</name>
+<desc>Młyn, elektrownia wodna</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.84643223" lon="17.24491153">
+<name>43.70</name>
+<desc>Sklepiony most na drodze do Oleśnicy Małej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.84775863" lon="17.24500448">
+<name>43.60</name>
+<desc>Most autostrady A4</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.84850708" lon="17.24512840">
+<name>43.50</name>
+<desc>Mostek betonowy bez barierek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.84945615" lon="17.24539124">
+<name>43.40</name>
+<desc>Niski prożek betonowy, tworzący bystrze</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.85017162" lon="17.24538213">
+<name>43.30</name>
+<desc>Powrót kanału młyńskiego z lewej strony. Poniżej, w dalszym ciągu ładnie i zwałkowo. Po prawej, na wysokim, suchym brzegu rośnie las sosnowy, a w korycie leżą potężne dęby</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.87027203" lon="17.24758470">
+<name>40.90</name>
+<desc>Próg betonowy o wysokości około 1m. Przy wyższej wodzie tworzy się tu odwój. Osobom mniej doświadczonym zalecam obnieść to miejsce, prawym brzegiem na odległość około 40m. Koniec obszaru zalesionego i zwałek. Poniżej teren otwarty z krzakami, łozami, trzcinami i pojedynczymi drzewami wzdłuż brzegu</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.87576094" lon="17.24706141">
+<name>40.20</name>
+<desc>Próg betonowy o wysokości około 0,8m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.87852321" lon="17.24819087">
+<name>39.90</name>
+<desc>Most betonowy na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.88037957" lon="17.25002767">
+<name>39.70</name>
+<desc>Ujście rzeki Gnojna z prawej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.88300752" lon="17.25401300">
+<name>39.20</name>
+<desc>Niski prożek tworzący bystrze. Dalej odnosi się wrażenie, że rzeka nieco przyspiesza</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.88933203" lon="17.25927568">
+<name>38.40</name>
+<desc>Niski prożek tworzący bystrze</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.88987482" lon="17.25976721">
+<name>38.30</name>
+<desc>Mostek betonowy na polnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.89338475" lon="17.26227280">
+<name>37.90</name>
+<desc>Niski prożek - bystrze</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.89567664" lon="17.26744003">
+<name>37.40</name>
+<desc>Mostek betonowy, za nim prożek kamienny tworzący bystrze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.89864309" lon="17.27313588">
+<name>36.90</name>
+<desc>Niski prożek - bystrze</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.90851414" lon="17.28537206">
+<name>35.30</name>
+<desc>Drewniana kładka, pod nią próg o wysokości około 0,8m, a za nim kamienne bystrze</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.90885451" lon="17.28528318">
+<name>35.25</name>
+<desc>Ujście Pępickiego (Psarskiego) Potoku z prawej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.90900885" lon="17.28517519">
+<name>35.20</name>
+<desc>Próg betonowy. Przy wyższej wodzie tworzy się tu krótki odwój. Za progiem kamienne bystrze</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.91506791" lon="17.28386865">
+<name>34.50</name>
+<desc>Most na drodze nr 346 do Godzikowic. Wygodne miejsce wodowania i lądowania z dostępem do wody. Poniżej mostu, po prawej stronie stoi tablica informacyjna z kilometrażem rzeki. Po lewej stronie, około 70m od mostu znajduje się parking na kilka samochodów, przy bramie Młyna Jaczkowice</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.91560802" lon="17.28472648">
+<name>34.40</name>
+<desc>Prożek - bystrze</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.93114031" lon="17.29366265">
+<name>32.20</name>
+<desc>Most drogowy. Pod mostem kamienie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.93328523" lon="17.29242402">
+<name>31.80</name>
+<desc>Most kolejowy. Pod mostem kamienie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.93450570" lon="17.29346326">
+<name>31.70</name>
+<desc>Jaz o wysokości około 0,8m. Spływanie po rozpoznaniu przeszkody. Przenoska 20 m prawą stroną po trawie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.93555429" lon="17.29391728">
+<name>31.60</name>
+<desc>Most w ciągu ul. Gazowej. Wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.93918553" lon="17.29172730">
+<name>31.20</name>
+<desc>Kładka przy szkole, a za nią próg, którego nie zaleca się spływać osobom mniej doświadczonym</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.94420440" lon="17.29125525">
+<name>30.60</name>
+<desc>Most ul. Strzelna</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.94701265" lon="17.29201041">
+<name>30.30</name>
+<desc>Most na drodze nr 94</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.95476791" lon="17.29574496">
+<name>29.00</name>
+<desc>Most na drodze do miejscowości Siedlce. Poniżej odcinek dość monotonny, bezleśny. Wokół podmokłe łąki ale za to pełne ptactwa i dzikiej zwierzyny. Na rzece możliwe zatory z pozostałości po bagrowaniu i pracach hydrotechnicznych bobrów</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.95549629" lon="17.29454066">
+<name>28.90</name>
+<desc>Prożek - bystrze</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.96710833" lon="17.27501032">
+<name>26.80</name>
+<desc>Most na lokalnej drodze. Wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.96732248" lon="17.27466681">
+<name>26.70</name>
+<desc>Prożek - bystrze</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.99305480" lon="17.22863749">
+<name>21.90</name>
+<desc>Most na drodze do Zakrzowa. Wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.99657155" lon="17.21830999">
+<name>21.00</name>
+<desc>Wyspa</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.00839639" lon="17.20058847">
+<name>19.00</name>
+<desc>Wyspa</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.01559105" lon="17.18606522">
+<name>17.70</name>
+<desc>Most na drodze do Kotowic. Wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.03908175" lon="17.16092053">
+<name>13.50</name>
+<desc>Most kolejowy. Na lewym brzegu, za wałem kąpielisko Błękitna Laguna</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.03999132" lon="17.16054363">
+<name>13.40</name>
+<desc>Próg o wysokości około 1 m oznakowany, jako niespływalny</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.04275472" lon="17.15816876">
+<name>13.00</name>
+<desc>Most przy ul. Polnej. Za mostem, po lewej stronie wygodne miejsce zakończenia spływu. Poniżej Oława wpływa na tereny wodonośne Wrocławia, pływanie po których możliwe jest wyłącznie po uzyskaniu odpowiedniego zezwolenia</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.04585940" lon="17.15478975">
+<name>12.60</name>
+<desc>Wysoki most Wschodniej Obwodnicy Wrocławia</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.07067964" lon="17.13381756">
+<name>8.80</name>
+<desc>Jaz Mokry Dwór</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.07461679" lon="17.12718620">
+<name>8.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.08759015" lon="17.09693582">
+<name>4.80</name>
+<desc>Most z zastawką tzw. Barani Skok. Przenoska prawą stroną przez drogę - 30 m. Koniec terenów wodonośnych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.08704970" lon="17.09278247">
+<name>4.50</name>
+<desc>Jaz o wysokości około 1,5m, za którym prawa odnoga rzeki nazywana jest Oławą Dolną. Przenoska prawą stroną. Istnieje możliwość wykonania bardziej wygodnej przenoski przez las, należy 50m przed jazem popłynąć do końca prawej odnogi i przenieść kajaki na rzekę, około 30 m. Rzeka wpływa w obszar rekreacyjny Parku Wschodniego</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.08637994" lon="17.09274780">
+<name>4.40</name>
+<desc>Wąski jaz w lewo na Górną Oławę, niewygodny i obmurowany</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.08486208" lon="17.09110985">
+<name>4.20</name>
+<desc>Z lewej strony ujście rzeki Zielona do Górnej Oławy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.08511141" lon="17.08825836">
+<name>4.00</name>
+<desc>Rozdział wód. W lewo, prawie stojąca woda na dalszy ciąg Górnej Oławy, natomiast w prawo, bystrzem pod mostek, łącznik do Dolnej Oławy</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.08702916" lon="17.08542818">
+<name>3.90</name>
+<desc>Połączenie Dolnej Oławy oraz łącznika od Górnej Oławy, niosącego również wody rzeki Zielona</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.08927200" lon="17.08234840">
+<name>3.60</name>
+<desc>Z lewej strony, całkowicie zarośnięte trzcinami ujście Górnej Oławy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.09189469" lon="17.08031984">
+<name>3.30</name>
+<desc>Pałac Hollenderów na prawym brzegu</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.09123482" lon="17.07326755">
+<name>2.70</name>
+<desc>Kładka Siedlecka do zalesionych terenów rekreacyjnych. Poniżej, odcinek rzeki prowadzący przez tereny spacerowe i rekreacyjne. Na obydwu brzegach spotkamy z pewnością wielu wędkarzy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.09677305" lon="17.05822484">
+<name>1.50</name>
+<desc>Most Rakowiecki w ciągu ul. Na Niskich Łąkach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.09949298" lon="17.05726989">
+<name>1.10</name>
+<desc>Żabia Kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.10026297" lon="17.05694424">
+<name>1.00</name>
+<desc>Jaz Małgorzata. W zależności od ilości wody, istnieje możliwość względnie bezpiecznego przepłynięcia przez zastawkę. Przenoska lewym brzegiem wokół budynku, przez drewniany pomost. Wyjście z wody niezbyt wygodne na stromy betonowy brzeg</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.10327923" lon="17.05506744">
+<name>0.70</name>
+<desc>Kładka Na Groblę w ciągu ul. Szybkiej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.10555503" lon="17.05164849">
+<name>0.30</name>
+<desc>Most Oławski w ciągu ul. Na Grobli</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.10830841" lon="17.05282841">
+<name>0.00</name>
+<desc>Ujście Oławy do Odry tuż przed Mostem Grunwaldzkim</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

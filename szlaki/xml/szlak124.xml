@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="124" nazwa="Bóbr" wersja="2">
+<opis>Lewobrzeżny dopływ Odry, do której uchodzi w okolicach Krosna Odrzańskiego. Rzeka o wyraźnych i częstych wahaniach poziomu wody, z jednej strony ze względu na to, że wraz ze swoimi dopływami w górnym biegu odwadnia wschodnią i północną część wybitnego masywu górskiego Karkonoszy, a z drugiej strony ze względu na dużą ilość elektrowni wodnych, pracujących w różnych trybach zapotrzebowania w energię. Warto mieć to na uwadze, zwłaszcza gdy podczas spływu poziom wody w krótkim czasie może wzrosnąć lub obniżyć się np. o pół metra.
+Bóbr łączy cechy rzeki górskiej i nizinnej, dlatego każdy znajdzie tu coś dla siebie. Na niektórych odcinkach jest dość uciążliwy ze względu na częstotliwość przenosek, za to doznania estetyczne z pewnością te niedogodności zrekompensują. Wyłączając okresy po długotrwałych i intensywnych opadach, prowadzi czyste wody, latem zachęcające do kąpieli.
+Spływ odcinkiem Bukówka - Kamienna Góra możliwy jest w chwili upustu wody z zapory, co związane jest bezpośrednio z ilością opadów, lub wiosennych roztopów. W czasie płynięcia tego odcinka wodowskaz Bukówka wskazywał poziom 111, taka ilość wody jest doskonała i zapewnia na szlaku nieco emocji.
+Komfortowy spływ początkowym odcinkiem poniżej zapory w Pilchowicach, uzależniony jest mocno od ilości wody podawanej przez zaporę. Przy wskazaniach wodowskazu Pilchowice 21 [4,4m3] wygodnie płynie się dopiero od Nielestna. Wcześniej są 2 przenoski z brakami wody poniżej progów. Wskazania pozostałych wodowskazów: Dąbrowa Bolesławiecka 79 i Szprotawa 105 gwarantują wystarczającą ilość wody na reprezentowanych odcinkach i kontakt kajaka z dnem rzeki zdarza się jedynie na żwirowych przemiałach.
+Przy ww. wskazaniach odcinek z Bukówki do Marciszowa zajął 5h, z Pilchowic do Lwówka 6h, z Lwówka do Bolesławca 6h, z Bolesławca do Starej Olesznej 3,5h, natomiast ze Starej Olesznej do Szprotawy 5h.
+Niniejszy opis różni się nieco od opisów dostępnych w internecie oraz od przewodników papierowych ze względu m.in. na zmiany jakie zaszły na rzece, np. powstanie nowych elektrowni, zmiana głównego koryta rzeki, zmiana usytuowania wodowskazów itp. Z tego też powodu waha się kilometraż, nie wykraczając jednak poza wartość +- 2 km</opis> 
+  <odcinek id="505" typ="rzeka" nazwa="Dębrznik - Marciszów" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="6"> 
+  <opis>Poniżej zastawki w Dębrzniku rzeka staje się szeroka</opis>
+    <punkt id="4531" miejscowosc="Dębrznik" 
+      ns="50.81664639" we="16.04117135" km="248.7" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka 3 przęsłowa na terenach wodonośnych. Przenoska prawym lub lewym brzegiem 30 m</opispunktu> 
+    </punkt>
+    <punkt id="4532" miejscowosc="Sędzisław" 
+      ns="50.81869028" we="16.04552816" km="248.3" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z prawej strony rzeki Lesk</opispunktu> 
+    </punkt>
+    <punkt id="4533" miejscowosc="Sędzisław" 
+      ns="50.82020587" we="16.04412614" km="248.1" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4534" miejscowosc="Sędzisław" 
+      ns="50.82263315" we="16.04218156" km="247.8" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4535" miejscowosc="Marciszów Górny" 
+      ns="50.82638127" we="16.04031632" km="247.3" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4536" miejscowosc="Marciszów Górny" 
+      ns="50.84237972" we="16.02899855" km="244.9" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="4537" miejscowosc="Marciszów Górny" 
+      ns="50.84387409" we="16.0219189" km="244.3" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce wodowania, w pobliżu sporo miejsca na zaparkowanie samochodu. Sklep 100 m powyżej mostu na prawym brzegu</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="504" typ="rzeka" nazwa="Ptaszków - Dębrznik" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="5"> 
+  <opis>Rzeka nieco się zwęża z powodu licznie porastających brzegi, drzew i krzaków. Zdecydowanie wzrasta ilość śmieci w rzece poniżej Kamiennej Góry</opis>
+    <punkt id="4530" miejscowosc="Dębrznik" 
+      ns="50.81436795" we="16.04200764" km="249" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4529" miejscowosc="Dębrznik" 
+      ns="50.81127494" we="16.03747105" km="249.5" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4528" miejscowosc="Dębrznik" 
+      ns="50.80840839" we="16.03470099" km="249.9" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zniszczony fragment jazu</opispunktu> 
+    </punkt>
+    <punkt id="4527" miejscowosc="Ptaszków" 
+      ns="50.80081287" we="16.0377577" km="251.2" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek do spłynięcia</opispunktu> 
+    </punkt>
+    <punkt id="4526" miejscowosc="Ptaszków" 
+      ns="50.79141146" we="16.04009555" km="252.6" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4525" miejscowosc="Kamienna Góra" 
+      ns="50.78712174" we="16.0395189" km="253.1" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4531" miejscowosc="Dębrznik" 
+      ns="50.81664639" we="16.04117135" km="248.7" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka 3 przęsłowa na terenach wodonośnych. Przenoska prawym lub lewym brzegiem 30 m</opispunktu> 
+    </punkt>
+    <punkt id="4532" miejscowosc="Sędzisław" 
+      ns="50.81869028" we="16.04552816" km="248.3" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z prawej strony rzeki Lesk</opispunktu> 
+    </punkt>
+    <punkt id="4533" miejscowosc="Sędzisław" 
+      ns="50.82020587" we="16.04412614" km="248.1" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4534" miejscowosc="Sędzisław" 
+      ns="50.82263315" we="16.04218156" km="247.8" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4535" miejscowosc="Marciszów Górny" 
+      ns="50.82638127" we="16.04031632" km="247.3" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4536" miejscowosc="Marciszów Górny" 
+      ns="50.84237972" we="16.02899855" km="244.9" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="4537" miejscowosc="Marciszów Górny" 
+      ns="50.84387409" we="16.0219189" km="244.3" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce wodowania, w pobliżu sporo miejsca na zaparkowanie samochodu. Sklep 100 m powyżej mostu na prawym brzegu</opispunktu> 
+    </punkt>
+    <punkt id="6085" miejscowosc="Pilchowice" 
+      ns="50.96377652" we="15.64523238" km="196.3" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Potężna zapora wybudowana przede wszystkim w celu ochrony przeciwpowodziowej miejscowości leżących poniżej, w dolinie Bobru. Ze względu na swoje położenie, miejsce to jest masowo odwiedzane przez turystów. Na wysokości korony zapory, po prawej stronie znajduje się restauracja. Poniżej zapory elektrownia wodna Pilchowice I. Z uwagi na rozmiary budowli wymuszające bardzo długą i niewygodną przenoskę, dobrze jest zaplanować etapy do, i od tego miejsca</opispunktu> 
+    </punkt>
+    <punkt id="6086" miejscowosc="Pilchowice" 
+      ns="50.96370501" we="15.64051146" km="196" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drewniany poniżej zapory. Pod mostem wodowskaz, wskazania którego można zdalnie obserwować w internecie. Po prawej stronie mostu, przy tablicach informacyjnych sporo miejsca na samochody. Zejście do wody niezbyt wygodne, po trawie porastającej brzegi, wzmocnione dużymi kamieniami. Po lewej stronie mostu, przy zabudowaniach wodowanie wydaje się być bardziej wygodne. Zaraz za mostem kamienne bystrze, dalej głęboka i ciemna malownicza dolina. Należy rozważyć ewentualne rozpoczynanie etapu od tego miejsca przy niskiej wodzie. Wprawdzie początkowy etap do Pilchowic jest malowniczy, ale dalej są dwie uciążliwe przenoski, z długim brodzeniem w płytkiej wodzie i po śliskich kamieniach. Niewiele osób pływa tym odcinkiem, a zdecydowana większość komercyjnych spływów rozpoczyna się dopiero w Nielestnie</opispunktu> 
+    </punkt>
+    <punkt id="6087" miejscowosc="Pilchowice" 
+      ns="50.9695011" we="15.64270857" km="195.2" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście dzikiego Potoku Maciejowickiego, w dolinie którego znajdują się małe wodospady i groty skalne</opispunktu> 
+    </punkt>
+    <punkt id="6088" miejscowosc="Pilchowice" 
+      ns="50.97379403" we="15.64181511" km="194.8" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Koryto zwęża się i prosto, przez widoczną zastawkę woda płynie na próg przy zakładzie regeneracji filtrów. Przy niskich stanach większość wody płynie prosto, natomiast nieznaczna jej część przelewa się przez szeroki próg w lewo, za którym rozdziela się na kilka płytkich koryt. Przenoska przez stary kamienno drewniany próg i zarośla do miejsca, gdzie łączą się poszczególne koryta i daje się płynąć, około 200m. Jaz jest dość długi i trudno na nim wytypować dobre miejsce na przerzucenie sprzętu. Najlepiej zrobić to najbliżej zastawki i udać się korytem częściowo wypełnionym wodą, tu przenoska jest najkrótsza</opispunktu> 
+    </punkt>
+    <punkt id="6089" miejscowosc="Pilchowice" 
+      ns="50.97617241" we="15.6407799" km="194.5" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zastawka fabryki filtrów. Brzeg obmurowany, wysoki i stromy</opispunktu> 
+    </punkt>
+    <punkt id="6090" miejscowosc="Pilchowice" 
+      ns="50.97981281" we="15.63994998" km="194" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="most" kolejnosc="-1">Kratownicowy most drogowy. Przed nim, po prawej stronie można wodować się wygodnie w pobliżu leżącej, kamiennej płyty. Poniżej rozpoczyna się rozlewisko przed kolejną zaporą</opispunktu> 
+    </punkt>
+    <punkt id="6091" miejscowosc="Pilchowice" 
+      ns="50.98578765" we="15.64511646" km="193.3" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz oraz zastawka na potrzeby elektrowni wodnej Pilchowice II. Przenoska w lewo przez betonowy mur na wysokości tafli wody, tuż przy 5 przęsłowej zastawce, na odległość 10m. Wodowanie z wielkich głazów poniżej betonowej pochylni na granicy z zastawką. Dalej, przy niskiej wodzie 2 km uciążliwego odcinka z małą ilością wody. Brodzenie zdecydowanie dominuje nad elementami pływania, ale jest ładnie ze względu na to, że rzeka podmywa lewą, skalną burtę doliny. W końcówce odcinka bobrowa tama oraz liczne wielkie głazy osunięte ze zbocza</opispunktu> 
+    </punkt>
+    <punkt id="6092" miejscowosc="Pilchowice" 
+      ns="50.99266362" we="15.66160416" km="190.9" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora elektrowni wodnej Pilchowice II</opispunktu> 
+    </punkt>
+    <punkt id="6093" miejscowosc="Pilchowice" 
+      ns="50.99303634" we="15.66293606" km="190.8" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="most" kolejnosc="-1">Kratownicowy most kolejowy tuż za elektrownią Pilchowice II i połączeniem rzeki z młynówką. Za mostem po lewej stronie możliwość wodowania z wygodnym dostępem do wody, z gruntowej drogi</opispunktu> 
+    </punkt>
+    <punkt id="6094" miejscowosc="Nielestno" 
+      ns="50.99792141" we="15.6711806" km="190" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="most" kolejnosc="-1">Kratownicowy most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="6095" miejscowosc="Nielestno" 
+      ns="50.99936292" we="15.67175602" km="189.8" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście rzeki Lipka, zwanej też Chrośnickim Potokiem. Zaraz za ujściem duży parking wykorzystywany również przez spływy komercyjne. Poniżej spory ruch na wodzie, zwłaszcza w letnie ciepłe dni, przy ładnej pogodzie. Liczne żwirowe przemiały</opispunktu> 
+    </punkt>
+    <punkt id="6096" miejscowosc="Wleń" 
+      ns="51.01464689" we="15.67785244" km="186.8" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony uchodzi potok Modrzewka</opispunktu> 
+    </punkt>
+    <punkt id="6097" miejscowosc="Wleń" 
+      ns="51.01800007" we="15.67899189" km="186.5" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, zaraz za nim z prawej strony wpada potok Wierzbnik</opispunktu> 
+    </punkt>
+    <punkt id="6098" miejscowosc="Wleń" 
+      ns="51.01843553" we="15.66820437" km="185.7" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Przed mostem po prawej stronie pole biwakowe z bufetem. Poniżej odcinek malowniczy w zalesionej dolinie, z licznymi żwirowymi przemiałami i bystrzami</opispunktu> 
+    </punkt>
+    <punkt id="6099" miejscowosc="Wleń" 
+      ns="51.02440728" we="15.66139482" km="184.9" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony wpada rzeczka Jamna</opispunktu> 
+    </punkt>
+    <punkt id="6100" miejscowosc="Marczów" 
+      ns="51.03674083" we="15.67358512" km="182.7" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście Złotego Strumienia</opispunktu> 
+    </punkt>
+    <punkt id="6101" miejscowosc="Marczów" 
+      ns="51.05010222" we="15.66700977" km="180.6" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Most drogowy. W tym miejscu, po prawej stronie kończy spływ większość imprez komercyjnych. Zaraz za mostem kamienna pochylnia jazu, piętrząca wodę na potrzeby elektrowni, do której krótki kanał odchodzi w lewo. W zależności od poziomu wody przenoska przez suchą pochylnię jazu, albo z prawej strony, przez drogę, około 100m. Dalej przyjemny odcinek zadrzewiony, z podmytymi skarpami i żwirowymi bystrzami</opispunktu> 
+    </punkt>
+    <punkt id="6102" miejscowosc="Marczów" 
+      ns="51.05053133" we="15.66582651" km="180.5" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia Marczów</opispunktu> 
+    </punkt>
+    <punkt id="6103" miejscowosc="Dębowy Gaj" 
+      ns="51.07291392" we="15.65113528" km="177" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="jaz" kolejnosc="-1">W lewo odchodzi tzw. stare koryto Bobru, w prawo jaz w postaci pochylni i 2 m pionowego progu, z przepławką dla ryb z lewej strony. Pod progiem jest dosyć płytko. Wygodna przenoska prawym brzegiem po pomostach i slipach na odległość 50m. Dobry dojazd do samej wody gruntową drogą od strony miejscowości Sobota. Poniżej kamienne bystrza</opispunktu> 
+    </punkt>
+    <punkt id="6104" miejscowosc="Dębowy Gaj" 
+      ns="51.07935259" we="15.64554299" km="176.7" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia Dębowy Gaj</opispunktu> 
+    </punkt>
+    <punkt id="6105" miejscowosc="Sobota" 
+      ns="51.08019799" we="15.65656917" km="176.1" etykieta="" 
+      kolejnosc="62"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Płynąć lewym przęsłem ponieważ pod prawym ponoć sterczą stalowe pręty</opispunktu> 
+    </punkt>
+    <punkt id="6106" miejscowosc="Sobota" 
+      ns="51.0818475" we="15.65602966" km="175.9" etykieta="" 
+      kolejnosc="63"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony powraca młynówka, czyli faktycznie stare koryto Bobru</opispunktu> 
+    </punkt>
+    <punkt id="6107" miejscowosc="Sobota" 
+      ns="51.08371385" we="15.65943646" km="175.6" etykieta="" 
+      kolejnosc="64"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony wpada potok Sobótka. Dalej odcinek początkowo zadrzewiony, a następnie całkowicie zalesiony, aż do Lwówka Śląskiego. Nurt wyraźny, malowniczo</opispunktu> 
+    </punkt>
+    <punkt id="6108" miejscowosc="Lwówek Śląski" 
+      ns="51.10755377" we="15.60318236" km="169.6" etykieta="" 
+      kolejnosc="65"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prosto, przez podniesioną zastawkę większość wody płynie kanałem do elektrowni Lwówek Śląski. Nie należy tam wpływać ponieważ przy elektrowni brzegi są wysokie i nie ma możliwości wykonania wygodnej przenoski. Przed zastawką w prawo próg betonowy, przez który można wykonać przenoskę. Wygodne miejsce zakończenia etapu z dojazdem do samej wody od ul. Rybnej, z polanką umożliwiającą dziki biwak znajduje się 100m przed jazem, po lewej stronie. Tuż za linią drzew zbudowano prowizoryczny slip pomocny w lądowaniu</opispunktu> 
+    </punkt>
+    <punkt id="6109" miejscowosc="Lwówek Śląski" 
+      ns="51.1103366" we="15.60177759" km="169.3" etykieta="" 
+      kolejnosc="66"> 
+    <opispunktu typ="ujście" kolejnosc="-1">W prawo obniżenie do kanału ulgi, dla nadmiaru wód opływających z prawej stronę tzw. Wyspę Ulgi</opispunktu> 
+    </punkt>
+    <punkt id="6110" miejscowosc="Lwówek Śląski" 
+      ns="51.10835082" we="15.59761375" km="169.2" etykieta="" 
+      kolejnosc="67"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia Lwówek Śląski</opispunktu> 
+    </punkt>
+    <punkt id="6111" miejscowosc="Lwówek Śląski" 
+      ns="51.11030475" we="15.59926015" km="169.1" etykieta="" 
+      kolejnosc="68"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy ul. Betleja. Zaraz za mostem kamienny, zwężający się próg, najczęściej zbyt płytki na swobodne przepłynięcie</opispunktu> 
+    </punkt>
+    <punkt id="6112" miejscowosc="Lwówek Śląski" 
+      ns="51.10937921" we="15.5962235" km="169.05" etykieta="" 
+      kolejnosc="69"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście potoku Srebrna</opispunktu> 
+    </punkt>
+    <punkt id="6113" miejscowosc="Lwówek Śląski" 
+      ns="51.10946863" we="15.59615503" km="169" etykieta="" 
+      kolejnosc="70"> 
+    <opispunktu typ="most" kolejnosc="-1">Tymczasowo nieczynny most drogowy przy ul. Betleja. Wygodne wodowanie w związku z tym, że most jest nieczynny i nie ma na nim ruchu. W przypadku niskiej wody zmiennie podawanej przez elektrownię, poniżej mostu mogą wystawać kamienie, aż do miejsca połączenia z głównym korytem</opispunktu> 
+    </punkt>
+    <punkt id="6114" miejscowosc="Lwówek Śląski" 
+      ns="51.11194345" we="15.59488787" km="168.8" etykieta="" 
+      kolejnosc="71"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Połączenie głównego koryta z młynówką</opispunktu> 
+    </punkt>
+    <punkt id="6115" miejscowosc="Lwówek Śląski" 
+      ns="51.11520836" we="15.5904295" km="168.3" etykieta="" 
+      kolejnosc="72"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka przy ul. Działkowej, przed i pod nią pale po starej konstrukcji mostu</opispunktu> 
+    </punkt>
+    <punkt id="6116" miejscowosc="Lwówek Śląski" 
+      ns="51.11713457" we="15.58936924" km="168.1" etykieta="" 
+      kolejnosc="73"> 
+    <opispunktu typ="most" kolejnosc="-1">Kratownicowy most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="6117" miejscowosc="Lwówek Śląski" 
+      ns="51.11759425" we="15.58885886" km="168" etykieta="" 
+      kolejnosc="74"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony dopływa rzeczka Płóczka</opispunktu> 
+    </punkt>
+    <punkt id="6118" miejscowosc="Lwówek Śląski" 
+      ns="51.12012648" we="15.58629621" km="167.7" etykieta="" 
+      kolejnosc="75"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony uchodzi rzeka Widnica</opispunktu> 
+    </punkt>
+    <punkt id="6119" miejscowosc="Brzezie" 
+      ns="51.12431316" we="15.5849313" km="167.1" etykieta="" 
+      kolejnosc="76"> 
+    <opispunktu typ="jaz" kolejnosc="-1">W lewo próg, pochylnia porośnięta glonami. W zależności od ilości wody możliwość nieco tępego ślizgu po mokrej pochylni. W prawo odchodzi kanał do młyna i elektrowni</opispunktu> 
+    </punkt>
+    <punkt id="6120" miejscowosc="Brzezie" 
+      ns="51.12412995" we="15.58209521" km="166.9" etykieta="" 
+      kolejnosc="77"> 
+    <opispunktu typ="most" kolejnosc="-1">Tzw. most brunowski na drodze nr 297. Tuż za mostem do niedawna funkcjonował dosyć wymagający próg, bystrze z wielkich głazów. Obecnie, wybudowany poniżej jaz elektrowni piętrzy wodę na tyle, że próg w całości jest zalany i znajduje się poniżej jej lustra. Pozostały kamienie płytko pod powierzchnią, należy więc przepływać ostrożnie. Poniżej rozlewisko przed jazem elektrowni z jedyną na całym odcinku, konieczną do pokonania zwałką, z powalonego wielkiego dębu</opispunktu> 
+    </punkt>
+    <punkt id="6121" miejscowosc="Brzezie" 
+      ns="51.12653742" we="15.5832967" km="166.8" etykieta="" 
+      kolejnosc="78"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia Brzezie</opispunktu> 
+    </punkt>
+    <punkt id="6122" miejscowosc="Rakowice Wielkie" 
+      ns="51.12932663" we="15.57630568" km="166.1" etykieta="" 
+      kolejnosc="79"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora elektrowni wodnej z 2005 roku. Przenoska lewym brzegiem po trawie na odległość około 80m. Wyjście na umocnione kamieniami i siatką nabrzeże w pobliżu charakterystycznej, owocującej jabłonki. Zejście w dół ułatwiają betonowe schody, wzdłuż których można opuszczać kajaki, chociaż nie jest to wygodne ze względu na stalową barierkę. Wodowanie tuż za konstrukcją zapory. W pobliżu elektrowni, na dolnej wodzie stoi wodowskaz. Wskazania poziomu 19398 gwarantują dobre warunki wodne poniżej.
+Ze względu na to, że elektrownia wybudowana została nie tak dawno, nie ma jej w dostępnych w internecie opisach oraz papierowych przewodnikach [podobnie jak jeszcze kilku innych elektrowni na Bobrze]. Skutkiem tego, dalszy fragment rzeki na odcinku około 5 km wygląda całkowicie inaczej, ponieważ opisane jest tam koryto rzeki. Obecnie płynie się przez rozlewiska jezior Rakowickich I i II</opispunktu> 
+    </punkt>
+    <punkt id="6123" miejscowosc="Rakowice Wielkie" 
+      ns="51.1367963" we="15.57058279" km="165.1" etykieta="" 
+      kolejnosc="80"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wąski przesmyk pomiędzy wyspą z prawej, a piaszczystym półwyspem z lewej strony, na sztucznym, powyrobiskowym zbiorniku, zwanym jeziorem Rakowickim I. Na półwyspie można znaleźć wiele dogodnych miejsc na dzikie biwakowanie, jednak od strony lądu wjazd na półwysep jest zamknięty i oznakowany, jako teren prywatny. W odróżnieniu od zaludnionego w sezonie letnim, następnego jeziora Rakowickiego II, jezioro Rakowickie I jest puste, zarówno na brzegach, jak i na wodzie</opispunktu> 
+    </punkt>
+    <punkt id="6124" miejscowosc="Rakowice Wielkie" 
+      ns="51.14427616" we="15.5648216" km="164.2" etykieta="" 
+      kolejnosc="81"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Konstrukcja stalowa podtrzymująca taśmociąg przechodzący przez rzekę. Krótki odcinek wąskiej, stojącej wody oddzielającej jeziora Rakowickie I i II. Na brzegach zaczynają pojawiać się pomstujący wędkarze</opispunktu> 
+    </punkt>
+    <punkt id="6125" miejscowosc="Rakowice Małe" 
+      ns="51.15465191" we="15.55489812" km="162.7" etykieta="" 
+      kolejnosc="82"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przesmyk pomiędzy tzw. Cyplem Rakowickim z prawej, a piaszczystym półwyspem z lewej strony, w połowie długości jeziora Rakowickiego II. Jezioro to w sezonie letnim jest masowo okupowane przez wypoczywających turystów. Po wodzie pływa sporo jednostek, również silnikowych, a ciekawsze miejsca na brzegach zajęte są przez wędkarzy, trudno więc tu o dobre miejsce na biwak. Woda w jeziorze Rakowickim II jest znacznie bardziej przejrzysta niż w Rakowickim I, być może z powodu prowadzonego wciąż wydobycia piasku w kopalni, po prawej stronie pierwszego jeziora</opispunktu> 
+    </punkt>
+    <punkt id="6126" miejscowosc="Rakowice Małe" 
+      ns="51.16119167" we="15.55067632" km="161.9" etykieta="" 
+      kolejnosc="83"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Rakowickiego II, po prawej stronie ujście starego koryta Bobru, zasilonego wodami rzeczki Osownia</opispunktu> 
+    </punkt>
+    <punkt id="6127" miejscowosc="Rakowice Małe" 
+      ns="51.16249772" we="15.54733542" km="161.7" etykieta="" 
+      kolejnosc="84"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście potoku Stoczek</opispunktu> 
+    </punkt>
+    <punkt id="6128" miejscowosc="Rakowice Małe" 
+      ns="51.16476836" we="15.54701156" km="161.5" etykieta="" 
+      kolejnosc="85"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Bystrze na rozmytym progu po starym, nieistniejącym młynie, z charakterystycznym wirkiem, na którym należy odbić mocno w lewo. Poniżej odcinek leśny z kilkoma przewróconymi drzewami</opispunktu> 
+    </punkt>
+    <punkt id="6129" miejscowosc="Włodzice Małe" 
+      ns="51.17131471" we="15.54768157" km="160.7" etykieta="" 
+      kolejnosc="86"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="6130" miejscowosc="Włodzice Małe" 
+      ns="51.17994641" we="15.54149315" km="159.5" etykieta="" 
+      kolejnosc="87"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz na potrzeby elektrowni Włodzice. Przenoska kilkanaście metrów, prawą stroną przez suchą, betonową pochylnię jazu i 1,5 m prożek</opispunktu> 
+    </punkt>
+    <punkt id="6131" miejscowosc="Włodzice Małe" 
+      ns="51.18056879" we="15.54175921" km="159.4" etykieta="" 
+      kolejnosc="88"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="6132" miejscowosc="Włodzice Małe" 
+      ns="51.18171519" we="15.54132262" km="159.3" etykieta="" 
+      kolejnosc="89"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia na młynówce</opispunktu> 
+    </punkt>
+    <punkt id="6133" miejscowosc="Włodzice Małe" 
+      ns="51.18206228" we="15.54231849" km="159.2" etykieta="" 
+      kolejnosc="90"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Powrót młynówki z lewej strony. Poniżej odcinek malowniczy, ze żwirowymi przemiałami, powalonymi drzewami i podmytymi skarpami</opispunktu> 
+    </punkt>
+    <punkt id="6134" miejscowosc="Włodzice Wielkie" 
+      ns="51.19473377" we="15.54070177" km="157.6" etykieta="" 
+      kolejnosc="91"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście Żeliszowskiego Potoku</opispunktu> 
+    </punkt>
+    <punkt id="6135" miejscowosc="Kraszowice" 
+      ns="51.2105737" we="15.51862882" km="153.9" etykieta="" 
+      kolejnosc="92"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora dla elktrowni Kraszewice [choć miejscowość to Kraszowice], do której młynówka w lewo doprowadza wodę przez uniesione 4 zastawki. Betonowy jaz z szerokim przelewem z prawej strony. Najkrótszą przenoskę można wykonać przez suchy przelew, na środku konstrukcji, pomiędzy 4 zamkniętymi przęsłami zastawki jazu, a betonowym progiem. Znajduje się tu niewidoczny z daleka wąski fragment pochylni, w którą można wpłynąć i wygodnie wysiąść z kajaka. Sprzęt przenosi się bezpośrednio przez konstrukcję jazu, po betonowej pochylni i kilku schodach przelewu. Wodowanie pośród zarośli na jednym z kanalików spływających bystro spod zastawki</opispunktu> 
+    </punkt>
+    <punkt id="6136" miejscowosc="Kraszowice" 
+      ns="51.21256061" we="15.51647241" km="153.7" etykieta="" 
+      kolejnosc="93"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kratownicowy</opispunktu> 
+    </punkt>
+    <punkt id="6137" miejscowosc="Kraszowice" 
+      ns="51.21176717" we="15.51424208" km="153.6" etykieta="" 
+      kolejnosc="94"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia na młynówce</opispunktu> 
+    </punkt>
+    <punkt id="6138" miejscowosc="Kraszowice" 
+      ns="51.21284219" we="15.51254915" km="153.4" etykieta="" 
+      kolejnosc="95"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Powrót wody z elektrowni. Dalej stosunkowo dziko i ładnie. Przewrócone drzewa, podmyte skarpy, las na brzegach, miejscami bystro na żwirowych przemiałach. Pojawiają się pierwsze oznakowania szlaku wykonane przez firmę kajakową z Bolesławca</opispunktu> 
+    </punkt>
+    <punkt id="6139" miejscowosc="Mierzwin" 
+      ns="51.23210137" we="15.49698194" km="150.7" etykieta="" 
+      kolejnosc="96"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście Mierzwińskiego Potoku</opispunktu> 
+    </punkt>
+    <punkt id="6140" miejscowosc="Otok" 
+      ns="51.24406481" we="15.51146621" km="148.7" etykieta="" 
+      kolejnosc="97"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Za zakrętem rzeki, od wewnętrznej strony plaża żwirowo piaszczysta, naprzeciw wysokiej skarpy. Miejsce to jest dobrze dostępne od lądu i zaznaczone na mapach, jako rekreacyjne. Tuż za plażą, po prawej stronie, w skarpie nad rzeką widoczne są wychodnie skał piaskowcowych oraz ich fragmenty leżące w korycie rzeki</opispunktu> 
+    </punkt>
+    <punkt id="6141" miejscowosc="Bolesławiec" 
+      ns="51.25626139" we="15.53289059" km="146.2" etykieta="" 
+      kolejnosc="98"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeczki Rakówka z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="6142" miejscowosc="Bolesławiec" 
+      ns="51.25810211" we="15.54652036" km="145.1" etykieta="" 
+      kolejnosc="99"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych pomiędzy ul. Gdańską i Spacerową</opispunktu> 
+    </punkt>
+    <punkt id="6143" miejscowosc="Bolesławiec" 
+      ns="51.25978456" we="15.54675689" km="144.9" etykieta="" 
+      kolejnosc="100"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Rozmyty próg, przekierowujący niegdyś wodę na młynówkę zasilającą tzw. Dolne Młyny, przy ul. Mostowej. W zależności od ilości wody próg można spłynąć, najlepiej z lewej strony, jednak tworząca się na nim fala sprawi, że kajaki z otwartymi kokpitami z pewnością nabiorą nieco wody</opispunktu> 
+    </punkt>
+    <punkt id="6144" miejscowosc="Bolesławiec" 
+      ns="51.26479474" we="15.54667375" km="144.3" etykieta="" 
+      kolejnosc="101"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy przy ul. Generała Augusta Emila Fieldorfa Nila </opispunktu> 
+    </punkt>
+    <punkt id="6145" miejscowosc="Bolesławiec" 
+      ns="51.26908647" we="15.55084447" km="143.8" etykieta="" 
+      kolejnosc="102"> 
+    <opispunktu typ="most" kolejnosc="-1">Wizytówka Bolesławca. Wysoki i bardzo efektowny most kolejowy ze skomplikowanym progiem o znacznej sumarycznej różnicy wysokości, rozłożonej na kilka poziomów. Próg zaczyna się łagodną długą pochylnią, następnie opada pionowymi dwoma uskokami po 0,8 m, kolejny poziom zakończony jest betonowymi zębami, a na koniec około 100 m kamiennego silnego bystrza z wielkimi kawałkami żelbetu z wystającymi prętami zbrojeniowymi. Zdecydowanie odradzam spływanie tego miejsca. Przenoska możliwa jest z lewej i prawej strony, jednak z prawej jest wygodniej. Miejsce to jest masowo odwiedzane przez mieszkańców miasta, a w ciepłe letnie dni nie trudno tu o kąpiących się w rzece. Startują tu również zorganizowane spływy komercyjne, dlatego też od tego miejsca do Trzebienia [126,4 km] należy spodziewać się wzmożonego ruchu na rzece</opispunktu> 
+    </punkt>
+    <punkt id="6146" miejscowosc="Bolesławiec" 
+      ns="51.27117423" we="15.5533426" km="143.6" etykieta="" 
+      kolejnosc="103"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy ul. Mostowej. Wygodny dojazd samochodem z możliwością zjazdu pod sam most [2020 r.]. W pobliżu duży plac na samochody. Poniżej odcinek pośród drzew, rzeka szeroka z wyraźnym nurtem, kilka kamiennych bystrzy oraz żwirowych przemiałów</opispunktu> 
+    </punkt>
+    <punkt id="6147" miejscowosc="Bolesławiec" 
+      ns="51.2830989" we="15.55612354" km="142.1" etykieta="" 
+      kolejnosc="104"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony dopływ z oczyszczalni niedoczyszczonych ścieków. Przez pewien czas towarzyszyć będzie zapach detergentów</opispunktu> 
+    </punkt>
+    <punkt id="6148" miejscowosc="Łąka" 
+      ns="51.29793075" we="15.56494457" km="139.8" etykieta="" 
+      kolejnosc="105"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg o wysokości 0,8m z tworzącym się poniżej niewielkim odwojem, tzw próg z szynami. W zależności od poziomu wody, spływać po rozpoznaniu przeszkody, najlepiej z prawej strony. Na koronie progu w odległości co około 1,5-2m sterczą pionowo w górę 10-30 cm fragmenty stalowej konstrukcji jazu, o które zaczepia się płynąca rzeką roślinność, a pomiędzy które należy trafić nie chcąc uszkodzić kajaka. Brzegi jazu są obmurowane i wysokie. Tuż przed progiem, w prawo odchodzi podziemny kanał. Większość płynących robi tu przenoskę prawym brzegiem 80m. Lądowanie i wodowanie niezbyt wygodne ze stromego brzegu, w asyście dużych głazów</opispunktu> 
+    </punkt>
+    <punkt id="6149" miejscowosc="Łąka" 
+      ns="51.29917093" we="15.56633242" km="139.6" etykieta="" 
+      kolejnosc="106"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Oznakowane zwalisko drzew</opispunktu> 
+    </punkt>
+    <punkt id="6150" miejscowosc="Łąka" 
+      ns="51.31146784" we="15.5681533" km="138.2" etykieta="" 
+      kolejnosc="107"> 
+    <opispunktu typ="most" kolejnosc="-1">Most autostrady A4</opispunktu> 
+    </punkt>
+    <punkt id="6151" miejscowosc="Dąbrowa Bolesławiecka" 
+      ns="51.32561152" we="15.57060775" km="136.1" etykieta="" 
+      kolejnosc="108"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Za mostem, po lewej stronie wodowskaz, wskazania którego można obserwować zdalnie w internecie. Poziom 79 gwarantuje dobre warunki wodne na reprezentowanym odcinku, jedynie miejscami przyciera się na żwirowych przemiałach</opispunktu> 
+    </punkt>
+    <punkt id="6152" miejscowosc="Dąbrowa Bolesławiecka" 
+      ns="51.32805853" we="15.56745946" km="135.7" etykieta="" 
+      kolejnosc="109"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście Bobrzycy</opispunktu> 
+    </punkt>
+    <punkt id="6153" miejscowosc="Golnice" 
+      ns="51.3507517" we="15.58346697" km="131.7" etykieta="" 
+      kolejnosc="110"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, możliwe dogodne wodowanie i lądowanie</opispunktu> 
+    </punkt>
+    <punkt id="6154" miejscowosc="Parkoszów" 
+      ns="51.36384901" we="15.57944929" km="129.8" etykieta="" 
+      kolejnosc="111"> 
+    <opispunktu typ="most" kolejnosc="-1">Most autostrady A18, poniżej ładne piaszczyste skarpy</opispunktu> 
+    </punkt>
+    <punkt id="6155" miejscowosc="Parkoszów" 
+      ns="51.37455634" we="15.58533682" km="128.2" etykieta="" 
+      kolejnosc="112"> 
+    <opispunktu typ="most" kolejnosc="-1">Charakterystyczny, bo wiszący, żółty most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="6156" miejscowosc="Trzebień" 
+      ns="51.38799055" we="15.58703237" km="126.4" etykieta="" 
+      kolejnosc="113"> 
+    <opispunktu typ="most" kolejnosc="-1">Opisany nazwą miejscowości most drogowy z wygodnym dostępem. Tu kończy większość spływów zorganizowanych. Poniżej zaczyna się długa cofka zapory elektrowni wodnej</opispunktu> 
+    </punkt>
+    <punkt id="6157" miejscowosc="Stara Oleszna" 
+      ns="51.40612638" we="15.59370213" km="124" etykieta="" 
+      kolejnosc="114"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora na potrzeby elektrowni Olszna [nie Oleszna], do której kanał odchodzi w prawo. Elektrownia nie jest widoczna z okolic jazu. Przenoska przez jaz lewym brzegiem po trawie [wyjście mało ewidentne i zarośnięte roślinnością], na odległość około 80m, przez betonową pochylnię za jazem i ścieżkę w trzcinach. Wodowanie na bystrej i wąskiej strudze wypływającej z zastawek, miejscami płytkiej, o żwirowym dnie. Można też przenoskę przez jaz wykonać z prawej strony, gdzie przy samym jazie znajduje się betonowy, niewidoczny z daleka mały slip. Kajaki jednak trzeba tu przerzucić przez barierkę, a poniżej jazu betonowa pochylnia jest znacznie bardziej stroma, niż na lewym brzegu</opispunktu> 
+    </punkt>
+    <punkt id="6158" miejscowosc="Stara Oleszna" 
+      ns="51.4118443" we="15.5959365" km="123.4" etykieta="" 
+      kolejnosc="115"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia Olszna [nie Oleszna]</opispunktu> 
+    </punkt>
+    <punkt id="6159" miejscowosc="Stara Oleszna" 
+      ns="51.413997" we="15.59440927" km="123.1" etykieta="" 
+      kolejnosc="116"> 
+    <opispunktu typ="most" kolejnosc="-1">Wąski most drogowy. Na lewym brzegu, przed mostem mała polanka z dobrym dostępem do wody i miejscem na 2 samochody</opispunktu> 
+    </punkt>
+    <punkt id="6160" miejscowosc="Stara Oleszna" 
+      ns="51.41599115" we="15.59360579" km="122.8" etykieta="" 
+      kolejnosc="117"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kratownicowy, wyglądający na nieużytkowany od lat</opispunktu> 
+    </punkt>
+    <punkt id="6161" miejscowosc="Kozłów" 
+      ns="51.42256286" we="15.58906326" km="121.9" etykieta="" 
+      kolejnosc="118"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Po prawej stronie długie składowisko piasku wydobytego w kopalni, przypominające naturalne pustynne wydmy</opispunktu> 
+    </punkt>
+    <punkt id="6162" miejscowosc="Pstrąże" 
+      ns="51.441226" we="15.59016728" km="119.45" etykieta="" 
+      kolejnosc="119"> 
+    <opispunktu typ="most" kolejnosc="-1">Łukowy most kolejowy i drogowy</opispunktu> 
+    </punkt>
+    <punkt id="6163" miejscowosc="Pstrąże" 
+      ns="51.44175974" we="15.58985869" km="119.4" etykieta="" 
+      kolejnosc="120"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg o wysokości około 0,5 m zaraz za mostem kolejowym, za nim kamienne bystrze. Spływać ostrożnie po rozpoznaniu przeszkody</opispunktu> 
+    </punkt>
+    <punkt id="6164" miejscowosc="Buczek" 
+      ns="51.45818664" we="15.59213745" km="117.2" etykieta="" 
+      kolejnosc="121"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="6165" miejscowosc="Leszno Górne" 
+      ns="51.4680699" we="15.6072906" km="115.3" etykieta="" 
+      kolejnosc="122"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="6166" miejscowosc="Leszno Górne" 
+      ns="51.4745515" we="15.60570928" km="114.6" etykieta="" 
+      kolejnosc="123"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora elektrowni wodnej Leszno Górne. Przenoska lewym brzegiem około 120m. Wyjście z wody tuż przed betonowym przyczółkiem jazu pośród gęstej roślinności, dalej wąską ścieżką pośród drzew i krzaków malin oraz jeżyn, aż za ujście strumyka odwadniającego, widoczne po lewej stronie spore starorzecze</opispunktu> 
+    </punkt>
+    <punkt id="6167" miejscowosc="Leszno Górne" 
+      ns="51.47546629" we="15.60533344" km="114.5" etykieta="" 
+      kolejnosc="124"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne wodowanie z lewego brzegu pomiędzy jazem a mostem</opispunktu> 
+    </punkt>
+    <punkt id="6168" miejscowosc="Leszno Górne" 
+      ns="51.48974394" we="15.61147005" km="112.6" etykieta="" 
+      kolejnosc="125"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Z prawej strony powrót młynówki</opispunktu> 
+    </punkt>
+    <punkt id="6169" miejscowosc="Leszno Dolne" 
+      ns="51.50541096" we="15.60939964" km="110.6" etykieta="" 
+      kolejnosc="126"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora elektrowni Leszno Dolne. Przenoska lewym brzegiem około 30m. Wodowanie z kamienistego nabrzeża, tuż za ścianą z larsenów</opispunktu> 
+    </punkt>
+    <punkt id="6170" miejscowosc="Bobrowice" 
+      ns="51.51690335" we="15.5977359" km="108.9" etykieta="" 
+      kolejnosc="127"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, przed i za mostem kamienne bystrza</opispunktu> 
+    </punkt>
+    <punkt id="6171" miejscowosc="Nowa Kopernia" 
+      ns="51.53370787" we="15.58006917" km="105" etykieta="" 
+      kolejnosc="128"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu prowizoryczna wiata i trochę miejsca na dziki biwak</opispunktu> 
+    </punkt>
+    <punkt id="6172" miejscowosc="Dziećmiarowice" 
+      ns="51.54510398" we="15.57203777" km="103.4" etykieta="" 
+      kolejnosc="129"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora elektrowni Dziećmiarowice. Przenoska lewym brzegiem około 70m. Wodowanie z piaszczysto-żwirowej plaży poniżej stromej skarpy</opispunktu> 
+    </punkt>
+    <punkt id="6173" miejscowosc="Szprotawa" 
+      ns="51.56058525" we="15.54405554" km="100.5" etykieta="" 
+      kolejnosc="130"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Cofka przed zaporami elektrowni i nieczynnego młyna w Szprotawie. W prawo, usypana grobla z betonowych trylinek i gruzu - brak swobodnego przepływu. Chcąc wpłynąć na młynówkę, należy wykonać tu krótką przenoskę przez groblę i gruntową drogę. Na rozlewisku młynówki [Zalew Bobru], po prawej stronie wygodny dostęp do wody, z dojazdem samochodem i dużą ilością miejsca, na tyłach szkoły i osiedla bloków przy ul. Waszyngtona i Dębowej</opispunktu> 
+    </punkt>
+    <punkt id="6174" miejscowosc="Szprotawa" 
+      ns="51.56129235" we="15.54114987" km="100.3" etykieta="" 
+      kolejnosc="131"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora elektrowni Szprotawa</opispunktu> 
+    </punkt>
+    <punkt id="6175" miejscowosc="Szprotawa" 
+      ns="51.56263545" we="15.54072768" km="100.2" etykieta="" 
+      kolejnosc="132"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Suchy kanał ulgi w lewo pomiędzy zalewem, a dolną wodą na Bobrze poniżej elektrowni. Na lewym brzegu, przed widocznym mostem i jazem, z górującym nad nimi monumentalnym budynkiem nieczynnego młyna, znajduje się obniżony, betonowy murek przelewowy ułatwiający wyjście z wody. Wygodne miejsce zakończenia etapu ze sporym placem na samochody, w pobliżu rosnącej, charakterystycznej samotnej sosny. Mimo znaku zakazu miejscowi tu wjeżdżają i parkują</opispunktu> 
+    </punkt>
+    <punkt id="6176" miejscowosc="Szprotawa" 
+      ns="51.56295397" we="15.5404325" km="100.1" etykieta="" 
+      kolejnosc="133"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Most drogowy, a pod nim jaz zastawka przy wysokim budynku młyna</opispunktu> 
+    </punkt>
+    <punkt id="6177" miejscowosc="Szprotawa" 
+      ns="51.56211664" we="15.5328912" km="99.6" etykieta="" 
+      kolejnosc="134"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Szprotawy do Bobru</opispunktu> 
+    </punkt>
+    <punkt id="6178" miejscowosc="Małomice" 
+      ns="51.56017432" we="15.46562883" km="93.3" etykieta="" 
+      kolejnosc="135"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeczki Ruda z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="6179" miejscowosc="Małomice" 
+      ns="51.55987938" we="15.46035184" km="93" etykieta="" 
+      kolejnosc="136"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeczki Stawna z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="6180" miejscowosc="Żelisław" 
+      ns="51.57508468" we="15.3947666" km="86.7" etykieta="" 
+      kolejnosc="137"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Kwisy z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="6181" miejscowosc="Żagań" 
+      ns="51.63430408" we="15.30579013" km="72.8" etykieta="" 
+      kolejnosc="138"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Czernej z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="6182" miejscowosc="Pożarów" 
+      ns="51.66608166" we="15.30858492" km="68.3" etykieta="" 
+      kolejnosc="139"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeczki Rynica z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="6183" miejscowosc="Nowogród Bobrzański" 
+      ns="51.79527326" we="15.24135631" km="48.9" etykieta="" 
+      kolejnosc="140"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Brzeźnica z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="6184" miejscowosc="Krosno Odrzańskie" 
+      ns="52.05124178" we="15.07202454" km="0" etykieta="" 
+      kolejnosc="141"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Bobru do Odry</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="503" typ="rzeka" nazwa="Kamienna Góra" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="4"> 
+  <opis>Odcinek rzeki przez miasto. Brzegi obmurowane, liczne mosty i kładki.</opis>
+    <punkt id="4524" miejscowosc="Kamienna Góra" 
+      ns="50.78669999" we="16.0389816" km="253.2" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z prawej strony rzeki Zadrna</opispunktu> 
+    </punkt>
+    <punkt id="4523" miejscowosc="Kamienna Góra" 
+      ns="50.78637739" we="16.03540615" km="253.4" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="4522" miejscowosc="Kamienna Góra" 
+      ns="50.78609993" we="16.03390989" km="253.5" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka</opispunktu> 
+    </punkt>
+    <punkt id="4521" miejscowosc="Kamienna Góra" 
+      ns="50.78600369" we="16.03338905" km="253.6" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="4520" miejscowosc="Kamienna Góra" 
+      ns="50.78499773" we="16.03212197" km="253.7" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka</opispunktu> 
+    </punkt>
+    <punkt id="4519" miejscowosc="Kamienna Góra" 
+      ns="50.78357414" we="16.02782672" km="254.1" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="4518" miejscowosc="Kamienna Góra" 
+      ns="50.78259331" we="16.0277185" km="254.2" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="4517" miejscowosc="Kamienna Góra" 
+      ns="50.7811132" we="16.02653916" km="254.5" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="4516" miejscowosc="Kamienna Góra" 
+      ns="50.7779286" we="16.02225717" km="254.9" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4515" miejscowosc="Kamienna Góra" 
+      ns="50.77197531" we="16.01233792" km="256.2" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz dwu członowy, możliwy do przeskoczenia po śliskiej pochylni. Ewentualna przenoska po pochylni jazu</opispunktu> 
+    </punkt>
+    <punkt id="4514" miejscowosc="Kamienna Góra" 
+      ns="50.77088723" we="16.00965927" km="256.4" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Wiadukt drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4513" miejscowosc="Kamienna Góra" 
+      ns="50.77086138" we="16.00939093" km="256.5" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z lewej strony potoku Bystra</opispunktu> 
+    </punkt>
+    <punkt id="4512" miejscowosc="Janiszów" 
+      ns="50.76883111" we="16.00098001" km="257.2" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="502" typ="rzeka" nazwa="Błażkowa - Janiszów" 
+      uciazliwosc="U1" trudnosc="ZWC" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="3"> 
+  <opis>Odcinek wartki i bogaty w niskie krzaczki. Dodatkową atrakcją są tu liczne, słabo widoczne przewody elektrycznych pastuchów, przechodzące przez rzekę tuż nad lustrem wody</opis>
+    <punkt id="4511" miejscowosc="Janiszów" 
+      ns="50.77000851" we="15.99979939" km="257.4" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Dwu członowy jaz z ruchomą zastawką. Istnieje możliwość przepłynięcia prawą częścią jazu po śliskiej pochylni, na końcu której znajduje się 1,5 m uskok. Krótka przenoska prawym brzegiem</opispunktu> 
+    </punkt>
+    <punkt id="4510" miejscowosc="Janiszów" 
+      ns="50.76287966" we="15.99010041" km="258.6" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4509" miejscowosc="Janiszów" 
+      ns="50.75709226" we="15.98692922" km="259.3" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    </punkt>
+    <punkt id="4508" miejscowosc="Błażkowa" 
+      ns="50.74618304" we="15.98922944" km="260.7" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="4507" miejscowosc="Błażkowa" 
+      ns="50.74396579" we="15.98804813" km="261" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Dopływ z lewej strony potoku Świdnik</opispunktu> 
+    </punkt>
+    <punkt id="4506" miejscowosc="Błażkowa" 
+      ns="50.74309796" we="15.98790724" km="261.1" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="501" typ="rzeka" nazwa="Lubawka - Błażkowa" 
+      uciazliwosc="U1" trudnosc="ZWC" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis>Poniżej jazu rzeka nieco się rozszerza, jest jednak w dalszym ciągu wartka. Niskie krzaki i drzewa w korycie</opis>
+    <punkt id="4505" miejscowosc="Błażkowa" 
+      ns="50.73266866" we="15.98285172" km="262.5" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4504" miejscowosc="Lubawka" 
+      ns="50.72107843" we="15.99278313" km="264.5" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="500" typ="rzeka" nazwa="Bukówka - Lubawka" 
+      uciazliwosc="U1" trudnosc="ZWC" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Odcinek dzikiej rzeki. Liczne wymycia brzegów, kręto, niskie krzaki i drobne drzewa w korycie, stosunkowo wąsko</opis>
+    <punkt id="4503" miejscowosc="Lubawka" 
+      ns="50.71308099" we="15.99810014" km="265.6" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="jaz" kolejnosc="-1">3 przęsłowy pochyły jaz ze znacznym odwojem. Przenoska lewym brzegiem, ścinając wyraźny łuk rzeki</opispunktu> 
+    </punkt>
+    <punkt id="4502" miejscowosc="Lubawka" 
+      ns="50.711698" we="15.99219485" km="266.2" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4501" miejscowosc="Bukówka" 
+      ns="50.70778247" we="15.97725202" km="267.7" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="499" typ="rzeka" nazwa="Bukówka" 
+      uciazliwosc="U1" trudnosc="ZWC" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Odcinek rzeki uregulowanej, pośród zabudowań Bukówki. Spływ można rozpocząć tuż poniżej zapory, jednak ze względu na obecność kilkaset metrów niżej niewygodnego progu, zalecam rozpoczęcie spływu od tego właśnie progu</opis>
+    <punkt id="4500" miejscowosc="Bukówka" 
+      ns="50.70710329" we="15.96323277" km="269.1" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Za nim, po lewej, widoczny z wody krzyż pokutny</opispunktu> 
+    </punkt>
+    <punkt id="4499" miejscowosc="Bukówka" 
+      ns="50.70982607" we="15.96155804" km="269.4" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="4498" miejscowosc="Bukówka" 
+      ns="50.71012461" we="15.96111153" km="269.5" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pionowy próg o wysokości ponad 3 m ze sporym odwojem. Zachęcam do obniesienia tego miejsca chociaż nie jest to rzecz wygodna, bowiem nurt przed progiem jest wartki a brzegi wybetonowane i śliskie. Przenoska lewym brzegiem 50 m</opispunktu> 
+    </punkt>
+    <punkt id="4497" miejscowosc="Bukówka" 
+      ns="50.71282181" we="15.95745692" km="269.9" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na lokalne drodze. Wygodne miejsce rozpoczynania spływu. W pobliżu sporo miejsca na pozostawienie samochodu. Poniżej mostu wodowskaz Bukówka</opispunktu> 
+    </punkt>
+    <punkt id="4496" miejscowosc="Bukówka" 
+      ns="50.71484498" we="15.95449741" km="270.2" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora wodna zbiornika retencyjnego Bukówka</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

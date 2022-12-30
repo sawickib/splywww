@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="94" nazwa="Linnowa (Linowna)" wersja="1">
+<opis>Mała rzeczka tuż przy Rypinie. Na mapach nie ma nawet nazwy. Na dziewiętnastowiecznych mapach nosi nazwę Linnowa lub Linowna. Sporo zwałek. Duży spadek na odcinku bardzo urokliwego  jaru w tzw. Górach Starorypińskich. Tutaj też znajduje się grodzisko wczesnośredniowieczne.</opis> 
+  <odcinek id="380" typ="rzeka" nazwa="Od drogi Rypin -Brodnica do ujścia do Rypienicy." 
+      uciazliwosc="U4" trudnosc="ZWC" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis></opis>
+    <punkt id="3203" miejscowosc="Rusinowo" 
+      ns="53.092968" we="19.38421" km="0" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Linnowej do Rypienicy.</opispunktu> 
+    </punkt>
+    <punkt id="3202" miejscowosc="Rusinowo" 
+      ns="53.094257" we="19.388144" km="0.33" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek. </opispunktu> 
+    </punkt>
+    <punkt id="3201" miejscowosc="Rusinowo" 
+      ns="53.09248" we="19.391335" km="0.78" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Niestety pod mostem za ciasno na przepłynięcie.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="379" typ="rzeka" nazwa="Od Rypałek do  drogi Rypin - Brodnica" 
+      uciazliwosc="U5" trudnosc="ZWC" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Fajny zwałkowy odcinek o dużym spadku. Spławny przy WWW najlepiej małymi jedynkami. W pojedynkę przepłynąłem w 2 godziny.</opis>
+    <punkt id="3198" miejscowosc="Starorypin" 
+      ns="0" we="0" km="4.38" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Bezpieczny, spływalny próg wysokości około 1m.</opispunktu> 
+    </punkt>
+    <punkt id="3197" miejscowosc="Starorypin" 
+      ns="53.090555" we="19.43122" km="4.44" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Ogromny nasyp kolejowy a pod nim długi około 100m  tunel. W tunelu dość płytko.</opispunktu> 
+    </punkt>
+    <punkt id="3196" miejscowosc="Starorypin" 
+      ns="53.090897" we="19.432373" km="4.52" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowa kładka.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Pod kładką niestety zbyt mało miejsca żeby przepłynąć.</opispunktu> 
+    </punkt>
+    <punkt id="3195" miejscowosc="Starorypin" 
+      ns="53.090584" we="19.434977" km="4.75" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy. Możliwość spłynięcia pod nim betonowymi rurami. Za mostkiem bystrze i płytko - mozliwość tarcia dnem kajaka o kamienie.</opispunktu> 
+    </punkt>
+    <punkt id="3194" miejscowosc="Rypałki Prywatne" 
+      ns="53.091395" we="19.452011" km="6.28" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska 5m prawą lub lewą stroną.</opispunktu> 
+    </punkt>
+    <punkt id="3199" miejscowosc="Starorypin" 
+      ns="53.086701" we="19.420147" km="3.33" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Po lewej wpływa mały strumyk. W widłach Linnowej i tego strumyka na górze znajduje się grodzisko wczesnośredniowieczne.</opispunktu> 
+    </punkt>
+    <punkt id="3200" miejscowosc="Starorypin" 
+      ns="53.085147" we="19.415466" km="2.88" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze Rypin - Brodnica. Pod mostem dwie betonowe rury, którymi da się spłynąć.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

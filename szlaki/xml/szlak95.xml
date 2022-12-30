@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="95" nazwa="Obrzyca" wersja="3">
+<opis>Prawy dopływ środkowej Odry płynący w całości w województwiei lubuskim. Rzeka wypływa z północnego krańca jeziora Sławskiego, chociaż niektórzy za jej początek przyjmują również rzeczkę Czernicę, wpływającą do tego jeziora od wschodu. Obrzyca uchodzi do Odry w okolicach Cigacic.
+Rzeczka czysto rekreacyjna, bez większych trudności i długich przenosek. W górnym odcinku, pomiędzy Lubiatowem a jeziorem Rudno może miejscami być nieco zarośnięta, ale przez to staje się bardziej dzika. Od Uścia do ujścia do Odry jest typowym uregulowanym kanałem (zwanym też Kanałem Obra). Przed ujściem do Odry wody Obrzycy wykorzystywane są do zaopatrzenia Zielonej Góry w wodę wodociągową, wyznaczone są tam więc strefy pośredniej i bezpośredniej ochrony ujęć. Rzeka dostępna jest przez cały rok z wyjątkiem suchych okresów letnich kiedy to ma tendencje do zarastania, głównie w swej górnej części.
+Wiosną 2019, przy stanie 344 na wodowskazie Lubiatów [49,7km], odcinek od jeziora Sławskiego do Uścia zajął około 4h. Poziom ten gwarantuje bardzo dobre warunki wodne na reprezentowanym odcinku. Na odcinek z Uścia do Cigacic należy przeznaczyć średnio około 7h.</opis> 
+  <odcinek id="407" typ="rzeka" nazwa="Obrzyca: Uście - ujście do Odry" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="4"> 
+  <opis>Odcinek o charakterze uregulowanego kanału (zwany Kanałem Obra) - czysto rekreacyjny i bez większych przeszkód</opis>
+    <punkt id="3381" miejscowosc="Sadowo" 
+      ns="52.03825391" we="15.67189903" km="2.6" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="ujście" kolejnosc="-1">W lewo wprzód odpływ kanału w kierunku ujęcia wody</opispunktu> 
+    </punkt>
+    <punkt id="6005" miejscowosc="Sadowo" 
+      ns="52.03831913" we="15.67248814" km="2.7" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="ujście" kolejnosc="-1">W lewo wstecz ujście kanału Wir</opispunktu> 
+    </punkt>
+    <punkt id="3380" miejscowosc="Sadowo" 
+      ns="52.03846693" we="15.67395287" km="2.8" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Budynek ujęcia wody</opispunktu> 
+    </punkt>
+    <punkt id="3379" miejscowosc="Sadowo" 
+      ns="52.03851525" we="15.6750586" km="2.9" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3378" miejscowosc="Radowice" 
+      ns="52.04026057" we="15.69771727" km="4.5" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3377" miejscowosc="Podlegórz" 
+      ns="52.04515379" we="15.71511661" km="6.3" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3376" miejscowosc="Podlegórz" 
+      ns="52.04671862" we="15.72376645" km="7" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Kanału Obrzyckiego z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="3375" miejscowosc="Ostrzyce" 
+      ns="52.05678075" we="15.73442918" km="8.5" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka</opispunktu> 
+    </punkt>
+    <punkt id="3374" miejscowosc="Ostrzyce" 
+      ns="52.06032981" we="15.73817032" km="8.9" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście bezimiennego kanału z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="3373" miejscowosc="Smolno Wielkie" 
+      ns="52.07237518" we="15.76347874" km="11.5" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3372" miejscowosc="Smolno Wielkie" 
+      ns="52.07223398" we="15.76614966" km="11.7" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po lewej wygodne wyjście z wody i miejsce na biwak</opispunktu> 
+    </punkt>
+    <punkt id="3371" miejscowosc="Smolno Wielkie" 
+      ns="52.07326014" we="15.77582998" km="12.4" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z nieczynną zastawką</opispunktu> 
+    </punkt>
+    <punkt id="3370" miejscowosc="Smolno Wielkie" 
+      ns="52.07441972" we="15.78954136" km="13.6" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Szerokie ujście Gniłej Obry Leniwej z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="3369" miejscowosc="Chwalim" 
+      ns="52.06707324" we="15.81288761" km="15.9" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drewniany</opispunktu> 
+    </punkt>
+    <punkt id="3368" miejscowosc="Chwalim" 
+      ns="52.06647669" we="15.81487879" km="16.1" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka</opispunktu> 
+    </punkt>
+    <punkt id="3367" miejscowosc="Chwalim" 
+      ns="52.0620185" we="15.82087167" km="16.8" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="3366" miejscowosc="Kargowa" 
+      ns="52.06276536" we="15.84140081" km="18.5" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3365" miejscowosc="Kargowa" 
+      ns="52.06065868" we="15.85314818" km="19.4" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 313, przed nim zastawka</opispunktu> 
+    </punkt>
+    <punkt id="6004" miejscowosc="Kargowa" 
+      ns="52.05839416" we="15.86182199" km="20.1" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po prawej stronie, w zatoce dobre miejsce na biwak i wodowanie. Jest to gminny teren rekreacyjny, wyposażony w ławki i wiaty</opispunktu> 
+    </punkt>
+    <punkt id="3364" miejscowosc="Kargowa" 
+      ns="52.05790197" we="15.86511562" km="20.3" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="6003" miejscowosc="Kopanica" 
+      ns="52.09366856" we="15.91024488" km="" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Połączenie kanału Dźwińskiego z Pólnocnym Kanałem Obry, zwanym dalej Obrą</opispunktu> 
+    </punkt>
+    <punkt id="3363" miejscowosc="Uście" 
+      ns="52.04112105" we="15.90614772" km="24.9" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wylot kanału Dźwińskiego z prawej strony, w postaci zastawki, najczęściej zamkniętej. Po przenosce, możliwość przepłynięcia do Kopanicy na szlak rzeki Obry. Kanał był niedawno udrażniany. Na brzegu tablica upamiętniająca spływ tym szlakiem Karola Wojtyły, późniejszego Papieża Jana Pawła II</opispunktu> 
+    </punkt>
+    <punkt id="6002" miejscowosc="Uście" 
+      ns="52.03946573" we="15.90781936" km="25.2" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście bezimiennego kanału meliorującego pobliskie łąki</opispunktu> 
+    </punkt>
+    <punkt id="3362" miejscowosc="Uście" 
+      ns="52.02862603" we="15.91556014" km="26.5" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący wodę na wysokość uzależnioną od warunków wodnych. Często można przepłynąć każdym z trzech przepustów. Za jazem liczni wędkarze</opispunktu> 
+    </punkt>
+    <punkt id="3361" miejscowosc="Uście" 
+      ns="52.02619756" we="15.91846722" km="26.8" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze gruntowej, wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="6001" miejscowosc="Uście" 
+      ns="52.02027888" we="15.92544596" km="27.6" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Kanału Bojadelskiego z lewej strony</opispunktu> 
+    </punkt>
+    <punkt id="3382" miejscowosc="Sadowo" 
+      ns="52.03815299" we="15.66853673" km="2.4" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3383" miejscowosc="Sadowo" 
+      ns="52.03788823" we="15.66707002" km="2.3" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka zabezpieczająca przed cofką z Odry. W zależności od wysokości na jaką podniesiona jest zastawka, można przepłynąć pod nią lub obnieść 30m z lewej lub prawej strony, po trawie</opispunktu> 
+    </punkt>
+    <punkt id="3384" miejscowosc="Sadowo" 
+      ns="52.03738187" we="15.66440347" km="2.2" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony dopływ kanału z ujęcia wody</opispunktu> 
+    </punkt>
+    <punkt id="3385" miejscowosc="Górzykowo" 
+      ns="52.03463587" we="15.63849768" km="0.4" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wygodne miejsce podjęcia kajaków. Niski brzeg i możliwy dojazd do samej wody</opispunktu> 
+    </punkt>
+    <punkt id="3386" miejscowosc="Górzykowo" 
+      ns="52.03292734" we="15.63256441" km="0" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Obrzycy do Odry. Wygodne miejsce zakończenia spływu znajduje się na wysokości portu w Cigacicach, po prawej stronie, około 2 km w dół Odrą. Niski brzeg i możliwość dojechania samochodem do samej rzeki</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="384" typ="jezioro" nazwa="Rudno i Wilcze" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="3"> 
+  <opis>Jezioro Rudno. Niegdyś tętniące życiem, dzisiaj raczej spokojne i zdominowane przez wędkarzy. Z NW zatoki można przepłynąć na malownicze jezioro Wilcze. Niestety od kilku lat, w środku lata jeziora mocno zakwitają glonami</opis>
+    <punkt id="5995" miejscowosc="Uście" 
+      ns="52.00397231" we="15.96239211" km="" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Plaża w Uściu na polu biwakowym nad jeziorem Rudno. Wygodne miejsce wodowania z dojazdem w pobliże wody</opispunktu> 
+    </punkt>
+    <punkt id="3212" miejscowosc="Uście" 
+      ns="52.00096497" we="15.96335523" km="31.7" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Obrzycy z jeziora Rudno. W tym miejscu można rozważyć dodatkowe dwie alternatywy dla dalszego szlaku Obrzycy: popłynięcie pod prąd Południowym Kanałem Obry lub przedostanie się na ładne i ciche jezioro Wilcze</opispunktu> 
+    </punkt>
+    <punkt id="5994" miejscowosc="Jesionka" 
+      ns="51.9920033" we="15.96629185" km="32.8" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ Obrzycy do jeziora Rudno, zwanego również Rudniańskim, Rudzieńskim i Orchowym. Na wpływie, na drewnianych kołkach mogą być czasowo posadowione sieci rybackie</opispunktu> 
+    </punkt>
+    <punkt id="5996" miejscowosc="Rudno" 
+      ns="52.004361" we="15.981659" km="" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ Południowego Kanału Obry do jeziora Rudno</opispunktu> 
+    </punkt>
+    <punkt id="5997" miejscowosc="Rudno" 
+      ns="52.01218099" we="15.97202967" km="" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Rudno z jeziora Wilcze. Wąska i płytka rzeczka bez nazwy. W zależności od pory roku i poziomu wody w jeziorach, koryto może być też całkowicie suche lub porośnięte trzciną. Leży tu kilka drzewek i krzaczków, przez które trzeba się przeciągnąć</opispunktu> 
+    </punkt>
+    <punkt id="5998" miejscowosc="Wilcze" 
+      ns="52.01454773" we="15.97326877" km="" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Wilcze z jeziora Rudno</opispunktu> 
+    </punkt>
+    <punkt id="5999" miejscowosc="Wilcze" 
+      ns="52.01652791" we="15.97657137" km="" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pole namiotowe prowadzone przez Lasy Państwowe. W pobliżu sklep, a nieco dalej restauracja</opispunktu> 
+    </punkt>
+    <punkt id="6000" miejscowosc="Wilcze" 
+      ns="52.01979488" we="15.96899691" km="" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Bardzo ładne miejsce na dziki biwak w lesie, na cyplu. W lecie często organizowane są tu obozowiska harcerskie</opispunktu> 
+    </punkt>
+    <punkt id="3214" miejscowosc="Uście" 
+      ns="52.01111061" we="15.94733559" km="30" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany most drogowy pomiędzy Uściem a Tatarkami. Wygodne miejsce wodowania przed mostem po prawej stronie. Sklep spożywczy 100m w prawo w Uściu [nieczynny w niedzielę] i 300m w lewo w Tatarkach [czynny codziennie, na dzwonek]</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="383" typ="rzeka" nazwa="Obrzyca: Konotop - Jesionka" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis>Rzeka płynie przez łąki, pola i kępy drzew. W szczycie sezonu wegetacyjnego może intensywnie zarastać</opis>
+    <punkt id="3210" miejscowosc="Jesiona" 
+      ns="51.98249807" we="15.95412983" km="34.5" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania, chociaż w pobliżu mało miejsca na samochody. Pod mostem otwarta zastawka i kilka betonowych trylinek w nurcie, tworzących niewielkie bystrze. Za mostem po prawej, tuż nad wodą charakterystyczny zielony budynek. We wsi, w odległości około 200 m znajduje się sklep spożywczy</opispunktu> 
+    </punkt>
+    <punkt id="3209" miejscowosc="Kolsko" 
+      ns="51.96865964" we="15.93522865" km="36.9" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany most na drodze gruntowej pomiędzy Kolskiem a leśną osadą Głuszyca. Możliwość podjęcia kajaków z wody, z dojazdem do rzeki. Wygodne wyjście na ląd z prawej strony przed mostem po betonowych płytach. Na filarach mostu często tworzy się zator ze spływającej roślinności i śmieci</opispunktu> 
+    </punkt>
+    <punkt id="3208" miejscowosc="Konotop" 
+      ns="51.9353249" we="15.90400626" km="42.1" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy na nieczynnej linii z Nowej Soli do Wolsztyna. Dzisiaj przebiega po nim asfaltowa ścieżka rowerowa, którą obecnie z Nowej Soli można dojechać w okolice stacji Rudno Krzyż, znajdującej się w środku lasu pomiędzy Kolskiem a Świętnem. Poniżej odcinek otwartego terenu, mogący miejscami intensywnie zarastać trzciną</opispunktu> 
+    </punkt>
+    <punkt id="5993" miejscowosc="Konotop" 
+      ns="51.93485759" we="15.90418844" km="42.25" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Zaraz za mostem, z lewej strony wpada rzeczka Ciekąca</opispunktu> 
+    </punkt>
+    <punkt id="3211" miejscowosc="Jesionka" 
+      ns="51.99060748" we="15.96393037" km="33" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Charakterystyczny zakręt rzeki w lewo przy rozłożystym drzewie, gdzie tworzy się zator z gałęzi i śmieci. Kiedyś był tu most, dzisiaj czasami odbudowywana jest prowizoryczna kładka, przez którą trzeba się przeciągnąć górą, lub dołem</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="382" typ="rzeka" nazwa="Obrzyca: Lubiatów - Konotop" 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Rzeka początkowo płynie przez las a następnie wije się pośród łąk, szeroką doliną. W lesie kilka drzew do przeskoczenia oraz miejsca z gęstymi trzcinami. </opis>
+    <punkt id="5992" miejscowosc="Konotop" 
+      ns="51.92982155" we="15.91634503" km="43.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek, na filarach którego mogą tworzyć się zatory. Wyjście z wody utrudnione ze względu na strome skarpy</opispunktu> 
+    </punkt>
+    <punkt id="3206" miejscowosc="Lubiatów" 
+      ns="51.92123169" we="15.97041205" km="49.7" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, powyżej mostu wodowskaz Lubiatów. Poniżej mostu wygodne miejsce wodowania. W pobliżu sporo miejsca na samochody. W odległości kilkuset metrów od mostu, w centrum wsi znajduje się sklep spożywczy. Poniżej malowniczy odcinek leśny z kilkoma zwałkami. W okresach intensywnej wegetacji roślin miejscami mocno zarasta trzciną. Przed Konotopem rzeka wypływa na łąki, a koryto się rozszerza</opispunktu> 
+    </punkt>
+    <punkt id="3207" miejscowosc="Konotop" 
+      ns="51.93477352" we="15.90424763" km="42.3" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze nr 315</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="381" typ="jezioro" nazwa="Sławskie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Największe jezioro w okolicy. Spore, odsłonięte przestrzenie więc możliwy silny wiatr oraz wysoka fala. Kilka wysp i wysepek. Nad jeziorem wiele pięknych miejsc na dzikie leśne biwaki, zwłaszcza na długim, południowo-zachodnim brzegu</opis>
+    <punkt id="3205" miejscowosc="Lubiatów" 
+      ns="51.91995663" we="15.97140073" km="49.9" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Obrzycy z jeziora Sławskiego, nieoznakowany ale dobrze rozpoznawalny, przesłonięty nieco pomostami i przycumowanymi do nich łódkami</opispunktu> 
+    </punkt>
+    <punkt id="3204" miejscowosc="Sława" 
+      ns="51.8798597" we="16.05646668" km="57.4" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Plaża miejska w Sławie nad jeziorem Sławskim</opispunktu> 
+    </punkt>
+    <punkt id="5991" miejscowosc="Lubiatów" 
+      ns="51.92056249" we="15.97143107" km="49.8" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zaraz za wypływem znajduje się zastawka jazu utrzymująca poziom wody w jeziorze. Zastawkę należy obnieść z prawej strony, wąskim przejściem wzdłuż ogrodzenia. Miejsce to nie jest często wykorzystywane, w związku z czym trawiaste nabrzeże za jazem może być zarośnięte pokrzywami. Ze względu na strome betonowe koryto przed jazem, wyjście z wody powinno nastąpić wcześniej, przy pomoście i plaży. Niestety przenoska jest dość długa ze względu na głazy oraz urządzenia rybackie znajdujące się poniżej jazu. Do samego pomostu można dojechać samochodem gruntową drogą odchodzącą od asfaltu pomiędzy posesją nr 6 a charakterystycznym budynkiem gospodarczym z czerwonej cegły</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

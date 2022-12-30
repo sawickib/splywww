@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="67" nazwa="Bug" wersja="6">
+<opis>Rzeka Bug wraz z licznymi dorzeczami, starorzeczami, nieuregulowanym korytem i ciągle meandrującym, ale szybkim nurtem stanowi wyjątek w skali europejskiej. Towarzyszy jej naturalność brzegów oraz dzikość i tajemniczość najbliższej okolicy. Znajdujemy się w niemalże dziewiczym i sielankowym obszarze Polski. Lliczne ostoje ptactwa wodnego i rezerwatów przyrody rozmieszczonych wzdłuż dorzeczy oraz Parki Krajobrazowe, przez które przepływa dodają jej atrakcyjności. Opisane fragmenty rzeki:  Świerże - Mierzwice oraz Tonkiele - Gąsiorowo.
+Przepłynięty fragment rzeki: Świerże - Mierzwice nie został wybrany przypadkowo. Z nielicznych istniejących opisów wynika, że Bug graniczny od Gołębi do Dorohuska (ok. 127 km) ma muliste dno i brzegi - niełatwo tam wydostać się na brzeg w celu biwakowym. W Dorohusku pod mostem jest bystrze, które zazwyczaj trzeba omijać przenoską. Tak więc na miejsce startu wybrano Świerże (około 10 km poniżej Dorohuska). Na miejsce zakończenia spływu wybrano pierwszą miejscowość po wpłynięciu Bugu do Polski, w której istnieje infrastruktura turystyczna. Początkowo wybór padł na Serpelice, ostatecznie zakończono spływ w Starych Mierzwicach w ośrodku kempingowym. Tak zakreślona trasa liczyła w sumie około 250 km. Z tego 67 km to granica z Ukrainą, 165 km granica z Białorusią i 21 km na terenie Polski. Trasę tą przepłynięto niespiesznym tempem w 12 dni.
+Szlak jest niezwykle malowniczy, ale brzegi na ogół trudno dostępne - oczywiście nie wolno dobijać do prawego brzegu. Zewnętrzne brzegi zakoli to pionowe skarpy, a wewnętrzne brzegi często są niskie, podmokłe, ale mają niekiedy piaszczyste mielizny i plaże. 
+Z powodu graniczności Bugu, jego prawy brzeg jest całkowicie opustoszały (wioski zostały przeniesione w głąb lądu), a lewy, polski, na ogół jest nieużytkowany przez ludność dość licznych wiosek. Stąd mało jest dogodnych dobić do nielicznych zresztą dobrych miejsc biwakowych, za to gościnna ludność nie usiłuje pobierać opłat za korzystanie z brzegu.
+Bug jest dużą rzeką o zmiennym poziomie wód i płynie niespodziewanie wartko. Na szlaku brak jest przeszkód, poza koniecznością przewózki przez Terespol, lub wokół niego - Bug wpływa tu do Twierdzy Brześć na terenie Białorusi. 
+Podstawą nawigacji na Bugu są numerowane słupki graniczne - stoją one parami na obydwu brzegach i mają te same numery. Uwaga: Na odcinku ukraińskim numeracja na mapach jest wyższa o liczbę 39 od numeracji w rzeczywistości - trzeba szybko przeliczać :)
+Informacje o warunkach uprawiania turystyki nad Bugiem są szczegółowo opisane na stronach Nadbużańskiego Oddziału Straży Granicznej - są liczne zakazy, które należy traktować ze zdrowym rozsądkiem. Konieczne jest natomiast, aby "komandor spływu" telefoniczne informował SG o miejscu pobytu, posługując się numeracją słupków.</opis> 
+  <odcinek id="260" typ="rzeka" nazwa="Bug od Niemirowa do Mierzwic" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="4"> 
+  <opis>Od końca Bugu granicznego mamy do dyspozycji obydwa brzegu Bugu - zarówno do nawigacji, jak i do biwakowania. Tylko słupków granicznych już nie ma. Zamiast nich są słupki kilometrażu rzecznego, ale my widzieliśmy tylko kilka na początku - niżej ich nie było. Szlak wodny na Bugu jest wyznaczony tyczkami - lewa strona szlaku to tyczki zielono-białe, a prawa to tyczki czerwono-białe. Przy niskim stanie wody trzeba się trzymać szlaku wodnego. Nadbrzeżne łąki są koszone i wypasane - znacznie dogodniejsze do biwakowania. Możliwości dobijania do brzegu i biwakowania jest więc więcej, ale pojawiają się też tablice "Teren prywatny". W Serpelicach i Mierzwicach spotykamy pierwsze ośrodki kempingowe.</opis>
+    <punkt id="2473" miejscowosc="Stare Mierzwice" 
+      ns="52.339329" we="22.985158" km="192" etykieta="" 
+      kolejnosc="77"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Lewy brzeg się obniża a Las Ploszcz się kończy. Przed skrętem rzeki w prawo można dobić do stromej piaszczystej skarpy. Na brzegu stoi zdewastowana prostokątna wiata, widoczna z rzeki. Jest tu długa łąka wzdłuż Bugu - na zapleczu ogrodzonego terenu "Centrum Eureka" z domkami kempingowymi. Na łąkę jest dobry dojazd z szosy.</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">W "Centrum Eureka" jest niewielki bar.</opispunktu> 
+    </punkt>
+    <punkt id="2472" miejscowosc="" 
+      ns="52.331644" we="22.997009" km="193.7" etykieta="" 
+      kolejnosc="76"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na ostrym zakręcie Bugu w prawo, z lewej strony uchodzi bużysko o nazwie Trojan. Poniżej, na lewym brzegu o charakterze wysokiej skarpy, zaczyna się Las Ploszcz.
+</opispunktu> 
+    </punkt>
+    <punkt id="2471" miejscowosc="Mielnik" 
+      ns="52.329843" we="23.038733" km="197.2" etykieta="" 
+      kolejnosc="75"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu jest większa miejscowość Mielnik. Z rzeki widać malownicze wzgórze dawnego grodu i zieloną cerkiewkę.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej zabudowań jest przystań promu</opispunktu> 
+    </punkt>
+    <punkt id="2470" miejscowosc="Serpelice" 
+      ns="52.284638" we="23.050826" km="202.7" etykieta="" 
+      kolejnosc="74"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu znana miejscowość letniskowa Serpelice z wieloma ośrodkami typu pensjonatów i domkami kempingowymi. Do brzegu jest dogodne dobicie, a na niskiej łące dużo miejsca na biwak, pod warunkiem, że nie odbywa się tam jakiś festyn lub jakaś inna impreza.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W Serpelicach jest kilka przystani żeglugi rzecznej. Po Bugu kursują tam i z powrotem statki o napędzie tylnokołowym.</opispunktu> 
+    </punkt>
+    <punkt id="2469" miejscowosc="Wajków" 
+      ns="52.287489" we="23.083483" km="204.7" etykieta="" 
+      kolejnosc="73"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu zaczyna się letniskowa wieś Wajków, położona nad samym Bugiem.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na początku zabudowań stoi słupek rzeczny 215.</opispunktu> 
+    </punkt>
+    <punkt id="2468" miejscowosc="" 
+      ns="52.285443" we="23.130609" km="209.7" etykieta="" 
+      kolejnosc="72"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na ostrym zakręcie w prawo, na lewym brzegu wznosi się  Łysa Góra - punkt widokowy. Jest tu niewielkie dobicie i stroma ścieżka na Górę.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu jest kolejny słupek kilometrażu rzecznego - 220.</opispunktu> 
+    </punkt>
+    <punkt id="2467" miejscowosc="" 
+      ns="52.281738" we="23.143679" km="210.7" etykieta="" 
+      kolejnosc="71"> 
+    <opispunktu typ="stanica" kolejnosc="-1">"Stanica Wodna Gnojno" - na lewym brzegu jest dobre dobicie do niskiej, suchej, rozległej łąki. Nad brzegiem stoi okrągła wiata. Więcej oznak, że jest to "Stanica Wodna" nie ma. Do wsi Gnojno, niewidocznej z rzeki ani z brzegu, jest około 2,5 km lądem.</opispunktu> 
+    </punkt>
+    <punkt id="2466" miejscowosc="Niemirów" 
+      ns="52.282229" we="23.166332" km="212.2" etykieta="" 
+      kolejnosc="70"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Poniżej wyspy przy Niemirowie, na prawym brzegu przy przystani promowej jest dobre dobicie, a w głębi ładna polana. Są tu zadaszone stoły na brzegu.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pierwszy prom na Bugu - z Niemirowa do Gnojna.</opispunktu> 
+    </punkt>
+    <punkt id="2465" miejscowosc="Niemirów" 
+      ns="52.28211" we="23.173048" km="212.7" etykieta="" 
+      kolejnosc="69"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pierwsza polska miejscowość na prawym brzegu Bugu.  Wiejskie drewniane domki są dobrze widoczna z rzeki. Na wysokości pierwszych zabudowań Niemirowa, na lewym brzegu jest dobre dobicie, i piękna łąka pod starymi dębami.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="259" typ="rzeka" nazwa="Bug od Krzyczewa do końca granicy" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="3"> 
+  <opis>Poniżej Krzyczewa Bug kieruje się dużymi zakolami ku zachodowi. Szerokość rzeki 50 - 100 m, nurt nieco zwalnia. Nadal nie ma zbyt dużo miejsc dobicia i biwakowania, a w szerokiej na kilka kilometrów dolinie Bugu jest bardzo mało miejscowości. Bardzo malowniczo.</opis>
+    <punkt id="2464" miejscowosc="" 
+      ns="52.283587" we="23.178822" km="213" etykieta="" 
+      kolejnosc="68"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Dopływamy do końca granicznego Bugu. Najpierw na prawym wysokim brzegu stoi wieża wartownicza z osławionym, znanym z opisów, manekinem strażnika. Potem na wysokiej skarpie widać rząd zasieków odchodzących na północ i dwa słupki graniczne po raz pierwszy obok siebie: polski i bialoruski.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu stoi pierwszy słupek kilometrażu rzecznego - 224 (kilometry do ujścia Bugu).</opispunktu> 
+    </punkt>
+    <punkt id="2463" miejscowosc="" 
+      ns="0" we="0" km="214.7" etykieta="" 
+      kolejnosc="67"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Bug ostro skręca w lewo, zmieniając kierunek z północnego znowu na zachodni, aby po 2 km wpłynąć w całości do Polski.</opispunktu> 
+    </punkt>
+    <punkt id="2462" miejscowosc="Bubel Stary" 
+      ns="52.24804" we="23.19745" km="218.2" etykieta="" 
+      kolejnosc="66"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu kończy się zalesiona skarpa. W miejscu, gdzie Bug rozpoczyna łagodny skręt w prawo, jest możliwość dobicia do łąk na brzegu.</opispunktu> 
+    </punkt>
+    <punkt id="2461" miejscowosc="Bubel - Łukowiska" 
+      ns="0" we="0" km="219.7" etykieta="" 
+      kolejnosc="65"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Bug zmienia kierunek z zachodniego na północny. Na lewym brzegu zaczyna się zalesiona skarpa, wysoka na około 30 m. Na terasie nad skarpą leży wieś - niewidoczna z rzeki.</opispunktu> 
+    </punkt>
+    <punkt id="2460" miejscowosc="Stare Buczyce" 
+      ns="52.225288" we="23.207109" km="220.7" etykieta="" 
+      kolejnosc="64"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Poniżej ujścia Czyżówki na lewym brzegu widać dogodne dobicia do rozległych łąk na niskim brzegu. Okolice słupka 1335. Za łąkami widnieją zabudowania wsi Stare Buczyce widoczne z nurtu Bugu.</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na lewym brzegu ujście strugi Czyżówka, bardzo słabo widoczne z nurtu Bugu. Poniżej słupka 1334.</opispunktu> 
+    </punkt>
+    <punkt id="2459" miejscowosc="Wygoda" 
+      ns="52.220603" we="23.232474" km="222.7" etykieta="" 
+      kolejnosc="63"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Żródła internetowe podają, że jest tu "Stanica Wodna pod Janowem Podlaskim" - nic takiego nie widzieliśmy.</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Na terenie Stadniny jest niewielki bar (z piwem).</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Miejscowość Wygoda jest położona w głębi lądu za łąkami, około 700 m od biwaku, niewidoczna z brzegu. Mieści się w niej Stadnina Koni w Janowie Podlaskim, założona w czasach Królestwa Polskiego jako ośrodek rządowy (1817 r.). Zachowały się murowane stajnie z połowy XIX w. - architekt Henryk Marconi.</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Bezpośrednio poniżej dobicia do biwaku, na lewym brzegu,  jest dobrze widoczne ujście wąskiego kanału melioracyjnego, biegącego prostopadle do Bugu.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Już od słupka 1330 na lewym brzegu zaczynają się łąki - Łęgi Janowskie, słabo widoczne zza pasa nadbrzeżnych krzaków. Dobre dobicie do dobrego miejsca biwakowego jest dopiero 300 m poniżej słupka 1332. Jest tu sztucznie wykopana pochylnia wchodząca do Bugu. Miejsce biwakowe jest za pasem nadbrzeżnych drzew, na skraju Łęgów Janowskich.</opispunktu> 
+    </punkt>
+    <punkt id="2458" miejscowosc="" 
+      ns="52.211792" we="23.298024" km="229.2" etykieta="" 
+      kolejnosc="62"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Przed ostrym zakolem Bugu w prawo, na lewym brzegu jest zatoczka z dobrym dobiciem. W tym miejscu Bug zaczyna opływać duży półwysep Dębina ciągnący się około 1,5 km w kierunku wschodnim. Około 50 m od miejsca dobicia, wewnątrz półwyspu jest wielka polana na skraju lasu.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zalesione wnętrze półwyspu to Rezerwat Łęg Dębowy koło Janowa Podlaskiego. Ten biwak jest najlepszym miejscem do zwiedzenia Rezerwatu.</opispunktu> 
+    </punkt>
+    <punkt id="2457" miejscowosc="Ogrodniki (BY)" 
+      ns="52.211102" we="23.352943" km="233.2" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na cyplu następnego półwyspu z prawej strony wpada niewielka rzeczka Pulwa. Tuż przed słupkiem 1319. Ujście jest słabo widoczne z nurtu Bugu. Nad Pulwą - około 1 km w górę rzeczki - jest miescowość Ogrodniki.</opispunktu> 
+    </punkt>
+    <punkt id="2456" miejscowosc="" 
+      ns="52.207422" we="23.36222" km="235.7" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na cyplu następnego półwyspu - o nazwie Wyspa - jest plaża, a na brzegu duża łąka z laskiem w środku. Słupek 1317.</opispunktu> 
+    </punkt>
+    <punkt id="2455" miejscowosc="Cziżewicze (BY)" 
+      ns="52.200631" we="23.394718" km="239.7" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Cypel rozczłonkowanego, zalesionego półwyspu - słupek 1312. Na prawym brzegu jest miejscowość Cziżewicze, niewidoczna z rzeki. Przy niższym stanie wody u brzegów cypla są mielizny i duże plaże. Przy wysokim stanie wody dopiero za ostrym cyplem, za którym Bug na chwilę jakby zawraca, na lewym brzegu są piaszczyste dobicia, a na brzegu polany.</opispunktu> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Za opisywanym ostrym cyplem, przy wysokim stanie wody, nurt Bugu jest szybki, niesłychanie kręty i zmienny. Tworzą się silne przeciwprądy i wiry. Miejsce raczej nie wskazane do kąpieli.</opispunktu> 
+    </punkt>
+    <punkt id="2454" miejscowosc="Pratulin" 
+      ns="52.179904" we="23.41753" km="242.4" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Przed cyplem pierwszego półwyspu poniżej Pratulina widać możliwości dobicia do lewego brzegu. Na półwyspie rozciągają się łąki z nielicznymi drzewami. W okolicach słupka 1307.</opispunktu> 
+    </punkt>
+    <punkt id="2453" miejscowosc="Pratulin" 
+      ns="52.171956" we="23.430211" km="243.7" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W Pratulinie miała miejsce rzeź Unitów: duchownych i wiernych. Car wydał ukaz zmuszający przejście Unitów na prawosławie podporządkowane Moskwie. W roku  1875 tych Unitów, którzy się nie podporządkowali, wymordowano. W Pratulinie jest kościół poświęony temu wydarzeniu, a z niego wiedzie droga krzyżowa na cmentarzyk Unitów z małym pomniczkiem.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Przed łagodnym łukiem rzeki w prawo u ujścia małego bużyska jest zatoczka. Można tu w kilku miejscach wydostać się na stromą kilkumetrową, trawiastą skarpę. Na brzegu jest ładna polana otoczona drzewami. Miejsce leży około 200 m poniżej zabudowań wsi Pratulin, słabo widocznych z rzeki.</opispunktu> 
+    </punkt>
+    <punkt id="2452" miejscowosc="Łęgi" 
+      ns="0" we="0" km="249.2" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe opisywane w wielu źródłach jako dobre, przez nas nie znalezione. Ma być na lewym brzegu, na  wysokości wsi Łęgi leżącej w głębi lądu,  niewidocznej z rzeki. Gdzieś koło słupka 1300. Być może trzeba wpłynąć w głąb bużyska.</opispunktu> 
+    </punkt>
+    <punkt id="2451" miejscowosc="Tieriebun (BY)" 
+      ns="52.17374" we="23.507992" km="251.7" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na wschodnim cyplu wielkiego półwyspu, z prawej strony jest ujście dużej rzeki Leśna. Nad nią, w głębi lądu leży  miejscowość Tieriebun. Tuż przed słupkiem 1296.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="258" typ="rzeka" nazwa="Terespol - Krzyczew" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="pozaKL" 
+      kolejnosc="2"> 
+  <opis>Odcinek (ok. 20 km) ominięty w naszym spływie (przewózka) - znany mi tylko z częściowego oglądu z brzegu. Informacje zaczerpnąłem z Przewodnika J. Tworka oraz relacji internetowych. W tej wersji w Terespolu przewozi się kajaki pojazdem terenowym wokół Twierdzy Brześć (2 km). Nie wydaje się to być szczęśliwym pomysłem i wymaga pomocy ze strony SG. Ponadto poniżej Terespola, a raczej Brześcia, Bug jest silnie zanieczyszczony. Prawdopodobnie przy normalnym stanie wody, poniżej ujścia Krzny sytuacja może się poprawiać.</opis>
+    <punkt id="2450" miejscowosc="Krzyczew" 
+      ns="52.146592" we="23.500997" km="257.2" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce wodowania po przewózce wokół Terespola. Biwak na wysokim brzegu, nad niewielką zatoczką w zakolu Bugu w prawo, poniżej półwyspu Szwajcary. Jest tu nienajgorsze miejsce dobicia/ wodowania. Na samym brzegu 100 m od biwaku z biegiem Bugu, stoi drewniany kościółek (dawna cerkiewka). Na jego terenie jest słupek 1290. Od wsi Krzyczew jest dobry dojazd do biwaku obok kapliczki.</opispunktu> 
+    </punkt>
+    <punkt id="2449" miejscowosc="" 
+      ns="0" we="0" km="257.7" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na cyplu dużego półwyspu (o nazwie Szwajcary) na lewym brzegu są możliwe plaże i dobicia. Wg relacji internetowej jest tu wiata. Niesprawdzone - prawdopodobnie koło słupka 1289.</opispunktu> 
+    </punkt>
+    <punkt id="2448" miejscowosc="Neple" 
+      ns="0" we="0" km="259.7" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Informacja z opisów internetowych: Na lewym brzegu podobno jest sezonowa "Stanica Wodna Neple". Prawdopodobna lokalizacja: W ciasnym zakolu Bugu w prawo, w pobliżu słupka 1287. Niesprawdzone. Do wsi Neple jest około 1,5 km drogą.</opispunktu> 
+    </punkt>
+    <punkt id="2447" miejscowosc="Neple" 
+      ns="52.132629" we="23.522124" km="260.7" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na lewym brzegu ujście rzeki Krzna. Dwa kilometry w górę Krzny jest wioska Neple (gdzie też można wodować kajaki po przewózce wokół Terespola).</opispunktu> 
+    </punkt>
+    <punkt id="2446" miejscowosc="Kuzawka" 
+      ns="0" we="0" km="264.7" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wieś Kuzawka dawniej Kużawka (to inna Kuzawka niż ta z Portem Rzecznym) na lewym brzegu. Podobno tu też można wodować po przewózce.</opispunktu> 
+    </punkt>
+    <punkt id="2445" miejscowosc="Kozłowice" 
+      ns="0" we="0" km="272.7" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Informacja z Przewodnika: Poniżej progu na lewym brzegu doskonały teren biwakowy. Woda w Bugu zanieczyszczona ściekami z Twierdzy Brześć.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Informacja z Przewodnika: Przenoska około 15 minut (?)</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Informacja z Przewodnika: Jaz, wysokość progu 2 m. Wg informacji przesłanej przez NN 31.03.2010: "jaz szandorowy nieczynny od roku 2002. Przepływająca barka przerwała stalowe liny służące do stawiania szandorów".</opispunktu> 
+    </punkt>
+    <punkt id="2444" miejscowosc="Terespol" 
+      ns="52.072592" we="23.653346" km="276.7" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="most" kolejnosc="-1">Informacja z Przewodnika: Drogowy most przejścia granicznego w Terespolu. Dalej nie wolno płynąć - Bug wpływa do Twierdzy Brześć na Białorusi.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Informacje z Przewodnika: Zaraz za mostem trzeba wylądować na lewym brzegu (widzieliśmy to miejsce - dobicie jest wielce uciążliwe, teren na brzegu ruderalny, zdewastowany). Przy współpracy ze Strażą Graniczną można stąd przewieźć kajaki 2 km wzdłuż fosy Twierdzy Brześć i wodować u ujścia fosy = kanału do Bugu. Z innych informacji wynika, że można to zrobić tylko terenowym wozem.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">W Terespolu są oczywiście sklepy i restauracje. Nie jest jednak łatwo dostać się do nich z nad Bugu. Mam informacje, że ktoś się stołował na terenie terminalu granicznego :) - miejsce dobicia leży na skraju rozbudowującego się obecnie terminalu.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="257" typ="rzeka" nazwa="Bug od Trójstyku do Michalkowa" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Pierwsza część odcinka granicznego z Białorusią. Rzeka szeroka na 30 - 60 m, nadal płynie dość szybko. Mijamy miasto Włodawę i kilka większych miejscowości: Sławatycze, Kodeń. Miejsc dobicia typu plaże i biwaków jest trochę więcej. Z Michalkowa chcieliśmy przewieźć kajaki wokół Terespola do wsi Neple nad Krzną, ale rzeka ta wylała, jej wody uległy odtlenieniu i zatruciu. Przewieźliśmy więc kajaki 3,5 km poniżej ujścia Krzny, do wsi Krzyczew.</opis>
+    <punkt id="2443" miejscowosc="Michalków" 
+      ns="52.05285" we="23.654641" km="281.2" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Z Michalkowa można przewieźć kajaki za Terespol. Przy wysokim stanie wód i podmokłych łąkach może być trudno dojechać zwykłym samochodem na miejsce biwaku - wtedy trzeba jechać nasypem starego mostu 500 m i wracać tyłem :). Proponowane miejsca wodowania poniżej Terespola: Kuzawka, Neple nad Krzną lub Krzyczew. Dalszy szczegółowy opis własny dotyczy wariantu Krzyczew.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Jest to ostatni możliwy biwak przed Terespolem - przez który nie da się płynąć i trzeba przwieźć kajaki. Miejsce dobicia i biwakowania jest u podnóża nasypu - przyczółka dawnego mostu drogowego. Słupek 1254 stoi obok nasypu i nie jest widoczny z rzeki.</opispunktu> 
+    </punkt>
+    <punkt id="2442" miejscowosc="Żuki" 
+      ns="52.021028" we="23.657585" km="284.7" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na zakręcie rzeki w prawo, na lewym brzegu widać zabudowania wsi Żuki. Słupek 1249. Przy wysokim stanie wody można wpłynąć wprost na łąkę biwakową, położoną blisko szosy.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przy wysokim stanie wody Żuki to najlepsze miejsce do przerwania spływu przed Terespolem i przewiezienia kajaków za Terespol.</opispunktu> 
+    </punkt>
+    <punkt id="2441" miejscowosc="Kostomłoty" 
+      ns="51.978379" we="23.664364" km="290.7" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym, dość wysokim brzegu jest wieś Kostomłoty - zabudowania nie są widoczne z rzeki. Słupek 1240. Jest tu podobno możłiwość dobicia i biwakowania (przy niskim stanie wody).</opispunktu> 
+    </punkt>
+    <punkt id="2440" miejscowosc="Kodeń" 
+      ns="51.922793" we="23.630762" km="301.9" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Za cyplem trójkątnego półwyspu jest dobre dobicie (przy wysokim stanie wody). Na brzegu jest podłużna polana na końcu której jest słupek 1227. Z biwaku tego do centrum Kodnia lądem jest około 2 km.</opispunktu> 
+    </punkt>
+    <punkt id="2439" miejscowosc="Kodeń" 
+      ns="0" we="0" km="302.7" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Poniżej słupka 1225 zaczyna się duża wyspa. Jeśli się popłynie lewą odnogą, przy niskim stanie wody podobno można na lewym brzegu spotkać plażę z dogodną polaną do biwakowania - pod słupkiem 1226.</opispunktu> 
+    </punkt>
+    <punkt id="2438" miejscowosc="Kodeń" 
+      ns="51.917931" we="23.610981" km="303.7" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście częściowo uregulowanej strugi Kałamanka, przekształconej w zalew - słabo widoczne. Podobno można nią wpłynąć bliżej centrum Kodnia.</opispunktu> 
+    </punkt>
+    <punkt id="2437" miejscowosc="Kodeń" 
+      ns="51.914251" we="23.614067" km="304.1" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Zabudowań Kodnia z tego miejsca nie widać. Trzeba wpłynąć w lewą odnogę rzeki (na środku jest wyspa). Jest tu wąskie dobicie do niskiego, podmokłego  brzegu. Z brzegu widać w odległości 50 m wał i słupek 1224. Biwak jest za wałem na rozległych łąkach. Miejsce to zwie się - koło Drogi Krzyżowej.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Z biwaku koło Drogi krzyżowej jest najlepsze dojście do centrum Kodnia ze sklepami i barami.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Łąki biwakowe rozciągają się między brzegiem Bugu a ruinami Rezydencji Sapiehów. Rezydencja została założona w 1511 roku w widłach Bugu i Kałamanki. Otoczona była wałami, tak że w czasie wiosennych wylewów stawała się wyspą. Jako kaplicę pałacową Sapiehowie zbudowali cerkiew - jest to obecnie jedyny zachowany murowany budynek gotycko-renesansowej cerkwi w Polsce. Obecnie w poprzek Rezydencji biegnie Droga Krzyżowa.</opispunktu> 
+    </punkt>
+    <punkt id="2436" miejscowosc="" 
+      ns="0" we="0" km="307.7" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">U brzegów cypla szerokiego półwyspu są mielizny i plaże. słupek 1219.</opispunktu> 
+    </punkt>
+    <punkt id="2435" miejscowosc="Znamienka (BY)" 
+      ns="51.873323" we="23.630916" km="309.7" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Cypel dużego półwyspu skierowany na SE.  Słupek 1215 jest wewnątrz cypla. Za półwyspem na prawym brzegu, w głębi lądu, jest miejscowość Znamienka.</opispunktu> 
+    </punkt>
+    <punkt id="2434" miejscowosc="" 
+      ns="51.843929" we="23.60831" km="316.6" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Trzeba wpłynąć w lewą odnogę Bugu (na środku jest wyspa). Na lewym brzegu odnogi jest polana u podnóza kilkumetrowej skarpy, na której rośnie lasek sosnowy. Dobicie do brzegu przy polanie podczas wysokiego stanu wody jest mocno utrudnione. Poniżej słupka 1206.</opispunktu> 
+    </punkt>
+    <punkt id="2433" miejscowosc="Szostaki" 
+      ns="51.838832" we="23.603507" km="317.7" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Za zakrętem w lewo, na półwyspie są plaże z dogodnymi dobiciami do łąk. Poniżej słupka 1205 stojącego przed zakrętem w lewo. U podstawy półwyspu leży niewielka wioska Szostaki - jej zabudowania są widoczne z rzeki dopiero poniżej półwyspu.</opispunktu> 
+    </punkt>
+    <punkt id="2432" miejscowosc="Monastyr Jabłeczna" 
+      ns="51.807986" we="23.637124" km="323.7" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Poniżej słupka 1197 na lewym brzegu zaczynają się rozległe łąki. Nad samym Bugiem stoi jedna z kapliczek monastyru - o niebiesko-zielonych dachach. Najlepsze miejsce dobicia i biwak jest 300 m poniżej kapliczki i następnego słupka - 1198.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Z nad Bugu wiedzie mocno błotnista droga do zabudowań monastyru Jabłeczna (350 m). Obecnie mieści się w nim Seminarium Duchowne. Jest tam też imponująca cerkiew o złoconych dachach i kopułach.</opispunktu> 
+    </punkt>
+    <punkt id="2431" miejscowosc="" 
+      ns="51.778897" we="23.624081" km="328.7" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Poniżej słupka 1190, przy wysokim stanie rzeki, nurt dzieli się na dwie odnogi. W lewo odchodzą starorzecza - płynąć prosto. Słupki 1191 i 1192 są nad starorzeczami, nie nad Bugiem (!).</opispunktu> 
+    </punkt>
+    <punkt id="2430" miejscowosc="Sławatycze" 
+      ns="51.765545" we="23.59277" km="331.7" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy na przejściu granicznym Sławatycze. Słupek 1186.</opispunktu> 
+    </punkt>
+    <punkt id="2429" miejscowosc="Sławatycze" 
+      ns="0" we="0" km="332.7" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="bar" kolejnosc="-1">Lokalizacja niepewna. Informacje lokalnej ludności ze Sławatycz mówią, że gdzieś pomiędzy Sławatyczami a mostem przejścia granicznego jest dobre piaszczyste dobicie do zaplecza gastronomiczno-handlowego terminalu Sławatycze. Płynąc przy wysokim stanie wody, nie widzieliśmy żadnej możliwości dobicia w tym rejonie.</opispunktu> 
+    </punkt>
+    <punkt id="2428" miejscowosc="Sławatycze" 
+      ns="51.76135" we="23.55819" km="334.7" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Wąskie dobicie jest wewnątrz ostrego zakola w prawo. Z rzeki widać stąd dobrze wieże cerkwi i kościoła w Sławatyczach. Na brzegu jest rozległa, bezdrzewna łąka, zarośnięta chwastami, teren nieco ruderalny. W głębi łąk stoi słupek 1182.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Z biwaku wiedzie droga do centrum dużej miejscowości - 300 m.</opispunktu> 
+    </punkt>
+    <punkt id="2427" miejscowosc="Kużawka" 
+      ns="51.736145" we="23.531686" km="338.9" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Zabudowania wsi nie są widoczne z rzeki. Tuż poniżej wyspy, którą trzeba omijać z prawej strony, jest wąskie dobicie - luka w krzakach nadbrzeżnych. Słupek 1177 stoi na polanie biwakowej za krzakami. Jest to dawny Port Rzeczny w Kużawce.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Miejscowa legenda głosi, że z Portu Rzecznego Tadeusz Kościuszko odpłynął w roku 1776 do Gdańska, potem do Ameryki. We wsi jest nawet pamiątkowa tablica. Historia niestety nie bardzo potwierdza ten fakt.</opispunktu> 
+    </punkt>
+    <punkt id="2426" miejscowosc="Kużawka" 
+      ns="51.728433" we="23.527796" km="339.7" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na lewym brzegu, wewnątrz zakola w prawo, uchodzi rzeka Hanna. Poniżej ujścia, na lewym brzegu zaczynają się zabudowania wsi Kuzawka gm. Sławatycze (lub Kużawka w innej wersji).</opispunktu> 
+    </punkt>
+    <punkt id="2425" miejscowosc="" 
+      ns="51.727184" we="23.545694" km="342.2" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na cyplu dużego półwyspu skierowanego na N jest plaża, a na brzegu łąka pastwiskowa dogodna do biwakowania - nawet przy wysokim stanie wody. Słupek 1174. Na kilku półwyspach wcześniej (pomiędzy słupkami 1169 - 1172) są plaże dogodne do dobicia przy niższym stanie wód.</opispunktu> 
+    </punkt>
+    <punkt id="2424" miejscowosc="Charsy (BY)" 
+      ns="51.663085" we="23.555508" km="351.2" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na prawym brzegu ujście kanału - uregulowanego bużyska, dobrze widoczne z rzeki. Na kanale jest stalowy most którym przechodzi pas drogi granicznej z zasiekami. Zasieki są też pod mostem - sięgają do wody (a może i do dna). W głębi lądu nad bużyskami leży miejscowość Charsy.</opispunktu> 
+    </punkt>
+    <punkt id="2423" miejscowosc="Pawluki" 
+      ns="51.658706" we="23.54289" km="352.7" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu wzdłuż cypla ciągną się mielizny i plaże. Całe wnętrze cypla to ogrodzone trawiaste pastwisko. Na dolnym skraju pastwiska stoi słupek 1159. Bardzo wygodny biwak - najlepiej zapytać o zgodę właściciela pobliskiego gospodarstwa hodowalnego.</opispunktu> 
+    </punkt>
+    <punkt id="2422" miejscowosc="Różanka" 
+      ns="51.613682" we="23.541422" km="359.7" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na wysokiej terasie nad zalesioną skarpą są ruiny pałacu Zamoyskich i park. Z pałacu zostały fundamenty, ale zachowały się oficyny dworskie z bramą przejazdową do posiadłości. Niegdyś z pałacu stojącego na krawędzi skarpy nadbużańskiej do Bugu schodziły schody i tarasy. Obecnie z rzeki nic nie widać.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Poniżej słupka 1148 Bug ostro skręca w lewo (na cyplu jest plaża), a potem równie ostro w prawo. Na wysokim lewym brzegu jest wioska Różanka, niewidoczna z rzeki. Przed słupkiem 1149 jest  dobicie, na brzegu pod skarpą jest łąka i okrągła wiata.</opispunktu> 
+    </punkt>
+    <punkt id="2421" miejscowosc="Włodawa" 
+      ns="51.551365" we="23.566248" km="369.6" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu u podnóża nasypu przedwojennego mostu drogowego jest dobre dobicie. Słupek 1137 stoi na nasypie mostu. Na brzegu jest niewielka łąka, zadaszony stół i droga do centrum miasta. W pobliżu stoi niewielki budynek osławionego wodowskazu we Włodawie.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Z miejsca dobicia łatwo można dostać się do sklepów w centrum - 250 m.</opispunktu> 
+    </punkt>
+    <punkt id="2420" miejscowosc="Włodawa" 
+      ns="51.549317" we="23.564897" km="369.7" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na lewym brzegu ujście rzeczki Włodawka. Miasto Włodawa leży na jej lewym brzegu, niewidoczne z rzeki.</opispunktu> 
+    </punkt>
+    <punkt id="2419" miejscowosc="Włodawa - Orchówek" 
+      ns="51.530574" we="23.599046" km="373.7" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu widać murowany przyczółek przedwojennego mostu kolejowego. Słupek 1130. Zabudowania Orchówka są w głębi lądu, niewidoczne.</opispunktu> 
+    </punkt>
+    <punkt id="2418" miejscowosc="" 
+      ns="51.510283" we="23.616432" km="377.2" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu stoi okrągły budynek przepompowni, widoczny z rzeki. Poniżej słupka 1123. Obok niego stoi okrągła wiata turystyczna - postawiona na szlaku rowerowym Stykiem Granic.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Do opisanych budynków jest dobre dobicie - utwardzona droga (pochylnia) wchodzi do rzeki. Na wyższym brzegu jest polana wokół budynków.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="256" typ="rzeka" nazwa="Bug od Świerż do Trójstyku przed Włodawą" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Bug graniczny z Ukrainą do miejsca styku 3 granic (Trójstyk). Rzeka szeroka na 20 - 50 m, płynie całkiem szybko. Jedyny objaw uciążliwości to utrudniony dostęp na brzegi: przy niskim stanie wody w miejscach dobijania może być muliste bagno, przy wysokim stanie wody miejsc dobijania jest mniej.</opis>
+    <punkt id="2417" miejscowosc="" 
+      ns="51.507413" we="23.617732" km="377.7" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Trójstyk - miejsce styku granic 3 państw na Bugu: Polski, Ukrainy i Białorusi. Pomiędzy słupkami 1122 [1083] a 1123. Słupek 1123 jest pierwszym nieprzenumerownym słupkem. Z rzeki nie widać ani tych słupków, ani miejsca styku granic. Natomiast na prawym brzegu zaczynają się pojawiać zasieki pasa drogi granicznej.</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na prawym brzegu ujście Kanału Prezydenta Mościckiego - podobno zakratowane, z rzeki mało widoczne. Wzdłuż niego wiedzie granica pomiędzy Ukrainą a Białorusią.</opispunktu> 
+    </punkt>
+    <punkt id="2416" miejscowosc="Sobibór NW" 
+      ns="51.48469" we="23.644136" km="381.7" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Słabo widoczne dobicie jest w małej zatoczce około 30 m poniżej widocznego na wysokim brzegu słupka 1117 [1078]. Miejsce biwakowe jest na wysokim brzegu, na polanie wokół słupka. Wsi Sobibór nie widać z biwaku.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep mieści się w budynkach PGR w północnej części wsi Sobibór. Z biwaku trzeba pójść 100 m z biegiem Bugu - stąd zabudowania PGR są już widoczne w odległości około 1 km.</opispunktu> 
+    </punkt>
+    <punkt id="2415" miejscowosc="Olszanka (UA)" 
+      ns="0" we="0" km="384.7" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu w głębi lądu leżą miejscowści Olszanka i Koszary, niewidoczne z rzeki (przed wojną ciągnęły się wzdłuż samego brzegu Bugu). Słupek 1113 [1074].</opispunktu> 
+    </punkt>
+    <punkt id="2414" miejscowosc="Sobibór SE" 
+      ns="0" we="0" km="387.7" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu w głębi lądu leżą zabudownia SE krańca wsi Sobibór. Poniżej słupka 1108 [1070]. Sklep jest w NW krańcu wsi (ponad 3 km).</opispunktu> 
+    </punkt>
+    <punkt id="2413" miejscowosc="Wołczyny" 
+      ns="51.449428" we="23.650658" km="390.2" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak alternatywny do poprzedniego - na pierwszym cyplu poniżej poprzedniego dobicia jest duża plaża i łąki na brzegu. Jeszcze przed następnym słupkiem - 1106 [1067].</opispunktu> 
+    </punkt>
+    <punkt id="2412" miejscowosc="Wołczyny" 
+      ns="51.444826" we="23.651811" km="390.7" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Słabo widoczne dobicie do brzegu jest w małej zatoczce przed ostrym skrętem Bugu w prawo - na północ. Przy niższym stanie wody trzeba przejść przez szeroki pas błota. Na brzegu jest wielka bezdrzewna polana, na niej stoi słupek 1105 [1066] - niewidoczny z rzeki. Wieś Wołczyny znajduje się około 500 m w głąb lądu, niewidoczna nawet z polany. We wsi nie ma sklepu.</opispunktu> 
+    </punkt>
+    <punkt id="2411" miejscowosc="Grabowo (UA)" 
+      ns="51.433604" we="23.686292" km="394.7" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na prawym brzegu ujście bużyska - nad nim, w głębi lądu leży miejscowość Grabowo. Słupek 1100 [1061].</opispunktu> 
+    </punkt>
+    <punkt id="2410" miejscowosc="Zbereże" 
+      ns="51.411639" we="23.701409" km="400.2" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na cyplu dużego półwyspu jest dobre piaszczyste dobicie do brzegu, całe wnętrze cypla to łąka - pastwisko. Dobry, duży teren biwakowy. Słupek 1094 [1055] stoi na środku łąki - jest widoczny z rzeki. W głębi lądu jest środek wsi Zbereże oddalony około 2 km, z Placówką SG.</opispunktu> 
+    </punkt>
+    <punkt id="2409" miejscowosc="Zbereże - Miejscowniki" 
+      ns="51.394798" we="23.686617" km="403.7" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na lewym brzegu, na cyplu pierwszego półwyspu poniżej wsi Miejscowniki, jest duża plaża. Na brzegu są wąskie polany nadające się na biwak. W głębi półwyspu stoi słupek 1089 [1050] - niewidoczny. Przysiółek Miejscowniki jest z biwaku trudno dostępny z powodu bagien (przy wysokim stanie wody).</opispunktu> 
+    </punkt>
+    <punkt id="2408" miejscowosc="Zbereże - Miejscowniki" 
+      ns="51.390693" we="23.678221" km="404.7" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zabudowania przysiółka Miejscowniki są dobrze widoczne z rzeki - to rzadkość. Słupek 1088 [1046]. Kolejne przysiółki wsi Zbereże ciągną się ku północy w pewnym oddaleniu od  Bugu, ale w całej wsi nie ma sklepu.</opispunktu> 
+    </punkt>
+    <punkt id="2407" miejscowosc="Zabuże (UA)" 
+      ns="51.377611" we="23.685033" km="407.7" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na prawym brzegu ujście kanału szerokiego na 10 m, dobrze widoczne. Pomiędzy słupkami 1084 [1045] a 1085 [1046]. Nad kanałem, 100 m w głąb lądu widoczny jest budynek przepompowni. Jest to jeden z niewielu punktów nawigacyjnych na całym prawym brzegu Bugu granicznego (nie licząc słupków).</opispunktu> 
+    </punkt>
+    <punkt id="2406" miejscowosc="Zabuże (UA)" 
+      ns="51.361119" we="23.668703" km="411.2" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Za cyplem dużego półwyspu, na lewym brzegu, jest jedna z najładniejszych plaż na tym odcinku Bugu. Słupek 1081 [1042] stoi wewnątrz półwyspu. Na prawym brzegu jest duża miejscowość Zabuże - z rzeki widać jedynie maszty antenowe.</opispunktu> 
+    </punkt>
+    <punkt id="2405" miejscowosc="" 
+      ns="0" we="0" km="416.5" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na cyplu pierwszego wybitnego półwyspu poniżej wsi Wola Uhruska jest plaża dostępna przy niskim stanie wody. Słupek 1075 [1036].</opispunktu> 
+    </punkt>
+    <punkt id="2404" miejscowosc="Wola Uhruska" 
+      ns="51.319363" we="23.635301" km="419.7" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Poczynając od słupka 1070 [1031] jest kilka dobić do lewego brzegu w przerwach między krzakami. Na brzegu są rozległe, nieużytkowane łąki z miejscami nadającymi się na biwak. Najlepsze miejsce jest 350 m poniżej słupka. Zabudowania (kościół) są widoczne dopiero z brzegu.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Z miejsca biwakowego wiedzie dobra droga polna do wsi o statusie letniska (450 m). Ponadto gdzieś we wsi można kupić towary (m.in. papierosy) przemycane z Ukrainy :)</opispunktu> 
+    </punkt>
+    <punkt id="2403" miejscowosc="" 
+      ns="0" we="0" km="422.2" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu na niewielkim cyplu jest duża plaża - przy niskim stanie wody. 500 m poniżej słupka 1068 [1029]</opispunktu> 
+    </punkt>
+    <punkt id="2402" miejscowosc="Uhrusk - Siedliszcze" 
+      ns="51.29106" we="23.646807" km="424.7" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście rzeczki Uherki. Słupek 1066 [1027]. W rejonie słupka można dobić do podmokłego brzegu (przy wysokim stanie wody). Poniżej ujścia Bug wykręca na północ.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Można wpłynąć Uherką pod prąd 850 m do mostu w Siedliszczu. Przy moście jest możliwość biwakowania. Niesprawdzone.</opispunktu> 
+    </punkt>
+    <punkt id="2401" miejscowosc="" 
+      ns="51.291489" we="23.695167" km="431.5" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Cypel dużego półwyspu Luczka - 100 m poniżej słupka 1060 [1021]. Za cyplem Bug skręca o 180 stp. na południe, a po około 1 km Bug wykręca na zachód.</opispunktu> 
+    </punkt>
+    <punkt id="2400" miejscowosc="Wiszniowka (UA)" 
+      ns="51.281962" we="23.701853" km="433.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu za cyplem półwyspu jest piaszczysta plaża widoczna nawet przy wysokim stanie wody. 500 m poniżej słupka 1057 [1016]. Na prawym brzegu leży miejscowość Wiszniowka niewidoczna z rzeki. Przed wojną było to miasteczko Opalin, leżące nad samym brzegiem Bugu. Był tu prom.</opispunktu> 
+    </punkt>
+    <punkt id="2399" miejscowosc="Guszcza (Huszcza) UA" 
+      ns="51.275673" we="23.711072" km="434.7" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na prawym brzegu połączenie ze starorzeczem (nazywane są one tu bużyskami). Poniżej słupka 1056 [1017]. Nad bużyskiem leży miejscowość Guszcza (po polsku Huszcza) odległa o 500 m.</opispunktu> 
+    </punkt>
+    <punkt id="2398" miejscowosc="Hniszów" 
+      ns="51.252059" we="23.724926" km="440" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Do brzegu Bugu dochodzi droga z Hniszowa. Słupek 1052 [1013]. We wsi odległej o około 1.5 km jest okazały dąb "Bolko"</opispunktu> 
+    </punkt>
+    <punkt id="2397" miejscowosc="Świerże" 
+      ns="0" we="0" km="444.4" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu zdewastowany budynek młyna. Słupek 1047 [1008]. Do młyna jest dobry dojazd drogą ze wsi.</opispunktu> 
+    </punkt>
+    <punkt id="2396" miejscowosc="Świerże - Park" 
+      ns="51.227381" we="23.741366" km="444.7" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="sklep" kolejnosc="-1">We wsi Świerże, około 2 km od biwaku jest duży sklep.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pomiędzy cyplem biwakowym a szosą i wsią rozciąga się  nieco zdewastowany Park Podworski otaczający niegdyś nieistniejący pałac Tarnowskich. Od szosy przez Park nad Bug wiedzie kilka błotnistych dróg, zniszczonych przez pojazdy terenowe Straży Granicznej.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">300 m poniżej słupka 1046 (na mapach) czyli 1007 w rzeczywistości. Na cyplu jest piaszczysty brzeg i niewielka polana. Przy niższym stanie wody u brzegów cypla są duże mielizny i plaże. Dogodne miejsce wodowania, nawet przy wysokim stanie wody.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="420" typ="rzeka" nazwa="Tonkiele - Gródek" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="5"> 
+  <opis>Przepiękny widokowo odcinek z Rezerwatem Przyrody "Wydma Mołożewska". Występuje tu wiele gatunków ptactwa charakterystycznego dla terenów podmokłych. Na wysokich piaszczystych skarpach liczne gniazda jaskółek brzegówek. Na okolicznych łąkach nadbużańskich, na malowniczo rozrzuconych stodołach mnóstwo bocianich gniazd.</opis>
+    <punkt id="3486" miejscowosc="Tonkiele" 
+      ns="52.414773" we="22.561189" km="153.3" etykieta="" 
+      kolejnosc="79"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Sokołowem Podlaskim, a Drohiczynem. </opispunktu> 
+    </punkt>
+    <punkt id="3487" miejscowosc="Wasilów Szlachecki" 
+      ns="52.421316" we="22.54321" km="151.9" etykieta="" 
+      kolejnosc="80"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym, wysokim brzegu wieś Wasilów Szlachecki </opispunktu> 
+    </punkt>
+    <punkt id="3488" miejscowosc="Wirów" 
+      ns="52.440122" we="22.541033" km="149.7" etykieta="" 
+      kolejnosc="81"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu w miejscowości Wirów widoczne zabudowania klasztorne.</opispunktu> 
+    </punkt>
+    <punkt id="3489" miejscowosc="Wirów" 
+      ns="52.455276" we="22.546855" km="148" etykieta="" 
+      kolejnosc="82"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Bardzo łagodne, piaszczyste wyjście pomiędzy lasami sosnowymi.</opispunktu> 
+    </punkt>
+    <punkt id="3490" miejscowosc="Mołożew" 
+      ns="52.461816" we="22.528732" km="144.8" etykieta="" 
+      kolejnosc="83"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ostry skret w prawo, zwężenie rzeki, która płynie tu pomiędzy wysokimi skarpami. Przepiękny widok.</opispunktu> 
+    </punkt>
+    <punkt id="3491" miejscowosc="Gródek" 
+      ns="52.482897" we="22.510926" km="142.1" etykieta="" 
+      kolejnosc="84"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym brzegu wieś Gródek. Dogodne miejsce do rozpoczęcia/zakończenia spływu.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep w Gródku.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="421" typ="rzeka" nazwa="Gródek - Murawskie Nadbuże" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="6"> 
+  <opis>Rzeka wije się wśród łak i lasów. Piękna i dzika.</opis>
+    <punkt id="3492" miejscowosc="Osnówka" 
+      ns="52.523801" we="22.525028" km="137.2" etykieta="" 
+      kolejnosc="85"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Na prawym wieś Osnówka.</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Poniżej wsi dobre miejsce na odpoczynek lub nocleg.</opispunktu> 
+    </punkt>
+    <punkt id="3493" miejscowosc="Kruzy" 
+      ns="52.553756" we="22.487329" km="132.8" etykieta="" 
+      kolejnosc="86"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wyspy na odcinku ok. 2 km.</opispunktu> 
+    </punkt>
+    <punkt id="3494" miejscowosc="Głody" 
+      ns="52.586399" we="22.453919" km="128.1" etykieta="" 
+      kolejnosc="87"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Lewy brzeg porośnięty lasem sosnowym na sporej urwistej skarpie, rzeka zakręca w lewo. Tuż za zakrętem wyjście na urządzone w harcerskim stylu miejsce biwakowe. Jest to z pewnością najładniejsze miejsce na postój, a zwłaszcza nocleg na całej trasie spływu, z przepięknym widokiem na Bug.</opispunktu> 
+    </punkt>
+    <punkt id="3495" miejscowosc="Kamieńczyk" 
+      ns="52.594929" we="22.43112" km="126.2" etykieta="" 
+      kolejnosc="88"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na lewym btrzegu wieś Kamieńczyk, na prawym Wojtkowice-Glinna. Na brzegach widoczne ślady po  kursującym tu kiedyś promie.</opispunktu> 
+    </punkt>
+    <punkt id="3496" miejscowosc="Ślepowrony" 
+      ns="52.609841" we="22.408433" km="123.9" etykieta="" 
+      kolejnosc="89"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujcie rzeki Nurzec.</opispunktu> 
+    </punkt>
+    <punkt id="3497" miejscowosc="Białobrzegi" 
+      ns="52.613668" we="22.392186" km="122.9" etykieta="" 
+      kolejnosc="90"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej ujście rzeki Cetynia.</opispunktu> 
+    </punkt>
+    <punkt id="3498" miejscowosc="Kiełpiniec" 
+      ns="52.625359" we="22.370058" km="120.4" etykieta="" 
+      kolejnosc="91"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rzeka skręca w prawo, na lewym brzegu podmyta wysoka skarpa. Stąd ok. 700m od wsi Kiełpiniec rozpoczyna się Nadbużański Park Krajobrazowy.</opispunktu> 
+    </punkt>
+    <punkt id="3499" miejscowosc="Murawskie Nadbuże" 
+      ns="52.634861" we="22.372174" km="119.3" etykieta="" 
+      kolejnosc="92"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Zakręt w lewo. Po prawej wieś Murawskie Nadbużne. Po lewej wygodne miejsce na biwak. Na brzegach widoczne ślady po promie.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="422" typ="rzeka" nazwa="Murawskie Nadbuże - Gąsiorowo" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL2" 
+      kolejnosc="7"> 
+  <opis>Rzeka wpływa na teren Nadbużańskiego Parku Krajobrazowego.</opis>
+    <punkt id="3500" miejscowosc="Drohiczyn" 
+      ns="52.393867" we="22.657367" km="163.7" etykieta="" 
+      kolejnosc="78"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Drohiczyn po prawej</opispunktu> 
+    </punkt>
+    <punkt id="3501" miejscowosc="Nur" 
+      ns="52.667496" we="22.315439" km="113.7" etykieta="" 
+      kolejnosc="93"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym wysokim brzegu kościól w miejscowości Nur, którego wieża była już widoczna od paru kilometrów.</opispunktu> 
+    </punkt>
+    <punkt id="3502" miejscowosc="Łęg Nurski" 
+      ns="52.669194" we="22.294857" km="112.3" etykieta="" 
+      kolejnosc="94"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Czyżewem Osadą a Ceranowem. Dostęp do rzeki w okolicach mostu jest mocno utrudniony, więc jesli nie musimy nie planujmy tu rozpoczynania, czy kończenia spływu.</opispunktu> 
+    </punkt>
+    <punkt id="3503" miejscowosc="Zakrzewo Słomy" 
+      ns="52.696044" we="22.220964" km="105.8" etykieta="" 
+      kolejnosc="95"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na prawym brzegu ujście małej rzeczki Pukawka.</opispunktu> 
+    </punkt>
+    <punkt id="3504" miejscowosc="Rytele Suche" 
+      ns="52.690784" we="22.165707" km="101.6" etykieta="" 
+      kolejnosc="96"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na lewym brzegu ujście rzeczki Buczynki.</opispunktu> 
+    </punkt>
+    <punkt id="3505" miejscowosc="Gąsiorowo" 
+      ns="52.7033213" we="22.15871054" km="100" etykieta="" 
+      kolejnosc="97"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Na prawym brzegu wieś Gąsiorowo. Wygodne miejsce do zakończenia spływu.</opispunktu> 
+    </punkt>
+    <punkt id="3506" miejscowosc="Brok" 
+      ns="52.69527397" we="21.84909321" km="74.4" etykieta="" 
+      kolejnosc="98"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3507" miejscowosc="Wyszków" 
+      ns="52.59119058" we="21.45996691" km="32.4" etykieta="" 
+      kolejnosc="99"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3508" miejscowosc="Serock" 
+      ns="52.50662079" we="21.08603117" km="0" etykieta="" 
+      kolejnosc="100"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Bugu do Narwi (lub jak kto woli Narwi do Bugu, ewentualnie obydwu tych rzek do Bugonarwi)</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

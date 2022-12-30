@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="30" nazwa="Bytowa" wersja="1">
+<opis>Ładna nieuciążliwa rzeczka. Na początku wąska o wartkim nurcie, kilka progów, "dwójką" nie będzie łatwo. Po kilku kilometrach spokojnie. Pod koniec szlaku rozlewisko. Na całym szlaku brak bystrzy i kamieni, kilka przeszkód w postaci powalonych w poprzek drzew. Woda dość czysta. Brak miejsc do biwakowania i sklepów. Ponoć mało wody latem.</opis> 
+  <odcinek id="110" typ="rzeka" nazwa="Bytowa od Przyborzyc do zalewu" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="*" czystosc="KL3" 
+      kolejnosc="0"> 
+  <opis></opis>
+    <punkt id="969" miejscowosc="Przyborzyce" 
+      ns="54.185068" we="17.468873" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="977" miejscowosc="" 
+      ns="54.248401" we="17.400565" km="17.7" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">ujście do Zalewu Bytowa</opispunktu> 
+    </punkt>
+    <punkt id="976" miejscowosc="" 
+      ns="54.24596" we="17.41827" km="15.6" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="975" miejscowosc="" 
+      ns="54.24493" we="17.42734" km="14.2" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">zwałka i megaśmieci</opispunktu> 
+    </punkt>
+    <punkt id="974" miejscowosc="" 
+      ns="54.22367" we="0" km="10.2" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="973" miejscowosc="" 
+      ns="54.21678" we="17.44884" km="9.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">zwałka</opispunktu> 
+    </punkt>
+    <punkt id="972" miejscowosc="" 
+      ns="54.20438" we="17.45766" km="7.1" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="971" miejscowosc="" 
+      ns="54.19737" we="17.46061" km="5.6" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">kładka</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">10 m</opispunktu> 
+    </punkt>
+    <punkt id="970" miejscowosc="" 
+      ns="54.19763" we="17.46149" km="5.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">kładka</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="111" typ="zalew" nazwa="Bytowa od  zalewu do ujścia do Słupi" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="1"> 
+  <opis></opis>
+    <punkt id="979" miejscowosc="" 
+      ns="54.26823" we="17.42219" km="22.1" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="978" miejscowosc="" 
+      ns="54.249633" we="17.39059" km="18.4" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">zapora przed starym korytem Słupii</opispunktu> 
+    </punkt>
+    <punkt id="980" miejscowosc="" 
+      ns="54.26879" we="17.422286" km="22.2" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="ujście" kolejnosc="-1">ujście do rz. Słupii</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

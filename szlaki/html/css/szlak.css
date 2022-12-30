@@ -1,0 +1,118 @@
+div.szlak {
+	background: #aaaaaa;
+	border: 1px solid #cae0e0;
+}
+
+div.odcinek {
+	margin-left: 10px;
+        border: 1px dashed #333;
+        padding: 4px;
+        margin: 7px;
+}
+
+div.punkt {
+	margin-left: 10px;
+}
+
+div.opispunktu {
+	margin-left: 70px;
+        border-left: 2px solid;
+        position: relative;
+}
+
+div.opispikona {
+//	border: 1px solid;
+        width: 20px;
+        position: absolute;
+        left: -25px;
+	top: -5px;
+	vertical-align: top;
+
+}
+
+div.opisptekst {
+//        border: 1px solid;
+	width: 500px;
+        padding-left: 3px;
+//        position: absolute;
+//	left: 0px;
+}
+
+div.km {
+	float: left;
+	font-weight: bold;
+	width: 60px;
+}
+
+td.km {
+	width: 50px;
+}
+
+div.miejsc {
+	font-weight: bold;
+	margin-left: 70px;
+	border-left: 2px solid;
+	padding-left: 3px;
+	margin-top: 5px;
+
+}
+
+div.odchodzacyszlak {
+        border: 3px double #333;
+        padding: 4px;
+        margin: 7px;
+        float: right;
+}
+
+img.ikona {
+	border: 0px;
+	padding: 0px;
+	vertical-align: top;	
+}
+
+div.opissz {
+	color: grey;
+}
+
+img.marker {
+        border: 0px;
+	vertical-align: middle;
+        margin-left: 10px;
+}
+
+a.marker {
+        border: 0px;
+}
+
+div.taby {
+        border-bottom: 2px solid;
+	font-size: 120%;
+ 	margin-top: 10px;
+	}
+
+div.tab0 {
+  	display: inline;
+        margin-left: 10px;
+        padding-left: 5px;
+        padding-right: 5px;
+	width: 100px;
+        border: 1px solid;
+}
+
+div.tab1 {
+        display: inline;
+        margin-left: 10px;
+        padding-left: 5px;
+        padding-right: 5px;
+	width: 100px;
+        border: 2px solid;
+        font-weight: bold;
+	
+}
+
+//div.tabprzerwa {
+//  	display: inline;
+//	width: 100px;
+//        border-bottom: 2px solid;
+//}
+

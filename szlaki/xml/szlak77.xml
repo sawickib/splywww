@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="77" nazwa="Stara Rzeka" wersja="3">
+<opis>Krótki nizinny szlak kajakowy będący alternatywą lub dodatkiem dla pobliskiej Pętli Konwaliowej, zdecydowanie mniej uczęszczany niż ona sama. Szlak miejscami jest mocno zarośnięty trzciną, chociaż ostatnio [2020] widoczne są w terenie prace melioracyjne, polegające na pogłębianiu dna i wycince roślinności</opis> 
+  <odcinek id="312" typ="mieszany" nazwa="Przemęcki PK" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="2"> 
+  <opis>Odcinek jeziorowo - kanałowy</opis>
+    <punkt id="2719" miejscowosc="Wieleń" 
+      ns="51.952066" we="16.184655" km="0" etykieta="" 
+      kolejnosc=""> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Wieleńskiego na Kanał Kaszczorski.</opispunktu> 
+    </punkt>
+    <punkt id="2718" miejscowosc="Brenno" 
+      ns="51.937143" we="16.204647" km="0" etykieta="" 
+      kolejnosc=""> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Trzytoniowe oraz Wieleńskie.</opispunktu> 
+    </punkt>
+    <punkt id="2717" miejscowosc="Brenno" 
+      ns="51.932048" we="16.207678" km="0" etykieta="" 
+      kolejnosc=""> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Breńskiego.</opispunktu> 
+    </punkt>
+    <punkt id="2716" miejscowosc="Brenno" 
+      ns="51.929912" we="16.215378" km="0" etykieta="" 
+      kolejnosc=""> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Breńskie.</opispunktu> 
+    </punkt>
+    <punkt id="2715" miejscowosc="Brenno" 
+      ns="51.932414" we="16.217268" km="0" etykieta="" 
+      kolejnosc=""> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Białego.</opispunktu> 
+    </punkt>
+    <punkt id="2714" miejscowosc="Brenno" 
+      ns="51.93091" we="16.240325" km="0" etykieta="" 
+      kolejnosc=""> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Miałkie oraz Białe.</opispunktu> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Jezioro jest bardzo płytkie i bardzo muliste, absolutnie nie należy opuszczać kajaka !</opispunktu> 
+    </punkt>
+    <punkt id="2713" miejscowosc="Miastko" 
+      ns="51.929746" we="16.254301" km="0" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków. Odcinek kanału w pobliżu mostu często wykorzystywany jest przez wędkarzy, każda próba prześliźnięcia się pomiędzy spławikami na wąskiej rzece, wzmaga napięcie po obu stronach</opispunktu> 
+    </punkt>
+    <punkt id="2712" miejscowosc="Zaborówiec" 
+      ns="51.921719" we="16.25874" km="0.9" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na jezioro Lincjusz</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="311" typ="rzeka" nazwa="Stara Rzeka" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="1"> 
+  <opis>Odcinek rzeki lekko zarośnięty z kilkonastoma powalonymi drzewami, wszystkie zwałki udało mi się pokonać bez wychodzenia na ląd.</opis>
+    <punkt id="2711" miejscowosc="Zaborówiec" 
+      ns="51.916201" we="16.253895" km="1.7" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania kajaków, chociaż droga ruchliwa i wąska</opispunktu> 
+    </punkt>
+    <punkt id="2710" miejscowosc="Zaborówiec" 
+      ns="51.902902" we="16.246443" km="3.4" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="2709" miejscowosc="Lgiń" 
+      ns="51.892772" we="16.245405" km="4.6" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W poprzek koryta wbite 3 rzędy pali oraz liczne głazy w wodzie. Wszystko to znajduje się stosunkowo płytko, ale nie jest widoczne na powierzchni wody. Płynąć ostrożnie, zwłaszcza szklakami i składakami. Przy mętnej wodzie przeszkoda jest bardzo słabo widoczna, a brak nurtu dodatkowo nie zakrzywia jej powierzchni</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="310" typ="jezioro" nazwa="Lgińskie Duże" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis></opis>
+    <punkt id="2708" miejscowosc="Lgiń" 
+      ns="51.891223" we="16.245957" km="4.8" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Lgińsko Duże</opispunktu> 
+    </punkt>
+    <punkt id="2707" miejscowosc="Lgiń" 
+      ns="51.87526" we="16.230755" km="7" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Wschową a Wolsztynem, wygodne miejsce wodowania kajaków. Droga przechodzi pomiędzy dwoma jeziorami: Lgińsko Małe i Lgińsko Duże. Rzeczka łącząca obydwa jeziora nie jest głęboka, warto jednak nią spłynąć kilkadziesiąt metrów do Lgińska Dużego.
+W przypadku małej ilości wody w rzeczce, jadąc od strony Wschowy skręcamy za mostem w leśną drogę w prawo, która po 200m doprowadza nas do jeziora. Ewentualnie można rozpocząć spływ na plaży głównej w centrum Lginia</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

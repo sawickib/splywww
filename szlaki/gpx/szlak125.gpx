@@ -1,0 +1,160 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.28686331" lon="15.44272335">
+<name>35.00</name>
+<desc>Parking nad jeziorem Lubie, wygodne miejsce rozpoczynania spływu</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="52.29376670" lon="15.44516238">
+<name>34.00</name>
+<desc>Wypływ z jeziora Lubie</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="52.29608615" lon="15.44406427">
+<name>33.70</name>
+<desc>Wąski przepust rurowy pod drogą na granicy Nowej Wioski i Lubrzy. Okolice tego miejsca szczególnie upodobali sobie wędkarze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.29695213" lon="15.43922374">
+<name>33.40</name>
+<desc>Drewniana kładka przy wpływie na jezioro Goszcza</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.30548349" lon="15.43500022">
+<name>32.40</name>
+<desc>Wypływ z jeziora Goszcza</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="52.31025549" lon="15.43861750">
+<name>31.70</name>
+<desc>Jaz (element MRU) piętrzący wodę na kilka metrów, utrzymujący poziom w jeziorach powyżej</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.31301484" lon="15.44297818">
+<name>31.20</name>
+<desc>Wypływ na jezioro Lubrza Mała</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="52.31661388" lon="15.44338869">
+<name>30.80</name>
+<desc>Most autostrady A2</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.32266445" lon="15.44299330">
+<name>30.00</name>
+<desc>Ujście potoku odwadniającego pobliskie mokradła oraz stawy, przez miejscowych kajakarzy nazwany "Antosiem"</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.32740557" lon="15.45094602">
+<name>29.30</name>
+<desc>Rzeka głębokim kanałem omija jaz 712 (element MRU), w pobliżu PZwerka 702 z grupy warownej Korner. Znajdują się tutaj również drewniane kładki i drobne podpiętrzenia wody zbudowane z worków z piaskiem</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.33256056" lon="15.48140145">
+<name>26.40</name>
+<desc>Wypływ na jezioro Paklicko Wielkie</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="52.33500943" lon="15.51799051">
+<name>22.50</name>
+<desc>Most drogowy. Wygodny dostęp do wody</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.33959474" lon="15.52221106">
+<name>21.80</name>
+<desc>Możliwość dzikiego biwakowania na łące pod lasem</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.34124539" lon="15.53231718">
+<name>21.00</name>
+<desc>Wypływ na małe jezioro Radno. Zbiornik jest nieco płytki a dodatkowo zamieszkiwany przez łabędzia agresywnie nastawionego do kajakarzy</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="52.33617798" lon="15.54309132">
+<name>20.00</name>
+<desc>Kładka i pomost przy klasztorze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.33610496" lon="15.54579264">
+<name>19.70</name>
+<desc>Most drogowy, pod nim bardziej bystro i płycej, na dnie liczne kamienie o ostrych krawędziach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.33730515" lon="15.55095889">
+<name>19.30</name>
+<desc>Rzeka nieco przyspiesza, na dnie liczne kamienie o ostrych krawędziach</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.34053170" lon="15.55777369">
+<name>18.70</name>
+<desc>Most drogi ekspresowej S3</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.35476821" lon="15.58607281">
+<name>16.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.36437961" lon="15.59421869">
+<name>13.70</name>
+<desc>Przenoska prawym brzegiem 50 m po trawie</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="52.37966762" lon="15.60126780">
+<name>10.00</name>
+<desc>Początek rozlewisk jeziora Bukowieckiego</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="52.41669811" lon="15.61767686">
+<name>6.40</name>
+<desc>W tym miejscu Paklica dostaje sporą dawkę źle oczyszczonych ścieków, przez co mocno traci na barwie, mętności i zapachu. Poniżej nieco bardziej bystro i płycej, liczne kamienne przemiały </desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.42424363" lon="15.62131732">
+<name>5.10</name>
+<desc>Przenoska przed elektrownią w lewo - około 30 m</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="52.42358809" lon="15.62050330">
+<name>5.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.43382211" lon="15.60444325">
+<name>3.00</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.43892756" lon="15.58371150">
+<name>1.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.44123461" lon="15.57606352">
+<name>0.70</name>
+<desc>W pobliżu mostu kilka sklepów spożywczych</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="52.44414612" lon="15.57430637">
+<name>0.25</name>
+<desc>Niezbyt wygodna przenoska w centrum miasta przez ruchliwą ulicę, prawą stroną około 50 m</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="52.44446372" lon="15.57342252">
+<name>0.20</name>
+<desc>Prożek 0,5 m z małą ilością wody. Przed prożkiem w lewo odbija kanał zasilający fosę międzyrzeckiego zamku</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.44601317" lon="15.57309947">
+<name>0.00</name>
+<desc>Ujście Paklicy do Obry</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,150 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.70168984" lon="23.40972521">
+<name>149.50</name>
+<desc>Ujście Sidry do Biebrzy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.73079000" lon="23.38302355">
+<name>142.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.73375439" lon="23.38681091">
+<name>142.70</name>
+<desc>Oficjalne pole biwakowe (wiaty, toalety, prysznice), za mostem płytkim, zamulonym kanałem w prawo</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.71106282" lon="23.23774435">
+<name>126.10</name>
+<desc>Most drogowy na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.71106477" lon="23.23709503">
+<name>126.00</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.71412389" lon="23.20498769">
+<name>122.00</name>
+<desc>Z prawej ujście rzeki Lebiedzianki </desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.67190378" lon="23.11636644">
+<name>110.00</name>
+<desc>Bardzo wąski most na bardzo ruchliwej szosie (bez pobocza)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.66862747" lon="23.10979296">
+<name>109.00</name>
+<desc>Pole biwakowe po lewej stronie, z charakterystycznymi trójkątnymi domkami i banią</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.67289144" lon="23.09831075">
+<name>107.00</name>
+<desc>Pole biwakowe po prawej stronie rzeki</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.62367717" lon="22.99437182">
+<name>92.00</name>
+<desc>Pole biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.62004281" lon="22.96931702">
+<name>90.00</name>
+<desc>Most drogowy. Wygodne miejsce wodowania kajaków</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.60952515" lon="22.93137919">
+<name>84.90</name>
+<desc>Z prawej strony do Biebrzy wpada woda z Kanału Augustowskiego, poprzez jaz. Przy wyższych stanach wody możliwa boczna fala i silniejszy nurt</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.58057909" lon="22.93191733">
+<name>81.00</name>
+<desc>Ujście Brzozówki z lewej</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.55327542" lon="22.90712764">
+<name>77.20</name>
+<desc>Most na drodze gruntowej. Wygodne miejsce wodowania kajaków</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.55056110" lon="22.90161980">
+<name>76.60</name>
+<desc>Pole biwakowe (wiaty, wieża widokowa)</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.53278338" lon="22.84825060">
+<name>71.60</name>
+<desc>Rozwidlenie rzeki, do pola biwakowego we Wroceniu płynąć w lewo</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.52915030" lon="22.84334050">
+<name>71.00</name>
+<desc>Pole biwakowe. W pobliżu wieża widokowa</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.52035313" lon="22.80282309">
+<name>67.00</name>
+<desc>Z prawej ujście rzeki Ełk</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.49264688" lon="22.72906020">
+<name>59.80</name>
+<desc>Most drogowy. Kilkaset metrów od mostu znajduje się wieża widokowa BPN</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.48668548" lon="22.64590337">
+<name>52.30</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.48302501" lon="22.63844829">
+<name>51.60</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.48234116" lon="22.63787944">
+<name>51.50</name>
+<desc>Most kolejowy. W sezonie wiosennym BPN limituje ilość osobo-kajaków na dzień, od tego miejsca aż do Brzostowa. Zamiar płynięcia należy wcześniej zgłosić i za niego ekstra zapłacić</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.47703900" lon="22.62462767">
+<name>50.20</name>
+<desc>Ujście z prawej Kanału Rudzkiego</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.42878428" lon="22.53399353">
+<name>38.40</name>
+<desc>Pole biwakowe z wieżą widokową BPN. W sezonie wiosennym BPN nie zezwala na biwakowanie w tym miejscu</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.36062195" lon="22.50350261">
+<name>23.70</name>
+<desc>Oznakowane ujście rzeki Kosódki z lewej</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.35902684" lon="22.49735292">
+<name>22.20</name>
+<desc>Oznakowane ujście rzeki Wissy z prawej</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.31732598" lon="22.46531963">
+<name>14.00</name>
+<desc>Pole biwakowe z wieżą widokową</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.21728364" lon="22.43030560">
+<name>0.00</name>
+<desc>Ujście Biebrzy do Narwi</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

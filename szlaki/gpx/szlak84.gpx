@@ -1,0 +1,155 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.85691900" lon="21.13954500">
+<name>101.22</name>
+<desc>Wygodne miejsce wodowania.</desc>
+<cmt>wypożyczalnia</cmt>
+</wpt>
+<wpt lat="53.84781600" lon="21.13661300">
+<name>100.22</name>
+<desc>Wypływ z jeziora Gielądzkiego</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.84104500" lon="21.13795100">
+<name>99.35</name>
+<desc>Wpływ na jezioro Lampackie</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.82145800" lon="21.15402800">
+<name>96.86</name>
+<desc>Początek jeziora Lampasz</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.80365000" lon="21.19361800">
+<name>93.04</name>
+<desc>Wypływ z jeziora Lampasz</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.79819300" lon="21.20854600">
+<name>91.82</name>
+<desc>Wpływ na jezioro Kujno</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.79195900" lon="21.22250900">
+<name>90.63</name>
+<desc>Wypływ z jeziora Kujno</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.78140600" lon="21.22414600">
+<name>89.30</name>
+<desc>Wpływ na jezioro Dłużec</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.75766500" lon="21.24073400">
+<name>86.43</name>
+<desc>Wypływ z jeziora Dłużec</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.75482600" lon="21.24645800">
+<name>85.92</name>
+<desc>Wpływ na jezioro Białe</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.72703200" lon="21.24198100">
+<name>82.70</name>
+<desc>Wypływ z jeziora Białego</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.72005600" lon="21.23912300">
+<name>81.44</name>
+<desc>Wpływ na jezioro Gant</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.69906900" lon="21.22875300">
+<name>78.83</name>
+<desc>Wypływ z jeziora Gant</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.67701700" lon="21.26323800">
+<name>73.77</name>
+<desc>Most drogowy, wygodne miejsce wodowania.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.66721900" lon="21.28598100">
+<name>71.00</name>
+<desc>Wpływ na jezioro Zyzdrój Wielki</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.61849500" lon="21.31997600">
+<name>64.59</name>
+<desc>Wypływ z jeziora Zyzdrój Mały</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.60717200" lon="21.34125300">
+<name>62.16</name>
+<desc>Wpływ na jezioro Spychowskie</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.60866700" lon="21.34592600">
+<name>61.47</name>
+<desc>Most drogowy, wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.62607600" lon="21.36208400">
+<name>57.33</name>
+<desc>Wpływ na jezioro Zdrużno</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.63159800" lon="21.37146600">
+<name>56.27</name>
+<desc>Most drogowy, wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.65271800" lon="21.37793200">
+<name>53.64</name>
+<desc>Most drogowy, wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.70655000" lon="21.40618500">
+<name>46.02</name>
+<desc>Jaz piętrzący wody jeziora Mokrego</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.68693000" lon="21.42836700">
+<name>40.79</name>
+<desc>Wygodne miejsce wodowania</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="53.68797800" lon="21.49849900">
+<name>28.29</name>
+<desc>Most drogowy, wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.75439600" lon="21.51970100">
+<name>16.40</name>
+<desc>Wpływ na jezioro Gardyńskie</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.74707800" lon="21.52047300">
+<name>15.57</name>
+<desc>Wpływ na jezioro Malinówka</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.73460500" lon="21.55114600">
+<name>11.76</name>
+<desc>Wpływ na jezioro Bełdany</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.66186100" lon="21.56802800">
+<name>2.43</name>
+<desc>Śluza Guzianka</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.64782700" lon="21.56825100">
+<name>0.00</name>
+<desc></desc>
+<cmt>sklep</cmt>
+</wpt>
+
+</gpx>

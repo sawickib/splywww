@@ -1,0 +1,40 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.95584045" lon="15.82931252">
+<name>13.80</name>
+<desc>Most na lokalnej drodze. Wygodny dostęp do wody. W pobliżu mostu mało jest miejsca na pozostawienie samochodów, znacznie więcej jest nieopodal, w centrum Mierzęcina</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.95808760" lon="15.83262718">
+<name>13.40</name>
+<desc>Po prawej stronie znajduje się wpływ na teren parku przy zadbanym zabytkowym zespole pałacowo-folwarcznym (Pałac Mierzęcin). Warto go zwiedzić chociażby ze względu na interesujący starodrzew (np 200 letni platan klonolistny o obwodzie pnia przekraczającym 6 m) i rzadko występującą roślinność parkową. Kajaki można przycumować do parkowego pomostu</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.96802249" lon="15.85095937">
+<name>10.40</name>
+<desc>Oznakowane ładne pole biwakowe (Biwak Mierzęcin), na skraju lasu, po prawej stronie rzeki. Znajdują się tu m.in. zadaszone stoliki, ławki oraz kubły na śmieci</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.96800606" lon="15.91100781">
+<name>2.90</name>
+<desc>Po prawej potencjalne miejsce na dziki biwak z ogniskiem na środku polanki. W pobliżu na górce znajduje się zamieszkałe gospodarstwo, warto więc spytać czy teren ten nie jest prywatną własnością</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.96883286" lon="15.91128409">
+<name>2.80</name>
+<desc>Most na lokalnej drodze, przed nim, po prawej, niewygodny wysoki pomost z drabinką</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.97168529" lon="15.94607492">
+<name>0.00</name>
+<desc>Ujście Mierzęckiej Strugi do Drawy. Najbliższe dogodne miejsce zakończenia spływu znajduje się w Hutniku (Hutnikach), po prawej stronie Drawy, około 4 km poniżej ujścia Mierzęckiej Strugi</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

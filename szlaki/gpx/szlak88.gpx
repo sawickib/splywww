@@ -1,0 +1,110 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.63940000" lon="21.81648000">
+<name>0.00</name>
+<desc>Wypływ rzeki z jeziora Roś. Łatwy do znalezienia: oznakowanie szlaku żeglownego i liczne cumujące jachty i motorówki.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.63126000" lon="21.81189000">
+<name>1.50</name>
+<desc>Most kolejowy, przed mostem na lewym brzgu knajpa.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.62897000" lon="21.81047000">
+<name>1.80</name>
+<desc>Most drogowy w pobliżu rynku.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.62701000" lon="21.80910000">
+<name>2.05</name>
+<desc>Kładka piesza. W pobliżu, na prawym brzegu restauracje i bary. Możliwość zacumowania kajaka.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.62429000" lon="21.80687000">
+<name>2.50</name>
+<desc>Most drogowy - obwodnica Pisza. Za mostem, na prawym brzegu fabryka sklejki.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.58911000" lon="21.82376000">
+<name>8.50</name>
+<desc>Ruiny przepompowni - punkt orientacyjny - nie należy się go bać.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.53174000" lon="21.84766000">
+<name>18.00</name>
+<desc>Most na lokalnej drodze, w środku lasu (5 km na prawym brzegu wieś Pogubie Tylne)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.54516000" lon="21.84678000">
+<name>15.00</name>
+<desc>Mały biwak na lewym brzegu: wyższy brzeg porośnięty resztkami sosnowego boru. W pobliżu (300 m) parking leśny przy drodze Pisz-Łomża.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.48732000" lon="21.86792000">
+<name>26.00</name>
+<desc>Most w pobliżu wsi Jeże (500 m na lewym brzegu)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.45975000" lon="21.86710000">
+<name>30.00</name>
+<desc>Ujście strumyczka Wincenta - granicy woj. Mazurskiego i Podlaskiego. Przed II W.Ś. granica pomiędzy Niemcami (Prusy Wschodnie) i II Rzeczypospolitą.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.45887000" lon="21.86397000">
+<name>30.50</name>
+<desc>Most w pobliżu wsi Wincenta</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.43345000" lon="21.83751000">
+<name>34.80</name>
+<desc>Ośrodek Rekreacyjno-Szkoleniowy Kozioł. Jadalnia. Wypożyczalnia kajaków.</desc>
+<cmt>bar</cmt>
+</wpt>
+<wpt lat="53.43049000" lon="21.83045000">
+<name>35.30</name>
+<desc>Most we wsi Kozioł. Za mostem boisko, za nim mini-plaża i dobre wyjście na brzeg. </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.39310000" lon="21.79200000">
+<name>42.80</name>
+<desc>Sklep na lewym brzegu, w pobliżu mostu drogowego w Ptakach.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="53.39096000" lon="21.79151000">
+<name>43.00</name>
+<desc>Na prawym brzegu pomost cumowniczy, za nim duże, zagospodarowane pole biwakowe.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.34347000" lon="21.79084000">
+<name>56.00</name>
+<desc>Most drogowy w Cieciorach.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.28602000" lon="21.86403000">
+<name>70.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.23443000" lon="21.86743000">
+<name>79.50</name>
+<desc>Most drogowy, na prawym brzegu wieś Morgowniki.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.23133000" lon="21.87309000">
+<name>79.80</name>
+<desc>Zagospodarowane przez pobliskie nadleśnictwo pole namiotowe z wiatą. Kiepskie wyjście z wody. Możliwość dojazdu samochodem (polna droga odchodzi w Morgownikach od drogi 648 na południe) i zakończenia spływu.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.22992000" lon="21.87208000">
+<name>80.50</name>
+<desc>Ujście Pisy do Narwii. Na przeciwnym, lewym brzegu Narwi  miasto Nowogród.</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

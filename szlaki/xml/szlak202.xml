@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="202" nazwa="Stara Drawa" wersja="1">
+<opis>Odcinek właściwej Drawy, zwany Starą Drawą. Zanim wody rzeki przekierowane zostały do elektrowni Borowo, większość wód Drawy płynęła właśnie tędy, co widać wyraźnie na XIX w. mapach. Prawie cały odcinek szlaku znajduje się na terenie czynnego poligonu, przepłynięcie nim wymaga zgody zarządzających poligonem.</opis> 
+    <punkt id="6659" miejscowosc="Borowo" 
+      ns="53.37839913" we="15.77272152" km="19.1" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Południowy kraniec jeziora Strunowo. Szlak Starej Drawy odgałęzia się w kierunku zachodnim, niewielką zatoczką</opispunktu> 
+    </punkt>
+    <punkt id="6660" miejscowosc="Borowo" 
+      ns="53.37826469" we="15.77159255" km="19" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka z przepławką dla ryb wędrownych z prawej strony. Nad konstrukcją znajduje się most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="6661" miejscowosc="Borowo" 
+      ns="53.35392281" we="15.73799796" km="11.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="6662" miejscowosc="Borowo" 
+      ns="53.35336677" we="15.7376136" km="11.3" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Pełknicy</opispunktu> 
+    </punkt>
+    <punkt id="6663" miejscowosc="Borowo" 
+      ns="53.32471315" we="15.75381742" km="5.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="6664" miejscowosc="Borowo" 
+      ns="53.3110022" we="15.77076205" km="1.2" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="6665" miejscowosc="Prostynia" 
+      ns="53.30907708" we="15.76979857" km="0.9" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony uchodzi rzeka Głęboka</opispunktu> 
+    </punkt>
+    <punkt id="6666" miejscowosc="Prostynia" 
+      ns="53.30936234" we="15.7760549" km="0" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie koryt Starej i Nowej Drawy</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

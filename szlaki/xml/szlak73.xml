@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="73" nazwa="Oława" wersja="3">
+<opis>Jeden z lewostronnych dopływów Odry, uchodzących do niej w granicach administracyjnych Wrocławia, znany również jako Oławka. Rzeka niezwykle ważna i cenna dla mieszkańców aglomeracji wrocławskiej, gdyż jej wody wykorzystywane są do zaopatrzenia w wodę pitną miasta. Ze względu na swój charakter i przeznaczenie, wody Oławy objęte są ochroną pośrednią i bezpośrednią ujęć, co sprawia m.in., że oficjalnie nie da się spłynąć szlaku w całości. Aby przepłynąć przez tereny wodonośne należy uzyskać specjalne zezwolenie. Odcinek do Jaczkowic spławny jest jedynie przy podwyższonych stanach, natomiast od Jaczkowic do ujścia, ze względu na przyjęcie wód Pępickiego (Psarskiego) Potoku, możliwy jest do spłynięcia praktycznie przez cały rok. Ciekawostką jest, że im większa susza i niedobory wód w rzekach, tym więcej wody tłoczone jest do Oławy Pępickim (Psarskim) Potokiem, a tym samym, większa szansa na udany spływ poniżej Jaczkowic.
+Odcinek z Wiązowa do Jaczkowic zajmuje około 4h przy stanie wodowskazów: Zborowice - 164, Oława - 136. Taka ilość wody jest wystarczająca i w żadnym miejscu nie ma problemów z przepłynięciem. Odcinek poniżej Jaczkowic, ze względu na to, że dostępny jest przez cały rok, oznakowany jest, jako szlak kajakowy i często wykorzystywany przez spływy komercyjne.</opis> 
+  <odcinek id="294" typ="rzeka" nazwa="Jaczkowice - Oława" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Przed Oławą odcinek rzeki nieuregulowanej, ponoć ciekawej wędkarsko. Pod mostami kamienie a przy amfiteatrze w Oławie jaz do spłynięcia lub obniesienia.</opis>
+    <punkt id="2657" miejscowosc="Oława" 
+      ns="50.9345057" we="17.29346326" km="31.7" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz o wysokości około 0,8m. Spływanie po rozpoznaniu przeszkody. Przenoska 20 m prawą stroną po trawie</opispunktu> 
+    </punkt>
+    <punkt id="2656" miejscowosc="Oława" 
+      ns="50.93328523" we="17.29242402" km="31.8" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy. Pod mostem kamienie</opispunktu> 
+    </punkt>
+    <punkt id="2655" miejscowosc="Oława" 
+      ns="50.93114031" we="17.29366265" km="32.2" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Pod mostem kamienie</opispunktu> 
+    </punkt>
+    <punkt id="2654" miejscowosc="Jaczkowice" 
+      ns="50.91506791" we="17.28386865" km="34.5" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 346 do Godzikowic. Wygodne miejsce wodowania i lądowania z dostępem do wody. Poniżej mostu, po prawej stronie stoi tablica informacyjna z kilometrażem rzeki. Po lewej stronie, około 70m od mostu znajduje się parking na kilka samochodów, przy bramie Młyna Jaczkowice</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="295" typ="rzeka" nazwa="Oława - Siechnice" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Odcinek dość monotonny, bezleśny. Wokół podmokłe łąki ale za to pełne ptactwa i dzikiej zwierzyny. Ze względu na trudny dostęp do wody, odcinek całkowicie bezludny. Na rzece możliwe zatory z pozostałości po bagrowaniu i pracach hydrotechnicznych bobrów. Sporo śladów bobrzej działalności.</opis>
+    <punkt id="2663" miejscowosc="Siechnice" 
+      ns="51.03999132" we="17.16054363" km="13.4" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg o wysokości około 1 m oznakowany, jako niespływalny</opispunktu> 
+    </punkt>
+    <punkt id="2662" miejscowosc="Siechnice" 
+      ns="51.03908175" we="17.16092053" km="13.5" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy. Na lewym brzegu, za wałem kąpielisko Błękitna Laguna</opispunktu> 
+    </punkt>
+    <punkt id="2661" miejscowosc="Groblice" 
+      ns="51.01559105" we="17.18606522" km="17.7" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze do Kotowic. Wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="2660" miejscowosc="Marcinkowice" 
+      ns="50.9930548" we="17.22863749" km="21.9" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze do Zakrzowa. Wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="2659" miejscowosc="Stanowice" 
+      ns="50.96710833" we="17.27501032" km="26.8" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze. Wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="2658" miejscowosc="Oława" 
+      ns="50.93555429" we="17.29391728" km="31.6" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w ciągu ul. Gazowej. Wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="296" typ="rzeka" nazwa="Tereny wodonośne" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis>Odcinek prowadzący przez tereny wodonośne dla miasta Wrocławia. Odcinek całkowicie zamknięty dla jakiejkolwiek działalności postronnej. Aby spłynąć tym odcinkiem należy uzyskać zgodę Zarządu MPWiK we Wrocławiu oraz służby ochrony terenów wodonośnych.</opis>
+    <punkt id="2666" miejscowosc="Wrocław" 
+      ns="51.08759015" we="17.09693582" km="4.8" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="most" kolejnosc="-1">Most z zastawką tzw. Barani Skok. Przenoska prawą stroną przez drogę - 30 m. Koniec terenów wodonośnych</opispunktu> 
+    </punkt>
+    <punkt id="2665" miejscowosc="Mokry Dwór" 
+      ns="51.07461679" we="17.1271862" km="8" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="2664" miejscowosc="Siechnice" 
+      ns="51.04275472" we="17.15816876" km="13" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="most" kolejnosc="-1">Most przy ul. Polnej. Za mostem, po lewej stronie wygodne miejsce zakończenia spływu. Poniżej Oława wpływa na tereny wodonośne Wrocławia, pływanie po których możliwe jest wyłącznie po uzyskaniu odpowiedniego zezwolenia</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="297" typ="rzeka" nazwa="Park Wschodni - Odra" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="3"> 
+  <opis>Odcinek rzeki prowadzący przez Park Wschodni a następnie przez jedną z najgorszych dzilelnic Wrocławia - tzw. trójkąt bermudzki. Na obszarze Parku spotkamy z pewnością wielu pomstujących na nas wędkarzy, natomiast pomiędzy mostami Na Niskich Łąkach oraz Na Grobli zobaczymy sporą ilość śmieci zsuwających się do rzeki od strony miasta oraz licznie przesiadujących nad rzeką miejscowych pijaczków. Na szczęście nie ma to większego wpływu na czystość wody w rzece, co najwyżej na walory estetyczne.</opis>
+    <punkt id="2670" miejscowosc="Wrocław" 
+      ns="51.10830841" we="17.05282841" km="0" etykieta="" 
+      kolejnosc="72"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Oławy do Odry tuż przed Mostem Grunwaldzkim</opispunktu> 
+    </punkt>
+    <punkt id="2669" miejscowosc="Wrocław" 
+      ns="51.10555503" we="17.05164849" km="0.3" etykieta="" 
+      kolejnosc="71"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Oławski w ciągu ul. Na Grobli</opispunktu> 
+    </punkt>
+    <punkt id="2668" miejscowosc="Wrocław" 
+      ns="51.09677305" we="17.05822484" km="1.5" etykieta="" 
+      kolejnosc="67"> 
+    <opispunktu typ="most" kolejnosc="-1">Most Rakowiecki w ciągu ul. Na Niskich Łąkach</opispunktu> 
+    </punkt>
+    <punkt id="2667" miejscowosc="Wrocław" 
+      ns="51.0870497" we="17.09278247" km="4.5" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz o wysokości około 1,5m, za którym prawa odnoga rzeki nazywana jest Oławą Dolną. Przenoska prawą stroną. Istnieje możliwość wykonania bardziej wygodnej przenoski przez las, należy 50m przed jazem popłynąć do końca prawej odnogi i przenieść kajaki na rzekę, około 30 m. Rzeka wpływa w obszar rekreacyjny Parku Wschodniego</opispunktu> 
+    </punkt>
+  </odcinek>
+    <punkt id="6465" miejscowosc="Witowice" 
+      ns="50.84531839" we="17.24296354" km="43.9" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Młyn, elektrownia wodna</opispunktu> 
+    </punkt>
+    <punkt id="6464" miejscowosc="Witowice" 
+      ns="50.84248362" we="17.24270511" km="44.3" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz, zastawka o wysokości około 1,5m + 5m pochylni. Przenoska lewym brzegiem. Poniżej znacznie węziej i płycej na żwirowych przemiałach. Koryto meandruje, a pokonanie niektórych przewróconych drzew wymaga współpracy</opispunktu> 
+    </punkt>
+    <punkt id="6463" miejscowosc="Witowice" 
+      ns="50.84206897" we="17.24151016" km="44.4" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Zaraz za połączeniem następuje kolejny rozdział wód, tym razem z piętrzeniem. W lewo, po stojącej wodzie dopływa się do ładnego, wysokiego budynku starego młyna (dzisiaj MEW), natomiast w prawo należy pokonać widoczny próg</opispunktu> 
+    </punkt>
+    <punkt id="6462" miejscowosc="Kalinowa" 
+      ns="50.84066157" we="17.24214199" km="44.5" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Powrót młynówki do starorzecza</opispunktu> 
+    </punkt>
+    <punkt id="6461" miejscowosc="Kalinowa" 
+      ns="50.83720116" we="17.24330045" km="44.9" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek przy młynie, bez piętrzenia wody</opispunktu> 
+    </punkt>
+    <punkt id="6460" miejscowosc="Kalinowa" 
+      ns="50.83680656" we="17.24268891" km="45" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Bród przez kanał młyński</opispunktu> 
+    </punkt>
+    <punkt id="6459" miejscowosc="Kalinowa" 
+      ns="50.83595766" we="17.2365075" km="45.5" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Betonowo ceglane przyczółki po jakiejś budowli. Prawdopodobnie była tu zastawka, która piętrzyła i umożliwiała odpływ wody na młynówkę</opispunktu> 
+    </punkt>
+    <punkt id="6458" miejscowosc="Kalinowa" 
+      ns="50.83382094" we="17.23572142" km="45.7" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przed Kalinową zaczyna się krótki, ale bardzo atrakcyjny fragment rzeki. Bez żadnego piętrzenia Oława dzieli się na dwie odnogi. W lewo do lasu wpływa zasadnicze, szerokie starorzecze, natomiast w prawo odbija wartki wyprostowany kanał młyński. W zależności od ilości wody, można wpłynąć zarówno w jeden, jak i w drugi wariant. Młynówka jest bardziej wartka i wyprostowana, bez przeszkód (przy młynie wybudowany jest betonowy próg, jednak nie piętrzy on wody), natomiast o wiele bardziej atrakcyjne jest starorzecze. Płynie, kręcąc przez liściasty las z licznymi wielkimi starymi dębami. Część z nich leży już w wodzie, czyniąc ten odcinek zwałkowym. Przeszkody nie są trudne do pokonania i nie wymagają współpracy zespołowej. Można też zatoczyć pętlę bez wysiadania z kajaka, biorąc jednak pod uwagę, że początkowy odcinek młynówki jest dość wartki. Tak więc, jeśli szybko i do przodu, to w prawo, a jeśli wolniej i z doznaniami estetycznymi, to w lewo</opispunktu> 
+    </punkt>
+    <punkt id="6457" miejscowosc="Wiązów" 
+      ns="50.82745228" we="17.22480435" km="46.8" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski betonowy prożek tworzący bystrze</opispunktu> 
+    </punkt>
+    <punkt id="6456" miejscowosc="Wiązów" 
+      ns="50.82521284" we="17.2160227" km="47.5" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg betonowy o wysokości około 0,8m, tym razem bez szykan, o równej i prostej koronie</opispunktu> 
+    </punkt>
+    <punkt id="6455" miejscowosc="Wiązów" 
+      ns="50.82456952" we="17.2151564" km="47.6" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka z wodowskazem na dolnej wodzie. W zimie była podniesiona i nie piętrzyła wody</opispunktu> 
+    </punkt>
+    <punkt id="6454" miejscowosc="Wiązów" 
+      ns="50.8193639" we="17.20508223" km="48.6" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg betonowy o podobnej konstrukcji do poprzedniego, ale o połowę niższy (uwaga na poprzeczne betonowe szykany). Poniżej progu poprzeczny pas kamieni</opispunktu> 
+    </punkt>
+    <punkt id="6453" miejscowosc="Wiązów" 
+      ns="50.81938525" we="17.20457023" km="48.7" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy na gruntowej drodze do Witowic</opispunktu> 
+    </punkt>
+    <punkt id="6452" miejscowosc="Wiązów" 
+      ns="50.81881758" we="17.19805838" km="49.1" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg betonowy o wysokości około 1m. Na koronie dwie betonowe poprzeczne szykany, pomiędzy które należy trafić podczas spływania progiem. Przy wyższej wodzie poniżej tworzy się odwój, osobom mniej doświadczonym zalecam obniesienie progu, po trawie, lewą lub prawą stroną, na odległość około 30m, za betonowe obmurowanie, poniżej kamiennego prożka</opispunktu> 
+    </punkt>
+    <punkt id="6451" miejscowosc="Wiązów" 
+      ns="50.81697489" we="17.19447957" km="49.5" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Powrót kanału młyńskiego z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="6450" miejscowosc="Wiązów" 
+      ns="50.81610613" we="17.19359138" km="49.6" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze w kierunku Oławy. Wygodny dostęp do wody, z możliwością zjazdu samochodem pomiędzy wał, a rzekę. W pobliżu sporo miejsca na samochody. Poniżej odcinek otwartego terenu, obwałowany, koryto wyprostowane i uregulowane z pojedynczymi drzewami i krzakami, dość monotonny. Jedynym urozmaiceniem na tym odcinku są betonowe progi</opispunktu> 
+    </punkt>
+    <punkt id="6449" miejscowosc="Krzepice" 
+      ns="50.78774439" we="17.12421728" km="56.25" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Krynki z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="6466" miejscowosc="Witowice" 
+      ns="50.84643223" we="17.24491153" km="43.7" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Sklepiony most na drodze do Oleśnicy Małej</opispunktu> 
+    </punkt>
+    <punkt id="6467" miejscowosc="Witowice" 
+      ns="50.84775863" we="17.24500448" km="43.6" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most autostrady A4</opispunktu> 
+    </punkt>
+    <punkt id="6468" miejscowosc="Witowice" 
+      ns="50.84850708" we="17.2451284" km="43.5" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy bez barierek</opispunktu> 
+    </punkt>
+    <punkt id="6469" miejscowosc="Witowice" 
+      ns="50.84945615" we="17.24539124" km="43.4" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski prożek betonowy, tworzący bystrze</opispunktu> 
+    </punkt>
+    <punkt id="6470" miejscowosc="Witowice" 
+      ns="50.85017162" we="17.24538213" km="43.3" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Powrót kanału młyńskiego z lewej strony. Poniżej, w dalszym ciągu ładnie i zwałkowo. Po prawej, na wysokim, suchym brzegu rośnie las sosnowy, a w korycie leżą potężne dęby</opispunktu> 
+    </punkt>
+    <punkt id="6471" miejscowosc="Siecieborowice" 
+      ns="50.87027203" we="17.2475847" km="40.9" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg betonowy o wysokości około 1m. Przy wyższej wodzie tworzy się tu odwój. Osobom mniej doświadczonym zalecam obnieść to miejsce, prawym brzegiem na odległość około 40m. Koniec obszaru zalesionego i zwałek. Poniżej teren otwarty z krzakami, łozami, trzcinami i pojedynczymi drzewami wzdłuż brzegu</opispunktu> 
+    </punkt>
+    <punkt id="6472" miejscowosc="Drzemlikowice" 
+      ns="50.87576094" we="17.24706141" km="40.2" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg betonowy o wysokości około 0,8m</opispunktu> 
+    </punkt>
+    <punkt id="6473" miejscowosc="Drzemlikowice" 
+      ns="50.87852321" we="17.24819087" km="39.9" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="6474" miejscowosc="Drzemlikowice" 
+      ns="50.88037957" we="17.25002767" km="39.7" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Gnojna z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="6475" miejscowosc="Jakubowice" 
+      ns="50.88300752" we="17.254013" km="39.2" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski prożek tworzący bystrze. Dalej odnosi się wrażenie, że rzeka nieco przyspiesza</opispunktu> 
+    </punkt>
+    <punkt id="6476" miejscowosc="Jakubowice" 
+      ns="50.88933203" we="17.25927568" km="38.4" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski prożek tworzący bystrze</opispunktu> 
+    </punkt>
+    <punkt id="6477" miejscowosc="Jakubowice" 
+      ns="50.88987482" we="17.25976721" km="38.3" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="6478" miejscowosc="Niwnik" 
+      ns="50.89338475" we="17.2622728" km="37.9" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski prożek - bystrze</opispunktu> 
+    </punkt>
+    <punkt id="6479" miejscowosc="Niwnik" 
+      ns="50.89567664" we="17.26744003" km="37.4" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy, za nim prożek kamienny tworzący bystrze</opispunktu> 
+    </punkt>
+    <punkt id="6480" miejscowosc="Niwnik" 
+      ns="50.89864309" we="17.27313588" km="36.9" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niski prożek - bystrze</opispunktu> 
+    </punkt>
+    <punkt id="6481" miejscowosc="Jaczkowice" 
+      ns="50.90851414" we="17.28537206" km="35.3" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Drewniana kładka, pod nią próg o wysokości około 0,8m, a za nim kamienne bystrze</opispunktu> 
+    </punkt>
+    <punkt id="6482" miejscowosc="Jaczkowice" 
+      ns="50.90885451" we="17.28528318" km="35.25" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Pępickiego (Psarskiego) Potoku z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="6483" miejscowosc="Jaczkowice" 
+      ns="50.90900885" we="17.28517519" km="35.2" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg betonowy. Przy wyższej wodzie tworzy się tu krótki odwój. Za progiem kamienne bystrze</opispunktu> 
+    </punkt>
+    <punkt id="6484" miejscowosc="Jaczkowice" 
+      ns="50.91560802" we="17.28472648" km="34.4" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek - bystrze</opispunktu> 
+    </punkt>
+    <punkt id="6485" miejscowosc="Oława" 
+      ns="50.93918553" we="17.2917273" km="31.2" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Kładka przy szkole, a za nią próg, którego nie zaleca się spływać osobom mniej doświadczonym</opispunktu> 
+    </punkt>
+    <punkt id="6486" miejscowosc="Oława" 
+      ns="50.9442044" we="17.29125525" km="30.6" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Most ul. Strzelna</opispunktu> 
+    </punkt>
+    <punkt id="6487" miejscowosc="Oława" 
+      ns="50.94701265" we="17.29201041" km="30.3" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 94</opispunktu> 
+    </punkt>
+    <punkt id="6488" miejscowosc="Oława" 
+      ns="50.95476791" we="17.29574496" km="29" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze do miejscowości Siedlce. Poniżej odcinek dość monotonny, bezleśny. Wokół podmokłe łąki ale za to pełne ptactwa i dzikiej zwierzyny. Na rzece możliwe zatory z pozostałości po bagrowaniu i pracach hydrotechnicznych bobrów</opispunktu> 
+    </punkt>
+    <punkt id="6489" miejscowosc="Oława" 
+      ns="50.95549629" we="17.29454066" km="28.9" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek - bystrze</opispunktu> 
+    </punkt>
+    <punkt id="6490" miejscowosc="Stanowice" 
+      ns="50.96732248" we="17.27466681" km="26.7" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek - bystrze</opispunktu> 
+    </punkt>
+    <punkt id="6491" miejscowosc="Marcinkowice" 
+      ns="50.99657155" we="17.21830999" km="21" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wyspa</opispunktu> 
+    </punkt>
+    <punkt id="6492" miejscowosc="Durok" 
+      ns="51.00839639" we="17.20058847" km="19" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wyspa</opispunktu> 
+    </punkt>
+    <punkt id="6493" miejscowosc="Siechnice" 
+      ns="51.0458594" we="17.15478975" km="12.6" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most Wschodniej Obwodnicy Wrocławia</opispunktu> 
+    </punkt>
+    <punkt id="6494" miejscowosc="Mokry Dwór" 
+      ns="51.07067964" we="17.13381756" km="8.8" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz Mokry Dwór</opispunktu> 
+    </punkt>
+    <punkt id="6495" miejscowosc="Wrocław" 
+      ns="51.08637994" we="17.0927478" km="4.4" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Wąski jaz w lewo na Górną Oławę, niewygodny i obmurowany</opispunktu> 
+    </punkt>
+    <punkt id="6496" miejscowosc="Wrocław" 
+      ns="51.08486208" we="17.09110985" km="4.2" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście rzeki Zielona do Górnej Oławy</opispunktu> 
+    </punkt>
+    <punkt id="6497" miejscowosc="Wrocław" 
+      ns="51.08511141" we="17.08825836" km="4" etykieta="" 
+      kolejnosc="62"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Rozdział wód. W lewo, prawie stojąca woda na dalszy ciąg Górnej Oławy, natomiast w prawo, bystrzem pod mostek, łącznik do Dolnej Oławy</opispunktu> 
+    </punkt>
+    <punkt id="6498" miejscowosc="Wrocław" 
+      ns="51.08702916" we="17.08542818" km="3.9" etykieta="" 
+      kolejnosc="63"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie Dolnej Oławy oraz łącznika od Górnej Oławy, niosącego również wody rzeki Zielona</opispunktu> 
+    </punkt>
+    <punkt id="6499" miejscowosc="Wrocław" 
+      ns="51.089272" we="17.0823484" km="3.6" etykieta="" 
+      kolejnosc="64"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony, całkowicie zarośnięte trzcinami ujście Górnej Oławy</opispunktu> 
+    </punkt>
+    <punkt id="6500" miejscowosc="Wrocław" 
+      ns="51.09189469" we="17.08031984" km="3.3" etykieta="" 
+      kolejnosc="65"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pałac Hollenderów na prawym brzegu</opispunktu> 
+    </punkt>
+    <punkt id="6501" miejscowosc="Wrocław" 
+      ns="51.09123482" we="17.07326755" km="2.7" etykieta="" 
+      kolejnosc="66"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka Siedlecka do zalesionych terenów rekreacyjnych. Poniżej, odcinek rzeki prowadzący przez tereny spacerowe i rekreacyjne. Na obydwu brzegach spotkamy z pewnością wielu wędkarzy</opispunktu> 
+    </punkt>
+    <punkt id="6502" miejscowosc="Wrocław" 
+      ns="51.09949298" we="17.05726989" km="1.1" etykieta="" 
+      kolejnosc="68"> 
+    <opispunktu typ="most" kolejnosc="-1">Żabia Kładka</opispunktu> 
+    </punkt>
+    <punkt id="6503" miejscowosc="Wrocław" 
+      ns="51.10026297" we="17.05694424" km="1" etykieta="" 
+      kolejnosc="69"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz Małgorzata. W zależności od ilości wody, istnieje możliwość względnie bezpiecznego przepłynięcia przez zastawkę. Przenoska lewym brzegiem wokół budynku, przez drewniany pomost. Wyjście z wody niezbyt wygodne na stromy betonowy brzeg</opispunktu> 
+    </punkt>
+    <punkt id="6504" miejscowosc="Wrocław" 
+      ns="51.10327923" we="17.05506744" km="0.7" etykieta="" 
+      kolejnosc="70"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka Na Groblę w ciągu ul. Szybkiej</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="84" nazwa="Krutynia" wersja="1">
+<opis>Rzeka na Pojezierzu Mazurskim. Słynny w Polsce i za granicą szlak kajakowy.  Nurt Krutyni jest wolny, a rzeka tworzy liczne zakola, szczególnie w środkowej, zabagnionej części rezerwatu.
+Bieg Krutyni pod względem hydrologicznym rozpoczyna się na terenach otaczających Jezioro Warpuńskie. Na pojezierzach jednak zwyczajowo przyjmuje się nieco inne kryteria nazewnictwa. Rzeki zmieniają nazwy zawsze (lub prawie zawsze) wtedy, gdy przepływają przez jezioro, które zbiera wodę z innych, dodatkowych rzek i cieków. Według takiego kryterium Krutynia zaczyna się w Jeziorze Krutyńskim, a kończy w Jeziorze Bełdany, gdzie wpływa do Systemu Wielkich Jezior Mazurskich. Zatem Krutynia w swoim różnym biegu przyjmuje różne nazwy. Między początkowymi jeziorami nie ma nazwy, następnie przyjmuje kolejno: Sobiepanka, Grabówka, Dąbrówka, Babięcka Struga, Struga Spychowska, aż w końcu Krutynia. Szlak kajakowy Krutyni przebiega przez Puszczę Piską, a od Jeziora Mokrego także przez Mazurski Park Krajobrazowy. Długość szlaku wynosi 102 km, w tym 60 km to woda stojąca. Najpopularniejsza trasa spływu rozpoczyna się w Sorkwitach i kończy w miejscowości Ruciane-Nida.
+Jedną z ciekawostek na szlaku jest 1,5-kilometrowy odcinek rzeczki Sobiepanka (niedaleko Sorkwit), której nurt może płynąć w obie strony (wg Wikipedii).</opis> 
+  <odcinek id="343" typ="mieszany" nazwa="Gieląd - Gant" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Odcinek jeziorowo-rzeczny, raczej odsłonięty. Na jeziorze Białym możliwość dużej fali.</opis>
+    <punkt id="2855" miejscowosc="Stary Gieląd" 
+      ns="53.856919" we="21.139545" km="101.22" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1">Wygodne miejsce wodowania.</opispunktu> 
+    </punkt>
+    <punkt id="2856" miejscowosc="Stary Gieląd" 
+      ns="53.847816" we="21.136613" km="100.22" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Gielądzkiego</opispunktu> 
+    </punkt>
+    <punkt id="2857" miejscowosc="Sorkwity" 
+      ns="53.841045" we="21.137951" km="99.35" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Lampackie</opispunktu> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1">Wypozyczalnia na stanicy PTTK</opispunktu> 
+    <opispunktu typ="stanica" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2858" miejscowosc="Głodowo" 
+      ns="53.821458" we="21.154028" km="96.86" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Początek jeziora Lampasz</opispunktu> 
+    </punkt>
+    <punkt id="2859" miejscowosc="Borowski Las" 
+      ns="53.80365" we="21.193618" km="93.04" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Lampasz</opispunktu> 
+    </punkt>
+    <punkt id="2860" miejscowosc="Grabowo" 
+      ns="53.798193" we="21.208546" km="91.82" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Kujno</opispunktu> 
+    </punkt>
+    <punkt id="2861" miejscowosc="Grabowo" 
+      ns="53.791959" we="21.222509" km="90.63" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Kujno</opispunktu> 
+    </punkt>
+    <punkt id="2862" miejscowosc="Borowe" 
+      ns="53.781406" we="21.224146" km="89.3" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Dłużec</opispunktu> 
+    </punkt>
+    <punkt id="2863" miejscowosc="Dłużec" 
+      ns="53.757665" we="21.240734" km="86.43" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Dłużec</opispunktu> 
+    </punkt>
+    <punkt id="2864" miejscowosc="Dłużec" 
+      ns="53.754826" we="21.246458" km="85.92" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Białe</opispunktu> 
+    </punkt>
+    <punkt id="2865" miejscowosc="Gant" 
+      ns="53.727032" we="21.241981" km="82.7" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Białego</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="344" typ="mieszany" nazwa="Gant - Mokre" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Odcinek trasy w otoczeniu lasów. Za jeziorem Gant warto odbić w prawo pod prąd ciekiem w kierunku jeziora Tejsowo i dalej w kierunku Karwienka. Ładne miejsca biwakowe i, co ważne - bezludne.</opis>
+    <punkt id="2866" miejscowosc="Gant" 
+      ns="53.720056" we="21.239123" km="81.44" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Gant</opispunktu> 
+    </punkt>
+    <punkt id="2867" miejscowosc="Gant" 
+      ns="53.699069" we="21.228753" km="78.83" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Gant</opispunktu> 
+    </punkt>
+    <punkt id="2868" miejscowosc="Babięta" 
+      ns="53.677017" we="21.263238" km="73.77" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="stanica" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Młyn</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska 80m prawą stroną</opispunktu> 
+    </punkt>
+    <punkt id="2869" miejscowosc="Nowy Zyzdrój" 
+      ns="53.667219" we="21.285981" km="71" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Zyzdrój Wielki</opispunktu> 
+    </punkt>
+    <punkt id="2870" miejscowosc="Spychowo" 
+      ns="53.618495" we="21.319976" km="64.59" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Zyzdrój Mały</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz pietrzący wodę jeziora Zyzdrój Mały, śluza Lalka</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska 8om prawą stroną</opispunktu> 
+    </punkt>
+    <punkt id="2871" miejscowosc="Spychowo" 
+      ns="53.607172" we="21.341253" km="62.16" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Spychowskie</opispunktu> 
+    </punkt>
+    <punkt id="2872" miejscowosc="Spychowo" 
+      ns="53.608667" we="21.345926" km="61.47" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2873" miejscowosc="Połom" 
+      ns="53.626076" we="21.362084" km="57.33" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Zdrużno</opispunktu> 
+    </punkt>
+    <punkt id="2874" miejscowosc="Koczek" 
+      ns="53.631598" we="21.371466" km="56.27" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="2875" miejscowosc="Zgon" 
+      ns="53.652718" we="21.377932" km="53.64" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania</opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Mokre</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="345" typ="rzeka" nazwa="Krutynia" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis>Najładniejszy odcinek rzeki. O atrakcyjności odcinka a więc i o czystości wody świadczy obecność gąbek słodkowodnych. Niestety w sezonie miejsce mocno obciążone turystycznie.</opis>
+    <punkt id="2876" miejscowosc="Krutyń" 
+      ns="53.70655" we="21.406185" km="46.02" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący wody jeziora Mokrego</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska 25m prawą stroną</opispunktu> 
+    </punkt>
+    <punkt id="2877" miejscowosc="Krutyń" 
+      ns="53.68693" we="21.428367" km="40.79" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="sklep" kolejnosc="-1">Wygodne miejsce wodowania</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2878" miejscowosc="Ukta" 
+      ns="53.687978" we="21.498499" km="28.29" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, wygodne miejsce wodowania</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1"></opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="346" typ="mieszany" nazwa="Iznota - Ruciane" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL3" 
+      kolejnosc="3"> 
+  <opis>Dopływamy do kompleksu wielkich jezior. Na szlaku pojawiają się żaglówki, ryk silników motorówek i hałas tranzystorów. Woda mętnieje, zaczyna śmierdzieć i mienić się tęczą rozlanych olejów silnikowych. Na wodzie słychać gromkie porykiwania a tematem przewodnim są słowa powszechnie uznawane za obelżywe. Pojawiają się śmieci a brzegi są zapaskudzone ludzkimi ekstrementami - już bezpieczniej jest pozostać w kajaku. Lepiej omijać to miejsce, ewentualnie błyskawicznie powiosłować na jezioro Nidzkie - tam jest strefa ciszy... i wszystko wraca do normy....</opis>
+    <punkt id="2879" miejscowosc="Iznota" 
+      ns="53.754396" we="21.519701" km="16.4" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Gardyńskie</opispunktu> 
+    </punkt>
+    <punkt id="2880" miejscowosc="Iznota" 
+      ns="53.747078" we="21.520473" km="15.57" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Malinówka</opispunktu> 
+    </punkt>
+    <punkt id="2881" miejscowosc="Iznota" 
+      ns="53.734605" we="21.551146" km="11.76" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wpływ na jezioro Bełdany</opispunktu> 
+    </punkt>
+    <punkt id="2882" miejscowosc="Guzianka" 
+      ns="53.661861" we="21.568028" km="2.43" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Śluza Guzianka</opispunktu> 
+    </punkt>
+    <punkt id="2883" miejscowosc="Ruciane-Nida" 
+      ns="53.647827" we="21.568251" km="0" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="sklep" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="stanica" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="wypożyczalnia" kolejnosc="-1">Koniec jeziora Guzianka Wielka</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="91" nazwa="Samica Obornicka" wersja="1">
+<opis>Samica Obornicka (Samica Kierska) ? lewy dopływ Warty. Jej źródła znajdują się w niewielkim, bagnistym zagłębieniu położonym około 1,5 km na zachód od Jeziora Kierskiego. Do tego jeziora też wpływa w jego północno-zachodnim krańcu, a wypływa w północno-wschodnim. Następnie przepływa przez Jezioro Kierskie Małe i kieruje się na północ, aby skręcić na północny zachód w kierunku Warty. Dolina Samicy jest zabagniona, szczególnie w pobliżu wsi Objezierze, gdzie rzeka płynie w rynnie osuszonego jeziora. W dolnym odcinku bieg Samicy staje się bardziej kręty, a brzegi porasta las. Uchodzi do Warty naprzeciwko Kiszewa (wg Wikipedii).
+
+W lutym 2007 roku stan wody był wysoki i nie było problemów z ilością cm wody pod kilem (spływ od Jez Kiekrz). Spływ można kończyć przy samym ujściu lub popłynąć około 1 km w górę Warty do miejscowości Kiszewo, gdzie prom i droga do niego może być udanym logistycznie końcem spływu (zarówno na prawym jak i lewym brzegu).
+</opis> 
+    <punkt id="3126" miejscowosc="Mrowino" 
+      ns="52.513003" we="16.711333" km="38.59" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="przenoska" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Niski mostek</opispunktu> 
+    </punkt>
+    <punkt id="3125" miejscowosc="Mrowino" 
+      ns="52.515921" we="16.70766" km="38.93" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z jeziorka, stawu - S kraniec</opispunktu> 
+    </punkt>
+    <punkt id="3124" miejscowosc="Mrowino" 
+      ns="52.516288" we="16.706663" km="39.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wodowanie na N krańcu jeziorka, stawu</opispunktu> 
+    </punkt>
+    <punkt id="3127" miejscowosc="Mrowino" 
+      ns="52.501151" we="16.716168" km="37.04" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    </punkt>
+    <punkt id="3128" miejscowosc="Napachanie" 
+      ns="52.488451" we="16.726981" km="35.36" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    </punkt>
+    <punkt id="3129" miejscowosc="Napachanie" 
+      ns="52.487245" we="16.730023" km="35.11" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+  </odcinek>
+    <punkt id="3130" miejscowosc="Kiekrz" 
+      ns="52.472795" we="16.789951" km="30.02" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z jeziora Kiekrz</opispunktu> 
+    </punkt>
+    <punkt id="3131" miejscowosc="Kiekrz" 
+      ns="52.47476" we="16.790354" km="29.78" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3132" miejscowosc="Kiekrz" 
+      ns="52.475097" we="16.791124" km="29.72" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3133" miejscowosc="Kiekrz" 
+      ns="52.481651" we="16.79621" km="28.69" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka</opispunktu> 
+    </punkt>
+    <punkt id="3134" miejscowosc="Kiekrz" 
+      ns="52.485058" we="16.796458" km="28.26" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3135" miejscowosc="Kiekrz" 
+      ns="52.485705" we="16.791671" km="27.8" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Jezioro Małe Kierskie</opispunktu> 
+    </punkt>
+    <punkt id="3136" miejscowosc="Pawłowice" 
+      ns="52.491478" we="16.785921" km="27.04" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z jaziora Małego Kierskiego</opispunktu> 
+    </punkt>
+    <punkt id="3137" miejscowosc="Pawłowice" 
+      ns="52.499377" we="16.787024" km="26.09" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="3138" miejscowosc="Sobota" 
+      ns="52.52208" we="16.78569" km="22.97" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="3139" miejscowosc="Rostworowo" 
+      ns="52.53648" we="16.784117" km="21.28" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek leśny</opispunktu> 
+    </punkt>
+    <punkt id="3140" miejscowosc="Zielątkowo" 
+      ns="52.544942" we="16.785633" km="20.27" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście potoku</opispunktu> 
+    </punkt>
+    <punkt id="3141" miejscowosc="Zielątkowo" 
+      ns="52.547398" we="16.788283" km="19.87" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście z jeziora Leśnego</opispunktu> 
+    </punkt>
+    <punkt id="3142" miejscowosc="Zielątkowo" 
+      ns="52.556162" we="16.788477" km="18.89" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    </punkt>
+    <punkt id="3143" miejscowosc="Zielątkowo" 
+      ns="52.55701" we="16.788439" km="18.81" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="3144" miejscowosc="Kowalewko" 
+      ns="52.58613" we="16.772331" km="15.15" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="3145" miejscowosc="Kowalewko" 
+      ns="52.59177" we="16.763561" km="14.12" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Młyn</opispunktu> 
+    </punkt>
+    <punkt id="3146" miejscowosc="Objezierze" 
+      ns="52.600532" we="16.752391" km="12.8" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="3147" miejscowosc="Objezierze" 
+      ns="52.601741" we="16.751994" km="12.67" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Próg</opispunktu> 
+    </punkt>
+    <punkt id="3148" miejscowosc="Objezierze" 
+      ns="52.604861" we="16.748391" km="12.38" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka</opispunktu> 
+    </punkt>
+    <punkt id="3149" miejscowosc="Żukowo" 
+      ns="52.617246" we="16.735886" km="10.59" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="3150" miejscowosc="Żukowo" 
+      ns="52.619353" we="16.730277" km="10.06" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście kanału po lewej</opispunktu> 
+    </punkt>
+    <punkt id="3151" miejscowosc="Żukowo" 
+      ns="52.625907" we="16.720458" km="9.07" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście kanału po lewej</opispunktu> 
+    </punkt>
+    <punkt id="3152" miejscowosc="Chrustowo" 
+      ns="52.633263" we="16.715219" km="8.1" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+  </odcinek>
+    <punkt id="3153" miejscowosc="Niemieczkowo" 
+      ns="52.646403" we="16.704544" km="6.12" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    </punkt>
+    <punkt id="3154" miejscowosc="Niemieczkowo" 
+      ns="52.653213" we="16.699673" km="5.02" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="3155" miejscowosc="Ruks" 
+      ns="52.670194" we="16.676096" km="0.81" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Próg</opispunktu> 
+    </punkt>
+    <punkt id="3156" miejscowosc="Ruks" 
+      ns="52.669736" we="16.66939" km="0.66" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Ruks Młyn - most</opispunktu> 
+    </punkt>
+    <punkt id="3157" miejscowosc="Ruks" 
+      ns="52.672103" we="16.664927" km="0" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Samicy do Warty</opispunktu> 
+    </punkt>
+    <punkt id="3158" miejscowosc="Rogierówko" 
+      ns="52.474072" we="16.75478" km="32.63" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3159" miejscowosc="Rogierówko" 
+      ns="52.470998" we="16.761649" km="32" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    </punkt>
+    <punkt id="3160" miejscowosc="Rogierówko" 
+      ns="52.470994" we="16.762231" km="31.96" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Jezioro Kiekrz</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

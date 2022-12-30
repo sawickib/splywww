@@ -1,0 +1,480 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.09424000" lon="17.78548000">
+<name>0.00</name>
+<desc>Duży zorganizowany biwak na prawym brzegu. Na ulicy Lipowej 12. Niestety nie ma wiat :(</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.08897000" lon="17.80251000">
+<name>2.50</name>
+<desc>Betonowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.08391000" lon="17.81412000">
+<name>3.50</name>
+<desc>most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.06070000" lon="17.83819000">
+<name>6.00</name>
+<desc>drewniany mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.05548000" lon="17.83842000">
+<name>8.50</name>
+<desc>Ujście kanałku do Wdy, łączącego ją z jeziorem Ostry.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.05421000" lon="17.84634000">
+<name>9.00</name>
+<desc>Drewniany mostek drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.05270000" lon="17.84828000">
+<name>9.30</name>
+<desc>Ujście Wdy do j. Schodno</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.05301000" lon="17.85859000">
+<name>10.00</name>
+<desc>Miejsce do biwakowania na leśnej polanie na lewym brzegu jeziora Schodno.Nic specjalnie ciekawego. Kompletnie zacienione.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.04728000" lon="17.87156000">
+<name>10.70</name>
+<desc>Duże zorganizowane pole PTTK na prawym brzegu przy ujściu z j. Schodno.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.04962000" lon="17.88889000">
+<name>12.00</name>
+<desc>Pierwszy most w Loryńcu, drewniany.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.04851000" lon="17.89266000">
+<name>12.40</name>
+<desc>Ujście rzeki Trzebiocha do Wdy.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.04559000" lon="17.89777000">
+<name>13.00</name>
+<desc>Most betonowy, drogowy. Pod mostem bystrze, które ciągnie się przez 20 metrów. Uwaga ! przy lewym brzegu stalowe kołki.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.01821000" lon="17.89309000">
+<name>17.50</name>
+<desc>Mostek, a właściwie drewniana kładka.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.01753000" lon="17.89309000">
+<name>17.70</name>
+<desc>Ujście Wdy do jeziora Radolne, które jest połączone z j. Wdzydze. Szerokie, łatwe do znalezienia.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.01142000" lon="17.93182000">
+<name>21.50</name>
+<desc>Prywatna łąka nad jeziorem, można przybić i biwakować po uzgodnieniu z właścicielem. Niedaleko sklep.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>We Wdzydzach jest kilka dobrze zaopatrzonych w sezonie sklepów.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="53.99064000" lon="17.89985000">
+<name>25.00</name>
+<desc>Bardzo dobre miejsce biwakowe na zachodnim brzegu wyspy Ostrów Wielki.Pomost, ale poza tym nie ma udogodnień.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.95579000" lon="17.91745000">
+<name>28.50</name>
+<desc>Jazy przy ujściu Wdy z jeziora Wdzydzkiego.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Koło przenoski, nad jeziorem jest całkiem duży barek, duży 
+wybór ryb smażonych.
+W Borsku u ujścia Wdy z jeziora,na wysokości kąpieliska,w ośrodku
+Carnowodzianka znajduje się Cafe Bazaar, sezonowa knajpka prowadzona przez
+cooka z polskich promów,opisana swego czasu przez Piotra Bikonta w Magazynie
+GW.</desc>
+<cmt>bar</cmt>
+</wpt>
+<wpt lat="53.94893000" lon="17.92134000">
+<name>29.20</name>
+<desc>Drogowy most betonowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.94143000" lon="17.93592000">
+<name>30.50</name>
+<desc>Przenoska w celu ominięcia kanału Wdy. Dosyć łatwa 15 metrów i to zdecydowanie w dół.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="53.91951000" lon="17.95483000">
+<name>33.50</name>
+<desc>Drewniany most drogowy na piaszczystej drodze.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.91031000" lon="17.96499000">
+<name>35.50</name>
+<desc>Wysoki most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.90210000" lon="17.97952000">
+<name>37.00</name>
+<desc>Duże przygotowane pole biwakowe, stoły, sławojka. Płatne w sklepie 3zł/osoby.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Tuż przed Miedznem duże, zorganizowane pole biwakowe PTTK. Na lewym, dosyć wysokim brzegu.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.90075000" lon="17.97749000">
+<name>37.50</name>
+<desc>Mostek drewniany, niestety dokladnie na poziomie wody.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.89896000" lon="17.97744000">
+<name>38.00</name>
+<desc>Stalowo-drewniany most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.89761000" lon="17.98165000">
+<name>38.30</name>
+<desc>Betonowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.90156000" lon="17.98830000">
+<name>39.00</name>
+<desc>Oficjalne, duże pole biwakowe PTTK na lewym brzegu, tuż poniżej Miedzna.Ładnie położoneŃwśród brzózek.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.90211000" lon="18.00324000">
+<name>39.50</name>
+<desc>Drewniana kładka dla pieszych i psów ;)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.90236000" lon="18.00371000">
+<name>40.30</name>
+<desc>Ujście jakiegoś kanałku (lewego dopływu Wdy)</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.89632000" lon="18.02849000">
+<name>41.50</name>
+<desc>Most drogowy na jazie.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Słabo zaopatrzony sklep wiejski. Oprócz tego zaraz koło przenoski, można kupić pstrągi wprost z hodowli.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="53.89196000" lon="18.03256000">
+<name>42.00</name>
+<desc>Drugi most drogowy w Wojtalu.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.88385000" lon="18.04244000">
+<name>43.00</name>
+<desc>Stalowy most kolejowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.87409000" lon="18.05910000">
+<name>44.00</name>
+<desc>Pole biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.87519000" lon="18.06292000">
+<name>45.50</name>
+<desc>Ujście Studzienickie Strugi do Wdy. Połączenie z jeziorem Wieckim.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.87360000" lon="18.06417000">
+<name>45.80</name>
+<desc>drewniany most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.87222000" lon="18.06177200">
+<name>46.40</name>
+<desc>Pole dogodne do biwakowania</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.86534000" lon="18.07271000">
+<name>46.80</name>
+<desc>Drewniana kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.85008000" lon="18.08332000">
+<name>49.50</name>
+<desc>Ujście rzeki Niechwaszcz do Wdy. Prawy dopływ.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.84841000" lon="18.08437000">
+<name>49.80</name>
+<desc>Metalowa kładka dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.84692000" lon="18.08703000">
+<name>50.10</name>
+<desc>Most drogowy dosyć wysoko nad wodą. Na moście tabliczki informujące o polach biwakowych w miejscowości.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.84522000" lon="18.09180000">
+<name>50.70</name>
+<desc>Oficjalne pole PTTK na prawym brzegu. Wiaty, miejsce na ognisko, prysznice.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.84207000" lon="18.09109000">
+<name>51.00</name>
+<desc>Most kolejowy, a pod nim szerokie bystrze.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.84132000" lon="18.09194000">
+<name>51.10</name>
+<desc>Duży betonowy most na głównej drodze.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.83088000" lon="18.13060000">
+<name>51.50</name>
+<desc>Stannica PTTK, na wysokiej skarpie na lewym brzegu. Prysznice, domki, itp.</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="53.82939000" lon="18.13060000">
+<name>55.00</name>
+<desc>kolejna kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.82540000" lon="18.13872000">
+<name>55.50</name>
+<desc>Lekko zorganizowane pole biwakowe. Kamienny krąg na ognisko, sławojka, dużo miejsca, słabe dojście do wody.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>57.50</name>
+<desc>W Zimnych Zdrojach ok. 250 przed mostem jest fajne
+miejsce biwakowe dla tych, którzy nie szukają na rzece wygód w rodzaju prysznice etc. Duża polana, krąg ogniskowy, ogromny stół i ławy. Miejsce nawet na duży spływ. </desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.82476000" lon="18.15844000">
+<name>57.70</name>
+<desc>Betonowy most drogowy, za mostem po lewej dobre wyjście na brzeg.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Sklep zwyczajny, jak to na wsi, ale że gospodarz mieszka blisko, otworzy nawet w niedziele.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="53.82959000" lon="18.17583000">
+<name>60.00</name>
+<desc>Ujście Strugi z lewej strony do Wdy.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.82938000" lon="18.17889000">
+<name>60.80</name>
+<desc>Przygotowany biwak o nazwie "Tadonka". Drewniane wiaty, wygląda bardzo ciekawie.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.83678000" lon="18.21383000">
+<name>62.00</name>
+<desc>Pole biwakowe z jednym stołem drewnianym.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.83228000" lon="18.23836000">
+<name>63.50</name>
+<desc>Na lewym brzegu, duże przygotowane pole biwakowe PTTK. Wiaty, miejsce na ognisko.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.84303000" lon="18.24201000">
+<name>70.00</name>
+<desc>Most drewniany koło Młyńska</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.86209000" lon="18.26438000">
+<name>74.50</name>
+<desc>Betonowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Przed mostem, na prawym brzegu, zupelnie niezagospodarowane, małe miejsce biwakowe.
+
+Po lewej przed mostem duża łąka, miejsce na dziki kemping dla dużej
+grupy.
+
+Za mostem jakieś 400m, pod lewej pod lasem łączka (wcześniej po lewej
+jakieś 200m jest ciek wypływający z łąk i wpadający  do rzeki), dobra
+na  kameralny kemping  dla mniejszej  grupy. Sprzęt  najlepiej wciągać
+uskokiem przy samotnym drzewie stojącym  nad rzeką na  początku łąki.
+Dobrze jest też w tej okolicy  rozstawiać namioty - będą niewidoczne z
+szosy oraz z mostu betonowego.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.84833000" lon="18.35731000">
+<name>83.00</name>
+<desc>Za mostem na wysokim prawym brzegu, koło leśniczówki, duże zorganizowanepole biwakowe PTTK. Pole na  niewielkim  wzniesieniu.  Uciążliwe wciąganie  sprzętu  na  górkę. Pomost. Dobre miejsce do kąpania i pływania.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.82261000" lon="18.34793000">
+<name>86.00</name>
+<desc>Mały, dziki biwak na prawym brzegu, w pobliżu las. Dobre dojście do wody. W pobliżu wieś Krępki.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.82330000" lon="18.36053000">
+<name>87.00</name>
+<desc>Wysoki most kolejowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.80330000" lon="18.38063000">
+<name>93.00</name>
+<desc>Biwak na lewym brzegu</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.79470000" lon="18.38848000">
+<name>93.50</name>
+<desc>Drogowy most betonowy. Wygodna zatoczka za mostem na lewym brzegu.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>Dwa nieźle zaopatrzone sklepy. Ostatnie sklepy przed Tleniem (to nie żart!)</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="53.78844000" lon="18.38654000">
+<name>-1.00</name>
+<desc>Zorganizowane i płatne pole biwakowe PTTK na lewym brzegu, drewniane wiaty.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.78180000" lon="18.39537000">
+<name>96.00</name>
+<desc>2 metrowe spietrzenie wody do małej elektrowni.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.78054000" lon="18.40113000">
+<name>96.50</name>
+<desc>Zorganizowany biwak koło leśniczówki, wiaty, pomost.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.74973000" lon="18.42001000">
+<name>100.00</name>
+<desc>Biwak na lewym brzegu. Stoły, las.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.74326000" lon="18.41769000">
+<name>103.00</name>
+<desc>Ujście rzeki Kałębnicy do Wdy.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.74100000" lon="18.39101000">
+<name>105.50</name>
+<desc>Ujście rzeki Brzezianek (prawy dopływ) do Wdy.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.73922000" lon="18.39375000">
+<name>106.30</name>
+<desc>Zagospodarowany biwak na skarpie. Biwak na wysokim
+brzegu po prawej stronie. Do biwakowania nie zachęca bliska odległość od szosy, ale np. na przyrządzenie obiadu to piękne miejsce.
+</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.73397000" lon="18.38915000">
+<name>106.50</name>
+<desc>Dziki biwak na wysokim, lewym brzegu, ładna panorama, miejsce na ognisko.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.72791000" lon="18.38810000">
+<name>110.00</name>
+<desc>Biwak na prawym brzegu, miejsce na ognisko, ławeczki.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.72824000" lon="18.38571000">
+<name>111.00</name>
+<desc>Biwak na lewym brzegu, wiata, stoły, pomost.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.70231594" lon="18.34791134">
+<name>118.50</name>
+<desc>Most betonowy, drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.70075000" lon="18.34677000">
+<name>118.70</name>
+<desc>Oficjalny biwak PTTK, dużo wiat, stołów, mało miejsca na namioty. Syfne zejście do wody, zalesiony.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.70011000" lon="18.35078000">
+<name>119.20</name>
+<desc>Biwak na prawym brzegu, na skarpie, duża, dzika, ładna polana. Piaszczyste zejście do wody. Około 500 metrów poniżej mostu.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.69883000" lon="18.35817000">
+<name>121.00</name>
+<desc>Dziki biwak na prawym brzegu (cyplu). Malownicza polana w lesie. Dobre zejście do wody od górnej  strony cyplu (patrząc wzdłuż
+rzeki).</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>125.00</name>
+<desc>Dla tych co płyną i potrafią, albo przynajmniej próbują coś
+zobaczyć. Na 55 km wg. starych tablic oznakowania szlaku na lewym brzegu na wysokiej skarpie -spoziomowana- brzoza i jej pięć córek REWELACJA. </desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.67293000" lon="18.33511000">
+<name>126.00</name>
+<desc>Biwak na prawym brzegu niezagospodarowany, ładne zejście do wody, polana z brzozami</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.65527000" lon="18.31725000">
+<name>129.50</name>
+<desc>Betonowy most drogowy, około 200 metrów wyżej wielki zwalony dąb (chyba najciekawsza przeszkoda na Wdzie).</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.64989000" lon="18.29834000">
+<name>130.00</name>
+<desc>Częściowo zwalona kładka drewniana, jak zwali się do końca, to będzie trzeba obnosić.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.64489000" lon="18.29520000">
+<name>132.50</name>
+<desc>Most drewniany</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.61721000" lon="18.27189000">
+<name>137.50</name>
+<desc>Drogowy most betonowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>W Tleniu w sezonie jest conajmniej 5 sklepów. Kupić można prawie wszystko.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>-1.00</name>
+<desc>W Tleniu jest kilka barów i restauracja. Szczególnie polecamy hamburgery w barze z goframi.</desc>
+<cmt>bar</cmt>
+</wpt>
+<wpt lat="53.61137000" lon="18.27771000">
+<name>138.50</name>
+<desc>Stalowo-betonowy most kolejowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>141.00</name>
+<desc>Stannica PTTK "Lucyna" nad jeziorem Żur w Tleniu. Domki, pole namiotowe, wypożyczalnia sprzętu. tel. (052) 333-98-90</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="53.59537000" lon="18.29788000">
+<name>-1.00</name>
+<desc>Dziki biwak na wyspie Madera na jeziorze Żur. Strome zejście do wody, pijawki ! Kontrole służb leśnych, można zapłacić mandat.</desc>
+<cmt>biwak</cmt>
+</wpt>
+
+</gpx>

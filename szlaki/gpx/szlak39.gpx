@@ -1,0 +1,165 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="55.28501000" lon="25.65432000">
+<name>0.00</name>
+<desc>Dogodne miejsce rozpoczęcia spływu z możliwością wjazdu samochodu, a zarazem biwak z małym pomostem na południowym brzegu w odległości 400m od zachodniego krańca jeziora. Jadąc samochodem drogą szutrową wzdłuż południowego brzegu jeziora należy skręcić w leśną drogę na wysokości przystanku autobusowego i bezpośrednio wjedziemy na to miejsce. Jakby przypadkiem to miejsce było zajęte, to można też rozpocząć spływ 300m dalej na wschód, tylko tam juz samochodem sie nie zjedzie nad samo jezioro, bo brzeg jest za stromy i trzeba kajaki znieść/zsunąć kilkadziesiąt metrów nad samą wodę.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="55.30136300" lon="25.72946900">
+<name>6.60</name>
+<desc>Biwak przy cyplu po lewej stronie szlaku. Miejsce wygląda sympatycznie, ale bywa zajęte przez wędkarzy. Stąd płynąc na północny zachód można zwiedzić poboczne jezioro Galuonis, zanim się wpłynie na wschondnią część jeziora Ejsiaty, które doprowadzi nas do Kiewny.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="55.31475000" lon="25.72364000">
+<name>-1.00</name>
+<desc>[2.2km od jeziora Ejsiaty] Nieduży biwak na cyplu po wschodniej stronie przesmyku. Pewnie dużo komarów, bo zaszuwarzona okolica.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="55.32464000" lon="25.73723000">
+<name>-1.00</name>
+<desc>[4km od jeziora Ejsiaty] Biwak na wschodnim brzegu jeziora, w sosnowym lesie, duzo miejsca, ładny widok na jezioro, stół.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="55.32681000" lon="25.73851000">
+<name>-1.00</name>
+<desc>[4.5km od jeziora Ejsiaty] Biwak na wschodnim brzegu jeziora, bardzo przytulne i kameralne miejsce, drewniane schodki na skarpę.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="55.33603000" lon="25.72970000">
+<name>-1.00</name>
+<desc>[5km od jeziora Ejsiaty] "Oficjalny" biwak na północnym krańcu jeziora. Wiata, stoły, ubikacja, przebieralnia, ładny widok na jezioro i dobre miejsca do kąpieli. Pewną wada tego miejsca jest to, że kręci sie tam trochę ludzi - przychodzą się kąpać.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="55.30759000" lon="25.73292000">
+<name>7.20</name>
+<desc>Biwak na północnym brzegu jeziora. Dalej na wschód co kilkaset metrów są kolejne miejsca do biwakowania (więcej jest ich chyba na północnym brzegu). Jednak im dalej na wschód, tym gorzej, bo jest tam mniej lasów, a więcej domków letniskowych.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="55.33415000" lon="25.81061000">
+<name>13.90</name>
+<desc>W Sołdaciszkach są sklepy spożywcze i nie tylko.</desc>
+<cmt>sklep</cmt>
+</wpt>
+<wpt lat="55.32593000" lon="25.82663000">
+<name>15.30</name>
+<desc>Wypływ Kiewny z jeziora Aisetas - lekko zarośnięty trzcinami.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="55.32120000" lon="25.82704000">
+<name>15.70</name>
+<desc>Most drogowy przy  wypływie Kiewny z jeziora Ejsiaty.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="55.30506000" lon="25.85757000">
+<name>19.40</name>
+<desc>Most drogowy i zaraz za nim kolejowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="55.30581800" lon="25.86085000">
+<name>19.70</name>
+<desc>Ujscie rzeki Kiewny do jeziora Kiewna.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="55.31314000" lon="25.87630000">
+<name>21.20</name>
+<desc>Na północnym brzegu - najlepsze (choć nie idealne) miejsce do biwakowania na jeziorze Kiewna. Niezbyt równa łąka na otwartym terenie. Jest też drugie miejsce do biwakowania dokładnie po przeciwnej stronie jeziora, tyle że zmieści się tam zaledwie kilka namiotów.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="55.31248900" lon="25.88811400">
+<name>21.70</name>
+<desc>Wypływ rzeki Kiewny z jeziora Kiewna. Dobrze widoczny.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="55.31022000" lon="25.89150000">
+<name>22.10</name>
+<desc>Most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="55.30555000" lon="25.88689000">
+<name>22.80</name>
+<desc>Drewniany mostek.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="55.28708000" lon="25.90290000">
+<name>26.50</name>
+<desc>Most kolejowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="55.27837000" lon="25.90218000">
+<name>28.00</name>
+<desc>Drewniany mostek.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="55.27623000" lon="25.91004000">
+<name>29.00</name>
+<desc>Biwak na prawym brzegu na półtorametrowej skarpie w brzozowym lesie. Miejsce na kilka namiotów.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="55.27589000" lon="25.92220000">
+<name>30.50</name>
+<desc>Nieduży most betonowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="55.26994000" lon="25.93072000">
+<name>31.70</name>
+<desc>Biwak na prawym brzegu. Wejście po skarpie.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="55.26839800" lon="25.93807200">
+<name>32.40</name>
+<desc>Most na trasie Łabonary-Kołtyniany.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="55.25455000" lon="25.94010000">
+<name>34.30</name>
+<desc>Most drewniany z betonowymi filarami</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="55.25242000" lon="25.93664000">
+<name>34.70</name>
+<desc>Ujście rzeki do jeziora Gilutis.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="55.25018000" lon="25.94680000">
+<name>35.30</name>
+<desc>Wypływ Kiewny z jeziora Gilutas. </desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="55.25111700" lon="25.95652700">
+<name>36.10</name>
+<desc>Ujście rzeki do jeziora Saktatis.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="55.25035700" lon="25.96624800">
+<name>36.80</name>
+<desc>wypływ Kiewny z jeziora Saktotis.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="55.24892000" lon="25.96604000">
+<name>37.00</name>
+<desc>Most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="55.24434000" lon="25.97146000">
+<name>37.80</name>
+<desc>Biwak na lewym brzegu. Łączka przy sosnowym lesie pół kilometra za wsią Kukle. Stąd do centrum dużej wsi Kołtyniany jest niecałe 2km, więc jest to dobry punkt wypadowy po zakupy, choć być może i w Kuklach jest jakiś nieduży sklepik.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="55.23750000" lon="25.96727000">
+<name>38.80</name>
+<desc>Po lewej stronie łąka otoczona lasem, którą można wykorzystać na biwak z dala od cywilizacji. Niezbyt dobre zejście do wody - trochę błota.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="55.23685900" lon="25.97314400">
+<name>39.30</name>
+<desc>Ujście Kiewny do Żejmiany. Stąd można spłynąć Żejmianą, a potem Wilią w dół i po około 4 dniach umiarkowanego płynięcia dotzreć do Wilna. Lub można też popłynąć kilka kilometrów w górę Żejmiany i zwiedzić Pojezierze Święciańskie.</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

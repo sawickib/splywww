@@ -1,0 +1,60 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.45116059" lon="15.45270334">
+<name>7.20</name>
+<desc>Ogólno dostępna plaża nad jeziorem Kursko. Wygodny dostęp do wody, choć dojazd samochodem nieco skomplikowany (nieoznakowany). Łąka porośnięta trawą - możliwość zabiwakowania na dziko</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.45836685" lon="15.45299976">
+<name>6.40</name>
+<desc>Wypływ z jeziora Kursko</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="52.45907321" lon="15.45341182">
+<name>6.30</name>
+<desc>Most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.46040648" lon="15.45416533">
+<name>6.10</name>
+<desc>Wpływ na jezioro Długie</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.47680187" lon="15.45248079">
+<name>4.30</name>
+<desc>Przegroda z larsenów w miejscu wypływu rzeki z jeziora Długiego</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.48144810" lon="15.44729736">
+<name>3.50</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.48289228" lon="15.44521195">
+<name>3.30</name>
+<desc>Wpływ na jezioro Chycińskie (Chycina)</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.48806319" lon="15.44419332">
+<name>2.70</name>
+<desc>Wypływ z jeziora Chycińskiego (Chycina)</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="52.50026071" lon="15.45806967">
+<name>0.80</name>
+<desc>Most na lokalnej drodze - przepust rurowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.50545983" lon="15.46480901">
+<name>0.00</name>
+<desc>Ujście Jeziornej Strugi do Zalewu Bledzewskiego</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

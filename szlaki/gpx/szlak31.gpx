@@ -1,0 +1,100 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.26880100" lon="21.00333200">
+<name>0.00</name>
+<desc>Spójnia - koniec</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="52.26090200" lon="21.01014300">
+<name>1.00</name>
+<desc>most Gdański </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.24888700" lon="21.02111500">
+<name>2.60</name>
+<desc>most Śląsko-Dąbrowski </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.24167600" lon="21.03393100">
+<name>3.70</name>
+<desc>most Świętokrzyski </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.23845600" lon="21.03723300">
+<name>4.20</name>
+<desc>most Średnicowy </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.23559800" lon="21.04002300">
+<name>4.50</name>
+<desc>most Poniatowskiego </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.22547400" lon="21.04946700">
+<name>5.90</name>
+<desc>most Łazienkowski </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.22146800" lon="21.05701600">
+<name>6.50</name>
+<desc>Gruba Kaśka </desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.21485800" lon="21.09313000">
+<name>9.30</name>
+<desc>most Siekierkowski </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.21141800" lon="21.10086900">
+<name>10.00</name>
+<desc>ujście portu WKW</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.21465600" lon="21.10123100">
+<name>-1.00</name>
+<desc>wjazd na WKW (grupa C)</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.21185900" lon="21.10363600">
+<name>-1.00</name>
+<desc>miejsce zbiórki dla grupy C</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.09987800" lon="21.21430900">
+<name>25.80</name>
+<desc>ujście Świdra</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.07857100" lon="21.21215100">
+<name>28.40</name>
+<desc>miejsce wodowania grupy B</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.08133200" lon="21.23081100">
+<name>-1.00</name>
+<desc>skręt na start grupy B</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.99722500" lon="21.22436700">
+<name>38.50</name>
+<desc>most kolejowy w Górze Kalwarii</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.99050600" lon="21.23462100">
+<name>39.50</name>
+<desc>most drogowy w Górze Kalwarii</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.93761100" lon="21.26369200">
+<name>47.80</name>
+<desc>miejsce wodowania grupy A</desc>
+<cmt>uwaga</cmt>
+</wpt>
+
+</gpx>

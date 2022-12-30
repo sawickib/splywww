@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="115" nazwa="Ner" wersja="1">
+<opis>Rzeka w środkowej Polsce o długości 134 km, na Wysoczyźnie Łaskiej i w Kotlinie Kolskiej, prawy dopływ środkowej Warty. W dolnym odcinku pradolinnym dawniej zabagnione dno doliny jest obecnie uregulowane i użytkowane pod łąki. W dolnym biegu obszar specjalnej ochrony ptaków. Nazwa rzeki pochodzi prawdopodobnie od plemienia Neurów, które jest identyfikowane z przodkami Słowian, a osadnictwo nad Nerem swoje początki ma tysiące lat temu. W dolinie rzeki znajduje się wiele grodzisk. Ważniejsze miejscowości nad Nerem to Rzgów, Łódź, Konstantynów Łódzki, Lutomiersk, Poddębice, Dąbie, Chełmno nad Nerem. Płynąc rzeką można zwiedzać tereny środkowej Polski, w tym np. Chełmno, miejsce byłego hitlerowskiego obozu zagłady. Przez wiele lat bezpośrednio do rzeki spuszczane były ścieki z Łodzi i okolic, co skutecznie odwróciło ludzi od jej walorów zakorzeniając w świadomości pogląd, że nie jest to rzeka, lecz ściek. W roku 2000 Grupowa Oczyszczalnia Ścieków w Łodzi osiągnęła zdolność biologicznego oczyszczania wszystkich ścieków, co radykalnie poprawiło stan czystości wód rzeki. Stan wody niezmiennie się poprawia. W wodzie rzeki obserwowane są już ryby, a na niektórych odcinkach nawet raki. Docelowo woda ma należeć do co najmniej III klasy czystości. Na większości odcinków rzeka jest uregulowana i płynie przez tereny polno ? łąkowe rynną, której brzegi porośnięte są różnorodną roślinnością. Do rzeki niekiedy dochodzi las, widać także pojedyncze drzewa nad lustrem wody. Mimo pozornej nieatrakcyjności płynięcie rzeką daje skuteczne poczucie oderwania od rzeczywistości i odpoczynku na łonie przyrody poprzez poruszanie się wyraźnie wytyczonym wodnym szlakiem. Ner nie jest rzeką o wysokim stopniu malowniczości, lecz mimo to może być ciekawym szlakiem kajakowym, głównie dla doświadczonych miłośników kajakarstwa, ze względu na dużą ilość sztucznych przeszkód. Wszystkie progi wodne są spływalne w zależności od stanu wody, trzy zaznaczone jako niebezpieczne tylko dla wprawnych. Kajakową żeglugę utrudniają elektrownie wodne i jazy wymagające przenoszenia kajaków w niesprzyjających warunkach. Rzeka na całym odcinku nie posiada wielu dogodnych miejsc do wodowania, nie jest również w żaden sposób zagospodarowana pod względem turystycznym. Noclegi możliwe są głównie przy jazach oraz przy niektórych miejscowościach. Rzeka oferuje dla kajakarzy szybki nurt, a także niewielkie progi i bystrza, niekiedy przeszkody w postaci zwalonych drzew, a także pozostałości po starych mostach i kładkach, które wymagają umiejętnego manewrowania kajakiem. Im bliżej ujścia do Warty rzeka coraz bardziej się rozszerza, woda staje się coraz czystsza, a brzegi stają się nieco niższe. W roku 1993 powstał Związek Gmin Nadnerzańskich, w skład którego wchodzą gminy położone nad rzeką. Jednym z celów związku jest podjęcie działań w zakresie przywrócenia atrakcyjności krajobrazowo-turystycznej doliny rzeki Ner. Spływy kajakowe rzeką Ner odbywały się już w okresie międzywojennym, na co istnieją dowody w postaci zachowanych fotografii. Od 2005 roku organizowany jest jednodniowy spływ kajakowy rzeką Ner na odcinku Zimne ? Dąbie. W lipcu 2012 roku trzech kajakarzy z Łodzi: Rafał Tomczyk, Michał Królicki i Tomasz Zając, spłynęli Nerem z Łodzi do ujścia zaczynając w ten sposób nowy rozdział w historii rzeki. Rzeka Ner może być ciekawym rozwiązaniem dla kajakarzy z centralnej Polski i okazją do zmierzenia się z czymś zupełnie nieznanym. Rzeka może być wykorzystywana do celów rekreacyjnych i turystycznych, w tym przede wszystkim dla kajakarstwa. Tak jak każda rzeka również Ner posiada niezwykłe cechy charakterystyczne i jest w pewien sposób wyjątkowa. Jej przepłynięcie zajmuje od 3 do 5 dni.
+
+</opis> 
+  <odcinek id="485" typ="rzeka" nazwa="Łódź - Lutomiersk" 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="*" czystosc="KL3" 
+      kolejnosc="0"> 
+  <opis>Na odcinku z Łodzi do Lutomierska odcinki leśne o szybkim nurcie.</opis>
+    <punkt id="4140" miejscowosc="Bechcice" 
+      ns="51.75574541" we="19.26420605" km="90.5" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Spływalny próg</opispunktu> 
+    </punkt>
+    <punkt id="4139" miejscowosc="Bechcice" 
+      ns="51.75188548" we="19.2830806" km="92.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy na drodze Żabiczki - Bechcice</opispunktu> 
+    </punkt>
+    <punkt id="4138" miejscowosc="Konstantynów Łódzki" 
+      ns="51.73691132" we="19.31337377" km="95.7" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 71</opispunktu> 
+    </punkt>
+    <punkt id="4137" miejscowosc="Łódź" 
+      ns="51.73056609" we="19.32706861" km="97.5" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niebezpieczny próg - spływalny dla wprawnych</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem</opispunktu> 
+    </punkt>
+    <punkt id="4136" miejscowosc="Łódź" 
+      ns="51.72714599" we="19.33401623" km="98.1" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy techniczny</opispunktu> 
+    </punkt>
+    <punkt id="4135" miejscowosc="Łódź" 
+      ns="51.72420649" we="19.33797253" km="98.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Grupowa Oczyszczalnia Ścieków (GOŚ). Stopień wodny (spływalny). Wygodne wodowanie za stopniem</opispunktu> 
+    </punkt>
+    <punkt id="4141" miejscowosc="Bechcice" 
+      ns="51.75504647" we="19.25953657" km="90" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rura nad wodą</opispunktu> 
+    </punkt>
+    <punkt id="4142" miejscowosc="Mirosławice" 
+      ns="51.75468857" we="19.24407061" km="88.7" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze Mirosławice - Bechcice Kolonia</opispunktu> 
+    </punkt>
+    <punkt id="4143" miejscowosc="Lutomiersk" 
+      ns="51.75656161" we="19.221447" km="86.1" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 710</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="486" typ="rzeka" nazwa="Lutomiersk - Zimne" 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="*" czystosc="KL3" 
+      kolejnosc="1"> 
+  <opis></opis>
+    <punkt id="4144" miejscowosc="Lutomiersk" 
+      ns="51.7596596" we="19.21535837" km="85.5" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most tramwajowy</opispunktu> 
+    </punkt>
+    <punkt id="4145" miejscowosc="Lutomiersk" 
+      ns="51.76108598" we="19.21251194" km="85.2" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewym brzegiem około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4146" miejscowosc="Kazimierz" 
+      ns="51.76623139" we="19.20263637" km="84.3" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek polny</opispunktu> 
+    </punkt>
+    <punkt id="4147" miejscowosc="Zdziechów" 
+      ns="51.77508121" we="19.1741796" km="81.9" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek polny</opispunktu> 
+    </punkt>
+    <punkt id="4148" miejscowosc="Charbice Dolne" 
+      ns="51.78318757" we="19.15597301" km="80.3" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mała elektrownia wodna</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4149" miejscowosc="Charbice Górne" 
+      ns="51.78667331" we="19.13754854" km="78.7" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mała elektrownia wodna</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4150" miejscowosc="Szydłów" 
+      ns="51.78503588" we="19.11892653" km="77.4" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy</opispunktu> 
+    </punkt>
+    <punkt id="4151" miejscowosc="Szydłów" 
+      ns="51.78467219" we="19.11313981" km="77" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze Szydłów - Jerwonice</opispunktu> 
+    </punkt>
+    <punkt id="4152" miejscowosc="Szydłów" 
+      ns="51.78325342" we="19.10412506" km="76.2" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mała elektrownia wodna</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska lewym brzegiem około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4153" miejscowosc="Szydłów" 
+      ns="51.78299366" we="19.10000584" km="75.9" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="4154" miejscowosc="Puczniew" 
+      ns="51.7811428" we="19.08444126" km="74.7" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy</opispunktu> 
+    </punkt>
+    <punkt id="4155" miejscowosc="Puczniew " 
+      ns="51.78252908" we="19.06967146" km="73.5" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mała elektrownia wodna</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym lub lewym brzegiem około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4156" miejscowosc="Puczniew" 
+      ns="51.78221019" we="19.06491265" km="73" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg z bystrzem</opispunktu> 
+    </punkt>
+    <punkt id="4157" miejscowosc="Puczniew" 
+      ns="51.78258222" we="19.06283075" km="72.9" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze Puczniew - Przyrownica</opispunktu> 
+    </punkt>
+    <punkt id="4158" miejscowosc="Małyń " 
+      ns="51.78800398" we="19.03004234" km="70.6" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mała elektrownia wodna. Droga betonowa Małyń - Jeziorko</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4159" miejscowosc="Małyń" 
+      ns="51.79437511" we="19.02210226" km="69.4" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rura nad rzeką</opispunktu> 
+    </punkt>
+    <punkt id="4160" miejscowosc="Jeżew" 
+      ns="51.80282557" we="19.0132189" km="67.8" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4161" miejscowosc="Ruda Jeżewska" 
+      ns="51.81075182" we="18.99694011" km="65.9" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze Ruda Jeżewska - Feliksów</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Przed mostem dobre miejsce biwakowe po lewej stronie (po uzgodnieniu z gospodarzem)</opispunktu> 
+    </punkt>
+    <punkt id="4162" miejscowosc="Kolonia Nowy Feliksów" 
+      ns="51.8215086" we="18.98228145" km="64" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze Pustkowie - Kolonia Nowy Feliksów</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4163" miejscowosc="Zofiówka" 
+      ns="51.82925099" we="18.96081925" km="62.2" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz + odnoga z jazem z prawej strony</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4164" miejscowosc="Góra Bałdrzychowska" 
+      ns="51.84070064" we="18.94582191" km="60.5" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Most, przed nim próg. Do mostku 5 spływalnych progów</opispunktu> 
+    </punkt>
+    <punkt id="4165" miejscowosc="Góra Bałdrzychowska" 
+      ns="51.84693903" we="18.93075106" km="59.2" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4166" miejscowosc="Bałdrzychów" 
+      ns="51.85378571" we="18.92046164" km="58.1" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej dopływ kanału Pisi</opispunktu> 
+    </punkt>
+    <punkt id="4167" miejscowosc="Bałdrzychów" 
+      ns="51.86153026" we="18.9277189" km="57" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mała elektrownia wodna. Dobre miejsce zakończenia spływu</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4168" miejscowosc="Bałdrzychów" 
+      ns="51.86352395" we="18.93074778" km="56.7" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście Bełdówki</opispunktu> 
+    </punkt>
+    <punkt id="4169" miejscowosc="Poddębice" 
+      ns="51.89164687" we="18.94930694" km="53.2" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 72</opispunktu> 
+    </punkt>
+    <punkt id="4170" miejscowosc="Poddębice" 
+      ns="51.89675901" we="18.94626839" km="52.6" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Most przy starym młynie</opispunktu> 
+    </punkt>
+    <punkt id="4171" miejscowosc="Poddębice" 
+      ns="51.90298111" we="18.94646084" km="51.8" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4172" miejscowosc="Chropy Małe" 
+      ns="51.92521163" we="18.96468622" km="48.8" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz przy starym młynie</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4173" miejscowosc="Wilkowice" 
+      ns="51.93756071" we="18.97892243" km="46.9" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    </punkt>
+    <punkt id="4174" miejscowosc="Tur" 
+      ns="51.9420633" we="18.98163903" km="46.3" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4175" miejscowosc="Spędoszyn" 
+      ns="51.95215201" we="18.99368445" km="44.6" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niebezpieczny próg - spływalny dla wprawnych !!!</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem</opispunktu> 
+    </punkt>
+    <punkt id="4176" miejscowosc="Spędoszyn" 
+      ns="51.96531188" we="19.00566402" km="42.7" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niebezpieczny próg - spływalny dla wprawnych</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem</opispunktu> 
+    </punkt>
+    <punkt id="4177" miejscowosc="Wartkowice" 
+      ns="51.97387767" we="19.0131471" km="41.7" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 469</opispunktu> 
+    </punkt>
+    <punkt id="4178" miejscowosc="Wartkowice" 
+      ns="51.97925167" we="19.01788619" km="40.9" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mała elektrownia wodna</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4179" miejscowosc="Zawada" 
+      ns="51.99413629" we="19.01957537" km="39.1" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="4180" miejscowosc="Pełczyska" 
+      ns="51.99765709" we="19.02131299" km="38.7" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy - autostrada A1</opispunktu> 
+    </punkt>
+    <punkt id="4181" miejscowosc="Borek" 
+      ns="52.01132615" we="19.01147876" km="36.9" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mała elektrownia wodna</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem około 50m</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po prawej stronie za jazem dobre miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="4182" miejscowosc="Łyków" 
+      ns="52.01524625" we="19.00876105" km="36.3" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pod mostem stalowy drut nad wodą !!!</opispunktu> 
+    </punkt>
+    <punkt id="4183" miejscowosc="Łyków" 
+      ns="52.02376744" we="19.01600521" km="35.1" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg zaraz za mostkiem</opispunktu> 
+    </punkt>
+    <punkt id="4184" miejscowosc="Parski" 
+      ns="52.04029029" we="19.03075732" km="32.7" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze Władysławów - Borek</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="487" typ="rzeka" nazwa="Zimne - ujście do Warty" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="2"> 
+  <opis></opis>
+    <punkt id="4185" miejscowosc="Zimne" 
+      ns="52.05764398" we="19.0357437" km="30.5" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska prawym brzegiem około 50m</opispunktu> 
+    </punkt>
+    <punkt id="4186" miejscowosc="Kotowice " 
+      ns="52.08153175" we="18.94790102" km="21.9" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze Zbylczyce - Kotowice</opispunktu> 
+    </punkt>
+    <punkt id="4187" miejscowosc="Zbylczyce" 
+      ns="52.08156456" we="18.91927973" km="19.8" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek polny</opispunktu> 
+    </punkt>
+    <punkt id="4188" miejscowosc="Kupinin" 
+      ns="52.0894716" we="18.88970634" km="17.6" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="4189" miejscowosc="Kupinin " 
+      ns="52.08762233" we="18.86517186" km="15.9" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4190" miejscowosc="Dąbie" 
+      ns="52.08492554" we="18.8268053" km="13.2" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze nr 473</opispunktu> 
+    </punkt>
+    <punkt id="4191" miejscowosc="Dąbie" 
+      ns="52.08472533" we="18.82377036" km="12.9" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwy biwak</opispunktu> 
+    </punkt>
+    <punkt id="4192" miejscowosc="Sobótka" 
+      ns="52.09423965" we="18.78805355" km="9.5" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="most" kolejnosc="-1">Most z bystrzem i palami - kładka na drodze Sobótka - Cichmiana</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwy biwak</opispunktu> 
+    </punkt>
+    <punkt id="4193" miejscowosc="Sobótka" 
+      ns="52.10362358" we="18.77262427" km="8" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    </punkt>
+    <punkt id="4194" miejscowosc="Sobótka" 
+      ns="52.10559062" we="18.7662204" km="7.5" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka</opispunktu> 
+    </punkt>
+    <punkt id="4195" miejscowosc="Chełmno" 
+      ns="52.10988379" we="18.7535801" km="6.8" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze Chełmno - Chruścin (Wilamów)</opispunktu> 
+    </punkt>
+    <punkt id="4196" miejscowosc="Chełmno" 
+      ns="52.11503894" we="18.74241898" km="5.4" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drewniany na drodze Chełmno - Gaj</opispunktu> 
+    </punkt>
+    <punkt id="4197" miejscowosc="Rzuchów" 
+      ns="52.12038957" we="18.73308104" km="4.5" etykieta="" 
+      kolejnosc="62"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka</opispunktu> 
+    </punkt>
+    <punkt id="4198" miejscowosc="Rzuchów" 
+      ns="52.12557958" we="18.70751448" km="2.4" etykieta="" 
+      kolejnosc="63"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w Rzuchowie</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Za mostem dużo miejsc biwakowych</opispunktu> 
+    </punkt>
+    <punkt id="4199" miejscowosc="Rzuchów" 
+      ns="52.14166997" we="18.68882955" km="0" etykieta="" 
+      kolejnosc="64"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Neru do Warty</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość biwakowania</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

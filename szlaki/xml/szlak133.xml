@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="133" nazwa="Bukowa" wersja="1">
+<opis>Rzeka w południowo-wschodniej Polsce, prawobrzeżny dopływ Sanu. Długość wynosi 52 km, powierzchnia zlewni ? 662 km?. Rzeka rozpoczyna swój bieg w okolicach wsi Korytków Mały, przecina Lasy Janowskie i uchodzi do Sanu nieopodal wsi Chłopska Wola, koło Stalowej Woli. W latach 1815-1918 rzeka na pewnym odcinku stanowiła granicę zaboru rosyjskiego i austriackiego (wg Wikipedii). Bardzo przyjemna spokojnie płynąca rzeka o brunatnym, naturalnym zabarwieniu. Nie jest ani uciążliwa, ani też trudna. Od Momotów dostępna bez problemów dla kajaków dwu osobowych</opis> 
+    <punkt id="4720" miejscowosc="Ujście" 
+      ns="50.59096617" we="22.50884996" km="43.9" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze pomiędzy miejscowościami Ujście i Szewce. Rzeka ma tu szerokość 3-4 m i jest nieco płytka. Spływ można rozpocząć również kilkaset metrów dalej na sąsiednim moście na prawym dopływie - Rakowa. Obie rzeki w tym miejscu są podobnych rozmiarów i niosą taką samą ilość wody</opispunktu> 
+    </punkt>
+    <punkt id="4721" miejscowosc="Ujście" 
+      ns="50.59175409" we="22.50406864" km="43.2" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie z rzeką Rakowa, od tego miejsca nie ma już problemów z ilością wody. Poniżej rozpoczyna się odcinek dziki, rzeka kręci i podmywa brzegi. W korycie od czasu do czasu leżą powalone drzewa, znacznie częściej na wodą zwisają łozy utrudniające przepłynięcie. Spotkamy też kilka kładek i pozostałości po nich</opispunktu> 
+    </punkt>
+    <punkt id="4722" miejscowosc="Momoty Górne" 
+      ns="50.60030127" we="22.42153958" km="34.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowo-drewniany most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4723" miejscowosc="Momoty Górne" 
+      ns="50.60117497" we="22.41171955" km="33.8" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na lokalnej drodze, pod nim niewielkie bystrze</opispunktu> 
+    </punkt>
+    <punkt id="4724" miejscowosc="Momoty Górne" 
+      ns="50.60325515" we="22.39770933" km="32.6" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Momotami Górnymi i Dolnymi. Wodowanie nieco utrudnione ze względu na słabą dostępność brzegów</opispunktu> 
+    </punkt>
+    <punkt id="4725" miejscowosc="Momoty Górne" 
+      ns="50.60309838" we="22.3858883" km="30.9" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka. Przed kładką po prawej ładna piaszczysta zatoczka, natomiast po drugiej stronie zadaszona drewniana wiata z miejscem na ognisko. Trudno ocenić czy jest to teren prywatny czy gminny ponieważ w okolicy nie ma stosownego oznakowania</opispunktu> 
+    </punkt>
+    <punkt id="4726" miejscowosc="Nalepy" 
+      ns="50.61379907" we="22.33571662" km="26.7" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze, z kamiennym bystrzem. Za mostem po lewej wygodne miejsce na postój z dojazdem dla samochodów. Stoi tu też zadaszona drewniana wiata</opispunktu> 
+    </punkt>
+    <punkt id="4727" miejscowosc="Domostawa" 
+      ns="50.6213441" we="22.28647887" km="19.8" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most ruchliwej drogi nr 19 z Janowa Lubelskiego do Niska. Przed mostem po lewej wygodne miejsce z dojazdem, chociaż wyjście z wody nieco uciążliwe ze względu na stromy brzeg</opispunktu> 
+    </punkt>
+    <punkt id="4728" miejscowosc="Szwedy" 
+      ns="50.62039183" we="22.23650231" km="15.3" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Stary drewniany most, służący jako kładka dla pieszych. Możliwość zakończenia spływu, chociaż brzegi trudno dostępne - strome i zarośnięte</opispunktu> 
+    </punkt>
+    <punkt id="4729" miejscowosc="Chłopska Wola" 
+      ns="50.60363263" we="22.06584548" km="0" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Bukowej do Sanu</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

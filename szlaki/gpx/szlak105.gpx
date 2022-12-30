@@ -1,0 +1,110 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.73373242" lon="16.80778390">
+<name>110.50</name>
+<desc>Most drogowy na trasie nr 20 ze Szczecinka do Słupska</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.72815128" lon="16.81703171">
+<name>109.50</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.71027384" lon="16.84803135">
+<name>105.20</name>
+<desc>Mało uczęszczany most drogowy, nie zamieszczany na niektórych mapach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.68900095" lon="16.85987090">
+<name>102.20</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.67515289" lon="16.86607875">
+<name>101.50</name>
+<desc>Jaz elektrowni</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.66865532" lon="16.87340652">
+<name>100.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.63417472" lon="16.88996961">
+<name>94.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.62849855" lon="16.89348315">
+<name>93.30</name>
+<desc>Ujście Czernicy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.59869292" lon="16.92100519">
+<name>86.50</name>
+<desc>Jaz elektrowni</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.57572601" lon="16.93874236">
+<name>84.50</name>
+<desc>Jaz elektrowni</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.53517043" lon="16.95200660">
+<name>78.40</name>
+<desc>Most na trasie nr 22 pomiędzy Jastrowiem a Człuchowem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.47818981" lon="16.91867154">
+<name>73.50</name>
+<desc>Zapora wodna</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.41364479" lon="16.86787397">
+<name>67.80</name>
+<desc>Zapora wodna</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.36683763" lon="16.79688423">
+<name>59.50</name>
+<desc>Zapora wodna</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.34604608" lon="16.81542436">
+<name>51.50</name>
+<desc>Zapora wodna</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.26474702" lon="16.78116171">
+<name>36.10</name>
+<desc>Most drogowy na trasie nr 11 z Piły do Jastrowia</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.22272363" lon="16.78364741">
+<name>30.50</name>
+<desc>Zapora wodna</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.15136164" lon="16.73954484">
+<name>20.50</name>
+<desc>Most drogowy, ul. Jana Pawła II</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.08841873" lon="16.75150511">
+<name>7.60</name>
+<desc>Jaz</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.05480434" lon="16.72588007">
+<name>0.00</name>
+<desc>Ujście Gwdy do Noteci</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="166" nazwa="Łupawa" wersja="1">
+<opis>Jedna z bardziej popularnych wśród kajakarzy rzek Przymorza. Wypływa z jeziora Jasień we wschodniej części Parku Krajobrazowego Dolina Słupi i kierując się generalnie na północny-zachód przecina pas wzgórz morenowych, gdzie staje się bystra i kamienista. Następnie zwalnia na bagienno-torfowiskowych równinach Wybrzeża Słowińskeigo, w okolicach Smołdzina wpływa w obszar Słowińskiego Parku Narodowego, gdzie uchodzi do jeziora Gardno, a dalej, w Rowach krókim przesmykiem bezpośrednio do Bałtyku. Chcąc dopłynąć Łupawą do Bałtyku warto wziąć pod uwagę, że jej dolny odcinek prowadzi w pierwszej kolejności przez obszar parku narodowego, a następnie przez port rybacki. Aby pozostać w zgodzie z prawem i nie narażać środowiska kajakarskiego na szwank, należy uzyskać stosowne zgody na pływanie zarówno w obrębie  parku, jak i portu. Rzeka mocno wykorzystywana przez spływy komercyjne, przez co naturalne przeszkody w postaci powalonych drzew w dużej mierze są poprzecinane i/lub wyciągnięte z wody. Na kluczowym, najbardziej przełomowym odcinku pomiędzy Kozinem a Łupawą napotkaliśmy tylko jedną nieco bardziej wymagającą zwałkę. Rzeka praktycznie na całej długości dostępna przez cały rok, a ze względu na dość liczne przegrody hydrotechniczne niesie wystarczającą ilość wody bez względu na opady. Wodowskaz Łupawa wskazujący poziom 48 gwarantuje dobrą ilość wody, chociaż miejscami szoruje się po kamienistych przemiałach. W tych warunkach odcinek z Kozina do Łupawy płynie się bez pośpiechu 4,5h krótkimi kajakami K1.</opis> 
+    <punkt id="5426" miejscowosc="Kozin" 
+      ns="54.37642376" we="17.63104297" km="86" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze nr 212 Lębork - Bytów</opispunktu> 
+    </punkt>
+    <punkt id="5427" miejscowosc="Kozin" 
+      ns="54.37737255" we="17.63062908" km="85.9" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Zrzucony łukowy kamienny wiadukt po starej linii kolejowej</opispunktu> 
+    </punkt>
+    <punkt id="5428" miejscowosc="Kozin" 
+      ns="54.3775319" we="17.62997769" km="85.8" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Duża łąka po prawej, z której startują spływy komercyjne. Teren jest zagospodarowywany, całość wyrównywana, ustawiono toi-toiki i zbudowano schodki oraz slip na stromym brzegu. W dniu spływu teren ten był nieoznakowany, ale jak udało nam się ustalić ponoć jest albo prywatny, albo dzierżawiony od gminy. Oddalona od rzeki część łąki stanowi spory parking</opispunktu> 
+    </punkt>
+    <punkt id="5429" miejscowosc="Kozin" 
+      ns="54.3770046" we="17.62537095" km="85.5" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz pstrągarni. Przenoska prawą stroną około 20m z niezbyt wygodnym wyjściem z wody na betonowe nabrzeże. Poniżej mało wody i kamienie, ponieważ większość jej kierowana jest na stawy hodowlane</opispunktu> 
+    </punkt>
+    <punkt id="5430" miejscowosc="Kozin" 
+      ns="54.37649227" we="17.62155124" km="85.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Powrót wody z pstrągarni, dalej płynie się swobodnie</opispunktu> 
+    </punkt>
+    <punkt id="5431" miejscowosc="Kozin" 
+      ns="54.37643989" we="17.62120054" km="85.1" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy</opispunktu> 
+    </punkt>
+    <punkt id="5432" miejscowosc="Kozin" 
+      ns="54.37699524" we="17.61985847" km="85" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony ujście Bukowiny. Dalej, przez jakiś czas nurt spokojny, po wpłynięciu do lasu robi się szerzej, bardziej bystro, kamieniście i miejscami płytko. Koryto rzeki często się rozwidla, a w nurcie pojawiają się pojedyncze, najczęściej poprzecinane drzewa</opispunktu> 
+    </punkt>
+    <punkt id="5433" miejscowosc="Czarna Dąbrówka (Spalone)" 
+      ns="54.36840626" we="17.56201046" km="80.2" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski, drewniany mostek i bród. Wygodne miejsce na przerwę. Dalej nurt bystry, a w korycie sporo kamieni, miejscami płytko</opispunktu> 
+    </punkt>
+    <punkt id="5434" miejscowosc="Podkomorzyce" 
+      ns="54.37152852" we="17.53563388" km="78.2" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek 2 x 0,5m. Drugi prożek to rząd drewnianych kołków, spływać ostrożnie. Poniżej w dalszym ciągu nurt bystry, a dno twarde i kamienieniste</opispunktu> 
+    </punkt>
+    <punkt id="5435" miejscowosc="Podkomorzyce" 
+      ns="54.3746987" we="17.50639652" km="76" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most betonowy</opispunktu> 
+    </punkt>
+    <punkt id="5436" miejscowosc="Podkomorzyce" 
+      ns="54.37616619" we="17.50327183" km="75.7" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony powrót młynówki. Poniżej odcinek z pojedynczymi zwałkami, niektóre nawet bardziej wymagające</opispunktu> 
+    </punkt>
+    <punkt id="5437" miejscowosc="Łupawa" 
+      ns="54.41665182" we="17.41858374" km="66.1" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora hydroelektrowni, 5 przęseł zamkniętych zastawkami, poniżej kamienie. Przenoska lewym brzegiem po piasku, około 50m. Wygodne miejsce dla odwiedzenia pobliskich sklepów i barów. Dalej rzeka znacznie szersza, do mostu po obu stronach pola namiotowe. Na dolnej wodzie, przy wypływie z turbiny znajduje się wodowskaz nie objęty monitoringiem. Poziom 68.02 oznacza wystarczającą ilość wody, chociaż miejscami szoruje się po kamieniach. Podczas przenoski można przekonać się, jak bardzo orientacyjnie wylicznane są odległości na rzekach. Stoją tu bowiem obok siebie dwie tablice, jedna z kilometrażem rzeki, druga z opisem Młyna, różnica w odległości do ujścia Łupawy do Bałtyku wg nich wynosi 3,4 km</opispunktu> 
+    </punkt>
+    <punkt id="5438" miejscowosc="Łupawa" 
+      ns="54.41812174" we="17.41657543" km="65.8" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po prawej stronie trawiasty plac gminny z wiatami i ławkami. Wygodne miejsce rozpoczynania / kończenia etapu. Przy szerokiej drodze szutrowej jest sporo miejsca na pozostawienie samochodu, opcja ta jednak wymusi natychmiastowe jego mycie, ponieważ przejeżdżające drogą inne samochody wzbudzają nieprawdopodobne ilości pyłu</opispunktu> 
+    </punkt>
+    <punkt id="5439" miejscowosc="Łupawa" 
+      ns="54.41899068" we="17.41580278" km="65.7" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, w pobliżu sklepy spożywcze. Poniżej mostu, po prawej stronie znajduje się wodowskaz Łupawa, którego wskazania można obserwować w internecie</opispunktu> 
+    </punkt>
+    <punkt id="5440" miejscowosc="Głuszyno" 
+      ns="54.48610241" we="17.39597381" km="56.6" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Darżyńskiej Strugi</opispunktu> 
+    </punkt>
+    <punkt id="5441" miejscowosc="Rębowo" 
+      ns="54.47824783" we="17.36021373" km="53.3" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeczki Rębowa</opispunktu> 
+    </punkt>
+    <punkt id="5442" miejscowosc="Damnica" 
+      ns="54.50783891" we="17.29575298" km="46.1" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Charstnicy</opispunktu> 
+    </punkt>
+    <punkt id="5443" miejscowosc="Rowy" 
+      ns="54.66913273" we="17.05098676" km="0" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Łupawy do Bałtyku</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

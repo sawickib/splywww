@@ -1,0 +1,95 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.93540680" lon="16.17867190">
+<name>37.50</name>
+<desc>Próg 4 stopniowy. Wygodne miejsce rozpoczynania spływu. Powyżej wpada do Nysy rzeka Sadówka znacznie poprawiając stosunki wodne. Przy progu sporo miejsca na samochody a właściciele terenu są przychylni kajakarzom.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.94389391" lon="16.19866877">
+<name>35.40</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.95280130" lon="16.21610259">
+<name>33.70</name>
+<desc>Ewentualna przenoska prawym lub lewym brzegiem 20m po trawie.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="50.95749978" lon="16.22922013">
+<name>32.50</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.96860555" lon="16.23358347">
+<name>31.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.97334846" lon="16.23469804">
+<name>30.60</name>
+<desc>Ewentualna przenoska lewym lub prawym brzegiem 20m po trawie</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="50.98424954" lon="16.23531463">
+<name>29.30</name>
+<desc>Most w Dzierzkowie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.99183725" lon="16.22385259">
+<name>28.00</name>
+<desc>Most w Gniewkowie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.99872961" lon="16.21691666">
+<name>27.00</name>
+<desc>Most w Gniewkowie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.00417299" lon="16.20942742">
+<name>26.20</name>
+<desc>Ujście Nysy Małej. Znacząca poprawa jakości płynięcia ze względu na ilość wody.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.00984072" lon="16.20702618">
+<name>25.50</name>
+<desc>Wygodna przenoska lewym brzegiem 30m po trawie</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.01072004" lon="16.20749275">
+<name>25.40</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.03984240" lon="16.21048949">
+<name>21.70</name>
+<desc>Most w Zębowicach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.04057737" lon="16.20350251">
+<name>21.00</name>
+<desc>Próg 2-stopniowy z niewielkim odwojem. Na niższym progu ostro krawędziste kamienie. Przy wyższych stanach wody (wodowskaz Jawor >40) pierwszy próg jest bardzo niebezpieczny. Tworzy się za nim długi odwój o głębokiej cyrkulacji i jest tam 2m głębokości. Natomiast ten drugi stopień to okresowa tama zbudowana z kamieni przez dzieci, które tam się kąpią.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.04835594" lon="16.18981286">
+<name>19.60</name>
+<desc>Most drogowy, pod nim wodowskaz "JAWOR"</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.05237275" lon="16.18487030">
+<name>19.00</name>
+<desc>Mostek w Jaworze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.05691572" lon="16.17336552">
+<name>18.00</name>
+<desc>W pobliżu mostu sklep spożywczy na nieodległym osiedlu mieszkaniowym.</desc>
+<cmt>sklep</cmt>
+</wpt>
+
+</gpx>

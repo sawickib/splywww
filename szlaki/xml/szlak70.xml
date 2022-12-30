@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="70" nazwa="Rypienica" wersja="3">
+<opis>Ładna mała rzeczka. Niedoceniana przez autochtonów. Mało przeszkód - przenosek. Na odcinku od mostu przy kościele w Rypinie do Marianek w ciepłe dni trochę śmierdzi. Do pływania proponowałbym kajaki krótkie 1 osobowe ze względu na to że rzeka dość mocno meandruje.</opis> 
+  <odcinek id="285" typ="rzeka" nazwa="Od Osieka do ujścia Rypienicy " 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="pozaKL" 
+      kolejnosc="3"> 
+  <opis>Łatwy malowniczy odcinek. Bardzo długie odcinki na których rzeka płynie po linii prostej.</opis>
+    <punkt id="2612" miejscowosc="Osiek" 
+      ns="53.166661" we="19.366862" km="22.1" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Drogą w prawo około 1,5km sklep spożywczy w Osieku.</opispunktu> 
+    </punkt>
+    <punkt id="2613" miejscowosc="Łapinóż" 
+      ns="53.183992" we="19.360256" km="24.5" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2614" miejscowosc="Łapinóż" 
+      ns="53.195602" we="19.350787" km="26.1" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Most starej kolejki wąskotorowej. </opispunktu> 
+    </punkt>
+    <punkt id="2615" miejscowosc="Kominy" 
+      ns="53.214044" we="19.332563" km="28.8" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Ostani most na Rypienicy do którego możliwy jest dojazd autem.</opispunktu> 
+    </punkt>
+    <punkt id="2616" miejscowosc="" 
+      ns="53.216156" we="19.317257" km="30" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Rypienicy do Drwęcy.</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="284" typ="rzeka" nazwa="Od progu w Rusinowie do Strzyg" 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="*" czystosc="pozaKL" 
+      kolejnosc="2"> 
+  <opis>Odcinek troszkę uciążliwy ze wzgledu na przeszkody w postaci progu, zwalonych krzaków i mniejszych drzew na których zbierają się śmieci oraz kładek przebiegających nisko nad wodą (przenoski). </opis>
+    <punkt id="2601" miejscowosc="Rusinowo" 
+      ns="53.091568" we="19.382723" km="12" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Trzystopniowy próg wodny możliwy do spłynięcia. Uwaga na wystające drewniane pale.</opispunktu> 
+    </punkt>
+    <punkt id="2602" miejscowosc="Rusinowo" 
+      ns="53.091807" we="19.382944" km="13" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2603" miejscowosc="" 
+      ns="53.092944" we="19.384285" km="13.16" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście małego strumyka do Rypienicy.</opispunktu> 
+    </punkt>
+    <punkt id="2604" miejscowosc="" 
+      ns="53.098965" we="19.382022" km="13.91" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2605" miejscowosc="" 
+      ns="53.102347" we="19.376662" km="14.47" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2606" miejscowosc="" 
+      ns="53.113922" we="19.369463" km="15.72" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2607" miejscowosc="" 
+      ns="53.1105666" we="19.370141" km="16.21" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2608" miejscowosc="Strzygi" 
+      ns="53.120047" we="19.377102" km="17.29" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz za stawem.</opispunktu> 
+    </punkt>
+    <punkt id="2609" miejscowosc="Strzygi" 
+      ns="53.122929" we="19.378674" km="17.75" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2610" miejscowosc="Dębowo" 
+      ns="53.141761" we="19.374615" km="18.9" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2611" miejscowosc="Osiek" 
+      ns="53.16517" we="19.367578" km="21.91" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="jaz" kolejnosc="-1"></opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="283" typ="rzeka" nazwa="Od Rypina do Rusinowa" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="-" czystosc="pozaKL" 
+      kolejnosc="1"> 
+  <opis>Najmniej atrakcyjny ocinek rzeki.</opis>
+    <punkt id="2595" miejscowosc="Rypin" 
+      ns="53.066274" we="19.403999" km="8.1" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Mały mostek.</opispunktu> 
+    </punkt>
+    <punkt id="2596" miejscowosc="Rypin" 
+      ns="53.068105" we="19.404011" km="8.3" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Po prawej za mostem stary kościół.</opispunktu> 
+    </punkt>
+    <punkt id="2597" miejscowosc="Rypin" 
+      ns="53.068751" we="19.404711" km="8.4" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Około 0,5m wysokości próg wodny.</opispunktu> 
+    </punkt>
+    <punkt id="2598" miejscowosc="Rypin" 
+      ns="53.074927" we="19.408847" km="9.2" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+    <punkt id="2599" miejscowosc="Rusinowo" 
+      ns="53.079165" we="19.405217" km="9.8" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Po prawej przed mostem oczyszzcalnia ścieków. 200m od mostu po prawej stronie stacja benzynowa - napoje chłodzące :) .</opispunktu> 
+    </punkt>
+    <punkt id="2600" miejscowosc="Rusinowo" 
+      ns="53.087331" we="19.387234" km="11.4" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1"></opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="282" typ="rzeka" nazwa="Od elektrowni w Zakroczu do Rypina" 
+      uciazliwosc="U3" trudnosc="ZWC" 
+      malowniczosc="*" czystosc="KL3" 
+      kolejnosc="0"> 
+  <opis>Rypienica na tym odcinku jest bardzo wąska i meandruje. W górnej części kilka kamienistych bystrzy na których grozi porysowanie lub uszkodzenie kajaka. Odcinek zdecydowanie należy spływać krótkimi wytrzymałymi jedynkami.</opis>
+    <punkt id="2588" miejscowosc="" 
+      ns="53.022457" we="19.475218" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze Rypin - Sierpc. Obok mała elektrownia. Powyżej tego punktu Rypienica jest niespławna. Oczywiście poza rozlewiskiem powstałym wskutek spiętrzenia.
+Początek spływu z tego punktu możliwy tylko przy WWW najczęściej wiosną lub po obfitych opadach.</opispunktu> 
+    </punkt>
+    <punkt id="2589" miejscowosc="" 
+      ns="53.021897" we="19.471807" km="0.2" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy.</opispunktu> 
+    </punkt>
+    <punkt id="2590" miejscowosc="Zakrocz" 
+      ns="53.026546" we="19.458917" km="1.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy.</opispunktu> 
+    </punkt>
+    <punkt id="2591" miejscowosc="Zakrocz" 
+      ns="53.026577" we="19.458377" km="1.4" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Próg o wysokości około 1 metra. </opispunktu> 
+    </punkt>
+    <punkt id="2592" miejscowosc="Zakroczek" 
+      ns="53.031651" we="19.449527" km="2.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Mały mostek - polna droga.
+Przy stanach innych niż WWW nadal zbyt mało wody do płynięcia.</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">KIlka metrów przenoski.</opispunktu> 
+    </punkt>
+    <punkt id="2593" miejscowosc="Dylewo" 
+      ns="53.038333" we="19.437118" km="3.5" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Z tego punktu można spływać przy nieco niższych stanach wody. Tuż za mostem kamieniste bystrze (możliwość tarcia kajakiem o kamienie) długości około 100m. </opispunktu> 
+    </punkt>
+    <punkt id="2594" miejscowosc="Rypin" 
+      ns="53.065289" we="19.405989" km="7.9" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most przy targowisku w Rypinie. Pod mostem ciasno ale da się przepłynąć.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">50m po prawej za targowiskiem sporo sklepów.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="168" nazwa="Łeba" wersja="1">
+<opis>Rzeka o dwóch obliczach. Jak większość rzek Przymorza odwadnia obszar pojezierzy, następnie przebija się przez wały moren polodowcowych i łagodnie uchodzi do morza. Górny odcinek, w obrębie Kaszubskiego Parku Krajobrazowego miejscami jest bystry, miejscami zwałkowy, a nierzadko zarówno bystry, jak i zwałkowy. W zależności od poziomu wody trudny i uciążliwy. Rzeka posiada tu spory spadek, przybierając miejscami charakter górski ze względu na głazy polodowcowe zalegające w korycie. Dolna Łeba dla odmiany płynie leniwie, częściowo wyprostowanym i uregulowanym korytem. Na obszarze Słowińskiego Parku Narodowego wpływa do jeziora Łebsko, a w Łebie uchodzi do Bałtyku. Opis odcinka pomiędzy miejscowościami Strysza Buda a Bożepole Małe sporządzono dla wskazań wodowskazu Miłoszewo - 146, co wydaj się być niezbędnym minimum. Często drze się po kamiennych bystrzach, a liczne większe głazy wystają ponad lustro wody. W miejscach, gdzie woda zabierana jest na młynówki wręcz nie daje się swobodnie przepłynąć. Odcinek ze Stryszej Budy do Tłuczewa zajął w tych warunkach kilku krótkim K1 około 3,5h, natomiast od Tłuczewa do Bożepola Małego około 6h</opis> 
+    <punkt id="5497" miejscowosc="Strysza Buda" 
+      ns="54.39988977" we="18.04693749" km="114.4" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Wygodne miejsce startu przed mostem po lewej stronie</opispunktu> 
+    </punkt>
+    <punkt id="5498" miejscowosc="Strysza Buda" 
+      ns="54.39996834" we="18.04674243" km="114.3" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg - zastawka z uniesionym jednym przęsłem z lewej strony. Dalej dwie pochylnie z metrowymi prożkami, pod progiem głęboko ale delikatny odwój przy małej prędkości ma tendencje do ustawiania bokiem, bowiem woda odbija się z impetem od lewego obmurowania konstrukcji jazu. Poniżej odcinek w otwartym terenie, nurt spokojny pomiędzy łozami, miejscami łatwe zwałki. Stosunkowo wąsko, początek nieco płytki i trochę ciorania po kamieniach</opispunktu> 
+    </punkt>
+    <punkt id="5499" miejscowosc="Strysza Buda " 
+      ns="54.40552048" we="18.04166877" km="113.6" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek</opispunktu> 
+    </punkt>
+    <punkt id="5500" miejscowosc="Nowa Huta" 
+      ns="54.4117112" we="18.03673282" km="112.8" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Mirachowskiej Strugi z lewej strony. Wyraźna poprawa w ilości wody oraz wzrost szerokości rzeki</opispunktu> 
+    </punkt>
+    <punkt id="5501" miejscowosc="Nowa Huta" 
+      ns="54.41720198" we="18.03167123" km="111.9" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki stalowy most</opispunktu> 
+    </punkt>
+    <punkt id="5502" miejscowosc="Miłoszewo" 
+      ns="54.4396936" we="18.02970834" km="108.8" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Za mostem wodowskaz, wskazania którego można obserwować w internecie. W dniu spływu wskazywał on poziom 146, co wydaje się być niezbędnym minimum, bowiem często uderza się o kamienie i osiada na płyciznach. Poniżej odcinek przełomowy, znacznie bardziej bystry, kręty, płytki z kamienno-żwirowymi przemiałami, z kilkoma zwałkami w nurcie</opispunktu> 
+    </punkt>
+    <punkt id="5503" miejscowosc="Strzepcz " 
+      ns="54.4483721" we="18.02100696" km="107.2" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowa kładka i kamienny prożek. Dalej drobne zwałki, odcinek spokojnej wody</opispunktu> 
+    </punkt>
+    <punkt id="5504" miejscowosc="Strzepcz" 
+      ns="54.45610346" we="18.00272511" km="105.3" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy </opispunktu> 
+    </punkt>
+    <punkt id="5505" miejscowosc="Tłuczewo " 
+      ns="54.45886505" we="17.98479031" km="103.8" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora pstrągarni. Rozlewisko przed zaporą miejscami bardzo płytkie i zamulone. Niezbyt wygodne wyjście z wody na prawy wysoki brzeg. Przenoska po trawie około 40m</opispunktu> 
+    </punkt>
+    <punkt id="5506" miejscowosc="Tłuczewo" 
+      ns="54.46288217" we="17.97633855" km="102.8" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora młyna, miejsce wygodne na zakończenie etapu. Wyjście z wody na lewy brzeg, teren wygląda na prywatny ale właściciel się nie objawił. Nad zaporą most drogowy. W przypadku kontynuacji spływu w miejscu tym konieczna jest niewygodna przenoska lewą stroną przez prywatne podwórko za sklepem i wodowanie na młynówce, albo przez most na prawo, na rzekę, pod warunkiem, że jest tam wystarczająca ilości wody. Poniżej odcinek nieco bystrej wody bez zwałek, za to z głazami. Koło w młynie obraca się, ale nie ma pasa transmisyjnego, za pozwoleniem można wejść do środka i obejrzeć mechanizm. Samochody pozwolono nam zostawić na podwórku za sklepem, po uzgodnieniu z właścicielem</opispunktu> 
+    </punkt>
+    <punkt id="5507" miejscowosc="Tłuczewo" 
+      ns="54.46673808" we="17.97566417" km="101.8" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Uniesiona podwójna zastawka, przeciskanie na sporym nurcie </opispunktu> 
+    </punkt>
+    <punkt id="5508" miejscowosc="Osiek " 
+      ns="54.48443339" we="17.98402094" km="99.2" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowe przyczółki tworzące niewielki prożek, dalej zwałki głazy i kamienie </opispunktu> 
+    </punkt>
+    <punkt id="5509" miejscowosc="Łówcz" 
+      ns="54.49087226" we="17.98300027" km="98" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Z lewej strony uniesiona podwójna zastawka prowadząca na młynówkę. Niemalże cała woda skierowana jest właśnie tam, jednak oznakowany monitorowany teren wojskowy oraz wybetonowane brzegi nie zachęcają do obrania tego kierunku. Po prawej stronie suchy jaz. Przenoska po trawie 20m z prawej strony jazu, wyjście przez, nie spełniającą swojej funkcji, przepławkę dla ryb. Poniżej odcinek 1,8 km bardzo płytkiej, niemalże stojącej wody, z licznymi głazami i kamieniami, praktycznie bez możliwości płynięcia przy tych warunkach wodnych</opispunktu> 
+    </punkt>
+    <punkt id="5510" miejscowosc="Łówcz" 
+      ns="54.5009727" we="17.99842721" km="96.2" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Wysoki budynek MEW Łówcz. Elektrownia oddaje wodę i dalej warunki są już dobre. Poniżej pojedyncze zwałki</opispunktu> 
+    </punkt>
+    <punkt id="5511" miejscowosc="Tępski Młyn " 
+      ns="54.51137173" we="18.00027135" km="94.7" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Drewniany budynek młyna z drewnianą konstrukcją starego piętrzenia, z kładką. 6 przęseł utworzonych z desek i bali, ze sterczącymi pionowo gwoździami. Zalecana przenoska z prawej strony lub spłynięcie bystrym obejściem również z prawej. Na obejściu, tuż za zakrętem przez rzekę przerzucona jest niska kładka na sporym nurcie, zmuszająca do szybkiej reakcji i odpowiedniego działania. Poniżej zwałki nieco bardziej wymagające, nurt miejscami bystry, a w korycie sporo kamieni. Główne koryto często rozwidla się</opispunktu> 
+    </punkt>
+    <punkt id="5512" miejscowosc="Porzecze " 
+      ns="54.51733367" we="18.00487202" km="93.8" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Betonowy jaz dwu przęsłowy z kładką, płynąć prawą stroną</opispunktu> 
+    </punkt>
+    <punkt id="5513" miejscowosc="Paraszyno " 
+      ns="54.52298003" we="18.00555972" km="93" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 3 przęsłowy z niską kładką. W lewo odchodzi młynówka. Przenoska prawym brzegiem 20m. Warto w tym miejcu zrobić przerwę i wybrać się na krótką wycieczkę, ścieżką w prawo w górę na strome zbocze głęboko wciętej doliny, ponad starorzecze</opispunktu> 
+    </punkt>
+    <punkt id="5514" miejscowosc="Paraszyno " 
+      ns="54.53731548" we="18.01217309" km="91.1" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Drogowy most betonowy, pod nim kamienne bystrze. Poniżej rozlewisko przez zaporą</opispunktu> 
+    </punkt>
+    <punkt id="5515" miejscowosc="Paraszyno " 
+      ns="54.54473199" we="18.02095537" km="89.8" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora hydroelektrowni Paraszyno, przed zaporą płytko i muliście. Niewygodne wyjście na prawy, stromy brzeg, krótka przenoska po trawie i równie niewygodne wodowanie z wielkich głazów. Poniżej kilka bardziej wymagających zwałek na sporym nurcie, za to głazów i kamieni zdecydowanie mniej</opispunktu> 
+    </punkt>
+    <punkt id="5516" miejscowosc="Bożepole Małe " 
+      ns="54.55877319" we="18.00635661" km="86.7" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="jaz" kolejnosc="-1">3 przęsłowa betonowa zastawka z kładką - 2 prożki po 0,5 m. Poniżej wymagające zwałki często na nurcie </opispunktu> 
+    </punkt>
+    <punkt id="5517" miejscowosc="Bożepole Małe" 
+      ns="54.56434131" we="17.98632388" km="84.4" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski most drogowy, wygodne miejsce zakończenia etapu. Wyjście z wody na lewo przed mostem</opispunktu> 
+    </punkt>
+    <punkt id="5518" miejscowosc="Bożepole Małe" 
+      ns="54.56447388" we="17.98496496" km="84.3" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora hydroelektrowni</opispunktu> 
+    </punkt>
+    <punkt id="5519" miejscowosc="Węgornia " 
+      ns="54.56892031" we="17.81969498" km="62.7" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Węgorzy z lewej</opispunktu> 
+    </punkt>
+    <punkt id="5520" miejscowosc="Lębork " 
+      ns="54.54219312" we="17.75200801" km="56" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Okalicy</opispunktu> 
+    </punkt>
+    <punkt id="5521" miejscowosc="Lębork " 
+      ns="54.54570563" we="17.71036495" km="53.2" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Kisewy z prawej</opispunktu> 
+    </punkt>
+    <punkt id="5522" miejscowosc="Chocielewko " 
+      ns="54.52849371" we="17.61122228" km="44.9" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Pogorzelicy z lewej</opispunktu> 
+    </punkt>
+    <punkt id="5523" miejscowosc="Łeba" 
+      ns="54.76045093" we="17.54802261" km="0.9" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Chełst z prawej</opispunktu> 
+    </punkt>
+    <punkt id="5524" miejscowosc="Łeba" 
+      ns="54.76797684" we="17.55096191" km="0" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Łeby do Bałtyku</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

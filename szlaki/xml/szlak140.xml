@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="140" nazwa="Średzka Woda" wersja="1">
+<opis>Niewielki lewy dopływ Odry w powiecie średzkim, na zachód od Wrocławia. Rzeka stosunkowo mało urozmaicona, w większości płynąca w otwartym terenie, w znaczącej swej części uregulowana i rzadko prowadząca odpowiednią ilość wody. Dla kajaków dostępna niemalże wyłącznie wiosną i to przez krótki okres czasu, bowiem jej obszar żródliskowy jest niewielki, nie jest też zasilana przez znaczące dopływy. 
+Odcinek z Ciechowa do Malczyc zajął dwom K1 około 7h (bez pośpiechu), przy optymalnych warunkach wodnych.
+Na Średzkiej Wodzie nie ma wodowskazów objętych monitoringiem. Najbliższy wodowskaz znajduje się w Malczycach na rzece Odrze (w dniu spływu wskazywał on poziom - 170), jego wskazania nie mają jednak większego związku z poziomem Średzkiej Wody i nie należy sugerować się tymi wartościami.</opis> 
+    <punkt id="4848" miejscowosc="Ciechów" 
+      ns="51.12775809" we="16.56516166" km="22.1" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Plac rekreacyjny powyżej mostu drogowego. Wygodne miejsce wodowania. Sporo miejsca na pozostawienie samochodów. Zazwyczaj mało wody a koryto ma tu 2-4 m</opispunktu> 
+    </punkt>
+    <punkt id="4849" miejscowosc="Ciechów" 
+      ns="51.12767022" we="16.56615854" km="22" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze Środa Śląska - Sobótka</opispunktu> 
+    </punkt>
+    <punkt id="4850" miejscowosc="Ciechów" 
+      ns="51.12684341" we="16.57033277" km="21.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony Średzką Wodę zasila rzeczka Luciąża, w sposób zauważalny poprawiając warunki wodne </opispunktu> 
+    </punkt>
+    <punkt id="4851" miejscowosc="Ciechów" 
+      ns="51.1271176" we="16.57468666" km="21.5" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Dwu stopniowy próg, 0,5 m + 0,3 m</opispunktu> 
+    </punkt>
+    <punkt id="4852" miejscowosc="Ciechów" 
+      ns="51.127198" we="16.57606137" km="21.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Ładny sklepiony ceglany mostek. Za nim zaczyna się krótki ale interesujący odcinek leśny, dzikii z niewielką ilością zwalonych drzew</opispunktu> 
+    </punkt>
+    <punkt id="4853" miejscowosc="Chwalimierz" 
+      ns="51.14122922" we="16.59513803" km="18.3" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Przepust rurowy na lokalnej drodze. Od tego miejsca rzeka znacznie się pogłębia, co ułatwia płynięcie</opispunktu> 
+    </punkt>
+    <punkt id="4854" miejscowosc="Chwalimierz" 
+      ns="51.1469318" we="16.58845751" km="17.3" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, pod nim kamienie</opispunktu> 
+    </punkt>
+    <punkt id="4855" miejscowosc="Środa Śląska" 
+      ns="51.15170348" we="16.58474633" km="16.6" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze Środa Śląska - Sobótka. Poniżej, praktycznie do samego ujścia do Odry, z krótkimi wyjątkami, rzeka jest uregulowana i wyprostowana</opispunktu> 
+    </punkt>
+    <punkt id="4856" miejscowosc="Środa Śląska" 
+      ns="51.15209716" we="16.58423075" km="16.5" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla rowerzystów</opispunktu> 
+    </punkt>
+    <punkt id="4857" miejscowosc="Środa Śląska" 
+      ns="51.15260413" we="16.58331866" km="16.4" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg betonowy 1,2 m, na środku metalowa szyna</opispunktu> 
+    </punkt>
+    <punkt id="4858" miejscowosc="Środa Śląska" 
+      ns="51.15734575" we="16.57849002" km="15.7" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Identyczny jak wyżej  próg betonowy 1,2 m, z metalową szyną na środku</opispunktu> 
+    </punkt>
+    <punkt id="4859" miejscowosc="Środa Śląska" 
+      ns="51.16094845" we="16.58220461" km="15.2" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg betonowy o wysokości 0,5 m</opispunktu> 
+    </punkt>
+    <punkt id="4860" miejscowosc="Środa Śląska" 
+      ns="51.16157794" we="16.58222605" km="15" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na obwodnicy miasta</opispunktu> 
+    </punkt>
+    <punkt id="4861" miejscowosc="Środa Śląska" 
+      ns="51.16304748" we="16.58180981" km="14.9" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most przy ul. Legnickiej</opispunktu> 
+    </punkt>
+    <punkt id="4862" miejscowosc="Środa Śląska" 
+      ns="51.16745053" we="16.58076667" km="14.4" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most przy ul. Spółdzielczej</opispunktu> 
+    </punkt>
+    <punkt id="4863" miejscowosc="Środa Śląska" 
+      ns="51.1718649" we="16.58480802" km="13.8" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek przy ogródkach działkowych</opispunktu> 
+    </punkt>
+    <punkt id="4864" miejscowosc="Środa Śląska" 
+      ns="51.17238819" we="16.58675708" km="13.6" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most u zbiegu ulic Malczyckiej, Żytniej i Kolejowej</opispunktu> 
+    </punkt>
+    <punkt id="4865" miejscowosc="Środa Śląska" 
+      ns="51.17289775" we="16.58876464" km="13.5" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek 4 przęsłowy 0,5 m, poniżej kamienie</opispunktu> 
+    </punkt>
+    <punkt id="4866" miejscowosc="Środa Śląska" 
+      ns="51.17326851" we="16.59137955" km="13.3" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="4867" miejscowosc="Środa Śląska" 
+      ns="51.17434134" we="16.59497518" km="13" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most przy ul. Działkowej, za nim nisko nad wodą stalowa rura i kamienne bystrze</opispunktu> 
+    </punkt>
+    <punkt id="4868" miejscowosc="Środa Śląska" 
+      ns="51.17675432" we="16.60286677" km="12.4" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze, pod nim kamienie</opispunktu> 
+    </punkt>
+    <punkt id="4869" miejscowosc="Środa Śląska" 
+      ns="51.17805823" we="16.60354717" km="12.2" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Stalowa rura w poprzek, na granicy lustra wody, zaraz za nią szyna stercząca pionowo po środku koryta rzeki</opispunktu> 
+    </punkt>
+    <punkt id="4870" miejscowosc="Środa Śląska" 
+      ns="51.18070607" we="16.60565635" km="11.9" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Zrzut ścieków z oczyszczalni</opispunktu> 
+    </punkt>
+    <punkt id="4871" miejscowosc="Środa Śląska" 
+      ns="51.18332416" we="16.6068012" km="11.6" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Dwu przęsłowy próg 0,8 m, zaraz za nim niski prożek z kamieni</opispunktu> 
+    </punkt>
+    <punkt id="4872" miejscowosc="Szczepanów" 
+      ns="51.18764734" we="16.60283202" km="10.8" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4873" miejscowosc="Szczepanów" 
+      ns="51.18942895" we="16.60091908" km="10.6" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy, zaraz za nim niewielki prożek</opispunktu> 
+    </punkt>
+    <punkt id="4874" miejscowosc="Szczepanów" 
+      ns="51.19007559" we="16.60001264" km="10.5" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niewielki prożek, za nim kamienie</opispunktu> 
+    </punkt>
+    <punkt id="4875" miejscowosc="Szczepanów" 
+      ns="51.19183117" we="16.59646152" km="10.2" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Trój przęsłowy próg 0,5 m. Poniżej króki odcinek leśny z tworzącymi się zatorami z krzaków i śmieci. W miejscach zatorów piętrząca się woda podmywa brzegi modelując i urozmaicając nieco uregulowane koryto rzeki</opispunktu> 
+    </punkt>
+    <punkt id="4876" miejscowosc="Szczepanów" 
+      ns="51.19256431" we="16.59538094" km="10.1" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Stalowa rura w skos koryta na wysokości lustra wody</opispunktu> 
+    </punkt>
+    <punkt id="4877" miejscowosc="Szczepanów " 
+      ns="51.19577332" we="16.59395931" km="9.7" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Szczepanowem a Lipnicą. Wygodny dostęp do wody</opispunktu> 
+    </punkt>
+    <punkt id="4878" miejscowosc="Szczepanów" 
+      ns="51.19615899" we="16.59400539" km="9.6" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Trój przęsłowy próg 0,6 m</opispunktu> 
+    </punkt>
+    <punkt id="4879" miejscowosc="Szczepanów " 
+      ns="51.20408625" we="16.59448454" km="8.6" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4880" miejscowosc="Szczepanów" 
+      ns="51.20459841" we="16.59381949" km="8.5" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg 0,8 m. 5 m niżej kamienne przewężenie i dość bystro</opispunktu> 
+    </punkt>
+    <punkt id="4881" miejscowosc="Lipnica" 
+      ns="51.21163778" we="16.57861632" km="7.3" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Odcinek leśny z tamą bobrową o wysokości 1 m</opispunktu> 
+    </punkt>
+    <punkt id="4882" miejscowosc="Lipnica" 
+      ns="51.21231275" we="16.57644264" km="7" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy na skraju lasu</opispunktu> 
+    </punkt>
+    <punkt id="4883" miejscowosc="Lipnica " 
+      ns="51.21300267" we="16.56854742" km="6.4" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="4884" miejscowosc="Lipnica " 
+      ns="51.21841433" we="16.55705219" km="5.4" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej dopływa rzeka Jeziorka</opispunktu> 
+    </punkt>
+    <punkt id="4885" miejscowosc="Chomiąża " 
+      ns="51.21870844" we="16.53590645" km="3.8" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4886" miejscowosc="Chomiąża" 
+      ns="51.21925139" we="16.53432926" km="3.7" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka</opispunktu> 
+    </punkt>
+    <punkt id="4887" miejscowosc="Malczyce" 
+      ns="51.22012672" we="16.50739899" km="1.5" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Kamienne bystrze</opispunktu> 
+    </punkt>
+    <punkt id="4888" miejscowosc="Malczyce " 
+      ns="51.2225577" we="16.50191215" km="0.8" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Most przed portem</opispunktu> 
+    </punkt>
+    <punkt id="4889" miejscowosc="Malczyce" 
+      ns="51.22603851" we="16.49457788" km="0" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Średzkiej Wody do Odry. Spływ wygodnie jest zakończyć w nieczynnym porcie, gdzie cofając się nieco w lewo do doku, można wyjść na trawiasty brzeg w jednej z licznych wędkarskich zatoczek. W pobliże można też dotrzeć samochodem gruntową wyboistą drogą. Najlepiej jednak jest dopłynąć do Odry i zejść na ląd po lewej stronie, gdzie samochodem dojechać można do samej rzeki</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

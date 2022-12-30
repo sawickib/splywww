@@ -1,0 +1,305 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="0.00000000" lon="0.00000000">
+<name>326.00</name>
+<desc>Początek spływu na łączce z boiskiem do piłki nożnej na lewym brzegu rzeki, dostępnej z szosy Obrocz-Bondyrz, odległej od mostu na drodze do Zamościa o ok. 600 m w stronę Bondyrza. Przy brzegu mały pomost.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.60354800" lon="23.02461600">
+<name>325.33</name>
+<desc>Most drogowy na szosie do Zamościa. Za mostem mielizny.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>323.40</name>
+<desc>Na ostrym zakręcie w prawo piękny wysoki lewy brzeg. Za nim początek odcinka w podmokłym lesie, kończącego się przy zalewie w Rudce.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>321.00</name>
+<desc>Ujście Wieprza do zalewu w Rudce; niska żelazna kładka wymaga schowania się do wnętrza łódki.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.61133500" lon="22.98725900">
+<name>321.40</name>
+<desc>Lądowanie na lewo od jazu i przenoska przez most nad jazem na prawy brzeg. Wodowanie przy pomoście tuż poniżej jazu. Po prawej kanał roboczy, łączący się nieco dalej z kanałem spod jazu.</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>321.40</name>
+<desc>Jaz zalewu w Rudce.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>320.90</name>
+<desc>Most kolejowy. Pod nim kamienna tama z wąską przerwą w środku. Szybki prąd - dobrze celować!</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>320.60</name>
+<desc>Most drogowy w Zwierzyńcu, ul.1-go Maja.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>320.10</name>
+<desc>Dwie kładki. Po lewej Park Miejski, dalej w lewo pizzerio-restauracja "Młyn". Można podpłynąć kanałem odprowadzającym wodę ze Stawu Kościelnego. Na stawie Kościółek na Wyspie. Na sąsiedniej wyspie - psi cmentarzyk późniejszej królowej - Marysieńki Sobieskiej. Po przeciwnej stronie ulicy Browarnej pozostałości zabudowań po pałacu i parku ordynacji Zamoyskiej, dalej mostek na strumieniu Świerszcz, zabytkowy browar ("Pijcie piwo browaru Zwierzyniec nad Wieprzem!") z firmowym sklepem. Dalej po prawej, na skarpie, modrzewiowa Willa Plenipotenta mieszcząca obecnie dyrekcję RPN. Zaś trochę dalej po lewej - Ośrodek Edukacyjno-Muzealny RPN i początek ścieżek dydaktycznych na Bukową Górę i do Stawów "Echo".</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.61117300" lon="22.96612800">
+<name>319.71</name>
+<desc>Most drogowy w Zwierzyńcu, ul.Zamojska. W głębi, po lewej budynek starej karczmy. Na dole bar. W pomieszczeniach na górze funkcjonował powstańczy szpital polowy po zwycięskiej bitwie pod niedaleką Panasówką w sierpniu 1863 r.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>318.30</name>
+<desc>Silne źródła wyciekające ze stromego zbocza lewego brzegu.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.62777100" lon="22.94883400">
+<name>317.23</name>
+<desc>Most drogowy na drodze Wywłoczka-Bagno.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>317.20</name>
+<desc>Bardzo niska kładka z podnoszonym na zawiasach jednym przęsłem.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>316.50</name>
+<desc>Dwustopniowy jaz z kładką. Łączna wysokość progów ok. 2 m.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>315.00</name>
+<desc>Rozmyty próg wysokości ok. 30 cm. Można spłynąć środkiem.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>314.40</name>
+<desc>Dwuprzęsłowy most. Po prawej, niedaleko, szosa Zwierzyniec-Szczebrzeszyn i zabudowania Żurawnicy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>314.00</name>
+<desc>Rozmyty próg wysokości ok. 40 cm. Nad progiem drewniany, dwuprzęsłowy most, za nim małe bystrze. Można spłynąć pod prawym przęsłem, ale może lepiej najpierw upewnić się z mostu, czy nie wpakujemy się na kołki, kłodę lub kamienie. Prąd szybki.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>313.70</name>
+<desc>Rozmyty próg wysokości ok. 30 cm. Można spłynąć środkiem.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>312.70</name>
+<desc>Rozmyty próg byłego młyna w Kawęczynie wysokości ok. 80 cm. Obecnie jest to właściwie pochylnia. Można spłynąć ale za nim jest kilka dość dużych fal stojących, grożących zalaniem kokpitu. Można też łódkę spławić przy prawym brzegu.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.66846100" lon="22.95842800">
+<name>312.12</name>
+<desc>Drewniany most na gruntowej drodze Kawęczyn-Brody Małe. Za nim, po lewej stronie widać w oddali wzgórza szczebrzeskie, z położonymi nań cmentarzami oraz dalej w prawo wzgórze zamkowe z ruiną zamku.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>309.40</name>
+<desc>Po lewej zabudowania Błoni, przedmieścia Szczebrzeszyna. Rzeka zbliża się do szosy po lewej stronie, płynie pięknym szpalerem starych olch. Gwałtownie przyspiesza, zwęża się i spłyca. Dno i brzegi kamieniste.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.71474800" lon="23.01876400">
+<name>304.18</name>
+<desc>Most w Klemensowie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.69267900" lon="22.97971500">
+<name>308.22</name>
+<desc>Most nad progiem przy młynie w Szczebrzeszynie. Bardzo szybki prąd, wąsko, płytko i kamienie. Widok przesłaniają schodzące niemal nad samą wodę gałęzie. Niewygodne lądowanie na prawym, stromym brzegu. Najrozsądniej jest chyba przeprowadzić łódkę do miejsca, gdzie najlepiej wylądować. O bezpośredniej bliskości progu świadczy piętrowa kamienica z czerwonej cegły na lewym brzegu. Na wysokości młyna, po drugiej stronie ulicy, przy wywierzysku stoi drewniany posąg świerszcza. Rynek w miasteczku około 500 m dalej.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.73445800" lon="23.02032700">
+<name>301.82</name>
+<desc>Most w Michałowie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.80492500" lon="23.03645300">
+<name>291.88</name>
+<desc>Zapora</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="50.80897900" lon="23.04070700">
+<name>291.32</name>
+<desc>Most w Nieliszu</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.86609700" lon="23.09858000">
+<name>277.86</name>
+<desc>Most w Wirkowicach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.89321000" lon="23.14768900">
+<name>267.27</name>
+<desc>Most w Izbicy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.92781400" lon="23.15215600">
+<name>258.24</name>
+<desc>Most w Dworzyskach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.98501600" lon="23.17652200">
+<name>244.85</name>
+<desc>Most w Krasnystawie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.03964600" lon="23.15003100">
+<name>233.59</name>
+<desc>Most w Stężycy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.06813800" lon="23.10931000">
+<name>223.41</name>
+<desc>Most w Borowicy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.11777200" lon="23.03500400">
+<name>206.52</name>
+<desc>Most w Oleśnikach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.13850700" lon="23.00154400">
+<name>200.30</name>
+<desc>Most w Trawnikach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.17883400" lon="22.97794000">
+<name>190.56</name>
+<desc>Most w Siostrzytowie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.21097800" lon="22.94334500">
+<name>181.98</name>
+<desc>Most w Jaszczowie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.22728300" lon="22.93595000">
+<name>179.50</name>
+<desc>Most na drodze z Milejowa do Klarowa. Sprzęt najlepiej wodować nieco powyżej mostu - dojście ścieżką z wyłożonej płytami drogi odbijającej od szosy w prawo tuż przed mostem. Uwaga - pod mostem silny prąd spycha na lewy filar.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>174.50</name>
+<desc>Po prawej ujście długiego, zgubionego wśród łąk starorzecza. Dalej na prawym brzegu zaczyna się las.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.26481100" lon="22.93626400">
+<name>169.67</name>
+<desc>Betonowy most w Łańcuchowie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>169.60</name>
+<desc>Za mostem dwa zakręty w kształcie S. Po pierwszym w prawo odbija sztuczny przekop, skracający trasę o jakieś 300 m.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>169.00</name>
+<desc>Jeśli nie popłyniemy przekopem mijamy na lewym brzegu dwór proj. Stanisława Witkiewicza w stylu zakopiańskim, stojący w rozległym parku. Obecnie własność prywatna. Za pozwoleniem można obejrzeć. Na prawym brzegu podmokły las</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>168.30</name>
+<desc>Z prawej strony dołącza płynący lasem przekop</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.28535900" lon="22.87195800">
+<name>161.54</name>
+<desc>Most na drodze z Łęcznej do Milejowa. Kończą się meandry. Dalej rzeka płynie głęboką doliną o stromych zboczach, miejscami sięgających 20 m</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.30410300" lon="22.87062700">
+<name>158.63</name>
+<desc>Wysoki, betonowy most w poprzek doliny rzeki na przedmieściu Łęcznej od strony Lublina</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>157.43</name>
+<desc>Mała rzeczka Świnka wpada z prawej strony. Niestety po przepłynięciu przez miasto jest bardzo brudna</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>153.93</name>
+<desc>Po zatoczeniu szerokiego łuku niemal wracamy do miejsca, w którym byliśmy kilka minut wcześniej. Przy wysokim stanie wody pewnie można na skróty</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>152.90</name>
+<desc>Malowniczo położona wieś nad wysoką i stromą skarpą prawego brzegu</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.32500000" lon="22.81610000">
+<name>150.00</name>
+<desc>Przy lewym brzegu wysoki i bardzo stromy kopiec grodziska. Wygodne miejsce na postój. Krawędzią doliny biegnie droga z Łęcznej do Kijan. W wodzie resztki po dawnym młynie</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.33772100" lon="22.77915900">
+<name>146.95</name>
+<desc>Most w Kijanach. Filary mostu są jak zapałki - tak w ilości jak i grubości. Dalej po lewej park i pałac, obecnie użytkowany przez Technikum Ogrodnicze. Dolina rzeki obniża się</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>143.00</name>
+<desc>Po lewej ujście Bystrzycy - miejskiej rzeki Lublina. Wieprz wyraźnie potężnieje. W oddali po prawej na wzgórzu, na tle starych drzew parku bieleje kaplica stojąca obok ruin zawieprzyckiego zamku. Na lewo od niej - same ruiny, niestety obecnie bardzo zaniedbane</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.35718200" lon="22.75500900">
+<name>142.23</name>
+<desc>Nowy betonowy most w Zawieprzycach. Przed nim w wodzie resztki starego, drewnianego. Najlepiej ominąć je z lewej strony. Lądowanie na prawym brzegu na plaży pod mostem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.43602400" lon="22.65564100">
+<name>123.55</name>
+<desc>Most w Sernikach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.47386600" lon="22.63341300">
+<name>117.84</name>
+<desc>Most w Chlewiskach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.54896000" lon="22.60619700">
+<name>101.41</name>
+<desc>Most w Leszkowicach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.57701300" lon="22.54030700">
+<name>91.09</name>
+<desc>Most w Serocku</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.59955300" lon="22.27797100">
+<name>59.75</name>
+<desc>Most w Jeziorzanach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.56928200" lon="22.12988900">
+<name>40.30</name>
+<desc>Most pomiędzy Drążgowem a Baranowem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.57335900" lon="22.00136100">
+<name>19.68</name>
+<desc>Most w Strzyżowicach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.54730200" lon="21.83339300">
+<name>0.00</name>
+<desc>Ujście Wieprza do Wisły</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

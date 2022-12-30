@@ -1,0 +1,341 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.44377961" lon="16.65916849">
+<name>129.60</name>
+<desc>Wygodne miejsce na rozpoczęcie spływu. Dobry dojazd nad samą rzekę, dużo miejsca na pozostawienie samochodów</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.45446193" lon="16.65480879">
+<name>128.40</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.45745662" lon="16.65686626">
+<name>128.00</name>
+<desc>Wysoki most obwodnicy Kłodzka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.46046933" lon="16.65787769">
+<name>127.70</name>
+<desc>Jaz piętrzący wodę na potrzeby elektrowni w Młynowie. Prosto przegrodzony kanał do elektrowni, w lewo woda skierowana przez próg. Przenoska lewym brzegiem. W maju 2012 było bardzo mało wody, do tego stopnia, że za jazem koryto było suche - cała woda skierowana była na elektrownię</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.46835886" lon="16.65800992">
+<name>126.40</name>
+<desc>Niski mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.47040693" lon="16.65530803">
+<name>126.30</name>
+<desc>Z lewej strony wpada rzeka Ścinawka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.47055855" lon="16.65788162">
+<name>126.20</name>
+<desc>Elektrownia wodna. Przenoska lewym brzegiem, około 60m przez suche (maj 2012) koryto ulgi, na kanał za elektrownią</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.47943583" lon="16.66334582">
+<name>125.00</name>
+<desc>Jaz piętrzący wodę dla ŚP elektrowni wodnej. Przenoska bezpośrednio przez jaz, w prawo - 20m. W bezpośrednie sąsiedztwo jazu dochodzi droga, jest to częste miejsce rozpoczynania spływów przełomem bardzkim</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.47993222" lon="16.66508161">
+<name>124.80</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.48333375" lon="16.67618727">
+<name>121.80</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.49544684" lon="16.68575803">
+<name>119.40</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.50296762" lon="16.71974959">
+<name>115.60</name>
+<desc>Jaz piętrzący wodę na potrzeby elektrowni. Przenoska prawym brzegiem. Oznakowane wyjście z wody, schodki drewniane tuż przed jazem</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.50538595" lon="16.73693489">
+<name>113.35</name>
+<desc>Stary sklepiony most kamienny</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.50488446" lon="16.73684605">
+<name>113.30</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.50466902" lon="16.73685664">
+<name>113.25</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.50433927" lon="16.73670079">
+<name>113.20</name>
+<desc>Przystań kajakowa w Bardzie. Wygodne miejsce wodowania z dojazdem w pobliże wody. Parking, bar na przystani, sklepy w mieście</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="50.50665102" lon="16.76523422">
+<name>111.00</name>
+<desc>Oznakowane miejsce biwakowe po prawej stronie Nysy, z dobrym dojazdem. W pobliżu niewielka sztolnia z wejściem na poziomie rzeki</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="50.50809871" lon="16.76993766">
+<name>110.70</name>
+<desc>Jaz przy małej elektrowni wodnej. Przenoska przez fragment pochyły jazu i kamienie, około 30m. Poniżej bardzo atrakcyjny odcinek rzeki, znaczny prąd, sporo żwirowych przemiałów, drzewa w nurcie, wysepki, miejscami krajobraz księżycowy</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.51078962" lon="16.78332907">
+<name>109.70</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.52225602" lon="16.81614578">
+<name>106.60</name>
+<desc>Wypływ z jeziora</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="50.52571963" lon="16.82083632">
+<name>105.90</name>
+<desc>W tym miejscu, do powodzi w 1997 r. funkcjonował most drogowy</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.52676227" lon="16.83248073">
+<name>105.10</name>
+<desc>Fotogeniczna, wysoka, podmyta skarpa </desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.51294980" lon="16.87015751">
+<name>101.50</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.51385445" lon="16.88760551">
+<name>100.10</name>
+<desc>Z lewej strony uchodzi rzeka Budzówka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.51593725" lon="16.89581269">
+<name>99.40</name>
+<desc>W tym miejscu, do powodzi w 1997 r. funkcjonował most kolejowy na lini z Kamieńca Ząbkowickiego do Złotego Stoku</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="50.50835668" lon="16.92142976">
+<name>96.90</name>
+<desc>Pola namiotowe - kempingi; po lewej Bartniki, po prawej Topola</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="50.50337522" lon="16.92729707">
+<name>96.20</name>
+<desc>Most drogowy tzw. garbaty, z wygodnym dostępem do wody. Popularne miejsce kończenia etapu
+</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.44894096" lon="17.29602679">
+<name>67.00</name>
+<desc>Ujście Białej Głuchołaskiej do zbiornika Nyskiego, w szerokiej zatoce. Po lewej (orograficznie dla Białej Głuchołaskiej) stronie, na krzakach zawieszone są odblaskowe trójkąty samochodowe, a po środku zatoki znajduje się mała kępa drzew, dzięki którym można odnaleźć nieoczywisty wypływ rzeki, od strony jeziora</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.46297002" lon="17.30602592">
+<name>65.40</name>
+<desc>Zapora j. Nyskiego</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.47186784" lon="17.31990083">
+<name>63.90</name>
+<desc>Jaz z kładką dla pieszych</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.47635783" lon="17.32659877">
+<name>63.20</name>
+<desc>Most w ul. Mostowej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.47950216" lon="17.33402077">
+<name>62.50</name>
+<desc>Jaz elektrowni wodnej</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.48047451" lon="17.33598484">
+<name>62.30</name>
+<desc>Most w ul. J. Bema</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.48136668" lon="17.34006378">
+<name>62.00</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.48150621" lon="17.34415022">
+<name>61.70</name>
+<desc>Kładka dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.48302778" lon="17.34813889">
+<name>61.50</name>
+<desc>Jaz o wysokości około 1,5m. Poniżej, wygodne miejsce rozpoczynania spływów dolnym odcinkiem rzeki. Tuż przy jazie jest duży plac parkingowy na potrzeby pobliskiego kościoła. Dobry dojazd, ale zejście do wody nieco strome, a brzeg wzmocniony kamieniami</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.48553775" lon="17.38535583">
+<name>58.50</name>
+<desc>Z prawej strony uchodzi potok Pluta</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.48568304" lon="17.38806651">
+<name>58.40</name>
+<desc>Most obwodnicy Nysy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.48095085" lon="17.40485060">
+<name>56.90</name>
+<desc>Z prawej strony Nysę zasila Kamienica</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.48561243" lon="17.43468763">
+<name>54.30</name>
+<desc>Z prawej strony wpada rzeczka Lepietnica</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.51306505" lon="17.46033232">
+<name>50.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.51994997" lon="17.46754902">
+<name>48.90</name>
+<desc>Elektrownia wodna. Przed nią niewielkie rozlewisko. Wcześniej, najwygodniej było przenieść kajak lewym brzegiem, aktualnie, najbardziej dogodną jest przenoska przez wyspę, pomiędzy jazem a elektrownią, początkowo po kamieniach i żwirze, a następnie trawiastą ścieżką. Długość przenoski około 170m. Wyjście z wody łatwe, prawie poziome, na kamienie na grobli lub trawę na wyspie. Zejście do wody strome, około 3 m. Ze względu na trwające prace (płot, grobla, koparka) sytuacja może się wkrótce zmienić</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.58553853" lon="17.47475930">
+<name>40.60</name>
+<desc>Most drogowy na ruchliwej drodze z Nysy do Opola</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.60000554" lon="17.46666451">
+<name>38.50</name>
+<desc>Z lewej strony uchodzi potok Cielnica</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.61873909" lon="17.46860654">
+<name>36.30</name>
+<desc>Elektrownia wodna, przed nią niewielkie rozlewisko. Przenoska lewą stroną przez trawiasty wał. W przypadku gdy cała woda skierowana jest na elektrownię możliwa jest krótsza przenoska przez jaz z lewej strony, po suchej pochylni z wmurowanymi w dno kamieniami</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.62703013" lon="17.47797906">
+<name>35.00</name>
+<desc>Z prawej strony uchodzi rzeka Łokietnica</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.64310719" lon="17.48274158">
+<name>32.70</name>
+<desc>Z prawej strony wpada rzeczka Rybina</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.64486516" lon="17.47767232">
+<name>32.30</name>
+<desc>Z lewej strony ujście Skoroszyckiego Potoku</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.64504574" lon="17.47787194">
+<name>32.20</name>
+<desc>Dwu przęsłowy jaz powłokowy przy MEW Kopice, oddany do użytku w grudniu 2021. Przenoska prawą stroną około 160m. Lądowanie na połogiej skarpie piaszczysto-żwirowej i transport kajaków gruntową drogą, poza kamienne umocnienia brzegu. Na końcu zjazd w dół stromą, trawiastą rynną około 6-7 m. Przydatna linka do opuszczania kajaka</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.64583640" lon="17.47887268">
+<name>32.00</name>
+<desc>Most drogowy, pod nim kamienne bystrze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.68169317" lon="17.49619751">
+<name>27.70</name>
+<desc>Z lewej strony uchodzi Stara Struga</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.68989282" lon="17.49802571">
+<name>26.70</name>
+<desc>Most drogowy z kamiennym bystrzem, aktualnie niewidocznym wskutek spiętrzenia wody poniżej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.69170167" lon="17.49867509">
+<name>26.50</name>
+<desc>Jaz powłokowy dla MEW Głębocko, oddany do użytku we wrześniu 2020. Ze względu na długą przepławkę dla ryb wybudowaną wzdłuż lewego brzegu, najwygodniej jest przenieść kajak prawą stroną. Wyjście z wody na stromy brzeg (ok. 1,5m) przez stanowisko wędkarskie. Transport kajaka na odległość około 80m po piasku, ziemi i trawie. Na końcu stromy, około 8m zjazd do wody po piaszczystej skarpie</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.70401812" lon="17.50145804">
+<name>25.00</name>
+<desc>Z lewej strony uchodzi Grodkowska Struga</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.72728169" lon="17.51392294">
+<name>22.00</name>
+<desc>Most autostrady A4</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.72949898" lon="17.51678407">
+<name>21.80</name>
+<desc>Jaz piętrzący wodę na potrzeby wrocławskich wodociągów. Gdy brakuje wody w rzece Oławie zasilającej tereny wodonośne przed Wrocławiem, woda z Nysy Kłodzkiej przepompowywana jest pompownią Michałów do kanału przerzutowego Nysa - Oława. Jest to ciekawa budowla hydrotechniczna wykorzystująca naturalne koryto niewielkich cieków wodnych. Od jazu, woda z Nysy Kłodzkiej płynie kanałem do pompowni w Michałowie, następnie tłoczona jest na pobliskie wzgórze skąd grawitacyjnie korytem Pępickiego i Psarskiego Potoku spływa w kierunku rzeki Oławy, a nią na tereny wodonośne Wrocławia. Przenoska lewym brzegiem po betonowej drodze. Za jazem schodki z wodowskazem sprowadzające do lustra wody. Przy niższych stanach wody, poniżej jazu tworzy się bystrze na progu z głazów. Nie chcąc spływać tego miejsca, wygodnie jest przenieść obie przeszkody za jednym razem, na odległość około 310m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.72967225" lon="17.51862039">
+<name>21.60</name>
+<desc>Kamienny próg - bystrze poniżej jazu, pod linią energetyczną. Przy wysokich stanach próg jest przelany i niewidoczny, przy niskich możliwy do spłynięcia po wcześniejszym rozpoznaniu przeszkody</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.73864294" lon="17.59405495">
+<name>15.80</name>
+<desc>Niegdyś, w tym miejscu istniało sztuczne zwężenie koryta rzeki wielkimi głazami, co tworzyło spore bystrze. Po spiętrzeniu rzeki jazem poniżej, miejsce to jest zalane wodą</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.74831328" lon="17.60831772">
+<name>13.90</name>
+<desc>Z lewej strony uchodzi Ptakowicki Potok</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.74683857" lon="17.61142538">
+<name>13.70</name>
+<desc>Nowo wybudowany 3 przęsłowy jaz. Przenoska lewą stroną, z łatwym wyjściem z wody na trawiasty brzeg. Transport kajaka po betonie i asfalcie na odległość około 270m. Zejście do wody z niedużej skarpy, na brzegu, przy wodzie umocnienia z kamieni. W niedalekiej odległości od jazu znajduje się sklep spożywczy</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.74612087" lon="17.61725062">
+<name>13.30</name>
+<desc>Most drogowy w Lewinie. Wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.74313663" lon="17.62999395">
+<name>12.30</name>
+<desc>Z prawej strony ujście Ścinawy Niemodlińskiej</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.74697569" lon="17.63859784">
+<name>11.60</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.75129004" lon="17.65685002">
+<name>9.90</name>
+<desc>Z prawej strony uchodzi potok Jasień</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="50.76205795" lon="17.67511901">
+<name>7.50</name>
+<desc>Most drogowy. Wygodne miejsce dostępu do wody</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.81922829" lon="17.65835533">
+<name>0.00</name>
+<desc>Ujście Nysy Kłodzkiej do Odry. Wygodnym miejsce zakończenia spływu jest miejscowość Kopanie po lewej stronie, około 4 km w dół Odrą. Znajduje się tam podjazd do promu, można więc podjechać w pobliże wody</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

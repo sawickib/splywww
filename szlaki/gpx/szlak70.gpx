@@ -1,0 +1,157 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.02245700" lon="19.47521800">
+<name>0.00</name>
+<desc>Most na drodze Rypin - Sierpc. Obok mała elektrownia. Powyżej tego punktu Rypienica jest niespławna. Oczywiście poza rozlewiskiem powstałym wskutek spiętrzenia.
+Początek spływu z tego punktu możliwy tylko przy WWW najczęściej wiosną lub po obfitych opadach.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.02189700" lon="19.47180700">
+<name>0.20</name>
+<desc>Most kolejowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.02654600" lon="19.45891700">
+<name>1.40</name>
+<desc>Most drogowy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.02657700" lon="19.45837700">
+<name>1.40</name>
+<desc>Próg o wysokości około 1 metra. </desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.03165100" lon="19.44952700">
+<name>2.30</name>
+<desc>Mały mostek - polna droga.
+Przy stanach innych niż WWW nadal zbyt mało wody do płynięcia.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.03833300" lon="19.43711800">
+<name>3.50</name>
+<desc>Z tego punktu można spływać przy nieco niższych stanach wody. Tuż za mostem kamieniste bystrze (możliwość tarcia kajakiem o kamienie) długości około 100m. </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.06528900" lon="19.40598900">
+<name>7.90</name>
+<desc>Most przy targowisku w Rypinie. Pod mostem ciasno ale da się przepłynąć.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.06627400" lon="19.40399900">
+<name>8.10</name>
+<desc>Mały mostek.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.06810500" lon="19.40401100">
+<name>8.30</name>
+<desc>Most drogowy. Po prawej za mostem stary kościół.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.06875100" lon="19.40471100">
+<name>8.40</name>
+<desc>Około 0,5m wysokości próg wodny.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.07492700" lon="19.40884700">
+<name>9.20</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.07916500" lon="19.40521700">
+<name>9.80</name>
+<desc>Most drogowy. Po prawej przed mostem oczyszzcalnia ścieków. 200m od mostu po prawej stronie stacja benzynowa - napoje chłodzące :) .</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.08733100" lon="19.38723400">
+<name>11.40</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.09156800" lon="19.38272300">
+<name>12.00</name>
+<desc>Trzystopniowy próg wodny możliwy do spłynięcia. Uwaga na wystające drewniane pale.</desc>
+<cmt>niebezpieczeństwo</cmt>
+</wpt>
+<wpt lat="53.09180700" lon="19.38294400">
+<name>13.00</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.09294400" lon="19.38428500">
+<name>13.16</name>
+<desc>Ujście małego strumyka do Rypienicy.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.09896500" lon="19.38202200">
+<name>13.91</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.10234700" lon="19.37666200">
+<name>14.47</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.11392200" lon="19.36946300">
+<name>15.72</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.11056660" lon="19.37014100">
+<name>16.21</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.12004700" lon="19.37710200">
+<name>17.29</name>
+<desc>Jaz za stawem.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.12292900" lon="19.37867400">
+<name>17.75</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.14176100" lon="19.37461500">
+<name>18.90</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.16517000" lon="19.36757800">
+<name>21.91</name>
+<desc></desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.16666100" lon="19.36686200">
+<name>22.10</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.18399200" lon="19.36025600">
+<name>24.50</name>
+<desc></desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.19560200" lon="19.35078700">
+<name>26.10</name>
+<desc>Most starej kolejki wąskotorowej. </desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.21404400" lon="19.33256300">
+<name>28.80</name>
+<desc>Ostani most na Rypienicy do którego możliwy jest dojazd autem.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.21615600" lon="19.31725700">
+<name>30.00</name>
+<desc>Ujście Rypienicy do Drwęcy.</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="101" nazwa="Czarna Hańcza" wersja="1">
+<opis>Czarna Hańcza jaka jest każdy wie, a kto nie wie niech koniecznie spłynie. Dla początkujących kajakarzy jest rzeką wręcz "obowiązkową".</opis> 
+  <odcinek id="428" typ="jezioro" nazwa="Bryzgiel - Wigry" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Odcinek prowadzący przez duże jezioro Wigry. Jezioro w kształcie litery "S" więc którędy by nie płynąć zawsze napatoczymy się na silny wiatr i wysoką falę.</opis>
+    <punkt id="3567" miejscowosc="Bryzgiel" 
+      ns="54.00059808" we="23.0736801" km="60.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Spływ można rozpocząć z miejscowości Bryzgiel. Jest tu ogólnodostępna plaża z wygodnym dojazdem nad samą wodę. Wodując się należy uiścić drobną opłatę</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Dobrze zaopatrzony sklep spożywczy w pobliżu plaży</opispunktu> 
+    </punkt>
+    <punkt id="3568" miejscowosc="Rosochaty Róg" 
+      ns="54.05068006" we="23.11908534" km="54" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Prywatne miejsce biwakowe z długim pomostem, drewnianą wiatą i ukrytą w krzakach "sławojką"</opispunktu> 
+    </punkt>
+    <punkt id="3569" miejscowosc="Rosochaty Róg" 
+      ns="54.05003736" we="23.11286926" km="53.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Gospodarstwo agroturystyczne z możliwością zamówienia obiadów</opispunktu> 
+    </punkt>
+    <punkt id="3570" miejscowosc="Wigry" 
+      ns="54.04608867" we="23.06162283" km="53.3" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście górnej Czarnej Hańczy do jeziora Wigry w zatoce Hańczańskiej</opispunktu> 
+    </punkt>
+    <punkt id="3571" miejscowosc="Wigry" 
+      ns="54.06848283" we="23.08301041" km="51.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wygodne miejsce pozostawienia kajaków w celu zwiedzenia pobliskiego Klasztoru Kamedułów</opispunktu> 
+    </punkt>
+    <punkt id="3572" miejscowosc="Wigry" 
+      ns="54.06788835" we="23.09717518" km="49.9" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ z jeziora Wigry na jezioro Postaw</opispunktu> 
+    </punkt>
+    <punkt id="3573" miejscowosc="Wigry" 
+      ns="54.06922246" we="23.0983531" km="49.7" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pozostałości po drewnianej kładce łączącej Wigry z Czerwonym Folwarkiem</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="429" typ="rzeka" nazwa="Wigry - Dworczysko" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Odcinek leniwej czystej rzeki. Hańcza miejscami płynie wąskimi przesmykami ale głównie jednak szeroką, często zabagnioną doliną. Gęsta roślinność podwodna miejscami utrudnia wiosłowanie.</opis>
+    <punkt id="3574" miejscowosc="Czerwony Folwark" 
+      ns="54.06906036" we="23.1061702" km="49.2" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Regionalne muzeum rybactwa</opispunktu> 
+    </punkt>
+    <punkt id="3575" miejscowosc="Czerwony Folwark" 
+      ns="54.07153582" we="23.11153918" km="48.7" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Wypływ Czarnej Hańczy z jeziora Postaw</opispunktu> 
+    </punkt>
+    <punkt id="3576" miejscowosc="Czerwony Folwark" 
+      ns="54.06983904" we="23.11743692" km="48.2" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w Czerwonym Folwarku</opispunktu> 
+    </punkt>
+    <punkt id="3577" miejscowosc="Żubrówka Nowa" 
+      ns="54.07523053" we="23.153225" km="45.1" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony dopływa rzeka Żubrówka</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3578" miejscowosc="Maćkowa Ruda" 
+      ns="54.05114851" we="23.17037351" km="41.6" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zwężenie za rozlewiskiem. Przepływ ten czasami może być "zamaskowany" i zamknięty przez tzw. "pływające wyspy" odrywające się co jakiś czas i spływające z wyższych części rozlewiska. W sierpniu 2011, podczas podniesionego poziomu wody w rzece tak właśnie się stało</opispunktu> 
+    </punkt>
+    <punkt id="3579" miejscowosc="Maćkowa Ruda" 
+      ns="54.05290278" we="23.1730655" km="41.4" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep w odległości 200 m</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Bar w odległości 200 m</opispunktu> 
+    </punkt>
+    <punkt id="3580" miejscowosc="Maćkowa Ruda" 
+      ns="54.05544512" we="23.17631502" km="41" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3581" miejscowosc="Buda Ruska" 
+      ns="54.06113421" we="23.19098329" km="38.4" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka</opispunktu> 
+    </punkt>
+    <punkt id="3582" miejscowosc="Gremzdówka" 
+      ns="54.04639418" we="23.20133978" km="36.6" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeczki Gremzdówki (błędnie zwanej m.in. Pawłówką)</opispunktu> 
+    </punkt>
+    <punkt id="3583" miejscowosc="Wysoki Most" 
+      ns="54.03674462" we="23.20233637" km="35.4" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3584" miejscowosc="Studziany Las" 
+      ns="54.01941003" we="23.22897055" km="32.2" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Wieś Studziany Las po lewej stronie</opispunktu> 
+    </punkt>
+    <punkt id="3585" miejscowosc="Sarnetki" 
+      ns="54.00757557" we="23.23628807" km="30.5" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3586" miejscowosc="Sarnetki" 
+      ns="54.00544092" we="23.24269283" km="30" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3587" miejscowosc="Gulbin" 
+      ns="54.00059189" we="23.26053916" km="28.4" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3588" miejscowosc="Gulbin" 
+      ns="53.99946162" we="23.2622891" km="28.2" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most</opispunktu> 
+    </punkt>
+    <punkt id="3589" miejscowosc="Gulbin" 
+      ns="53.99848161" we="23.26493577" km="28" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3590" miejscowosc="Tartaczysko" 
+      ns="53.99285354" we="23.27842044" km="26.6" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3591" miejscowosc="Tartaczysko" 
+      ns="53.99071859" we="23.28097926" km="26.2" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3592" miejscowosc="Tartaczysko" 
+      ns="53.98901159" we="23.28136102" km="26" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3593" miejscowosc="Tartaczysko" 
+      ns="53.98670165" we="23.28285172" km="25.7" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3594" miejscowosc="Tartaczysko" 
+      ns="53.9858732" we="23.28319195" km="25.6" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="biwak" kolejnosc="-1">miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3595" miejscowosc="Głęboki Bród" 
+      ns="53.97959498" we="23.28945614" km="24.7" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na ruchliwej drodze. Wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+    <punkt id="3596" miejscowosc="Głęboki Bród" 
+      ns="53.97713482" we="23.29711923" km="23.8" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3597" miejscowosc="Frącki" 
+      ns="53.9724403" we="23.30307495" km="22.6" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Biwak PTTK Frącki</opispunktu> 
+    </punkt>
+    <punkt id="3598" miejscowosc="Frącki" 
+      ns="53.96887391" we="23.30333128" km="22.2" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3599" miejscowosc="Frącki" 
+      ns="53.96416497" we="23.30190488" km="21.5" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3600" miejscowosc="Frącki" 
+      ns="53.96354306" we="23.30417707" km="21.3" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3601" miejscowosc="Frącki" 
+      ns="53.9632886" we="23.30743846" km="21" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3602" miejscowosc="Frącki" 
+      ns="53.9613882" we="23.30855468" km="20.6" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3603" miejscowosc="Frącki" 
+      ns="53.96202617" we="23.31069749" km="20.4" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3604" miejscowosc="Okółek" 
+      ns="53.95230472" we="23.32421288" km="18.5" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3605" miejscowosc="Okółek" 
+      ns="53.95356226" we="23.32681828" km="18.2" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3606" miejscowosc="Okółek" 
+      ns="53.95090101" we="23.33287195" km="17.2" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3607" miejscowosc="Okółek" 
+      ns="53.94527191" we="23.3413526" km="15.9" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3608" miejscowosc="Okółek" 
+      ns="53.94445244" we="23.34748748" km="15.3" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="most" kolejnosc="-1">Most w Okółku</opispunktu> 
+    </punkt>
+    <punkt id="3609" miejscowosc="Dworczysko" 
+      ns="53.93764266" we="23.36874719" km="12.4" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3610" miejscowosc="Dworczysko" 
+      ns="53.93839524" we="23.37084748" km="12.2" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3611" miejscowosc="Dworczysko" 
+      ns="53.93295832" we="23.37589767" km="11" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3612" miejscowosc="Dworczysko" 
+      ns="53.93053459" we="23.37751755" km="10.4" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="430" typ="rzeka" nazwa="Dworczysko - Rygol" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis>Odcinek prowadzący głównie przez lasy Puszczy Augustowskiej. Dolina zwęża się a brzegi stają się bardziej strome i podmyte.</opis>
+    <punkt id="3613" miejscowosc="Dworczysko" 
+      ns="53.9295518" we="23.3773713" km="10.3" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze. Wygodne miejsce wodowania</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe po prawej za mostem</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Skromnie zaopatrzony sklep przy domu sołtysa, kilkaset metrów od mostu w lewo. Drugi sklep w miejscowości Strzelcowizna około 3 km od mostu w prawo przez las.</opispunktu> 
+    </punkt>
+    <punkt id="3614" miejscowosc="Dworczysko" 
+      ns="53.92843181" we="23.38121503" km="10" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3615" miejscowosc="Dworczysko" 
+      ns="53.92827025" we="23.38538804" km="9.5" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3616" miejscowosc="Dworczysko" 
+      ns="53.91773906" we="23.3918669" km="7.3" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3617" miejscowosc="Dworczysko" 
+      ns="53.91259473" we="23.39276911" km="6.1" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3618" miejscowosc="Dworczysko" 
+      ns="53.91166209" we="23.39641737" km="5.6" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3619" miejscowosc="Dworczysko" 
+      ns="53.91258779" we="23.39744978" km="5.4" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe po lewej. Duża polana w lesie na wysokiej piaszczystej skarpie. Bliskość jeziora Płaskiego.</opispunktu> 
+    </punkt>
+    <punkt id="3620" miejscowosc="Rygol" 
+      ns="53.90236295" we="23.40592541" km="2.6" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3621" miejscowosc="Rygol" 
+      ns="53.90082777" we="23.40728252" km="2.3" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3622" miejscowosc="Rygol" 
+      ns="53.90011326" we="23.40566358" km="2.2" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe PTTK Jałowy Róg</opispunktu> 
+    </punkt>
+    <punkt id="3623" miejscowosc="Rygol" 
+      ns="53.89572323" we="23.41418299" km="0.8" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe</opispunktu> 
+    </punkt>
+    <punkt id="3624" miejscowosc="Rygol" 
+      ns="53.89375508" we="23.41562149" km="0.3" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rozwidlenie Czarnej Hańczy (w prawo) i Szlamicy (prosto), miejsce częstych pomyłek kajakarzy, którzy chcą kontynuować spływ Kanałem Augustowskim a płyną na wprost Szlamicą.</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe za mostem po lewej. Wygodne miejsce wodowania</opispunktu> 
+    <opispunktu typ="bar" kolejnosc="-1">Bar w budynku na polu biwakowym</opispunktu> 
+    </punkt>
+    <punkt id="3625" miejscowosc="Rygol" 
+      ns="53.89327523" we="23.41421357" km="0.2" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3626" miejscowosc="Rygol" 
+      ns="53.89225878" we="23.41584522" km="0" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie Czarnej Hańczy i Kanału Augustowskiego</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

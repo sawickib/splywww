@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="167" nazwa="Pępicki Potok" wersja="2">
+<opis>Nazwa nieco myląca, ponieważ formalnie, ani nie jest to potok, ani też w całości Pępicki. Ciek jest dzisiaj sztucznym kanałem przerzutowym, wybudowanym na potrzeby zasilenia wód rzeki Oławy, wodami Nysy Kłodzkiej. Do początku lat 70-tych XX wieku, mający swoje źródła w okolicy Czeskiej Wsi, Pępicki Potok łączył się w okolicach Łukowic Brzeskich z Przyleskim Potokiem i dalej płynęły razem jako Psarski Potok, uchodząc bezpośrednio do Odry w Ścinawie Polskiej, tuż przed miastem Oława. Ponieważ rzeka Oława wykorzystywana jest do zaopatrzenia w wodę aglomeracji wrocławskiej, w okresach suszy prowadzi niewystarczającą ilość wody i musi być wspomagana. Dlatego też, wykorzystując doliny potoków Pępickiego i Psarskiego, wybudowano ów kanał, przekopując dodatkowo końcowe 3,5 km w ten sposób, aby woda nie spływała do Odry, tylko do rzeki Oławy.  A zatem, ze względu, iż na dłuższym odcinku nosi taką nazwę, na potrzeby tego opracowania i dla wygody, całość cieku nazwałem Pępickim Potokiem.
+Na starych mapach widać, że pierwotnie był to kręty strumień o niewielkim przepływie. Dzisiaj, jest to monotonny, wyprostowany kanał, z wybetonowanym dnem i brzegami, najczęściej wyłożonymi trylinkami porośniętymi trawą. Na większości odcinków kanał jest wykoszony, zdarzają się jednak kilkusetmetrowe jego fragmenty porośnięte gęstą trzciną. Jedyną atrakcją Pępickiego Potoku jest niepoliczalna liczba progów, prożków i bystrzy oraz stosunkowo wartki nurt. Najważniejszą jednak zaletą cieku jest fakt, że paradoksalnie można nim pływać wyłącznie w czasie suszy, wtedy gdy nigdzie nie ma wody, tu będzie ona na pewno. Z uwagi na to, że kanał służy zaopatrzeniu w wodę, cały Pępicki Potok objęty jest ochroną pośrednią ujęć wody i bogato w tym zakresie oznakowany. Nie oznacza to jednak, że nie można nim pływać. Jedyne miejsce, przez które nie można oficjalnie przepłynąć, to krótki odcinek przed mostem drogi nr 401 w Krzyżowicach, gdzie mieści się ujęcie wody dla Brzegu. Jest to teren ochrony bezpośredniej ujęcia wody, w związku z czym jest ogrodzony siatką, przez co łatwo rozpoznawalny.
+Kanał prowadzi czystą wodę, chociaż jest to uzależnione od aktualnych warunków na dolnej Nysie Kłodzkiej. Przy wyższych stanach wody, wszystkie wyższe prożki mają niewielkie odwoje, zalecane jest więc brać je z rozpędu. W dwóch miejscach trzeba pochylić głowę pod świerzymi zgryzami bobrowymi poza tym kanał nie posiada naturalnych przeszkód. Kanał jest dobrze skomunikowany, co kilka kilometrów przecinają go asfaltowe drogi umożliwiające mniej lub bardziej wygodne podjęcie kajaków.
+Na kanale nie ma wodowskazów, najbliższe znajdują się na rzece Oławie. W dniu spływu wodowskaz Oława wskazywał poziom 116, co oznacza dobre warunki wodne na Pępickim Potoku, pod warunkiem, że wodowskaz Zborowice wskazuje poziom najwyżej około 150. Oznacza to, że woda w Oławie niemal w całości pochodzi z Pępickiego Potoku. W tych warunkach cały odcinek z Michałowa do Jaczkowic zajął dwom krótkim K1 4h. Ciek na całej długości, co 0,5 km oznakowany jest słupkami kilometrowymi, dzięki czemu na bieżąco można kontrolować odległość i prędkość</opis> 
+    <punkt id="5495" miejscowosc="Godzikowice " 
+      ns="50.90450435" we="17.29651065" km="0.9" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Ostatnia możliwość podjęcia kajaków przed ujściem do Oławy</opispunktu> 
+    </punkt>
+    <punkt id="5494" miejscowosc="Godzikowice " 
+      ns="50.89896924" we="17.30274777" km="1.7" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek bystrze, dalej trzcinowiska</opispunktu> 
+    </punkt>
+    <punkt id="5493" miejscowosc="Godzikowice " 
+      ns="50.89844661" we="17.30424302" km="1.8" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek</opispunktu> 
+    </punkt>
+    <punkt id="5492" miejscowosc="Godzikowice " 
+      ns="50.89757705" we="17.30994531" km="2.2" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5491" miejscowosc="Godzikowice " 
+      ns="50.89481771" we="17.31535755" km="2.7" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="5490" miejscowosc="Maszków " 
+      ns="50.88946474" we="17.32029677" km="3.4" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Betonowa konstrukcja z żółtymi barierkami i kładką. Tutaj w prawo odchodzi do Odry pierwotny Psarski Potok. Zasadnicza woda płynie jednak prosto sztucznie przekopanym kanałem, do rzeki Oławy, by zasilić tereny wodonośne przed Wrocławiem</opispunktu> 
+    </punkt>
+    <punkt id="5489" miejscowosc="Maszków " 
+      ns="50.8831703" we="17.32425863" km="4.3" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek</opispunktu> 
+    </punkt>
+    <punkt id="5488" miejscowosc="Psary " 
+      ns="50.87235714" we="17.33643167" km="5.8" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek</opispunktu> 
+    </punkt>
+    <punkt id="5487" miejscowosc="Psary " 
+      ns="50.86928865" we="17.34000197" km="6.2" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5486" miejscowosc="Psary " 
+      ns="50.86395976" we="17.34468124" km="6.9" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Bród przez rzekę</opispunktu> 
+    </punkt>
+    <punkt id="5485" miejscowosc="Psary " 
+      ns="50.86130458" we="17.34455296" km="7.2" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek z największym odwojem na całym kanale</opispunktu> 
+    </punkt>
+    <punkt id="5484" miejscowosc="Psary " 
+      ns="50.85375003" we="17.35169062" km="8.3" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Granica województw opolskiego i dolnośląskiego, początek odcinka leśnego</opispunktu> 
+    </punkt>
+    <punkt id="5483" miejscowosc="Małujowice " 
+      ns="50.84544243" we="17.35622204" km="9.3" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek</opispunktu> 
+    </punkt>
+    <punkt id="5482" miejscowosc="Małujowice " 
+      ns="50.83956656" we="17.36058692" km="10" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze nr 39, zaraz za nim prożek</opispunktu> 
+    </punkt>
+    <punkt id="5481" miejscowosc="Małujowice " 
+      ns="50.83924616" we="17.3608999" km="10.1" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze, pod nim bystrze </opispunktu> 
+    </punkt>
+    <punkt id="5480" miejscowosc="Łukowice Brzeskie " 
+      ns="50.83539309" we="17.36492025" km="10.6" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most kolejowy nieczynnej lini Brzeg - Strzelin </opispunktu> 
+    </punkt>
+    <punkt id="5479" miejscowosc="Łukowice Brzeskie " 
+      ns="50.83473854" we="17.3662427" km="10.8" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie Pępickiego i Przyleskiego Potoku w Psarski Potok</opispunktu> 
+    </punkt>
+    <punkt id="5478" miejscowosc="Łukowice Brzeskie " 
+      ns="50.83362047" we="17.37409631" km="11.3" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek - bystrze</opispunktu> 
+    </punkt>
+    <punkt id="5477" miejscowosc="Łukowice Brzeskie " 
+      ns="50.83364376" we="17.37617636" km="11.5" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek</opispunktu> 
+    </punkt>
+    <punkt id="5476" miejscowosc="Skarbimierz " 
+      ns="50.83392965" we="17.37946432" km="11.7" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na leśnej drodze, zaraz za nim bród przez rzekę</opispunktu> 
+    </punkt>
+    <punkt id="5475" miejscowosc="Skarbimierz " 
+      ns="50.83406964" we="17.38485811" km="12.1" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek</opispunktu> 
+    </punkt>
+    <punkt id="5474" miejscowosc="Skarbimierz " 
+      ns="50.8338933" we="17.38662613" km="12.2" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek</opispunktu> 
+    </punkt>
+    <punkt id="5473" miejscowosc="Skarbimierz " 
+      ns="50.83362797" we="17.38957936" km="12.4" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5472" miejscowosc="Skarbimierz " 
+      ns="50.83337755" we="17.39269492" km="12.7" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek</opispunktu> 
+    </punkt>
+    <punkt id="5471" miejscowosc="Skarbimierz " 
+      ns="50.83327296" we="17.39528466" km="12.8" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na polnej drodze, za nim prożek - bystrze, początek oznakowanego poligonu wojskowego</opispunktu> 
+    </punkt>
+    <punkt id="5470" miejscowosc="Skarbimierz " 
+      ns="50.83275421" we="17.39953163" km="13.2" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek</opispunktu> 
+    </punkt>
+    <punkt id="5469" miejscowosc="Skarbimierz " 
+      ns="50.83098598" we="17.4048431" km="13.7" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek - bystrze</opispunktu> 
+    </punkt>
+    <punkt id="5468" miejscowosc="Pępice" 
+      ns="50.82561633" we="17.41274454" km="14.6" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek za trzecim mostem, dalej miejscami gęste trzcinowiska całkowicie uniemożliwiające wiosłowanie i zmuszające do przeciągania się</opispunktu> 
+    </punkt>
+    <punkt id="5467" miejscowosc="Pępice " 
+      ns="50.82520582" we="17.41400912" km="14.7" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5466" miejscowosc="Pępice " 
+      ns="50.82470581" we="17.4152602" km="14.8" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek za drugim mostem</opispunktu> 
+    </punkt>
+    <punkt id="5465" miejscowosc="Pępice " 
+      ns="50.82443962" we="17.41594581" km="14.9" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na asfaltowej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5464" miejscowosc="Pępice " 
+      ns="50.82378093" we="17.41756383" km="15" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Trzy mosty w Pępicach, jedyne miejsce gdzie kanał dotyka do cywilizacji (domostw). Pierwszy mostek betonowy na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5463" miejscowosc="Pępice " 
+      ns="50.8167047" we="17.42390547" km="16" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mały prożek</opispunktu> 
+    </punkt>
+    <punkt id="5462" miejscowosc="Krzyżowice " 
+      ns="50.81283098" we="17.43228141" km="16.8" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Wyraźny prożek </opispunktu> 
+    </punkt>
+    <punkt id="5461" miejscowosc="Krzyżowice " 
+      ns="50.811384" we="17.43496881" km="17" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Wyraźny prożek</opispunktu> 
+    </punkt>
+    <punkt id="5460" miejscowosc="Krzyżowice " 
+      ns="50.80340208" we="17.43570845" km="18" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Wyraźny prożek </opispunktu> 
+    </punkt>
+    <punkt id="5459" miejscowosc="Krzyżowice" 
+      ns="50.79877456" we="17.44349522" km="18.8" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze nr 401, zaraz za nim rura nisko nad wodą</opispunktu> 
+    </punkt>
+    <punkt id="5458" miejscowosc="Krzyżowice" 
+      ns="50.79863442" we="17.44403105" km="18.9" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka na obszarze ogrodzonego ujęcia wód dla Brzegu. W razie zamknięcia zastawki i konieczności przenoski, miejsce to może nastręczać trudności</opispunktu> 
+    </punkt>
+    <punkt id="5457" miejscowosc="Krzyżowice" 
+      ns="50.79838259" we="17.4448682" km="19" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek przed ujęciem wody dla Brzegu z ogrodzonym terenem ochrony bezpośredniej. Przez teren ochrony bezpośredniej ujęcia wody oficjalnie nie wolno przepływać, ponieważ w myśl Prawa wodnego, teren taki może być wykorzystywany wyłącznie na cele związane z ujęciem. Należy tu zachować czujność, ponieważ przed ujęciem jest zakręt w lewo i nie widać zza niego czy otwarta jest zastawka zlokalizowana już na terenie ujęcia. Wyskakując zza zakrętu należy więc skontrolować ten fakt, w przeciwnym razie po spłynięciu progu znajdziemy się na ogrodzonym terenie, z wybetonowanymi brzegami, dość uciążliwymi przy zamiarze wyjścia z wody</opispunktu> 
+    </punkt>
+    <punkt id="5456" miejscowosc="Obórki " 
+      ns="50.79175464" we="17.45153735" km="19.9" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek betonowy</opispunktu> 
+    </punkt>
+    <punkt id="5455" miejscowosc="Jankowice Wielkie  " 
+      ns="50.78134076" we="17.45893514" km="21.2" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pierwszy wyraźny prożek do spłynięcia, około 1m </opispunktu> 
+    </punkt>
+    <punkt id="5454" miejscowosc="Jankowice Wielkie " 
+      ns="50.77856841" we="17.46198877" km="21.6" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pierwsze i jedyne drzewo przy rzece nad wodą na górnym odcinku - atrakcja w monotoni spływu kanałem. Może kiedyś się przewróci do wody, wtedy będzie jeszcze atrakcyjniej </opispunktu> 
+    </punkt>
+    <punkt id="5453" miejscowosc="Jankowice Wielkie  " 
+      ns="50.77683542" we="17.46345213" km="21.8" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5452" miejscowosc="Jankowice Wielkie  " 
+      ns="50.77329021" we="17.46722841" km="22.3" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most kolejowy na czynnej lini z Brzegu do Nysy. Dwa prostokątne przepusty. Przy wyższej wodzie może być tu nisko i ciasno</opispunktu> 
+    </punkt>
+    <punkt id="5451" miejscowosc="Jankowice Wielkie  " 
+      ns="50.77217242" we="17.46923519" km="22.5" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5450" miejscowosc="Jankowice Wielkie  " 
+      ns="50.76945099" we="17.47619319" km="23.1" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5449" miejscowosc="Czeska Wieś " 
+      ns="50.76685687" we="17.48527807" km="23.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5448" miejscowosc="Czeska Wieś " 
+      ns="50.76052921" we="17.49743067" km="24.9" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5447" miejscowosc="Czeska Wieś " 
+      ns="50.75861154" we="17.50143281" km="25.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5446" miejscowosc="Michałów " 
+      ns="50.75608643" we="17.50670333" km="25.8" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most na drodze asfaltowej z Pogorzeli do Michałowa</opispunktu> 
+    </punkt>
+    <punkt id="5445" miejscowosc="Michałów " 
+      ns="50.75374179" we="17.51552174" km="26.4" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5444" miejscowosc="Michałów " 
+      ns="50.75058056" we="17.52167996" km="27" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Źródło Pępickiego Potoku - ogrodzone barierkami dwa betonowe koryta na niewybitnym wzgórzu. Wypływa z nich woda tłoczona podziemnym rurociągiem z widocznej w dole pompowni Michałów. Do pompowni woda dopływa poprzez kanał z jazu na Nysie Kłodzkiej. W pobliżu miejsca startu nieograniczona ilość miejsca na samochody. Teren odsłonięty, z wygodnym dojazdem drogą szutrową prowadzącą do Jasiony od strony cmentarza w Michałowie. Nurt bystry, kanał wyprostowany, uregulowany i wybetonowany choć porośnięty trawą. Teren wokół całkowicie otwarty</opispunktu> 
+    </punkt>
+    <punkt id="6779" miejscowosc="Michałów" 
+      ns="50.72949898" we="17.51678407" km="" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz w Michałowie. W tym miejscu spiętrzona woda Nysy Kłodzkiej kierowana jest na lewo, kanałem do pompowni Michałów, a następnie tłoczona na pobliskie wniesienie</opispunktu> 
+    </punkt>
+    <punkt id="5496" miejscowosc="Jaczkowice " 
+      ns="50.90885451" we="17.28528318" km="0" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Pępickiego Potoku do rzeki Oławy. Przy zastanych warunkach wodnych (wodowskaz Zborowice 150, wodowskaz Oława 116) widać tu doskonale, że kanał w 99% daje wodę Oławie, z wyższego progu woda w Oławie ledwie ciura, a na progu poniżej ujścia jest już jej całkiem sporo</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

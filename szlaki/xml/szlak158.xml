@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="158" nazwa="Lipczynka (dopływ Brdy)" wersja="1">
+<opis>Lipczynka jest lewym dopływem Brdy. Całość biegu rzeki mieści się w obszarze gminy Przechlewo w powiecie człuchowskim. Obszar źródliskowy znajduje się pomiędzy malutkimi, ukrytymi w lesie jeziorami Węgorzówka i Olszewki, skąd płynie na południe zasilając znacznie większe jezioro Lipczyno Wielkie. Płynąc cały czas wzdłuż południka ociera się o małe miejscowości Lipczynek, Przechlewko oraz Łubianka, gdzie zmienia kierunek na południowo-wschodni i mijając Dąbrowę Człuchowską, w Sąpolnie uchodzi do Brdy. Długość rzeki wynosi ponad 20 km, z czego przez cały rok dostępne jest jedynie dolne 10 km (od Łubianki). Wyższe odcinki spławne są głównie wiosną oraz po intensywnych opadach, a ich uciążliwość, spowodowana sporą ilością powalonych drzew w korycie sprawia, że polecane są raczej krótkim kajakom jednoosobowym. Rzeka jest malownicza, czysta o rudawym naturalnym zabarwieniu i piaszczystym dnie. Górny odcinek wiedzie przez obszary leśne, dolny zaś w terenie bardziej odkrytym, za to wyraźnie wciętą doliną. Co jakiś czas trzeba pokonywać przeszkody w postaci zwalonych drzew i bobrowych tam, a w kilku miejscach spływać bardziej bystrą wodą. Na Lipczynce nie ma wodowskazów, nie ma więc możliwości kontrolowania poziomu wody w rzece. Odcinek z Lipczynka do Sąpolna, w zależności od tempa płynięcia zajmuje około 5-6 godzin.</opis> 
+    <punkt id="5216" miejscowosc="Lipczynek" 
+      ns="53.88119554" we="17.25907159" km="16.7" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze Przechlewo ? Borowy Młyn. Wygodne miejsce startu z dobrym dojazdem, z łąki poniżej mostu, z lewej strony. Rzeka ma tu 4-5m szerokości, co jest sporą wiekością jak na ilość wody którą niesie, przez co miejscami posiada spore wypłycenia. Poniżej odcinek leśny ze zwałkami</opispunktu> 
+    </punkt>
+    <punkt id="5217" miejscowosc="Lipczynek" 
+      ns="53.86813079" we="17.25567691" km="14.6" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany most na stalowych szynach</opispunktu> 
+    </punkt>
+    <punkt id="5218" miejscowosc="Przechlewko" 
+      ns="53.86169557" we="17.25313348" km="13.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Sklepiony most kolejowy nieczynnej lini z Człuchowa do Miastka</opispunktu> 
+    </punkt>
+    <punkt id="5219" miejscowosc="Przechlewko" 
+      ns="53.860714" we="17.25246595" km="13.6" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Dziurawy mostek na lokalnej drodze, pod nim niewielki prożek 2 stopniowy, tworzący małe bystrze</opispunktu> 
+    </punkt>
+    <punkt id="5220" miejscowosc="Przechlewko" 
+      ns="53.85168394" we="17.25458605" km="12.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy, pod nim bystrze z ostrymi kamieniami</opispunktu> 
+    </punkt>
+    <punkt id="5221" miejscowosc="Przechlewko" 
+      ns="53.8508509" we="17.25580772" km="12.3" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pompa wodna w postaci koła młyńskiego o rzadko spotykanej konstrukcji i sposobie działania</opispunktu> 
+    </punkt>
+    <punkt id="5222" miejscowosc="Przechlewko" 
+      ns="53.84773221" we="17.25914119" km="11.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most betonowy na drodze z Przechlewa do Nowej Wsi, za nim ładny prosty odcinek rzeki w szpalerze drzew</opispunktu> 
+    </punkt>
+    <punkt id="5223" miejscowosc="Łubianka" 
+      ns="53.83598225" we="17.25356868" km="10.2" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Mały mostek w lesie</opispunktu> 
+    </punkt>
+    <punkt id="5224" miejscowosc="Łubianka" 
+      ns="53.83216678" we="17.25583305" km="9.6" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na wylocie z lasu</opispunktu> 
+    </punkt>
+    <punkt id="5225" miejscowosc="Łubianka" 
+      ns="53.82363525" we="17.2536032" km="8.2" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="5226" miejscowosc="Przechlewo" 
+      ns="53.81762471" we="17.26436792" km="7.1" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki zielony mostek na leśnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5227" miejscowosc="Przechlewo" 
+      ns="53.81630641" we="17.26967251" km="6.7" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most kolejowy nieczynnej lini z Człuchowa do Miastka, pod nim bystrze</opispunktu> 
+    </punkt>
+    <punkt id="5228" miejscowosc="Dąbrowa Człuchowska" 
+      ns="53.81047582" we="17.29617782" km="4.3" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na lokalnej drodze, poniżej ostatnie zwałki na szlaku</opispunktu> 
+    </punkt>
+    <punkt id="5229" miejscowosc="Sąpolno" 
+      ns="53.80743711" we="17.32938534" km="1.4" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg pod budynkiem młyna. Jeśli przegroda jest podniesiona to można spłynąć próg podwójną łagodną pochylnią z trzema małymi prożkami. Ewentualna przenoska kilkadziesiąt metrów, wyjście na lewą stronę, wodowanie z prawej za mostkiem i budynkiem młyna. Poniżej młyna stalowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="5230" miejscowosc="Sąpolno" 
+      ns="53.80642944" we="17.33156512" km="1.2" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na drodze Konarzyny ? Przechlewo, pod nim kamienne bystrze
+</opispunktu> 
+    </punkt>
+    <punkt id="5231" miejscowosc="Sąpolno" 
+      ns="53.80409069" we="17.33628921" km="0.7" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na polach przy charakterystycznym suchym drzewie</opispunktu> 
+    </punkt>
+    <punkt id="5232" miejscowosc="Sąpolno" 
+      ns="53.80421286" we="17.34712312" km="0" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Lipczynki do Brdy. Spływ wygodnie jest zakończyć kilkaset metrów w dół Brdą, przy dużym moście na lokalnej drodze, po prawej stronie na łące ze stolikami i wiatą</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

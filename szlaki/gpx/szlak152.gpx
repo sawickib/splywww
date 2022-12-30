@@ -1,0 +1,80 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.27292023" lon="20.35345107">
+<name>52.40</name>
+<desc>Most na drodze nr 512, w zasadzie wysoki łukowy przepust. Wygodne miejsce wodowania, chociaż przy samym moście nieco mało miejsca na samochód. Te można wypakować w sąsiedztwie pobliskich domostw a kajaki po trawie przeciągnąć nad rzekę. Poniżej kręty odcinek bystrej wody, z nielicznymi zwałkami, pośród drzew gęsto porastających brzegi. Po około 2 km rzeka wpływa na obszary leśne</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.23860216" lon="20.34429368">
+<name>45.30</name>
+<desc>Most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.23810150" lon="20.33467667">
+<name>43.50</name>
+<desc>Rozlewisko i jaz małej elektrowni wodnej. Krótka przenoska przez wał pomiędzy jazem a budynkiem MEW, po trawie, do kanału młynówki. 100 m od MEW w kierunku wioski znajduje się zadaszona wiata przystankowa z tablicą informacyjną o najbliższej okolicy</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="54.23806323" lon="20.33122905">
+<name>43.20</name>
+<desc>Most drogowy. Poniżej jeszcze około 2 km wartkiej i krętej rzeki pomiędzy drzewami, a następnie odcinek całkowicie wyprostowany przez łąki i zarośla. Po pewnym czasie rzeka "bez powodu" zatrzymuje się i rozlewa. Być może jest tu jakieś spiętrzenie, jednak przy tym stanie wody nie widoczne na powierzchni</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.25881064" lon="20.27784506">
+<name>36.50</name>
+<desc>Drewniany rozpadający się most łączący wioskę z pojedynczymi domami położonymi na lewym brzegu. Poniżej odcinek prosty w całkowicie otwartym terenie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.25750904" lon="20.24854855">
+<name>34.00</name>
+<desc>Most na drodze nr 512. Wygodne miejsce wodowania, chociaż sąsiedztwo mostu "bogate" w ogrodzenia i elektryczne pastuchy, sama jezdnia dość wąska a droga ruchliwa</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.25528929" lon="20.24223154">
+<name>33.40</name>
+<desc>Betonowy most z charakterystycznymi licznymi białymi stalaktytami węglanowymi</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>30.90</name>
+<desc>Bardzo szeroki i bardzo niski (przy tym stanie wody) most na lokalnej drodze, wymagający przenoski (chyba, że ktoś wybierze metodę "na glusia")</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.24351337" lon="20.19348967">
+<name>26.80</name>
+<desc>Niska kładka drewniana</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.24594342" lon="20.16548646">
+<name>22.90</name>
+<desc>Most betonowy na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.24441868" lon="20.15684606">
+<name>21.70</name>
+<desc>Z prawej ujście rzeki Warny niosącej równie dużo wody</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.23619884" lon="20.13625423">
+<name>19.10</name>
+<desc>Duży most drogowy na obwodnicy miasta. Kilkaset metrów przed mostem po lewej pole kempingowe niewidoczne i nieoznakowe od strony rzeki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.23548615" lon="20.12899676">
+<name>18.00</name>
+<desc>Most drogowy w centrum miasta. W pobliżu liczne sklepy. Wygodny dostęp do wody za mostem na lewym brzegu. Przy pobliskim bloku mieszkalnym spory plac z dużą ilością miejsca na samochody</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.18801266" lon="20.00624183">
+<name>0.00</name>
+<desc>Ujście Wałszy do Pasłęki</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

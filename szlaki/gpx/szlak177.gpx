@@ -1,0 +1,85 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="53.68777761" lon="18.19812085">
+<name>13.00</name>
+<desc>Most drogowy i zapora MEW</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="53.68643838" lon="18.20039591">
+<name>12.80</name>
+<desc>Możliwe wodowanie przy łące 200-300 m poniżej zapory, po lewej stronie rzeki, w sąsiedztwie rozwidlenia dróg gruntowych (Śliwiczki Wybudowanie). Można dotrzeć do rzeki idąc miedzą przez pole uprawne (teren prywatny) i podmokłą łąkę (około 100 m). Początkowo rzeka płynie spokojnie, pośród łąk i pojedynczych drzew. Po drodze znajduje się kilka łatwych zwałek, drewnianych kładek i niska tama bobrowa. Rzeka miejscami wypłyca się na piaszczystych łachach. Tuż przed mostem wpływa na obszary leśne i pojawia się kilka zwalonych drzew</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="53.67909012" lon="18.21134457">
+<name>11.60</name>
+<desc>Wysoki betonowy most z 1914 r. pod nim małe kamienne bystrze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.66995642" lon="18.21357103">
+<name>10.40</name>
+<desc>Niewielki drewniany mostek</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.66178308" lon="18.21430527">
+<name>9.20</name>
+<desc>Drewniany mostek w sąsiedztwie kapliczki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.66074296" lon="18.21556866">
+<name>9.10</name>
+<desc>Z lewej strony Prusinę zasilają wody rzeczki Grzybienicy, która w wyższej części swego biegu wykorzystuje 3, ułożone względem siebie prostopadle, rynny polodowcowe</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.64832753" lon="18.21554292">
+<name>7.10</name>
+<desc>Znaczący dopływ z prawej - rzeczka Golionka. Nazwa ponoć pochodzi od parowu Goły Jon, przez który przepływa</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="53.63944958" lon="18.22283022">
+<name>5.70</name>
+<desc>Charakterystyczne i ekologiczne umocnienie skarpy oponami samochodowymi przy pierwszym gospodarstwie</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.63846599" lon="18.22390375">
+<name>5.50</name>
+<desc>Betonowy most, wygodny dostęp do wody z wykorzystaniem drewnianego pomostu</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.62753202" lon="18.23320895">
+<name>4.00</name>
+<desc>Drewniany mostek Nadleśnictwa Trzebciny. Poniżej rozpoczyna się odcinek zdecydowanie bardziej bystry z dużymi głazami i drzewami w nurcie. Pokonanie kilku zwałek wymaga współpracy zespołowej. Rzeka tworzy tu odcinek przełomowy wcinając się wąską doliną, miejscami podmywając strome zbocza</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.62513104" lon="18.24794456">
+<name>2.80</name>
+<desc>Mostek w lesie, w dalszym ciągu bystro i zwałkowo</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.61962368" lon="18.25776651">
+<name>1.60</name>
+<desc>Kładka dla pieszych na wysokości dużego ośrodka wypoczynkowego Evita (po lewej). Zaraz za kładką wodowskaz wskazujący w dniu spływu poziom 024, gwarantujący niezbędne minimum wody. Powyżej Łążka kilka piaszczystych wypłyceń, natomiast poniżej Łążka przytrzymują kamienne bystrza. Dla komfortowego pływania wody powinno być nieco więcej niż 024</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.61777474" lon="18.25882535">
+<name>1.30</name>
+<desc>Niska stalowa rura w poprzek zanikającego nurtu. Koniec odcinka przełomowego, dalej rozlewisko i cofka jeziora zaporowego na Wdzie</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.61726999" lon="18.27056755">
+<name>0.10</name>
+<desc>Most drogowy przy ul. Czerskiej, tuż przed rozlewiskiem jeziora zaporowego</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.61731625" lon="18.27084935">
+<name>0.00</name>
+<desc>Ujście Prusiny do Wdy. Vis a vis po drugiej stronie jeziora (rzeki Wdy) znajduje się duży budynek z widocznym z daleka napisem: PRZYSTANEK TLEŃ, przed którym zorganizowano przystań kajakową, wiaty, ławki i parking dla samochodów. Można tu wygodnie zakończyć spływ. Płynąc jednak na wprost przez jezioro, wzdłuż mostu na Wdzie, wpłyniemy na płytką piaszczystą łachę zbudowaną prawdopodobnie z osadów niesionych nurtem Prusiny. Wygodniej opłynąć łachę łukiem z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

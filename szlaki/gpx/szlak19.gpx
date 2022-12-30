@@ -1,0 +1,80 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="49.31878000" lon="20.15202000">
+<name>0.00</name>
+<desc>Ujście Jaworowego Potoku (sk. Jaworinki) do Białki. Tutaj woda kręci się we wszystkie strony i pewnie dlatego miejsce to nazywane jest Bąblem. Na ujściu powstaje odwój zwany Jacuzzi.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="49.32072000" lon="20.15068000">
+<name>0.25</name>
+<desc>Miejsce zwane Jeziorkiem, czyli pierwsza duża cofka za Torem. Idealnie nadaje się do stawiania pierwszych kajakarskich kroków.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="49.32517000" lon="20.14981000">
+<name>0.77</name>
+<desc>Duża Płyta, a właściwie coś co po niej pozostało. Szybkie bystrze.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="49.32688000" lon="20.14864000">
+<name>0.99</name>
+<desc>Z lewej strony do rzeki wpada malowniczy wodospadzik, a po prawej ładna cofka do ćwiczeń.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="49.32834000" lon="20.14710000">
+<name>1.20</name>
+<desc>W prawą stronę odchodzi kanał Młynówki. Nie wpływać, bo potem dużo niskich kładek i problem z powrotem na rzekę właściwą.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="49.33236000" lon="20.14148000">
+<name>1.85</name>
+<desc>Betonowy most drogowy na drodze pomiędzy Jurgowem, a Brzegami.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="49.33443000" lon="20.13634000">
+<name>2.31</name>
+<desc>Miejsce ćwiczeniowe. Fajny odwoik, bystrze i dwie cofki. Charakterystyczny bardzo wysoki prawy brzeg.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="49.32959000" lon="20.14559000">
+<name>2.40</name>
+<desc>Ćwiczeniowe bystrze. Po obu stronach spore cofki, które sprzyjają ćwiczeniu trawersów i promowań.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="49.33698000" lon="20.13292000">
+<name>2.71</name>
+<desc>Miejsce ćwiczeniowe bardzo podobne do poprzedniego. Może troche mniejsza lewa cofka, ale za to nurt silniejszy i głębiej. Idealne do ćwiczenia wyjścia ze świeczką i płaskich cartwheeli.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="49.34106000" lon="20.13137000">
+<name>2.71</name>
+<desc>Miejsce zwane Plażą, czyli wypłaszenie rzeki. Można odpocząć na brzegu, poćwiczyć eskimoski i dzióbki, albo zupełnie płaskie cartwheele.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="49.35180000" lon="20.13094000">
+<name>3.21</name>
+<desc>4 lub 5 naturalnych progów w poprzek całej rzeki. Nie są one wysokie (max. 50cm), ale przy wysokiej wodzie mogą być niebezpieczne.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="0.00000000" lon="0.00000000">
+<name>4.47</name>
+<desc>4 lub 5 naturalnych progów w poprzek całej rzeki. Nie są one wysokie (max. 50cm), ale przy wysokiej wodzie mogą być niebezpieczne.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="49.35371000" lon="20.12940000">
+<name>4.72</name>
+<desc>Ostatnie przed mostem Miejsce Świeczkowe. Naprawdę silny nurt i odwój potrafią postawić na dziobie nawet większe kajaki. Cofka tylko po lewej stronie.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="49.35775000" lon="20.12578000">
+<name>5.27</name>
+<desc>Betonowy most drogowy pomiędzy Białką Tatrzańską a Czarną Górą.</desc>
+<cmt>most</cmt>
+</wpt>
+
+</gpx>

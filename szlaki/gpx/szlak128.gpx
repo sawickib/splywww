@@ -1,0 +1,250 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.21459035" lon="16.83915236">
+<name>31.50</name>
+<desc>Pierwsze, w miarę wygodne miejsce z możliwością rozpoczęcia spływu. Wyżej jest już tylko zarośnięte jeziorko (nr 1) i wąski przesmyk z małą ilością wody za to z gęstym trzcinowiskiem. Z drogi w kierunku Wrocławia Leśnicy, za ostatnimi domami wsi należy skręcić w lewo, gruntową drogą wzdłuż ogrodzenia domostw. Wodowanie ze stromej skarpy na wypływie rzeki z zarośniętego jeziorka</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.21763865" lon="16.84076486">
+<name>31.10</name>
+<desc>Most na ruchliwej drodze pomiędzy Brzezinką a Pisarzowicami. Wygodne miejsce wodowania chociaż przy samym moście mało miejsca na poboczu. Poniżej odcinek wybagrowany ale płytki i zamulony</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.21818090" lon="16.84179291">
+<name>31.00</name>
+<desc>Most kolejowy. Widoczny z szosy charakterystyczny podwójny prostokątny przepust</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.22050024" lon="16.84422434">
+<name>30.60</name>
+<desc>Most na lokalnej drodze. Na środku przepływu rząd drewnianych filarów piętrzących śmieci i utrudniających swobodne przepłynięcie. Poniżej trochę drzew i wybagrowany odcinek przez pola</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.22687540" lon="16.84657385">
+<name>29.80</name>
+<desc>Koniec odcinka bagrowanego. W lesie kilka zwałek a poniżej gęste trzcinowiska</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.22913251" lon="16.84544838">
+<name>29.50</name>
+<desc>Początek jeziorka nr 2, robi się głębiej i do samego ujścia nie ma już problemów z ilością wody pod kilem</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.23018094" lon="16.84251538">
+<name>29.20</name>
+<desc>Koniec jeziorka nr 2, płynąć w prawo, prostopadle w kierunku widocznej lini energetycznej, mimo że konfiguracja terenu i gęste trzcinowiska sugerują płynięcie prosto</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.23419169" lon="16.83884951">
+<name>28.60</name>
+<desc>Wypływ w połowie większego akwenu jeziorka nr 3. Przez chwilę odpoczniemy od trzcin. Płynąć w prawo</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.23706989" lon="16.83597034">
+<name>28.20</name>
+<desc>Koniec jeziorka, bród a za nim niska betonowa kładka. Krótka i wygodna przenoska lewym brzegiem. W miejscu tym znajduje się wbita w dno łata geodezyjna wskazująca w dniu spływu poziom 270. Wydaje się być to minimalnym poziomem do w miarę wygodnego spływu od Brzezinki (mowa o ilości wody, nie o gęstości trzcinowisk). Poniżej krótki odcinek bez trzcin ale przed wpłynięciem na kolejne jeziorko wszystko wraca do normy</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.23928107" lon="16.82979439">
+<name>27.70</name>
+<desc>Początek zarośniętego jeziorka nr 4, płynąć w prawo, wzdłuż prawego brzegu, chociaż w lewo też otwiera się możliwość przepłynięcia</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.24064969" lon="16.82720254">
+<name>27.40</name>
+<desc>Ceglany most łukowy na lokalnej drodze do Zalewu Prężyckiego na Odrze. Wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24163893" lon="16.82594779">
+<name>27.20</name>
+<desc>Betonowy niski most drogowy przy cmentarzu, za nim krótki odcinek trzcinowiska przed wpływem na kolejne jeziorko</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24210673" lon="16.82391679">
+<name>27.00</name>
+<desc>Wypływ na jeziorko nr 5, drugie co do wielkości na szlaku, kierować się na przeciwległy jego koniec</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.24772016" lon="16.81231853">
+<name>25.80</name>
+<desc>Wąski przesmyk pomiędzy jeziorkami nr 5 a 6, droga z dojazdem od strony Prężyc i Lenartowic. Wygodne miejsce wodowania, w pobliżu dużo miejsca na samochody. Niski przepust dwu rurowy wymuszający krótką przenoskę przez drogę</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="51.24803596" lon="16.80416168">
+<name>25.10</name>
+<desc>Koniec jeziorka nr 6, drewniana kładka, dalej trzcinowiska</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.24861043" lon="16.80431534">
+<name>25.00</name>
+<desc>Wypływ na jeziorko nr 7, dalej odcinek skomplikowany orientacyjnie, należy szukać nurtu, który mimo rozszerzenia akwenu jest tu dość wyraźny</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.25162539" lon="16.80164791">
+<name>24.50</name>
+<desc>Przesmyk na śródleśne jeziorko nr 8, płytkie i zamulone, po drodze kilka łatwych zwałek</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.25249510" lon="16.79492664">
+<name>23.90</name>
+<desc>Mostek betonowy na pola, koniec odcinka leśnego, dalej rzeka wybagrowana</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24959814" lon="16.79187456">
+<name>23.50</name>
+<desc>Drewniany, rozsypujący się niski mostek, wymuszający krótką przenoskę</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24480613" lon="16.78521453">
+<name>22.60</name>
+<desc>Początek odcinka leśnego, zaczynają się trzciny i zwałki</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.25029350" lon="16.77196057">
+<name>21.40</name>
+<desc>Most na drodze z Księginic do Warzyny. Wygodne miejsce wodowania, choć trawiaste brzegi są nieco strome. W bezpośrednim sąsiedztwie mostu odchodzi polna droga gdzie można pozostawić samochody, po uzgodnieniu tego w pobliskim domostwie. Odcinek poniżej mostu jest uregulowany i na krótkim odcinku wybagrowany, dalej wszystko wraca do normy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24421627" lon="16.75761638">
+<name>19.80</name>
+<desc>Sklepiony ceglany most kolejowy na trasie Wrocław - Zielona Góra. Poniżej mostu zaczyna się krótki fragment rzeki bardziej dzikiej. Z powodu zamieszkiwania tego odcinka przez bobry w poprzek rzeki leży kilka niedużych drzew</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24733113" lon="16.74834057">
+<name>18.80</name>
+<desc>Tama bobrowa o wysokości około 0,8 m, funkcjonująca, w dobrej kondycji. Poniżej odcinek uregulowany i wykoszony</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.24303985" lon="16.74197379">
+<name>18.10</name>
+<desc>Betonowy most na polnej drodze w pobliżu głównej drogi asfaltowej. W sąsiedztwie mostu dużo miejsca na pozostawienie samochodów</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24234892" lon="16.73860439">
+<name>17.80</name>
+<desc>Betonowy most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24122992" lon="16.73777678">
+<name>17.70</name>
+<desc>Most kratownicowy na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.23958442" lon="16.73184538">
+<name>17.10</name>
+<desc>Wpływ na kolejne (nr 9) jeziorko na trasie Jeziorki. Należy płynąć środkiem, wzdłuż osi jeziorka, poza zasięgiem pomstujących wędkarzy, okupujących zarówno jeden, jak i drugi brzeg</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.23946489" lon="16.72547252">
+<name>16.60</name>
+<desc>Most drogowy w centrum miejscowości</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24195787" lon="16.72414569">
+<name>16.30</name>
+<desc>Niska kładka obok prywatnego stawu</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24381625" lon="16.72382373">
+<name>16.00</name>
+<desc>Dziesiąte jeziorko na trasie Jeziorki, tym razem mniej obciążone wędkarsko</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.24423518" lon="16.72196839">
+<name>15.90</name>
+<desc>Betonowy most drogowy. Pod mostem wodowskaz wskazujący poziom 53, gwarantujący w miarę dobre warunki wodne na reprezentowanym odcinku, chociaż w niektórych miejscach poniżej zdarzały się punktowe wypłycenia uniemożliwiające swobodne przepłynięcie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24484631" lon="16.71257116">
+<name>15.00</name>
+<desc>Duży, wysoki most na nowej drodze z Miękini do Brzegu Dolnego, pod nim kolejne (11) jeziorko</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24257722" lon="16.70736520">
+<name>14.60</name>
+<desc>Dwunaste jeziorko na trasie Jeziorki. Wpływ na jeziorko jest mocno zarośnięty, jednak odcinek trzcin jest przerzedzony i nie sprawia większych trudności w przepłynięciu</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.23901409" lon="16.70250457">
+<name>14.00</name>
+<desc>Bobrowa tama</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.23485147" lon="16.69904203">
+<name>13.40</name>
+<desc>Betonowy most na lokalnej drodze. Poniżej mostu ładny leśny odcinek z powalonymi drzewami w korycie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.23764185" lon="16.67975741">
+<name>11.90</name>
+<desc>Mostek w lesie. Za nim bardziej dziko, z uwagi na niewielkie rozlewiska i kilka drzew leżących w wodzie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.23931179" lon="16.65735079">
+<name>9.90</name>
+<desc>Drewniany, rozpadający się mostek przed wpłynięciem na jeziorko nr 13, prawdopodobnie największe na trasie, najdłuższe i najszersze, a już na pewno najbardziej malownicze. Przed mostkiem koryto rzeki mocno zarasta trzcinami, praktycznie uniemożliwiając płynięcie. Ewentualna przenoska lewym brzegiem około 100 m po trawie, za mostek, wodowanie ze stromego brzegu bezpośrednio do jeziora</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.24264255" lon="16.64041411">
+<name>8.60</name>
+<desc>Niska kładka na końcu jeziora. Pod kładką mały prożek utrzymujący poziom wody w jeziorze. Poniżej kładki odcinek śródleśny z drzewami leżącymi w korycie rzeki</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.23956726" lon="16.62695144">
+<name>7.10</name>
+<desc>Kolejne małe leśne jeziorka. Za chwilę rzeka wypływa na łąki i pola</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.23875537" lon="16.62102382">
+<name>6.60</name>
+<desc>Betonowy most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.23639273" lon="16.61505620">
+<name>6.00</name>
+<desc>Betonowy most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.23326869" lon="16.60997495">
+<name>5.30</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.22726969" lon="16.59573934">
+<name>3.90</name>
+<desc>Jaz, zastawka o wysokości 1 m. Można skakać, poniżej jest dość głęboko a odwój jest niewielki. Ewentualna przenoska po trawie, kilkanaście metrów lewą lub prawą stroną. Przenoska mało wygodna ze względu na strome i wysokie brzegi</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.22694287" lon="16.59499809">
+<name>3.80</name>
+<desc>Wodowskaz nie funkcjonujący niestety w osłonowym systemie IMGW-PIB. W dniu płynięcia wodowskaz wskazywał poziom 076, co gwarantuje bardzo dobre warunki wodne na tym odcinku. Wartość 056 na tym wodowskazie gwarantuje niezbędne minimum wody w rzece, chociaż miejscami szuraliśmy o piaszczyste wypłycenia</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.22413892" lon="16.59769445">
+<name>3.40</name>
+<desc>Most drogowy. Poniżej mostu zaczyna się odcinek śródleśny z powalonymi drzewami w poprzek rzeki i małymi rozlewiskami</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.22117914" lon="16.59190391">
+<name>2.80</name>
+<desc>Ujście z lewej rzeki Czarna Struga (kanału - Nowy Rów), dostarczającego znaczną ilość wody. Kilka metrów poniżej ujścia, po prawej stronie znajduje się wodowskaz nie objęty systemem osłonowym IMGW-PIB. W dniu płynięcia wodowskaz wskazywał poziom 070, co gwarantuje bardzo dobre warunki wodne na tym odcinku. Wartość 058 na wodowskazie gwarantuje niezbędne minimum wody do ujścia</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.21762673" lon="16.56470804">
+<name>0.60</name>
+<desc>Betonowy most na lokalnej drodze. Do końca odcinek w odkrytym terenie, koryto nieco zarośnięte trzcinami</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.21841433" lon="16.55705219">
+<name>0.00</name>
+<desc>Ujście Jeziorki do Średzkiej Wody</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

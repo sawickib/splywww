@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="19" nazwa="Białka" wersja="8">
+<opis>Chyba najładniejszy kawałek górskiej rzeki w Polsce. Przez wtajemniczonych pływany bardzo często i przy każdej okazji. Woda krystalicznie czysta i wiecznie zimna, a do okoła piękne tatrzańskie widoki. Najczęściej odpowiednio wysoki poziom wody w czerwcu i na początku lipca.</opis> 
+  <odcinek id="76" typ="rzeka" nazwa="Białka od Szałasów do Czarnej Góry." 
+      uciazliwosc="U1" trudnosc="WW2" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Najbardziej popularny odcinek Białki od tzw. Bąbla do mostu w Czarnej Górze. W zależności od poziomu wody trudność waha się około WW2, czasami osiągając WW3. Dużo miejsc nadających się do ćwiczeń dla początkujących i rodeo. Koryto rzeki zbudowane jest z drobnych 
+kamieni i łupków, co powoduje, że po corocznych wiosennych powodziach
+wygląda ono trochę inaczej.</opis>
+    <punkt id="715" miejscowosc="" 
+      ns="49.35371" we="20.1294" km="4.72" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ostatnie przed mostem Miejsce Świeczkowe. Naprawdę silny nurt i odwój potrafią postawić na dziobie nawet większe kajaki. Cofka tylko po lewej stronie.</opispunktu> 
+    </punkt>
+    <punkt id="947" miejscowosc="" 
+      ns="0" we="0" km="4.47" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">4 lub 5 naturalnych progów w poprzek całej rzeki. Nie są one wysokie (max. 50cm), ale przy wysokiej wodzie mogą być niebezpieczne.</opispunktu> 
+    </punkt>
+    <punkt id="714" miejscowosc="" 
+      ns="49.3518" we="20.13094" km="3.21" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">4 lub 5 naturalnych progów w poprzek całej rzeki. Nie są one wysokie (max. 50cm), ale przy wysokiej wodzie mogą być niebezpieczne.</opispunktu> 
+    </punkt>
+    <punkt id="713" miejscowosc="" 
+      ns="49.34106" we="20.13137" km="2.71" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Miejsce zwane Plażą, czyli wypłaszenie rzeki. Można odpocząć na brzegu, poćwiczyć eskimoski i dzióbki, albo zupełnie płaskie cartwheele.</opispunktu> 
+    </punkt>
+    <punkt id="712" miejscowosc="" 
+      ns="49.33698" we="20.13292" km="2.71" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Miejsce ćwiczeniowe bardzo podobne do poprzedniego. Może troche mniejsza lewa cofka, ale za to nurt silniejszy i głębiej. Idealne do ćwiczenia wyjścia ze świeczką i płaskich cartwheeli.</opispunktu> 
+    </punkt>
+    <punkt id="709" miejscowosc="" 
+      ns="49.32959" we="20.14559" km="2.4" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ćwiczeniowe bystrze. Po obu stronach spore cofki, które sprzyjają ćwiczeniu trawersów i promowań.</opispunktu> 
+    </punkt>
+    <punkt id="711" miejscowosc="" 
+      ns="49.33443" we="20.13634" km="2.31" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Miejsce ćwiczeniowe. Fajny odwoik, bystrze i dwie cofki. Charakterystyczny bardzo wysoki prawy brzeg.</opispunktu> 
+    </punkt>
+    <punkt id="710" miejscowosc="Jurgów" 
+      ns="49.33236" we="20.14148" km="1.85" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy na drodze pomiędzy Jurgowem, a Brzegami.</opispunktu> 
+    </punkt>
+    <punkt id="708" miejscowosc="" 
+      ns="49.32834" we="20.1471" km="1.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">W prawą stronę odchodzi kanał Młynówki. Nie wpływać, bo potem dużo niskich kładek i problem z powrotem na rzekę właściwą.</opispunktu> 
+    </punkt>
+    <punkt id="707" miejscowosc="" 
+      ns="49.32688" we="20.14864" km="0.99" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Z lewej strony do rzeki wpada malowniczy wodospadzik, a po prawej ładna cofka do ćwiczeń.</opispunktu> 
+    </punkt>
+    <punkt id="706" miejscowosc="" 
+      ns="49.32517" we="20.14981" km="0.77" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Duża Płyta, a właściwie coś co po niej pozostało. Szybkie bystrze.</opispunktu> 
+    </punkt>
+    <punkt id="705" miejscowosc="" 
+      ns="49.32072" we="20.15068" km="0.25" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Miejsce zwane Jeziorkiem, czyli pierwsza duża cofka za Torem. Idealnie nadaje się do stawiania pierwszych kajakarskich kroków.</opispunktu> 
+    </punkt>
+    <punkt id="702" miejscowosc="Jurgów Szałasy" 
+      ns="49.31878" we="20.15202" km="0" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Jaworowego Potoku (sk. Jaworinki) do Białki. Tutaj woda kręci się we wszystkie strony i pewnie dlatego miejsce to nazywane jest Bąblem. Na ujściu powstaje odwój zwany Jacuzzi.</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Od Bąbla rozpoczyna się 200 metrowy odcinek Toru, czyli najtrudniejszy kawałek rzeki. Tutaj rozgrywane są zawody o Puchar Prezesa klubu Bystrze. Tutaj również odbywa się szkolenie w ramach obozu Białki Szkoleniowej.</opispunktu> 
+    </punkt>
+    <punkt id="716" miejscowosc="Czarna Góra" 
+      ns="49.35775" we="20.12578" km="5.27" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy most drogowy pomiędzy Białką Tatrzańską a Czarną Górą.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

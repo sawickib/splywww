@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="86" nazwa="Krąpiel" wersja="2">
+<opis>Krąpiel (Krępiel) to piękna mała rzeczka w woj. zachodniopomorskim, prawy dopływ Iny. Na odcinku ponad 40 km jest bardzo zróżnicowana pod względem krajobrazowym, trudności oraz uciążliwości spływu. Każdy znajdzie tu coś dla siebie pod warunkiem, że trafi na odpowiednią ilość wody oraz wybierze odpowiedni do swoich oczekiwań i umiejętności, odcinek rzeki. Miejscami rozlewa się leniwie, wręcz stoi, jest szeroka i głęboka oraz porośnięta trzcinami. W miejscach tych wody Krąpieli wykorzystuje się gospodarczo do zasilania stawów hodowlanych oraz nawadniania terenów uprawnych. Fragmenty spokojnej wody przeplatane są z odcinkami przełomowymi, w których rzeka rozcina osady polodowcowe, wypłukując z nich materiał skalny. W miejscach tych, ze względu na większą różnicę wysokości, przyspiesza, podmywa brzegi, wypłyca i tworzy bystrza na gruboziarnistych żwirach i dużych głazach narzutowych. Na odcinkach przełomowych rzeka płynie w wąskiej, głęboko wciętej dolinie o stromych i wysokich zboczach. Ma spory spadek i płynie w terenie zadrzewionym, dzięki czemu posiada górski charakter, a ze względu na powalone drzewa, dla kajaków miejscami jest trudna i uciążliwa. Nadaje się do spływu przy wyższych stanach, wiosną oraz po długotrwałych opadach. Należy uważać na powalone drzewa oraz na głazy narzutowe, które wypadły z podmywanych zboczy, a obecnie leżą w nurcie rzeki, tuż pod powierzchnią wody. Większość odcinków Krąpieli jest jednak spokojna, ale zarośnięta trzcinami i łozami. Chcąc więc spłynąć w ciągu całość szlaku, należy liczyć się z dużą zmiennością zarówno krajobrazu, jak i trudności technicznych. Poszczególne odcinki, wczesną wiosną 2020 zajęły odpowiednio: Chlebowo - Dalewo około 6h, z czego prawie 3h trudny pierwszy odcinek do Chlebówka; odcinek z Dalewa do Pęzina zajął 1h 45 min, natomiast z Pęzina do centrum Stargardu [końcówka na Inie] około 5h, przy czym trudniejszy odcinek z Pęzina do Bębnikąta pochłonął połowę tego czasu.</opis> 
+  <odcinek id="350" typ="rzeka" nazwa="Biwak-ujście urzeki" 
+      uciazliwosc="U3" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="1"> 
+  <opis>Odcinek spokojniejszy, rzeka płynie wolniej, wśród pól, łąk i sadów, brzegi są dość wysokie, odcinkami mocno zarośnięte wierzbą.</opis>
+    <punkt id="5829" miejscowosc="Rokicie" 
+      ns="53.45103065" we="15.17850614" km="37" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Szeroka bobrza tama na otwartej przestrzeni</opispunktu> 
+    </punkt>
+    <punkt id="5828" miejscowosc="Chlebówko" 
+      ns="53.45417358" we="15.17950572" km="37.7" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski, pochylony, betonowy mostek na pole uprawne. Przy wyższych stanach wody zbyt mały prześwit pod spodem, konieczna jest więc kilkumetrowa przenoska prawym brzegiem. Dalej teren się otwiera i porasta trzcinami. Tworzą się bagniska i rozlewiska za sprawą bobrzych tam. Rzeka meandruje pośród zatrzcinionych łąk</opispunktu> 
+    </punkt>
+    <punkt id="5827" miejscowosc="Chlebówko" 
+      ns="53.45818366" we="15.18073302" km="38.2" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora małej hydroelektrowni poprzedzona niewielkim rozlewiskiem. Konieczna przenoska lewą stroną przez kamienną drogę, około 20m. Wygodne miejsce lądowania i wodowania z dojazdem nad samą rzekę. Koniec trudnego odcinka zwałkowego, dalej zdecydowanie mniej bystro i bez większych przeszkód. Rzeka początkowo płynie w szpalerze drzew a następnie wypływa na otwartą przestrzeń</opispunktu> 
+    </punkt>
+    <punkt id="5826" miejscowosc="Chlebowo" 
+      ns="53.46402415" we="15.22480458" km="43.2" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Kamienne przyczółki po dawnej budowli piętrzącej wodę dla młyna Sassenburg. Poniżej bardzo ładny odcinek zwałkowy, w głębokiej zalesionej dolinie, trudny i uciążliwy. Niektóre zwałki są wysokie i dodatkowo na bystrej wodzie. Jest to najbardziej wymagający odcinek Krąpieli, mimo widocznych starych śladów po przecinaniu przeszkód. Wiele zwałek wymaga współpracy zespołowej, a i tak są one trudne do pokonania. Dzika rzeka płynie w kilkumetrowej szerokości nieregularnym korycie, odbijając się od wysokich i stromych skarp szerokiej doliny</opispunktu> 
+    </punkt>
+    <punkt id="5825" miejscowosc="Chlebowo Rosowo" 
+      ns="53.46466797" we="15.22948995" km="43.5" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy łączący obie miejscowości. Wygodne miejsce wodowania powyżej mostu, zaraz za nim kamienny prożek, bystrze. W pobliżu mostu sporo miejsca na samochody</opispunktu> 
+    </punkt>
+    <punkt id="5833" miejscowosc="Krzywnica" 
+      ns="53.43436115" we="15.19195771" km="33.9" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi nr 142, zwanej Chociwelką. Wygodny dostęp do wody powyżej mostu, z łagodnego brzegu. Dużo miejsca na samochody w pobliżu nieczynnej, drugiej nitki szosy i przęsła mostu</opispunktu> 
+    </punkt>
+    <punkt id="5832" miejscowosc="Rokicie " 
+      ns="53.44313733" we="15.18372191" km="35.7" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie z powracającą młynówką, dopływającą z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="5831" miejscowosc="Rokicie" 
+      ns="53.44688029" we="15.18260368" km="36.2" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg, zastawka z funkcjonującą przepławką dla ryb. Próg jest możliwy do spłynięcia, ale po 1,5 pionu ląduje się na betonowej pochylni, za którą tworzy się niewielki odwój. Na górze zastawki znajduje się niska stalowa szyna, dłuższe kajaki mogą więc po skoku zaczepiać o nią rufą. Ewentualna przenoska prawą stroną po trawie, około 20m, z niezbyt wygodnym wyjściem na stromy brzeg. Dalej spokojny nurt, teren otwarty, trzcinowiska, bez większych przeszkód</opispunktu> 
+    </punkt>
+    <punkt id="5830" miejscowosc="Rokicie" 
+      ns="53.44859561" we="15.17950242" km="36.5" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Słabo widoczne ujście rzeczki Sokola (Kłodna), z prawej strony</opispunktu> 
+    </punkt>
+    <punkt id="5834" miejscowosc="Krzywnica " 
+      ns="53.43188931" we="15.1949518" km="33.6" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Nieczynna zastawka po prawej stronie, z możliwością płynięcia w 3 kierunkach. W lewo i w prawo prowadzą odnogi zasilające stawy hodowlane, natomiast zasadniczy nurt prowadzi prosto, krótkim fragmentem bystrej, wąskiej i krętej rzeki o charakterze górskim. Jest to prawdopodobnie samoistna wyrwa w zaporze ziemnej, bowiem zastawka tuż obok jest całkowicie sucha i nie spełnia swojej funkcji. Wyrwę tę wtórnie ucywilizowano i zabezpieczono przed postępującą erozją, poprzez wzmocnienie brzegów kamieniami i drewnianymi palikami</opispunktu> 
+    </punkt>
+    <punkt id="5835" miejscowosc="Krzywnica " 
+      ns="53.43068599" we="15.19544769" km="33.4" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze. Przepust z dwóch rur. Poniżej we wsi kilka kładek i stalowa rura przechodząca przez rzekę</opispunktu> 
+    </punkt>
+    <punkt id="5836" miejscowosc="Krzywnica" 
+      ns="53.42593213" we="15.19370279" km="32.8" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">W centrum wsi, w pobliżu charakterystycznego transformatora, na wysokości tafli wody leżą dwa bardzo grube drzewa. Przez miejscowych zostały one wykorzystane na kładkę przez rzekę. Konieczna krótka przenoska prawym brzegiem przez ogrodzenie i prawdopodobnie, prywatną posesję</opispunktu> 
+    </punkt>
+    <punkt id="5837" miejscowosc="Krzywnica " 
+      ns="53.4231148" we="15.19327033" km="32.55" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="5838" miejscowosc="Krzywnica " 
+      ns="53.42295656" we="15.19328481" km="32.5" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="most" kolejnosc="-1">Stalowy most nieczynnej linii kolejowej</opispunktu> 
+    </punkt>
+    <punkt id="5839" miejscowosc="Krzywnica " 
+      ns="53.42252732" we="15.19376683" km="32.4" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Żelbetonowy prożek o wysokości 0,5m. Dalej odcinek zatrzciniony ale ze swobodnym przepływem, rzeka szerokim łukiem omija stawy hodowlane</opispunktu> 
+    </punkt>
+    <punkt id="5840" miejscowosc="Dzwonowo" 
+      ns="53.41378998" we="15.21205291" km="30.5" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most na lokalnej drodze, pośród kompleksu stawów hodowlanych</opispunktu> 
+    </punkt>
+    <punkt id="5841" miejscowosc="Dzwonowo" 
+      ns="53.41228581" we="15.2112957" km="30.35" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Krępa z lewej strony, całkowicie przesłonięte przewróconym drzewem</opispunktu> 
+    </punkt>
+    <punkt id="5842" miejscowosc="Dzwonowo" 
+      ns="53.41208525" we="15.21064141" km="30.3" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalne drodze. Poniżej rzeka staje się szeroka, nurt jest leniwy, a brzegi porastają trzcinowiska i pojedyncze drzewa</opispunktu> 
+    </punkt>
+    <punkt id="5843" miejscowosc="Gogolewo" 
+      ns="53.39192257" we="15.17531981" km="26.7" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Zatrzcinione ujście rzeczki Giełdnica, z prawej strony. Niżej brzegi mocno okupowane przez wędkarzy</opispunktu> 
+    </punkt>
+    <punkt id="5844" miejscowosc="Dalewo Gogolewo " 
+      ns="53.38241021" we="15.1724059" km="25.4" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogi nr 20. Wygodne miejsce rozpoczynania i kończenia etapów, w pobliżu duży plac na samochody. Na filarze mostu znajduje się wodowskaz, którego wskazania poziomu 176 gwarantują bardzo dobre warunki na reprezentowanym odcinku. Niżej teren odkryty, nurt powolny, brzegi porośnięte trzcinami i pojedynczymi drzewami</opispunktu> 
+    </punkt>
+    <punkt id="5845" miejscowosc="Gogolewo Kolonia" 
+      ns="53.37467763" we="15.17945247" km="24.4" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Resztki betonowej konstrukcji mostu, kładki lub zastawki</opispunktu> 
+    </punkt>
+    <punkt id="5846" miejscowosc="Gogolewo Kolonia " 
+      ns="53.37360043" we="15.17992846" km="24.3" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="5847" miejscowosc="Gogolewo Kolonia " 
+      ns="53.37249442" we="15.18105156" km="24.1" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze. Dalej teren otwarty, pojedyncze drzewa, szeroko. Początkowo słaby nurt, przed Pęzinem nieco bardziej przyspiesza. W korycie rzeki pojedyncze zwałki, trzciny i trawa</opispunktu> 
+    </punkt>
+    <punkt id="5848" miejscowosc="Pęzino" 
+      ns="53.34045792" we="15.19277978" km="17.9" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z małym, kamiennym bystrzem. Wygodny dostęp do wody ale droga jest tu wąska, po obydwu stronach biegną chodniki, przez co jest mało przestrzeni na samochody</opispunktu> 
+    </punkt>
+    <punkt id="5849" miejscowosc="Pęzino" 
+      ns="53.33930103" we="15.1933426" km="17.8" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Pęzinki z lewej strony, w pobliżu dobrze widocznego z rzeki, zamku. Przy odrobinie szczęścia można wejść na jego dziedziniec i zwiedzić obiekt, przekonując do tego, niezwłocznie pojawiającego się ochroniarza [zamek jest własnością prywatną]</opispunktu> 
+    </punkt>
+    <punkt id="5850" miejscowosc="Pęzino" 
+      ns="53.33885252" we="15.19286858" km="17.7" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Tuż za mostem znajduje się próg - bystrze z wielkich głazów, które przy niskiej wodzie może być trudne i niebezpieczne. Poniżej mostu i bystrza wygodne miejsce rozpoczynania i kończenia etapu. W pobliżu mostu znajduje się spory plac na samochody, ale wyjście z wody i dojście do niego z rzeki odbywa się pod stosunkowo stromą skarpę. W Pęzinie znajduje się mała przychodnia lekarska, a przy głównym skrzyżowaniu obok kościoła jest sklep. Poniżej mostu krótki odcinek wolno płynącej rzeki, bez przeszkód w korycie</opispunktu> 
+    </punkt>
+    <punkt id="5851" miejscowosc="Pęzino " 
+      ns="53.336866" we="15.18808444" km="17" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki kratownicowy most kolejowy. Niżej rzeka wpływa w głęboką zadrzewioną dolinę i przyspiesza. Rozpoczyna się etap zwałkowy, ale nie jest on tak trudny i uciążliwy, jak odcinek z Chlebowa do Chlebówka. Wszystkie zwałki daje się pokonać bez większych problemów, niektóre jednak wyłącznie zespołowo. W korycie miejscami pojawiają się też duże głazy narzutowe</opispunktu> 
+    </punkt>
+    <punkt id="5852" miejscowosc="Pęzino" 
+      ns="53.33205232" we="15.16972571" km="14.8" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Po lewej prowizoryczne ławki, stolik, miejsce na ognisko i kawałek trawy pod możliwy biwak. Teren na chwilę otwiera się w kierunku SW z widokiem na farmę wiatraków. W dalszym ciągu zwałkowo, bystro i kamieniście</opispunktu> 
+    </punkt>
+    <punkt id="5853" miejscowosc="Bębnikąt" 
+      ns="53.33226885" we="15.13309781" km="8.9" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z progiem - bystrzem po dawnym młynie. Wygodny dojazd asfaltową drogą i wygodny dostęp do wody. W pobliżu mostu plac na kilka samochodów, często okupowany przez wędkarzy. Poniżej jeszcze pojedyncze zwałki ale niezbyt trudne. Odcinek o wiele mniej uciążliwy i znacznie łatwiejszy niż wcześniejsze, jednak wciąż w lesie, w głębokim wąwozie, więc bystry i z kamieniami w nurcie</opispunktu> 
+    </punkt>
+    <punkt id="5854" miejscowosc="Strachocin" 
+      ns="53.3191962" we="15.10195189" km="4.7" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Na łuku rzeki, po prawej stronie wiaty, ławki i tablice informacyjne o ichtiofaunie Krąpieli</opispunktu> 
+    </punkt>
+    <punkt id="5855" miejscowosc="Strachocin" 
+      ns="53.32190105" we="15.08843234" km="3.1" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W prawo odbija Młynówka do Stargardu, zamknięta zastawką</opispunktu> 
+    </punkt>
+    <punkt id="5856" miejscowosc="Strachocin Święte" 
+      ns="53.32125557" we="15.08804911" km="3" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz małej hydroelektrowni Strachocin. Przenoska prawym brzegiem przez betonowy murek, barierki, wzdłuż drogi, mostem przez Kanał Strumyk, lub lewym brzegiem, z przejściem na prawy przez kładkę nad jazem. Koniec atrakcyjnego odcinka leśno zwałkowego. Wygodne miejsce kończenia etapu, w pobliżu sporo miejsca na samochody</opispunktu> 
+    </punkt>
+    <punkt id="5857" miejscowosc="Strachocin Święte" 
+      ns="53.32055374" we="15.08804012" km="2.9" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="most" kolejnosc="-1">Obszerny przepust pod mostem drogi nr 10. Poniżej odcinek bez przeszkód ale z wyraźnym nurtem. Rzeka kręci pośród łąk, pojedynczych drzew i zwisających łoz</opispunktu> 
+    </punkt>
+    <punkt id="5858" miejscowosc="Strachocin Święte" 
+      ns="53.31968191" we="15.08372811" km="2.5" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie z Młynówką</opispunktu> 
+    </punkt>
+    <punkt id="5859" miejscowosc="Stargard" 
+      ns="53.31862049" we="15.05884992" km="0.6" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze, za nim wodowskaz zniszczony i słabo czytelny. Wodowskaz stoi przy prawym brzegu ale odczytywany jest z lewego. Wskazania poziomu 258 gwarantują bardzo dobre warunki na reprezentowanym odcinku</opispunktu> 
+    </punkt>
+    <punkt id="5860" miejscowosc="Stargard" 
+      ns="53.31881738" we="15.05177647" km="0" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Krąpieli do Iny. Spływ wygodnie jest zakończyć na przystani w Stargardzie, przy ul. Żeglarskiej - 15 min w dół Iną. Za mostem drogowym po prawej stronie znajduje się pływający pomost oraz ławki, tablica informacyjna i parking na kilka samochodów. W pobliżu dużo sklepów i centrum zabytkowego miasta</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

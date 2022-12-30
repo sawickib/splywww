@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="200" nazwa="Obra Leniwa Gniła" wersja="1">
+<opis>Obra Leniwa, od Kręcka zwana Gniłą Obrą, a niegdyś Faule Obra jest prawym dopływem Obrzycy. Uchodzi do niej od północy w miejscowości Smolno Wielkie, położonej pomiędzy Kargową a Sulechowem. Jeden z doskonałych przykładów prostowania i regulacji naturalnego biegu rzeki w celach wykorzystania, bądź usprawnienia jej funkcji melioracyjnych. Szczególnie wyraźnie widoczne jest to na XIX wiecznych mapach, gdzie do krętej, pięknie meandrującej, dzikiej rzeki przyłożono linijkę i w ten sposób wyznaczono jej obecny przebieg. Aktualnie, w większości swego biegu rzeka ma postać prostego kanału o wysokich brzegach, płynącego szeroką doliną w otwartych przestrzeniach. Tylko miejscami wpływa na krótko w obszary zalesione, bądź zadrzewione, a poniżej Babimostu przepływa przez jezioro, co warto mieć na uwadze przy silniejszych wiatrach, zwłaszcza tych, wiejących południkowo.
+Ciekawostką jest, że Obra Leniwa Gniła płynie generalnie z północy na południe, równolegle i w niewielkiej [5-10km] odległości od Obry [zasadniczej], jednak dokładnie w przeciwnym kierunku. 
+Opis sporządzono na podstawie spływu po intensywnych, kilkudniowych opadach. Wodowskaz na górnej wodzie pierwszej zastawki Podmokle [17,8km] wskazywał poziom 1200, wodowskaz na górnej wodzie drugiej zastawki [16,7km] 088, a na górnej wodzie trzeciej zastawki [15,1km] 085. Wodowskaz na jazie w Wojnowie [2,6km]: na górnej wodzie 52.6, a na dolnej wodzie 51.7. Wodowskaz Smolno Wielkie przed mostem na Obrzycy wskazywał w tym czasie poziom 1180. Wskazania te gwarantują bardzo dobrą ilość wody, a spływ można rozpocząć nawet powyżej miejscowości Szczaniec.
+W tych warunkach, odcinek od ujścia rzeki Lubinicy (Szczaniec) do ujścia do Obrzycy zajął 2xK1 około 6,5h</opis> 
+    <punkt id="6603" miejscowosc="Szczaniec" 
+      ns="52.27849276" we="15.71049915" km="29.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Lubinicy z prawej strony. Przy wysokich stanach wody istnieje możliwość dopłynięcia tu Lubinicą od Szczańca. W okolicy połączenia rzek, zarówno na Lubinicy, jak i na Obrze Leniwej należy uważać na słabo widoczne, nisko zawieszone pastuchy elektryczne. Poniżej ujścia kilkusetmetrowy odcinek przez las z sekwencją malowniczych, powalonych w poprzek rzeki, sporych drzew. Wszyskie drzewa zaparte są o przeciwległe, wysokie brzegi, nie ma więc problemu ze swobodnym przepłynięciem pod nimi</opispunktu> 
+    </punkt>
+    <punkt id="6604" miejscowosc="Szczaniec" 
+      ns="52.27377609" we="15.72271374" km="28.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na gruntowej, publicznej drodze do Rogozińca i Dąbrówki Wielkopolskiej. Niezbyt wygodne miejsce rozpoczynania spływu ze względu na wysokie i strome brzegi, jednak następny, wygodny dojazd do rzeki, możliwy jest dopiero po 10 km, w Kręcku. Przy samym moście znajduje się zatoczka na 2 samochody. Poniżej prosty, odsłonięty kanał. Po prawej stronie ciąg pastwisk ze słabo widocznymi, nisko zawieszonymi pastuchami elektrycznymi, przecinającymi rzekę w kilku miejscach</opispunktu> 
+    </punkt>
+    <punkt id="6605" miejscowosc="Szczaniec" 
+      ns="52.26458551" we="15.7317175" km="27.3" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy, pod nim bystrze. Poniżej krótki odcinek przez kępy drzew z łatwymi zwałkami. Warto odnaleźć w sieci XIX wieczne mapy, na których widać dokładnie, jaki przebieg miała kiedyś rzeka poniżej tego mostu. Widać tam, jak zabiegi melioracyjne potrafią zmienić piękną i dziko meandrującą rzekę w prosty rów</opispunktu> 
+    </punkt>
+    <punkt id="6606" miejscowosc="Nowy Gościniec" 
+      ns="52.24863598" we="15.73613842" km="25.3" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Miejsce, po budowli hydrotechnicznej. Prawdopodobnie funkcjonował tu kiedyś próg piętrzący wodę na potrzeby stawów hodowlanych, znajdujących się po lewej stronie rzeki. Dzisiaj, podmyte brzegi i powalone drzewa sprawiają, że frament ten jest bardziej bystry i kręty. Przyjemna odskocznia od monotonii prostego kanału melioracyjnego</opispunktu> 
+    </punkt>
+    <punkt id="6607" miejscowosc="Nowy Gościniec" 
+      ns="52.23735303" we="15.75911581" km="23.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Miejsce po kolejnym progu związanym ze sporym kompleksem stawów, funkcjonujących niegdyś na lewym brzegu. Widać tu kamienne przyczółki, a kilka zwalonych drzew i krzaków piętrzy nieco wodę. Po chwili, rzeka powraca do swojej skanalizowanej postaci</opispunktu> 
+    </punkt>
+    <punkt id="6608" miejscowosc="Kręcko" 
+      ns="52.2178643" we="15.78334051" km="20.1" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Na prawym brzegu, w oddali ukazuje się charakterystyczny krzywy komin i zabudowania dawnej gorzelni oraz wieża kościoła. Oznacza to zbliżanie się do Kręcka, skąd startuje większość spływów organizowanych tą rzeką. Z prawej strony uchodzi tzw. Dopływ ze Smardzewa, tu oficjalnie Obra Leniwa zmienia nazwę na Gniłą Obrę</opispunktu> 
+    </punkt>
+    <punkt id="6609" miejscowosc="Kręcko" 
+      ns="52.21522245" we="15.7837197" km="19.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Nieużytkowany mostek na wysokości gorzelni, pod nim krótkie bystrze. Poniżej kilka drzew w korycie, ponieważ rzeka wpływa na chwilę na obszar zalesiony</opispunktu> 
+    </punkt>
+    <punkt id="6610" miejscowosc="Kręcko" 
+      ns="52.21145764" we="15.78441184" km="19.4" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy i kładka, pod nimi bystrze</opispunktu> 
+    </punkt>
+    <punkt id="6611" miejscowosc="Podmokle" 
+      ns="52.20121493" we="15.79783703" km="17.8" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka drewniana, piętrząca wodę na około 1m. Na górnej wodzie znajduje się wodowskaz. W zależności od ilości wody, możliwa przenoska kilka metrów, po trawie, lewym brzegiem</opispunktu> 
+    </punkt>
+    <punkt id="6612" miejscowosc="Podmokle" 
+      ns="52.19534376" we="15.8098908" km="16.7" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka drewniana, wprawdzie nie piętrząca wody, ale zbyt nisko uniesiona, przez co wymuszająca krótką przenoskę lewym brzegiem. Na górnej wodzie wodowskaz</opispunktu> 
+    </punkt>
+    <punkt id="6613" miejscowosc="Podmokle" 
+      ns="52.19491755" we="15.81068275" km="16.6" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy z wygodnym dostępem do wody, przed mostem z prawego brzegu. We wsi znajduje się ciekawy skansen m.in. narzędzi rolniczych, warto więc zrobić sobie przerwę w spływie na jego odwiedzenie</opispunktu> 
+    </punkt>
+    <punkt id="6614" miejscowosc="Podmokle" 
+      ns="52.1923826" we="15.81519993" km="16.2" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski mostek ze stalowej kratownicy</opispunktu> 
+    </punkt>
+    <punkt id="6615" miejscowosc="Podmokle" 
+      ns="52.18519568" we="15.82698732" km="15.1" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka nie piętrząca wody, jednak uniesiona zbyt nisko, przez co wymuszająca krótką przenoskę lewym brzegiem. Na górnej wodzie znajduje się wodowskaz</opispunktu> 
+    </punkt>
+    <punkt id="6616" miejscowosc="Podmokle" 
+      ns="52.18468223" we="15.8276026" km="15" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy, przed nim stalowa rura nisko nad wodą</opispunktu> 
+    </punkt>
+    <punkt id="6617" miejscowosc="Babimost" 
+      ns="52.18242704" we="15.82816848" km="14.7" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kratownicowy na polnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="6618" miejscowosc="Babimost" 
+      ns="52.16620015" we="15.82402794" km="12.9" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Kolejna drewniana zastawka nie piętrząca wody. Tym razem łatwa do przepłynięcia</opispunktu> 
+    </punkt>
+    <punkt id="6619" miejscowosc="Babimost" 
+      ns="52.1656398" we="15.8244983" km="12.8" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska kładka - mostek</opispunktu> 
+    </punkt>
+    <punkt id="6620" miejscowosc="Babimost" 
+      ns="52.16306234" we="15.82678181" km="12.4" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Główny most drogowy w centrum miasta, w ciągu ul. Piłsudskiego, tzw. Babi Most. Przed mostem, po lewej stronie nieczytelny wodowskaz. Efektowna konstrukcja zabytkowego mostu z cegły i kamienia. Zaraz za mostem, po prawej stronie drewniany taras restauracji. W pobliżu mostu sklep spożywczy</opispunktu> 
+    </punkt>
+    <punkt id="6621" miejscowosc="Babimost" 
+      ns="52.16161412" we="15.83036448" km="12.1" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy ul. Mostowej</opispunktu> 
+    </punkt>
+    <punkt id="6622" miejscowosc="Babimost" 
+      ns="52.15748324" we="15.83376439" km="11.6" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki most drogowy obwodnicy miasta</opispunktu> 
+    </punkt>
+    <punkt id="6623" miejscowosc="Młynisko" 
+      ns="52.15525943" we="15.83479246" km="11.4" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="most" kolejnosc="-1">Bardzo niski drewniany mostek w pobliżu pastwisk. Konieczna przenoska lewym brzegiem</opispunktu> 
+    </punkt>
+    <punkt id="6624" miejscowosc="Młynisko" 
+      ns="52.15026944" we="15.83890438" km="10.6" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Charakterystczne dwie rury stalowe, nisko nad wodą</opispunktu> 
+    </punkt>
+    <punkt id="6625" miejscowosc="Młynisko" 
+      ns="52.14878638" we="15.83981651" km="10.5" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Drewniana zastawka nie piętrząca wody i łatwa do przepłynięcia</opispunktu> 
+    </punkt>
+    <punkt id="6626" miejscowosc="Młynisko" 
+      ns="52.14768517" we="15.83933988" km="10.4" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy mostek. Poniżej, kilkaset metrów przez łąki i rzeka wpływa w obszar zalesiony, tworząc prosty, ale malowniczy odcinek</opispunktu> 
+    </punkt>
+    <punkt id="6627" miejscowosc="Kuligowo" 
+      ns="52.13383832" we="15.81781173" km="8.2" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na lokalnej drodze, oznakowanej jako dojazd pożarowy nr 22. Ostatnia możliwość podjęcia kajaków z wody przed jeziorem Wojnowskim</opispunktu> 
+    </punkt>
+    <punkt id="6628" miejscowosc="Kuligowo" 
+      ns="52.12858664" we="15.81387595" km="7.4" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Odbicie w lewo wstecz do urządzeń hydrotechnicznych, które znajdują się 100 m wgłąb</opispunktu> 
+    </punkt>
+    <punkt id="6629" miejscowosc="Kuligowo" 
+      ns="52.12427698" we="15.81138962" km="6.8" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na dzikie i niezagospodarowane jezioro Wojnowskie Wschodnie. Miejsce to jest mylące w przypadku płynięcia w odwrotnym kierunku, ponieważ wypływ posadowiony jest na trzcinowym, nieoczywistym i nieoznakowanym cyplu, w środkowej części końca jeziora. Widoczne z daleka po obu stronach wypływu głęboko wcięte zatoki zachęcają do wpłynięcia właśnie w nie, jednak obie są ślepe. Rzeka traci energię i osadza niesiony materiał, przez co sam wypływ na jezioro jest nieco płytki i zamulony z kikutami drzew tuż pod powierzchnią wody (ostrożnie płynąć kajakami dmuchanymi)</opispunktu> 
+    </punkt>
+    <punkt id="6630" miejscowosc="Wojnowo" 
+      ns="52.10744127" we="15.78548647" km="4.2" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na przesmyku pomiędzy jeziorami Wojnowskim Wschodnim a Zachodnim. W tym miejscu szlak prowadzi w lewo do ujścia, natomiast można też popłynąć w prawo jeziorem Zachodnim. W przeciwieństwie do Wschodniego, odgałęzienie to jest zdecydowanie bardziej ucywilizowane. Na brzegach wybudowano liczne ośrodki wypoczynkowe i osiedla domków kempingowych, do wody schodzą pomosty, a na wodzie, w sezonie pojawia się sporo sprzętu pływającego. Po około 4 km, na końcu jeziora dopłynąć można do publicznej plaży w Kolesinie, gdzie istnieje możliwość dojazdu samochodem do samej wody i odebranie sprzętu</opispunktu> 
+    </punkt>
+    <punkt id="6631" miejscowosc="Wojnowo" 
+      ns="52.09692978" we="15.78301264" km="2.9" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ z jeziora Wojnowskiego na jego południowym krańcu. Na lewym brzegu publiczna plaża i doskonałe miejsce do odpoczynku, w pobliżu zabytkowego pałacu</opispunktu> 
+    </punkt>
+    <punkt id="6632" miejscowosc="Wojnowo" 
+      ns="52.09632336" we="15.78621766" km="2.6" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz utrzymujący poziom wody w jeziorze Wojnowskim. Przenoska z prawej strony, z zatoczki rybackiej, 30m po trawie. Na górnej i dolnej wodzie znajdują się wodowskazy</opispunktu> 
+    </punkt>
+    <punkt id="6633" miejscowosc="Wojnowo" 
+      ns="52.09538493" we="15.78731766" km="2.5" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy. Za nim, po lewej stronie nieczytelny wodowskaz. Dalej szeroki kanał z trzcinami na brzegach</opispunktu> 
+    </punkt>
+    <punkt id="6634" miejscowosc="Smolno Wielkie" 
+      ns="52.07695819" we="15.79186719" km="0.3" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka i most na ruchliwej drodze nr 32 pomiędzy Kargową, a Sulechowem. Nie jest to dobre miejsce na zakończenie spływu</opispunktu> 
+    </punkt>
+    <punkt id="6635" miejscowosc="Smolno Wielkie" 
+      ns="52.07441972" we="15.78954136" km="0" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Gniłej Obry do Obrzycy. W prawo, z prądem po 1,2 km dopływa się do Smolna Wielkiego. Przed mostem, po prawej stronie znajduje się gruntowa droga nad samą wodą, jednak brzeg jest tu wysoki i stromy. Zdecydowanie łatwiej dostępny brzeg osiągniemy po tej samej stronie, ale za mostem</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

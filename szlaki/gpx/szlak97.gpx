@@ -1,0 +1,330 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="52.09016177" lon="15.91401489">
+<name>121.00</name>
+<desc>Most drogowy pomiędzy Kargową a Wolsztynem. Wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.09739242" lon="15.90729518">
+<name>120.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.10051641" lon="15.90747937">
+<name>119.70</name>
+<desc>Otwarta 3-przęsłowa zastawka</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.11045215" lon="15.90504646">
+<name>118.50</name>
+<desc>Możliwość zabiwakowania po lewej na skraju lasu</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.12957126" lon="15.89840927">
+<name>116.20</name>
+<desc>Możliwość biwaku po lewej na skraju lasu</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.13539895" lon="15.89360152">
+<name>115.30</name>
+<desc>Możliwość biwaku na cyplu po lewej pomiędzy jeziorami Wielowiejskim i Chobienickim</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.15254388" lon="15.89574949">
+<name>113.40</name>
+<desc>Rezerwat "Wyspa na Jeziorze Chobienickim"</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.17055878" lon="15.88943751">
+<name>111.10</name>
+<desc>Most drogowy na trasie Babimost - Wolsztyn</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.18533442" lon="15.89013653">
+<name>109.40</name>
+<desc>Miejsce na biwak po prawej przy wypływie z jeziora Grójeckiego</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.19170418" lon="15.89247545">
+<name>108.60</name>
+<desc>Miejsce na biwak po prawej na początku jeziora Nowowiejskiego</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.19819819" lon="15.88954835">
+<name>107.80</name>
+<desc>Most drogowy na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.21570293" lon="15.90326529">
+<name>105.70</name>
+<desc>Podczas wietrznej pogody możliwa wysoka boczna fala</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.23506362" lon="15.91917832">
+<name>103.20</name>
+<desc>Wypływ Obry z jeziora Zbąszyńskiego. Kierować się na prawo od widocznych z daleka wież kościoła.</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="52.23588000" lon="15.92393000">
+<name>102.90</name>
+<desc>Pod mostem sieć rybacka uniemożliwiająca przepłynięcie</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.25024183" lon="15.92302157">
+<name>101.00</name>
+<desc>Most drogowy w centrum miasta. Pod mostem wodowskaz (odczyt 153). Zniszczony podest, zniszczona tablica informacyjna o szlaku Obry, schodki na górę.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.25229865" lon="15.91918810">
+<name>100.60</name>
+<desc>Drewniana kładka z rurą nisko nad wodą</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.25236504" lon="15.91467936">
+<name>100.10</name>
+<desc>Most drogowy na trasie do Nowego Tomyśla</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.25941318" lon="15.90928408">
+<name>99.20</name>
+<desc>Dwa mosty kolejowe</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.27382376" lon="15.88718993">
+<name>96.80</name>
+<desc>Miejsce biwakowe z wiatą, po lewej</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.28121000" lon="15.89378995">
+<name>95.80</name>
+<desc>Most drogowy na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.28781668" lon="15.88307469">
+<name>94.40</name>
+<desc>Miejsce na biwak po prawej, stoliki i ławki</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.32344550" lon="15.88344641">
+<name>90.10</name>
+<desc>Pierwszy oznakowane biwaki na trasie spływu. Po prawej - widoczny z daleka oraz po lewej stronie jeziora - na cyplu</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.32923229" lon="15.88219183">
+<name>89.50</name>
+<desc>Zaraz za mostem uciążliwa zwałka na grubym drzewie, zator ze śmieci</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.33648260" lon="15.88799252">
+<name>88.50</name>
+<desc>Miejsce na biwak po prawej</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.36789969" lon="15.87994764">
+<name>84.80</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.37097705" lon="15.87438903">
+<name>84.30</name>
+<desc>Most drogowy na bardzo ruchliwej drodze pomiędzy Nowym Tomyślem a Świebodzinem</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.40601702" lon="15.83066395">
+<name>79.00</name>
+<desc>Przed mostem po prawej możliwość biwaku</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.40653785" lon="15.82653857">
+<name>78.60</name>
+<desc>Otwarta zastawka</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.41489103" lon="15.80613005">
+<name>76.90</name>
+<desc>Oznakowane miejsce biwakowe po prawej na zakręcie rzeki</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.44491394" lon="15.72638884">
+<name>69.60</name>
+<desc>Oznakowany biwak po lewej, przy leśniczówce</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.45867207" lon="15.70234335">
+<name>66.70</name>
+<desc>Most drogowy na trasie Międzyrzecz - Pszczew</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.46120209" lon="15.69525626">
+<name>65.80</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.45999128" lon="15.69179664">
+<name>65.10</name>
+<desc>Most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.46761057" lon="15.64835109">
+<name>58.80</name>
+<desc>Oznakowanie biwaku 500 m w prawo na jeziorze Żółwin</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.46508594" lon="15.64626024">
+<name>58.40</name>
+<desc>Most drogowy na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.45659526" lon="15.61895645">
+<name>54.80</name>
+<desc>Miejsce na biwak po lewej, w lesie</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.45229000" lon="15.60816000">
+<name>53.60</name>
+<desc>Betonowe filary po moście</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.44810385" lon="15.58596449">
+<name>50.90</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.44621726" lon="15.57832152">
+<name>50.30</name>
+<desc>Most drogowy w centrum miasta</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.44601317" lon="15.57309947">
+<name>49.90</name>
+<desc>Ujście Paklicy po lewej</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="52.44551485" lon="15.57146942">
+<name>49.80</name>
+<desc>Ładny zamek tuż przy rzece</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="52.44518879" lon="15.56825958">
+<name>49.60</name>
+<desc>Kładka dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.45122546" lon="15.56216766">
+<name>48.60</name>
+<desc>Most obwodnicy miasta</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.44778309" lon="15.55506283">
+<name>47.80</name>
+<desc>Drewniany mostek przy kościele</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.44781022" lon="15.53891880">
+<name>45.50</name>
+<desc>Stanica kajakowa "WYSPA" - wiata</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="52.44999768" lon="15.53731430">
+<name>45.10</name>
+<desc>Most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.45124000" lon="15.53531000">
+<name>44.90</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.46559419" lon="15.50308802">
+<name>38.70</name>
+<desc>Duże pole biwakowe po lewej</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.46599204" lon="15.49922387">
+<name>38.40</name>
+<desc>Camping MAYA po lewej</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.46734082" lon="15.49544543">
+<name>38.10</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.49103176" lon="15.48300333">
+<name>31.00</name>
+<desc>Ewentualna przenoska 10m z lewej strony</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="52.51517000" lon="15.44536000">
+<name>25.00</name>
+<desc>Przenoska 100 m z prawej strony zapory, ładnie oznakowana</desc>
+<cmt>przenoska</cmt>
+</wpt>
+<wpt lat="52.51391440" lon="15.44374325">
+<name>24.80</name>
+<desc>Przystań kajakowa po lewej tuż za zaporą</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.51750504" lon="15.42088912">
+<name>22.80</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.51816948" lon="15.42189346">
+<name>22.70</name>
+<desc>Miejsce biwakowe za mostem po prawej stronie</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.53356173" lon="15.43532279">
+<name>19.50</name>
+<desc>Miejsce na biwak z własnym źródełkiem</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.55290000" lon="15.42415000">
+<name>14.60</name>
+<desc>Próg z larsenów. Można płynąć w prawo rzeką lub w lewo skrótem pod mostem obrotowym</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="52.55423307" lon="15.42292214">
+<name>-1.00</name>
+<desc>Dobrze zachowany (ponoć działający) most obrotowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.57293000" lon="15.43089000">
+<name>8.00</name>
+<desc>Stanica wodna Lisia Góra po prawej</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="52.57526928" lon="15.43080351">
+<name>7.70</name>
+<desc>Most na leśnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.58761008" lon="15.47734200">
+<name>2.40</name>
+<desc>Most drogowy i kładka dla pieszych</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.59348946" lon="15.48231527">
+<name>1.60</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.59582809" lon="15.48414737">
+<name>1.30</name>
+<desc>Most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="52.60260701" lon="15.47878002">
+<name>0.00</name>
+<desc>Ujście Obry do Warty</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

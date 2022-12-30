@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="111" nazwa="Krynka" wersja="1">
+<opis>Niewielki prawy dopływ rzeki Oławy o długości ok. 36 km. Początek swój bierze w okolicach wsi Goworowice, a płynąc w kierunku północnym do Oławy wpada pomiędzy Strzelinem a Wiązowem, na wysokości Krzepic. Ze względu na swe rozmiary, dla kajaków rzeka dostępna jest podczas wiosennych roztopów oraz po opadach deszczu. Plotka niesie, że płynie wartko również podczas upustu wody z zapory w Przewornie, pomimo wielu prób nie udało nam się jednak ustalić kiedy taki upust może mieć miejsce. Zjęcia satelitarne oraz wizje lokalne w terenie pozwalają twierdzić, że zapora w Przewornie wody nie piętrzy.
+Podczas spływu (marzec 2012) wodowskaz pod mostem w Przewornie wskazywał poziom 133. Przy niższym poziomie wody może być problem z "bezbolesnym" przepłynięciem przez liczne żwirowe przemiały w środkowym odcinku rzeki.
+Odcinek z Przeworna do Krzepic zajął około 5 godzin. Rzeka dla wygodnych, bowiem wszystkie progi i zwałki pokonuje się bez wysiadania z kajaka.</opis> 
+  <odcinek id="461" typ="rzeka" nazwa="Przeworno - Jegłowa" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL2" 
+      kolejnosc="0"> 
+  <opis>Fragment Krynki prowadzący przez pola i łaki. Kilka prożków i bystrzy. Wbite w dno wzdłuż obydwu brzegów paliki na faszynę utrudniają nieco wiosłowanie.</opis>
+    <punkt id="3865" miejscowosc="Przeworno" 
+      ns="50.68143706" we="17.1760591" km="16.3" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie Przeworno - Gierów. Wygodne miejsce rozpoczynania spływu, choć zejście do wody na długim odcinku wzmocnione jest kamieniami i siatką</opispunktu> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ wody ze zbiornika zaporowego w Przewornie</opispunktu> 
+    </punkt>
+    <punkt id="3866" miejscowosc="Przeworno" 
+      ns="50.69185977" we="17.17544068" km="15" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy zalanych kamieniołomach</opispunktu> 
+    </punkt>
+    <punkt id="3867" miejscowosc="Przeworno" 
+      ns="50.69287106" we="17.17365634" km="14.8" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy. Pod mostem stary wodowskaz.</opispunktu> 
+    </punkt>
+    <punkt id="3868" miejscowosc="Kaszówka" 
+      ns="50.72009619" we="17.16922323" km="11.2" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3869" miejscowosc="Jegłowa" 
+      ns="50.72834382" we="17.17145045" km="10.1" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Fotogeniczny sklepiony most kamienny</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="462" typ="rzeka" nazwa="Jegłowa - Krzepice" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Zdecydowana zmiana charakteru rzeki - Krynka "dziczeje". Miejscami pogłębia się i meandruje, innym razem wypłyca na żwirowych przemiałach. Wpływa w obszary leśne w związku z czym w wodzie pojawiają się coraz bardziej liczne drzewa, co w połączeniu z kilkoma prożkami i bystrzami nadaje rzece uroku.</opis>
+    <punkt id="3870" miejscowosc="Zeleźnik" 
+      ns="50.73182871" we="17.17679519" km="9.6" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 0,8m. Płynąć w lewo przez jaz.</opispunktu> 
+    </punkt>
+    <punkt id="3871" miejscowosc="Żeleźnik" 
+      ns="50.73489498" we="17.17514435" km="9.2" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze.</opispunktu> 
+    </punkt>
+    <punkt id="3872" miejscowosc="Karszówek" 
+      ns="50.75759355" we="17.17262293" km="6.3" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie Strzelin - Grodków. Pod mostem stary wodowskaz.</opispunktu> 
+    </punkt>
+    <punkt id="3873" miejscowosc="Muchowiec" 
+      ns="50.76578969" we="17.16228738" km="4.7" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze.</opispunktu> 
+    </punkt>
+    <punkt id="3874" miejscowosc="Muchowiec" 
+      ns="50.76684182" we="17.16042817" km="4.5" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3875" miejscowosc="Głęboka" 
+      ns="50.77197113" we="17.14678188" km="3.1" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz około 1m. Płynąć w lewo przez jaz.</opispunktu> 
+    </punkt>
+    <punkt id="3876" miejscowosc="Głęboka" 
+      ns="50.77478616" we="17.13533923" km="2.1" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie Strzelin - Brzeg</opispunktu> 
+    </punkt>
+    <punkt id="3877" miejscowosc="Głęboka" 
+      ns="50.78452474" we="17.12417768" km="0.4" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3878" miejscowosc="Krzepice" 
+      ns="50.78774439" we="17.12421728" km="0" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Krynki do rzeki Oławy. Spływ można zakończyć na łatwo dostępnym moście w Krzepicach, kilkaset metrów poniżej ujścia.</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Tuż przy ujściu, pod kątem 90 st. w prawo znajduje się (niewidoczny z Krynki) jaz o wysokości około 1m.</opispunktu> 
+    <opispunktu typ="niebezpieczeństwo" kolejnosc="-1">Uważać aby nurt wody nie ściągnął kajaka bokiem na jaz.</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

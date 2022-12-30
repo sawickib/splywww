@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="161" nazwa="Postomia" wersja="2">
+<opis>Lewy dopływ dolnej Warty w granicach woj. lubuskiego. Urozmaicone, zwałkowe pływanie w dziczy i na odludziu. Zwałki na odcinku leśnym poniżej Sulęcina nie są zbyt częste, a większość trasy płynie się swobodnie. W Sulęcinie koryto rzeki jest wąskie i uregulowane, a na wysokości stawów hodowlanych problemem są gęste trzcinowiska. Poniżej oczyszczalni ścieków rzeka wkracza w obszary leśne, zaczyna meandrować i w zasadzie tak już dzieje się do Krzeszyc, z drobną przerwą przy kolejnych stawach w Trzebowie. Niestety ścieki z oczyszczalni poniżej Sulęcina nie są doczyszczone i cały czas czuje się smród detergentów. Do stawów zlokalizowanych w środku lasu (Trzebów) płyną też sulęcińskie puszki, butelki i inne dobra, gdzie zatrzymuje je ostatnie przewrócone drzewo, tworząc zaporę śmieciową o sporej miąższości. Dopiero poniżej tych stawów jest już w miarę czysto i nie śmierdzi. Odcinek urokliwy i dość wymagający. Im bliżej Krzeszyc tym trudniejsze zwałki. W dolnej części etapu leśnego są też bystrza po starych młynach.
+Na przepłyniętym odcinku Postomi nie ma wodowskazów, najbliższy znajduje się w Kostrzynie na Warcie, ale jego odczyt nie ma odniesienia do poziomu wody na górnej Postomi. Opis sporządzono dla warunków stosunkowo suchego lata i jesieni, wody było jednak wystarczająco do swobodnego płynięcia i nie trzeba było wysiadać z kajaków z powdu jej niedoborów. Tempo spływu mocno zależy od poziomu wody, ilości kajaków oraz indywidualnych umiejętności. Latem, odcinek z Sulęcina do Krzeszyc zajął 2 x K1 około 10 h czystego płynięcia, natomiast jesienią, o wiele krótszy odcinek z mostu Czarny Kruk do Krzeszyc zajął 5 h.</opis> 
+    <punkt id="5525" miejscowosc="Krzeszyce" 
+      ns="52.57615042" we="15.01133587" km="32.5" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Niski mostek na lokalnej drodze, wygodne miejsce kończenia spływu. W pobliżu sporo miejsca na samochody, chociaż tereny wyglądają na prywatne - budynek dworku i zabudowania gospodarcze</opispunktu> 
+    </punkt>
+    <punkt id="5297" miejscowosc="Krzeszyce" 
+      ns="52.5706415" we="15.01479969" km="33.3" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most łukowy na drodze gruntowej, przed mostem drewniany pomost ułatwiający wyjście z wody. W pobliżu sporo miejsca na samochody ale objawił się właścicel, który nie wykazał entuzjazmu na widok kajakarzy, a raczej ich samochodów na prywatnej łące. Kilkaset metrów na SW od tego miejsca znajduje się zakład produkcyjny ze sporym parkingiem dla pracowników. Ochrona obiektu nie miała nic przeciwko pozostawieniu naszych samochodów na parkingu na cały dzień. Za mostem po lewej stronie rozbudowa osiedla willowego przy samej rzece, przez co do wody trafia nieco niepotrzebnych już, zużytych materiałów budowlanych</opispunktu> 
+    </punkt>
+    <punkt id="5296" miejscowosc="Krzeszyce" 
+      ns="52.56820088" we="15.01815566" km="33.7" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pozostałości tzw. Młyna Środkowego. Próg, przed nim rozlewisko ze sterczącymi kikutami drzew. Bystrze poniżej progu bardziej wymagające od wcześniejszego, znacznie więcej głazów w nurcie, za to mniej drzew. Ewentualna prenoska kilkadziesiąt metrów prawą stroną po trawie, wodowanie w pobliżu wysokiego pomostu. W sąsiedztwie bystrza znajdują się tereny rekreacyjne, trzy wiaty, plac zabaw, tablice informacyjne oraz miejsce na ognisko</opispunktu> 
+    </punkt>
+    <punkt id="5295" miejscowosc="Krzeszyce" 
+      ns="52.56421951" we="15.03388181" km="35.2" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pozostałości tzw. Młyna Górnego (Czwartego) w postaci progu i bystrza. Próg jest oznakowany tablicami po prawej stronie, chociaż słabo są one widoczne zza trzcin. Przed samym progiem leży zwalone drzewo. Ewentualne wyjście na prawo i przenoska po trawie kilkadziesiąt metrów do oznakowanego pomostu do wodowania, przy dużej wiacie. Spłynięcie bystrza nie nastręcza trudności, jednak w dnie leżą kanciaste głazy skrawające dno kajaka. Prożek ma kilka bystrzy i drzew leżących w korycie. Ostatnie bystrze za zakrętem (na wysokości pomostu) najwygodniej jest pokonać skrajnie z lewej strony pod ukośnie leżącym drzewem. W pobliżu progu tereny rekreacyjne, wiata, ławki oraz tablica z opisem historii wszystkich czterech postomskich młynów, funkcjonujących niegdyś w okolicy Krzeszyc
+</opispunktu> 
+    </punkt>
+    <punkt id="5294" miejscowosc="Krzeszyce" 
+      ns="52.55453789" we="15.04835463" km="37.3" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="most" kolejnosc="-1">Zielony most betonowy na leśnej drodze - dojazd pożarowy nr 36. Poniżej mostu prowizoryczny drewniany pomost. Poniżej kilka wymagających zwałek. Po 45 minutach teren się otwiera w miejscu rozlewiska z malowniczymi, stojącymi kikutami suchych drzew</opispunktu> 
+    </punkt>
+    <punkt id="5293" miejscowosc="Czarny Kruk" 
+      ns="52.52654395" we="15.06430774" km="41.9" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na leśnej drodze - dojazd pożarowy nr 30 i 37. Poniżej pojedyncze zwałki, początkowo łatwe do pokonania, ale im dalej, tym trudniej</opispunktu> 
+    </punkt>
+    <punkt id="5292" miejscowosc="Trzebów" 
+      ns="52.50903752" we="15.06780881" km="44.8" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kratownicowy. Wodowanie za mostem ze stromego brzegu, pośród gęstej roślinności</opispunktu> 
+    </punkt>
+    <punkt id="5291" miejscowosc="Trzebów" 
+      ns="52.50905626" we="15.06730195" km="44.9" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Wyjście z wody przy stawach, pomost, przenoska po trawie 50m w prawo za most kratownicowy, w pobliżu leśna droga - dojazd pożarowy nr 34</opispunktu> 
+    </punkt>
+    <punkt id="5290" miejscowosc="Trzebów" 
+      ns="52.5050639" we="15.06880714" km="45.4" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Początek otwartego terenu przy kompleksie stawów hodowlanych, płynąć kanałem w lewo. Ostatnia zwałka przed stawami filtruje płynące rzeką sulęcińskie śmieci, tworząc sporą puszkowo-butelkową zaporę </opispunktu> 
+    </punkt>
+    <punkt id="5289" miejscowosc="Sulęcin" 
+      ns="52.48658868" we="15.08328829" km="49.7" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowy szeroki most, pod nim trochę kamieni. Poniżej mostu las, zwałki a przy burtach doliny malownicze, wysokie brzegi</opispunktu> 
+    </punkt>
+    <punkt id="5288" miejscowosc="Sulęcin" 
+      ns="52.46948298" we="15.10433211" km="52.6" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Z prawej strony mijamy wylot kolektora ściekowego, odprowadzającego niedoczyszczone (lato 2017) ścieki z Sulęcina. Smród detergentów towarzyszy przez kilka kilometrów. Rzeka wpływa w obszar leśny i zaczynają się pojedyncze zwałki</opispunktu> 
+    </punkt>
+    <punkt id="5287" miejscowosc="Sulęcin" 
+      ns="52.46423992" we="15.10787932" km="53.3" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Niska kładka stalowa przerzucona przez rzekę, łącząca lewo i prawostronne ciągi stawów</opispunktu> 
+    </punkt>
+    <punkt id="5286" miejscowosc="Sulęcin" 
+      ns="52.45924483" we="15.10725772" km="53.9" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Kołowrót służący do pompowania wody na pobliskie stawy hodowlane. Kilkusetmetrowy odcinek poprzedzający, jak i ten poniżej pompy ograniczone są z prawej i lewej strony przez wały ciągu stawów hodowlanych oraz mocno zarośnięte trzcinami</opispunktu> 
+    </punkt>
+    <punkt id="5285" miejscowosc="Sulęcin" 
+      ns="52.45578609" we="15.10497757" km="54.3" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na lokalnej drodze. Poniżej drobne zwałki powstałe z nagromadzenia małych drzew, krzaków i śmieci</opispunktu> 
+    </punkt>
+    <punkt id="5284" miejscowosc="Sulęcin" 
+      ns="52.45308299" we="15.10415685" km="54.6" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki, ceglany most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="5283" miejscowosc="Sulęcin" 
+      ns="52.45124733" we="15.10386769" km="54.9" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na lokalnej drodze, za nim próg o wysokości około 1 m</opispunktu> 
+    </punkt>
+    <punkt id="5282" miejscowosc="Sulęcin" 
+      ns="52.44505942" we="15.10678882" km="55.7" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Wysoki, sklepiony most na drodze nr 138. Pod mostem kamienne bystrze</opispunktu> 
+    </punkt>
+    <punkt id="5281" miejscowosc="Sulęcin" 
+      ns="52.44277402" we="15.10950388" km="56" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przy ul. Młynarskiej, poniżej mostu próg wysokości około 1m. Za mostem po lewej stronie znajduje się łąka, która umożliwia w miarę wygodny dostęp do wody, chociaż brzegi są strome. Nie wiadomo czy teren jest prywatny czy gminny, nie ma oznakowania a właściciel się nie objawił. Niżej rzeka uregulowana, z kilkoma skrętami w głębszej dolinie</opispunktu> 
+    </punkt>
+    <punkt id="5526" miejscowosc="Krzeszyce" 
+      ns="52.5767022" we="15.0115659" km="32.4" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mała elektrownia wodna w miejscu funkcjonującego tu niegdyś tzw. Dolnego Młyna. W pobliżu ładny budynek dworku przy ul. Słonecznej</opispunktu> 
+    </punkt>
+    <punkt id="5298" miejscowosc="Kostrzyn" 
+      ns="52.5836628" we="14.64478553" km="0" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Postomi do Warty</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

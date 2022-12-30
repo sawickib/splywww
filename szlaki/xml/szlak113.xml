@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="113" nazwa="Nysa Łużycka" wersja="3">
+<opis>Lewy dopływ środkowej Odry. Źródła oraz górny, około 50 km odcinek rzeki znajdują się na terenie Czech, pozostałe prawie 200 km stanowi granicę pomiędzy Polską a Niemcami.
+Rzeka bardzo zróżnicowana; jednocześnie dzika i uregulowana, płynąca zarówno przez lasy jak i tereny pozbawione drzew, przez miasta i obszary całkowicie bezludne. Miejscami płynie żwawo tworząc przełomy, meandruje, miejscami zwalnia całkowicie. Lubiący skakać i spływać progami na pewno nie będą zawiedzeni. Niestety trzeba też trochę ponosić kajak "na plecach", na odcinku granicznym znajduje się ponad 20 obowiązkowych przenosek.
+W czasie spływu (początek maja 2012) woda w Nysie była czysta co zachęcało do codziennej kąpieli. Nie ma absolutnie problemów z biwakowaniem na dziko, mimo granicy państwa przez kilka dni nie pojawił się żaden służbista zarówno po lewej jak i po prawej stronie rzeki.
+Spływ można sobie urozmaicić zwiedzaniem lądowych atrakcji np. ładne starówki Goerlitz, Gubena, skansen łużycki w Buczynach, czy wpisany na listę UNESCO - Park Mużakowski w Łęknicy i Bad Muskau.
+Stan wody na wodowskazach w dniu płynięcia danym odcinkiem: Sieniawka - 69, Zgorzelec - 189, Przewóz - 136, Gubin - 161. Te wskazania gwarantują odpowiednią ilość wody na reprezentowanych przez siebie odcinkach, chociaż przy spływaniu niektórych progów powyżej Zgorzelca (np. na 179,5 km i 171,8 km) wody zdecydowanie było zbyt mało. Warto mieć na uwadze, że ilość wody na danym odcinku Nysy Łużyckiej mocno uzależniona jest od aktualnego zapotrzebowania na energię elektryczną, co związane jest bezpośrednio z ilością pracujących turbin na licznych elektrowniach. 
+Udogodnieniem na Nysie Łużyckiej jest obecność ponumerowanych słupków granicznych, dzięki którym można dokładnie lokalizować się na mapach topograficznych.
+Cały odcinek graniczny wraz ze zwiedzaniem wspomnianych atrakcji lądowych zajął 4,5 dnia (2 jedynki z bagażami na pokładzie).</opis> 
+  <odcinek id="474" typ="rzeka" nazwa="Markosice - Odra" 
+      uciazliwosc="U2" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="6"> 
+  <opis>Odcinek szerokiej rzeki. Brzegi porośnięte krzakami, w korycie trochę leżących drzew. Od Gubina do Odry odcinek (kiedyś) żeglowny</opis>
+    <punkt id="5149" miejscowosc="Gubin" 
+      ns="51.97366001" we="14.70688685" km="13.4" etykieta="" 
+      kolejnosc="107"> 
+    <opispunktu typ="most" kolejnosc="-1">Czynny most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="5148" miejscowosc="Gubin" 
+      ns="51.96920234" we="14.70712778" km="13.9" etykieta="" 
+      kolejnosc="106"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Lina stalowa przerzucona przez rzekę. Ciekawe komu i do czego służyła w czasach słusznie minionych?</opispunktu> 
+    </punkt>
+    <punkt id="5147" miejscowosc="Gubin" 
+      ns="51.9605336" we="14.71145199" km="14.9" etykieta="" 
+      kolejnosc="105"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Filary starego mostu</opispunktu> 
+    </punkt>
+    <punkt id="5146" miejscowosc="Gubin" 
+      ns="51.95669416" we="14.71211538" km="15.3" etykieta="" 
+      kolejnosc="104"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na kanale. Pod mostem betonowe płyty po starym moście, to miejsce sugeruję pokonać opuszczając kajak na cumce</opispunktu> 
+    </punkt>
+    <punkt id="5145" miejscowosc="Gubin" 
+      ns="51.95598275" we="14.71805252" km="15.6" etykieta="" 
+      kolejnosc="103"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony wpada rzeka Lubsza</opispunktu> 
+    </punkt>
+    <punkt id="5144" miejscowosc="Gubin" 
+      ns="51.95366588" we="14.72035471" km="15.9" etykieta="" 
+      kolejnosc="102"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="5143" miejscowosc="Gubin" 
+      ns="51.95175212" we="14.72130371" km="16.2" etykieta="" 
+      kolejnosc="101"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia w Gubinie, most drogowy, przejście graniczne. Przenoska lewym brzegiem około 400m. Wyjście z wody przy pomostach, wodowanie przy kamiennych schodach. Przenoska wygodna ale długa, dlatego polecam opcję z płynięciem kanałem</opispunktu> 
+    </punkt>
+    <punkt id="5142" miejscowosc="Leuba" 
+      ns="51.04245858" we="14.94854796" km="171.5" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Powrót młynówki z lewej. W dali widoczne zabudowania elektrowni a tuż przy ujściu wysoki mostek - kładka</opispunktu> 
+    </punkt>
+    <punkt id="5141" miejscowosc="Sieniawka" 
+      ns="50.90129467" we="14.84426065" km="194.1" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="4008" miejscowosc="Gubin" 
+      ns="51.94743456" we="14.71868416" km="16.7" etykieta="" 
+      kolejnosc="100"> 
+    <opispunktu typ="jaz" kolejnosc="-1">W zależności od ilości wody elektrownię w Gubinie można ominąć i spłynąć kanałem przez Guben, rozpoczynającym się małą przegrodą vis a vis dużego napisu ZIGARETTEN 24h. Kanał jest szeroki, miejscami płytki ale da się płynąć, nabrzeże przygotowane dla kajakarzy - pomosty i zejścia do wody (dobry punkt wypadowy do Gubenskiej starówki), Przenoska około 60m na kanał</opispunktu> 
+    </punkt>
+    <punkt id="4007" miejscowosc="Gubin" 
+      ns="51.9398658" we="14.71665004" km="17.6" etykieta="" 
+      kolejnosc="99"> 
+    <opispunktu typ="most" kolejnosc="-1">Kratownicowy most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="4006" miejscowosc="Sękowice" 
+      ns="51.9032601" we="14.69446823" km="22.6" etykieta="" 
+      kolejnosc="98"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, przejście graniczne</opispunktu> 
+    </punkt>
+    <punkt id="4005" miejscowosc="Sadzarzewice" 
+      ns="51.87994615" we="14.65386797" km="27.3" etykieta="" 
+      kolejnosc="97"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz w prawo, w lewo kanał do elektrowni. Przenoska lewym brzegiem (wyspą) 30m po trawie. Za jazem płynąć skrajnie przy lewym brzegu ponieważ w nurcie sterczą drewniane kołki. Na wyspie sporo miejsca na biwak</opispunktu> 
+    </punkt>
+    <punkt id="4004" miejscowosc="Markosice" 
+      ns="51.86605224" we="14.63974185" km="29.3" etykieta="" 
+      kolejnosc="96"> 
+    <opispunktu typ="most" kolejnosc="-1">Stary, częściowo wysadzony most wyglądający na kolejowy, dziś kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="5150" miejscowosc="Żytowań" 
+      ns="52.01675914" we="14.73167769" km="7.1" etykieta="" 
+      kolejnosc="108"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przyczółki starego mostu. Dobry dojazd nad samą rzekę</opispunktu> 
+    </punkt>
+    <punkt id="5151" miejscowosc="Ratzdorf" 
+      ns="52.06967783" we="14.75567157" km="0" etykieta="" 
+      kolejnosc="109"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Nysy Łużyckiej do Odry. Spływ można zakończyć na mostku w Krzesinie (wygodny dojazd) spływając w dół Odrą, następnie w prawo na jezioro Krzesińskie i Kanałem Krzesińskim do mostku (w sumie około 6 km od ujścia Nysy)</opispunktu> 
+    </punkt>
+    <punkt id="5152" miejscowosc="Krzesin" 
+      ns="52.0917847" we="14.76440395" km="0" etykieta="" 
+      kolejnosc="110"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek w Krzesinie z dobrym dojazdem</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="473" typ="rzeka" nazwa="Późna" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="5"> 
+  <opis>Krótki ale bardzo ładny odcinek rzeki poniżej jazu w Późnej. Mało wody, przemiały, meandry, gęste krzaki na brzegach, wąsko i bystro</opis>
+    <punkt id="4003" miejscowosc="Późna" 
+      ns="51.85652971" we="14.61053924" km="31.8" etykieta="" 
+      kolejnosc="95"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Połączenie z młynówką</opispunktu> 
+    </punkt>
+    <punkt id="4002" miejscowosc="Późna" 
+      ns="51.84228021" we="14.59655479" km="35.7" etykieta="" 
+      kolejnosc="94"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz w prawo. Przenoska prawym brzegiem około 30m</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="472" typ="rzeka" nazwa="Olszyna - Późna" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="4"> 
+  <opis>Wyprostowany i obwałowany fragment rzeki, praktycznie bezleśny</opis>
+    <punkt id="4001" miejscowosc="Sacro" 
+      ns="51.78267673" we="14.65375225" km="45.8" etykieta="" 
+      kolejnosc="93"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przyczółki mostu</opispunktu> 
+    </punkt>
+    <punkt id="4000" miejscowosc="Forst" 
+      ns="51.76588121" we="14.6524802" km="47.8" etykieta="" 
+      kolejnosc="92"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, przejście graniczne</opispunktu> 
+    </punkt>
+    <punkt id="3999" miejscowosc="Forst" 
+      ns="51.76041709" we="14.65192557" km="48.4" etykieta="" 
+      kolejnosc="91"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony ujście młynówki</opispunktu> 
+    </punkt>
+    <punkt id="3998" miejscowosc="Zasieki" 
+      ns="51.74373713" we="14.65769456" km="51.2" etykieta="" 
+      kolejnosc="90"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Filary betonowe po moście. W lewym przęśle w nurcie betonowa płyta</opispunktu> 
+    </punkt>
+    <punkt id="3997" miejscowosc="Zasieki" 
+      ns="51.7397733" we="14.65757047" km="51.7" etykieta="" 
+      kolejnosc="89"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Urwana betonowa kładka</opispunktu> 
+    </punkt>
+    <punkt id="3996" miejscowosc="Zasieki" 
+      ns="51.73644459" we="14.66212129" km="53.2" etykieta="" 
+      kolejnosc="88"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy. Pod mostem prożek z pozoru nie wyglądający groźnie, na lewym przęśle jednak w dno wbite są niewidoczne 2 rzędy drewnianych pali stawiające kajak (w zależności od ilości wody) w poprzek nurtu. Pod mostem najlepiej jest przepłynąć pod lewym przęsłem ale skosem z lewej strony na prawą wtedy omija się owe pale</opispunktu> 
+    </punkt>
+    <punkt id="3995" miejscowosc="Zasieki" 
+      ns="51.72602358" we="14.66821242" km="53.5" etykieta="" 
+      kolejnosc="87"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz w prawo. Przenoska prawym brzegiem około 50m</opispunktu> 
+    </punkt>
+    <punkt id="3994" miejscowosc="Brożek" 
+      ns="51.70793332" we="14.69178679" km="56.2" etykieta="" 
+      kolejnosc="86"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący wodę na potrzeby elektrowni. Przenoska lewym brzegiem 100m po trawie. Jeżeli stan wody pozwala, 200m przed jazem w prawo odchodzi kanał omijający elektrownię (przepławka dla ryb) - można próbować tamtędy</opispunktu> 
+    </punkt>
+    <punkt id="3993" miejscowosc="Kleinbademeusel" 
+      ns="51.67648154" we="14.74534277" km="61.9" etykieta="" 
+      kolejnosc="85"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przez rzeką przechodzi napięta stalowa lina, przypominająca most tyrolski. Nie mam pojęcia do czego jest dzisiaj wykorzystywana ale biorąc pod uwagę, że przekracza granicę państwa, na myśl przychodzą różne rzeczy...</opispunktu> 
+    </punkt>
+    <punkt id="3992" miejscowosc="Kleinbademeusel" 
+      ns="51.67346984" we="14.7481581" km="62.4" etykieta="" 
+      kolejnosc="84"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek oraz pozostałości starego mostu</opispunktu> 
+    </punkt>
+    <punkt id="3991" miejscowosc="Olszyna" 
+      ns="51.66681603" we="14.75278446" km="63.2" etykieta="" 
+      kolejnosc="83"> 
+    <opispunktu typ="most" kolejnosc="-1">Most autostradowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="471" typ="rzeka" nazwa="Zentendorf - Siedlec" 
+      uciazliwosc="U4" trudnosc="ZWB" 
+      malowniczosc="**" czystosc="KL1" 
+      kolejnosc="3"> 
+  <opis>Odcinek Nysy płynący przez obszary leśne. Ładne podmyte brzegi. Sporo przenosek przez jazy i elektrownie</opis>
+    <punkt id="3990" miejscowosc="Siedlec " 
+      ns="51.62171591" we="14.76136863" km="68.9" etykieta="" 
+      kolejnosc="82"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Elektrownia Siedlec. Przenoska w lewo wzdłuż przepławki dla ryb około 80m (aktualnie jest to plac budowy). Wg informacji uzyskanych od obsługi elektrowni, projekt przebudowy stopnia wodnego przewiduje stworzenie udogodnień dla kajakarzy</opispunktu> 
+    </punkt>
+    <punkt id="3989" miejscowosc="Siedlec" 
+      ns="51.62015975" we="14.76508571" km="69.2" etykieta="" 
+      kolejnosc="81"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na potrzeby przebudowy stopnia wodnego</opispunktu> 
+    </punkt>
+    <punkt id="3988" miejscowosc="Siedlec" 
+      ns="51.61437147" we="14.76418112" km="69.9" etykieta="" 
+      kolejnosc="80"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rozwidlenie: prosto szeroko ale za jazem może nie być wody, dlatego lepiej płynąć w prawo wąskim kanałem do elektrowni</opispunktu> 
+    </punkt>
+    <punkt id="3987" miejscowosc="Żarki Wielkie" 
+      ns="51.5904218" we="14.73982485" km="73.6" etykieta="" 
+      kolejnosc="79"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz w lewo. Przenoska z lewej strony około 100m po trawie. Dużo miejsca na zorganizowanie biwaku</opispunktu> 
+    </punkt>
+    <punkt id="3986" miejscowosc="Łęknica" 
+      ns="51.55450288" we="14.72112773" km="78.7" etykieta="" 
+      kolejnosc="78"> 
+    <opispunktu typ="most" kolejnosc="-1">Druga, nowa kładka łącząca dwie części Parku Mużakowskiego</opispunktu> 
+    </punkt>
+    <punkt id="3985" miejscowosc="Łęknica" 
+      ns="51.54926167" we="14.72955597" km="79.5" etykieta="" 
+      kolejnosc="77"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek</opispunktu> 
+    </punkt>
+    <punkt id="3984" miejscowosc="Łęknica" 
+      ns="51.54762591" we="14.72935791" km="79.7" etykieta="" 
+      kolejnosc="76"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka spinająca obie strony Parku Mużakowskiego</opispunktu> 
+    </punkt>
+    <punkt id="3983" miejscowosc="Łęknica" 
+      ns="51.54562017" we="14.72904551" km="79.9" etykieta="" 
+      kolejnosc="75"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz przy elektrowni. Przenoska prawym brzegiem 30m po trawie. 200m wcześniej, po prawej stronie znajduje się zastawka, za którą być może da się również zwodować przy wyższym poziomie wody</opispunktu> 
+    </punkt>
+    <punkt id="3982" miejscowosc="Łęknica" 
+      ns="51.5451123" we="14.72874837" km="80" etykieta="" 
+      kolejnosc="74"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zaciszne miejsce na pozostawienie kajaków bez opieki i zwiedzenie Parku Mużakowskiego UNESCO</opispunktu> 
+    </punkt>
+    <punkt id="3981" miejscowosc="Łęknica" 
+      ns="51.54224904" we="14.72856266" km="80.3" etykieta="" 
+      kolejnosc="73"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, przejście graniczne. Zaraz za mostem, po polskiej stronie znajduje się wielki bazar oraz liczne sklepy, bary i restauracje</opispunktu> 
+    </punkt>
+    <punkt id="3980" miejscowosc="Łęknica" 
+      ns="51.53723293" we="14.72758647" km="80.9" etykieta="" 
+      kolejnosc="72"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3979" miejscowosc="Łęknica" 
+      ns="51.52606128" we="14.73545078" km="82.4" etykieta="" 
+      kolejnosc="71"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, przejście graniczne</opispunktu> 
+    </punkt>
+    <punkt id="3978" miejscowosc="Sagar" 
+      ns="51.52169189" we="14.75260625" km="83.8" etykieta="" 
+      kolejnosc="70"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Neise hafen. Po lewej stronie pomost ułatwiający wyjście z wody</opispunktu> 
+    </punkt>
+    <punkt id="3977" miejscowosc="Sagar" 
+      ns="51.51846712" we="14.78379078" km="86.3" etykieta="" 
+      kolejnosc="69"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony uchodzi rzeka Skroda</opispunktu> 
+    </punkt>
+    <punkt id="3976" miejscowosc="Sagar" 
+      ns="51.51725182" we="14.79022999" km="86.8" etykieta="" 
+      kolejnosc="68"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Głazy narzutowe w nurcie rzeki</opispunktu> 
+    </punkt>
+    <punkt id="3975" miejscowosc="Pechern" 
+      ns="51.49021702" we="14.85775854" km="93.4" etykieta="" 
+      kolejnosc="67"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący wodę dla elektrowni Przysieka. Przenoska 100m lewym brzegiem przez betonowy mostek</opispunktu> 
+    </punkt>
+    <punkt id="3974" miejscowosc="Potok" 
+      ns="51.48231352" we="14.89667133" km="96.8" etykieta="" 
+      kolejnosc="66"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek</opispunktu> 
+    </punkt>
+    <punkt id="3973" miejscowosc="Przewóz" 
+      ns="51.47204278" we="14.94686503" km="101.3" etykieta="" 
+      kolejnosc="65"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, przejście graniczne</opispunktu> 
+    </punkt>
+    <punkt id="3972" miejscowosc="Bucze" 
+      ns="51.45575912" we="14.95885499" km="103.4" etykieta="" 
+      kolejnosc="64"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący wodę dla elektrowni Bukówka. Przenoska lewym brzegiem 200m po trawie. Boisko i zadaszona wiata turystyczna przy ścieżce rowerowej</opispunktu> 
+    </punkt>
+    <punkt id="3971" miejscowosc="Sanice" 
+      ns="51.41637397" we="14.96704163" km="109.6" etykieta="" 
+      kolejnosc="63"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek</opispunktu> 
+    </punkt>
+    <punkt id="3970" miejscowosc="Sanice" 
+      ns="51.40790272" we="14.96300299" km="111" etykieta="" 
+      kolejnosc="62"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ruiny mostu</opispunktu> 
+    </punkt>
+    <punkt id="3969" miejscowosc="Sobolice" 
+      ns="51.3984232" we="14.96881332" km="112.2" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pierwsza elektrownia po polskiej stronie rzeki. Przenoska lewym brzegiem około 50m. Na lewym brzegu znajduje się zadaszona wiata turystyczna z tablicami informacyjnymi i mapą ścieżki rowerowej Odra - Nysa</opispunktu> 
+    </punkt>
+    <punkt id="3968" miejscowosc="Lodenau" 
+      ns="51.38263231" we="14.96856018" km="114.9" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący wodę na potrzeby elektrowni. Dobry dojazd od polskiej strony drogą asfaltową. Przenoska prawym brzegiem 100m gruntową drogą wzdłuż stawów hodowlanych. Sklep spożywczy w Sobolicach, w odległości około 500m od jazu</opispunktu> 
+    </punkt>
+    <punkt id="3967" miejscowosc="Lodenau" 
+      ns="51.36863557" we="14.9771862" km="117.4" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący wodę na potrzeby elektrowni. Tuż przed jazem kończy się województwo dolnośląskie a zaczyna lubuskie. Przenoska prawym brzegiem 30m</opispunktu> 
+    </punkt>
+    <punkt id="3966" miejscowosc="Lodenau" 
+      ns="51.35909091" we="14.97429013" km="119.7" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ruiny po moście</opispunktu> 
+    </punkt>
+    <punkt id="3965" miejscowosc="Rothenburg" 
+      ns="51.32906266" we="14.99041135" km="123.7" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pochyły próg. Spływać z lewej strony. Na lewym brzegu miejsce biwakowe z dobrym dojazdem. Punkt końca spływów komercyjnych Neise Tours</opispunktu> 
+    </punkt>
+    <punkt id="3964" miejscowosc="Nieder Neundorf" 
+      ns="51.32182904" we="14.99495266" km="124.8" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek</opispunktu> 
+    </punkt>
+    <punkt id="3963" miejscowosc="Nieder Neundorf" 
+      ns="51.31035887" we="15.00757571" km="126.9" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz piętrzący wodę na potrzeby elektrowni. Oznakowana przenoska prawym brzegiem około 100m po trawie</opispunktu> 
+    </punkt>
+    <punkt id="3962" miejscowosc="Nieder Neundorf" 
+      ns="51.30842836" we="15.01235266" km="127.3" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe z pomostem, drewniana wiata po lewej stronie</opispunktu> 
+    </punkt>
+    <punkt id="3961" miejscowosc="Bielawa Dolna" 
+      ns="51.2984176" we="15.02583455" km="129.3" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zoll Station, miejsce rekreacyjne dla spływów komercyjnych, poprzedzone kolorowymi tablicami informacyjnymi (w języku niemieckim). Mały prom napędzany ręcznie, dyby kilkuosobowe (chyba pięcio), kramik z miejscowymi specjałami itp</opispunktu> 
+    </punkt>
+    <punkt id="3960" miejscowosc="Bielawa Dolna" 
+      ns="51.29590223" we="15.02982218" km="129.7" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek</opispunktu> 
+    </punkt>
+    <punkt id="3959" miejscowosc="Bielawa Dolna" 
+      ns="51.29177608" we="15.03340574" km="130.4" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek</opispunktu> 
+    </punkt>
+    <punkt id="3958" miejscowosc="Zentendorf" 
+      ns="51.28621351" we="15.03230471" km="131" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="most" kolejnosc="-1">Czynny most kolejowy, pod nim bystrze</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="470" typ="rzeka" nazwa="Marienthal - Zentendorf" 
+      uciazliwosc="U4" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="2"> 
+  <opis>Fragment rzeki płynącej głównie w odkrytym terenie. Sporo przenosek w tym jedna (Zgorzelec) mocno uciążliwa</opis>
+    <punkt id="3957" miejscowosc="Zentendorf" 
+      ns="51.28541089" we="15.03231738" km="131.1" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Wygodne miejsce na biwak po lewej stronie rzeki. Dobry oznakowany dojazd i dogodne zejście do wody. Miejsce startu niemieckich pontonowych spływów komercyjnych Neise Tours</opispunktu> 
+    </punkt>
+    <punkt id="3956" miejscowosc="Zentendorf" 
+      ns="51.2790497" we="15.03471033" km="131.9" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przyczółki po moście</opispunktu> 
+    </punkt>
+    <punkt id="3955" miejscowosc="Zentendorf" 
+      ns="51.27292633" we="15.04189863" km="133" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Najbardzie wysunięty na wschód punkt Niemiec - Östlichster Punkt Deutschlands. Pamiątkowy kamień z tablicą</opispunktu> 
+    </punkt>
+    <punkt id="3954" miejscowosc="Pieńsk" 
+      ns="51.25804975" we="15.03800401" km="135" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście młynówki z prawej</opispunktu> 
+    </punkt>
+    <punkt id="3953" miejscowosc="Pieńsk" 
+      ns="51.25672142" we="15.03075648" km="135.5" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka, przejście graniczne</opispunktu> 
+    </punkt>
+    <punkt id="3952" miejscowosc="Pieńsk" 
+      ns="51.24599548" we="15.03845632" km="138.2" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zastawka w prawo i prosto, w lewo przepławka dla ryb. Najlepiej kajaki przenosić na lewo ścieżką nad przepławką dla ryb, za zastawkę i tam się wodować. Wodując się na dole przepławki wypływamy na rzekę pomiędzy wspomnianymi wcześniej progami z larsenów i kamieni. Najbliższy sklep znajduje się o w odległości około 500m. Należy przejść przez mostek, sforsować bramkę i na ulicy skręcić w lewo pod górę</opispunktu> 
+    </punkt>
+    <punkt id="3951" miejscowosc="Pieńsk" 
+      ns="51.24583276" we="15.03918572" km="138.3" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek</opispunktu> 
+    </punkt>
+    <punkt id="3950" miejscowosc="Pieńsk" 
+      ns="51.24412779" we="15.03806689" km="138.6" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="jaz" kolejnosc="-1">W lewo jaz i mała elektrownia. Przenosić w tym miejscu tylko przy wysokiej wodzie, ponieważ za jazem jest kilka progów z kanciastych kamieni i larsenów</opispunktu> 
+    </punkt>
+    <punkt id="3949" miejscowosc="Jędrzychowice" 
+      ns="51.19230285" we="15.00832481" km="147.6" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz ze zużytymi drewnianymi przegrodami. Przenoska prawym brzegiem 20m po trawie</opispunktu> 
+    </punkt>
+    <punkt id="3948" miejscowosc="Jędrzychowice" 
+      ns="51.18076967" we="15.00869234" km="149.1" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="most" kolejnosc="-1">Most autostrady A4</opispunktu> 
+    </punkt>
+    <punkt id="3947" miejscowosc="Zgorzelec" 
+      ns="51.15766546" we="14.99407893" km="152.4" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych w centrum miasta, poniżej jaz o wysokości około 3m przy elektrowni stosunkowo łatwy do spłynięcia, chociaż robiący spore wrażenie. Restauracje po lewej i po prawej stronie jazu. Niewygodna i długa przenoska. Podobno można przenieść się przez knajpę z lewej lub prawej strony rzeki, trzeba jednak zdobyć klucz od bramki a później poprzeciskać się pomiędzy stolikami.
+Wygodne wyjście z wody po lewej stronie - pływający pomost i schodki. Sporo sklepów. W Zgorzelcu nieco oddalone od jazu, w Goerlitz znacznie bliżej</opispunktu> 
+    </punkt>
+    <punkt id="3946" miejscowosc="Zgorzelec" 
+      ns="51.15026297" we="15.00088077" km="153.4" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, przejście graniczne</opispunktu> 
+    </punkt>
+    <punkt id="3945" miejscowosc="Zgorzelec " 
+      ns="51.1435056" we="14.99332852" km="154.4" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pochyły jaz z drewnianymi przegrodami (końcówka pionowa) przy tzw. Górnym Młynie. Spłynięty 2 przegrodą od prawej. Przenoska prawą stroną 40m przez lasek. Po lewej restauracja Obermuhle</opispunktu> 
+    </punkt>
+    <punkt id="3944" miejscowosc="Zgorzelec" 
+      ns="51.14292607" we="14.99068499" km="154.6" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="most" kolejnosc="-1">Bardzo fotogeniczny, wysoki, kamienny wiadukt kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3943" miejscowosc="Zgorzelec" 
+      ns="51.11623996" we="14.98685829" km="158.2" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Szeroki pochyły jaz. Jeżeli jest taka możliwość to płynąć w lewo przez otwarte wrota</opispunktu> 
+    </punkt>
+    <punkt id="3942" miejscowosc="Koźlice" 
+      ns="51.10479509" we="14.98232808" km="160.6" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg z niewielkim odwojem. Kamienie i drzewa w nurcie. Ewentualna przenoska prawym brzegiem, 40m po trawie</opispunktu> 
+    </punkt>
+    <punkt id="3941" miejscowosc="Osiek Łużycki" 
+      ns="51.09721785" we="14.98184247" km="161.7" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz spławny wąskim językiem tuż przy budynku. Ewentualna niewygodna przenoska lewym brzegiem 40m. W odległości około 500m w lewo znajduje się Berzdorfer See - jezioro po zalanej odkrywkowej kopalni węgla brunatnego</opispunktu> 
+    </punkt>
+    <punkt id="3940" miejscowosc="Hagenwerder" 
+      ns="51.07015947" we="14.96771926" km="166.4" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z lewej strony wpada rzeka Pließnitz</opispunktu> 
+    </punkt>
+    <punkt id="3939" miejscowosc="Radomierzyce" 
+      ns="51.06314389" we="14.96734137" km="167.7" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pozostałości po starym moście kolejowym</opispunktu> 
+    </punkt>
+    <punkt id="3938" miejscowosc="Radomierzyce" 
+      ns="51.06159322" we="14.96654458" km="167.8" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Mały prożek zaraz za mostem. Dla chcących obnieść to miejsce, zarówno przed jak i poniżej prożka znajdują się pomosty</opispunktu> 
+    </punkt>
+    <punkt id="3937" miejscowosc="Radomierzyce" 
+      ns="51.06033209" we="14.9657354" km="168" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy przejście graniczne. W pobliżu mostu po polskiej stronie znajduje się nowo wybudowane Centrum Obsługi Ruchu Turystycznego</opispunktu> 
+    </punkt>
+    <punkt id="3936" miejscowosc="Radomierzyce" 
+      ns="51.05880274" we="14.96473774" km="168.2" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Po prawej ujście rzeki Witki</opispunktu> 
+    </punkt>
+    <punkt id="3935" miejscowosc="Radomierzyce" 
+      ns="51.0550034" we="14.96449238" km="168.8" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zabytkowy pałac na wodzie po prawej, w odległości 50 m od rzeki. Ładna aleja ze starymi drzewami dokoła pałacu, wdłuż fosy</opispunktu> 
+    </punkt>
+    <punkt id="3934" miejscowosc="Radomierzyce" 
+      ns="51.05000078" we="14.96451464" km="169.4" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście kanału ulgi dla rzeki Witki</opispunktu> 
+    </punkt>
+    <punkt id="3933" miejscowosc="Leuba" 
+      ns="51.04675834" we="14.9560018" km="170.4" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Czynny most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3932" miejscowosc="Leuba" 
+      ns="51.04044155" we="14.94821524" km="171.8" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pochyły jaz, możliwy do spłynięcia przy większej ilości wody. Ewentualna przenoska - opuszczenie kajaków na cumach, wzdłuż murku przy przepławce dla ryb</opispunktu> 
+    </punkt>
+    <punkt id="3931" miejscowosc="Krzewina" 
+      ns="51.02375237" we="14.9423193" km="174.7" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pochyły jaz, możliwy do spłynięcia po wcześniejszym rozpoznaniu. Skrajnie z lewej strony jest bardziej połogi ale w miejscu tym tworzy się niewielki odwój. Ewentualna przenoska lewą stroną po trawie, 50 m, ścinając meander. Wyjście z wody przy grubym drzewie przed zakrętem</opispunktu> 
+    </punkt>
+    <punkt id="3930" miejscowosc="Ostritz Krzewina" 
+      ns="51.01606293" we="14.93910169" km="176.8" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka, przejście graniczne, stacja kolejowa</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="469" typ="rzeka" nazwa="Rosenthal - Marienthal" 
+      uciazliwosc="U1" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL1" 
+      kolejnosc="1"> 
+  <opis>Bardzo ładny odcinek Nysy Łużyckiej. Rzeka tworzy przełom, kręci się i przelewa przez liczne przemiały. Płynie w pagórkowatym terenie, pośród gęstych lasów. W nurcie rzeki sporo wielkich głazów</opis>
+    <punkt id="3929" miejscowosc="Ostritz Marienthal" 
+      ns="50.99729554" we="14.92304466" km="179.5" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Kamienny próg (spływalny przy odpowiedniej wodzie) piętrzący wodę na potrzeby starego młyna. Koniec odcinka przełomowego. Ewentualna przenoska 50m lewą stroną. Dogodne wyjście z wody (podest i schodki), opuszczanie kajaków na cumach wdłuż przepławki dla ryb. W pobliżu jazu udostępniony do zwiedzania klasztor Cystersów</opispunktu> 
+    </punkt>
+    <punkt id="3928" miejscowosc="Rosenthal" 
+      ns="50.96238906" we="14.90097782" km="184.9" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Czynny most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3927" miejscowosc="Rosenthal" 
+      ns="50.96021817" we="14.90028973" km="185.5" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="most" kolejnosc="-1">Czynny most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3926" miejscowosc="Rosenthal" 
+      ns="50.95418184" we="14.8957983" km="186.3" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Początek odcinka przełomu Nysy. Po lewej pomost, miejsce startu komercyjnych spływów pontonowych</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="468" typ="rzeka" nazwa="Trójstyk - Rosenthal" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="*" czystosc="KL1" 
+      kolejnosc="0"> 
+  <opis>Odcinek uregulowany, brzegi wzmocnione, rzeka wyprostowana. Sporo chlapiącej wody na prożkach i bystrzach. Widoki industrialne na postkomunistyczne molochy - elektrownie</opis>
+    <punkt id="3925" miejscowosc="Rosenthal" 
+      ns="50.9484841" we="14.893779" km="187" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Czynny most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3924" miejscowosc="Zatonie" 
+      ns="50.94558464" we="14.895128" km="187.3" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Nieczynny most kratownicowy</opispunktu> 
+    </punkt>
+    <punkt id="3923" miejscowosc="Zatonie" 
+      ns="50.94430239" we="14.89520437" km="187.5" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej ujście rzeki Miedzianki</opispunktu> 
+    </punkt>
+    <punkt id="3922" miejscowosc="Hirschfelde" 
+      ns="50.93525249" we="14.89082731" km="188.6" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Wysoki jaz z automatycznym systemem oczyszczanie kraty. Przenoska prawym brzegiem jest bardziej wygodna niż lewym, chociaż wodowanie pośród kamieni z wysokiej skarpy. Po lewej stronie elektrownia</opispunktu> 
+    </punkt>
+    <punkt id="3921" miejscowosc="Hirschfelde" 
+      ns="50.93514697" we="14.89044359" km="188.7" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="most" kolejnosc="-1">Nieczynny, częściowo nadgryziony zębem czasu żelebetowy most. Aktualnie mostu już nie ma - został rozebrany</opispunktu> 
+    </punkt>
+    <punkt id="3920" miejscowosc="Drausendorf" 
+      ns="50.92149501" we="14.87062137" km="191" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="most" kolejnosc="-1">Nieczynny most</opispunktu> 
+    </punkt>
+    <punkt id="3919" miejscowosc="Drausendorf" 
+      ns="50.91295729" we="14.85806671" km="192.4" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niewielki prożek. Po prawej stronie, w odległości około 100m od rzeki bardzo ładny widok odkrywki kopalni węgla brunatnego</opispunktu> 
+    </punkt>
+    <punkt id="3918" miejscowosc="Sieniawka" 
+      ns="50.89640601" we="14.83672197" km="194.8" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, przejście graniczne. Wygodny dostęp do wody. Poniżej mostu znajduje się wodowskaz Sieniawka, którego odczyty można obserwować w internecie</opispunktu> 
+    </punkt>
+    <punkt id="3917" miejscowosc="Zittau" 
+      ns="50.89246791" we="14.8290282" km="195.6" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Ładny kamienny wiadukt kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3916" miejscowosc="Zittau" 
+      ns="50.89098847" we="14.82717915" km="195.8" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek</opispunktu> 
+    </punkt>
+    <punkt id="3915" miejscowosc="Zittau" 
+      ns="50.88995876" we="14.82535291" km="196" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście rzeki Mandau z lewej</opispunktu> 
+    </punkt>
+    <punkt id="3914" miejscowosc="Porajów" 
+      ns="50.88723185" we="14.82136969" km="196.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka, przejście graniczne</opispunktu> 
+    </punkt>
+    <punkt id="3913" miejscowosc="Porajów" 
+      ns="50.88370795" we="14.8188929" km="196.8" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy, przejście graniczne</opispunktu> 
+    </punkt>
+    <punkt id="3912" miejscowosc="Kopaczów" 
+      ns="50.87240983" we="14.8209188" km="198.1" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Betonowa łukowata kładka bez barierek zagrodzona betonowymi płytami po stronie niemieckiej</opispunktu> 
+    </punkt>
+    <punkt id="3911" miejscowosc="Kopaczów" 
+      ns="50.8710554" we="14.82259554" km="198.3" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg o wysokości około 1m. Poniżej progu wygodne miejsce wodowania. Dobry dojazd w pobliże rzeki: przed przejściem granicznym z Czechami w Kopaczowie, vis a vis stacji benzynowej należy skręcić w prawo w drogę z eurokostki, wysadzanej starymi drzewami. Doprowadza ona do samego trójstyku granic</opispunktu> 
+    </punkt>
+    <punkt id="3910" miejscowosc="Kopaczów" 
+      ns="50.870541" we="14.82339773" km="198.4" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Trójstyk granic Polski, Niemiec i Czech. Z prawej ujście niewielkiego potoku Lubota</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

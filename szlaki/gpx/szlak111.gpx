@@ -1,0 +1,80 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="50.68143706" lon="17.17605910">
+<name>16.30</name>
+<desc>Most drogowy na trasie Przeworno - Gierów. Wygodne miejsce rozpoczynania spływu, choć zejście do wody na długim odcinku wzmocnione jest kamieniami i siatką</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.69185977" lon="17.17544068">
+<name>15.00</name>
+<desc>Most drogowy przy zalanych kamieniołomach</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.69287106" lon="17.17365634">
+<name>14.80</name>
+<desc>Most kolejowy. Pod mostem stary wodowskaz.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.72009619" lon="17.16922323">
+<name>11.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.72834382" lon="17.17145045">
+<name>10.10</name>
+<desc>Fotogeniczny sklepiony most kamienny</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.73182871" lon="17.17679519">
+<name>9.60</name>
+<desc>Jaz 0,8m. Płynąć w lewo przez jaz.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.73489498" lon="17.17514435">
+<name>9.20</name>
+<desc>Most na lokalnej drodze.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.75759355" lon="17.17262293">
+<name>6.30</name>
+<desc>Most drogowy na trasie Strzelin - Grodków. Pod mostem stary wodowskaz.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.76578969" lon="17.16228738">
+<name>4.70</name>
+<desc>Most na lokalnej drodze.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.76684182" lon="17.16042817">
+<name>4.50</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.77197113" lon="17.14678188">
+<name>3.10</name>
+<desc>Jaz około 1m. Płynąć w lewo przez jaz.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="50.77478616" lon="17.13533923">
+<name>2.10</name>
+<desc>Most drogowy na trasie Strzelin - Brzeg</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.78452474" lon="17.12417768">
+<name>0.40</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="50.78774439" lon="17.12421728">
+<name>0.00</name>
+<desc>Ujście Krynki do rzeki Oławy. Spływ można zakończyć na łatwo dostępnym moście w Krzepicach, kilkaset metrów poniżej ujścia.</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

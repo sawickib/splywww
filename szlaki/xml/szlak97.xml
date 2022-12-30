@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="97" nazwa="Obra" wersja="2">
+<opis>Nizinna rzeka w zachodniej Polsce, lewy dopływ Warty. Posiada zawiły system rzeczny, który w uproszczeniu przedstawia się następująco: Źródła rzeki leżą na Wysoczyźnie Kaliskiej na południe od Jarocina. Od źródeł do tzw. węzła Bonikowskiego Obra płynie (zasadniczo) jako jeden ciek. Krótki naturalny odcinek górnego biegu Obry kończy się za Jaraczewem, w miejscu połączenia z Kanałem Obry (którego początek nie leży w ciągu rzeki Obry). Stąd rzeka płynie sztucznym kanałem do tzw. Węzła Bonikowskiego, przepływając przez Gostyń, Stankowo, Żelazno, Wieszkowo, Krzywiń i Kościan i odbierając po drodze wody zlewni Rowu Wyskoć. Poniżej Krzywinia kanał nazywa się Kanałem Kościańskim, powyżej ? Kanałem Obry. Powyżej Krzywinia odgałęzia się boczny Kanał Wonieść, kanały łączą się ponownie ok. 3 km na pn.-zach. od wsi Gryżyna. W Węźle Bonikowskiem (3 km za Kościanem) następuje rozdzielenie wód; część kierowana jest bezpośrednio do Warty (na północ) przez Kanał Mosiński, część płynie na zachód stanowiąc początek Kanałów Obry. Kanał płynący na zachód rozdziela się wkrótce na Południowy i Środkowy Kanały Obry. Kanał Mosiński jest połączony Kanałem Prut z rzeką Mogilnicą (ma wschodni kierunek przepływu ? odprowadza wody Mogilnicy do Warty przez Kanał Mosiński). Od połączenia z Mogilnicą płynie na zachód Północny Kanał Obry. Przed powstaniem kanałów Obra w okolicy Węzła Bonikowskiego płynęła w stronę połączenia z Mogilnicą, która była jej dopływem, stąd też kanał północny uważany jest zwykle za przedłużenie rzeki. Kanał ten nie ma jednak połączenia wodnego z górnym biegiem rzeki jako jeden ciek ? kierunek przepływu w Kanale Prut jest odwrotny. Kanał południowy uchodzi do Jez. Rudno i przez rzekę Obrzycę do Odry.  Kanały Środkowy i Północny łączą się w okolicy Wolsztyna i wpadają do Jez. Kopanickiego. Od tego miejsca Obra odzyskuje naturalny charakter. Północny i Środkowy Kanały Obry w dalszym biegu już jako Obra uchodzą do Warty w km 90,8. 
+Na terenie województwa wielkopolskiego rzeka przepływa przez Bruzdę Zbąszyńską a w niej tzw. Jeziora Zbąszyńskie. Są to jeziora: Kopanickie, Wielowiejskie, Chobienickie, Grójeckie, Nowowiejskie, Błędno. Na terenie województwa lubuskiego rzeka przepływa przez kilka dużych jezior tzw. Obrzańskich, wraz z którymi stanowi ważny element Pszczewskiego Parku Krajobrazowego. Są to jeziora: Lutol, Młyńskie, Konin, Wielkie i Rybojadło. Pod Bledzewem Obra została spiętrzona o ok. 7 m, co spowodowało powstanie Zalewu Bledzewskiego. Na zaporze znajduje się elektrownia wodna. Przez kanały Obry część jej wód płynie do Obrzycy (prawego dopływu Odry), co tworzy sztuczną bifurkację jej nurtu: Kanałem Mosińskim Obra połączona jest z Wartą w okolicach Mosiny, poprzez kanały Południowy, Środkowy i Północny z Obrzycą i Odrą, a sama płynie przez Jeziora Zbąszyńskie naturalnym korytem do Warty (wg Wikipedii).</opis> 
+  <odcinek id="416" typ="rzeka" nazwa="Bledzew - Skwierzyna" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL3" 
+      kolejnosc="8"> 
+  <opis>Ładny i dziki odcinek rzeki. Do Lisiej Góry stanowi część Międzyrzeckiego Rejonu Umocnionego. Meandry Obry wyprostowywane są przez sztucznie przekopane kanały, na jej lewym brzegu stoi kilka bunkrów a na rzeką stoi zwodzony most obrotowy. Warto to wszystko zwiedzić. W korycie rzeki leżą drzewa zmuszające do gimnastyki. Ujście do Warty poniżej Skwierzyny, do najbliższej cywilizacji potrzeba pomachać wiosłami 2 km pod górkę Wartą.</opis>
+    <punkt id="3450" miejscowosc="Skwierzyna" 
+      ns="52.60260701" we="15.47878002" km="0" etykieta="" 
+      kolejnosc="63"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Obry do Warty</opispunktu> 
+    </punkt>
+    <punkt id="3449" miejscowosc="Skwierzyna" 
+      ns="52.59582809" we="15.48414737" km="1.3" etykieta="" 
+      kolejnosc="62"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="3448" miejscowosc="Skwierzyna" 
+      ns="52.59348946" we="15.48231527" km="1.6" etykieta="" 
+      kolejnosc="61"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3447" miejscowosc="Skwierzyna" 
+      ns="52.58761008" we="15.477342" km="2.4" etykieta="" 
+      kolejnosc="60"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy i kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="3446" miejscowosc="Lisia Góra" 
+      ns="52.57526928" we="15.43080351" km="7.7" etykieta="" 
+      kolejnosc="59"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na leśnej drodze</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">W pobliżu mostu, po lewej stronie rzeki znajduje się system bunkrów wchodzących w skład Międzyrzeckiego Rejonu Umocnionego - WG "Ludendorff"</opispunktu> 
+    </punkt>
+    <punkt id="3445" miejscowosc="Lisia Góra" 
+      ns="52.57293" we="15.43089" km="8" etykieta="" 
+      kolejnosc="58"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Stanica wodna Lisia Góra po prawej</opispunktu> 
+    </punkt>
+    <punkt id="3444" miejscowosc="Stary Dworek" 
+      ns="52.55423307" we="15.42292214" km="" etykieta="" 
+      kolejnosc="57"> 
+    <opispunktu typ="most" kolejnosc="-1">Dobrze zachowany (ponoć działający) most obrotowy</opispunktu> 
+    </punkt>
+    <punkt id="3443" miejscowosc="Stary Dworek" 
+      ns="52.5529" we="15.42415" km="14.6" etykieta="" 
+      kolejnosc="56"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg z larsenów. Można płynąć w prawo rzeką lub w lewo skrótem pod mostem obrotowym</opispunktu> 
+    </punkt>
+    <punkt id="3442" miejscowosc="Zemsko" 
+      ns="52.53356173" we="15.43532279" km="19.5" etykieta="" 
+      kolejnosc="55"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce na biwak z własnym źródełkiem</opispunktu> 
+    </punkt>
+    <punkt id="3441" miejscowosc="Bledzew" 
+      ns="52.51816948" we="15.42189346" km="22.7" etykieta="" 
+      kolejnosc="54"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe za mostem po prawej stronie</opispunktu> 
+    </punkt>
+    <punkt id="3440" miejscowosc="Bledzew" 
+      ns="52.51750504" we="15.42088912" km="22.8" etykieta="" 
+      kolejnosc="53"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3439" miejscowosc="Bledzew" 
+      ns="52.5139144" we="15.44374325" km="24.8" etykieta="" 
+      kolejnosc="52"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Przystań kajakowa po lewej tuż za zaporą</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="415" typ="zalew" nazwa="Zalew Bledzewski" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="***" czystosc="KL3" 
+      kolejnosc="7"> 
+  <opis>Ładny i malowniczy Zalew Bledzewski z wieloma miejscami na postój i biwak</opis>
+    <punkt id="3438" miejscowosc="Bledzew" 
+      ns="52.51517" we="15.44536" km="25" etykieta="" 
+      kolejnosc="51"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Przenoska 100 m z prawej strony zapory, ładnie oznakowana</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Zapora i elektrownia</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="414" typ="rzeka" nazwa="Święty Wojciech - Chycina" 
+      uciazliwosc="U2" trudnosc="ZWB" 
+      malowniczosc="***" czystosc="KL3" 
+      kolejnosc="6"> 
+  <opis>Stosukowo dziki odcinek rzeki. Drzewa w korycie zmuszają do różnych kombinacji. Rzeka meandruje, kręci, przyspiesza i cofa. Odcinek najczęściej odwiedzany przez spływy "masowo - przypadkowe", tzw. "Łysego i Blondynę".</opis>
+    <punkt id="3437" miejscowosc="Chycina" 
+      ns="52.49103176" we="15.48300333" km="31" etykieta="" 
+      kolejnosc="50"> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Ewentualna przenoska 10m z lewej strony</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Przepust rurowy. Przy wyższych stanach wody może być zbyt mało miejsca do przepłynięcia pod mostem</opispunktu> 
+    </punkt>
+    <punkt id="3436" miejscowosc="Gorzyca" 
+      ns="52.46734082" we="15.49544543" km="38.1" etykieta="" 
+      kolejnosc="49"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3435" miejscowosc="Gorzyca" 
+      ns="52.46599204" we="15.49922387" km="38.4" etykieta="" 
+      kolejnosc="48"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Camping MAYA po lewej</opispunktu> 
+    </punkt>
+    <punkt id="3434" miejscowosc="Gorzyca" 
+      ns="52.46559419" we="15.50308802" km="38.7" etykieta="" 
+      kolejnosc="47"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Duże pole biwakowe po lewej</opispunktu> 
+    </punkt>
+    <punkt id="3433" miejscowosc="Święty Wojciech" 
+      ns="52.45124" we="15.53531" km="44.9" etykieta="" 
+      kolejnosc="46"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="413" typ="rzeka" nazwa="Policko - Święty Wojciech" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="5"> 
+  <opis>Rzeka zaczyna kręcić, meandrować, wirować. Coraz więcej przeszkód w korycie. Coraz ładniej.</opis>
+    <punkt id="3432" miejscowosc="Święty Wojciech" 
+      ns="52.44999768" we="15.5373143" km="45.1" etykieta="" 
+      kolejnosc="45"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="3431" miejscowosc="Święty Wojciech" 
+      ns="52.44781022" we="15.5389188" km="45.5" etykieta="" 
+      kolejnosc="44"> 
+    <opispunktu typ="stanica" kolejnosc="-1">Stanica kajakowa "WYSPA" - wiata</opispunktu> 
+    </punkt>
+    <punkt id="3430" miejscowosc="Święty Wojciech" 
+      ns="52.44778309" we="15.55506283" km="47.8" etykieta="" 
+      kolejnosc="43"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniany mostek przy kościele</opispunktu> 
+    </punkt>
+    <punkt id="3429" miejscowosc="Międzyrzecz" 
+      ns="52.45122546" we="15.56216766" km="48.6" etykieta="" 
+      kolejnosc="42"> 
+    <opispunktu typ="most" kolejnosc="-1">Most obwodnicy miasta</opispunktu> 
+    </punkt>
+    <punkt id="3428" miejscowosc="Międzyrzecz" 
+      ns="52.44518879" we="15.56825958" km="49.6" etykieta="" 
+      kolejnosc="41"> 
+    <opispunktu typ="most" kolejnosc="-1">Kładka dla pieszych</opispunktu> 
+    </punkt>
+    <punkt id="3427" miejscowosc="Międzyrzecz" 
+      ns="52.44551485" we="15.57146942" km="49.8" etykieta="" 
+      kolejnosc="40"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Ładny zamek tuż przy rzece</opispunktu> 
+    </punkt>
+    <punkt id="3426" miejscowosc="Międzyrzecz" 
+      ns="52.44601317" we="15.57309947" km="49.9" etykieta="" 
+      kolejnosc="39"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Paklicy po lewej</opispunktu> 
+    </punkt>
+    <punkt id="3425" miejscowosc="Międzyrzecz" 
+      ns="52.44621726" we="15.57832152" km="50.3" etykieta="" 
+      kolejnosc="38"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w centrum miasta</opispunktu> 
+    </punkt>
+    <punkt id="3424" miejscowosc="Międzyrzecz" 
+      ns="52.44810385" we="15.58596449" km="50.9" etykieta="" 
+      kolejnosc="37"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+    <punkt id="3423" miejscowosc="Międzyrzecz" 
+      ns="52.45229" we="15.60816" km="53.6" etykieta="" 
+      kolejnosc="36"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Betonowe filary po moście</opispunktu> 
+    </punkt>
+    <punkt id="3422" miejscowosc="Międzyrzecz" 
+      ns="52.45659526" we="15.61895645" km="54.8" etykieta="" 
+      kolejnosc="35"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce na biwak po lewej, w lesie</opispunktu> 
+    </punkt>
+    <punkt id="3421" miejscowosc="Żółwin" 
+      ns="52.46508594" we="15.64626024" km="58.4" etykieta="" 
+      kolejnosc="34"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="3420" miejscowosc="Żółwin" 
+      ns="52.46761057" we="15.64835109" km="58.8" etykieta="" 
+      kolejnosc="33"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oznakowanie biwaku 500 m w prawo na jeziorze Żółwin</opispunktu> 
+    <opispunktu typ="ujście" kolejnosc="-1">Możliwość odbicia w prawo na jezioro Żółwin</opispunktu> 
+    </punkt>
+    <punkt id="3419" miejscowosc="Policko" 
+      ns="52.45999128" we="15.69179664" km="65.1" etykieta="" 
+      kolejnosc="32"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="3418" miejscowosc="Policko" 
+      ns="52.46120209" we="15.69525626" km="65.8" etykieta="" 
+      kolejnosc="31"> 
+    <opispunktu typ="most" kolejnosc="-1">Most kolejowy</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="412" typ="rzeka" nazwa="Rybojady - Policko" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL3" 
+      kolejnosc="4"> 
+  <opis>Trzcinowiska, rozlewiska, agresywne łabędzie broniące swoich gniazd, trochę samotnych drzew i lasu na brzegach</opis>
+    <punkt id="3417" miejscowosc="Policko" 
+      ns="52.45867207" we="15.70234335" km="66.7" etykieta="" 
+      kolejnosc="30"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie Międzyrzecz - Pszczew</opispunktu> 
+    </punkt>
+    <punkt id="3416" miejscowosc="Rańsko" 
+      ns="52.44491394" we="15.72638884" km="69.6" etykieta="" 
+      kolejnosc="29"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oznakowany biwak po lewej, przy leśniczówce</opispunktu> 
+    </punkt>
+    <punkt id="3415" miejscowosc="Borowy Młyn" 
+      ns="52.41489103" we="15.80613005" km="76.9" etykieta="" 
+      kolejnosc="28"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Oznakowane miejsce biwakowe po prawej na zakręcie rzeki</opispunktu> 
+    </punkt>
+    <punkt id="3414" miejscowosc="Rybojady" 
+      ns="52.40653785" we="15.82653857" km="78.6" etykieta="" 
+      kolejnosc="27"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta zastawka</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="411" typ="mieszany" nazwa="Trzciel - Rybojady" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="3"> 
+  <opis>Odcinek rzeczno - jeziorny przez rezerwat przyrody na Jeziorze Wielkim. </opis>
+    <punkt id="3413" miejscowosc="Rybojady" 
+      ns="52.40601702" we="15.83066395" km="79" etykieta="" 
+      kolejnosc="26"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Przed mostem po prawej możliwość biwaku</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie Trzciel - Pszczew</opispunktu> 
+    </punkt>
+    <punkt id="3412" miejscowosc="Trzciel" 
+      ns="52.37097705" we="15.87438903" km="84.3" etykieta="" 
+      kolejnosc="25"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na bardzo ruchliwej drodze pomiędzy Nowym Tomyślem a Świebodzinem</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Przed wpłynięciem na jezioro Wielkie kolejna tablica informująca o warunkach braku możliwości przepłynięcia przez rezerwat bez wcześniejszego zgłoszenia w PPK</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="410" typ="mieszany" nazwa="Zbąszyń - Trzciel" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="2"> 
+  <opis>Odcinek rzeczno - jeziorny, początkowo otwarty, od Strzyżewa zalesiony. W korycie drzewa i krzaki. Po drodze malownicze i ciche Jezioro Lutol, niestety przez powstającą w jego końcu przeprawę autostradową prawdopodobnie straci wkrótce na swej atrakcyjności.</opis>
+    <punkt id="3411" miejscowosc="Trzciel" 
+      ns="52.36789969" we="15.87994764" km="84.8" etykieta="" 
+      kolejnosc="24"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Za mostem tablica informująca o braku możliwości spłynięcia przez jezioro Wielkie będące w całości rezerwatem przyrody. W celu uzyskania zgody na przepłynięcie przez jezioro Wielkie należy zgłosić ten zamiar w siedzibie Pszczewskiego Parku Krajobrazowego</opispunktu> 
+    </punkt>
+    <punkt id="3410" miejscowosc="Prądówka" 
+      ns="52.3364826" we="15.88799252" km="88.5" etykieta="" 
+      kolejnosc="23"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce na biwak po prawej</opispunktu> 
+    </punkt>
+    <punkt id="3409" miejscowosc="Lutol" 
+      ns="52.32923229" we="15.88219183" km="89.5" etykieta="" 
+      kolejnosc="22"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Zaraz za mostem uciążliwa zwałka na grubym drzewie, zator ze śmieci</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most nowej (jeszcze nieczynnej) autostrady</opispunktu> 
+    </punkt>
+    <punkt id="3408" miejscowosc="Lutol" 
+      ns="52.3234455" we="15.88344641" km="90.1" etykieta="" 
+      kolejnosc="21"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Pierwszy oznakowane biwaki na trasie spływu. Po prawej - widoczny z daleka oraz po lewej stronie jeziora - na cyplu</opispunktu> 
+    </punkt>
+    <punkt id="3407" miejscowosc="Strzyżewo" 
+      ns="52.28781668" we="15.88307469" km="94.4" etykieta="" 
+      kolejnosc="20"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce na biwak po prawej, stoliki i ławki</opispunktu> 
+    </punkt>
+    <punkt id="3406" miejscowosc="Strzyżewo" 
+      ns="52.28121" we="15.89378995" km="95.8" etykieta="" 
+      kolejnosc="19"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="3405" miejscowosc="Strzyżewo" 
+      ns="52.27382376" we="15.88718993" km="96.8" etykieta="" 
+      kolejnosc="18"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce biwakowe z wiatą, po lewej</opispunktu> 
+    </punkt>
+    <punkt id="3404" miejscowosc="Zbąszyń" 
+      ns="52.25941318" we="15.90928408" km="99.2" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="most" kolejnosc="-1">Dwa mosty kolejowe</opispunktu> 
+    </punkt>
+    <punkt id="3403" miejscowosc="Zbąszyń" 
+      ns="52.25236504" we="15.91467936" km="100.1" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie do Nowego Tomyśla</opispunktu> 
+    </punkt>
+    <punkt id="3402" miejscowosc="Zbąszyń" 
+      ns="52.25229865" we="15.9191881" km="100.6" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="most" kolejnosc="-1">Drewniana kładka z rurą nisko nad wodą</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="409" typ="mieszany" nazwa="Jezioro Wielowiejskie - Zbąszyń" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="**" czystosc="KL3" 
+      kolejnosc="1"> 
+  <opis>Odcinek rzeczno - jeziorny. Jeziora zarówno bezludne i dzikie (Wielowiejskie, Chobienickie) jak i obklejone ludźmi (Grójeckie, Nowowiejskie). Na Zbąszyńskim otwarta przestrzeń z dużą boczną falą.</opis>
+    <punkt id="3401" miejscowosc="Zbąszyń" 
+      ns="52.25024183" we="15.92302157" km="101" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy w centrum miasta. Pod mostem wodowskaz (odczyt 153). Zniszczony podest, zniszczona tablica informacyjna o szlaku Obry, schodki na górę.</opispunktu> 
+    <opispunktu typ="sklep" kolejnosc="-1">Sklep tuż przy moście</opispunktu> 
+    </punkt>
+    <punkt id="3400" miejscowosc="Przyprostynia" 
+      ns="52.23588" we="15.92393" km="102.9" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Pod mostem sieć rybacka uniemożliwiająca przepłynięcie</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Jaz 0,8m przy gospodarstwie rybackim. Zaniedbana stalowa konstrukcja stosunkowo nisko nad wodą</opispunktu> 
+    <opispunktu typ="most" kolejnosc="-1">Most drewniany przy gospodarstwie rybackim</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Niezbyt wygodna przenoska prawą stroną około 100 m, za jaz</opispunktu> 
+    </punkt>
+    <punkt id="3399" miejscowosc="Przyprostynia" 
+      ns="52.23506362" we="15.91917832" km="103.2" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ Obry z jeziora Zbąszyńskiego. Kierować się na prawo od widocznych z daleka wież kościoła.</opispunktu> 
+    </punkt>
+    <punkt id="3398" miejscowosc="Perzyny" 
+      ns="52.21570293" we="15.90326529" km="105.7" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Podczas wietrznej pogody możliwa wysoka boczna fala</opispunktu> 
+    <opispunktu typ="biwak" kolejnosc="-1">Mijsce na biwak po prawej stronie jeziora Zbąszyńskiego</opispunktu> 
+    </punkt>
+    <punkt id="3397" miejscowosc="Nowa Wieś Zbąska" 
+      ns="52.19819819" we="15.88954835" km="107.8" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na lokalnej drodze</opispunktu> 
+    </punkt>
+    <punkt id="3396" miejscowosc="Grójec Mały" 
+      ns="52.19170418" we="15.89247545" km="108.6" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce na biwak po prawej na początku jeziora Nowowiejskiego</opispunktu> 
+    </punkt>
+    <punkt id="3395" miejscowosc="Grójec Mały" 
+      ns="52.18533442" we="15.89013653" km="109.4" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Miejsce na biwak po prawej przy wypływie z jeziora Grójeckiego</opispunktu> 
+    </punkt>
+    <punkt id="3394" miejscowosc="Grójec Wielki" 
+      ns="52.17055878" we="15.88943751" km="111.1" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na trasie Babimost - Wolsztyn</opispunktu> 
+    </punkt>
+    <punkt id="3393" miejscowosc="Chobienice" 
+      ns="52.15254388" we="15.89574949" km="113.4" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="uwaga" kolejnosc="-1">Rezerwat "Wyspa na Jeziorze Chobienickim"</opispunktu> 
+    </punkt>
+  </odcinek>
+  <odcinek id="408" typ="kanał" nazwa="Kopanica - Jezioro Wielowiejskie" 
+      uciazliwosc="U1" trudnosc="ZWA" 
+      malowniczosc="*" czystosc="KL3" 
+      kolejnosc="0"> 
+  <opis>Końcówka Północnego Kanału Obry, przed wpływem na jezioro robi się trochę bardziej dziko.</opis>
+    <punkt id="3392" miejscowosc="Wąchabno" 
+      ns="52.13539895" we="15.89360152" km="115.3" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość biwaku na cyplu po lewej pomiędzy jeziorami Wielowiejskim i Chobienickim</opispunktu> 
+    </punkt>
+    <punkt id="3391" miejscowosc="Wąchabno" 
+      ns="52.12957126" we="15.89840927" km="116.2" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość biwaku po lewej na skraju lasu</opispunktu> 
+    </punkt>
+    <punkt id="3390" miejscowosc="Mała Wieś" 
+      ns="52.11045215" we="15.90504646" km="118.5" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="biwak" kolejnosc="-1">Możliwość zabiwakowania po lewej na skraju lasu</opispunktu> 
+    </punkt>
+    <punkt id="3389" miejscowosc="Mała Wieś" 
+      ns="52.10051641" we="15.90747937" km="119.7" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Otwarta 3-przęsłowa zastawka</opispunktu> 
+    </punkt>
+    <punkt id="3388" miejscowosc="Mała Wieś" 
+      ns="52.09739242" we="15.90729518" km="120" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy</opispunktu> 
+    </punkt>
+    <punkt id="3387" miejscowosc="Kopanica" 
+      ns="52.09016177" we="15.91401489" km="121" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy pomiędzy Kargową a Wolsztynem. Wygodne miejsce wodowania</opispunktu> 
+    </punkt>
+  </odcinek>
+</szlak>
+</splywww>

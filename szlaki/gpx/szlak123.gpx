@@ -1,0 +1,426 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="51.58405500" lon="17.81341151">
+<name>130.30</name>
+<desc>Mostek na drodze gruntowej, wygodne miejsce rozpoczęcia spływu. Z drogi prowadzącej z Przygodzic w kierunku Jankowa należy skręcić w lewo na wysokości cmentarza. 
+Ilość wody w rzece oraz dogodny dostęp do niej umożliwia rozpoczęcie spływu nieco wyżej, w Przygodzicach, bezpośrednio przy drodze nr 11, tu jednak miejscowy gospodarz nie wykazuje entuzjazmu na widok kajakarzy.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.58518402" lon="17.80015130">
+<name>129.40</name>
+<desc>Betonowy próg 0.5m z kamieniami poniżej.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.58461653" lon="17.79146146">
+<name>128.70</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.58461619" lon="17.78000981">
+<name>127.90</name>
+<desc>Mostek na drodze gruntowej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.58452273" lon="17.77709736">
+<name>127.70</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.58626866" lon="17.76484514">
+<name>126.90</name>
+<desc>Mostek na polnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.58777165" lon="17.75193579">
+<name>125.80</name>
+<desc>Mostek na drodze gruntowej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.58019513" lon="17.73475576">
+<name>124.40</name>
+<desc>Most betonowy na polnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.57898527" lon="17.72796043">
+<name>123.80</name>
+<desc>Kamienny próg 0,5m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.58039524" lon="17.70248002">
+<name>122.00</name>
+<desc>Dopływ z prawej</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.58021659" lon="17.70164058">
+<name>121.90</name>
+<desc>3 przęsłowa zastawka, otwarta</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.57990864" lon="17.69963269">
+<name>121.80</name>
+<desc>Most ma ruchliwej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.57625763" lon="17.67232439">
+<name>119.80</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.56526647" lon="17.65509390">
+<name>118.00</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.56538964" lon="17.65120834">
+<name>117.80</name>
+<desc>Dopływy z lewej i prawej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.56456442" lon="17.63033385">
+<name>116.20</name>
+<desc>Betonowy most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.56094133" lon="17.61873952">
+<name>115.30</name>
+<desc>Stalowa kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.55764999" lon="17.58751826">
+<name>113.00</name>
+<desc>Most na lokalnej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.55686579" lon="17.57831599">
+<name>112.30</name>
+<desc>Mostek na gruntowej drodze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.55492207" lon="17.57221818">
+<name>111.80</name>
+<desc>Dopływ z prawej rzeczki Kuroch. Barycz z województwa wielkopolskiego wpływa na obszar dolnośląskiego.</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.55018360" lon="17.56658188">
+<name>111.10</name>
+<desc>Most betonowy na drodze gruntowej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.54612937" lon="17.55880377">
+<name>110.40</name>
+<desc>Spory dopływ z lewej</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.54337257" lon="17.54907649">
+<name>109.60</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.54322358" lon="17.54700538">
+<name>109.50</name>
+<desc>Otwarta zastawka 3 przęsłowa</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.54634039" lon="17.51004892">
+<name>106.70</name>
+<desc>Miejsce dogodne do biwakowania na dziko</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.54682926" lon="17.50104549">
+<name>106.10</name>
+<desc>Zastawka 3 przęsłowa, otwarta</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.55032605" lon="17.48236894">
+<name>104.50</name>
+<desc>Dopływ Czarnej Wody z prawej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.55316097" lon="17.46862404">
+<name>103.50</name>
+<desc>Most drogowy. Wygodne miejsce wodowania.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.55824999" lon="17.45471384">
+<name>102.30</name>
+<desc>Jaz piętrzący wodę na wysokość około 1m.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.55720921" lon="17.42711721">
+<name>100.30</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.55588892" lon="17.39365401">
+<name>97.90</name>
+<desc>Jaz Bolko. Zabytkowa konstrukcja walcowa z 1893 roku. Podobno w Polsce są takie tylko 3 a w Europie jedynie 8. Jaz piętrzy wodę na około 2 m.</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.55279150" lon="17.36044236">
+<name>95.40</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.54363297" lon="17.31378579">
+<name>91.60</name>
+<desc>Z lewej strony dopływa rzeką Prądnia</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.53689393" lon="17.29945737">
+<name>90.10</name>
+<desc>Jaz Sławoszowice piętrzący wodę na wysokość około 3m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.53585191" lon="17.29033896">
+<name>89.50</name>
+<desc>Ładny 5 przęsłowy most kolejowy z cegły. Pod mostem małe bystrze</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.53442687" lon="17.27323510">
+<name>88.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.53214967" lon="17.26596881">
+<name>87.60</name>
+<desc>Wygodne miejsce wodowania, na lewym brzegu</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="51.52870964" lon="17.24738745">
+<name>86.20</name>
+<desc>Most drogowy na ul. Sułowskiej</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.50334108" lon="17.21520637">
+<name>81.30</name>
+<desc>Możliwość biwakowania na dziko</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.49018123" lon="17.18037866">
+<name>78.00</name>
+<desc>Jaz elektrowni wodnej</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.49093099" lon="17.16449321">
+<name>76.50</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.49295016" lon="17.14648350">
+<name>75.10</name>
+<desc>Drewniany most drogowy z wodowskazem wskazującym poziom 140 (bardzo dobre warunki wodne)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.48652154" lon="17.09188924">
+<name>71.00</name>
+<desc>Jaz Niezgoda - 4 przęsłowy, o wysokości około 2,5m, z datą wskazującą na 1944 jako rok budowy</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.48138491" lon="17.02278492">
+<name>66.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.48249134" lon="17.01651767">
+<name>65.50</name>
+<desc>Ujście z prawej strony rzeki Ługa (Stara Barycz)</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.48223865" lon="16.99032217">
+<name>63.60</name>
+<desc>Otwarta zastawka 2 przęsłowa</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.48260621" lon="16.91372389">
+<name>58.20</name>
+<desc>Most drogowy, wygodne wodowanie przed mostem po lewej stronie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.48243573" lon="16.91177409">
+<name>58.00</name>
+<desc>Most na ruchliwej drodze Wrocław - Poznań</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.48213433" lon="16.90967497">
+<name>57.90</name>
+<desc>Zastawka 1 przęsłowa, otwarta</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.48138323" lon="16.90284763">
+<name>57.40</name>
+<desc>Most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.48282765" lon="16.89078867">
+<name>56.50</name>
+<desc>Ujście Sąsiecznicy z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.49491019" lon="16.86667286">
+<name>54.20</name>
+<desc>Otwarta zastawka</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.50100245" lon="16.85104238">
+<name>52.90</name>
+<desc>Filary po starym moście</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.51095053" lon="16.82074031">
+<name>50.40</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.50817427" lon="16.80345934">
+<name>49.10</name>
+<desc>Możliwość dzikiego biwakowania w ładnym miejscu na skarpie</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.50693323" lon="16.79779800">
+<name>48.70</name>
+<desc>Ujście cieku z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.50908908" lon="16.77198742">
+<name>46.80</name>
+<desc>Otwarta zastawka 2 przęsłowa</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.53159090" lon="16.72751741">
+<name>42.70</name>
+<desc>Otwarta 2 przęsłowa zastawka</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.53568829" lon="16.71621961">
+<name>41.70</name>
+<desc>Ujście czegoś z lewej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.55443907" lon="16.69517509">
+<name>39.00</name>
+<desc>Otwarta zastawka 2 przęsłowa</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.55820883" lon="16.68881194">
+<name>38.40</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.56065510" lon="16.68676195">
+<name>38.00</name>
+<desc>Przystań wraz z terenem rekreacyjnym w Wąsoszu. Dobry dostęp do wody, toalety, wypożyczalnia sprzętu</desc>
+<cmt>stanica</cmt>
+</wpt>
+<wpt lat="51.56184603" lon="16.68512343">
+<name>37.90</name>
+<desc>Kratownicowy most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.56842935" lon="16.66588894">
+<name>36.30</name>
+<desc>Dopływ rzeki Orla z prawej strony</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="51.57810022" lon="16.64505917">
+<name>34.40</name>
+<desc>Miejsce odpoczynku z dobrym dojściem do wody</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.58493289" lon="16.62363190">
+<name>32.50</name>
+<desc>Otwarta 3 przęsłowa zastawka</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.59367000" lon="16.61053287">
+<name>31.00</name>
+<desc>Zabytkowy kościół tuż nad rzeką. Miejsce atrakcyjne, z dobrym dostępem do wody</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="51.59714512" lon="16.58032336">
+<name>28.70</name>
+<desc>Możliwość dzikiego biwaku na polanie śródleśnej</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="51.59990039" lon="16.57692049">
+<name>28.30</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.60684892" lon="16.56971173">
+<name>27.30</name>
+<desc>Otwarta zastawka 3 przęsłowa</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.61400057" lon="16.51244422">
+<name>22.80</name>
+<desc>Prożek 0,4m</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.61531625" lon="16.50963063">
+<name>22.60</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.61695649" lon="16.49995269">
+<name>21.80</name>
+<desc>Otwarta zastawka 3 przęsłowa</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.63154346" lon="16.46221405">
+<name>18.30</name>
+<desc>Stary most drogowy z wodowskazem wskazującym w dniu płynięcia poziom 169 (bardzo dobre warunki wodne)</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.63176268" lon="16.45997714">
+<name>18.10</name>
+<desc>Nowy most drogowy na ruchliwej szosie</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.63836269" lon="16.43882932">
+<name>16.40</name>
+<desc>Piękny, stary, kratownicowy most kolejowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.64549504" lon="16.41251652">
+<name>14.20</name>
+<desc>Otwarta zastawka 3 przęsłowa, za nią kamienny prożek</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.64868034" lon="16.38026329">
+<name>11.60</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.66552278" lon="16.35849896">
+<name>8.80</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.68122310" lon="16.33689544">
+<name>6.40</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.68720045" lon="16.32773090">
+<name>5.50</name>
+<desc>Otwarta zastawka 3 przęsłowa</desc>
+<cmt>jaz</cmt>
+</wpt>
+<wpt lat="51.68603611" lon="16.26446609">
+<name>0.80</name>
+<desc>Most drogowy, za nim małe bystrze po starym moście</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="51.68615922" lon="16.25198600">
+<name>0.00</name>
+<desc>Ujście Baryczy do Odry</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>

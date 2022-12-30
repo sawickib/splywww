@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="159" nazwa="Ruda (dopływ Brdy)" wersja="1">
+<opis>Prawy dopływ górnej Brdy. Rzeka swój początek bierze w okolicy jeziora Dymno, następnie płynie na południe przez Koczałę i Płocicz, skręca na wschód mijając miejscowość Suszka, by poniżej Rudnik zasilić wody Brdy. Ruda to oficjalna nazwa rzeki, w praktyce, wśród miejscowej ludności, pośród kajakarzy i na niektórych mapach spotyka się też zamiennie nazwy (w zależności od odcinka): Kuśnia, Kuźnia i Stążka. Na przedwojennych mapach, w zależności od roku wydania mapy, główny nurt rzeki nosi nazwę Hammer Fließ oraz Hammerfliess, a najczęściej stosowaną dziś nomenklaturą jest Kuśnia, która na wysokości uroczyska Dwa Mostki wpada do, o wiele od siebie mniejszej Rudy i dalej płynie już jako Ruda. Urokliwa, czysta, dzika, oddalona od szos, linii kolejowych i siedzib ludzkich. Polecana koneserom przyrody. Ze względu na zmienne warunki wodne nie jest mocno obciążana przez spływy masowe i komercyjne, co ma swoje odbicie chociażby w czystości brzegów, braku śmieci (czego nie da się powiedzieć o pobliskiej Brdzie) i przejmującej ciszy. Za Płociczem chwilami stosunkowo płytkie mielizny w miejscach rozszerzania się rzeki. Poniżej uroczyska Dwa Mostki i wypływie na otwartą przestrzeń rzeka się zwęża i dzięki temu pogłębia. Na Rudzie nie ma wodowskazów umożłiwiających kontrolę poziomu wody. Odcinek z Płocicza do Rudnik zajmuje około 3h</opis> 
+    <punkt id="5233" miejscowosc="Płocicz" 
+      ns="53.85901322" we="17.07384989" km="13.5" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na lokalnej drodze. Wygodne miejsce startu ale bardzo złej jakości droga gruntowa od strony Koczały. W pobliżu mostu ławki, wiata i miejsce na ognisko przy charakterystycznej pętli, na której można pozostawić samochody. Poniżej odcinek leśny z kilkoma zwałkami. Szeroko i miejscami płytko, trzeba dobrze czytać wodę bo kajak często wiesza się na piaskowo-żwirowych mieliznach</opispunktu> 
+    </punkt>
+    <punkt id="5234" miejscowosc="Płocicz" 
+      ns="53.84792339" we="17.07694571" km="12" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek w lesie</opispunktu> 
+    </punkt>
+    <punkt id="5235" miejscowosc="Wiśnica" 
+      ns="53.83105146" we="17.09317867" km="9.1" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="most" kolejnosc="-1">Uroczysko Dwa Mostki, drewniany most o 2 przęsłach</opispunktu> 
+    </punkt>
+    <punkt id="5236" miejscowosc="Wiśnica" 
+      ns="53.83038424" we="17.09362168" km="9" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Z prawej strony do Rudy wpada coś NN lub wg niektórych, Kuśnia wpada do o wiele mniejszej Rudy. Tak czy inaczej, rzeka wypływa na otwarty teren, robi się węższa a przez to głębsza</opispunktu> 
+    </punkt>
+    <punkt id="5237" miejscowosc="Suszka" 
+      ns="53.82712801" we="17.14545703" km="5" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="most" kolejnosc="-1">Most betonowy na drodze ze Sporysza do Borowego Młyna i Lipnicy, pod nim próg z ostrokrawędzistymi kamieniami. W przypadku podjęcia decyzji o spływaniu tego miejsca, wygodniej jest to zrobić z prawej strony wzdłuż drewnianej belki leżącej w osi nurtu. Przenoska z prawej strony przez drogę obok starego dębu</opispunktu> 
+    </punkt>
+    <punkt id="5238" miejscowosc="Rudniki" 
+      ns="53.82495314" we="17.16922038" km="2.6" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Niespływalny próg przed pstrągarnią, przysłonięty niską stalową kładką, wcześniej ładny fragment rzeki przez zatopiony las. Oznakowana krótka przenoska z prawej strony na rzekę, w przypadku płynięcia dalej (uwaga na psy, które mają dostęp do tego miejsca poprzez kładkę). W przypadku zamiaru kończenia spływu w Rudnikach wygodniej jest wysiąść z lewej strony na łąkę, przed ogrodzeniem pstrągarni i przeciągnąć kajaki po trawie 100m do drogi. Na lewym brzegu wzdłuż lini wody leży dużo kolczastego drutu</opispunktu> 
+    </punkt>
+    <punkt id="5239" miejscowosc="Rudniki" 
+      ns="53.82527046" we="17.17094904" km="2.5" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="most" kolejnosc="-1">Most drogowy na bocznej ale asfaltowej drodze, w pobliżu sporo miejsca na samochody. Jest to ostatnie miejsce z dostępem do wody przed wpłynięciem na Brdę</opispunktu> 
+    </punkt>
+    <punkt id="5240" miejscowosc="Rudniki" 
+      ns="53.82472728" we="17.20330032" km="0" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Rudy do Brdy. Spływ można zakończyć, płynąc w dół Brdy, przy moście w Pakotulsku (około 6 km), albo w górę około 1 km do tzw. Garbatego Mostu</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

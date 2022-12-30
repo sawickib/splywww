@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splywww wersja='3'>
+<szlak id="145" nazwa="Pękawnica (Pankawa) dopływ Gwdy" wersja="1">
+<opis>Oficjalnie Pękawnica, potocznie Pankawa - nazwy funkcjonujące zamiennie prawdopodobnie dlatego, że niemiecka nazwa rzeki brzmiała: Pankawnitz. Niewielki, lewy dopływ Gwdy. Obszar źródliskowy znajduje się w okolicy Tarnówczyna (na NW od Krajenki), skąd wpływa do lasów Puszczy nad Gwdą, gdzie staje się interesująca dla kajakrzy. Jednocześnie uregulowana i dzika. Piękny przykład rzeki, której regulacja nie ma negatywnego wpływu na atrakcyjność, a wręcz przeciwnie, w wielu miejscach potęguje ona jej dzikość. Cechą chcarakterystyczną rzeki jest kilkanaście progów spowalniających retencję wody. Jedynym mankamentem Pankawy jest fakt prowadzenia niewielkiej ilości wody, niezbędnej do swobodnego spływania. Zdarza się, że rzeka dostępna dla kajaków jest 2-3 dni w roku i to tylko dla K1. Brak wodowskazów sprawia, że nie ma możliwości obserwowania stanów wody poprzez system monitoringu w internecie. Jedynym rozwiązaniem są tu więc dobre kontakty z miejscowymi kajakarzami, którzy "dadzą cynk" w odpowiednim czasie. W dolnej części rzeka płynie głębszym korytem, przebijając się przez pas utworów polodowcowych. Na tym odcinku zdecydowanie przyspiesza, kręci i rozbija się o kamienie przybierając postać potoku górskiego. Do Gwdy uchodzi pomiędzy miejscowościami Krępsko i Dobrzyca. Przebycie opisanego odcinka, w zależności od warunków wodnych zajmuje około 5 h.
+</opis> 
+    <punkt id="4954" miejscowosc="Paruszka" 
+      ns="53.27121998" we="16.86517751" km="10.4" etykieta="" 
+      kolejnosc="0"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na drodze asfaltowej pomiędzy Pleceminem a Paruszką, pod mostem przepust rurowy. Wygodne miejsce rozpoczynania spływu, w pobliżu leśny parking, na którym można pozostawić samochody. Poniżej odcinek leśny, kręty, świerzo (listopad 2017) czyszczony i pogłębiony</opispunktu> 
+    </punkt>
+    <punkt id="4955" miejscowosc="Paruszka" 
+      ns="53.26778357" we="16.85877752" km="9.5" etykieta="" 
+      kolejnosc="1"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg nr 1, pochylnia o różnicy poziomów około 1 m</opispunktu> 
+    </punkt>
+    <punkt id="4956" miejscowosc="Paruszka" 
+      ns="53.26731491" we="16.8559465" km="9.2" etykieta="" 
+      kolejnosc="2"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg nr 2, pochylnia o różnicy poziomów około 0,8 m</opispunktu> 
+    </punkt>
+    <punkt id="4957" miejscowosc="Paruszka" 
+      ns="53.26607443" we="16.85455705" km="8.8" etykieta="" 
+      kolejnosc="3"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg nr 3, pochylnia o różnicy poziomów około 0,7 m</opispunktu> 
+    </punkt>
+    <punkt id="4958" miejscowosc="Paruszka" 
+      ns="53.26550161" we="16.84967958" km="8.4" etykieta="" 
+      kolejnosc="4"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg nr 4 o różnicy poziomów około 0,8 m, przy nim po lewej ambona myśliwska</opispunktu> 
+    </punkt>
+    <punkt id="4959" miejscowosc="Paruszka" 
+      ns="53.26433994" we="16.84823813" km="8.2" etykieta="" 
+      kolejnosc="5"> 
+    <opispunktu typ="wypływ" kolejnosc="-1">Wypływ na ciąg zarośniętych jeziorek użytku ekologicznego "Bagna Pszczółkowskiego". Najwygodniej jest przebić się na wprost wzdłuż lini drzew do lewego brzegu i skręcić w prawo płynąc wzdłuż lewego brzegu. Ten wariant jest najmniej uciążliwy. W lini drzew stoi prowizoryczna ambona myśliwska, z której można prześledzić najlepszą trasę spływu</opispunktu> 
+    </punkt>
+    <punkt id="4960" miejscowosc="Plecemin" 
+      ns="53.26378301" we="16.84445664" km="7.9" etykieta="" 
+      kolejnosc="6"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg nr 5 piętrzący jeziorko, próg 0,6 m + pochylnia zakończona wielkimi głazami, spływać ostrożnie. Poniżej kolejne mocno zarośnięte roślinnością jeziorko</opispunktu> 
+    </punkt>
+    <punkt id="4961" miejscowosc="Plecemin" 
+      ns="53.26442586" we="16.83830398" km="7.3" etykieta="" 
+      kolejnosc="7"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg nr 6 o wysokości około 1 m, pietrzący jeziorko, za nim krótka pochylnia</opispunktu> 
+    </punkt>
+    <punkt id="4962" miejscowosc="Plecemin" 
+      ns="53.26727965" we="16.83193456" km="6.7" etykieta="" 
+      kolejnosc="8"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg nr 7 - pochylnia o różnicy poziomów około 1,5 m.  Poniżej kolejne jeziorko</opispunktu> 
+    </punkt>
+    <punkt id="4963" miejscowosc="Plecemin" 
+      ns="53.26710531" we="16.82558441" km="6.2" etykieta="" 
+      kolejnosc="9"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg nr 8 o wysokości około 1m, za nim pochylnia. Na krawędzi progu wystają 2 metalowe prowadnice, które dzielą go na 3 segmenty. Przy większej wodzie szyny te są mało widoczne i można uszkodzić kajak</opispunktu> 
+    </punkt>
+    <punkt id="4964" miejscowosc="Plecemin" 
+      ns="53.26537055" we="16.81676931" km="5.4" etykieta="" 
+      kolejnosc="10"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg nr 9 - pochylnia o różnicy poziomów około 3 m</opispunktu> 
+    </punkt>
+    <punkt id="4965" miejscowosc="Plecemin" 
+      ns="53.26194187" we="16.81708913" km="4.8" etykieta="" 
+      kolejnosc="11"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Prożek nr 10, 0,5 m + pochylnia, na progu bród na leśnej drodze i płytko</opispunktu> 
+    </punkt>
+    <punkt id="4966" miejscowosc="Plecemin" 
+      ns="53.25823939" we="16.81138107" km="4.1" etykieta="" 
+      kolejnosc="12"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg nr 11 - pochylnia o różnicy poziomów około 3 m. Poniżej odcinek bardziej bystry, kręty i kamienisty, w wąskiej dolinie</opispunktu> 
+    </punkt>
+    <punkt id="4967" miejscowosc="Plecemin" 
+      ns="53.25307578" we="16.80540669" km="3.2" etykieta="" 
+      kolejnosc="13"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg nr 12 - podwójna pochylnia o różnicy około 4m, rozdzielona odcinkiem poziomym. Poniżej wąsko, wzdłuż obydwu brzegów drewniane paliki</opispunktu> 
+    </punkt>
+    <punkt id="4968" miejscowosc="Krępsko" 
+      ns="53.25141085" we="16.8000632" km="2.6" etykieta="" 
+      kolejnosc="14"> 
+    <opispunktu typ="most" kolejnosc="-1">Mostek na leśnej pożarowej drodze nr 31, przy skrzyżowniu z drogą nr 6. Zasadniczo jest to pierwsze miejsce od startu, do którego można dotrzeć samochodem nad samą rzekę (np. w sytuacji awaryjnej), należy jednak mieć na uwadze, że są to drogi leśne i jazda po nich nie spotka się z przychylnością służb leśnych</opispunktu> 
+    <opispunktu typ="jaz" kolejnosc="-1">Pod mostkiem próg nr 13 i wąska metalowa przepławka dla ryb</opispunktu> 
+    <opispunktu typ="przenoska" kolejnosc="-1">Zalecana przenoska lewym brzegiem około 20 m. Poniżej bysto, płytko, z kamieniami, pojedyncze zwałki i ładny odcinek przez zalany las</opispunktu> 
+    </punkt>
+    <punkt id="4969" miejscowosc="Krępsko" 
+      ns="53.2487678" we="16.79134561" km="1.6" etykieta="" 
+      kolejnosc="15"> 
+    <opispunktu typ="jaz" kolejnosc="-1">Próg nr 14 - podwójna pochylnia o różnicy poziomów około 4 m. Poniżej pojedyncze zwałki i bardziej bystra woda</opispunktu> 
+    </punkt>
+    <punkt id="4970" miejscowosc="Krępsko" 
+      ns="53.24883208" we="16.78647724" km="1" etykieta="" 
+      kolejnosc="16"> 
+    <opispunktu typ="most" kolejnosc="-1">Most na ruchliwej drodze nr 11. Poniżej odcinek zwałkowy z kamieniami w korycie</opispunktu> 
+    </punkt>
+    <punkt id="4971" miejscowosc="Krępsko" 
+      ns="53.24385984" we="16.7821935" km="0" etykieta="" 
+      kolejnosc="17"> 
+    <opispunktu typ="ujście" kolejnosc="-1">Ujście Pękawnicy do Gwdy. Wypływ przysłonięty jest trzcinami i słabo widoczny od strony Gwdy. Kilkanaście minut w dół Gwdą po lewej stronie znajduje się restauracja "Nad Rozlewiskiem" z dużym parkingiem, gdzie wygodnie jest zakończyć spływ (za zgodą właściciela terenu)</opispunktu> 
+    </punkt>
+</szlak>
+</splywww>

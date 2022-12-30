@@ -1,0 +1,25 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.02711900" lon="23.45868600">
+<name>0.00</name>
+<desc>Za mostem na prawo wygodne miejsce do wodowania</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="54.01129100" lon="23.50090200">
+<name>5.80</name>
+<desc>Drewniany mostek, w zależności pod stanu wody pokonujemy nad lub pod.</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.99318800" lon="23.48403300">
+<name>10.80</name>
+<desc>Koniec szkalu</desc>
+<cmt>uwaga</cmt>
+</wpt>
+
+</gpx>

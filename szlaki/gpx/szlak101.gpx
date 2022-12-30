@@ -1,0 +1,310 @@
+
+<gpx
+ version="1.0"
+ creator="SplyWWW"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="54.00059808" lon="23.07368010">
+<name>60.50</name>
+<desc>Spływ można rozpocząć z miejscowości Bryzgiel. Jest tu ogólnodostępna plaża z wygodnym dojazdem nad samą wodę. Wodując się należy uiścić drobną opłatę</desc>
+<cmt>wypływ</cmt>
+</wpt>
+<wpt lat="54.05068006" lon="23.11908534">
+<name>54.00</name>
+<desc>Prywatne miejsce biwakowe z długim pomostem, drewnianą wiatą i ukrytą w krzakach "sławojką"</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.05003736" lon="23.11286926">
+<name>53.40</name>
+<desc>Gospodarstwo agroturystyczne z możliwością zamówienia obiadów</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.04608867" lon="23.06162283">
+<name>53.30</name>
+<desc>Ujście górnej Czarnej Hańczy do jeziora Wigry w zatoce Hańczańskiej</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.06848283" lon="23.08301041">
+<name>51.30</name>
+<desc>Wygodne miejsce pozostawienia kajaków w celu zwiedzenia pobliskiego Klasztoru Kamedułów</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.06788835" lon="23.09717518">
+<name>49.90</name>
+<desc>Wypływ z jeziora Wigry na jezioro Postaw</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.06922246" lon="23.09835310">
+<name>49.70</name>
+<desc>Pozostałości po drewnianej kładce łączącej Wigry z Czerwonym Folwarkiem</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.06906036" lon="23.10617020">
+<name>49.20</name>
+<desc>Regionalne muzeum rybactwa</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.07153582" lon="23.11153918">
+<name>48.70</name>
+<desc>Wypływ Czarnej Hańczy z jeziora Postaw</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.06983904" lon="23.11743692">
+<name>48.20</name>
+<desc>Most w Czerwonym Folwarku</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.07523053" lon="23.15322500">
+<name>45.10</name>
+<desc>Z lewej strony dopływa rzeka Żubrówka</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.05114851" lon="23.17037351">
+<name>41.60</name>
+<desc>Zwężenie za rozlewiskiem. Przepływ ten czasami może być "zamaskowany" i zamknięty przez tzw. "pływające wyspy" odrywające się co jakiś czas i spływające z wyższych części rozlewiska. W sierpniu 2011, podczas podniesionego poziomu wody w rzece tak właśnie się stało</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.05290278" lon="23.17306550">
+<name>41.40</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.05544512" lon="23.17631502">
+<name>41.00</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.06113421" lon="23.19098329">
+<name>38.40</name>
+<desc>Drewniana kładka</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.04639418" lon="23.20133978">
+<name>36.60</name>
+<desc>Ujście rzeczki Gremzdówki (błędnie zwanej m.in. Pawłówką)</desc>
+<cmt>ujście</cmt>
+</wpt>
+<wpt lat="54.03674462" lon="23.20233637">
+<name>35.40</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.01941003" lon="23.22897055">
+<name>32.20</name>
+<desc>Wieś Studziany Las po lewej stronie</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="54.00757557" lon="23.23628807">
+<name>30.50</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="54.00544092" lon="23.24269283">
+<name>30.00</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="54.00059189" lon="23.26053916">
+<name>28.40</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.99946162" lon="23.26228910">
+<name>28.20</name>
+<desc>Most</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.99848161" lon="23.26493577">
+<name>28.00</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.99285354" lon="23.27842044">
+<name>26.60</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.99071859" lon="23.28097926">
+<name>26.20</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.98901159" lon="23.28136102">
+<name>26.00</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.98670165" lon="23.28285172">
+<name>25.70</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.98587320" lon="23.28319195">
+<name>25.60</name>
+<desc>miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.97959498" lon="23.28945614">
+<name>24.70</name>
+<desc>Most drogowy na ruchliwej drodze. Wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.97713482" lon="23.29711923">
+<name>23.80</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.97244030" lon="23.30307495">
+<name>22.60</name>
+<desc>Biwak PTTK Frącki</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.96887391" lon="23.30333128">
+<name>22.20</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.96416497" lon="23.30190488">
+<name>21.50</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.96354306" lon="23.30417707">
+<name>21.30</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.96328860" lon="23.30743846">
+<name>21.00</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.96138820" lon="23.30855468">
+<name>20.60</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.96202617" lon="23.31069749">
+<name>20.40</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.95230472" lon="23.32421288">
+<name>18.50</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.95356226" lon="23.32681828">
+<name>18.20</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.95090101" lon="23.33287195">
+<name>17.20</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.94527191" lon="23.34135260">
+<name>15.90</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.94445244" lon="23.34748748">
+<name>15.30</name>
+<desc>Most w Okółku</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.93764266" lon="23.36874719">
+<name>12.40</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.93839524" lon="23.37084748">
+<name>12.20</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.93295832" lon="23.37589767">
+<name>11.00</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.93053459" lon="23.37751755">
+<name>10.40</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.92955180" lon="23.37737130">
+<name>10.30</name>
+<desc>Most na lokalnej drodze. Wygodne miejsce wodowania</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.92843181" lon="23.38121503">
+<name>10.00</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.92827025" lon="23.38538804">
+<name>9.50</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.91773906" lon="23.39186690">
+<name>7.30</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.91259473" lon="23.39276911">
+<name>6.10</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.91166209" lon="23.39641737">
+<name>5.60</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.91258779" lon="23.39744978">
+<name>5.40</name>
+<desc>Miejsce biwakowe po lewej. Duża polana w lesie na wysokiej piaszczystej skarpie. Bliskość jeziora Płaskiego.</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.90236295" lon="23.40592541">
+<name>2.60</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.90082777" lon="23.40728252">
+<name>2.30</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.90011326" lon="23.40566358">
+<name>2.20</name>
+<desc>Miejsce biwakowe PTTK Jałowy Róg</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.89572323" lon="23.41418299">
+<name>0.80</name>
+<desc>Miejsce biwakowe</desc>
+<cmt>biwak</cmt>
+</wpt>
+<wpt lat="53.89375508" lon="23.41562149">
+<name>0.30</name>
+<desc>Rozwidlenie Czarnej Hańczy (w prawo) i Szlamicy (prosto), miejsce częstych pomyłek kajakarzy, którzy chcą kontynuować spływ Kanałem Augustowskim a płyną na wprost Szlamicą.</desc>
+<cmt>uwaga</cmt>
+</wpt>
+<wpt lat="53.89327523" lon="23.41421357">
+<name>0.20</name>
+<desc>Most drogowy</desc>
+<cmt>most</cmt>
+</wpt>
+<wpt lat="53.89225878" lon="23.41584522">
+<name>0.00</name>
+<desc>Połączenie Czarnej Hańczy i Kanału Augustowskiego</desc>
+<cmt>ujście</cmt>
+</wpt>
+
+</gpx>
