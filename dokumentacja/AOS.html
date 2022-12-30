@@ -1,0 +1,159 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2" />
+<meta name="generator" content="notatnik" />
+<meta name="keywords" content="kajaki, spływ, kanu, kajak, wiosło" />
+<meta name="description" content="Kajaki. Rozbudowana strona poświęcona
+wszystkim rodzajom kajakarstwa turystyczno-rekreacyjnego. Zawiera materiały 
+szkoleniowe, opisy szlaków, bazę kontaktaktów, giełdę drobnych ogłoszeń
+i wiele innych." />
+
+</head>
+
+
+<body >
+
+
+<h2>AOS - Aplikacja Opiekuna Szlaku</h2>
+
+<p>AOS to program napisany specjalnie dla SplyWWWu. Jego celem jest ułatwienie przygotowywania opisów nowych szlaków
+i podczas nanoszenia poprawek na już istniejące. Aplikacja jest napisana w języku Java i operuje na plikach XML. 
+Mamy nadzieję, że korzystanie z niej jest dosyć intuicyjne.</p>
+
+<h4>Uruchamiamy program</h4>
+
+<p>Pierwsze uruchomienie należy rozpocząć od ściągnięcia z naszej strony najnowszej wersji programu
+W archiwum ZIP, znajduje się plik AOS.jar, który jest głównym programem, oraz kilka pomocniczych bibliotek. 
+Rozszerzenie JAR jest może trochę nietypowe, ale zupełnie poprawne dla programów napisanych w Javie. 
+
+<p>Do uruchamiania jakichkolwiek aplikacji Java niezbędna jest zainstalowanie jest oprogramowania 
+JRE (Java Runtime Enviroment),  które można za darmo ściągnąć ze stron producenta, czyli firmy Sun. 
+Najprościej poprzez stronę <a href="http://www.java.com/">www.java.com</a> Całkiem możliwe, że 
+już masz zainstalowaną Jave na swoim komputerze. W takim przypadku nie musisz ściągać najnowszej wersji.
+</p>
+
+<p>W systemach Microsoft Windows wystarczy kliknąć w plik AOS.jar, i jeśli mamy już zainstalowaną Jave,
+to program powinien się uruchomić.</p>
+
+<p>Dla maniaków komputerowych możemy podać też przepis uruchamiania z linii: <pre> java -jar AOS.jar </pre>
+
+<h4>Wprowadzenie do SplyWWWu</h4>
+
+<p>Żeby móc korzystać z AOS trzeba chociaż w minimalnym stopniu rozumieć w jaki sposób SplyWWW przechowuje 
+opis każdego szlaku. </p>
+
+<p><b>Szlak składa się z punktów</b> (miejsc), które określają jego położenie i według których określany jest kilometraż. 
+Punkty są podstawą opisu szlaku. Dodatkowowo jeden punkt mieć kilka różnych typów. Oznacza to, że w jednym miejscu jest
+kilka rzeczy wartych odnotowania, przykładem takiej sytuacji może być "jaz" i "przenoska", które to często występują 
+nierozdzielnie.
+
+<p>Punkty można grupować w odcinki. <b>Odcinek to fragment szlaku</b> (zbiór punktów), który ma niezmienne cechy 
+z punktu widzenia kajakarza. Na przykład określoną trudność, albo uciążliwość. Odcinek nie powinien mieć żadnego 
+związku z dziennymi etapami płynięcia.
+
+<p>Tak więc, każdy opis splywwwowego szlaku składa się z punktów, odcinków, ich opisów oraz opisu posumowującego cały 
+szlaku. Aby przygotować opis szlaku trzeba opisać każdy z tych elementów.
+
+<h4>Praca z AOS</h4>
+
+<p>Po uruchomieniu AOS mamy do wyboru trzy zakładki: "Szlak", "Punkty", "Odcinki".  Opisywanie szlaku wymaga pracy na
+każdej z tych zakładek.</>
+
+<h5>Zakładka "Szlak"</h5>
+<p>Zawiera nazwę szlak i jego opis jako całości:
+<img src="img/aos1.png">
+<p>Nazwa powinna być krótka i zgodna z tym jak kajakarze mówią na opisywany szlak. Opis szlaku to pole tekstowe, w którym 
+powinno się znaleźć 5-10 zdań opisujących ogólną charakterystykę szlaku.
+
+<h5>Zakładka "Punkty"</h5> 
+<p>Jest chyba najważniejszym etapem tworzenia opisu:
+<img src="img/aos2.png">
+<p>Opiszmy po kolei, co możemy znaleźć w tym oknie. Po lewej stronie jest pole z listą wszystkich punktów. Po zaznaczeniu
+jednego z nich, zobaczymy wszystkie jego parametry. Opiszmy je po kolei:
+<ul>
+<li><b>Etykieta</b> - pole pomocnicze, które na znaczenie tylko porządkowe. Na przykład może być to numer punktu w odbiorniku 
+GPS.
+<li><b>Km</b> - kilometr szlaku, na którym położony jest punkt. Ułamki piszemy z kropką, a nie przecinkiem, czyli np. 10.8
+<li><b>Miejscowość</b> - nazwa miejscowość, w której leży punkt. Może być puste, jeśli np. punkt leży w środku lasu.
+<li><b>NS WE</b> - długość i szerokość geograficzna w układzie WGS84, dwie liczby rozdzielone jednym znakiem spacji,
+np. "51.83324 20.28473"  
+<li><b>Typ punktu</b> - rodzaj punktu, czyli np. "przenoska", "most", "biwak", ...., co ważne w jednym miejscu może być
+kilka typów, np. biwak zaraz koło mostu.
+<li><b>Opis punktu</b> - tekst opisu oddzielny dla każdego z typów, czyli oddzielnie opisujemy most, a oddzielnie biwak, 
+nawet jeśli są bardzo blisko siebie.
+</ul>
+
+<p>Przyciski dodawania <b>nowy</b> i kasowania <b>usuń</b> działają dosyć intuicyjnie, a więc nie trzeba ich chyba opisywać.
+
+<p>Warto jeszcze zwrócić uwagę na przyciski <b>w górę</b> i <b>w dół</b>, które są służą do przesuwania kolejności punktów 
+na liście. Kolejnośc ta jest bardzo ważna, bo według niej będzie wyświetlany opis na stronie WWW.
+
+<h5>Zakładka "Odcinki"</h5>
+<img src="img/aos3.png">
+<p>Odcinki wprowadza się podobnie jak punkty. W lewym górnym rogu mamy ich listę, a środkową i dolną część panelu zajmują
+parametry. Pamiętajmy o odpowiednio częstym klikaniu na przycisk <b>OK</b>.
+
+<p>W prawej części zakładki mamy listę wprowadzonych już punktów. Zaznaczając na niej punkty przypisujemy je do aktualnie 
+wybranego odcinka. Do zaznaczania wielu punktów naraz należy skorzystać z klawiszy <b>Shift</b>, albo <b>Ctrl</b>.
+
+<p>Punkt może być przypisany tylko do jednego odcinka, a więc jeśli
+przypiszemy punkt należał do odcinka A, a potem przypisaliśmy go do odcinka
+B, to automatycznie przestał on należeć do odcinka A.
+
+<p>Nowo dodawane punkty nie należą do żadnego z odcinków, a więc wygodniej
+ jest zacząć opis od dodania wszystkich punktów, a dopiero potem zdefiniować
+ odcinki i przypisać do nich stworzone wcześniej punkty.
+
+<h3>Na koniec</h3>
+
+<p>Program działa, ale z pewnością nie jest idealny. Zalecamy często
+zapisywać zmiany w pliku i robić kopie zapasowe. Licho nie śpi i pewnie
+będzie starało się zepsuć przygotowywany 800km opis Wisły.
+
+<p>Na uwagi, komentarze i gotowe pliki XML czekamy pod adresem 
+<a href="mailto:redakcja@kajak.org.pl">redakcja@kajak.org.pl</a>.
+</div>			<div style="clear: both;">&nbsp;</div>
+		</div>
+		<div id="contentDown"> &nbsp;</div>
+		
+	</div>
+
+<!-- Koniec sekcji main -->
+<!-- Poczatek sekcji footer -->
+<div class="tylkodruk">
+<hr />
+<center>Materiał pochodzi z serwisu<br/><b>kajak.org.pl</b></center>
+</div>
+
+<div style="clear: both; margin:0;">&nbsp;</div>
+
+	 
+<div id="foot"> 
+<a href="/o_nas/">Grupa kajak.org.pl</a> 2001-2011 :: 
+<a href="/o_nas/misja/">Nasza misja</a> 2011- :: 
+<a href="/o_nas/copyright/">Zasady korzystania z materiałów</a> ::
+<a href="http://blog.kajak.org.pl/redakcyjny">Blog redakcyjny</a> ::
+Kontakt: <a href="mailto:redakcja@kajak.org.pl">redakcja@kajak.org.pl</a>
+</div>
+
+
+</div>
+</center>
+</body>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1560254-2");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</html>
+
+<!-- Koniec sekcji footer -->
