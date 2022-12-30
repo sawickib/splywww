@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<jnlp spec="1.0+"
+      codebase="http://kajak.org.pl/splywww/aos/" 
+      href="aos.jnlp">
+   <information>
+      <title>AOS - SplyWWW</title>
+      <vendor>Bartosz Sawicki, kajak.org.pl</vendor>
+      <description>Aplikacja Opiekuna Szlaku</description>
+      <homepage href="http://kajak.org.pl/splywww/aos/"/>
+      <description kind="short">Aplikacja do edycji opisow szlakow kajakowych
+ w serwisie Splywww kajak.org.pl.</description>
+      <offline-allowed/>
+   </information>
+   <resources>     
+   	<jar href="AOS.jar"/>   
+	<j2se version="1.6+"
+	      href="http://java.sun.com/products/autodl/j2se"/>
+   </resources>
+   <application-desc main-class="AOSgui"/>
+</jnlp>
+
